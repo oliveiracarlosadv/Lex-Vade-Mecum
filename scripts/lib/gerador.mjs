@@ -98,7 +98,7 @@ function notasRelevantes(notas) {
   return saida;
 }
 
-const RE_NORMA = /(Emenda Constitucional|Lei Complementar|Decreto-[Ll]ei|Decreto Legislativo|Decreto|Medida Provis[óo]ria|Lei)\s+n[ºo°.]*\s*([\d.]+)(?:\s*,\s*de\s*((?:\d{1,2}\.\d{1,2}\.)?\d{4}|\d{1,2}\s+de\s+\w+\s+de\s+\d{4}))?/g;
+const RE_NORMA = /(Emenda Constitucional|Lei Complementar|Decreto-[Ll]ei|Decreto Legislativo|Decreto|Medida Provis[óo]ria|Lei)\s+n[ºo°.]*\s*([\d.]+)(?:\s*,\s*(?:de\s*)?((?:\d{1,2}\.\d{1,2}\.)?\d{4}|\d{1,2}\s+de\s+\w+\s+de\s+\d{4}))?/g;
 
 export function normasCitadas(notas) {
   const mapa = new Map();

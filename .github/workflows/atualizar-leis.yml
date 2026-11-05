@@ -41,11 +41,15 @@ jobs:
 
       - name: Baixar o texto oficial e gerar os Markdown
         if: github.event_name != 'push'
+        # O Planalto costuma recusar conexões de servidores em nuvem. Quando isso
+        # acontece, o fluxo registra um aviso e segue regenerando a partir dos
+        # dados já salvos, em vez de falhar toda semana.
         run: |
-          if [ -n "${{ github.event.inputs.lei }}" ]; then
-            node scripts/atualizar.mjs --lei "${{ github.event.inputs.lei }}"
-          else
-            node scripts/atualizar.mjs
+          ALVO=""
+          if [ -n "${{ github.event.inputs.lei }}" ]; then ALVO="--lei ${{ github.event.inputs.lei }}"; fi
+          if ! node scripts/atualizar.mjs $ALVO; then
+            echo "::warning title=Planalto indisponível::O Planalto recusou a conexão do GitHub Actions. Rode 'npm run atualizar' em um computador pessoal para atualizar o texto oficial."
+            node scripts/atualizar.mjs --somente-gerar $ALVO
           fi
 
       - name: Regenerar os Markdown a partir das análises (sem baixar)
