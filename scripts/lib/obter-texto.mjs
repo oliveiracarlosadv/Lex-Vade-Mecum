@@ -19,7 +19,13 @@ function decodificar(buffer, contentType = '') {
 }
 
 export async function baixarHtml(url) {
-  const resp = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'text/html' } });
+  let resp;
+  try {
+    resp = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'text/html' } });
+  } catch (e) {
+    const causa = e.cause ? ` (${e.cause.code || ''} ${e.cause.message || e.cause})` : '';
+    throw new Error(`Não foi possível conectar a ${url}: ${e.message}${causa}`);
+  }
   const buffer = await resp.arrayBuffer();
   const html = decodificar(buffer, resp.headers.get('content-type') || '');
   if (!resp.ok) throw new Error(`O Planalto respondeu HTTP ${resp.status} para ${url}.`);
