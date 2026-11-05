@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum — ramo de oliveira em um livro aberto" width="520">
+</p>
+
 # Lex Vade Mecum
 
 Biblioteca de leis brasileiras em Markdown, extraídas diretamente do texto oficial publicado no Portal da Legislação do Planalto e estruturadas para consulta por modelos de linguagem (Claude, GPT, Cursor, Windsurf, Copilot e similares), buscas semânticas e recuperação de contexto (RAG).
@@ -58,3 +62,9 @@ Na internet, compartilha conhecimento, reflexões e experiências práticas sobr
 Sua visão combina tradição jurídica e inovação, buscando criar pontes entre o conhecimento técnico, a inteligência digital e os desafios enfrentados pelos profissionais do Direito. Essa atuação multidisciplinar o posiciona como um agente ativo na construção de uma advocacia mais moderna, estratégica e preparada para o futuro.
 
 Carlos Alexandre Albuquerque Oliveira acredita que o Direito evolui quando conhecimento, tecnologia e pessoas caminham juntos, transformando desafios em oportunidades e promovendo soluções capazes de gerar impacto real para profissionais, empresas e cidadãos.
+
+### Contato
+
+- Instagram: [@oliveiracarlosadv](https://www.instagram.com/oliveiracarlosadv)
+- E-mail: carlos.0109adv@gmail.com
+- Telefone: (91) 9 86061300
