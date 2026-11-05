@@ -8,13 +8,17 @@ Biblioteca de leis brasileiras em Markdown, extraídas diretamente do texto ofic
 
 Cada norma é mantida em duas camadas. A primeira é o texto oficial, que nunca é digitado à mão: um script baixa a página do Planalto, separa Títulos, Capítulos, Seções e artigos, registra as notas de alteração ("Redação dada pela", "Incluído pela", "Revogado pela") e grava tudo em `leis/<norma>/dados/`. A segunda é a análise jurídica (resumo, interpretação de cada artigo, pontos importantes, palavras-chave, direitos, obrigações, prazos, glossário e perguntas frequentes), escrita em `leis/<norma>/analises/`. Os arquivos finais em Markdown são gerados pela combinação das duas camadas.
 
-## Normas disponíveis
+## Acesso direto às leis
+
+Clique em "Ler on-line" para abrir a norma inteira (texto oficial com interpretação de cada artigo) diretamente no GitHub.
 
 <!-- catalogo:inicio -->
-| Norma | Tipo e número | Área | Artigos | Análise concluída | Texto obtido em | Arquivos |
-| --- | --- | --- | --- | --- | --- | --- |
-| Consolidação das Leis do Trabalho (CLT) | Decreto-Lei nº 5.452 | Direito do Trabalho e Direito Processual do Trabalho | 0 | ver índice | pendente | [índice](leis/clt/README.md), [arquivo único](leis/clt/clt-completa.md) |
+| Norma | Número | Data de publicação | Leitura on-line (arquivo inteiro) | Texto oficial |
+| --- | --- | --- | --- | --- |
+| Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) |
 <!-- catalogo:fim -->
+
+Em preparação: Constituição da República Federativa do Brasil de 1988 e Código de Processo Civil (Lei nº 13.105/2015).
 
 ## Como o repositório se mantém atualizado
 
