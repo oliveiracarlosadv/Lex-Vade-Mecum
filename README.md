@@ -1,45 +1,62 @@
+<p align="center">
+  <img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum — ramo de oliveira em um livro aberto" width="520">
+</p>
+
+<p align="center"><strong>Leis brasileiras em Markdown, fiéis ao texto oficial e prontas para IA.</strong></p>
+
 # Lex Vade Mecum
 
-Biblioteca de leis brasileiras em Markdown, extraídas diretamente do texto oficial publicado no Portal da Legislação do Planalto e estruturadas para consulta por modelos de linguagem (Claude, GPT, Cursor, Windsurf, Copilot e similares), buscas semânticas e recuperação de contexto (RAG).
+Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicado no Portal da Legislação do Planalto e estruturadas para consulta por modelos de linguagem (Claude, GPT, Cursor, Windsurf, Copilot e similares), buscas semânticas e recuperação de contexto (RAG). O repositório é pensado para servir de fonte principal em projetos do Claude.
 
-Cada norma é mantida em duas camadas. A primeira é o texto oficial, que nunca é digitado à mão: um script baixa a página do Planalto, separa Títulos, Capítulos, Seções e artigos, registra as notas de alteração ("Redação dada pela", "Incluído pela", "Revogado pela") e grava tudo em `leis/<norma>/dados/`. A segunda é a análise jurídica (resumo, interpretação de cada artigo, pontos importantes, palavras-chave, direitos, obrigações, prazos, glossário e perguntas frequentes), escrita em `leis/<norma>/analises/`. Os arquivos finais em Markdown são gerados pela combinação das duas camadas.
+## Acesso direto às leis
 
-## Normas disponíveis
+Clique em "Ler on-line" para abrir a norma inteira (texto oficial com a análise de cada artigo) diretamente no GitHub.
 
 <!-- catalogo:inicio -->
-| Norma | Tipo e número | Área | Artigos | Análise concluída | Texto obtido em | Arquivos |
-| --- | --- | --- | --- | --- | --- | --- |
-| Consolidação das Leis do Trabalho (CLT) | Decreto-Lei nº 5.452 | Direito do Trabalho e Direito Processual do Trabalho | 0 | ver índice | pendente | [índice](leis/clt/README.md), [arquivo único](leis/clt/clt-completa.md) |
+| Norma | Número | Data de publicação | Leitura on-line (arquivo inteiro) | Texto oficial |
+| --- | --- | --- | --- | --- |
+| Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) |
 <!-- catalogo:fim -->
 
-## Como o repositório se mantém atualizado
+**Em preparação:** Constituição da República Federativa do Brasil de 1988 · Código de Processo Civil (Lei nº 13.105/2015).
 
-O fluxo do GitHub Actions em `.github/workflows/atualizar-leis.yml` roda toda segunda-feira e também pode ser disparado manualmente na aba Actions. Ele baixa novamente cada norma do catálogo no Planalto, compara com a versão anterior e, quando o texto oficial muda, regrava os arquivos, registra no `CHANGELOG.md` da norma quais artigos foram incluídos, alterados ou retirados e marca com um aviso as interpretações cujo artigo mudou desde a última análise. Quando apenas uma análise é editada, o mesmo fluxo regenera os Markdown sem baixar nada.
+## O que cada arquivo contém
 
-O Planalto pode bloquear acessos automatizados vindos de servidores. Se isso acontecer, o fluxo falha com uma mensagem clara e a atualização pode ser feita em um computador pessoal, de duas formas: rodando `npm run atualizar` diretamente ou salvando a página da lei pelo navegador e usando `node scripts/atualizar.mjs --lei clt --html pagina-salva.htm`. Depois, basta enviar as alterações ao GitHub.
+Cada norma é publicada em um único arquivo `leis/<norma>/<norma>-completa.md`, sempre com a mesma estrutura:
+
+| Parte | Conteúdo |
+| --- | --- |
+| Metadados | Número, data, tipo, situação, fonte e link oficial |
+| Resumo Executivo, Objeto, Contexto Jurídico | Finalidade da norma, o que ela regula e seu lugar no ordenamento |
+| Principais Conceitos e Estrutura da Lei | Conceitos-chave e mapa de Títulos, Capítulos, Seções e artigos |
+| Texto Estruturado | Cada artigo com localização, **texto oficial integral**, alterações legislativas, interpretação, pontos importantes, palavras-chave e remissões de lei |
+| Direitos, Obrigações, Proibições, Penalidades | Leitura transversal da norma |
+| Competências, Prazos e Relação com Outras Normas | Órgãos responsáveis, prazos legais e normas citadas |
+| Glossário, Perguntas e Respostas, Palavras-chave | Apoio à consulta e à busca semântica |
+| Referências e Metadados RAG | Fonte, curadoria e termos de indexação |
+
+## Como o conteúdo é produzido
+
+1. **Texto oficial:** a página compilada da norma é aberta no Planalto e o texto é extraído sem redigitação.
+2. **Estrutura por script:** Títulos, Capítulos, Seções e artigos são separados automaticamente, preservando as notas "Redação dada pela", "Incluído pela", "Revogado pela" e "Vide".
+3. **Análise jurídica:** cada artigo recebe interpretação, pontos importantes e palavras-chave, sem contrariar o texto legal; afirmações sobre alterações recentes são conferidas no próprio texto extraído.
+4. **Montagem e validação:** um script junta texto oficial e análise, gera as remissões e as alterações de cada artigo e confere, artigo por artigo, que o texto publicado é idêntico ao oficial.
+
+O roteiro completo está documentado no prompt do processo de construção do Lex Vade Mecum.
+
+## Uso com ferramentas de IA
+
+- **Projetos do Claude:** adicione o arquivo `<norma>-completa.md` ao conhecimento do projeto.
+- **Consultas pontuais:** aponte a ferramenta para o arquivo da norma e cite o artigo (por exemplo, "LINDB, art. 28").
+- **Indexação vetorial (RAG):** divida os trechos pelos títulos `### Art.`. Cada artigo traz sua localização, o texto oficial, as alterações, a análise e as remissões, o que preserva o contexto mesmo quando o trecho é recuperado isoladamente.
 
 ## Estrutura de pastas
 
 | Caminho | Conteúdo |
 | --- | --- |
-| `leis/catalogo.json` | Lista das normas da biblioteca, com link oficial, metadados e forma de divisão em arquivos |
-| `leis/<norma>/README.md` | Índice da norma: metadados, resumo, mapa estrutural e andamento da análise (gerado) |
-| `leis/<norma>/titulos/` | Um arquivo por Título, no modelo completo de documentação (gerado) |
-| `leis/<norma>/<norma>-completa.md` | A norma inteira em um único arquivo, ideal para indexação em RAG (gerado) |
-| `leis/<norma>/analises/` | Análise jurídica escrita à mão, sem o texto oficial |
-| `leis/<norma>/dados/` | Texto oficial estruturado em JSON, extraído do Planalto (gerado) |
-| `leis/<norma>/CHANGELOG.md` | Histórico de alterações detectadas no texto oficial (gerado) |
-| `scripts/` | Extração, geração e testes |
-
-Os arquivos marcados como gerados não devem ser editados à mão, pois são sobrescritos a cada atualização.
-
-## Como incluir uma nova lei
-
-Acrescente um item em `leis/catalogo.json` com o identificador, o nome, o tipo, o número, a data, a ementa, o link do texto compilado no Planalto, a referência no padrão ABNT (com `{ACESSO}` no lugar da data de acesso) e a forma de divisão (`"particionarPor": "titulo"` para códigos e consolidações, ou `"texto"` para leis curtas, que ficam em um único arquivo). Em seguida rode `npm install` uma vez e `npm run atualizar -- --lei <identificador>`. O script cria os arquivos de análise em branco, que podem ser preenchidos aos poucos.
-
-## Uso com ferramentas de IA
-
-Para consultas pontuais, aponte a ferramenta para o arquivo do Título correspondente. Para indexação vetorial, use o arquivo `<norma>-completa.md` ou os arquivos por Título, dividindo os trechos pelos títulos `### Art.`: cada artigo traz sua localização na norma, sua situação (vigente, revogado ou vetado), as notas de alteração, o texto oficial e a análise, o que mantém o contexto mesmo quando o trecho é recuperado isoladamente.
+| `leis/<norma>/<norma>-completa.md` | A norma inteira em um único arquivo |
+| `assets/` | Logo e ícone do Lex Vade Mecum (SVG e PNG) |
+| `scripts/` e `.github/workflows/` | Ferramentas de extração e atualização automatizada |
 
 ## Aviso
 
@@ -58,3 +75,9 @@ Na internet, compartilha conhecimento, reflexões e experiências práticas sobr
 Sua visão combina tradição jurídica e inovação, buscando criar pontes entre o conhecimento técnico, a inteligência digital e os desafios enfrentados pelos profissionais do Direito. Essa atuação multidisciplinar o posiciona como um agente ativo na construção de uma advocacia mais moderna, estratégica e preparada para o futuro.
 
 Carlos Alexandre Albuquerque Oliveira acredita que o Direito evolui quando conhecimento, tecnologia e pessoas caminham juntos, transformando desafios em oportunidades e promovendo soluções capazes de gerar impacto real para profissionais, empresas e cidadãos.
+
+### Contato
+
+- Instagram: [@oliveiracarlosadv](https://www.instagram.com/oliveiracarlosadv)
+- E-mail: carlos.0109adv@gmail.com
+- Telefone: (91) 9 86061300
