@@ -1,0 +1,19 @@
+{
+  "name": "lex-vade-mecum",
+  "version": "1.0.0",
+  "description": "Biblioteca de leis brasileiras em Markdown, extraídas do Planalto e estruturadas para consulta por LLMs e RAG.",
+  "private": true,
+  "type": "module",
+  "author": "Carlos Alexandre Albuquerque Oliveira",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "atualizar": "node scripts/atualizar.mjs",
+    "gerar": "node scripts/atualizar.mjs --somente-gerar",
+    "testar": "node --test scripts/testes/*.test.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
