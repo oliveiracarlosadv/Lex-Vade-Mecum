@@ -9,7 +9,7 @@ Cada norma é mantida em duas camadas. A primeira é o texto oficial, que nunca 
 <!-- catalogo:inicio -->
 | Norma | Tipo e número | Área | Artigos | Análise concluída | Texto obtido em | Arquivos |
 | --- | --- | --- | --- | --- | --- | --- |
-| Consolidação das Leis do Trabalho (CLT) | Decreto-Lei nº 5.452 | Direito do Trabalho e Direito Processual do Trabalho | pendente | pendente | pendente | [índice](leis/clt/README.md), [arquivo único](leis/clt/clt-completa.md) |
+| Consolidação das Leis do Trabalho (CLT) | Decreto-Lei nº 5.452 | Direito do Trabalho e Direito Processual do Trabalho | 0 | ver índice | pendente | [índice](leis/clt/README.md), [arquivo único](leis/clt/clt-completa.md) |
 <!-- catalogo:fim -->
 
 ## Como o repositório se mantém atualizado
