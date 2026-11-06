@@ -38,7 +38,7 @@ Para cada norma em `fontes/<lei>/config.json`:
 
 ## Como revisar uma análise pendente
 
-1. Editar o bloco `@<parte> <número>` em `fontes/<lei>/anotacoes.txt` (linhas `I:`, `P:` e `K:`).
+1. Editar o bloco `@<parte> <número>` em `fontes/<lei>/anotacoes.txt` (linhas `I:`, `P:` e `K:`; nos temas do TST, também `T:`, o título curto que aparece ao lado do número, como em `### Tema 75 — Penhora de salário para pagamento de crédito trabalhista`).
 2. Remover a chave correspondente de `fontes/<lei>/pendentes.json`.
 3. Regenerar sem navegador: `python3 ferramentas/atualizar.py --lei <lei>`.
 

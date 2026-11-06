@@ -39,7 +39,7 @@ def ler_anotacoes(path):
         line = line.rstrip('\n')
         if line.startswith('@'):
             cur = ann.setdefault(line[1:].split()[1], {})
-        elif cur is not None and line[:3] in ('I: ', 'P: ', 'K: '):
+        elif cur is not None and line[:3] in ('I: ', 'P: ', 'K: ', 'T: '):
             cur[line[0]] = line[3:].strip()
     return ann
 
@@ -82,7 +82,8 @@ def remissoes(tese):
 
 
 def bloco(u, a, pend):
-    L = [f'### Tema {u["tema"]}\n']
+    tit = (a or {}).get('T')
+    L = [f'### Tema {u["tema"]} — {tit}\n' if tit else f'### Tema {u["tema"]}\n']
     L.append(f'**Situação (último movimento, conforme o TST):** {u["movimento"].replace(chr(10), " · ") or "—"}\n')
     L.append(f'**Há decisão de suspensão?** {u["suspensao"].replace(chr(10), " · ") or "—"}\n')
     L.append(f'**Relator(a):** {u["relator"].replace(chr(10), " · ") or "—"}\n')
@@ -116,7 +117,7 @@ def validar(md, temas):
     if len(blocos) != len(temas):
         return False, f'{len(blocos)} blocos para {len(temas)} temas'
     for u, b in zip(temas, blocos):
-        if not b.startswith(u['tema'] + '\n'):
+        if not (b.startswith(u['tema'] + '\n') or b.startswith(u['tema'] + ' — ')):
             return False, f'ordem divergente no tema {u["tema"]}'
         tx = b.split('**Tese / Questão jurídica (texto oficial):**\n', 1)[1].split('\n#### Interpretação\n', 1)[0]
         got = [unesc(l) for l in tx.split('\n') if l.strip()]
