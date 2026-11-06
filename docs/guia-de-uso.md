@@ -79,7 +79,7 @@ Selecione qualquer trecho do texto com o mouse (ou mantendo o dedo pressionado n
 - **Compartilhar** → o mesmo menu acima, enviando o trecho entre aspas, seguido da fonte (`— Art. 5º, Constituição…`) e do link.
 - **Copiar** → copia o trecho com a fonte e o link, pronto para colar em petições, e-mails ou estudos.
 - **Imagem** → gera uma imagem de citação com o trecho e a fonte.
-- **Story** → gera uma imagem vertical (1080 × 1920, formato de story do Instagram, WhatsApp e similares) com o logo do Lex Vade Mecum no topo, o trecho no centro e, no rodapé, o artigo e a lei de onde ele foi tirado. O trecho nunca é cortado: a imagem tem sempre o tamanho exato de um story e a letra diminui apenas o necessário para caber tudo (para leitura confortável, prefira trechos de até um parágrafo ou dois). No celular, abre direto a tela de compartilhamento; no computador, vai para Downloads.
+- **Story** → gera uma imagem vertical (1080 × 1920, formato de story do Instagram, WhatsApp e similares) com o logo do Lex Vade Mecum no topo, o trecho no centro e, no rodapé, o artigo e a lei de onde ele foi tirado. O texto sai justificado como em livro, com separação silábica para evitar espaços largos entre as palavras, e nunca é cortado: a imagem tem sempre o tamanho exato de um story e a letra diminui apenas o necessário para caber tudo (para leitura confortável, prefira trechos de até um parágrafo ou dois). No celular, abre direto a tela de compartilhamento; no computador, vai para Downloads.
 
 A barra some ao clicar fora ou ao teclar Esc.
 
