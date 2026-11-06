@@ -13,11 +13,11 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 Clique em "Ler on-line" para abrir a norma inteira (texto oficial com a análise de cada artigo) diretamente no GitHub.
 
 <!-- catalogo:inicio -->
-| Norma | Número | Data de publicação | Leitura on-line (arquivo inteiro) | Texto oficial |
-| --- | --- | --- | --- | --- |
-| Constituição da República Federativa do Brasil de 1988 | — (compilada até a EC nº 141/2026) | 5 de outubro de 1988 (DOU nº 191-A) | [Ler on-line](leis/constituicao-federal/constituicao-federal-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm) |
-| Código de Processo Civil (CPC) | Lei nº 13.105 | 16 de março de 2015 (DOU de 17.3.2015) | [Ler on-line](leis/cpc/cpc-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) |
-| Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) |
+| Norma | Número | Data de publicação | Leitura on-line (arquivo inteiro) | Texto oficial | Conferido com o Planalto em |
+| --- | --- | --- | --- | --- | --- |
+| Constituição da República Federativa do Brasil de 1988 | — (compilada até a EC nº 141/2026) | 5 de outubro de 1988 (DOU nº 191-A) | [Ler on-line](leis/constituicao-federal/constituicao-federal-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm) | 06/11/2026 |
+| Código de Processo Civil (CPC) | Lei nº 13.105 | 16 de março de 2015 (DOU de 17.3.2015) | [Ler on-line](leis/cpc/cpc-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) | 06/11/2026 |
+| Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) | 06/11/2026 |
 <!-- catalogo:fim -->
 
 
@@ -36,14 +36,15 @@ Cada norma é publicada em um único arquivo `leis/<norma>/<norma>-completa.md`,
 | Glossário, Perguntas e Respostas, Palavras-chave | Apoio à consulta e à busca semântica |
 | Referências e Metadados RAG | Fonte, curadoria e termos de indexação |
 
-## Como o conteúdo é produzido
+## Como o conteúdo é produzido e mantido atual
 
-1. **Texto oficial:** a página compilada da norma é aberta no Planalto e o texto é extraído sem redigitação.
+1. **Texto oficial:** a página compilada da norma é aberta no Planalto e o texto vigente é extraído sem redigitação. Redações antigas tachadas são descartadas; dispositivos revogados e expressões afastadas aparecem ~~tachados~~, como no Planalto.
 2. **Estrutura por script:** Títulos, Capítulos, Seções e artigos são separados automaticamente, preservando as notas "Redação dada pela", "Incluído pela", "Revogado pela" e "Vide".
-3. **Análise jurídica:** cada artigo recebe interpretação, pontos importantes e palavras-chave, sem contrariar o texto legal; afirmações sobre alterações recentes são conferidas no próprio texto extraído.
-4. **Montagem e validação:** um script junta texto oficial e análise, gera as remissões e as alterações de cada artigo e confere, artigo por artigo, que o texto publicado é idêntico ao oficial.
+3. **Análise jurídica:** cada artigo recebe interpretação, pontos importantes e palavras-chave, sem contrariar o texto legal.
+4. **Validação:** um script confere, artigo por artigo, que o texto publicado é idêntico ao oficial antes de qualquer publicação.
+5. **Conferência semanal:** toda semana o texto de cada norma é extraído de novo do Planalto e comparado com o publicado. Se algum artigo mudar, o texto é atualizado no mesmo dia, a análise do artigo recebe o aviso "pendente de revisão" e a mudança entra no `CHANGELOG.md` da norma. A data da última conferência aparece na tabela acima.
 
-O roteiro completo está documentado no prompt do processo de construção do Lex Vade Mecum.
+Detalhes técnicos em [`ferramentas/LEIA-ME.md`](ferramentas/LEIA-ME.md).
 
 ## Uso com ferramentas de IA
 
@@ -56,8 +57,9 @@ O roteiro completo está documentado no prompt do processo de construção do Le
 | Caminho | Conteúdo |
 | --- | --- |
 | `leis/<norma>/<norma>-completa.md` | A norma inteira em um único arquivo |
+| `fontes/<norma>/` | Texto oficial de referência, análises de cada artigo, histórico de alterações e configuração |
+| `ferramentas/` | Extração do Planalto, atualização, montagem e validação |
 | `assets/` | Logo e ícone do Lex Vade Mecum (SVG e PNG) |
-| `scripts/` e `.github/workflows/` | Ferramentas de extração e atualização automatizada |
 
 ## Aviso
 

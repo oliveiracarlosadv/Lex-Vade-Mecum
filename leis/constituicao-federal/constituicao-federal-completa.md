@@ -12,7 +12,7 @@
 | Partes | Preâmbulo; corpo permanente (arts. 1º a 250); Ato das Disposições Constitucionais Transitórias (ADCT) |
 | Fonte oficial | Portal da Legislação — Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos) |
 | Link oficial | https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm |
-| Texto obtido em | 5 de novembro de 2026 |
+| Texto obtido em | 6 de novembro de 2026 |
 
 ## Resumo Executivo
 
@@ -5559,7 +5559,7 @@ Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Dis
 
 § 10. Antes da expedição dos precatórios, o Tribunal solicitará à Fazenda Pública devedora, para resposta em até 30 (trinta) dias, sob pena de perda do direito de abatimento, informação sobre os débitos que preencham as condições estabelecidas no § 9º, para os fins nele previstos. (Incluído pela Emenda Constitucional nº 62, de 2009). (Vide ADI 4425)
 
-§ 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, com auto aplicabilidade para a União, a oferta de créditos líquidos e certos que originalmente lhe são próprios ou adquiridos de terceiros reconhecidos pelo ente federativo ou por decisão judicial transitada em julgado para: (Redação dada pela Emenda Constitucional nº 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)
+§ 11. É facultada ao credor, conforme estabelecido em lei do ente federativo devedor, ~~com auto aplicabilidade para a União~~, a oferta de créditos líquidos e certos que originalmente lhe são próprios ou adquiridos de terceiros reconhecidos pelo ente federativo ou por decisão judicial transitada em julgado para: (Redação dada pela Emenda Constitucional nº 113, de 2021) (Vide ADI 7047) (Vide ADI 7064)
 
 I - quitação de débitos parcelados ou débitos inscritos em dívida ativa do ente federativo devedor, inclusive em transação resolutiva de litígio, e, subsidiariamente, débitos com a administração autárquica e fundacional do mesmo ente; (Incluído pela Emenda Constitucional nº 113, de 2021)
 
@@ -5659,7 +5659,7 @@ IV - o Estado, o Distrito Federal ou o Município ficará impedido de receber tr
 
 #### Interpretação
 
-Disciplina o regime de precatórios: pagamentos devidos pelas Fazendas Públicas em virtude de sentença judicial seguem a ordem cronológica de apresentação, vedada a designação de casos ou pessoas. Créditos alimentares têm preferência, com superpreferência para idosos, portadores de doença grave e pessoas com deficiência. Obrigações de pequeno valor (RPV) dispensam precatório. Trata de prazos de inclusão no orçamento, atualização monetária, compensação, cessão de créditos, utilização de créditos para quitação de débitos e regimes especiais, com alterações de diversas emendas (inclusive a EC nº 136/2025).
+Disciplina o regime de precatórios: pagamentos devidos pelas Fazendas Públicas em virtude de sentença judicial seguem a ordem cronológica de apresentação, vedada a designação de casos ou pessoas. Créditos alimentares têm preferência, com superpreferência para idosos, portadores de doença grave e pessoas com deficiência. Obrigações de pequeno valor (RPV) dispensam precatório. Trata de prazos de inclusão no orçamento, atualização monetária, compensação, cessão de créditos, utilização de créditos para quitação de débitos e regimes especiais, com alterações de diversas emendas (inclusive a EC nº 136/2025). No § 11, o texto oficial exibe tachada a expressão "com auto aplicabilidade para a União", afastada pelo STF nas ADIs 7.047 e 7.064, indicadas no próprio dispositivo.
 
 #### Pontos Importantes
 

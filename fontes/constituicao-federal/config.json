@@ -1,0 +1,25 @@
+{
+ "nome": "Constituição da República Federativa do Brasil de 1988",
+ "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm",
+ "saida": "leis/constituicao-federal/constituicao-federal-completa.md",
+ "minimo_artigos": 420,
+ "parts": [
+  {
+   "id": "CF",
+   "start": "Nós, representantes do povo brasileiro",
+   "end": "Brasília, 5 de outubro de 1988",
+   "preamble": true,
+   "self_name": "Constituição Federal",
+   "root_name": "Preâmbulo"
+  },
+  {
+   "id": "ADCT",
+   "start": "ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS",
+   "end": "Brasília, 5 de outubro de 1988",
+   "label_prefix": "ADCT — ",
+   "self_name": "Constituição Federal",
+   "root_name": "Ato das Disposições Constitucionais Transitórias",
+   "loc_prefix": "Ato das Disposições Constitucionais Transitórias"
+  }
+ ]
+}

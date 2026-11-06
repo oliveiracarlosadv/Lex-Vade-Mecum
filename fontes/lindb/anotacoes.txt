@@ -1,0 +1,149 @@
+@L 1
+I: Fixa a regra geral de vigência das leis: salvo disposição em contrário, a lei começa a vigorar em todo o país 45 dias após a publicação oficial (vacatio legis). Nos Estados estrangeiros, quando admitida, a obrigatoriedade começa três meses após a publicação. Nova publicação para correção antes da vigência reinicia o prazo; correção de lei já em vigor é considerada lei nova.
+P: Vacatio legis supletiva de 45 dias, aplicável quando a própria lei não fixar a data de vigência || Prazo de três meses para obrigatoriedade no exterior (§ 1º) || Correção de texto já vigente exige nova lei (§ 4º)
+K: vigência da lei; vacatio legis; 45 dias; publicação oficial; obrigatoriedade da lei no exterior; correção de lei
+
+@L 2
+I: Consagra o princípio da continuidade das leis: a lei não temporária vigora até que outra a modifique ou revogue. A revogação pode ser expressa ou tácita (incompatibilidade ou regulação integral da matéria). Lei nova com disposições gerais ou especiais a par das existentes não revoga a anterior. Não há repristinação automática: a lei revogada não volta a vigorar quando a revogadora perde a vigência, salvo disposição expressa.
+P: Revogação expressa ou tácita (§ 1º) || Coexistência entre normas gerais e especiais (§ 2º) || Vedação da repristinação tácita (§ 3º)
+K: revogação; continuidade das leis; revogação tácita; lei especial; lei geral; repristinação
+
+@L 3
+I: Estabelece o princípio da obrigatoriedade das leis: ninguém se escusa de cumprir a lei alegando desconhecê-la. A regra garante a eficácia geral do ordenamento e a segurança jurídica.
+P: Presunção de conhecimento da lei após a publicação || Ignorância da lei não exime do cumprimento || Exceções pontuais em leis específicas (ex.: erro de proibição no direito penal)
+K: obrigatoriedade da lei; ignorância da lei; segurança jurídica; publicidade das leis
+
+@L 4
+I: Veda o non liquet e regula a integração do ordenamento: quando a lei for omissa, o juiz decide o caso de acordo com a analogia, os costumes e os princípios gerais de direito. É a base da colmatação de lacunas no direito brasileiro.
+P: O juiz não pode deixar de decidir por falta de lei || Meios de integração: analogia, costumes e princípios gerais de direito || Ordem tradicionalmente indicada pela doutrina, sem prejuízo da força normativa dos princípios constitucionais
+K: lacunas da lei; integração do direito; analogia; costumes; princípios gerais de direito; non liquet
+
+@L 5
+I: Fixa critério de interpretação teleológica e social: na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum.
+P: Interpretação teleológica ou finalística || Fins sociais e bem comum como vetores || Complementa os métodos literal, sistemático e histórico
+K: interpretação da lei; fins sociais; bem comum; hermenêutica; interpretação teleológica
+
+@L 6
+I: Disciplina o direito intertemporal: a lei em vigor tem efeito imediato e geral, respeitados o ato jurídico perfeito, o direito adquirido e a coisa julgada. Define cada um desses institutos nos §§ 1º a 3º. A proteção é reforçada pelo art. 5º, XXXVI, da Constituição.
+P: Efeito imediato e geral, sem retroatividade que atinja situações consolidadas || Ato jurídico perfeito: consumado segundo a lei do tempo; direito adquirido: exercível pelo titular; coisa julgada: decisão irrecorrível || Garantia com status constitucional (CF, art. 5º, XXXVI)
+K: direito intertemporal; irretroatividade; ato jurídico perfeito; direito adquirido; coisa julgada; segurança jurídica
+
+@L 7
+I: Adota o domicílio como elemento de conexão para o estatuto pessoal: a lei do país de domicílio da pessoa determina regras sobre começo e fim da personalidade, nome, capacidade e direitos de família. Regula casamento celebrado no Brasil, casamento consular de estrangeiros, invalidade do matrimônio, regime de bens, adoção da comunhão parcial pelo estrangeiro naturalizado, reconhecimento de divórcio estrangeiro e domicílio de incapazes e de quem não tem domicílio.
+P: Lei do domicílio rege personalidade, nome, capacidade e família || Casamento no Brasil segue a lei brasileira quanto a impedimentos dirimentes e formalidades (§ 1º) || Regime de bens obedece à lei do domicílio dos nubentes ou do primeiro domicílio conjugal (§ 4º)
+K: direito internacional privado; estatuto pessoal; lei do domicílio; capacidade; casamento; regime de bens; divórcio estrangeiro
+
+@L 8
+I: Para qualificar e regular os bens, aplica-se a lei do país onde estiverem situados (lex rei sitae). Bens móveis trazidos pelo proprietário ou destinados a transporte seguem a lei do domicílio do proprietário; o penhor segue a lei do domicílio de quem tem a posse da coisa empenhada.
+P: Regra geral: lei da situação dos bens || Bens móveis em trânsito: lei do domicílio do proprietário (§ 1º) || Penhor: lei do domicílio do possuidor da coisa (§ 2º)
+K: lex rei sitae; bens; direito internacional privado; bens móveis; penhor
+
+@L 9
+I: Para qualificar e reger as obrigações, aplica-se a lei do país em que se constituírem (lex loci celebrationis). Obrigação a ser executada no Brasil que dependa de forma essencial observará essa forma, admitidas peculiaridades da lei estrangeira quanto aos requisitos extrínsecos. A obrigação contratual reputa-se constituída no lugar em que residir o proponente.
+P: Lei do local de constituição da obrigação || Forma essencial brasileira para execução no Brasil (§ 1º) || Contrato entre ausentes: lugar de residência do proponente (§ 2º)
+K: obrigações internacionais; lex loci celebrationis; contratos internacionais; proponente; direito internacional privado
+
+@L 10
+I: A sucessão por morte ou ausência obedece à lei do país de domicílio do falecido ou desaparecido, qualquer que seja a natureza e situação dos bens. A sucessão de bens de estrangeiros situados no Brasil segue a lei brasileira em benefício do cônjuge ou filhos brasileiros, salvo se a lei pessoal do falecido lhes for mais favorável. A capacidade para suceder é regida pela lei do domicílio do herdeiro ou legatário.
+P: Unidade sucessória pela lei do último domicílio || Regra mais favorável ao cônjuge e filhos brasileiros (§ 1º; CF, art. 5º, XXXI) || Capacidade para suceder: lei do domicílio do herdeiro (§ 2º)
+K: sucessão internacional; lei do domicílio do de cujus; herança; capacidade sucessória; direito internacional privado
+
+@L 11
+I: As organizações de interesse coletivo, como sociedades e fundações, obedecem à lei do Estado em que se constituírem. Para ter filiais ou estabelecimentos no Brasil, dependem de aprovação dos atos constitutivos pelo Governo brasileiro. Governos estrangeiros e suas organizações não podem adquirir imóveis no Brasil, salvo os prédios necessários às sedes diplomáticas e consulares.
+P: Pessoa jurídica regida pela lei do local de constituição || Funcionamento no Brasil depende de autorização governamental (§ 1º) || Restrição à aquisição de imóveis por governos estrangeiros, com exceção das sedes diplomáticas (§§ 2º e 3º)
+K: pessoas jurídicas estrangeiras; sociedades estrangeiras; fundações; autorização de funcionamento; imóveis de governos estrangeiros
+
+@L 12
+I: Define a competência internacional da autoridade judiciária brasileira: quando o réu for domiciliado no Brasil ou aqui tiver de ser cumprida a obrigação. Ações relativas a imóveis situados no Brasil são de competência exclusiva da Justiça brasileira. Diligências deprecadas por autoridade estrangeira são cumpridas após o exequatur, na forma da lei brasileira.
+P: Competência concorrente: réu domiciliado no Brasil ou obrigação a cumprir aqui || Competência exclusiva para ações sobre imóveis no Brasil (§ 1º) || Cartas rogatórias dependem de exequatur, hoje concedido pelo STJ (CF, art. 105, I, i)
+K: competência internacional; jurisdição brasileira; imóveis situados no Brasil; carta rogatória; exequatur
+
+@L 13
+I: A prova dos fatos ocorridos no estrangeiro rege-se pela lei do país onde ocorreram quanto ao ônus e aos meios de produção, mas os tribunais brasileiros não admitem provas que a lei brasileira desconheça.
+P: Lex loci quanto ao ônus e aos meios de prova || Limite: meios de prova desconhecidos pela lei brasileira || Aplicação conjunta com as regras processuais do CPC
+K: prova de fatos no estrangeiro; ônus da prova; meios de prova; direito internacional privado
+
+@L 14
+I: Se o juiz não conhecer a lei estrangeira, pode exigir de quem a invoca a prova do texto e da vigência.
+P: O direito estrangeiro pode ter de ser provado pela parte || Prova do texto e da vigência || Regra repetida no CPC (art. 376)
+K: prova do direito estrangeiro; lei estrangeira; vigência; ônus da parte
+
+@L 15
+I: Enumera os requisitos para execução no Brasil de sentença estrangeira: juiz competente, citação regular das partes ou revelia legalmente verificada, trânsito em julgado com formalidades para execução, tradução por intérprete autorizado e homologação. O texto menciona o STF, mas remete ao art. 105, I, i, da Constituição, que atribuiu a homologação ao STJ (EC nº 45/2004).
+P: Requisitos cumulativos para a eficácia da sentença estrangeira || Homologação hoje compete ao STJ || Parágrafo único revogado pela Lei nº 12.036/2009
+K: sentença estrangeira; homologação; STJ; requisitos; tradução juramentada; trânsito em julgado
+
+@L 16
+I: Proíbe o reenvio (retorno): quando houver de aplicar a lei estrangeira, considera-se a disposição material dela, sem levar em conta remissão que ela faça a outra lei.
+P: Vedação do reenvio ou devolução || Aplica-se a lei material estrangeira indicada || Garante previsibilidade na solução do conflito de leis
+K: reenvio; devolução; direito internacional privado; lei estrangeira; conflito de leis
+
+@L 17
+I: As leis, atos e sentenças de outro país, e quaisquer declarações de vontade, não têm eficácia no Brasil quando ofenderem a soberania nacional, a ordem pública e os bons costumes.
+P: Cláusula de ordem pública como limite à aplicação do direito estrangeiro || Abrange leis, atos, sentenças e declarações de vontade || Filtro aplicado também na homologação de sentenças estrangeiras
+K: ordem pública; soberania nacional; bons costumes; eficácia de lei estrangeira; limites
+
+@L 18
+I: Atribui às autoridades consulares brasileiras competência para celebrar casamento e demais atos de registro civil e tabelionato de brasileiros, inclusive registro de nascimento e óbito de filhos de brasileiros nascidos no país da sede do consulado. Desde a Lei nº 12.874/2013, podem também celebrar separação e divórcio consensuais, sem filhos menores ou incapazes, com assistência obrigatória de advogado.
+P: Consulados exercem funções de registro civil e notariais para brasileiros || Separação e divórcio consensuais consulares sem filhos menores ou incapazes (§ 1º) || Assistência de advogado é indispensável (§ 2º)
+K: autoridade consular; registro civil; casamento consular; divórcio consular; escritura pública; advogado
+
+@L 19
+I: Convalida os atos de registro civil e tabelionato celebrados por cônsules brasileiros na vigência do Decreto-Lei nº 4.657/1942, desde que satisfeitos os requisitos legais, e permitiu renovar, em 90 dias, pedidos antes recusados.
+P: Regra de convalidação incluída pela Lei nº 3.238/1957 || Validade condicionada aos requisitos legais || Prazo de 90 dias para renovar pedidos recusados, já exaurido
+K: convalidação; atos consulares; registro civil; norma transitória
+
+@L 20
+I: Introduz o consequencialismo decisório: nas esferas administrativa, controladora e judicial, não se decide com base em valores jurídicos abstratos sem considerar as consequências práticas da decisão. A motivação deve demonstrar a necessidade e a adequação da medida imposta ou da invalidação, inclusive diante das alternativas possíveis.
+P: Aplica-se a juízes, administradores e órgãos de controle (como Tribunais de Contas) || Dever de considerar as consequências práticas || Motivação com análise de necessidade, adequação e alternativas (parágrafo único)
+K: consequencialismo; valores jurídicos abstratos; motivação; segurança jurídica; Lei nº 13.655/2018; esfera controladora
+
+@L 21
+I: A decisão que invalidar ato, contrato, ajuste, processo ou norma administrativa deve indicar expressamente suas consequências jurídicas e administrativas e, quando for o caso, as condições para regularização proporcional e equânime, sem impor aos atingidos ônus ou perdas anormais ou excessivos.
+P: Dever de explicitar os efeitos da invalidação || Regularização proporcional e equânime || Vedação de ônus anormais ou excessivos aos atingidos
+K: invalidação de atos; nulidade; consequências jurídicas; regularização; proporcionalidade; contratos administrativos
+
+@L 22
+I: Na interpretação de normas sobre gestão pública, consideram-se os obstáculos e dificuldades reais do gestor e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos dos administrados. Na avaliação de condutas e na aplicação de sanções, consideram-se as circunstâncias práticas, a natureza e a gravidade da infração, os danos, agravantes, atenuantes e antecedentes, e as sanções anteriores de mesma natureza pelo mesmo fato.
+P: Primazia da realidade na avaliação do gestor público || Critérios de dosimetria das sanções (§ 2º) || Compensação entre sanções de mesma natureza sobre o mesmo fato (§ 3º)
+K: gestão pública; primazia da realidade; dosimetria; sanções administrativas; gestor público; circunstâncias práticas
+
+@L 23
+I: A decisão que estabelecer interpretação ou orientação nova sobre norma de conteúdo indeterminado, impondo novo dever ou condicionamento de direito, deve prever regime de transição quando indispensável para que o cumprimento seja proporcional, equânime e eficiente.
+P: Dever de regime de transição em mudanças interpretativas || Aplica-se a normas de conteúdo indeterminado || Proteção da confiança legítima
+K: regime de transição; mudança de interpretação; segurança jurídica; proteção da confiança; conceito jurídico indeterminado
+
+@L 24
+I: A revisão da validade de ato, contrato, ajuste, processo ou norma administrativa já completados leva em conta as orientações gerais da época, vedada a invalidação de situações plenamente constituídas com base em mudança posterior de orientação. Orientações gerais incluem atos públicos de caráter geral, jurisprudência judicial ou administrativa majoritária e prática administrativa reiterada e de amplo conhecimento.
+P: Irretroatividade de nova orientação geral sobre situações constituídas || Definição de orientações gerais (parágrafo único) || Concretiza a segurança jurídica e a boa-fé
+K: orientações gerais; irretroatividade de interpretação; situações constituídas; jurisprudência administrativa; segurança jurídica
+
+@L 25
+I: Dispositivo vetado na sanção da Lei nº 13.655/2018. Mantido no texto compilado apenas para registro da numeração.
+P: Sem conteúdo normativo || Veto registrado no texto oficial || Numeração preservada
+K: vetado; Lei nº 13.655/2018
+
+@L 26
+I: Autoriza a autoridade administrativa a celebrar compromisso com os interessados para eliminar irregularidade, incerteza jurídica ou situação contenciosa na aplicação do direito público, inclusive na expedição de licenças, após oitiva do órgão jurídico e, se for o caso, consulta pública, presentes razões de relevante interesse geral. O compromisso só produz efeitos após publicação oficial, deve buscar solução proporcional e prever obrigações, prazos e sanções, sem conferir desoneração permanente de dever reconhecido por orientação geral.
+P: Base legal geral para acordos administrativos (termos de compromisso) || Requisitos: oitiva jurídica, interesse geral relevante e publicação || Conteúdo mínimo: obrigações claras, prazo e sanções (§ 1º, IV)
+K: compromisso administrativo; consensualidade; acordo administrativo; termo de ajustamento; consulta pública; direito público
+
+@L 27
+I: A decisão do processo administrativo, controlador ou judicial pode impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos. A decisão deve ser motivada, com oitiva prévia das partes, e pode ser precedida de compromisso processual.
+P: Compensação por benefícios indevidos ou prejuízos anormais || Contraditório prévio sobre cabimento, forma e valor (§ 1º) || Possibilidade de compromisso processual (§ 2º)
+K: compensação; prejuízos anormais; benefícios indevidos; compromisso processual; processo administrativo
+
+@L 28
+I: O agente público responde pessoalmente por suas decisões ou opiniões técnicas apenas em caso de dolo ou erro grosseiro. O dispositivo protege o gestor de boa-fé e o parecerista técnico, exigindo culpa grave para a responsabilização pessoal.
+P: Responsabilidade pessoal limitada a dolo ou erro grosseiro || Alcança decisões e opiniões técnicas (pareceres) || O Decreto nº 9.830/2019 regulamenta o conceito de erro grosseiro
+K: responsabilidade do agente público; erro grosseiro; dolo; parecer técnico; gestor público; segurança jurídica
+
+@L 29
+I: A edição de atos normativos por autoridade administrativa, salvo os de mera organização interna, pode ser precedida de consulta pública, preferencialmente eletrônica, cujas manifestações devem ser consideradas na decisão. A convocação traz a minuta do ato, o prazo e as condições da consulta.
+P: Participação social na produção normativa administrativa || Consulta preferencialmente eletrônica || Manifestações devem ser consideradas na decisão
+K: consulta pública; participação social; atos normativos; regulação; transparência
+
+@L 30
+I: As autoridades públicas devem atuar para aumentar a segurança jurídica na aplicação das normas, inclusive por regulamentos, súmulas administrativas e respostas a consultas, que terão caráter vinculante para o órgão ou entidade a que se destinam, até ulterior revisão.
+P: Dever de promover segurança jurídica || Instrumentos: regulamentos, súmulas administrativas e respostas a consultas || Efeito vinculante interno até revisão
+K: segurança jurídica; súmula administrativa; resposta a consulta; efeito vinculante; regulamentos
