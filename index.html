@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lex Vade Mecum</title>
+<meta name="author" content="Carlos Alexandre Albuquerque Oliveira">
 <meta name="description" content="Lex Vade Mecum — consulta on-line de leis brasileiras com o texto oficial atualizado e a análise de cada artigo.">
 <link rel="icon" href="assets/lex-vade-mecum-icone.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -51,6 +52,7 @@ button,input,select{font:inherit;color:inherit}
 .marca img{width:42px;height:42px}
 .marca .nome{font-family:var(--display);line-height:1}
 .marca .nome b{display:block;font-size:26px;font-weight:700;letter-spacing:.12em}
+.marca .nome .por{display:block;font-family:var(--serif);font-style:italic;font-size:11.5px;letter-spacing:.02em;color:var(--tinta2);margin-top:3px;white-space:nowrap}
 .marca .nome i{display:block;font-style:normal;font-size:15px;letter-spacing:.18em;font-variant:small-caps;color:var(--titulo2);margin-top:2px}
 .busca{flex:1;display:flex;gap:8px;align-items:center;max-width:720px;margin-left:auto}
 .busca input[type=search]{flex:1;min-width:0;padding:10px 14px;border:1px solid var(--fio);border-radius:999px;background:var(--papel2);font-family:var(--ui);font-size:15px}
@@ -132,11 +134,12 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .aviso-rapido.on{opacity:1}
 #areaImpressao,#fabricaImagem{display:none}
 #fabricaImagem.ativa{display:block;position:fixed;left:-20000px;top:0}
-.story-img{width:1080px;height:1920px;background:#FBF8F0;color:#2A2925;display:flex;flex-direction:column;box-sizing:border-box;padding:150px 120px 140px;font-family:var(--serif);position:relative}
+.story-img{width:1080px;height:1920px;overflow:hidden;background:#FBF8F0;color:#2A2925;display:flex;flex-direction:column;box-sizing:border-box;padding:150px 120px 140px;font-family:var(--serif);position:relative}
 .st-moldura{position:absolute;left:44px;top:44px;right:44px;bottom:44px;border:2px solid #D9D0BA;border-radius:8px}
 .st-topo{text-align:center;padding-bottom:56px;border-bottom:2px solid #384A2C;position:relative}
 .st-topo img{width:600px;height:auto}
-.st-meio{flex:1;display:flex;flex-direction:column;justify-content:center;position:relative}
+.st-meio{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;position:relative}
+.st-caixa{margin:auto 0}
 .st-aspas{font-family:var(--display);font-size:220px;line-height:1;height:130px;color:#46712A;margin-left:-8px}
 .st-texto{line-height:1.5;text-align:left;hyphens:none}
 .st-rodape{border-top:2px solid #384A2C;padding-top:48px;text-align:center;position:relative}
@@ -198,6 +201,8 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
 .capa{text-align:center}
 .capa img{width:min(420px, 80%);height:auto;margin:6px auto 10px;display:block}
 .capa .titulo-indice{font-family:var(--display);font-weight:600;font-variant:small-caps;letter-spacing:.1em;font-size:24px;color:var(--titulo);margin:26px 0 0}
+.capa .assinatura{font-family:var(--display);font-size:clamp(19px,1.8vw,23px);letter-spacing:.04em;color:var(--titulo);margin:0 0 14px}
+.capa .assinatura a{color:inherit;font-style:italic;text-decoration:none;border-bottom:1px solid var(--fio)}
 .capa .lema{font-style:italic;color:var(--tinta2);max-width:32em;margin:0 auto}
 .cartoes{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px;margin-top:22px;text-align:left}
 .cartao{background:var(--papel2);border:1px solid var(--fio);border-radius:4px;padding:14px 16px;cursor:pointer;text-align:left;font-family:var(--serif)}
@@ -258,7 +263,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
   <button class="btn menu-btn" id="menuBtn" aria-label="Abrir o menu de leis">☰</button>
   <a class="marca" href="#/" title="Lex Vade Mecum — início">
     <img src="assets/lex-vade-mecum-icone.svg" alt="Lex Vade Mecum">
-    <span class="nome"><b>LEX</b><i>Vade Mecum</i></span>
+    <span class="nome"><b>LEX</b><i>Vade Mecum</i><small class="por">by Carlos A. A. Oliveira</small></span>
   </a>
   <form class="busca" id="formBusca" role="search">
     <input type="search" id="q" placeholder="Buscar palavra, redação ou artigo — ex.: art. 5º, tema 75, dano moral" autocomplete="off" aria-label="Buscar">
@@ -530,12 +535,13 @@ function abrirSecao(id, sl) {
   return true;
 }
 function rodape() {
-  return `<div class="rodape"><b>Lex Vade Mecum</b> — texto oficial reproduzido das fontes oficiais (Planalto e TST) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
+  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto e TST) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
 }
 function inicio() {
   atual = null; desenharMenu(); desenharSumario();
   $('#conteudo').innerHTML = `<div class="capa">
     <img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum">
+    <p class="assinatura">Lex Vade Mecum <a href="#/sobre">by Carlos A. A. Oliveira</a></p>
     <p class="lema">Leis brasileiras com o texto oficial sempre atualizado e a análise de cada artigo, reunidas para consulta.</p>
     <div class="vinheta">❦</div>
     <h2 class="titulo-indice">Leis disponíveis</h2>
@@ -675,14 +681,26 @@ function carregarH2C() {
   }));
 }
 function htmlStory(pac, lei) {
-  const t = pac.citacao.length > 900 ? pac.citacao.slice(0, 880).replace(/\s+\S*$/, '') + '…' : pac.citacao;
-  const n = t.length; const fs = n < 120 ? 76 : n < 200 ? 68 : n < 320 ? 60 : n < 480 ? 54 : n < 650 ? 48 : 42;
+  const t = pac.citacao; // trecho inteiro, nunca cortado: a fonte é ajustada em ajustarStory()
+  const fs = 76;
   const x = pac.uid && dadosUnidade(pac.uid);
   return `<div class="story-img"><div class="st-moldura"></div>
     <div class="st-topo"><img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum"></div>
-    <div class="st-meio"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px">${esc(t).replace(/\n/g, '<br>')}</div></div>
+    <div class="st-meio"><div class="st-caixa"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px">${esc(t).replace(/\n/g, '<br>')}</div></div></div>
     <div class="st-rodape">${x ? `<div class="st-disp">${esc(x.u.head)}</div>` : ''}<div class="st-lei">${esc(lei ? lei.nome : pac.fonte)}</div>${lei && lei.numero ? `<div class="st-num">${esc(lei.numero)}</div>` : ''}<div class="st-site">oliveiracarlosadv.github.io/Lex-Vade-Mecum</div></div>
   </div>`;
+}
+// Reduz a fonte do trecho até ele caber inteiro no story (1080 x 1920), sem cortar nada.
+function ajustarStory(card) {
+  const meio = card.querySelector('.st-meio'), caixa = card.querySelector('.st-caixa'), tx = card.querySelector('.st-texto'), aspas = card.querySelector('.st-aspas');
+  let fs = parseFloat(tx.style.fontSize);
+  // margem de segurança de 4%: o gerador de imagem refaz a quebra de linhas e pode ocupar um pouco mais
+  const cabe = () => caixa.offsetHeight <= meio.clientHeight * 0.96;
+  while (!cabe() && fs > 12) {
+    fs -= fs > 30 ? 2 : 1; tx.style.fontSize = fs + 'px';
+    if (fs < 40) aspas.style.display = 'none';
+  }
+  tx.style.lineHeight = fs < 30 ? '1.4' : '1.5';
 }
 async function gerarImagem(pac, formato) {
   aviso('Gerando a imagem…');
@@ -702,7 +720,9 @@ async function gerarImagem(pac, formato) {
   try {
     await carregarH2C();
     if (document.fonts && document.fonts.ready) await document.fonts.ready;
-    const canvas = await window.html2canvas(fab.firstElementChild, { scale: 1, backgroundColor: '#FBF8F0', logging: false });
+    if (formato === 'story') ajustarStory(fab.firstElementChild);
+    const tam = formato === 'story' ? { width: 1080, height: 1920, windowWidth: 1080, windowHeight: 1920 } : {};
+    const canvas = await window.html2canvas(fab.firstElementChild, Object.assign({ scale: 1, backgroundColor: '#FBF8F0', logging: false }, tam));
     const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
     if (!blob) throw new Error('falha ao gerar');
     const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
