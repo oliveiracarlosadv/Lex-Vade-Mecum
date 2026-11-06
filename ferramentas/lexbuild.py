@@ -16,7 +16,8 @@ L = [l.strip() for l in open(cfg['text'], encoding='utf-8').read().split('\n')]
 
 HEAD = re.compile(r'^(TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
 # \s aceita também o espaço não separável (U+00A0) que o Planalto às vezes usa após "Art."
-ART = re.compile(r'^Art\.?\s*(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z])?\.?\s')
+# Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
+ART = re.compile(r'^Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?\s')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'CAPÍTULO': 3, 'SEÇÃO': 4, 'Seção': 4, 'SUBSEÇÃO': 5, 'Subseção': 5}
 
 def find(prefix, start=0):
@@ -55,7 +56,8 @@ for p in cfg['parts']:
             cur = None; i = j; continue
         m = ART.match(l)
         if m:
-            num = m.group(1).replace('.', '') + (m.group(3) or '')
+            letra = m.group(3) or ''
+            num = m.group(1).replace('.', '') + (('-' + letra) if letra and not letra.startswith('-') else letra)
             cur = {'part': p['id'], 'num': num, 'path': [x for x in path if x], 'lines': [l]}
             units.append(cur)
             structure.append({'part': p['id'], 'level': 9, 'art': num})

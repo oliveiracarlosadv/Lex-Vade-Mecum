@@ -34,6 +34,50 @@ def converter_tachados(t):
     return re.sub(r'^\s+', '', t, flags=re.M)
 
 
+def descartar_vigencia_encerrada(t):
+    """Remove redações de Medidas Provisórias que perderam a validade ("Vigência encerrada").
+
+    O Planalto as mantém tachadas ao lado do texto vigente (comum na CLT). Uma linha é
+    descartada quando, tirando o que está tachado, as notas entre parênteses e rótulos
+    soltos, não sobra texto vigente. Quando um artigo tem várias versões, fica a vigente
+    (não tachada) ou, se todas estão tachadas, a última (situação atual, ex.: revogado)."""
+    def encerrada(l):
+        if '⟦' not in l:
+            return False
+        if 'ncerrada' not in l:
+            return False
+        r = re.sub(r'⟦.*?⟧', '', l, flags=re.S)
+        r = re.sub(r'\([^()]*\)', '', r)
+        r = re.sub(r'Vig[eê]ncia encerrada', '', r, flags=re.I)
+        r = re.sub(r'^\s*(§\s*\d+[ºo°]?(-[A-Z])?|Parágrafo único|Art|[A-Za-z]|[IVXLC]+\s*-)\s*', '', r)
+        return len(re.findall(r'[A-Za-zÀ-ÿ]', r)) < 3
+    # "A⟦rt. 28" (só a letra A fora do tachado) vira "⟦Art. 28"; marcas vazias "⟦⟧" saem.
+    t = re.sub(r'^(\W*)A⟦rt', r'\1⟦Art', t.replace('⟦⟧', ''), flags=re.M)
+    linhas = [l for l in t.split('\n') if not encerrada(l)]
+    # Artigo com versão vigente (não tachada): versões tachadas do mesmo artigo são histórico
+    # e saem junto com os parágrafos tachados que as acompanham.
+    rot = re.compile(r'^\W*⟦?\s*Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(?:º|o|°)?(-[A-Z]|[A-Z](?=[.\s-]))?')
+    def num(l):
+        m = rot.match(l.replace('\xa0', ' '))
+        return m and (m.group(1).replace('.', '') + (m.group(2) or '').lstrip('-'))
+    vigentes = {num(l) for l in linhas if num(l) and not l.strip().startswith('⟦')}
+    # Sem versão vigente, vale a última versão tachada (a situação atual, ex.: "Revogado por...").
+    ultima = {}
+    for i, l in enumerate(linhas):
+        if num(l) and l.strip().startswith('⟦'):
+            ultima[num(l)] = i
+    saida, pulando = [], False
+    for i, l in enumerate(linhas):
+        n = num(l)
+        if n:
+            pulando = l.strip().startswith('⟦') and (n in vigentes or ultima.get(n) != i)
+        elif pulando and not l.strip().startswith('⟦'):
+            pulando = False
+        if not pulando:
+            saida.append(l)
+    return '\n'.join(saida)
+
+
 def data_br(iso):
     meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
     d = datetime.date.fromisoformat(iso)
@@ -54,6 +98,8 @@ def main():
 
     oficial = os.path.join(fonte, 'texto-oficial.txt')
     bruto = open(a.texto or oficial, encoding='utf-8').read()
+    if cfg.get('descartar_vigencia_encerrada'):
+        bruto = descartar_vigencia_encerrada(bruto)
     texto = converter_tachados(bruto)
     texto_path = os.path.join(tmp, 'texto.txt')
     open(texto_path, 'w', encoding='utf-8').write(texto)
@@ -63,7 +109,7 @@ def main():
     build_cfg = {
         'text': texto_path,
         'parts': cfg['parts'],
-        'ann': [os.path.join(fonte, 'anotacoes.txt')],
+        'ann': sorted(os.path.join(fonte, f) for f in os.listdir(fonte) if f.startswith('anotacoes') and f.endswith('.txt')),
         'front': os.path.join(fonte, 'abertura.md'),
         'back': os.path.join(fonte, 'fechamento.md'),
         'out': os.path.join(tmp, 'saida.md'),
