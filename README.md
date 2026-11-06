@@ -15,7 +15,7 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 Página de leitura com todas as leis deste repositório, diagramada como um livro e adaptada a computador, tablet e celular:
 
 - **Menu de leis** à esquerda e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
-- **Busca** por palavra, expressão entre aspas ou artigo: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75`, `irdr 7`, `iac 5` — na lei aberta ou em todas.
+- **Busca** rápida com sugestões enquanto você digita: palavras em qualquer ordem (plural e feminino não importam), expressão entre aspas, começo de palavra (`penhor`), correção de erros de digitação e artigo direto: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75`, `irdr 7`, `iac 5` — na lei aberta ou em todas, com filtro por lei.
 - **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte, gerar imagem da citação ou um **Story** vertical com o logo do Lex Vade Mecum e a lei no rodapé.
 - Ao abrir um resultado da busca, a página vai **direto à expressão encontrada**.
 - **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
