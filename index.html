@@ -147,6 +147,8 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .card-img .ci-marca b{display:block;font-size:40px;letter-spacing:.14em}
 .card-img .ci-marca i{display:block;font-style:normal;font-variant:small-caps;letter-spacing:.2em;font-size:22px;color:#46712A}
 .card-img .ci-lei{margin-left:auto;text-align:right;font-family:var(--serif);font-size:20px;color:#5E5A50;max-width:520px;line-height:1.35}
+.card-img .ci-lei small{display:block;font-size:16px;margin-top:6px}
+.card-img .ci-assina{font-family:var(--display);font-style:italic;font-size:22px;color:#46712A}
 .card-img .ci-rot{font-family:var(--display);font-weight:700;font-size:46px;color:#384A2C;text-align:center;letter-spacing:.04em}
 .card-img .ci-sub{font-family:var(--display);font-style:italic;font-size:32px;text-align:center;margin-top:4px}
 .card-img .ci-texto{font-size:30px;line-height:1.6;text-align:justify;margin-top:30px}
@@ -753,11 +755,12 @@ function escreverJustificado(ctx, linha, x, y, largura) {
   const vao = (largura - larg.reduce((a, b) => a + b, 0)) / (ws.length - 1);
   let cx = x; ws.forEach((w, i) => { ctx.fillText(w, cx, y); cx += larg[i] + vao; });
 }
+const ASSINATURA = 'Lex Vade Mecum por Carlos A. A. Oliveira';
 async function desenharStory(pac, lei) {
   const W = 1080, H = 1920, M = 120, LARG = W - 2 * M;
   const SERIF = 'Literata, Georgia, serif', DISPLAY = '"Cormorant Garamond", Georgia, serif';
   if (document.fonts) {
-    await Promise.all([`400 64px ${SERIF}`, `400 italic 64px ${SERIF}`, `700 54px ${DISPLAY}`, `500 42px ${DISPLAY}`]
+    await Promise.all([`italic 500 44px ${DISPLAY}`, `400 64px ${SERIF}`, `400 italic 64px ${SERIF}`, `700 54px ${DISPLAY}`, `500 42px ${DISPLAY}`]
       .map((f) => document.fonts.load(f).catch(() => null)));
   }
   const cv = document.createElement('canvas'); cv.width = W; cv.height = H;
@@ -769,7 +772,10 @@ async function desenharStory(pac, lei) {
   const logo = await carregarImagem('assets/lex-vade-mecum-logo.svg');
   const lw = 600, lh = logo.naturalWidth ? lw * logo.naturalHeight / logo.naturalWidth : 220;
   ctx.drawImage(logo, (W - lw) / 2, 140, lw, lh);
-  const linhaTopo = 140 + lh + 56;
+  ctx.textAlign = 'center'; ctx.textBaseline = 'alphabetic';
+  ctx.font = `italic 500 44px ${DISPLAY}`; ctx.fillStyle = '#46712A';
+  ctx.fillText(ASSINATURA, W / 2, 140 + lh + 64);
+  const linhaTopo = 140 + lh + 108;
   ctx.fillStyle = '#384A2C'; ctx.fillRect(M, linhaTopo, LARG, 2);
 
   // Rodapé: dispositivo, lei, número e site (montado de baixo para cima)
@@ -842,8 +848,8 @@ async function gerarImagem(pac, formato) {
       <div class="ci-texto">${x.u.texto.map((l) => `<p class="${classeLinha(l)}">${inline(l)}</p>`).join('')}</div>`;
   }
   const fab = $('#fabricaImagem');
-  fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}</div></div>
-    ${miolo}<div class="ci-rodape"><span>Texto oficial${lei && lei.conferido ? ' conferido em ' + esc(lei.conferido) : ''}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
+  fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}${lei && lei.conferido ? `<small>Texto oficial conferido em ${esc(lei.conferido)}</small>` : ''}</div></div>
+    ${miolo}<div class="ci-rodape"><span class="ci-assina">${ASSINATURA}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
   fab.classList.add('ativa');
   try {
     await carregarH2C();
