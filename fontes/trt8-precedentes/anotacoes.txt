@@ -1,0 +1,131 @@
+@IRDR 1
+T: Competência da Justiça do Trabalho para descontos de contribuição sindical de servidores
+I: Fixa que cabe à Justiça do Trabalho julgar a ação movida contra ente público em que o sindicato pede o cumprimento da obrigação de fazer de descontar a contribuição sindical dos servidores, com fundamento no art. 114 da Constituição. A tese trata apenas da competência; o mérito do desconto deve observar as regras vigentes, lembrando que, desde a Lei nº 13.467/2017, a contribuição sindical depende de autorização prévia e expressa (CLT, arts. 578 e 579). Recomenda-se conferir a jurisprudência posterior do STF e do TST sobre competência em demandas que envolvam servidores estatutários.
+P: Competência da Justiça do Trabalho, não da Justiça comum || Objeto: obrigação de fazer do ente público quanto ao desconto || Mérito sujeito às regras da Reforma Trabalhista sobre autorização do desconto
+K: contribuição sindical; competência da Justiça do Trabalho; ente público; servidores; desconto em folha; art. 114 da Constituição
+
+@IRDR 2
+T: Inépcia da petição inicial: prazo para emenda e retorno dos autos
+I: Antes de extinguir o processo por inépcia, o juiz deve intimar o autor para emendar ou completar a petição inicial em 15 dias, indicando com precisão o que deve ser corrigido, como exigem o art. 321 do CPC e a Súmula 263 do TST. Se o Tribunal, no recurso, concluir que não havia inépcia, pode afastá-la e devolver os autos ao primeiro grau para que o processo prossiga. A tese aplica-se aos requisitos do art. 840, § 1º, da CLT (inclusive pedido certo, determinado e com indicação de valor) e aos arts. 319 e 320 do CPC.
+P: Extinção por inépcia só depois de oportunidade de emenda em 15 dias || O juiz deve indicar com precisão o que corrigir || Afastada a inépcia no recurso, os autos voltam à Vara para prosseguir
+K: inépcia da petição inicial; emenda da inicial; prazo de 15 dias; art. 840 da CLT; arts. 319 a 321 do CPC; retorno dos autos
+
+@IRDR 3
+T: Gratificação de função dos engenheiros do Banco da Amazônia: incorporação
+I: Decide caso específico: o enquadramento dos engenheiros do Banco da Amazônia como categoria diferenciada, reconhecido em sentença transitada em julgado, não é justo motivo para retirar a função gratificada, e por isso a gratificação recebida por dez anos ou mais incorpora-se ao salário, conforme a Súmula 372, I, do TST. A Lei nº 13.467/2017 incluiu o § 2º no art. 468 da CLT, afastando a incorporação em reversões posteriores; a aplicação da tese deve considerar se os dez anos foram completados antes de 11/11/2017.
+P: Categoria diferenciada não é justo motivo para descomissionar || Gratificação recebida por 10 anos ou mais incorpora-se ao salário (Súmula 372, I, do TST) || Atenção ao marco da Reforma Trabalhista (CLT, art. 468, § 2º)
+K: gratificação de função; incorporação; Banco da Amazônia; engenheiros; categoria diferenciada; Súmula 372 do TST; descomissionamento
+
+@IRDR 4
+T: Honorários de sucumbência só nas ações propostas após a Reforma Trabalhista
+I: Os honorários advocatícios de sucumbência do art. 791-A da CLT, criados pela Lei nº 13.467/2017, só se aplicam às ações ajuizadas após 11 de novembro de 2017, como prevê o art. 6º da Instrução Normativa nº 41/2018 do TST. Nas ações anteriores, seguem as regras antigas (Súmulas 219 e 329 do TST). Questão distinta é a da cobrança de honorários do beneficiário da justiça gratuita, decidida pelo STF na ADI 5.766.
+P: Marco: data de ajuizamento da ação, não da sentença || Ações anteriores a 11/11/2017 seguem as Súmulas 219 e 329 do TST || Gratuidade de justiça e honorários: ver ADI 5.766 do STF
+K: honorários de sucumbência; art. 791-A da CLT; Reforma Trabalhista; direito intertemporal; Instrução Normativa 41/2018; Lei 13.467/2017
+
+@IRDR 5
+T: Vale-alimentação com desconto do empregado não tem natureza salarial
+I: Quando o empregado participa do custeio do vale-alimentação, ainda que com valor irrisório, o benefício perde a natureza salarial e não integra a remuneração para outros efeitos. A tese diferencia a hipótese do vale fornecido de forma totalmente gratuita por força do contrato, que tem natureza salarial (Súmula 241 do TST). Após a Lei nº 13.467/2017, o auxílio-alimentação, vedado o pagamento em dinheiro, não integra a remuneração (CLT, art. 457, § 2º).
+P: Coparticipação do empregado, mesmo mínima, afasta a natureza salarial || Vale gratuito por força do contrato tem natureza salarial (Súmula 241 do TST) || Após a Reforma, auxílio-alimentação não integra a remuneração (CLT, art. 457, § 2º)
+K: vale-alimentação; auxílio-alimentação; natureza salarial; natureza indenizatória; coparticipação; Súmula 241 do TST; integração
+
+@IRDR 6
+T: Execução individual de sentença coletiva sem prevenção do juízo
+I: Adota a Súmula 35 do TRT8: a execução de sentença genérica proferida em ação coletiva é feita por ação executiva individual, autônoma, sem vínculo com o processo coletivo e sem prevenção do juízo que proferiu a sentença. Assim, o trabalhador pode propor a execução individual por livre distribuição, em harmonia com o microssistema de tutela coletiva (arts. 97 e 98 do Código de Defesa do Consumidor), que admite liquidação e execução individuais.
+P: Execução individual em ação própria || Não há prevenção do juízo da ação coletiva || Tese reproduz a Súmula 35 do TRT8
+K: ação coletiva; sentença genérica; execução individual; prevenção; competência; Súmula 35 do TRT8; tutela coletiva
+
+@IRDR 7
+T: Penhora de salários para crédito trabalhista: limite de 50%
+I: Salários, vencimentos, aposentadorias, pensões, ganhos de autônomo e honorários de profissional liberal podem ser penhorados para pagar crédito trabalhista, mesmo que não superem 50 salários mínimos, pois a impenhorabilidade do art. 833, IV, do CPC é relativa diante de prestação alimentícia (art. 833, § 2º). A penhora não pode passar de 50% dos ganhos líquidos do executado. O TST, no Tema 75 (vinculante), fixou a mesma orientação e acrescentou a garantia de que o devedor receba ao menos um salário mínimo.
+P: Impenhorabilidade de salários é relativa para crédito trabalhista || Limite de 50% dos ganhos líquidos || Observar também o Tema 75 do TST (mínimo de um salário mínimo ao devedor)
+K: penhora de salário; impenhorabilidade relativa; art. 833 do CPC; crédito trabalhista; limite de 50%; Tema 75 do TST
+
+@IRDR 8
+T: Marítimos: adicional noturno fora da base das horas extras nas normas coletivas
+I: Interpreta as cláusulas 10ª das normas coletivas dos trabalhadores marítimos de 2017/2018 e 2019/2021 e conclui que elas não preveem a integração do adicional noturno na base de cálculo das horas extras, como mostram as tabelas salariais. A tese limita-se ao conteúdo dessas cláusulas. O TST, no Tema 288 (vinculante), reafirmou a OJ 97 da SBDI-1, segundo a qual o adicional noturno integra a base das horas extras noturnas; a aplicação da tese regional deve ser examinada à luz desse precedente e do Tema 1.046 do STF sobre negociação coletiva.
+P: Interpretação restrita às normas coletivas 2017/2018 e 2019/2021 dos marítimos || Base das horas extras sem o adicional noturno, segundo as tabelas salariais || Confronto necessário com o Tema 288 do TST (OJ 97 da SBDI-1)
+K: trabalhadores marítimos; norma coletiva; adicional noturno; horas extras; base de cálculo; OJ 97 da SBDI-1; Tema 288 do TST
+
+@IRDR 9
+T: COHAB-PA não tem prerrogativas da Fazenda Pública: execução sem precatório
+I: A Companhia de Habitação do Estado do Pará (COHAB), sociedade de economia mista que atua em concorrência com o setor privado e distribui lucros aos acionistas, não se equipara à Fazenda Pública. Por isso, não executa suas dívidas por precatório (CF, art. 100) e segue o regime das empresas privadas (CF, art. 173, § 1º, II). A tese aplica o Tema 253 da repercussão geral e a ADPF 387, ambos do STF.
+P: Estatal em regime concorrencial e com distribuição de lucros não tem prerrogativas da Fazenda || Execução comum, sem precatório || Fundamento: Tema 253 e ADPF 387 do STF
+K: COHAB; sociedade de economia mista; precatório; Fazenda Pública; regime concorrencial; Tema 253 do STF; ADPF 387; art. 173 da Constituição
+
+@IRDR 10
+T: Periculosidade de motociclista: art. 193, § 4º, da CLT é autoaplicável
+I: O adicional de periculosidade de quem trabalha com motocicleta (CLT, art. 193, § 4º, incluído pela Lei nº 12.997/2014) tem aplicação imediata e não depende de regulamentação; a NR-16 (Anexo 5) produz efeitos apenas administrativos. O TST, no Tema 101 (vinculante), firmou a mesma conclusão e detalhou que eventual exceção prevista em norma regulamentadora depende de laudo técnico, não retroage e deve ser provada por quem a alega.
+P: Direito decorre diretamente da lei, sem depender de regulamentação || NR-16 (Anexo 5) tem efeitos administrativos || Ver Tema 101 do TST sobre exceções, laudo e ônus da prova
+K: adicional de periculosidade; motocicleta; motociclista; art. 193 da CLT; norma autoaplicável; NR-16; Tema 101 do TST
+
+@IRDR 11
+T: Banpará: incorporação do complemento de gratificação
+I: O "Complemento de Gratificação" pago pelo Banco do Estado do Pará (Banpará) para complementar gratificações de função não pode ser suprimido e integra a remuneração em duas hipóteses: quando recebido por dez anos ou mais, completados antes da Lei nº 13.467/2017; ou quando o empregado, sem justo motivo, perde a função mas continua exercendo as mesmas atividades e responsabilidades. A tese aplica a lógica da Súmula 372, I, do TST, com o marco temporal da Reforma Trabalhista.
+P: Dez anos de recebimento completados antes da Reforma Trabalhista garantem a incorporação || Destituição sem justo motivo com manutenção das mesmas atividades também garante || Verba específica do Banpará
+K: Banpará; complemento de gratificação; gratificação de função; incorporação; Súmula 372 do TST; Reforma Trabalhista
+
+@IRDR 12
+T: Geolocalização do celular do empregado como prova depende de autorização
+I: Sem autorização do empregado, não se pode obter a geolocalização do seu celular para servir de prova em processo trabalhista, por violar direitos fundamentais como a intimidade, a vida privada e o sigilo de dados e comunicações (CF, art. 5º, X e XII) e a proteção de dados pessoais (Lei nº 13.709/2018). A tese aplica o princípio da proporcionalidade. O tema também é debatido no TST, que tem decisões admitindo a prova por geolocalização em hipóteses delimitadas; convém verificar o entendimento atualizado.
+P: Exige consentimento do empregado || Fundamento: intimidade, sigilo de dados e proporcionalidade || Verificar a jurisprudência atual do TST sobre o tema
+K: geolocalização; prova digital; sigilo de dados; intimidade; consentimento; LGPD; jornada de trabalho
+
+@IRDR 13
+T: Pausas do trabalhador rural: art. 72 da CLT por analogia
+I: Aplica-se por analogia aos trabalhadores rurais o art. 72 da CLT, com pausa de 10 minutos a cada 90 minutos de trabalho contínuo em pé ou com sobrecarga muscular estática ou dinâmica, sem desconto da duração do trabalho. A analogia está autorizada pelo art. 8º da CLT e pelo art. 4º da LINDB e complementa as pausas previstas na NR-31. O TST fixou a mesma orientação no Tema 245 (vinculante).
+P: Pausa de 10 minutos a cada 90 minutos || Pausa computada na jornada || Mesmo entendimento do Tema 245 do TST
+K: trabalhador rural; pausas; NR-31; art. 72 da CLT; analogia; sobrecarga muscular; Tema 245 do TST
+
+@IRDR 14
+T: CAESA tem prerrogativas da Fazenda Pública: precatório e isenções
+I: A Companhia de Água e Esgoto do Amapá (CAESA), sociedade de economia mista que presta serviço público essencial de saneamento em regime não concorrencial e sem distribuir lucros, equipara-se à Fazenda Pública. Por isso, paga suas dívidas por precatório (CF, art. 100), é isenta de custas (CLT, art. 790-A, I), está dispensada do depósito recursal e segue os juros da Lei nº 9.494/1997 (arts. 1º-A e 1º-F). Os índices de correção e juros devem observar também as alterações posteriores, como a EC nº 113/2021.
+P: Serviço público essencial em regime não concorrencial e sem lucro gera prerrogativas da Fazenda || Precatório, isenção de custas e dispensa de depósito recursal || Contraponto: COHAB (IRDR 9) e PRODEPA (IAC 3)
+K: CAESA; Amapá; sociedade de economia mista; Fazenda Pública; precatório; depósito recursal; custas; serviço público essencial
+
+@IRDR 15
+T: CAESA: auxílio-alimentação não se estende a ocupantes de cargo em comissão
+I: O auxílio-alimentação previsto em normas coletivas para os empregados efetivos da CAESA não se estende aos ocupantes de cargo em comissão, nem mesmo com base na isonomia. A tese respeita o alcance da negociação coletiva, que definiu os beneficiários, e a diferença de regime entre empregados efetivos (concursados) e comissionados.
+P: Benefício restrito aos empregados efetivos || Isonomia não amplia benefício previsto em norma coletiva || Cargo em comissão tem regime próprio
+K: CAESA; auxílio-alimentação; cargo em comissão; empregado não concursado; isonomia; norma coletiva
+
+@IRDR 16
+T: Insalubridade dos agentes comunitários de saúde de Belém: base no vencimento
+I: A partir da vigência do § 3º do art. 9º-A da Lei nº 11.350/2006, o adicional de insalubridade dos agentes comunitários de saúde abrangidos pelo termo firmado entre o Município de Belém, o SINTESPA e o Ministério Público do Trabalho deve incidir sobre o vencimento ou salário-base. O TST fixou a mesma base de cálculo no Tema 306 (vinculante), a partir da Lei nº 13.342/2016, e no Tema 118 reconheceu o direito ao adicional em grau médio independentemente de perícia.
+P: Base de cálculo: vencimento ou salário-base, não o salário mínimo || Marco: vigência do § 3º do art. 9º-A da Lei nº 11.350/2006 || Mesmo entendimento dos Temas 306 e 118 do TST
+K: agentes comunitários de saúde; adicional de insalubridade; base de cálculo; vencimento; Lei 11.350/2006; Município de Belém; Tema 306 do TST
+
+@IAC 1
+T: Notificação por edital no rito sumaríssimo (tese superada pelo IAC nº 5)
+I: A tese admitia a notificação inicial por edital no rito sumaríssimo quando esgotadas as tentativas de localizar a reclamada, em nome do acesso à justiça. O próprio texto oficial registra que ela foi superada pelo IAC nº 5, que determina, nessa situação, a conversão do processo para o rito ordinário (o art. 852-B, II, da CLT veda a citação por edital no sumaríssimo). Mantida aqui apenas para consulta histórica.
+P: Tese superada: aplicar o IAC nº 5 || Conteúdo original: edital admitido no sumaríssimo após esgotadas as tentativas || Art. 852-B, II, da CLT veda a citação por edital no rito sumaríssimo
+K: rito sumaríssimo; notificação por edital; citação; tese superada; IAC 5; acesso à justiça
+
+@IAC 2
+T: Suspensão da prescrição na pandemia (Lei nº 14.010/2020)
+I: A Lei nº 14.010/2020 (Regime Jurídico Emergencial e Transitório de direito privado) aplica-se ao Direito do Trabalho, e o TRT8 fixou a suspensão dos prazos prescricionais entre 20/03/2020 e 30/10/2020, com base nos arts. 1º, parágrafo único, e 3º da lei. O TST, no Tema 46, também afirmou a aplicação da suspensão ao processo do trabalho, alcançando a prescrição bienal e a quinquenal; o termo inicial da contagem deve ser conferido com a evolução da jurisprudência, pois o art. 3º menciona a entrada em vigor da lei.
+P: Lei nº 14.010/2020 aplica-se ao Direito do Trabalho || Período fixado pelo TRT8: 20/03/2020 a 30/10/2020 || Ver Tema 46 do TST (prescrição bienal e quinquenal)
+K: prescrição; suspensão; pandemia; covid-19; Lei 14.010/2020; RJET; Tema 46 do TST
+
+@IAC 3
+T: PRODEPA não tem prerrogativas da Fazenda Pública (distinção da ADPF 547)
+I: A Empresa de Tecnologia da Informação e Comunicação do Pará (PRODEPA), empresa pública que também presta serviços a entidades privadas em regime concorrencial, não se beneficia da decisão do STF na ADPF 547, que tratou da FUNTELPA, entidade sem atuação concorrencial. Por isso, não executa suas dívidas por precatório (CF, art. 100) e segue o regime das empresas privadas (CF, art. 173, § 1º, II). É um exemplo de distinção (distinguishing) de precedente do STF.
+P: Atuação concorrencial afasta as prerrogativas da Fazenda Pública || Distinção em relação à ADPF 547 (FUNTELPA) || Execução comum, sem precatório
+K: PRODEPA; empresa pública; precatório; Fazenda Pública; ADPF 547; distinguishing; regime concorrencial
+
+@IAC 4
+T: Competência para cobrar crédito trabalhista cedido a terceiro
+I: A Justiça do Trabalho continua competente para executar ou cobrar crédito trabalhista reconhecido em sentença mesmo depois de cedido a terceiro. A cessão (Código Civil, arts. 286 a 298) muda o titular do crédito, mas não sua origem na relação de trabalho nem o título executivo trabalhista que o constitui (CF, art. 114).
+P: Cessão do crédito não desloca a competência || Crédito tem origem em sentença trabalhista || Cessionário pode promover a execução na Justiça do Trabalho
+K: cessão de crédito; crédito trabalhista; competência da Justiça do Trabalho; execução; cessionário; art. 114 da Constituição
+
+@IAC 5
+T: Rito sumaríssimo sem citação: conversão para o rito ordinário
+I: No rito sumaríssimo, frustradas as tentativas de citação e sendo indispensável a citação por edital (vedada nesse rito pelo art. 852-B, II, da CLT), o processo não deve ser extinto, mas convertido para o rito ordinário, garantindo o acesso à justiça e a inafastabilidade da jurisdição (CF, art. 5º, XXXV). Esta tese superou a do IAC nº 1.
+P: Conversão para o rito ordinário em vez de arquivamento || Viabiliza a citação por edital || Supera o IAC nº 1
+K: rito sumaríssimo; citação por edital; conversão de rito; rito ordinário; acesso à justiça; art. 852-B da CLT
+
+@IAC 6
+T: Competência da Justiça do Trabalho para políticas de erradicação do trabalho infantil
+I: Compete à Justiça do Trabalho julgar questões sobre a erradicação do trabalho infantil e impor à Administração Pública o cumprimento de suas obrigações constitucionais e legais de formular e implementar políticas públicas nessa área. A tese apoia-se na proteção integral da criança e do adolescente (CF, arts. 7º, XXXIII, e 227) e na competência do art. 114 da Constituição, com atuação frequente do Ministério Público do Trabalho em ações civis públicas.
+P: Competência da Justiça do Trabalho, inclusive contra a Administração Pública || Pode impor a implementação de políticas públicas || Fundamento: proteção integral (CF, arts. 7º, XXXIII, e 227)
+K: trabalho infantil; erradicação; políticas públicas; competência da Justiça do Trabalho; Ministério Público do Trabalho; proteção integral

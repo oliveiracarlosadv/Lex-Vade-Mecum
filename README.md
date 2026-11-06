@@ -15,7 +15,7 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 Página de leitura com todas as leis deste repositório, diagramada como um livro e adaptada a computador, tablet e celular:
 
 - **Menu de leis** à esquerda e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
-- **Busca** por palavra, expressão entre aspas ou artigo: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75` — na lei aberta ou em todas.
+- **Busca** por palavra, expressão entre aspas ou artigo: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75`, `irdr 7`, `iac 5` — na lei aberta ou em todas.
 - **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte, gerar imagem da citação ou um **Story** vertical com o logo do Lex Vade Mecum e a lei no rodapé.
 - Ao abrir um resultado da busca, a página vai **direto à expressão encontrada**.
 - **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
@@ -34,6 +34,7 @@ Clique em "Ler on-line" para abrir a norma inteira (texto oficial com a análise
 | Código de Processo Civil (CPC) | Lei nº 13.105 | 16 de março de 2015 (DOU de 17.3.2015) | [Ler on-line](leis/cpc/cpc-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) | 06/11/2026 |
 | Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) | 06/11/2026 |
 | Precedentes Vinculantes do TST — Recursos de Revista Repetitivos | Temas do IRR (art. 896-C da CLT) | Atualização contínua (tabela do TST de 3/11/2026) | [Ler on-line](leis/tst-precedentes/tst-precedentes-completa.md) | [TST](https://www.tst.jus.br/nugep-sp/recursos-repetitivos/precedentes-vinculantes) | 06/11/2026 |
+| Precedentes do TRT da 8ª Região — Teses firmadas em IRDR e IAC | IRDR nº 1 a 16 e IAC nº 1 a 6 (Pará e Amapá) | Atualização contínua (página do TRT8) | [Ler on-line](leis/trt8-precedentes/trt8-precedentes-completa.md) | [TRT8](https://www.trt8.jus.br/jurisprudencia/precedentes) | 06/11/2026 |
 <!-- catalogo:fim -->
 
 
