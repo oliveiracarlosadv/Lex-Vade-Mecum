@@ -1,0 +1,479 @@
+@OAB 1
+I: Define as atividades privativas de advocacia: a postulação perante o Poder Judiciário e os juizados especiais e as atividades de consultoria, assessoria e direção jurídicas. O STF (ADI 1.127) afastou a palavra "qualquer" do inciso I, admitindo hipóteses de atuação sem advogado previstas em lei, como em parte dos juizados especiais e no jus postulandi da Justiça do Trabalho. O habeas corpus pode ser impetrado por qualquer pessoa, e atos constitutivos de pessoas jurídicas só são registrados com visto de advogado.
+P: Postulação judicial e consultoria jurídica são privativas de advogado || "Qualquer" afastado pelo STF (ADI 1.127): há exceções legais à exigência de advogado || Habeas corpus não é privativo; atos constitutivos de pessoa jurídica exigem visto de advogado
+K: atividade privativa de advocacia; postulação; consultoria jurídica; habeas corpus; visto de advogado; ADI 1.127; jus postulandi
+
+@OAB 2
+I: Reproduz o art. 133 da Constituição: o advogado é indispensável à administração da justiça. No ministério privado presta serviço público e exerce função social; no processo judicial e no administrativo seus atos constituem múnus público. É inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei.
+P: Advogado indispensável à administração da justiça (CF, art. 133) || Atos do advogado são múnus público, inclusive no processo administrativo (§ 2º-A) || Inviolabilidade profissional nos limites da lei (§ 3º)
+K: indispensabilidade do advogado; função social; múnus público; inviolabilidade profissional; processo administrativo
+
+@OAB 2-A
+I: Reconhece expressamente que o advogado pode contribuir com o processo legislativo e com a elaboração de normas jurídicas nos Poderes da República, legitimando a atuação técnica em proposições normativas.
+P: Atuação do advogado na elaboração de leis e normas || Abrange os três Poderes || Incluído pela Lei nº 14.365/2022
+K: processo legislativo; elaboração de normas; atuação institucional do advogado
+
+@OAB 3
+I: O exercício da advocacia e o título de advogado são privativos dos inscritos na OAB. Os advogados públicos (AGU, Procuradorias, Defensoria e procuradorias estaduais e municipais) também se sujeitam ao Estatuto, além de seu regime próprio. O estagiário inscrito pode praticar atos de advocacia em conjunto com advogado e sob sua responsabilidade. O STF (ADI 4.636) entendeu que os defensores públicos não precisam de inscrição na OAB para exercer o cargo.
+P: Advocacia privativa dos inscritos na OAB || Advocacia pública também sujeita ao Estatuto || Estagiário atua com advogado e sob sua responsabilidade; defensores públicos dispensados de inscrição (ADI 4.636)
+K: inscrição na OAB; advocacia pública; Defensoria Pública; estagiário; ADI 4.636; título de advogado
+
+@OAB 3-A
+I: Declara que os serviços do advogado são técnicos e singulares quando comprovada a notória especialização, definida pelo conceito do profissional ou da sociedade em sua área, a partir de desempenho anterior, estudos, publicações, equipe e outros requisitos. A regra é relevante para contratações pela Administração Pública sem licitação (inexigibilidade).
+P: Serviço jurídico técnico e singular com notória especialização || Critérios objetivos de notória especialização (parágrafo único) || Relevante para a inexigibilidade de licitação
+K: notória especialização; serviço singular; inexigibilidade de licitação; contratação de advogado pela Administração
+
+@OAB 4
+I: São nulos os atos privativos de advogado praticados por quem não é inscrito na OAB, sem prejuízo de sanções civis, penais e administrativas. Também são nulos os atos de advogado impedido (no âmbito do impedimento), suspenso, licenciado ou que passe a exercer atividade incompatível.
+P: Nulidade de ato privativo praticado por não inscrito || Nulidade também para advogado suspenso, licenciado, impedido ou em atividade incompatível || Responsabilidade civil, penal e administrativa do infrator
+K: nulidade de ato processual; exercício ilegal da advocacia; advogado suspenso; impedimento; incompatibilidade
+
+@OAB 5
+I: O advogado atua mediante prova do mandato (procuração). Em caso de urgência, pode atuar sem procuração e apresentá-la em 15 dias, prorrogáveis por igual período. A procuração geral para o foro habilita a todos os atos, salvo os que exigem poderes especiais. Quem renuncia continua representando o cliente por 10 dias após a notificação, salvo substituição antes. Consultoria e assessoria independem de mandato ou contrato escrito.
+P: Atuação sem procuração em caso de urgência: 15 dias, prorrogáveis || Renúncia: representação por mais 10 dias após a notificação || Consultoria pode ser verbal e independe de mandato
+K: procuração; mandato judicial; urgência; renúncia ao mandato; poderes especiais; consultoria
+
+@OAB 6
+I: Não há hierarquia nem subordinação entre advogados, magistrados e membros do Ministério Público; todos devem tratar-se com consideração e respeito. Autoridades e servidores devem dar ao advogado tratamento compatível com a dignidade da profissão e preservar sua imagem e integridade. Nas audiências de instrução e julgamento, os advogados das partes devem ficar no mesmo plano e equidistantes do magistrado.
+P: Ausência de hierarquia entre advogado, juiz e promotor || Dever de tratamento digno por autoridades e servidores || Paridade de armas: advogados no mesmo plano e equidistantes do juiz (§ 2º)
+K: ausência de hierarquia; respeito recíproco; dignidade da advocacia; paridade de armas; audiência
+
+@OAB 7
+I: Lista as prerrogativas do advogado: liberdade profissional, inviolabilidade do escritório e das comunicações ligadas à advocacia, comunicação reservada com cliente preso, presença da OAB na prisão em flagrante por motivo profissional, sala de Estado Maior antes do trânsito em julgado, livre ingresso em tribunais e repartições, acesso a autos (inclusive de investigações), desagravo e recusa a depor sobre sigilo profissional, entre outras. Disciplina a busca e apreensão em escritório (§§ 6º a 6º-I), que exige decisão motivada e presença de representante da OAB e protege documentos de outros clientes. Trechos afastados pelo STF aparecem tachados (inciso V, inciso IX e § 4º).
+P: Inviolabilidade do escritório e das comunicações, com busca e apreensão só por decisão motivada e com representante da OAB || Acesso a autos de processos e investigações, mesmo sem procuração, salvo sigilo (incisos XIII e XIV; §§ 10 a 13) || Sustentação oral contra decisão monocrática de mérito em recursos e ações listadas (§ 2º-B); vedada colaboração premiada contra cliente (§ 6º-I)
+K: prerrogativas do advogado; inviolabilidade do escritório; busca e apreensão; sala de Estado Maior; acesso aos autos; sustentação oral; desagravo; sigilo profissional
+
+@OAB 7-A
+I: Garante direitos específicos à advogada gestante, lactante, adotante ou que der à luz: entrada em tribunais sem detector de metais e raio X, vaga em garagem, acesso a creche ou local adequado, preferência na ordem de sustentações orais e audiências e suspensão de prazos quando for a única patrona da causa, com notificação ao cliente. Os prazos remetem ao art. 392 da CLT e ao art. 313, § 6º, do CPC.
+P: Preferência em sustentações orais e audiências mediante comprovação || Suspensão de prazos processuais para a única patrona adotante ou que der à luz (CPC, art. 313, § 6º) || Direitos duram enquanto perdurar a gestação ou a amamentação
+K: advogada gestante; lactante; adotante; maternidade; suspensão de prazos; preferência em audiência
+
+@OAB 7-B
+I: Tipifica como crime violar os direitos ou prerrogativas dos incisos II (inviolabilidade), III (comunicação com cliente preso), IV (presença da OAB na prisão em flagrante) e V (sala de Estado Maior) do art. 7º, com pena de detenção de 2 a 4 anos e multa. Foi incluído pela Lei nº 13.869/2019 (Lei de Abuso de Autoridade).
+P: Crime de violação de prerrogativas do advogado || Abrange os incisos II, III, IV e V do art. 7º || Pena: detenção de 2 a 4 anos e multa
+K: crime de violação de prerrogativas; abuso de autoridade; Lei 13.869/2019; prerrogativas do advogado
+
+@OAB 8
+I: Fixa os requisitos para inscrição como advogado: capacidade civil, diploma em Direito, título de eleitor e quitação militar, aprovação no Exame de Ordem, não exercer atividade incompatível, idoneidade moral e compromisso perante o conselho. O STF reconheceu a constitucionalidade do Exame de Ordem (RE 603.583). A inidoneidade moral exige decisão de dois terços do conselho, e a condenação por crime infamante a caracteriza, salvo reabilitação.
+P: Exame de Ordem obrigatório (constitucional, segundo o STF) || Diploma estrangeiro precisa de revalidação || Inidoneidade moral: decisão de dois terços do conselho; crime infamante, salvo reabilitação
+K: inscrição na OAB; Exame de Ordem; idoneidade moral; requisitos para advogar; diploma estrangeiro; crime infamante
+
+@OAB 9
+I: Regula a inscrição como estagiário: requisitos do art. 8º (salvo diploma e Exame de Ordem) e admissão em estágio profissional, de dois anos, nos últimos anos do curso. A inscrição é feita na seccional do curso. Quem exerce atividade incompatível pode estagiar só para aprendizagem, sem inscrição. Bacharéis também podem estagiar. Em pandemias ou situações excepcionais, o estágio pode ser remoto, sem gerar vínculo de emprego.
+P: Estágio de dois anos nos últimos anos do curso || Inscrição na seccional do curso jurídico || Estágio remoto admitido em situações excepcionais, sem vínculo de emprego (§§ 5º e 6º)
+K: estagiário de advocacia; estágio profissional; inscrição de estagiário; teletrabalho; Código de Ética
+
+@OAB 10
+I: A inscrição principal é feita na seccional do domicílio profissional (sede principal da atividade). Quem passa a atuar habitualmente em outro estado, assim entendida a atuação em mais de cinco causas por ano, deve ter inscrição suplementar. A mudança definitiva de domicílio exige transferência.
+P: Inscrição principal no domicílio profissional || Inscrição suplementar a partir de mais de cinco causas por ano em outra seccional || Transferência em caso de mudança efetiva de domicílio
+K: inscrição principal; inscrição suplementar; domicílio profissional; transferência de inscrição; habitualidade
+
+@OAB 11
+I: Lista as hipóteses de cancelamento da inscrição: pedido do profissional, exclusão disciplinar, falecimento, atividade incompatível em caráter definitivo e perda de requisito. Em nova inscrição, o número anterior não é restaurado, e, após exclusão, exige-se prova de reabilitação.
+P: Cancelamento de ofício nas hipóteses de exclusão, falecimento e incompatibilidade definitiva || Nova inscrição não restaura o número anterior || Após exclusão, nova inscrição exige reabilitação
+K: cancelamento da inscrição; exclusão; reabilitação; atividade incompatível; nova inscrição
+
+@OAB 12
+I: Prevê a licença do profissional: a pedido, por motivo justificado; quando passar a exercer temporariamente atividade incompatível; ou em caso de doença mental curável. Durante a licença, não pode advogar (art. 4º, parágrafo único).
+P: Licença a pedido, por motivo justificado || Licença obrigatória em atividade incompatível temporária || Atos praticados por advogado licenciado são nulos
+K: licença do advogado; atividade incompatível temporária; suspensão do exercício; inscrição na OAB
+
+@OAB 13
+I: O documento de identidade profissional da OAB é obrigatório no exercício da advocacia e do estágio e vale como prova de identidade civil para todos os fins legais.
+P: Uso obrigatório no exercício profissional || Vale como identidade civil || Forma definida no Regulamento Geral
+K: carteira da OAB; identidade profissional; documento de identidade; estagiário
+
+@OAB 14
+I: Todo documento assinado pelo advogado no exercício da profissão deve indicar seu nome e número de inscrição. É vedado anunciar advocacia ou usar a expressão "escritório de advocacia" sem indicar os nomes e inscrições dos advogados ou o registro da sociedade.
+P: Nome e número de inscrição obrigatórios nos documentos || Publicidade exige identificação dos advogados ou da sociedade || Relaciona-se às regras de publicidade do Código de Ética
+K: identificação do advogado; número de inscrição; publicidade na advocacia; escritório de advocacia
+
+@OAB 15
+I: Os advogados podem formar sociedade simples de prestação de serviços de advocacia ou sociedade unipessoal, que adquirem personalidade jurídica com o registro na seccional. Procurações são outorgadas aos advogados individualmente, com indicação da sociedade. Um advogado não pode integrar mais de uma sociedade na mesma seccional, e sócios não podem representar clientes com interesses opostos. Os parágrafos finais tratam do sócio-administrador servidor público, da tributação sobre a receita efetivamente própria, da fiscalização das associações pelo Conselho Federal e do uso de espaços compartilhados.
+P: Sociedade de advogados e sociedade unipessoal registradas na OAB || Vedação de integrar mais de uma sociedade na mesma seccional e de patrocinar interesses opostos || Tributos só sobre a receita que efetivamente couber à sociedade (§ 9º); espaço compartilhado permitido (§ 12)
+K: sociedade de advogados; sociedade unipessoal de advocacia; registro na OAB; conflito de interesses; associação de advogados; coworking
+
+@OAB 16
+I: Proíbe o registro de sociedades de advogados com forma ou características de sociedade empresária, com nome fantasia, com atividades estranhas à advocacia ou com sócio não advogado. A razão social deve ter o nome de pelo menos um advogado, e a sociedade unipessoal usa o nome do titular com a expressão "Sociedade Individual de Advocacia". Cartórios e juntas comerciais não podem registrar sociedade com finalidade de advocacia.
+P: Vedados caráter empresarial, nome fantasia e sócio não advogado || Razão social com nome de advogado; unipessoal com "Sociedade Individual de Advocacia" || Registro só na OAB, nunca em junta comercial ou cartório
+K: sociedade de advogados; razão social; nome fantasia; sociedade empresária; registro; sociedade individual de advocacia
+
+@OAB 17
+I: Além da própria sociedade, o sócio e o titular da sociedade individual respondem subsidiária e ilimitadamente pelos danos causados aos clientes no exercício da advocacia, sem prejuízo da responsabilidade disciplinar.
+P: Responsabilidade subsidiária e ilimitada dos sócios || Alcança ação e omissão no exercício profissional || Independe da responsabilidade disciplinar
+K: responsabilidade civil do advogado; responsabilidade subsidiária; sociedade de advogados; danos ao cliente
+
+@OAB 17-A
+I: Permite que o advogado se associe a uma ou mais sociedades de advogados sem vínculo de emprego, para prestar serviços e participar dos resultados, na forma do Regulamento Geral e dos Provimentos do Conselho Federal.
+P: Associação sem vínculo empregatício || Possível com mais de uma sociedade || Participação nos resultados
+K: advogado associado; associação sem vínculo de emprego; sociedade de advogados; participação nos resultados
+
+@OAB 17-B
+I: A associação do art. 17-A é feita por contrato próprio, registrado na seccional, que pode ser geral ou para causa específica. O contrato deve conter, no mínimo, qualificação das partes, delimitação do serviço, repartição de riscos e receitas (vedado atribuir todos a uma só parte), responsabilidade pelas despesas e prazo.
+P: Contrato de associação registrado na OAB || Conteúdo mínimo obrigatório || Vedada concentração de todos os riscos ou receitas em uma parte
+K: contrato de associação; advogado associado; partilha de resultados; registro na OAB
+
+@OAB 18
+I: O vínculo de emprego não retira a isenção técnica nem a independência do advogado, que não é obrigado a prestar serviços pessoais ao empregador fora da relação de emprego. O trabalho pode ser presencial, remoto (teletrabalho) ou misto, a critério do empregador, e a mudança de regime pode ser ajustada por acordo individual.
+P: Independência técnica preservada no emprego || Regimes presencial, não presencial ou misto (§ 2º) || Alteração de regime por acordo individual simples
+K: advogado empregado; independência profissional; teletrabalho; regime híbrido; isenção técnica
+
+@OAB 19
+I: O salário mínimo profissional do advogado empregado é fixado por sentença normativa, salvo se ajustado em acordo ou convenção coletiva de trabalho.
+P: Piso salarial por sentença normativa || Prevalência de acordo ou convenção coletiva || Aplica-se ao advogado empregado
+K: salário mínimo profissional; piso salarial; advogado empregado; convenção coletiva
+
+@OAB 20
+I: A jornada do advogado empregado que presta serviço a empresas não pode passar de 8 horas diárias contínuas e 40 semanais. Conta como trabalho o tempo à disposição do empregador, com reembolso de despesas de transporte, hospedagem e alimentação. A hora extra tem adicional mínimo de 100%, e o trabalho entre 20h e 5h é noturno, com adicional de 25%.
+P: Jornada de 8 horas diárias e 40 semanais || Hora extra com adicional mínimo de 100% || Hora noturna das 20h às 5h, com adicional de 25%
+K: jornada do advogado empregado; horas extras; adicional noturno; tempo à disposição; advogado empregado
+
+@OAB 21
+I: Nas causas em que o empregador é parte, os honorários de sucumbência pertencem aos advogados empregados. Se o empregador for sociedade de advogados, os honorários são partilhados conforme acordo.
+P: Sucumbência é do advogado empregado || Partilha com sociedade de advogados empregadora, conforme acordo || Relaciona-se ao art. 23 (honorários pertencem ao advogado)
+K: honorários de sucumbência; advogado empregado; partilha de honorários; sociedade de advogados
+
+@OAB 22
+I: Assegura ao advogado honorários convencionados, arbitrados judicialmente e de sucumbência. O advogado dativo, onde não houver Defensoria, recebe do Estado conforme tabela da seccional. Sem contrato, o juiz arbitra os honorários observando os parâmetros do art. 85 do CPC. Juntado o contrato antes do levantamento ou precatório, o juiz deve mandar pagar diretamente ao advogado. Os honorários têm natureza alimentar e os mesmos privilégios dos créditos trabalhistas (§ 9º).
+P: Três espécies de honorários: convencionados, arbitrados e de sucumbência || Pagamento direto ao advogado mediante juntada do contrato (§ 4º) || Natureza alimentar e privilégio equiparado ao crédito trabalhista (§ 9º)
+K: honorários advocatícios; honorários contratuais; arbitramento; advogado dativo; natureza alimentar; destaque de honorários
+
+@OAB 22-A
+I: Permite deduzir honorários contratuais dos juros de mora acrescidos aos valores repassados a estados e municípios por precatórios de complementação de fundos constitucionais. A dedução não vale nas execuções de título judicial formado em ação civil pública do Ministério Público Federal.
+P: Dedução de honorários sobre juros de mora em precatórios de fundos constitucionais || Exceção: execução de ação civil pública do MPF || Tema ligado às ações de complementação do Fundef
+K: honorários contratuais; precatório; fundos constitucionais; juros de mora; Fundef
+
+@OAB 23
+I: Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, que pode executar autonomamente essa parte da sentença e pedir precatório em seu nome. O texto remete à ADI 6.053, em que o STF tratou dos honorários de sucumbência dos advogados públicos.
+P: Sucumbência pertence ao advogado, não à parte || Execução autônoma dos honorários || Precatório pode ser expedido em favor do advogado
+K: honorários de sucumbência; direito autônomo; execução de honorários; precatório; ADI 6.053
+
+@OAB 24
+I: A decisão que fixa honorários e o contrato escrito são títulos executivos e crédito privilegiado em falência, recuperação judicial e extrajudicial, concurso de credores, insolvência e liquidação extrajudicial. A execução pode ocorrer nos próprios autos. O § 3º foi declarado inconstitucional pelo STF (ADI 1.194) e aparece tachado. Acordo entre cliente e parte contrária não prejudica os honorários sem anuência do advogado, que mantém direito proporcional ao trabalho realizado mesmo após o fim do contrato.
+P: Título executivo e crédito privilegiado || § 3º afastado pelo STF (ADI 1.194) || Honorários proporcionais preservados no distrato, salvo renúncia expressa (§§ 5º a 7º)
+K: título executivo; crédito privilegiado; recuperação judicial; honorários proporcionais; distrato; ADI 1.194
+
+@OAB 24-A
+I: Em caso de bloqueio universal do patrimônio do cliente, o advogado pode obter a liberação de até 20% dos bens bloqueados para honorários e despesas da defesa, salvo nos crimes da Lei de Drogas e observado o art. 243 da Constituição. O pedido corre em autos apartados e sigilosos, com apresentação do contrato.
+P: Liberação de até 20% dos bens bloqueados || Exceção: crimes da Lei nº 11.343/2006 || Pedido em autos apartados e sigilosos
+K: bloqueio de bens; honorários; desbloqueio; defesa criminal; Lei de Drogas
+
+@OAB 25
+I: A ação de cobrança de honorários prescreve em cinco anos, contados do vencimento do contrato, do trânsito em julgado da decisão que os fixou, do fim do serviço extrajudicial, da desistência ou transação, ou da renúncia ou revogação do mandato.
+P: Prazo prescricional de cinco anos || Termos iniciais definidos nos incisos || Aplica-se a honorários contratuais e judiciais
+K: prescrição; cobrança de honorários; cinco anos; revogação do mandato
+
+@OAB 25-A
+I: Prescreve em cinco anos a ação de prestação de contas pelas quantias que o advogado recebeu do cliente ou de terceiros por conta dele, conduta cuja recusa é infração disciplinar (art. 34, XXI).
+P: Prestação de contas: prescrição em cinco anos || Valores recebidos do cliente ou de terceiros || Recusa injustificada é infração (art. 34, XXI)
+K: prestação de contas; prescrição; valores do cliente; infração disciplinar
+
+@OAB 26
+I: O advogado substabelecido com reserva de poderes não pode cobrar honorários sem a intervenção de quem lhe substabeleceu, salvo se tiver contrato próprio com o cliente.
+P: Substabelecimento com reserva exige intervenção do substabelecente || Exceção: contrato direto com o cliente || Protege a relação contratual original
+K: substabelecimento; reserva de poderes; honorários; cobrança
+
+@OAB 27
+I: Distingue os dois tipos de restrição ao exercício da advocacia: a incompatibilidade, que proíbe totalmente, e o impedimento, que proíbe parcialmente.
+P: Incompatibilidade = proibição total || Impedimento = proibição parcial || Hipóteses nos arts. 28 e 30
+K: incompatibilidade; impedimento; restrição ao exercício da advocacia
+
+@OAB 28
+I: Lista as atividades incompatíveis com a advocacia, mesmo em causa própria: chefes do Executivo e membros da Mesa do Legislativo, magistrados, membros do Ministério Público e de tribunais de contas, dirigentes da Administração, servidores do Judiciário e notários, policiais, militares da ativa, fiscais de tributos e dirigentes de instituições financeiras. A incompatibilidade persiste no afastamento temporário. Policiais e militares podem advogar em causa própria, com inscrição especial (§§ 3º e 4º, objeto da ADI 7.227).
+P: Proibição total, mesmo em causa própria || Persiste no afastamento temporário (§ 1º) || Exceção para policiais e militares em causa própria, com inscrição especial (§§ 3º e 4º)
+K: incompatibilidade; magistrado; Ministério Público; policial; militar; servidor do Judiciário; inscrição especial
+
+@OAB 29
+I: Procuradores-gerais, advogados-gerais, defensores-gerais e dirigentes de órgãos jurídicos da Administração só podem advogar na atividade vinculada à função, durante a investidura.
+P: Legitimação exclusiva para a advocacia da função || Vale durante a investidura || Alcança administração direta, indireta e fundacional
+K: procurador-geral; advogado-geral; dirigente de órgão jurídico; advocacia pública; impedimento
+
+@OAB 30
+I: São impedidos de advogar os servidores públicos contra a Fazenda que os remunera e os parlamentares contra ou a favor de pessoas jurídicas de direito público, estatais e concessionárias. Professores de cursos jurídicos não se sujeitam ao impedimento do inciso I.
+P: Servidor não advoga contra a Fazenda que o remunera || Parlamentar não advoga contra nem a favor de entes públicos e estatais || Docentes de Direito excluídos do impedimento
+K: impedimento; servidor público; parlamentar; Fazenda Pública; docente
+
+@OAB 31
+I: O advogado deve agir de modo a merecer respeito e contribuir para o prestígio da classe, mantendo independência em qualquer circunstância, sem receio de desagradar autoridades ou de impopularidade.
+P: Conduta compatível com o prestígio da advocacia || Independência em qualquer circunstância || Nenhum receio de autoridade ou impopularidade
+K: ética profissional; independência do advogado; prestígio da advocacia; conduta
+
+@OAB 32
+I: O advogado responde pelos atos praticados com dolo ou culpa no exercício profissional. Em lide temerária, responde solidariamente com o cliente se estiver coligado a ele para lesar a parte contrária, o que se apura em ação própria.
+P: Responsabilidade subjetiva (dolo ou culpa) || Lide temerária: solidariedade se houver coligação com o cliente || Apuração em ação própria
+K: responsabilidade civil do advogado; dolo; culpa; lide temerária; solidariedade
+
+@OAB 33
+I: O advogado deve cumprir os deveres do Código de Ética e Disciplina, que trata das relações com a comunidade, o cliente e os colegas, da publicidade, da recusa de patrocínio, da assistência jurídica, da urbanidade e dos procedimentos disciplinares.
+P: Código de Ética e Disciplina é obrigatório || Abrange publicidade, urbanidade e relação com o cliente || Base dos procedimentos disciplinares
+K: Código de Ética e Disciplina; deveres do advogado; publicidade; urbanidade
+
+@OAB 34
+I: Enumera as infrações disciplinares, como exercer a profissão quando impedido, captar causas, violar sigilo profissional, abandonar a causa, deturpar textos para iludir o juiz, locupletar-se à custa do cliente, recusar prestação de contas, reter autos, deixar de pagar contribuições à OAB, inépcia reiterada, conduta incompatível, crime infamante e assédio moral, assédio sexual ou discriminação (inciso XXX, definidos no § 2º). Quanto à inadimplência de anuidades (inciso XXIII), o STF considera inconstitucional a suspensão do profissional como meio de cobrança (Tema 732 e ADI 7.020).
+P: Rol de 30 infrações disciplinares || Assédio moral, assédio sexual e discriminação são infrações (inciso XXX e § 2º) || Suspensão por inadimplência de anuidade afastada pelo STF
+K: infração disciplinar; captação de clientela; sigilo profissional; prestação de contas; assédio moral; assédio sexual; discriminação; conduta incompatível
+
+@OAB 35
+I: As sanções disciplinares são censura, suspensão, exclusão e multa. Constam dos assentamentos após o trânsito em julgado, e a censura não pode ser divulgada.
+P: Quatro sanções: censura, suspensão, exclusão e multa || Registro após o trânsito em julgado || Censura sem publicidade
+K: sanção disciplinar; censura; suspensão; exclusão; multa
+
+@OAB 36
+I: A censura se aplica às infrações dos incisos I a XVI e XXIX do art. 34, à violação do Código de Ética e às demais violações da lei sem sanção mais grave. Havendo atenuante, pode ser convertida em advertência reservada, sem registro.
+P: Censura para infrações mais leves || Conversão em advertência reservada com atenuante || Sem registro nos assentamentos na advertência
+K: censura; advertência; atenuante; infração disciplinar
+
+@OAB 37
+I: A suspensão se aplica às infrações dos incisos XVII a XXV e XXX do art. 34 e à reincidência, impedindo o exercício profissional em todo o país por 30 dias a 12 meses. Nos casos de dívida (incisos XXI e XXIII) dura até a quitação e, na inépcia (XXIV), até novas provas de habilitação. O STF afastou a suspensão como forma de cobrar anuidades (Tema 732 e ADI 7.020).
+P: Suspensão de 30 dias a 12 meses em todo o território nacional || Reincidência gera suspensão || Suspensão por inadimplência de anuidade afastada pelo STF
+K: suspensão disciplinar; reincidência; inadimplência; anuidade; Tema 732; ADI 7.020
+
+@OAB 38
+I: A exclusão se aplica a quem for suspenso três vezes e às infrações dos incisos XXVI a XXVIII do art. 34 (falsa prova para inscrição, inidoneidade moral e crime infamante), exigindo voto favorável de dois terços do Conselho Seccional.
+P: Exclusão após três suspensões || Hipóteses graves do art. 34, XXVI a XXVIII || Quórum de dois terços do Conselho Seccional
+K: exclusão; crime infamante; inidoneidade moral; quórum qualificado
+
+@OAB 39
+I: A multa varia de uma a dez anuidades e é aplicada cumulativamente com a censura ou a suspensão quando houver circunstâncias agravantes.
+P: Multa de uma a dez anuidades || Sempre cumulada com censura ou suspensão || Depende de agravantes
+K: multa disciplinar; anuidade; agravantes; sanção cumulativa
+
+@OAB 40
+I: Lista atenuantes, como falta cometida na defesa de prerrogativa, ausência de punição anterior, exercício de cargo na OAB e serviços relevantes. Antecedentes, culpa, circunstâncias e consequências orientam a cumulação de multa e a dosagem da suspensão e da multa.
+P: Atenuantes exemplificativas || Critérios de individualização da sanção || Defesa de prerrogativa atenua a falta
+K: atenuantes; dosimetria disciplinar; individualização da sanção; antecedentes
+
+@OAB 41
+I: Quem sofreu sanção disciplinar pode pedir reabilitação um ano após o cumprimento, com provas de bom comportamento. Se a sanção decorreu de crime, exige-se também a reabilitação criminal.
+P: Reabilitação após um ano do cumprimento || Exige provas efetivas de bom comportamento || Sanção decorrente de crime exige reabilitação criminal
+K: reabilitação; sanção disciplinar; bom comportamento; reabilitação criminal
+
+@OAB 42
+I: O profissional suspenso ou excluído fica impedido de exercer o mandato, e os atos que praticar são nulos (art. 4º, parágrafo único).
+P: Suspenso ou excluído não exerce mandato || Atos praticados são nulos || Vale para todo o território nacional
+K: suspensão; exclusão; impedimento do mandato; nulidade
+
+@OAB 43
+I: A pretensão punitiva disciplinar prescreve em cinco anos da constatação oficial do fato. Processo paralisado por mais de três anos aguardando despacho ou julgamento também prescreve (prescrição intercorrente). A prescrição se interrompe com a instauração do processo ou notificação válida e com a decisão condenatória recorrível.
+P: Prescrição disciplinar de cinco anos || Prescrição intercorrente após três anos de paralisação || Causas de interrupção no § 2º
+K: prescrição disciplinar; prescrição intercorrente; processo disciplinar; interrupção da prescrição
+
+@OAB 44
+I: A OAB é serviço público dotado de personalidade jurídica e forma federativa, com dupla finalidade: defender a Constituição, a ordem jurídica, os direitos humanos e a justiça social, e representar, defender, selecionar e disciplinar os advogados com exclusividade. Não tem vínculo funcional ou hierárquico com a Administração, e o STF a reconheceu como entidade independente, que não integra a Administração indireta (ADI 3.026).
+P: Finalidade institucional (defesa da ordem jurídica) e corporativa (advocacia) || Sem vínculo com a Administração Pública || Uso da sigla OAB é privativo
+K: Ordem dos Advogados do Brasil; natureza jurídica da OAB; serviço público; independência; ADI 3.026
+
+@OAB 45
+I: São órgãos da OAB o Conselho Federal (órgão supremo, sediado na capital), os Conselhos Seccionais (nos estados e no DF), as Subseções (partes autônomas da seccional) e as Caixas de Assistência dos Advogados. A OAB tem imunidade tributária total, e seus atos são publicados no Diário Eletrônico da OAB.
+P: Quatro órgãos: Conselho Federal, Seccionais, Subseções e Caixas de Assistência || Imunidade tributária total || Publicação no Diário Eletrônico da OAB (§ 6º)
+K: órgãos da OAB; Conselho Federal; Conselho Seccional; Subseção; Caixa de Assistência; imunidade tributária; Diário Eletrônico da OAB
+
+@OAB 46
+I: A OAB fixa e cobra de seus inscritos contribuições, preços de serviços e multas. A certidão da diretoria sobre esses créditos é título executivo extrajudicial.
+P: Competência para fixar anuidades e multas || Certidão de débito é título executivo extrajudicial || Cobrança judicial dos inadimplentes
+K: anuidade da OAB; contribuições; título executivo extrajudicial; cobrança
+
+@OAB 47
+I: O pagamento da anuidade da OAB isenta o inscrito do pagamento obrigatório da contribuição sindical.
+P: Anuidade substitui a contribuição sindical obrigatória || Vale para todos os inscritos || Contribuição sindical hoje depende de autorização (CLT, art. 579)
+K: contribuição sindical; anuidade; isenção; advogado
+
+@OAB 48
+I: O cargo de conselheiro ou diretor da OAB é gratuito, obrigatório e considerado serviço público relevante, inclusive para disponibilidade e aposentadoria.
+P: Exercício gratuito e obrigatório || Serviço público relevante || Efeitos para disponibilidade e aposentadoria
+K: conselheiro da OAB; cargo honorífico; serviço público relevante
+
+@OAB 49
+I: Os presidentes dos Conselhos e das Subseções podem agir judicial e extrajudicialmente contra quem infringir o Estatuto e intervir, inclusive como assistentes, em inquéritos e processos em que inscritos sejam indiciados, acusados ou ofendidos.
+P: Legitimidade ativa dos presidentes da OAB || Intervenção como assistente em processos de advogados || Defesa das prerrogativas
+K: legitimidade da OAB; assistência; defesa de prerrogativas; presidente da seccional
+
+@OAB 50
+I: Os presidentes dos Conselhos e das Subseções podem requisitar cópias de autos e documentos a tribunais, magistrados, cartórios e órgãos da Administração Pública, para os fins do Estatuto.
+P: Poder de requisição de cópias e documentos || Alcança Judiciário e Administração || Finalidade ligada ao Estatuto
+K: requisição de documentos; OAB; presidente da seccional; acesso a autos
+
+@OAB 51
+I: O Conselho Federal é composto pelos conselheiros federais, três por unidade federativa, e pelos ex-presidentes, membros honorários vitalícios só com direito a voz. O Instituto dos Advogados Brasileiros e a Federação Nacional dos Institutos dos Advogados também são membros honorários com direito a voz.
+P: Três conselheiros federais por delegação || Ex-presidentes com direito apenas a voz || IAB e Federação dos Institutos como membros honorários
+K: Conselho Federal; conselheiros federais; delegação; membros honorários
+
+@OAB 52
+I: Os presidentes dos Conselhos Seccionais têm lugar reservado junto à sua delegação nas sessões do Conselho Federal, com direito somente a voz.
+P: Presidentes seccionais participam com voz || Sem direito a voto || Lugar junto à delegação
+K: Conselho Federal; presidente da seccional; direito a voz
+
+@OAB 53
+I: A estrutura e o funcionamento do Conselho Federal são definidos no Regulamento Geral. O presidente tem apenas voto de qualidade, o voto é tomado por delegação (vedado nas matérias de interesse da própria unidade), e na eleição da diretoria cada membro da delegação tem um voto.
+P: Funcionamento regulado no Regulamento Geral || Voto por delegação || Presidente só com voto de qualidade
+K: Conselho Federal; voto por delegação; voto de qualidade; eleição da diretoria
+
+@OAB 54
+I: Lista as competências do Conselho Federal, entre elas representar os advogados, velar pelas prerrogativas, editar o Regulamento Geral, o Código de Ética e os Provimentos, intervir nas seccionais, julgar recursos, elaborar listas do quinto constitucional para tribunais nacionais ou interestaduais e ajuizar ADI, ação civil pública, mandado de segurança coletivo e mandado de injunção. Também fiscaliza as relações entre sociedades e advogados associados e promove mediação e arbitragem entre eles.
+P: Edição do Regulamento Geral e do Código de Ética || Legitimidade para ADI e ações coletivas || Listas do quinto constitucional e intervenção nas seccionais (por dois terços das delegações)
+K: Conselho Federal; competências; quinto constitucional; ação direta de inconstitucionalidade; Regulamento Geral; intervenção
+
+@OAB 55
+I: A diretoria do Conselho Federal tem presidente, vice-presidente, secretário-geral, corregedor-geral, diretor tesoureiro, diretor administrativo e diretor executivo, na redação dada pela Lei nº 15.511/2026. O presidente representa a OAB no país e no exterior, e os diretores votam como membros de suas delegações, cabendo ao presidente o voto de qualidade e o direito de embargar decisão não unânime.
+P: Diretoria com sete cargos (redação da Lei nº 15.511/2026) || Presidente representa a OAB nacional e internacionalmente || Voto de qualidade e direito de embargar decisão não unânime
+K: diretoria do Conselho Federal; presidente nacional da OAB; corregedor-geral; voto de qualidade
+
+@OAB 56
+I: O Conselho Seccional tem conselheiros em número proporcional aos inscritos. Ex-presidentes e o presidente do Instituto dos Advogados local são membros honorários com direito a voz, assim como, quando presentes, o presidente do Conselho Federal, os conselheiros federais da delegação e os presidentes da Caixa e das Subseções.
+P: Composição proporcional ao número de inscritos || Membros honorários com voz || Participação de outras autoridades da OAB com voz
+K: Conselho Seccional; composição; membros honorários; conselheiros
+
+@OAB 57
+I: O Conselho Seccional exerce, em seu território, as competências do Conselho Federal no que couber. O parágrafo único, incluído pela Lei nº 15.511/2026, permite criar diretorias regimentais temporárias de caráter temático, na forma do Regulamento Geral.
+P: Competências do Conselho Federal no âmbito estadual || Observância das normas gerais da OAB || Diretorias temáticas temporárias (parágrafo único)
+K: Conselho Seccional; competências; diretorias temáticas; Regulamento Geral
+
+@OAB 58
+I: Lista as competências privativas do Conselho Seccional: regimento interno, criação de Subseções e da Caixa, julgamento de recursos internos, tabela de honorários, Exame de Ordem, inscrições, contribuições, participação em concursos, traje dos advogados, Tribunal de Ética e Disciplina, listas do quinto constitucional e intervenção em Subseções e na Caixa, além da fiscalização das associações e da mediação entre advogados, por designação do Conselho Federal.
+P: Realiza o Exame de Ordem e decide as inscrições || Fixa a tabela de honorários e as contribuições || Organiza o Tribunal de Ética e elabora listas do quinto constitucional
+K: Conselho Seccional; Exame de Ordem; tabela de honorários; Tribunal de Ética e Disciplina; quinto constitucional
+
+@OAB 59
+I: A diretoria do Conselho Seccional tem composição idêntica e atribuições equivalentes às do Conselho Federal, na forma do regimento interno.
+P: Simetria com a diretoria do Conselho Federal || Detalhamento no regimento interno || Aplica-se a todas as seccionais
+K: diretoria seccional; composição; simetria; regimento interno
+
+@OAB 60
+I: A Subseção é criada pelo Conselho Seccional, que fixa sua área (um ou mais municípios ou parte deles) e sua competência, exigindo no mínimo quinze advogados domiciliados. Com mais de cem advogados, pode ter conselho próprio. A seccional pode intervir na Subseção por dois terços de seus membros.
+P: Mínimo de 15 advogados domiciliados || Conselho próprio acima de 100 advogados || Intervenção por dois terços do Conselho Seccional
+K: Subseção; criação; área territorial; intervenção; conselho da subseção
+
+@OAB 61
+I: Compete à Subseção, em seu território, cumprir as finalidades da OAB, velar pelas prerrogativas e representar a OAB perante os poderes. Seu conselho, se houver, edita regimento e resoluções, instaura e instrui processos disciplinares e recebe pedidos de inscrição com parecer prévio.
+P: Defesa das prerrogativas no âmbito local || Instrução de processos disciplinares || Parecer prévio nos pedidos de inscrição
+K: Subseção; competências; prerrogativas; processo disciplinar; inscrição
+
+@OAB 62
+I: A Caixa de Assistência dos Advogados presta assistência aos inscritos da seccional e pode promover seguridade complementar. Recebe metade da receita líquida das anuidades, tem diretoria de cinco membros e pode sofrer intervenção da seccional por dois terços de votos.
+P: Assistência e seguridade complementar aos advogados || Metade da receita das anuidades || Intervenção pela seccional em caso de descumprimento das finalidades
+K: Caixa de Assistência dos Advogados; assistência; seguridade complementar; anuidade
+
+@OAB 63
+I: As eleições de todos os órgãos da OAB ocorrem na segunda quinzena de novembro do último ano do mandato, por cédula única e voto direto, com comparecimento obrigatório. O candidato deve estar regular, não ocupar cargo exonerável ad nutum, não ter condenação disciplinar (salvo reabilitação) e ter mais de 3 anos de exercício (conselheiro seccional e de subseção) ou 5 anos (demais cargos).
+P: Eleição em novembro, voto direto e obrigatório || Requisitos de elegibilidade || Tempo mínimo de exercício: 3 ou 5 anos
+K: eleições da OAB; voto obrigatório; elegibilidade; mandato
+
+@OAB 64
+I: É eleita a chapa com a maioria dos votos válidos. A chapa seccional reúne conselho, diretoria, delegação ao Conselho Federal e diretoria da Caixa; a da Subseção reúne diretoria e conselho, quando houver.
+P: Eleição por chapa e maioria dos votos válidos || Chapa seccional inclui delegação federal e Caixa || Chapa da Subseção com diretoria e conselho
+K: eleições da OAB; chapa; maioria; delegação federal
+
+@OAB 65
+I: O mandato nos órgãos da OAB é de três anos, começando em 1º de janeiro seguinte à eleição; os conselheiros federais iniciam em 1º de fevereiro.
+P: Mandato de três anos || Início em 1º de janeiro || Conselheiros federais: início em 1º de fevereiro
+K: mandato; duração; posse; conselheiros federais
+
+@OAB 66
+I: O mandato se extingue antes do término com cancelamento ou licença da inscrição, condenação disciplinar ou três faltas injustificadas consecutivas, cabendo à seccional escolher o substituto se não houver suplente.
+P: Extinção automática do mandato || Três faltas consecutivas injustificadas || Substituto escolhido pela seccional
+K: extinção do mandato; faltas; condenação disciplinar; suplente
+
+@OAB 67
+I: Regula a eleição da diretoria do Conselho Federal: registro de candidatura com apoio de seis seccionais, registro da chapa até um mês antes e eleição em 31 de janeiro pelos conselheiros federais, por voto secreto e maioria simples, com posse em 1º de fevereiro e mandato de três anos.
+P: Candidatura com apoio de seis seccionais || Eleição indireta pelos conselheiros federais em 31 de janeiro || Mandato de três anos, posse em 1º de fevereiro
+K: eleição do Conselho Federal; presidente nacional; chapa; voto secreto
+
+@OAB 68
+I: Na falta de regra própria, aplicam-se subsidiariamente ao processo disciplinar as regras do processo penal comum e, aos demais processos da OAB, as do procedimento administrativo e do processo civil, nessa ordem.
+P: Processo penal subsidiário no disciplinar || Processo administrativo e civil nos demais || Ordem de aplicação subsidiária
+K: aplicação subsidiária; processo disciplinar; processo penal; processo administrativo
+
+@OAB 69
+I: Todos os prazos nos processos da OAB são de quinze dias, inclusive para recursos. Começam no primeiro dia útil após a juntada do aviso de recebimento (ofício ou notificação pessoal) ou após a publicação no Diário Eletrônico da OAB.
+P: Prazo único de 15 dias || Início após juntada do AR ou publicação no Diário Eletrônico || Vale para recursos
+K: prazos na OAB; quinze dias; Diário Eletrônico da OAB; contagem de prazo
+
+@OAB 70
+I: O poder de punir disciplinarmente é exclusivo do Conselho Seccional onde ocorreu a infração, salvo falta perante o Conselho Federal. O Tribunal de Ética e Disciplina julga os processos e pode suspender preventivamente o acusado em caso de repercussão prejudicial à advocacia, após ouvi-lo, devendo concluir o processo em até 90 dias.
+P: Competência da seccional do local da infração || Julgamento pelo Tribunal de Ética e Disciplina || Suspensão preventiva com prazo de 90 dias para conclusão
+K: poder disciplinar; Tribunal de Ética e Disciplina; suspensão preventiva; competência territorial
+
+@OAB 71
+I: A jurisdição disciplinar da OAB não exclui a comum; fatos que constituam crime ou contravenção devem ser comunicados às autoridades competentes.
+P: Independência entre esferas disciplinar e comum || Comunicação de crimes e contravenções || Não há bis in idem
+K: independência das instâncias; crime; comunicação às autoridades
+
+@OAB 72
+I: O processo disciplinar começa de ofício ou por representação de qualquer autoridade ou interessado e tramita em sigilo até o fim, com acesso apenas às partes, seus defensores e à autoridade judiciária.
+P: Instauração de ofício ou por representação || Sigilo até o término || Critérios no Código de Ética
+K: processo disciplinar; representação; sigilo; instauração
+
+@OAB 73
+I: Recebida a representação, o presidente designa relator para instruir e emitir parecer preliminar. O representado tem amplo direito de defesa: defesa prévia, razões finais e sustentação oral. Se não for encontrado ou for revel, recebe defensor dativo. Admite-se revisão por erro de julgamento ou prova falsa.
+P: Ampla defesa no processo disciplinar || Defensor dativo para revel ou não encontrado || Revisão por erro de julgamento ou prova falsa
+K: processo disciplinar; ampla defesa; relator; defensor dativo; revisão
+
+@OAB 74
+I: O Conselho Seccional pode adotar medidas administrativas e judiciais para que o profissional suspenso ou excluído devolva os documentos de identificação.
+P: Recolhimento da carteira do suspenso ou excluído || Medidas administrativas e judiciais || Evita o exercício irregular
+K: documento de identificação; suspensão; exclusão; carteira da OAB
+
+@OAB 75
+I: Cabe recurso ao Conselho Federal das decisões definitivas do Conselho Seccional que não forem unânimes ou que, sendo unânimes, contrariem o Estatuto, decisões do Conselho Federal ou de outra seccional, o Regulamento Geral, o Código de Ética ou os Provimentos. O presidente da seccional também pode recorrer.
+P: Recurso ao Conselho Federal || Cabimento: decisão não unânime ou contrária às normas da OAB || Legitimidade do presidente da seccional
+K: recurso; Conselho Federal; decisão não unânime; processo na OAB
+
+@OAB 76
+I: Cabe recurso ao Conselho Seccional de todas as decisões de seu presidente, do Tribunal de Ética e Disciplina e das diretorias da Subseção e da Caixa.
+P: Recurso interno ao Conselho Seccional || Abrange decisões do Tribunal de Ética || Duplo grau na esfera da OAB
+K: recurso; Conselho Seccional; Tribunal de Ética e Disciplina
+
+@OAB 77
+I: Os recursos na OAB têm efeito suspensivo, exceto em matéria eleitoral, suspensão preventiva e cancelamento de inscrição obtida com falsa prova.
+P: Regra: efeito suspensivo || Exceções: eleições, suspensão preventiva e inscrição fraudulenta || Regulamento Geral disciplina recursos específicos
+K: efeito suspensivo; recurso; eleições; suspensão preventiva
+
+@OAB 78
+I: Atribuiu ao Conselho Federal, por dois terços das delegações, a edição do Regulamento Geral do Estatuto no prazo de seis meses da publicação da lei.
+P: Regulamento Geral editado pelo Conselho Federal || Quórum de dois terços das delegações || Prazo de seis meses (norma de transição)
+K: Regulamento Geral; Conselho Federal; norma de transição
+
+@OAB 79
+I: Aos servidores da OAB aplica-se o regime trabalhista (CLT), com opção e indenização para os antigos servidores do regime da Lei nº 8.112/1990. O STF, na ADI 3.026, afirmou que a OAB não integra a Administração Pública e não precisa realizar concurso para contratar.
+P: Regime celetista para servidores da OAB || Transição para antigos servidores estatutários || OAB dispensada de concurso público (ADI 3.026)
+K: servidores da OAB; regime trabalhista; concurso público; ADI 3.026
+
+@OAB 80
+I: Os Conselhos Federal e Seccionais devem realizar conferências a cada três anos, fora do ano eleitoral, e reuniões periódicas do colégio de presidentes, com finalidade consultiva.
+P: Conferências trienais || Fora do ano eleitoral || Colégio de presidentes consultivo
+K: conferência da advocacia; colégio de presidentes; OAB
+
+@OAB 81
+I: Norma de transição: preservou o direito de voz e voto dos que tinham assumido originariamente a presidência do Conselho Federal ou das seccionais até a publicação da lei.
+P: Regra de transição || Preserva direitos de ex-presidentes da época || Sem efeito para situações atuais
+K: norma de transição; ex-presidentes; Conselho Federal
+
+@OAB 82
+I: Norma de transição sobre a aplicação das novas regras de mandatos, eleições e composição dos órgãos a partir do término dos mandatos então em curso.
+P: Aplicação das novas regras após os mandatos vigentes em 1994 || Adaptação pelos Conselhos || Regra de transição esgotada
+K: norma de transição; mandatos; eleições; adaptação
+
+@OAB 83
+I: Afasta a incompatibilidade do art. 28, II, para os membros do Ministério Público que, na promulgação da Constituição, optaram pelo regime anterior (ADCT, art. 29, § 3º), permitindo-lhes advogar.
+P: Exceção à incompatibilidade de membros do MP || Vinculada ao ADCT, art. 29, § 3º || Alcança apenas os que fizeram a opção em 1988
+K: Ministério Público; incompatibilidade; ADCT; norma de transição
+
+@OAB 84
+I: Norma de transição que dispensou do Exame de Ordem o estagiário inscrito que comprovasse, em até dois anos da lei, o estágio profissional ou o estágio de Prática Forense.
+P: Dispensa transitória do Exame de Ordem || Prazo de dois anos da lei || Regra esgotada
+K: Exame de Ordem; estagiário; norma de transição
+
+@OAB 85
+I: O Instituto dos Advogados Brasileiros, a Federação Nacional dos Institutos dos Advogados e seus filiados podem promover perante a OAB o que for do interesse dos advogados.
+P: Legitimidade do IAB e dos Institutos perante a OAB || Defesa de interesses gerais e individuais da classe || Complementa o art. 51, § 3º
+K: Instituto dos Advogados Brasileiros; IAB; legitimidade; OAB
+
+@OAB 86
+I: A lei entrou em vigor na data de sua publicação, em 5 de julho de 1994, sem período de vacatio legis.
+P: Vigência imediata || Publicação no DOU de 5.7.1994 || Sem vacatio legis
+K: vigência; publicação; vacatio legis
+
+@OAB 87
+I: Revoga as disposições em contrário, especialmente o antigo Estatuto da OAB (Lei nº 4.215/1963) e outras leis sobre a advocacia, mantidos os efeitos da Lei nº 7.346/1985.
+P: Revogação do antigo Estatuto (Lei nº 4.215/1963) || Revogação de outras leis da advocacia || Ressalva da Lei nº 7.346/1985
+K: revogação; Lei 4.215/1963; antigo Estatuto da OAB

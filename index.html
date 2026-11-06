@@ -1115,7 +1115,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);

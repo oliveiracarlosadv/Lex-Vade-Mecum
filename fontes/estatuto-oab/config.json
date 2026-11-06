@@ -1,0 +1,14 @@
+{
+ "nome": "Estatuto da Advocacia e da Ordem dos Advogados do Brasil (Lei nº 8.906/1994)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l8906.htm",
+ "saida": "leis/estatuto-oab/estatuto-oab-completa.md",
+ "minimo_artigos": 85,
+ "parts": [
+  {
+   "id": "OAB",
+   "start": "TÍTULO I",
+   "end": "Brasília, 4 de julho de 1994",
+   "self_name": "desta Lei"
+  }
+ ]
+}

@@ -15,7 +15,8 @@ cfg = json.load(open(sys.argv[1], encoding='utf-8'))
 L = [l.strip() for l in open(cfg['text'], encoding='utf-8').read().split('\n')]
 
 HEAD = re.compile(r'^(TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
-ART = re.compile(r'^Art\.? ?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z])?\.?\s')
+# \s aceita também o espaço não separável (U+00A0) que o Planalto às vezes usa após "Art."
+ART = re.compile(r'^Art\.?\s*(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z])?\.?\s')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'CAPÍTULO': 3, 'SEÇÃO': 4, 'Seção': 4, 'SUBSEÇÃO': 5, 'Subseção': 5}
 
 def find(prefix, start=0):
