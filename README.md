@@ -10,7 +10,17 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 
 ## Consulta on-line
 
-**[Abrir o Lex Vade Mecum](https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/)** — página de leitura com todas as leis deste repositório: menu de leis à esquerda, sumário, busca por palavra, expressão ou artigo (`art. 5º`, `tema 75`) e diagramação de livro, no computador ou no celular. A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente.
+<p align="center"><a href="https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/"><strong>📖 Abrir o Lex Vade Mecum on-line</strong></a></p>
+
+Página de leitura com todas as leis deste repositório, diagramada como um livro e adaptada a computador, tablet e celular:
+
+- **Menu de leis** à esquerda e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
+- **Busca** por palavra, expressão entre aspas ou artigo: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75` — na lei aberta ou em todas.
+- **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte ou gerar imagem da citação.
+- **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
+- Página **Sobre**, com o objetivo do projeto e o criador.
+
+A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente. Documentação: [Guia de uso](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).
 
 ## Acesso direto às leis
 
@@ -65,6 +75,8 @@ Detalhes técnicos em [`ferramentas/LEIA-ME.md`](ferramentas/LEIA-ME.md).
 | `fontes/<norma>/` | Texto oficial de referência, análises de cada artigo, histórico de alterações e configuração |
 | `ferramentas/` | Extração do Planalto, atualização, montagem e validação |
 | `assets/` | Logo e ícone do Lex Vade Mecum (SVG e PNG) |
+| `index.html`, `.nojekyll` | Página de consulta on-line (GitHub Pages) |
+| `docs/` | Guia de uso e documentação técnica da página on-line |
 
 ## Aviso
 
