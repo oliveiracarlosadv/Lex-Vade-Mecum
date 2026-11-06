@@ -153,6 +153,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
 | 06/11/2026 | Celular: página fixa na largura da tela, sem rolagem lateral; links longos encurtados |
 | 06/11/2026 | Story e imagem de citação justificados com hifenização em português |
