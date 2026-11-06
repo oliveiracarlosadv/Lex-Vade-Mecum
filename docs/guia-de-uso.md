@@ -98,7 +98,21 @@ Todo artigo tem endereço próprio, por exemplo:
 
 Quem abrir o link cai direto no artigo, destacado.
 
-## 6. Atalho na tela inicial do celular
+## 6. Marca-texto, favoritos, perfil e backup
+
+Tudo o que você marca fica salvo **neste navegador**, sem cadastro e sem envio a servidor, enquanto os dados do site não forem apagados (limpar o histórico ou os dados de navegação apaga também as marcações). Para não perder nada, ou para levar tudo a outro aparelho, use o backup.
+
+- **Marca-texto:** selecione um trecho do texto da lei e toque em **Marcar** (primeiro botão da barra de seleção); escolha a cor (amarelo, verde, azul ou rosa). O trecho fica colorido sempre que você abrir a lei, e o artigo ganha um ponto ao lado do número. Tocar num trecho marcado permite **mudar a cor**, **copiar com a fonte** ou **remover a marcação**.
+- **Favoritar lei:** dentro da lei, toque em **☆ Favoritar**. As favoritas recebem ★ no menu e aparecem em **Suas favoritas**, no topo da página inicial.
+- **Seu perfil:** em **★ Perfil, favoritos e marcações** (menu lateral), informe seu **nome** e seu **@** nas redes sociais e toque em **Salvar perfil**. Eles passam a sair no rodapé dos **stories** e das **imagens** que você gerar, como "Compartilhado por Maria Souza · @mariasouza.adv". Deixe em branco para não aparecer.
+- **Lista de marcações:** a mesma página mostra as leis favoritas e todos os trechos marcados, agrupados por lei, com link direto para cada artigo e botão ✕ para remover.
+- **Fazer backup (.json):** baixa um arquivo `lex-vade-mecum-backup-AAAA-MM-DD.json` com o perfil, as favoritas e as marcações.
+- **Importar backup:** escolha o arquivo de backup. Se já houver dados no navegador, você decide entre **juntar** (OK) ou **substituir** (Cancelar).
+- **Apagar tudo:** remove perfil, favoritas e marcações deste navegador (faça backup antes, se quiser guardar).
+
+Se o texto de um artigo mudar numa atualização, a marcação é reposicionada pelo próprio trecho; se o trecho deixar de existir, ela continua na lista, mas não aparece colorida no texto.
+
+## 7. Atalho na tela inicial do celular
 
 A página pode ser salva como um aplicativo, com o ícone do Lex Vade Mecum (livro aberto com ramo de oliveira) e o nome "Lex Vade Mecum":
 
@@ -107,10 +121,10 @@ A página pode ser salva como um aplicativo, com o ícone do Lex Vade Mecum (liv
 
 Aberto pelo atalho, o Lex Vade Mecum ocupa a tela inteira, sem a barra de endereço do navegador, e mostra sempre o texto atualizado.
 
-## 7. Cópia para uso sem internet
+## 8. Cópia para uso sem internet
 
 A pasta do Google Drive do projeto tem uma cópia da página (`index.html` com `dados-offline.js`). Basta abrir o `index.html` com dois cliques: leitura, busca, compartilhamento por link e impressão funcionam sem servidor. A geração de **Imagem** precisa de internet e funciona apenas na versão on-line. A cópia reflete o conteúdo da data em que foi sincronizada; a versão on-line é sempre a mais atual.
 
-## 8. Aviso
+## 9. Aviso
 
 As análises têm finalidade informativa e didática, não constituem parecer jurídico e não substituem a consulta ao texto publicado no Diário Oficial nem a orientação de um profissional habilitado.

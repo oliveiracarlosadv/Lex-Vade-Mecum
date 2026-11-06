@@ -113,6 +113,10 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | Imagem | Monta um cartão de 1080 px fora da tela e o converte em PNG com `html2canvas` (carregado só nesse momento). Computador: download; celular: tela de compartilhamento |
 | Story | `desenharStory()` desenha a imagem direto em canvas 1080 × 1920, sem depender da diagramação do navegador (resultado igual no iPhone, Android e computador): logo no topo, trecho no centro e dispositivo, lei, número e site no rodapé. As linhas são quebradas por `quebrarLinhas()` com hifenização em português (`pontosSilabicos()`) e justificadas por `escreverJustificado()`, que distribui a sobra igualmente entre as palavras; a última linha de cada parágrafo fica alinhada à esquerda. A fonte parte de 64 px e diminui até o trecho caber inteiro |
 | Ir à expressão buscada | Resultados levam `?q=termos`; `irPara()` rola até o primeiro `<mark>` do texto oficial (ou da análise), a um terço da altura da tela, e o destaca com `mark.foco` |
+| Marca-texto | Botão **Marcar** da barra de seleção. `trechosDaSelecao()` divide a seleção por parágrafo do texto oficial (`.oficial p`) e guarda, para cada parte: lei, dispositivo (`uid`), índice do parágrafo, posição inicial e final no `textContent` e o próprio trecho; partes de uma mesma seleção compartilham o grupo `g`. `aplicarMarcas()` remove e redesenha os `<mark class="mt">` a cada abertura da lei; `localizar()` confere o trecho na posição salva e, se o texto mudou, procura-o no mesmo dispositivo. Clique numa marca abre `menuMarca()` (cor, copiar, remover) |
+| Favoritos e perfil | `alternarFavorita()` (botão ☆ na lei; ★ no menu e na página inicial). O perfil (`nome`, `@`) é saneado por `limparPerfil()` e entra no rodapé do story e da imagem via `linhaPerfil()` ("Compartilhado por …") |
+| Armazenamento | `localStorage['lex-dados']` = `{versao, perfil, favoritos[], marcas[]}`; cor preferida em `lex-cor`. Leitura e gravação sempre com `try/catch` (modo privado ou cota cheia mostram aviso). Nada é enviado a servidor |
+| Backup | `exportarBackup()` gera `lex-vade-mecum-backup-AAAA-MM-DD.json` (`app: "Lex Vade Mecum"`, `tipo: "backup"`); `importarBackup()` valida o arquivo e cada marcação, e junta (sem duplicar por `id`) ou substitui. Página `#/marcacoes` |
 | Barra de seleção | Aparece em `selectionchange` dentro do conteúdo; no celular fica fixa embaixo para não colidir com o menu nativo |
 
 ### 4.4 Aparência
@@ -154,6 +158,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 - [ ] Links diretos: `#/constituicao-federal/art-5`, `#/cpc/art-1-035`, `#/tst-precedentes/tema-75`.
 - [ ] Busca: `dano moral` (todas), `"direito adquirido"`, `art 5`, `tema 75`, `adct 10`.
 - [ ] Compartilhar artigo e seleção; Copiar; Imprimir artigo e lei; Imagem.
+- [ ] Marcar trecho (inclusive de dois parágrafos), recarregar a página e conferir; mudar cor e remover; favoritar lei; salvar perfil e gerar Story; backup e importação.
 - [ ] Tema escuro; largura de celular (375 px) e de computador.
 - [ ] Cópia do Drive abre com dois cliques (sem servidor).
 
@@ -164,6 +169,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
 | 06/11/2026 | Nova busca: índice com radicais, ranking por relevância, sugestões ao digitar, correção de digitação, filtros por lei e pré-carregamento |
 | 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
+| 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
 | 06/11/2026 | Celular: página fixa na largura da tela, sem rolagem lateral; links longos encurtados |
