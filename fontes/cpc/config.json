@@ -1,0 +1,14 @@
+{
+ "nome": "Código de Processo Civil (Lei nº 13.105/2015)",
+ "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm",
+ "saida": "leis/cpc/cpc-completa.md",
+ "minimo_artigos": 1070,
+ "parts": [
+  {
+   "id": "CPC",
+   "start": "PARTE GERAL",
+   "end": "Brasília, 16 de março de 2015",
+   "self_name": "CPC"
+  }
+ ]
+}

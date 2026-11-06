@@ -1,0 +1,15 @@
+{
+ "nome": "Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm",
+ "saida": "leis/lindb/lindb-completa.md",
+ "minimo_artigos": 30,
+ "parts": [
+  {
+   "id": "L",
+   "start": "Art. 1o",
+   "end": "Rio de Janeiro, 4 de setembro de 1942",
+   "self_name": "desta Lei",
+   "root_name": "Decreto-Lei nº 4.657/1942 (LINDB) — texto sem divisão em Títulos ou Capítulos"
+  }
+ ]
+}
