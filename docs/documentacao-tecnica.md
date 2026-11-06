@@ -102,6 +102,8 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | Imprimir artigo | Clona o dispositivo em `#areaImpressao`, aplica `body.imprimindo` e chama `window.print()`; o CSS de impressão esconde o resto |
 | Imprimir lei | `window.print()` com CSS de impressão (sem menu, sem botões, cores claras, artigos sem quebra no meio quando possível) |
 | Imagem | Monta um cartão de 1080 px fora da tela e o converte em PNG com `html2canvas` (carregado só nesse momento). Computador: download; celular: tela de compartilhamento |
+| Story | Mesmo mecanismo da Imagem, com `htmlStory()`: cartão 1080 × 1920 com o logo no topo, o trecho (fonte ajustada ao tamanho; acima de 900 caracteres é cortado com reticências) e, no rodapé, dispositivo, lei, número e endereço do site |
+| Ir à expressão buscada | Resultados levam `?q=termos`; `irPara()` rola até o primeiro `<mark>` do texto oficial (ou da análise), a um terço da altura da tela, e o destaca com `mark.foco` |
 | Barra de seleção | Aparece em `selectionchange` dentro do conteúdo; no celular fica fixa embaixo para não colidir com o menu nativo |
 
 ### 4.4 Aparência
@@ -150,4 +152,5 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Busca leva direto à expressão encontrada; botão Story (1080 × 1920) na barra de seleção |
 | 06/11/2026 | Lista de leis na página inicial; Compartilhar, Copiar, Imprimir e Imagem por artigo e por trecho selecionado; Imprimir lei |

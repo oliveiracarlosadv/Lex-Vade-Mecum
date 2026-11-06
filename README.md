@@ -16,7 +16,8 @@ Página de leitura com todas as leis deste repositório, diagramada como um livr
 
 - **Menu de leis** à esquerda e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
 - **Busca** por palavra, expressão entre aspas ou artigo: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75` — na lei aberta ou em todas.
-- **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte ou gerar imagem da citação.
+- **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte, gerar imagem da citação ou um **Story** vertical com o logo do Lex Vade Mecum e a lei no rodapé.
+- Ao abrir um resultado da busca, a página vai **direto à expressão encontrada**.
 - **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
 - Página **Sobre**, com o objetivo do projeto e o criador.
 
