@@ -1,0 +1,224 @@
+@CLT 200
+I: Autoriza o Ministério do Trabalho a editar disposições complementares de segurança e saúde conforme as peculiaridades de cada atividade, como construção civil, inflamáveis e explosivos, escavações e minas, proteção contra incêndio, radiações, higiene, sinalização e trabalho a céu aberto. É o fundamento legal das Normas Regulamentadoras (NRs).
+P: Base legal das Normas Regulamentadoras || Regras específicas por atividade de risco || Abrange construção, minas, incêndio, radiação e outros
+K: Normas Regulamentadoras; NR; segurança do trabalho; construção civil; prevenção de incêndio
+
+@CLT 201
+I: Prevê multas para infrações de medicina do trabalho (3 a 30 vezes o valor de referência) e de segurança do trabalho (5 a 50 vezes), aplicadas no valor máximo em reincidência, embaraço à fiscalização ou fraude. Os valores são atualizados pela legislação posterior.
+P: Multas graduadas por natureza da infração || Valor máximo em reincidência ou fraude || Referência monetária atualizada
+K: multa administrativa; segurança do trabalho; medicina do trabalho
+
+@CLT 223-A
+I: Determina que a reparação de danos extrapatrimoniais (morais e existenciais) decorrentes da relação de trabalho siga apenas as regras deste Título, criado pela Reforma Trabalhista. O STF (ADIs 6.050, 6.069 e 6.082) admitiu a aplicação complementar de outras normas, como o Código Civil, e afastou a ideia de que o Título esgota a matéria.
+P: Regime próprio de dano extrapatrimonial na CLT || STF admite aplicação complementar do Código Civil || Introduzido pela Reforma Trabalhista
+K: dano extrapatrimonial; dano moral; Reforma Trabalhista; ADI 6.050
+
+@CLT 223-B
+I: Considera dano extrapatrimonial a ação ou omissão que ofende a esfera moral ou existencial da pessoa física ou jurídica, titulares exclusivas do direito à reparação.
+P: Dano moral e existencial || Pessoa física e jurídica podem ser vítimas || Titularidade da reparação
+K: dano extrapatrimonial; dano existencial; dano moral; pessoa jurídica
+
+@CLT 223-C
+I: Lista os bens extrapatrimoniais da pessoa física protegidos: honra, imagem, intimidade, liberdade de ação, autoestima, sexualidade, saúde, lazer e integridade física. A lista é exemplificativa, segundo a interpretação constitucional dominante.
+P: Bens protegidos da pessoa física || Inclui saúde, lazer e integridade física || Rol interpretado de forma exemplificativa
+K: direitos da personalidade; honra; imagem; intimidade; dano moral
+
+@CLT 223-D
+I: Lista os bens extrapatrimoniais da pessoa jurídica protegidos: imagem, marca, nome, segredo empresarial e sigilo da correspondência.
+P: Pessoa jurídica pode sofrer dano extrapatrimonial || Imagem, marca, nome e segredos || Pode ser vítima de empregado
+K: pessoa jurídica; dano moral; marca; segredo empresarial
+
+@CLT 223-E
+I: Todos os que colaborarem para a ofensa respondem pelo dano extrapatrimonial, na proporção de sua ação ou omissão.
+P: Responsabilidade de todos os colaboradores || Proporção da participação || Pode alcançar superiores hierárquicos e terceiros
+K: responsabilidade; dano extrapatrimonial; coautoria
+
+@CLT 223-F
+I: O dano extrapatrimonial pode ser pedido junto com danos materiais do mesmo ato, e o juiz deve discriminar os valores de cada um. Lucros cessantes e danos emergentes não interferem na avaliação do dano extrapatrimonial.
+P: Cumulação de danos materiais e morais || Valores discriminados na decisão || Avaliações independentes
+K: cumulação; danos materiais; dano moral; lucros cessantes
+
+@CLT 223-G
+I: Lista os critérios para fixar a indenização (natureza do bem, intensidade do sofrimento, reflexos, duração, culpa, retratação, condição das partes etc.) e estabelece faixas conforme a gravidade da ofensa (leve, média, grave e gravíssima), calculadas sobre o último salário do ofendido. O STF (ADIs 6.050, 6.069 e 6.082) decidiu que essas faixas são parâmetros orientadores, e não tetos: o juiz pode fixar valor superior, fundamentando.
+P: Critérios de quantificação do dano || Faixas por gravidade da ofensa (§ 1º) || Faixas são orientativas, não tetos (STF)
+K: quantificação do dano moral; tarifação; gravidade da ofensa; ADI 6.050
+
+@CLT 224
+I: A jornada normal do bancário é de 6 horas contínuas nos dias úteis, exceto sábados, totalizando 30 horas semanais, entre 7h e 22h, com intervalo de 15 minutos. Não se aplica a quem exerce função de direção, gerência, fiscalização, chefia ou outro cargo de confiança com gratificação de ao menos um terço do salário, que tem jornada de 8 horas (Súmula 102 do TST). O sábado do bancário é dia útil não trabalhado (Súmula 113 do TST).
+P: Jornada de 6 horas e 30 horas semanais || Cargo de confiança com gratificação de 1/3 tem jornada de 8 horas (§ 2º) || Gerente-geral enquadra-se no art. 62, II (Súmula 287 do TST)
+K: bancário; jornada de seis horas; cargo de confiança bancário; gratificação de função
+
+@CLT 225
+I: A jornada do bancário pode ser excepcionalmente prorrogada até 8 horas diárias, sem exceder 40 horas semanais, respeitadas as regras gerais. A pré-contratação de horas extras na admissão é nula (Súmula 199 do TST).
+P: Prorrogação excepcional até 8 horas || Limite de 40 horas semanais || Pré-contratação de horas extras é nula (Súmula 199)
+K: bancário; horas extras; prorrogação; pré-contratação
+
+@CLT 226
+I: Estende a jornada de 6 horas aos empregados de portaria e limpeza dos bancos, como porteiros, telefonistas, contínuos e serventes, com escala que garanta a portaria meia hora antes e depois do expediente.
+P: Jornada de 6 horas para portaria e limpeza de bancos || Escala de portaria antes e depois do expediente || Exige vínculo com o banco
+K: bancário; portaria; limpeza; jornada especial
+
+@CLT 227
+I: Os operadores de telefonia, telegrafia e radiotelefonia têm jornada máxima de 6 horas diárias ou 36 semanais. O excesso por necessidade indeclinável é pago com adicional de 50%, e o trabalho em domingos e feriados segue acordo ou norma coletiva. A jurisprudência estende a regra a operadores de telemarketing em condições equivalentes, conforme a NR-17 (Anexo II).
+P: Jornada de 6 horas ou 36 semanais || Excesso com adicional de 50% || Domingos e feriados por acordo ou norma coletiva
+K: telefonista; operador de telefonia; jornada especial; telemarketing
+
+@CLT 228
+I: Proíbe o trabalho ininterrupto dos operadores na transmissão ou recepção manual quando a velocidade superar 25 palavras por minuto.
+P: Limite de 25 palavras por minuto em trabalho contínuo || Prevenção da fadiga || Regra histórica dos telegrafistas
+K: telegrafista; fadiga; velocidade de transmissão
+
+@CLT 229
+I: Para empregados de telecomunicações com horários variáveis, a jornada máxima é de 7 horas diárias com 17 de folga, e há descanso de 20 minutos a cada esforço contínuo superior a 3 horas.
+P: Jornada máxima de 7 horas para horários variáveis || Folga de 17 horas || Pausa de 20 minutos após 3 horas de esforço contínuo
+K: horário variável; telecomunicações; pausa; jornada
+
+@CLT 230
+I: As empresas de telecomunicações devem organizar turmas com revezamento entre os que exercem a mesma função, permitir trocas de turma sem prejuízo do serviço e respeitar horários de refeição (almoço entre 10h e 13h; jantar entre 16h e 19h30).
+P: Revezamento obrigatório || Troca de turmas autorizada pela chefia || Horários de refeição protegidos
+K: revezamento; turmas; horário de refeição; telecomunicações
+
+@CLT 231
+I: Exclui das regras desta seção os operadores de radiotelegrafia embarcados em navios ou aeronaves, sujeitos a normas próprias.
+P: Exclusão dos embarcados em navios e aeronaves || Normas próprias da navegação || Delimita o alcance da seção
+K: radiotelegrafista embarcado; exclusão; jornada especial
+
+@CLT 232
+I: A jornada dos músicos em teatros e congêneres é de 6 horas; o excedente em espetáculo contínuo é pago com adicional de 25%. A profissão também é regida pela Lei nº 3.857/1960.
+P: Jornada de 6 horas para músicos de teatro || Adicional de 25% no excedente || Lei própria da profissão
+K: músico profissional; jornada especial; espetáculo
+
+@CLT 233
+I: A jornada dos músicos profissionais pode ser elevada até 8 horas diárias, observadas as regras gerais de duração do trabalho.
+P: Elevação até 8 horas diárias || Respeito às regras gerais || Complementa o art. 232
+K: músico profissional; prorrogação de jornada
+
+@CLT 234
+I: A jornada dos operadores cinematográficos e ajudantes é de até 6 horas: 5 horas consecutivas em cabine e até 1 hora para limpeza e revisão. Pode ser prorrogada por 2 horas para exibições extraordinárias, com adicional de 25% e intervalo de 2 horas.
+P: Jornada de 6 horas (5 em cabine + 1 de manutenção) || Prorrogação de 2 horas com adicional de 25% || Intervalo de 2 horas antes da prorrogação
+K: operador cinematográfico; jornada especial; projecionista
+
+@CLT 235
+I: Em cinemas de funcionamento noturno, os operadores podem trabalhar em sessões diurnas extraordinárias cumuladas com as noturnas, por norma coletiva, com adicional de 25%, até 3 vezes por semana, com intervalo mínimo de 1 hora, jornada cumulada de até 10 horas e repouso de 12 horas após cada período.
+P: Sessões diurnas extras por norma coletiva || Até 3 vezes por semana e 10 horas || Repouso mínimo de 12 horas
+K: operador cinematográfico; sessões extraordinárias; jornada cumulativa
+
+@CLT 235-A
+I: As regras especiais desta seção aplicam-se ao motorista profissional empregado no transporte rodoviário coletivo de passageiros e no transporte rodoviário de cargas, conforme a Lei nº 13.103/2015.
+P: Motoristas de passageiros e de cargas || Regras especiais de jornada e descanso || Lei nº 13.103/2015
+K: motorista profissional; transporte de cargas; transporte de passageiros; Lei 13.103
+
+@CLT 235-B
+I: Lista os deveres do motorista profissional: atenção à segurança do veículo, direção defensiva, respeito ao tempo de direção e descanso (CTB, art. 67-E), zelo pela carga, colaboração com a fiscalização e submissão a exame toxicológico periódico e a programa de controle de drogas e álcool. A recusa ao exame é infração disciplinar.
+P: Deveres de segurança e direção defensiva || Respeito aos tempos de direção e descanso do CTB || Exame toxicológico periódico; recusa é infração
+K: motorista profissional; deveres; exame toxicológico; direção defensiva
+
+@CLT 235-C
+I: A jornada do motorista é de 8 horas, prorrogável por 2 horas extras ou por até 4 com norma coletiva. Conta como trabalho o tempo à disposição, excluídos intervalos e tempo de espera. Garante intervalo de refeição de 1 hora e 11 horas de descanso em 24 horas, admitido fracionamento. O STF (ADI 5.322) declarou inconstitucionais regras sobre tempo de espera não remunerado e fracionamento do descanso, o que deve ser considerado na leitura dos parágrafos.
+P: Jornada de 8 horas, com até 2 ou 4 horas extras || Intervalo de 1 hora e descanso de 11 horas || Pontos sobre tempo de espera e descanso afetados pela ADI 5.322 do STF
+K: motorista profissional; jornada; tempo de espera; descanso; ADI 5.322
+
+@CLT 235-D
+I: Em viagens de longa distância superiores a 7 dias, o repouso semanal é de 24 horas por semana somadas ao descanso diário de 11 horas (35 horas), usufruído no retorno à base ou domicílio, salvo condições adequadas oferecidas pela empresa. Admite fracionamento e acúmulo limitados. O STF (ADI 5.322) afastou parte das regras de acúmulo e fracionamento.
+P: Repouso semanal de 35 horas em viagens longas || Gozo no retorno à base ou domicílio || Regras de acúmulo e fracionamento afetadas pela ADI 5.322
+K: motorista profissional; viagem de longa distância; repouso semanal; ADI 5.322
+
+@CLT 235-E
+I: No transporte de passageiros, permite fracionar o intervalo de condução em períodos de 5 minutos e o intervalo de refeição em dois, e, com dois motoristas, o descanso com o veículo em movimento, garantido repouso em alojamento ou poltrona leito após 72 horas. Pontos dessa regra foram examinados pelo STF na ADI 5.322.
+P: Fracionamento dos intervalos no transporte de passageiros || Revezamento de motoristas na mesma viagem || Repouso adequado após 72 horas
+K: motorista de ônibus; transporte de passageiros; intervalo; revezamento
+
+@CLT 235-F
+I: Convenção ou acordo coletivo pode prever jornada 12x36 para o motorista profissional empregado.
+P: Jornada 12x36 por norma coletiva || Específica para motoristas || Complementa o art. 59-A
+K: motorista profissional; 12x36; norma coletiva
+
+@CLT 235-G
+I: Permite remunerar o motorista pela distância, tempo de viagem ou carga transportada, inclusive por comissão, desde que isso não comprometa a segurança viária nem estimule violações das normas de jornada e trânsito.
+P: Remuneração por produção permitida || Limite: não comprometer a segurança || Proíbe incentivos à violação de normas
+K: motorista; comissão; remuneração por produção; segurança viária
+
+@CLT 236
+I: Define o serviço ferroviário (transporte em ferrovias abertas ao tráfego público, incluindo administração, construção, conservação, tráfego e comunicações) e o submete às regras especiais desta seção.
+P: Conceito amplo de serviço ferroviário || Inclui manutenção e comunicações || Regras especiais de jornada
+K: ferroviário; serviço ferroviário; jornada especial
+
+@CLT 237
+I: Divide os ferroviários em categorias: (a) alta administração e funções de chefia e fiscalização; (b) pessoal em locais determinados com atenção constante; (c) equipagens de trens; (d) pessoal de serviço intermitente ou de pouca intensidade, como vigias e estações do interior.
+P: Quatro categorias de ferroviários || Cada categoria tem regras de jornada próprias || Base para os arts. 238 a 247
+K: ferroviário; categorias; equipagem de trem; serviço intermitente
+
+@CLT 238
+I: Conta como trabalho efetivo todo o tempo à disposição da ferrovia, com regras próprias para deslocamentos: não conta o tempo de viagem da categoria "c" até o local de início do serviço; conta, sem horas extras, o do pessoal removido; e, nas turmas de conservação, conta desde a saída da casa da turma.
+P: Tempo à disposição é trabalho efetivo || Regras específicas para deslocamentos || Turmas de conservação contam a partir da casa da turma
+K: ferroviário; tempo à disposição; deslocamento; trabalho efetivo
+
+@CLT 239
+I: Para a equipagem de trens (categoria "c"), a prorrogação independe de norma coletiva, mas não pode passar de 12 horas, com descanso mínimo de 10 horas entre jornadas, ajuda de custo para alimentação e hospedagem e escalas que equilibrem trabalho noturno e diurno.
+P: Prorrogação até 12 horas para equipagens || Descanso de 10 horas entre jornadas || Ajuda de custo para alimentação e hospedagem
+K: ferroviário; equipagem; prorrogação; ajuda de custo
+
+@CLT 240
+I: Em urgência ou acidente que afete a segurança ou regularidade do serviço ferroviário, a jornada pode ser elevada excepcionalmente, com repouso correspondente e comunicação ao Ministério em 10 dias. A recusa injustificada ao serviço extraordinário é falta grave.
+P: Prorrogação ilimitada em urgência ou acidente || Repouso compensatório e comunicação ao Ministério || Recusa injustificada é falta grave
+K: ferroviário; urgência; acidente; falta grave
+
+@CLT 241
+I: Fixa adicionais escalonados para horas extras ferroviárias: 25% nas duas primeiras, 50% nas duas seguintes e 75% nas demais; para a equipagem, 25%, 50% e 60%. A Constituição (art. 7º, XVI) impõe o mínimo de 50%, que prevalece sobre percentuais inferiores.
+P: Adicionais escalonados de horas extras || Regra própria para equipagens || Mínimo constitucional de 50% prevalece
+K: ferroviário; horas extras; adicional; mínimo constitucional
+
+@CLT 242
+I: Frações de meia hora superiores a 10 minutos contam como meia hora no serviço ferroviário.
+P: Arredondamento de frações || Mais de 10 minutos conta meia hora || Cálculo de jornada ferroviária
+K: ferroviário; fração de hora; cálculo de jornada
+
+@CLT 243
+I: Para empregados de estações do interior com serviço intermitente ou de pouca intensidade, não se aplicam as regras gerais de duração do trabalho, mas garante-se repouso mínimo de 10 horas entre jornadas e descanso semanal.
+P: Exclusão das regras gerais de jornada || Repouso de 10 horas entre jornadas || Descanso semanal assegurado
+K: ferroviário; estação do interior; serviço intermitente
+
+@CLT 244
+I: Permite às ferrovias manter empregados extranumerários, de sobreaviso e de prontidão. O sobreaviso (em casa, aguardando chamado, até 24 horas) é pago à razão de 1/3 do salário; a prontidão (nas dependências da ferrovia, até 12 horas) à razão de 2/3. A jurisprudência aplica a regra por analogia a outras categorias e ao uso de celular com restrição de liberdade (Súmula 428 do TST).
+P: Sobreaviso pago a 1/3 do salário-hora || Prontidão paga a 2/3 || Aplicação analógica ao sobreaviso por celular (Súmula 428)
+K: sobreaviso; prontidão; plantão; Súmula 428 do TST
+
+@CLT 245
+I: Os cabineiros de estações de tráfego intenso têm jornada de até 8 horas em dois turnos de no máximo 5 horas, com intervalo de 1 hora e descanso de 14 horas entre jornadas.
+P: Jornada de 8 horas em dois turnos || Turno máximo de 5 horas || Descanso de 14 horas entre jornadas
+K: cabineiro; ferroviário; tráfego intenso; jornada
+
+@CLT 246
+I: Os operadores telegrafistas de estações de tráfego intenso têm jornada máxima de 6 horas diárias.
+P: Jornada de 6 horas || Estações de tráfego intenso || Telegrafistas ferroviários
+K: telegrafista; ferroviário; jornada especial
+
+@CLT 247
+I: A classificação das estações (principais, de tráfego intenso e do interior) é feita pelo órgão federal de transportes ferroviários, para aplicação das regras da seção.
+P: Classificação administrativa das estações || Define o regime de jornada aplicável || Órgão federal competente
+K: ferroviário; classificação de estações
+
+@CLT 248
+I: O tripulante pode permanecer em seu posto por 8 horas em cada dia civil, de forma contínua ou intermitente (a critério do comandante, em períodos de ao menos 1 hora). Serviços de quarto prejudiciais à saúde têm períodos e intervalos de 4 horas.
+P: Jornada de 8 horas por dia civil || Contínua ou intermitente a critério do comandante || Quartos em períodos e intervalos de 4 horas
+K: marítimo; tripulante; jornada; quarto
+
+@CLT 249
+I: O tempo de serviço do tripulante além de 8 horas é extraordinário, sujeito à compensação do art. 250, exceto em funções de direção, perigo iminente, manobras gerais e situações próprias da navegação fluvial e lacustre.
+P: Excedente de 8 horas é extraordinário || Exceções por segurança e funções de direção || Compensação pelo art. 250
+K: marítimo; horas extras; exceções; navegação
+
+@CLT 250
+I: As horas extras do tripulante são compensadas por descanso equivalente, no dia seguinte, no fim da viagem ou por pagamento; frações de hora contam como hora inteira.
+P: Compensação por descanso ou pagamento || Fração conta como hora inteira || Conveniência do serviço
+K: marítimo; compensação; horas extras
+
+@CLT 251
+I: Cada embarcação deve ter livro de horas extras dos tripulantes e livro de transgressões, conforme modelos oficiais, escriturados pelo comandante.
+P: Livro de horas extras a bordo || Livro de transgressões || Escrituração pelo comandante
+K: marítimo; registro de jornada; livro de bordo
+
+@CLT 252
+I: O tripulante que se sentir prejudicado por ordem superior pode recorrer à autoridade do trabalho marítimo por meio do comandante, que deve encaminhar o recurso em 5 dias após a chegada ao porto.
+P: Recurso contra ordem superior || Encaminhamento pelo comandante em 5 dias || Autoridade do trabalho marítimo
+K: marítimo; recurso; comandante; hierarquia
