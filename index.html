@@ -103,6 +103,8 @@ h1.titulo-obra{font-family:var(--display);font-weight:600;font-size:clamp(28px, 
 .md h4{font-family:var(--display);font-variant:small-caps;letter-spacing:.08em;font-size:17px;font-weight:600;color:var(--titulo2);margin:1em 0 .2em}
 del{color:var(--tachado);text-decoration-thickness:1px}
 mark{background:var(--marca-texto);color:inherit;padding:0 1px;border-radius:2px}
+mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.2s ease-out 2}
+@keyframes pisca{50%{outline-color:transparent}}
 
 /* ---------- Dispositivos (artigos e temas) ---------- */
 .dispositivo{margin:2.2em 0 1.4em;scroll-margin-top:20px}
@@ -130,13 +132,25 @@ mark{background:var(--marca-texto);color:inherit;padding:0 1px;border-radius:2px
 .aviso-rapido.on{opacity:1}
 #areaImpressao,#fabricaImagem{display:none}
 #fabricaImagem.ativa{display:block;position:fixed;left:-20000px;top:0}
+.story-img{width:1080px;height:1920px;background:#FBF8F0;color:#2A2925;display:flex;flex-direction:column;box-sizing:border-box;padding:150px 120px 140px;font-family:var(--serif);position:relative}
+.st-moldura{position:absolute;left:44px;top:44px;right:44px;bottom:44px;border:2px solid #D9D0BA;border-radius:8px}
+.st-topo{text-align:center;padding-bottom:56px;border-bottom:2px solid #384A2C;position:relative}
+.st-topo img{width:600px;height:auto}
+.st-meio{flex:1;display:flex;flex-direction:column;justify-content:center;position:relative}
+.st-aspas{font-family:var(--display);font-size:220px;line-height:1;height:130px;color:#46712A;margin-left:-8px}
+.st-texto{line-height:1.5;text-align:left;hyphens:none}
+.st-rodape{border-top:2px solid #384A2C;padding-top:48px;text-align:center;position:relative}
+.st-disp{font-family:var(--display);font-weight:700;font-size:54px;color:#384A2C;line-height:1.15}
+.st-lei{font-family:var(--display);font-size:42px;line-height:1.2;margin-top:10px}
+.st-num{font-family:var(--serif);font-size:32px;color:#5E5A50;margin-top:12px}
+.st-site{font-family:var(--serif);font-size:28px;color:#5E5A50;margin-top:30px}
 .card-img{width:1080px;background:#FBF8F0;color:#2A2925;font-family:var(--serif);padding:80px 88px 64px;box-sizing:border-box}
 .card-img .ci-topo{display:flex;align-items:center;gap:16px;border-bottom:2px solid #384A2C;padding-bottom:20px;margin-bottom:36px}
 .card-img .ci-topo img{width:64px;height:64px}
 .card-img .ci-marca{font-family:var(--display);color:#384A2C;line-height:1}
 .card-img .ci-marca b{display:block;font-size:40px;letter-spacing:.14em}
 .card-img .ci-marca i{display:block;font-style:normal;font-variant:small-caps;letter-spacing:.2em;font-size:22px;color:#46712A}
-.card-img .ci-lei{margin-left:auto;text-align:right;font-family:var(--ui);font-size:19px;color:#5E5A50;max-width:520px;line-height:1.35}
+.card-img .ci-lei{margin-left:auto;text-align:right;font-family:var(--serif);font-size:20px;color:#5E5A50;max-width:520px;line-height:1.35}
 .card-img .ci-rot{font-family:var(--display);font-weight:700;font-size:46px;color:#384A2C;text-align:center;letter-spacing:.04em}
 .card-img .ci-sub{font-family:var(--display);font-style:italic;font-size:32px;text-align:center;margin-top:4px}
 .card-img .ci-texto{font-size:30px;line-height:1.6;text-align:justify;margin-top:30px}
@@ -145,7 +159,7 @@ mark{background:var(--marca-texto);color:inherit;padding:0 1px;border-radius:2px
 .card-img .ci-texto del{color:#8C877A}
 .card-img .ci-citacao{font-size:36px;line-height:1.55;font-style:italic;border-left:5px solid #46712A;padding-left:28px;margin:10px 0 26px}
 .card-img .ci-fonte{font-family:var(--display);font-size:28px;color:#384A2C;text-align:right}
-.card-img .ci-rodape{margin-top:44px;border-top:1px solid #D9D0BA;padding-top:18px;font-family:var(--ui);font-size:18px;color:#5E5A50;display:flex;justify-content:space-between;gap:20px}
+.card-img .ci-rodape{margin-top:44px;border-top:1px solid #D9D0BA;padding-top:18px;font-family:var(--serif);font-size:19px;color:#5E5A50;display:flex;justify-content:space-between;gap:20px}
 .indice{list-style:none;padding:0;margin:22px auto 0;text-align:left;max-width:36rem;counter-reset:lei}
 .indice li{border-bottom:1px solid var(--fio)}
 .indice a{display:block;padding:14px 4px;text-decoration:none;color:var(--tinta)}
@@ -211,6 +225,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
   .oficial p.inciso{padding-left:1.6em}
   .oficial p.alinea{padding-left:2.4em}
   .sobre-autor{grid-template-columns:1fr}
+  .barra-selecao button{padding:7px 9px;font-size:12.5px;gap:4px}
 }
 @media print{
   :root,:root[data-theme="dark"]{--papel:#fff;--papel2:#f5f5f5;--tinta:#111;--tinta2:#444;--titulo:#2b3a22;--titulo2:#3c5f24;--fio:#ccc;--marca-texto:transparent}
@@ -257,6 +272,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
   <button data-sel="compartilhar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v14"/></svg>Compartilhar</button>
   <button data-sel="copiar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button>
   <button data-sel="imagem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="M21 15l-5-5L5 21"/></svg>Imagem</button>
+  <button data-sel="story" title="Gerar um story (1080 × 1920) com o trecho"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M10 18h4"/></svg>Story</button>
 </div>
 <div class="popover" id="popover" hidden role="menu"></div>
 <div class="aviso-rapido" id="aviso" role="status" aria-live="polite"></div>
@@ -472,7 +488,16 @@ function irPara(id, alvo) {
   document.querySelectorAll('.dispositivo.alvo').forEach((x) => x.classList.remove('alvo'));
   if (el.classList.contains('dispositivo')) el.classList.add('alvo');
   const main = $('#main');
-  const rolar = () => { main.style.scrollBehavior = 'auto'; main.scrollTop = el.getBoundingClientRect().top - main.getBoundingClientRect().top + main.scrollTop - 12; main.style.scrollBehavior = ''; };
+  // Vindo da busca, vai à primeira ocorrência realçada (de preferência no texto oficial).
+  const foco = el.querySelector('.oficial mark') || el.querySelector('mark');
+  if (foco) { document.querySelectorAll('mark.foco').forEach((m) => m.classList.remove('foco')); foco.classList.add('foco'); }
+  const rolar = () => {
+    main.style.scrollBehavior = 'auto';
+    const topoMain = main.getBoundingClientRect().top;
+    main.scrollTop = foco ? foco.getBoundingClientRect().top - topoMain + main.scrollTop - main.clientHeight / 3
+                          : el.getBoundingClientRect().top - topoMain + main.scrollTop - 12;
+    main.style.scrollBehavior = '';
+  };
   requestAnimationFrame(rolar);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => requestAnimationFrame(rolar));
   [300, 900].forEach((ms) => setTimeout(() => { if (location.hash.includes(alvo)) rolar(); }, ms));
@@ -623,7 +648,17 @@ function carregarH2C() {
     document.head.appendChild(s);
   }));
 }
-async function gerarImagem(pac) {
+function htmlStory(pac, lei) {
+  const t = pac.citacao.length > 900 ? pac.citacao.slice(0, 880).replace(/\s+\S*$/, '') + '…' : pac.citacao;
+  const n = t.length; const fs = n < 120 ? 76 : n < 200 ? 68 : n < 320 ? 60 : n < 480 ? 54 : n < 650 ? 48 : 42;
+  const x = pac.uid && dadosUnidade(pac.uid);
+  return `<div class="story-img"><div class="st-moldura"></div>
+    <div class="st-topo"><img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum"></div>
+    <div class="st-meio"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px">${esc(t).replace(/\n/g, '<br>')}</div></div>
+    <div class="st-rodape">${x ? `<div class="st-disp">${esc(x.u.head)}</div>` : ''}<div class="st-lei">${esc(lei ? lei.nome : pac.fonte)}</div>${lei && lei.numero ? `<div class="st-num">${esc(lei.numero)}</div>` : ''}<div class="st-site">oliveiracarlosadv.github.io/Lex-Vade-Mecum</div></div>
+  </div>`;
+}
+async function gerarImagem(pac, formato) {
   aviso('Gerando a imagem…');
   const lei = leis.find((l) => l.id === atual);
   const x = pac.uid && dadosUnidade(pac.uid);
@@ -635,7 +670,7 @@ async function gerarImagem(pac) {
       <div class="ci-texto">${x.u.texto.map((l) => `<p class="${classeLinha(l)}">${inline(l)}</p>`).join('')}</div>`;
   }
   const fab = $('#fabricaImagem');
-  fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}</div></div>
+  if (formato === 'story') fab.innerHTML = htmlStory(pac, lei); else fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}</div></div>
     ${miolo}<div class="ci-rodape"><span>Texto oficial${lei && lei.conferido ? ' conferido em ' + esc(lei.conferido) : ''}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
   fab.classList.add('ativa');
   try {
@@ -644,7 +679,7 @@ async function gerarImagem(pac) {
     const canvas = await window.html2canvas(fab.firstElementChild, { scale: 1, backgroundColor: '#FBF8F0', logging: false });
     const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
     if (!blob) throw new Error('falha ao gerar');
-    const nome = 'lex-vade-mecum-' + slug(pac.titulo).slice(0, 60) + '.png';
+    const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
     const arq = new File([blob], nome, { type: 'image/png' });
     if (navigator.canShare && navigator.canShare({ files: [arq] }) && matchMedia('(pointer: coarse)').matches) {
       try { await navigator.share({ files: [arq], title: pac.titulo, text: pac.link }); } catch (e) {}
@@ -689,6 +724,7 @@ function ligarAcoes() {
     if (b.dataset.sel === 'compartilhar') abrirPopover(b, pac);
     if (b.dataset.sel === 'copiar') aviso((await copiar(pac.texto)) ? 'Trecho copiado com a fonte' : 'Não foi possível copiar');
     if (b.dataset.sel === 'imagem') gerarImagem(pac);
+    if (b.dataset.sel === 'story') gerarImagem(pac, 'story');
   });
   document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel]')) fecharFlutuantes(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { fecharFlutuantes(); $('#barraSel').hidden = true; } });

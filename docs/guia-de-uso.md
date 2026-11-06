@@ -57,7 +57,7 @@ Digite na barra do topo e tecle Enter (ou **Buscar**). Ao lado, escolha **Nesta 
 
 - Acentos e maiúsculas não importam (`acao` encontra `ação`).
 - Primeiro aparecem os dispositivos em que a palavra está no **texto da lei**; depois, os que só a têm na **análise** (marcados "Na análise").
-- Ao abrir um resultado, as palavras procuradas ficam realçadas.
+- Ao abrir um resultado, a página vai direto à expressão encontrada dentro do artigo, que fica realçada e com um contorno piscando por um instante.
 - Se o número existir em mais de uma lei (por exemplo, `art 75` em todas), aparece a lista para escolher.
 
 ## 5. Compartilhar, copiar, imprimir e gerar imagem
@@ -77,6 +77,7 @@ Selecione qualquer trecho do texto com o mouse (ou mantendo o dedo pressionado n
 - **Compartilhar** → o mesmo menu acima, enviando o trecho entre aspas, seguido da fonte (`— Art. 5º, Constituição…`) e do link.
 - **Copiar** → copia o trecho com a fonte e o link, pronto para colar em petições, e-mails ou estudos.
 - **Imagem** → gera uma imagem de citação com o trecho e a fonte.
+- **Story** → gera uma imagem vertical (1080 × 1920, formato de story do Instagram, WhatsApp e similares) com o logo do Lex Vade Mecum no topo, o trecho no centro e, no rodapé, o artigo e a lei de onde ele foi tirado. No celular, abre direto a tela de compartilhamento; no computador, vai para Downloads.
 
 A barra some ao clicar fora ou ao teclar Esc.
 
