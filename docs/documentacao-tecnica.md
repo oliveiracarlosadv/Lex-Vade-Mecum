@@ -110,6 +110,7 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 
 - Cores definidas como variáveis CSS em `:root`; tema escuro por `prefers-color-scheme` ou pela escolha do botão ◐ (guardada em `localStorage`, com tratamento de erro).
 - Folha centralizada de até 44rem, margens proporcionais à tela, texto justificado com hifenização em português.
+- Nada ultrapassa a largura da tela: rolagem lateral bloqueada (`overflow-x`), palavras e links longos quebram linha (`overflow-wrap:anywhere`) e endereços longos aparecem encurtados (`encurtarUrl()`: domínio/…/arquivo). No celular, o campo de busca usa 16 px para o iPhone não dar zoom automático.
 - Pontos de quebra: até 900 px o menu vira gaveta (☰); até 600 px a folha ocupa a largura toda e os recuos diminuem.
 
 ## 5. Publicação
@@ -152,6 +153,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Celular: página fixa na largura da tela, sem rolagem lateral; links longos encurtados |
 | 06/11/2026 | Story e imagem de citação justificados com hifenização em português |
 | 06/11/2026 | Precedentes do TRT8 (IRDR e IAC) na página; busca por `irdr 7` e `iac 5` |
 | 06/11/2026 | Story sem cortes (fonte ajustável, tamanho fixo de story); assinatura "Lex Vade Mecum by Carlos A. A. Oliveira" no topo, na página inicial e no rodapé |
