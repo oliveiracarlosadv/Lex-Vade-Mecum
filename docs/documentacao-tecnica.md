@@ -82,7 +82,7 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | `#/sobre` | Sobre (objetivo, atualização e criador; biografia e contato vêm do README, seções "Sobre o criador" e "Contato") |
 | `#/<lei>` | Lei inteira |
 | `#/<lei>/<dispositivo>` | Lei aberta no dispositivo (`art-5`, `art-1-035`, `adct-art-10`, `tema-75`) |
-| `#/<lei>/s-<seção>` | Seção (por exemplo `s-glossario-juridico`) |
+| `#/<lei>/s-<seção>` | Seção. As partes antes de `## Texto Estruturado` abrem na janela `#painel` (`abrirSecao()`); as de análise geral rolam até a seção (por exemplo `s-glossario-juridico`) |
 | `…?q=termo1|termo2` | Realça os termos buscados |
 
 ### 4.2 Busca
@@ -152,5 +152,6 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Lei abre direto no texto; partes introdutórias viram botões que abrem em janela |
 | 06/11/2026 | Busca leva direto à expressão encontrada; botão Story (1080 × 1920) na barra de seleção |
 | 06/11/2026 | Lista de leis na página inicial; Compartilhar, Copiar, Imprimir e Imagem por artigo e por trecho selecionado; Imprimir lei |

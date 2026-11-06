@@ -33,11 +33,12 @@ Para cada artigo (ou tema do TST):
 | Alterações | Leis e emendas que deram a redação atual |
 | Análise do dispositivo | Interpretação, pontos importantes, palavras-chave e remissões. Clique no título para recolher ou abrir |
 
+A lei abre **direto no texto**. As partes introdutórias — **Metadados**, **Resumo Executivo**, **Objeto da Lei**, **Contexto Jurídico**, **Principais Conceitos** e **Estrutura da Lei** — ficam em botões logo acima do texto (e no grupo "Sobre a lei" do sumário). Cada botão abre a parte numa janela sobre a página; feche com **✕ Fechar**, Esc ou clicando fora. As partes de análise geral (Direitos, Obrigações, Glossário, Perguntas e Respostas…) continuam ao final, depois do último artigo.
+
 No topo de cada lei:
 
 - **Ocultar análises / Mostrar análises**: deixa só o texto da lei, para leitura corrida.
 - **Imprimir lei**: imprime ou salva em PDF a lei inteira (com ou sem análises, conforme a opção anterior).
-- **Ir ao texto**: pula as partes introdutórias.
 - **Arquivo .md**: abre o arquivo original no formato Markdown.
 - **Texto oficial ↗**: abre a página da lei no Planalto ou no TST.
 

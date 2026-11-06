@@ -183,6 +183,15 @@ details.analise summary{cursor:pointer;font-family:var(--display);font-variant:s
 details.analise summary::before{content:"❧  "}
 details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
 .oculta-analises details.analise{display:none}
+.chips{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:16px 0 36px}
+.chip{font-family:var(--display);font-variant:small-caps;letter-spacing:.06em;font-size:16px;line-height:1.1;padding:7px 15px;border:1px solid var(--fio);border-radius:999px;background:var(--papel2);color:var(--titulo);cursor:pointer}
+.chip:hover,.chip:focus-visible{border-color:var(--titulo2);background:var(--papel)}
+.chip.ativo{background:var(--titulo);color:var(--papel);border-color:var(--titulo)}
+.painel{border:0;padding:0;background:transparent;width:min(46rem,94vw);max-width:none;max-height:92vh;color:var(--tinta)}
+.painel::backdrop{background:rgba(30,25,15,.5)}
+.painel .painel-folha{max-height:92vh;overflow:auto;margin:0;max-width:none;padding:clamp(20px,4vw,52px)}
+.painel-fechar{position:sticky;top:0;float:right;z-index:2;margin:-6px -6px 0 12px;font-size:13px}
+.painel .secao{margin-top:.6em}
 .sep{text-align:center;color:var(--fio);letter-spacing:1em;margin:1.6em 0 0;font-size:12px}
 
 /* ---------- Início, busca e Sobre ---------- */
@@ -225,6 +234,9 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
   .oficial p.inciso{padding-left:1.6em}
   .oficial p.alinea{padding-left:2.4em}
   .sobre-autor{grid-template-columns:1fr}
+  .painel{width:100vw;height:100%;max-height:100%;margin:0}
+  .painel .painel-folha{max-height:100%;height:100%;border-radius:0}
+  .chip{font-size:14.5px;padding:6px 12px}
   .barra-selecao button{padding:7px 9px;font-size:12.5px;gap:4px}
 }
 @media print{
@@ -276,6 +288,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
 </div>
 <div class="popover" id="popover" hidden role="menu"></div>
 <div class="aviso-rapido" id="aviso" role="status" aria-live="polite"></div>
+<dialog class="painel" id="painel" aria-label="Informações sobre a lei"><div class="painel-folha folha"><button class="painel-fechar btn" aria-label="Fechar">✕ Fechar</button><div id="painelConteudo"></div></div></dialog>
 <div id="areaImpressao"></div>
 <div id="fabricaImagem"></div>
 
@@ -440,7 +453,8 @@ function desenharMenu() {
 function desenharSumario(id, d) {
   if (!d) { $('#sumario').innerHTML = ''; return; }
   let h = '<h2>Sumário</h2><div class="sumario">';
-  d.antes.forEach((s) => (h += `<a href="#/${id}/s-${slug(s.titulo)}">${esc(s.titulo)}</a>`));
+  h += '<div class="grupo">Sobre a lei</div>';
+  d.antes.forEach((s) => (h += `<a href="#/${id}/s-${slug(s.titulo)}" data-secao="${slug(s.titulo)}">${esc(s.titulo)}</a>`));
   h += `<div class="grupo">Texto da lei</div>`;
   const vistos = new Set(); let algum = false;
   d.unidades.forEach((u) => {
@@ -468,9 +482,9 @@ async function mostrarLei(id, alvo, termos) {
   let h = `<div class="cabecalho-corrido">Lex Vade Mecum · ${esc(lei.nome)}</div>
     <h1 class="titulo-obra">${esc(d.titulo || lei.nome)}</h1>
     <div class="meta-lei"><span>${esc(lei.numero)}</span><span>Publicação: ${esc(lei.data)}</span>${lei.conferido ? `<span>Conferido com a fonte oficial em ${esc(lei.conferido)}</span>` : ''}${lei.oficial ? `<a href="${lei.oficial}" target="_blank" rel="noopener">Texto oficial ↗</a>` : ''}</div>
-    <div class="ferr"><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="#/${id}/texto">Ir ao texto</a><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
+    <div class="ferr"><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
     <div class="vinheta">❦</div>`;
-  h += d.antes.map(sec).join('');
+  h += `<nav class="chips" aria-label="Informações sobre a lei">${d.antes.map((s) => `<button class="chip" data-secao="${slug(s.titulo)}">${esc(s.titulo)}</button>`).join('')}</nav>`;
   h += `<section class="parte" id="${id}--texto"><h2>Texto da Lei</h2>` + d.unidades.map((u) => blocoDispositivo(id, u, termos)).join('<div class="sep">·  ·  ·</div>') + '</section>';
   h += `<div class="vinheta">❦</div>` + d.depois.map(sec).join('') + rodape();
   $('#conteudo').innerHTML = h;
@@ -484,6 +498,7 @@ async function mostrarLei(id, alvo, termos) {
 function irPara(id, alvo) {
   if (!alvo) { $('#main').scrollTop = 0; return; }
   const el = document.getElementById(`${id}--${alvo}`);
+  if (!el && alvo.startsWith('s-') && abrirSecao(id, alvo.slice(2))) { $('#main').scrollTop = 0; return; }
   if (!el) { $('#main').scrollTop = 0; return; }
   document.querySelectorAll('.dispositivo.alvo').forEach((x) => x.classList.remove('alvo'));
   if (el.classList.contains('dispositivo')) el.classList.add('alvo');
@@ -503,6 +518,17 @@ function irPara(id, alvo) {
   [300, 900].forEach((ms) => setTimeout(() => { if (location.hash.includes(alvo)) rolar(); }, ms));
 }
 function ligarLinks() {}
+// Partes introdutórias (Metadados, Resumo, Objeto, Contexto, Conceitos, Estrutura) abrem numa janela,
+// para que a lei comece direto no texto.
+function abrirSecao(id, sl) {
+  const d = cache[id]; const lei = leis.find((l) => l.id === id);
+  const s = d && d.antes.find((x) => slug(x.titulo) === sl); if (!s) return false;
+  $('#painelConteudo').innerHTML = `<div class="cabecalho-corrido">Lex Vade Mecum · ${esc(lei.nome)}</div>
+    <section class="secao"><h2>${esc(s.titulo)}</h2><div class="md">${md(s.corpo)}</div></section>
+    <nav class="chips">${d.antes.map((x) => `<button class="chip${x === s ? ' ativo' : ''}" data-secao="${slug(x.titulo)}">${esc(x.titulo)}</button>`).join('')}</nav>`;
+  const dlg = $('#painel'); if (!dlg.open) dlg.showModal(); $('#painel .painel-folha').scrollTop = 0;
+  return true;
+}
 function rodape() {
   return `<div class="rodape"><b>Lex Vade Mecum</b> — texto oficial reproduzido das fontes oficiais (Planalto e TST) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
 }
@@ -708,6 +734,11 @@ function posicionarBarraSel() {
   }
 }
 function ligarAcoes() {
+  document.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-secao]'); if (!b || !atual) return;
+    e.preventDefault(); fecharMenu(); abrirSecao(atual, b.dataset.secao);
+  });
+  $('#painel').addEventListener('click', (e) => { if (e.target === $('#painel') || e.target.closest('.painel-fechar')) $('#painel').close(); });
   $('#conteudo').addEventListener('click', (e) => {
     const b = e.target.closest('[data-acao]'); if (!b) return;
     const uid = b.closest('.acoes').dataset.uid;
