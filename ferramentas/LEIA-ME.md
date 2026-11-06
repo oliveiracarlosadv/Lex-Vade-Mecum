@@ -74,3 +74,9 @@ Regras de comparação:
 - o quadro "Estrutura" (temas por situação) é gerado a cada montagem.
 
 Para regenerar após revisar análises: `python3 ferramentas/tst.py --fonte tst-precedentes`.
+
+## Página de consulta (`index.html`)
+
+A página na raiz do repositório (publicada pelo GitHub Pages em https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/) lê a tabela "Acesso direto às leis" do README e os arquivos `leis/*/*-completa.md`. Uma lei nova aparece na página assim que entra na tabela; não há nada a gerar.
+
+Para a cópia que abre direto do computador (sem internet nem servidor), rode `python3 ferramentas/gerar-offline.py <pasta>` e copie para a mesma pasta `index.html`, `README.md`, `assets/` e `leis/`. O `dados-offline.js` gerado não vai para o GitHub.

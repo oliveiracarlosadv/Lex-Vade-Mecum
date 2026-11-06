@@ -8,6 +8,10 @@
 
 Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicado no Portal da Legislação do Planalto e estruturadas para consulta por modelos de linguagem (Claude, GPT, Cursor, Windsurf, Copilot e similares), buscas semânticas e recuperação de contexto (RAG). O repositório é pensado para servir de fonte principal em projetos do Claude.
 
+## Consulta on-line
+
+**[Abrir o Lex Vade Mecum](https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/)** — página de leitura com todas as leis deste repositório: menu de leis à esquerda, sumário, busca por palavra, expressão ou artigo (`art. 5º`, `tema 75`) e diagramação de livro, no computador ou no celular. A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente.
+
 ## Acesso direto às leis
 
 Clique em "Ler on-line" para abrir a norma inteira (texto oficial com a análise de cada artigo) diretamente no GitHub.
