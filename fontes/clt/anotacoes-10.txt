@@ -1,0 +1,249 @@
+@CLT 551
+I: As operações financeiras e patrimoniais das entidades sindicais devem constar de registros contábeis feitos por contabilista habilitado, com documentos arquivados e livros próprios, e o balanço anual deve ser publicado. Garante transparência na gestão dos recursos da categoria.
+P: Escrituração contábil por profissional habilitado || Documentos arquivados para fiscalização || Publicidade do balanço
+K: contabilidade sindical; transparência; balanço
+
+@CLT 552
+I: Equipara ao crime de peculato a malversação ou dilapidação do patrimônio das entidades sindicais.
+P: Desvio de patrimônio sindical é crime equiparado ao peculato || Proteção dos recursos da categoria || Responsabilidade penal dos dirigentes
+K: patrimônio sindical; peculato; malversação
+
+@CLT 553
+I: Prevê penalidades administrativas às entidades sindicais (multa, suspensão e destituição de diretores, fechamento, cassação da carta), além de multa ao empregador que descumprir regras sindicais. As sanções que implicam intervenção estatal na entidade não foram recepcionadas pelo art. 8º, I, da Constituição; subsistem as multas aplicáveis ao empregador.
+P: Sanções históricas às entidades sindicais || Intervenção estatal vedada pela Constituição || Multas ao empregador subsistem
+K: penalidades sindicais; autonomia sindical; não recepção
+
+@CLT 554
+I: Previa a nomeação de delegado ministerial para administrar o sindicato após a destituição da diretoria. Incompatível com a vedação de interferência estatal (CF, art. 8º, I).
+P: Intervenção ministerial histórica || Não recepcionada || Conflitos internos resolvidos na Justiça
+K: intervenção; sindicato; autonomia sindical
+
+@CLT 555
+I: Previa a cassação da carta sindical por descumprimento de condições legais ou por obstáculos à política econômica do governo. Não foi recepcionado pela Constituição, que garante autonomia sindical.
+P: Cassação estatal da carta sindical (histórica) || Incompatível com o art. 8º, I, da Constituição || Hipóteses de caráter político
+K: cassação; carta sindical; autonomia sindical
+
+@CLT 556
+I: A cassação da carta não cancelava o registro nem dissolvia a entidade, cuja dissolução seguia a lei civil. Hoje a dissolução compulsória de associações exige decisão judicial transitada em julgado (CF, art. 5º, XIX).
+P: Dissolução segue a lei civil || Exige decisão judicial (CF, art. 5º, XIX) || Destino do patrimônio
+K: dissolução; associação; sindicato
+
+@CLT 557
+I: Definia as autoridades competentes para impor as penalidades do art. 553, regra esvaziada pela vedação constitucional de interferência estatal nos sindicatos.
+P: Competência ministerial histórica || Esvaziada pela Constituição || Recursos administrativos
+K: penalidades; competência; sindicato
+
+@CLT 558
+I: Determinava o registro das associações profissionais, que poderiam representar os interesses individuais dos associados. O registro sindical persiste no Ministério do Trabalho para controle da unicidade (Súmula 677 do STF).
+P: Registro das associações profissionais || Representação de associados || Registro para unicidade sindical
+K: registro sindical; associação profissional; unicidade
+
+@CLT 559
+I: Permitia ao Presidente da República conceder a associações civis, por decreto, a prerrogativa de colaborar com o Estado. Norma de caráter histórico.
+P: Prerrogativa concedida por decreto || Associações civis de defesa de interesses || Caráter histórico
+K: associação civil; prerrogativa; decreto
+
+@CLT 560
+I: A incorporação do patrimônio de associação profissional ao da entidade sindical, ou entre entidades sindicais, não é considerada transmissão de bens para fins fiscais.
+P: Incorporação patrimonial sem incidência fiscal || Entre associações e entidades sindicais || Favorece a reorganização sindical
+K: patrimônio sindical; incorporação; tributação
+
+@CLT 561
+I: A denominação "sindicato" é privativa das associações de primeiro grau regularmente constituídas.
+P: Uso exclusivo do nome "sindicato" || Entidades de primeiro grau || Proteção da identidade sindical
+K: denominação; sindicato; primeiro grau
+
+@CLT 562
+I: "Federação" e "confederação", seguidas de atividade econômica ou profissional, são denominações privativas das entidades sindicais de grau superior.
+P: Nomes privativos das entidades de grau superior || Federação e confederação || Proteção da identidade sindical
+K: federação; confederação; denominação
+
+@CLT 564
+I: As entidades sindicais não podem exercer atividade econômica, direta ou indiretamente, pois sua função é representar e coordenar a categoria.
+P: Vedação de atividade econômica || Função representativa || Preserva a finalidade sindical
+K: atividade econômica; sindicato; finalidade
+
+@CLT 565
+I: Exigia licença presidencial para filiação a organizações internacionais. A Constituição garante a autonomia sindical (art. 8º, I), e a liberdade de filiação internacional é reconhecida.
+P: Exigência histórica de licença para filiação internacional || Incompatível com a autonomia sindical || Liberdade de filiação internacional
+K: filiação internacional; autonomia sindical; não recepção
+
+@CLT 566
+I: Proibia a sindicalização de servidores públicos, salvo empregados de estatais e fundações. A Constituição garantiu ao servidor público civil o direito à livre associação sindical (art. 37, VI), de modo que a proibição não foi recepcionada, exceto para militares (art. 142, § 3º, IV).
+P: Proibição histórica de sindicalização do servidor || Direito garantido pelo art. 37, VI, da Constituição || Militares continuam proibidos
+K: servidor público; sindicalização; não recepção
+
+@CLT 570
+I: Os sindicatos organizam-se, em regra, por categorias específicas conforme o quadro de atividades do art. 577, admitida a reunião de categorias similares ou conexas quando o número for reduzido. A Comissão de Enquadramento Sindical foi extinta, e o enquadramento hoje decorre da atividade preponderante do empregador.
+P: Sindicato por categoria específica || Categorias similares ou conexas podem se agrupar || Enquadramento pela atividade preponderante
+K: enquadramento sindical; categoria; atividade preponderante
+
+@CLT 571
+I: Atividades agrupadas em sindicato eclético podem formar sindicato específico se houver viabilidade associativa (dissociação ou desmembramento). A antiga apreciação pela Comissão de Enquadramento cedeu lugar à autonomia sindical, sob controle do registro e da Justiça.
+P: Dissociação de categorias || Viabilidade associativa || Desmembramento sindical
+K: desmembramento; sindicato específico; enquadramento
+
+@CLT 572
+I: Sindicatos de categorias similares ou conexas devem indicar na denominação as atividades representadas; em caso de dissociação, o sindicato principal ajusta seu nome.
+P: Denominação reflete as categorias representadas || Ajuste após dissociação || Transparência na representação
+K: denominação sindical; categorias conexas
+
+@CLT 573
+I: O agrupamento de sindicatos em federações segue as mesmas regras do agrupamento de atividades em sindicatos; federações de profissões liberais com regulamento único podem organizar-se independentemente.
+P: Federações seguem a lógica das categorias || Exceção para profissões liberais || Coerência do sistema confederativo
+K: federação; agrupamento; profissões liberais
+
+@CLT 574
+I: Empresas industriais artesanais podem formar entidades sindicais próprias, distintas das empresas congêneres de outro tipo, na mesma base territorial.
+P: Sindicalização específica do setor artesanal || Primeiro e segundo graus || Mesma base territorial
+K: indústria artesanal; sindicato patronal
+
+@CLT 575
+I: Previa revisão bienal do quadro de atividades e profissões pela Comissão de Enquadramento Sindical. A comissão foi extinta, e a regra perdeu aplicação.
+P: Revisão periódica do quadro (histórica) || Comissão extinta || Enquadramento atual por atividade preponderante
+K: quadro de atividades; enquadramento; revisão
+
+@CLT 576
+I: Disciplinava a composição da Comissão de Enquadramento Sindical, órgão extinto após a Constituição de 1988.
+P: Composição da comissão (histórica) || Órgão extinto || Autonomia sindical
+K: comissão de enquadramento sindical; extinção
+
+@CLT 577
+I: O Quadro de Atividades e Profissões anexo à CLT fixa o plano básico do enquadramento sindical. Ainda é usado como referência, mas sem caráter vinculante absoluto diante da liberdade de organização sindical.
+P: Quadro anexo como referência de enquadramento || Plano básico de categorias || Interpretado com a autonomia sindical
+K: quadro de atividades e profissões; enquadramento sindical
+
+@CLT 578
+I: A contribuição sindical (antigo imposto sindical) é devida pelos integrantes das categorias apenas se prévia e expressamente autorizada. A Reforma Trabalhista acabou com sua obrigatoriedade, e o STF confirmou a constitucionalidade da mudança (ADI 5.794).
+P: Contribuição sindical facultativa || Exige autorização prévia e expressa || Constitucionalidade confirmada (ADI 5.794)
+K: contribuição sindical; imposto sindical; facultatividade; ADI 5.794
+
+@CLT 579
+I: O desconto da contribuição sindical depende de autorização prévia e expressa do integrante da categoria. A jurisprudência majoritária exige autorização individual, não bastando decisão de assembleia, distinguindo-a da contribuição assistencial (STF, Tema 935).
+P: Autorização prévia e expressa obrigatória || Autorização individual, segundo a jurisprudência majoritária || Diferente da contribuição assistencial
+K: contribuição sindical; autorização prévia; desconto
+
+@CLT 580
+I: A contribuição sindical é anual: um dia de remuneração para empregados, percentual do valor de referência para autônomos e profissionais liberais e valor proporcional ao capital para empregadores, conforme tabela.
+P: Um dia de trabalho para empregados || Base específica para autônomos e liberais || Tabela por capital para empregadores
+K: contribuição sindical; valor; base de cálculo
+
+@CLT 581
+I: Empresas atribuem parte do capital às filiais fora da base do sindicato da matriz, para cálculo da contribuição patronal; em atividades diversas, prevalece a atividade preponderante.
+P: Rateio do capital entre filiais || Atividade preponderante define a categoria || Contribuição patronal
+K: contribuição sindical patronal; filiais; atividade preponderante
+
+@CLT 582
+I: O empregador desconta a contribuição sindical na folha de março dos empregados que a autorizaram, considerando um dia de trabalho conforme a forma de pagamento.
+P: Desconto em março || Apenas de quem autorizou || Cálculo do dia de trabalho
+K: contribuição sindical; desconto em folha; março
+
+@CLT 583
+I: A contribuição dos empregados e avulsos é recolhida em abril, e a dos autônomos e profissionais liberais em fevereiro, sempre condicionada à autorização prévia e expressa.
+P: Recolhimento em abril (empregados) e fevereiro (autônomos) || Guias oficiais || Autorização prévia necessária
+K: contribuição sindical; prazo de recolhimento
+
+@CLT 584
+I: A lista de contribuintes autônomos e profissionais liberais elaborada pelos sindicatos (ou federações e confederações) serve de base para o pagamento.
+P: Lista de contribuintes como base || Organizada pelo sindicato || Autônomos e liberais
+K: contribuição sindical; autônomo; profissional liberal
+
+@CLT 585
+I: Profissionais liberais empregados podem optar por pagar a contribuição só ao sindicato de sua profissão, se a exercem efetivamente na empresa, dispensando o desconto em folha mediante prova de quitação.
+P: Opção do profissional liberal pelo sindicato da profissão || Exercício efetivo na empresa || Dispensa do desconto em folha
+K: profissional liberal; contribuição sindical; opção
+
+@CLT 586
+I: A contribuição sindical é recolhida à Caixa Econômica Federal, ao Banco do Brasil ou a bancos da rede arrecadadora, que repassam os valores à Caixa.
+P: Recolhimento bancário || Caixa Econômica Federal centraliza || Rede arrecadadora oficial
+K: contribuição sindical; recolhimento; Caixa Econômica Federal
+
+@CLT 587
+I: Empregadores que optarem pelo recolhimento da contribuição patronal devem fazê-lo em janeiro, ou ao requerer registro ou licença se se estabelecerem depois.
+P: Contribuição patronal em janeiro || Opção do empregador || Novos estabelecimentos no registro
+K: contribuição sindical patronal; prazo
+
+@CLT 588
+I: A Caixa Econômica Federal mantém conta de depósitos da contribuição sindical para cada entidade, com saques assinados conjuntamente por presidente e tesoureiro e extratos mensais.
+P: Conta própria por entidade || Assinatura conjunta para saques || Extratos mensais
+K: contribuição sindical; conta; Caixa Econômica Federal
+
+@CLT 589
+I: Define a divisão da contribuição sindical: para empregadores, 5% confederação, 15% federação, 60% sindicato e 20% Conta Especial Emprego e Salário; para trabalhadores, inclui 10% à central sindical indicada.
+P: Rateio entre confederação, federação, sindicato e conta especial || Centrais sindicais recebem parte da contribuição dos trabalhadores || Conta Especial Emprego e Salário
+K: rateio da contribuição sindical; central sindical; Conta Especial Emprego e Salário
+
+@CLT 590
+I: Sem confederação, sua parte vai à federação; sem nenhuma entidade sindical ou central, tudo vai à Conta Especial Emprego e Salário, assim como a parte da central não indicada.
+P: Redistribuição na falta de entidades || Destino final à Conta Especial || Regras supletivas
+K: contribuição sindical; rateio; redistribuição
+
+@CLT 591
+I: Sem sindicato, a parte dele vai à federação da categoria, e as partes da federação e da confederação passam à confederação.
+P: Ausência de sindicato || Repasse à federação e confederação || Continuidade do sistema
+K: contribuição sindical; federação; confederação
+
+@CLT 592
+I: A contribuição sindical deve ser aplicada conforme os estatutos, em objetivos como assistência jurídica, médica e técnica, estudos, colocação profissional, cooperativas, bibliotecas, creches e educação. A Lei nº 11.648/2008 flexibilizou essa vinculação.
+P: Aplicação em finalidades assistenciais e de representação || Conforme os estatutos || Vinculação flexibilizada por lei
+K: aplicação da contribuição sindical; assistência; estatuto
+
+@CLT 593
+I: As percentagens das entidades de grau superior e das centrais sindicais são aplicadas conforme seus conselhos ou estatutos, e as centrais devem usá-las na representação geral dos trabalhadores.
+P: Aplicação conforme estatutos || Centrais custeiam representação geral || Autonomia de gestão
+K: centrais sindicais; aplicação de recursos
+
+@CLT 594
+I: Previa o Fundo Social Sindical gerido pela Comissão do Imposto Sindical, órgão extinto; norma de caráter histórico.
+P: Fundo Social Sindical (histórico) || Comissão extinta || Sem aplicação atual
+K: Fundo Social Sindical; histórico
+
+@CLT 598
+I: Prevê multas pelas infrações às regras da contribuição sindical, graduadas pela natureza da infração e condição do infrator, com valores em moeda antiga.
+P: Multas graduadas || Natureza da infração e condição econômica || Valores históricos
+K: multa; contribuição sindical
+
+@CLT 599
+I: Previa a suspensão do exercício profissional do profissional liberal inadimplente com a contribuição sindical. Com a facultatividade da contribuição e o entendimento do STF contra sanções políticas por débitos, a regra perdeu sustentação.
+P: Suspensão profissional por inadimplência (histórica) || Contribuição hoje facultativa || Sanções políticas rejeitadas pelo STF
+K: profissional liberal; contribuição sindical; suspensão
+
+@CLT 600
+I: O recolhimento espontâneo da contribuição em atraso tem multa de 10% nos primeiros 30 dias, mais 2% ao mês, juros de 1% e correção. A jurisprudência discute a aplicação diante da facultatividade e de normas posteriores.
+P: Multa de 10% mais 2% ao mês pelo atraso || Juros e correção monetária || Destino das cominações
+K: contribuição sindical; atraso; multa de mora
+
+@CLT 602
+I: Empregados que não trabalhavam no mês do desconto e que autorizarem a contribuição têm o desconto no primeiro mês após o retorno; o mesmo vale para admitidos depois de março.
+P: Desconto no mês seguinte ao retorno || Admitidos após março || Condicionado à autorização
+K: contribuição sindical; desconto; admissão
+
+@CLT 603
+I: Os empregadores devem prestar esclarecimentos à fiscalização e exibir livros e folhas de pagamento relativos à contribuição sindical, sob pena de multa.
+P: Dever de colaboração com a fiscalização || Exibição de documentos || Multa pelo descumprimento
+K: fiscalização; folha de pagamento; contribuição sindical
+
+@CLT 605
+I: As entidades sindicais devem publicar editais sobre o recolhimento da contribuição em jornais de grande circulação, por 3 dias, até 10 dias antes do depósito.
+P: Publicidade do recolhimento || Editais em jornais || Antecedência de 10 dias
+K: edital; contribuição sindical; publicidade
+
+@CLT 606
+I: Cabe às entidades sindicais cobrar judicialmente a contribuição sindical não paga, por ação executiva, com certidão como título. A competência hoje é da Justiça do Trabalho (CF, art. 114, III).
+P: Cobrança judicial pela entidade sindical || Certidão como título executivo || Competência da Justiça do Trabalho
+K: cobrança da contribuição sindical; execução; competência
+
+@CLT 607
+I: Exigia prova de quitação do imposto sindical para participar de concorrências públicas. Com a facultatividade da contribuição, a exigência perdeu sentido e conflita com a legislação de licitações.
+P: Exigência histórica em licitações || Esvaziada pela facultatividade || Conflito com a lei de licitações
+K: licitação; quitação sindical; contribuição sindical
+
+@CLT 608
+I: Condicionava registros, licenças e alvarás à prova de quitação do imposto sindical, sob pena de nulidade. A regra perdeu aplicação com a facultatividade da contribuição.
+P: Condição histórica para licenças e alvarás || Nulidade dos atos sem quitação || Esvaziada pela Reforma
+K: alvará; licença; contribuição sindical
+
+@CLT 609
+I: O recolhimento e a movimentação das contas da contribuição sindical são isentos de selos e taxas federais, estaduais e municipais.
+P: Isenção de selos e taxas || Recolhimento e contas || Facilita a arrecadação
+K: isenção; contribuição sindical; taxas
