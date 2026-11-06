@@ -67,7 +67,20 @@ button,input,select{font:inherit;color:inherit}
 .marca .nome b{display:block;font-size:26px;font-weight:700;letter-spacing:.12em}
 .marca .nome .por{display:block;font-family:var(--serif);font-style:italic;font-size:11.5px;letter-spacing:.02em;color:var(--tinta2);margin-top:3px;white-space:nowrap}
 .marca .nome i{display:block;font-style:normal;font-size:15px;letter-spacing:.18em;font-variant:small-caps;color:var(--titulo2);margin-top:2px}
-.busca{flex:1;display:flex;gap:8px;align-items:center;max-width:720px;margin-left:auto}
+.busca{flex:1;display:flex;gap:8px;align-items:center;max-width:720px;margin-left:auto;position:relative;min-width:0}
+.sugestoes{position:absolute;left:0;right:0;top:calc(100% + 6px);z-index:40;background:var(--papel);border:1px solid var(--fio);border-radius:12px;box-shadow:var(--sombra);max-height:min(70vh,560px);overflow:auto;padding:6px;font-family:var(--serif)}
+.sugestoes[hidden]{display:none}
+.sug{display:block;text-decoration:none;color:var(--tinta);padding:8px 10px;border-radius:8px;overflow-wrap:anywhere}
+.sug:hover,.sug.ativo{background:var(--papel2)}
+.sug-t{display:block;font-family:var(--display);font-weight:700;font-size:17px;color:var(--titulo);line-height:1.2}
+.sug-t small{font-family:var(--ui);font-weight:400;font-size:11.5px;color:var(--tinta2);margin-left:4px}
+.sug-s{display:block;font-size:13.5px;line-height:1.45;color:var(--tinta2);margin-top:2px}
+.sug-todos{font-family:var(--ui);font-size:13.5px;color:var(--titulo2);border-top:1px solid var(--fio);border-radius:0 0 8px 8px;margin-top:4px}
+.sug-info{font-family:var(--ui);font-size:13.5px;color:var(--tinta2);padding:10px}
+.aviso-busca{text-align:center;font-family:var(--ui);font-size:14px;color:var(--tinta2);margin:.2em 0}
+.filtros{margin:10px 0 0}
+.mais{text-align:center;margin:18px 0}
+.na-analise{color:var(--titulo2)}
 .busca input[type=search]{flex:1;min-width:0;padding:10px 14px;border:1px solid var(--fio);border-radius:999px;background:var(--papel2);font-family:var(--ui);font-size:15px}
 .busca input[type=search]:focus{outline:2px solid var(--titulo2);outline-offset:1px}
 .busca select{padding:9px 10px;border:1px solid var(--fio);border-radius:999px;background:var(--papel2);font-family:var(--ui);font-size:14px}
@@ -277,6 +290,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
       <option value="todas">Em todas</option>
     </select>
     <button class="btn prim" type="submit">Buscar</button>
+    <div class="sugestoes" id="sugestoes" role="listbox" hidden></div>
   </form>
   <button class="btn" id="temaBtn" title="Alternar tema claro ou escuro" aria-label="Alternar tema">◐</button>
 </header>
@@ -400,7 +414,6 @@ function parseLei(txt) {
     const [rotulo, subt = ''] = head.split(/ — (?=[^—]*$)/).length > 1 && /^(Tema|IRDR|IAC) /.test(head) ? head.split(/ — (.+)/) : [head, ''];
     return { idx, head, rotulo, subt, id: slug(head.split(' — ')[0] + (head.startsWith('ADCT') ? ' ' + head.split(' — ')[1] : '')),
       loc, alt, campos, texto, analise: '#### Interpretação\n' + analise.replace(/\n---\s*$/, ''),
-      busca: semAcento(texto.join(' ').replace(/[~*\\]/g, '') + ' ' + subt), buscaAn: semAcento(analise.replace(/[#*>\\-]/g, ' ')),
       chave: chaveArtigo(head) };
   });
   return { titulo, antes: secoes(antes), depois: secoes(depois), unidades };
@@ -433,8 +446,8 @@ function classeLinha(x) {
   if (/^\(/.test(t) || /^(Vide|Vigência)/.test(t)) return 'nota';
   return '';
 }
-function blocoDispositivo(id, u, termos) {
-  const realce = (html) => (termos && termos.length ? realcar(html, termos) : html);
+function blocoDispositivo(id, u, casa) {
+  const realce = (html) => (casa ? realcar(html, casa) : html);
   const texto = u.texto.map((x) => `<p class="${classeLinha(x)}">${realce(inline(x))}</p>`).join('');
   const campos = u.campos.length ? `<div class="campos">${u.campos.map((x) => inline(x)).join('<br>')}</div>` : '';
   const alt = u.alt ? `<div class="alt">${inline(u.alt.replace(/^>\s*/, ''))}</div>` : '';
@@ -450,18 +463,6 @@ function blocoDispositivo(id, u, termos) {
     <details class="analise" open><summary>Análise do dispositivo</summary><div class="md">${md(u.analise)}</div></details>
   </article>`;
 }
-function realcar(html, termos) {
-  return html.split(/(<[^>]+>)/).map((p) => {
-    if (p.startsWith('<')) return p;
-    const base = semAcento(p); const marcas = [];
-    termos.forEach((t) => { let k = 0; while ((k = base.indexOf(t, k)) >= 0) { marcas.push([k, k + t.length]); k += t.length; } });
-    if (!marcas.length) return p;
-    marcas.sort((a, b) => a[0] - b[0]); let r = '', pos = 0;
-    marcas.forEach(([a, b]) => { if (a < pos) return; r += p.slice(pos, a) + '<mark>' + p.slice(a, b) + '</mark>'; pos = b; });
-    return r + p.slice(pos);
-  }).join('');
-}
-
 /* ---------- Telas ---------- */
 let atual = null;
 function desenharMenu() {
@@ -491,7 +492,8 @@ function desenharSumario(id, d) {
   d.depois.forEach((s) => (h += `<a href="#/${id}/s-${slug(s.titulo)}">${esc(s.titulo)}</a>`));
   $('#sumario').innerHTML = h + '</div>';
 }
-async function mostrarLei(id, alvo, termos) {
+async function mostrarLei(id, alvo, q) {
+  const casa = q ? casador(prepararConsulta(q)) : null;
   atual = id; desenharMenu();
   const lei = leis.find((l) => l.id === id);
   $('#conteudo').innerHTML = '<div class="carregando">Abrindo a lei…</div>';
@@ -504,7 +506,7 @@ async function mostrarLei(id, alvo, termos) {
     <div class="ferr"><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
     <div class="vinheta">❦</div>`;
   h += `<nav class="chips" aria-label="Informações sobre a lei">${d.antes.map((s) => `<button class="chip" data-secao="${slug(s.titulo)}">${esc(s.titulo)}</button>`).join('')}</nav>`;
-  h += `<section class="parte" id="${id}--texto"><h2>Texto da Lei</h2>` + d.unidades.map((u) => blocoDispositivo(id, u, termos)).join('<div class="sep">·  ·  ·</div>') + '</section>';
+  h += `<section class="parte" id="${id}--texto"><h2>Texto da Lei</h2>` + d.unidades.map((u) => blocoDispositivo(id, u, casa)).join('<div class="sep">·  ·  ·</div>') + '</section>';
   h += `<div class="vinheta">❦</div>` + d.depois.map(sec).join('') + rodape();
   $('#conteudo').innerHTML = h;
   ligarLinks();
@@ -912,8 +914,71 @@ function ligarAcoes() {
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { fecharFlutuantes(); $('#barraSel').hidden = true; } });
 }
 
-/* ---------- Busca ---------- */
-function interpretarConsulta(q) {
+/* ---------- Busca ----------
+   Índice de palavras por lei (montado uma vez, em segundo plano):
+   - palavras sem acento e sem maiúsculas, reduzidas ao radical (plural e feminino:
+     "gestantes" = "gestante", "ações" = "ação", "morais" = "moral");
+   - palavras comuns ("de", "do", "a"…) não contam, salvo dentro de aspas;
+   - o fim da palavra pode ficar incompleto ("penhor" acha "penhora", "penhorável");
+   - ranking: título > texto oficial > localização/campos > análise, com bônus para a
+     expressão inteira e para termos raros; erro de digitação recebe sugestão. */
+const PARADAS = new Set(('a o as os e de da do das dos em no na nos nas num numa um uma uns umas por pelo pela pelos pelas para pra com sem que se ao aos à às ou seu sua seus suas ser é são como mais lhe lhes já não nem sob sobre entre até quando onde qual quais este esta estes estas esse essa isso isto aquele aquela foi há tem art arts').split(' ').map((w) => semAcento(w)));
+const RE_TOKEN = /\d+(?:[.,]\d+)*|\p{L}+/gu;
+const normTok = (w) => { const n = semAcento(w); return /^\d/.test(n) ? n.replace(/[.,]/g, '') : n; };
+const tokens = (txt) => (String(txt).match(RE_TOKEN) || []).map(normTok);
+function radical(w) {
+  if (w.length <= 3 || /\d/.test(w)) return w;
+  if (/[oa]es$/.test(w)) w = w.slice(0, -3) + 'ao';
+  else if (w.endsWith('ais')) w = w.slice(0, -3) + 'al';
+  else if (w.endsWith('eis')) w = w.length > 5 ? w.slice(0, -3) + 'el' : w.slice(0, -1);
+  else if (w.endsWith('ois')) w = w.slice(0, -3) + 'ol';
+  else if (w.endsWith('ns')) w = w.slice(0, -2) + 'm';
+  else if (/[rzl]es$/.test(w) && w.length > 5) w = w.slice(0, -2);
+  else if (w.endsWith('s') && !w.endsWith('ss') && w.length > 4) w = w.slice(0, -1);
+  if (w.length > 4 && /[aoe]$/.test(w)) w = w.slice(0, -1);
+  return w;
+}
+const textoPlanoU = (u) => u.texto.join('\n').replace(/~~/g, '').replace(/\\/g, '').replace(/\*\*/g, '');
+const analisePlana = (u) => u.analise.replace(/^#### .*$/gm, ' ').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/[#*>|`_]/g, ' ');
+const PESOS = { h: 3, t: 2, c: 0.7, a: 0.6 };
+
+function indexar(d) {
+  if (d.voc) return d;
+  const voc = new Map(), formas = new Map();
+  d.unidades.forEach((u, i) => {
+    const plano = textoPlanoU(u), anal = analisePlana(u), extra = (u.loc || '') + ' ' + u.campos.join(' ').replace(/\*\*/g, '');
+    const campos = { h: u.head, t: plano, c: extra, a: anal };
+    for (const f in campos) {
+      for (const bruto of campos[f].match(RE_TOKEN) || []) {
+        const n = normTok(bruto); if (PARADAS.has(n)) continue;
+        const r = radical(n); if (!formas.has(r)) formas.set(r, bruto.toLowerCase());
+        let m = voc.get(r); if (!m) voc.set(r, (m = new Map()));
+        let e = m.get(i); if (!e) m.set(i, (e = { h: 0, t: 0, c: 0, a: 0 }));
+        e[f]++;
+      }
+    }
+    u.fT = ' ' + tokens(u.head + ' ' + plano).join(' ') + ' ';
+    u.fA = ' ' + tokens(extra + ' ' + anal).join(' ') + ' ';
+  });
+  d.voc = voc; d.formas = formas; d.chaves = [...voc.keys()].sort();
+  return d;
+}
+function primeiroIndice(lista, alvo) { let lo = 0, hi = lista.length; while (lo < hi) { const m = (lo + hi) >> 1; if (lista[m] < alvo) lo = m + 1; else hi = m; } return lo; }
+function postagens(d, t) {
+  const out = new Map();
+  const somar = (m, f) => m.forEach((e, i) => {
+    const o = out.get(i);
+    if (o) { o.h += e.h * f; o.t += e.t * f; o.c += e.c * f; o.a += e.a * f; } else out.set(i, { h: e.h * f, t: e.t * f, c: e.c * f, a: e.a * f });
+  });
+  const ex = d.voc.get(t.r); if (ex) somar(ex, 1);
+  if (t.pre) {
+    for (let k = primeiroIndice(d.chaves, t.r); k < d.chaves.length && d.chaves[k].startsWith(t.r); k++) {
+      if (d.chaves[k] !== t.r) somar(d.voc.get(d.chaves[k]), 0.6);
+    }
+  }
+  return out;
+}
+function interpretarArtigo(q) {
   const t = semAcento(q.trim());
   const prec = t.match(/^(irdr|iac)\s*(?:n[º°o.]*)?\s*(\d+)$/);
   if (prec) return { tipo: 'artigo', so: 'prec', chave: prec[1] + '-' + prec[2] };
@@ -922,64 +987,242 @@ function interpretarConsulta(q) {
     const adct = art[1] || art[2];
     return { tipo: 'artigo', so: /^tema/.test(t) ? 'tema' : /^art/.test(t) ? 'art' : '', chave: (adct ? 'adct-' : '') + art[3].replace(/\./g, '') + (art[4] ? '-' + art[4].replace(/[-\s]/g, '') : '') };
   }
-  const frases = []; const resto = t.replace(/"([^"]+)"/g, (m, f) => { frases.push(f.trim()); return ' '; });
-  return { tipo: 'texto', frases, palavras: resto.split(/\s+/).filter((w) => w.length > 1) };
+  return null;
 }
-async function buscar(q, escopo) {
-  q = q.trim(); if (!q) return;
-  const c = interpretarConsulta(q);
-  const emLei = escopo !== 'todas' && atual && atual !== 'sobre';
-  const alvoLeis = emLei ? [atual] : leis.map((l) => l.id);
-  $('#conteudo').innerHTML = '<div class="carregando">Buscando…</div>';
+function prepararConsulta(q) {
+  q = String(q || '').replace(/\|/g, ' ').trim();
+  const art = interpretarArtigo(q); if (art) return Object.assign(art, { q });
+  const frases = [];
+  const resto = q.replace(/[“”]/g, '"').replace(/"([^"]+)"/g, (m, f) => { const tk = tokens(f); if (tk.length) frases.push(' ' + tk.join(' ') + ' '); return ' '; });
+  const todos = tokens(resto); const uteis = todos.filter((w) => !PARADAS.has(w));
+  const termos = [];
+  const add = (w, pre) => { if (!termos.some((t) => t.w === w)) termos.push({ w, r: radical(w), pre: pre && w.length >= 4 && !/^\d/.test(w) }); };
+  (uteis.length ? uteis : todos).forEach((w) => add(w, true));
+  frases.forEach((f) => f.trim().split(' ').filter((w) => !PARADAS.has(w)).forEach((w) => add(w, false)));
+  return { tipo: 'texto', q, termos, frases, fraseLivre: todos.length >= 2 ? ' ' + todos.join(' ') + ' ' : null };
+}
+function casador(c) {
+  if (!c || c.tipo !== 'texto' || !c.termos.length) return null;
+  return (bruto) => {
+    const n = normTok(bruto); if (PARADAS.has(n) && !c.termos.some((t) => t.w === n)) return false;
+    const r = radical(n);
+    return c.termos.some((t) => r === t.r || n === t.w || (t.pre && (r.startsWith(t.r) || n.startsWith(t.w))));
+  };
+}
+function distancia(a, b) {
+  if (Math.abs(a.length - b.length) > 2) return 9;
+  let ant = Array.from({ length: b.length + 1 }, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    for (let j = 1; j <= b.length; j++) cur[j] = Math.min(ant[j] + 1, cur[j - 1] + 1, ant[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    ant = cur;
+  }
+  return ant[b.length];
+}
+function corrigir(ds, t) {
+  const lim = t.r.length >= 7 ? 2 : 1; let melhor = null;
+  for (const d of ds) {
+    if (!d) continue;
+    for (let k = primeiroIndice(d.chaves, t.r[0]); k < d.chaves.length && d.chaves[k][0] === t.r[0]; k++) {
+      const ch = d.chaves[k]; const dist = distancia(t.r, ch);
+      if (dist <= lim) { const df = d.voc.get(ch).size; if (!melhor || dist < melhor.dist || (dist === melhor.dist && df > melhor.df)) melhor = { dist, df, forma: d.formas.get(ch) }; }
+    }
+  }
+  return melhor && melhor.forma;
+}
+function prepararBusca(ids) {
+  return Promise.all(ids.map((id) => abrirLei(id).then(indexar).catch(() => null)));
+}
+async function executarBusca(c, ids) {
+  const ds = await prepararBusca(ids);
   const res = [];
-  for (const id of alvoLeis) {
-    let d; try { d = await abrirLei(id); } catch (e) { continue; }
-    d.unidades.forEach((u) => {
-      if (c.tipo === 'artigo') { const ehTema = /^(Tema|IRDR|IAC) /.test(u.head); if ((c.so === 'tema' && !ehTema) || (c.so === 'art' && ehTema)) return; if (u.chave === c.chave) res.push({ id, u, score: 100 }); return; }
-      const termos = [...c.frases, ...c.palavras];
-      const noTexto = termos.every((t) => u.busca.includes(t));
-      const naAnalise = !noTexto && termos.every((t) => u.busca.includes(t) || u.buscaAn.includes(t));
-      if (noTexto || naAnalise) res.push({ id, u, score: (noTexto ? 10 : 1) + termos.reduce((s, t) => s + (u.busca.split(t).length - 1), 0) });
+  if (c.tipo === 'artigo') {
+    ds.forEach((d, j) => d && d.unidades.forEach((u) => {
+      const ehTema = /^(Tema|IRDR|IAC) /.test(u.head);
+      if ((c.so === 'tema' && !ehTema) || (c.so === 'art' && ehTema)) return;
+      if (u.chave === c.chave) res.push({ id: ids[j], u, s: 100 });
+    }));
+    return { res };
+  }
+  const posts = ds.map((d) => d && c.termos.map((t) => postagens(d, t)));
+  const N = ds.reduce((s, d) => s + (d ? d.unidades.length : 0), 0) || 1;
+  const df = c.termos.map((t, k) => posts.reduce((s, p) => s + (p ? p[k].size : 0), 0));
+  const idf = df.map((x) => Math.log(1 + N / (x || 1)));
+  const sat = (x) => x / (x + 1.2);
+  let parcial = false;
+  const pontuar = (modoOu) => {
+    ds.forEach((d, j) => {
+      if (!d) return;
+      const ps = posts[j];
+      let cand;
+      if (!c.termos.length) cand = d.unidades.map((_, i) => i);
+      else if (modoOu) { const s = new Set(); ps.forEach((p) => p.forEach((_, i) => s.add(i))); cand = [...s]; }
+      else {
+        const ord = ps.slice().sort((a, b) => a.size - b.size);
+        cand = [...ord[0].keys()].filter((i) => ord.every((p) => p.has(i)));
+      }
+      for (const i of cand) {
+        const u = d.unidades[i];
+        if (c.frases.length && !c.frases.every((f) => u.fT.includes(f) || u.fA.includes(f))) continue;
+        let s = 0, noTexto = false, achados = 0;
+        ps.forEach((p, k) => {
+          const e = p.get(i); if (!e) return; achados++;
+          s += idf[k] * (PESOS.h * sat(e.h) + PESOS.t * sat(e.t) + PESOS.c * sat(e.c) + PESOS.a * sat(e.a));
+          if (e.h + e.t > 0) noTexto = true;
+        });
+        if (c.frases.length) { const fx = c.frases.every((f) => u.fT.includes(f)); s += fx ? 8 : 3; noTexto = noTexto || fx; }
+        if (c.fraseLivre) { if (u.fT.includes(c.fraseLivre)) s += 6; else if (u.fA.includes(c.fraseLivre)) s += 2; }
+        if (modoOu) s += achados * 20;
+        if (noTexto) s += 1.5;
+        res.push({ id: ids[j], u, s, soAnalise: !noTexto });
+      }
     });
+  };
+  pontuar(false);
+  if (!res.length && c.termos.length > 1) { parcial = true; pontuar(true); }
+  res.sort((a, b) => b.s - a.s);
+  let sugestao = null;
+  if (res.length < 3) {
+    let mudou = false;
+    const corr = c.termos.map((t, k) => { if (df[k]) return t.w; const f = corrigir(ds, t); if (f) { mudou = true; return f; } return t.w; });
+    if (mudou) sugestao = corr.join(' ');
   }
-  if (c.tipo === 'artigo' && res.length === 1) { location.hash = `#/${res[0].id}/${res[0].u.id}`; return; }
-  res.sort((a, b) => b.score - a.score);
-  const termos = c.tipo === 'texto' ? [...c.frases, ...c.palavras] : [];
-  const onde = alvoLeis.length > 1 ? 'em todas as leis' : 'em ' + leis.find((l) => l.id === alvoLeis[0]).nome;
-  let h = `<div class="cabecalho-corrido">Lex Vade Mecum · Busca</div><h1 class="titulo-obra">${res.length} resultado${res.length === 1 ? '' : 's'}</h1>
-    <p class="subtitulo">para “${esc(q)}” ${esc(onde)}</p><div class="vinheta">❦</div>`;
-  res.slice(0, 300).forEach(({ id, u }) => {
-    const lei = leis.find((l) => l.id === id);
-    h += `<a class="res" href="#/${id}/${u.id}${termos.length ? '?q=' + encodeURIComponent(termos.join('|')) : ''}"><div class="t">${esc(u.head)}</div><div class="l">${esc(lei.nome)}${u.loc ? ' · ' + esc(u.loc) : ''}</div><div class="s">${trecho(u, termos)}</div></a>`;
-  });
-  if (res.length > 300) h += `<p class="dica">Mostrando os 300 primeiros. Refine a busca para ver outros.</p>`;
-  if (!res.length) h += `<div class="dica">Nada encontrado. Tente outras palavras${emLei ? ' ou busque <b>em todas</b> as leis' : ''}.</div>`;
-  $('#conteudo').innerHTML = h + rodape();
-  $('#main').scrollTop = 0;
+  return { res, parcial, sugestao };
 }
-function trecho(u, termos) {
-  const plano = u.texto.join(' ').replace(/~~/g, '').replace(/\\/g, '').replace(/\*\*/g, '');
-  if (!termos.length) return esc(plano.slice(0, 220)) + (plano.length > 220 ? '…' : '');
-  const base = semAcento(plano); let k = -1;
-  for (const t of termos) { k = base.indexOf(t); if (k >= 0) break; }
-  if (k < 0) {
-    const a = u.analise.replace(/[#*>]/g, '').replace(/\s+/g, ' '); const b = semAcento(a);
-    for (const t of termos) { k = b.indexOf(t); if (k >= 0) return '<i>Na análise:</i> …' + realcar(esc(a.slice(Math.max(0, k - 80), k + 160)), termos) + '…'; }
-    return esc(plano.slice(0, 200));
+
+/* Destaque e trechos */
+function marcar(texto, casa) {
+  return String(texto).split(/(\d+(?:[.,]\d+)*|\p{L}+)/u).map((p, i) => (i % 2 && casa && casa(p) ? `<mark>${esc(p)}</mark>` : esc(p))).join('');
+}
+function realcar(html, casa) {
+  if (!casa) return html;
+  return html.split(/(<[^>]+>)/).map((p) => (p.startsWith('<') ? p : p.replace(/(&[a-z]+;|&#\d+;)|(\d+(?:[.,]\d+)*|\p{L}+)/gu, (m, ent, w) => (ent ? ent : casa(w) ? `<mark>${w}</mark>` : w)))).join('');
+}
+function janela(texto, casa, tam) {
+  texto = texto.replace(/\s+/g, ' ').trim();
+  const pos = []; const re = new RegExp(RE_TOKEN.source, 'gu'); let m;
+  while ((m = re.exec(texto))) if (casa && casa(m[0])) pos.push(m.index);
+  if (!pos.length) return null;
+  let ini = pos[0], melhor = 0;
+  pos.forEach((p) => { const n = pos.filter((x) => x >= p - 40 && x < p - 40 + tam).length; if (n > melhor) { melhor = n; ini = p; } });
+  let a = Math.max(0, ini - 60); if (a > 0) { const e = texto.indexOf(' ', a); a = e >= 0 && e < ini ? e + 1 : a; }
+  let b = Math.min(texto.length, a + tam); if (b < texto.length) { const e = texto.lastIndexOf(' ', b); b = e > ini ? e : b; }
+  return (a > 0 ? '…' : '') + marcar(texto.slice(a, b), casa) + (b < texto.length ? '…' : '');
+}
+function trecho(u, casa, tam = 260) {
+  const plano = textoPlanoU(u).replace(/\n/g, ' ');
+  const j = janela(plano, casa, tam); if (j) return j;
+  const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
+  return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
+}
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
+function idsEscopo(escopo) {
+  return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);
+}
+const linkResultado = (r, q) => `#/${r.id}/${r.u.id}${q ? '?q=' + encodeURIComponent(q) : ''}`;
+
+/* Página de resultados */
+let ultimaBusca = null;
+async function buscar(q, escopo) {
+  q = String(q || '').trim(); if (!q) return;
+  esconderSugestoes();
+  const ids = idsEscopo(escopo);
+  const pronto = ids.every((id) => cache[id] && cache[id].voc);
+  if (!pronto) $('#conteudo').innerHTML = '<div class="carregando">Preparando a busca…</div>';
+  const c = prepararConsulta(q);
+  const t0 = performance.now();
+  const r = await executarBusca(c, ids);
+  if (c.tipo === 'artigo' && r.res.length === 1) { location.hash = linkResultado(r.res[0]); return; }
+  ultimaBusca = { q, c, ids, r, ms: Math.round(performance.now() - t0), filtro: null, limite: 40 };
+  desenharResultados();
+}
+function desenharResultados() {
+  const { q, c, ids, r, filtro, limite } = ultimaBusca;
+  const casa = casador(c);
+  const lista = filtro ? r.res.filter((x) => x.id === filtro) : r.res;
+  const onde = ids.length > 1 ? 'em todas as leis' : 'em ' + leis.find((l) => l.id === ids[0]).nome;
+  const porLei = {}; r.res.forEach((x) => (porLei[x.id] = (porLei[x.id] || 0) + 1));
+  let h = `<div class="cabecalho-corrido">Lex Vade Mecum · Busca</div><h1 class="titulo-obra">${r.res.length} resultado${r.res.length === 1 ? '' : 's'}</h1>
+    <p class="subtitulo">para “${esc(q)}” ${esc(onde)}</p>`;
+  if (r.parcial) h += `<p class="aviso-busca">Nenhum dispositivo tem todas as palavras; mostrando os que têm parte delas.</p>`;
+  if (r.sugestao) h += `<p class="aviso-busca">Você quis dizer <a href="#" data-sugestao="${esc(r.sugestao)}">${esc(r.sugestao)}</a>?</p>`;
+  if (Object.keys(porLei).length > 1) {
+    h += `<nav class="chips filtros"><button class="chip${!filtro ? ' ativo' : ''}" data-filtro="">Todas (${r.res.length})</button>` +
+      ids.filter((id) => porLei[id]).map((id) => `<button class="chip${filtro === id ? ' ativo' : ''}" data-filtro="${id}">${esc(siglaLei(id))} (${porLei[id]})</button>`).join('') + '</nav>';
   }
-  const ini = Math.max(0, k - 90);
-  return (ini ? '…' : '') + realcar(esc(plano.slice(ini, ini + 260)), termos) + (ini + 260 < plano.length ? '…' : '');
+  h += '<div class="vinheta">❦</div>';
+  lista.slice(0, limite).forEach((x) => {
+    const lei = leis.find((l) => l.id === x.id);
+    h += `<a class="res" href="${linkResultado(x, c.tipo === 'texto' ? q : '')}"><div class="t">${marcar(x.u.head, casa)}</div><div class="l">${esc(lei.nome)}${x.u.loc ? ' · ' + esc(x.u.loc) : ''}</div><div class="s">${trecho(x.u, casa)}</div></a>`;
+  });
+  if (lista.length > limite) h += `<div class="mais"><button class="btn" id="maisRes">Mostrar mais ${Math.min(40, lista.length - limite)} de ${lista.length - limite}</button></div>`;
+  if (!r.res.length) h += `<div class="dica">Nada encontrado. Tente outras palavras${ids.length === 1 && leis.length > 1 ? ' ou busque <b>em todas</b> as leis' : ''}. Dica: palavras no singular ou o começo da palavra também funcionam (<code>penhor</code> acha penhora e penhorável).</div>`;
+  $('#conteudo').innerHTML = h + rodape();
+  if (limite === 40) $('#main').scrollTop = 0;
+  document.querySelectorAll('[data-filtro]').forEach((b) => (b.onclick = () => { ultimaBusca.filtro = b.dataset.filtro || null; ultimaBusca.limite = 40; desenharResultados(); }));
+  const mais = $('#maisRes'); if (mais) mais.onclick = () => { ultimaBusca.limite += 40; desenharResultados(); };
+  document.querySelectorAll('[data-sugestao]').forEach((a) => (a.onclick = (e) => { e.preventDefault(); $('#q').value = a.dataset.sugestao; buscar(a.dataset.sugestao, $('#escopo').value); }));
+}
+
+/* Sugestões enquanto digita */
+let sugSeq = 0, sugTimer = null;
+function esconderSugestoes() { const b = $('#sugestoes'); if (b) { b.hidden = true; b.innerHTML = ''; } $('#q').setAttribute('aria-expanded', 'false'); }
+async function sugerir() {
+  const q = $('#q').value.trim(); const box = $('#sugestoes');
+  if (q.length < 2) { esconderSugestoes(); return; }
+  const seq = ++sugSeq; const ids = idsEscopo($('#escopo').value);
+  if (!ids.every((id) => cache[id] && cache[id].voc)) { box.innerHTML = '<div class="sug-info">Preparando a busca…</div>'; box.hidden = false; }
+  const c = prepararConsulta(q); const r = await executarBusca(c, ids);
+  if (seq !== sugSeq || $('#q').value.trim() !== q) return;
+  const casa = casador(c);
+  let h = r.res.slice(0, 7).map((x) => `<a class="sug" role="option" href="${linkResultado(x, c.tipo === 'texto' ? q : '')}"><span class="sug-t">${marcar(x.u.head, casa)} <small>${esc(siglaLei(x.id))}</small></span><span class="sug-s">${trecho(x.u, casa, 110)}</span></a>`).join('');
+  if (!r.res.length) h = `<div class="sug-info">Nada encontrado${r.sugestao ? ` — você quis dizer <a href="#" data-sug-corr="${esc(r.sugestao)}">${esc(r.sugestao)}</a>?` : '.'}</div>`;
+  else h += `<a class="sug sug-todos" href="#" data-todos="1">Ver todos os ${r.res.length} resultados para “${esc(q)}” →</a>`;
+  box.innerHTML = h; box.hidden = false; $('#q').setAttribute('aria-expanded', 'true');
+  box.querySelectorAll('[data-todos]').forEach((a) => a.addEventListener('mousedown', (e) => { e.preventDefault(); buscar(q, $('#escopo').value); }));
+  box.querySelectorAll('[data-sug-corr]').forEach((a) => a.addEventListener('mousedown', (e) => { e.preventDefault(); $('#q').value = a.dataset.sugCorr; sugerir(); }));
+  box.querySelectorAll('a.sug:not([data-todos])').forEach((a) => a.addEventListener('mousedown', (e) => { e.preventDefault(); esconderSugestoes(); location.hash = a.getAttribute('href'); fecharMenu(); }));
+}
+function ligarBusca() {
+  const q = $('#q');
+  q.setAttribute('aria-controls', 'sugestoes'); q.setAttribute('aria-autocomplete', 'list');
+  q.addEventListener('input', () => { clearTimeout(sugTimer); sugTimer = setTimeout(sugerir, 160); });
+  q.addEventListener('focus', () => { if (q.value.trim().length >= 2) sugerir(); });
+  q.addEventListener('blur', () => setTimeout(esconderSugestoes, 150));
+  q.addEventListener('keydown', (e) => {
+    const itens = [...document.querySelectorAll('#sugestoes a.sug')]; if (!itens.length) return;
+    const k = itens.findIndex((a) => a.classList.contains('ativo'));
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault(); const n = e.key === 'ArrowDown' ? (k + 1) % itens.length : (k <= 0 ? itens.length - 1 : k - 1);
+      itens.forEach((a) => a.classList.remove('ativo')); itens[n].classList.add('ativo'); itens[n].scrollIntoView({ block: 'nearest' });
+    } else if (e.key === 'Enter' && k >= 0) {
+      e.preventDefault(); itens[k].dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
+    } else if (e.key === 'Escape') esconderSugestoes();
+  });
+  $('#escopo').addEventListener('change', () => { if (q.value.trim().length >= 2 && document.activeElement === q) sugerir(); });
+}
+// Carrega e indexa todas as leis em segundo plano, para a primeira busca já ser instantânea.
+function preCarregarBusca() {
+  const ocioso = window.requestIdleCallback || ((f) => setTimeout(f, 300));
+  ocioso(async () => {
+    for (const l of leis) {
+      try { indexar(await abrirLei(l.id)); } catch (e) {}
+      await new Promise((r) => setTimeout(r, 30));
+    }
+  });
 }
 
 /* ---------- Rotas ---------- */
 async function rota() {
   const [cam, qs = ''] = location.hash.replace(/^#\/?/, '').split('?');
   const [id, alvo] = cam.split('/');
-  const termos = (new URLSearchParams(qs).get('q') || '').split('|').filter(Boolean);
+  const q = (new URLSearchParams(qs).get('q') || '').replace(/\|/g, ' ').trim();
   if (!id) return inicio();
   if (id === 'sobre') return sobre();
-  if (atual === id && $('#conteudo .titulo-obra') && !termos.length) { desenharMenu(); return irPara(id, alvo); }
-  await mostrarLei(id, alvo, termos);
+  if (atual === id && $('#conteudo .titulo-obra') && !q) { desenharMenu(); return irPara(id, alvo); }
+  esconderSugestoes();
+  await mostrarLei(id, alvo, q);
 }
 function fecharMenu() { document.body.classList.remove('menu-aberto'); }
 
@@ -998,7 +1241,9 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
   try { await carregarCatalogo(); } catch (e) { return erro(e); }
   if (!leis.length) return erro(new Error('Nenhuma lei encontrada no README.'));
   window.addEventListener('hashchange', rota);
-  rota();
+  ligarBusca();
+  await rota();
+  preCarregarBusca();
 })();
 </script>
 </body>

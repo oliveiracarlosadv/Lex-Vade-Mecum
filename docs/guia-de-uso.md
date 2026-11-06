@@ -46,21 +46,26 @@ No topo de cada lei:
 
 ## 4. Busca
 
-Digite na barra do topo e tecle Enter (ou **Buscar**). Ao lado, escolha **Nesta lei** ou **Em todas**.
+Digite na barra do topo. **Enquanto você digita**, aparecem até 7 sugestões com o trecho encontrado; use as setas e Enter, ou clique. Enter sem escolher (ou **Buscar**) abre a lista completa. Ao lado, escolha **Nesta lei** ou **Em todas**.
 
 | Você digita | Resultado |
 | --- | --- |
-| `dano moral` | Dispositivos que têm todas as palavras, em qualquer ordem |
+| `dano moral` | Dispositivos com todas as palavras, em qualquer ordem, os mais relevantes primeiro |
 | `"direito adquirido"` | A expressão exata (use aspas) |
+| `mulheres gestantes` | Também acha "mulher" e "gestante": plural e feminino não importam |
+| `penhor` | O começo da palavra basta: acha "penhora", "penhorável", "penhorados" |
 | `art. 5º`, `art 5`, `artigo 1.035`, `art. 1035-A` | Vai direto ao artigo |
 | `adct 10` | Artigo 10 do ADCT da Constituição |
 | `tema 75` | Vai direto ao tema do TST |
 | `irdr 7`, `iac 5` | Vai direto ao precedente do TRT8 |
 
-- Acentos e maiúsculas não importam (`acao` encontra `ação`).
-- Primeiro aparecem os dispositivos em que a palavra está no **texto da lei**; depois, os que só a têm na **análise** (marcados "Na análise").
-- Ao abrir um resultado, a página vai direto à expressão encontrada dentro do artigo, que fica realçada e com um contorno piscando por um instante.
-- Se o número existir em mais de uma lei (por exemplo, `art 75` em todas), aparece a lista para escolher.
+- Acentos e maiúsculas não importam (`acao` encontra `ação`), e palavras comuns como "de", "do" e "a" são ignoradas (dentro de aspas, contam).
+- A palavra inteira é que conta: `ação` não traz "relação" nem "ocupação".
+- **Ordem dos resultados:** primeiro onde a palavra está no título, depois no texto da lei, e por último os que só a têm na análise (marcados "Na análise"). A expressão completa e as palavras mais raras pesam mais.
+- **Erro de digitação:** se nada for encontrado, aparece "Você quis dizer…?" com a palavra provável.
+- **Filtros:** na lista completa, botões por lei (CF/88, CPC, TST…) com a quantidade de resultados; "Mostrar mais" carrega os seguintes.
+- Ao abrir um resultado, a página vai direto à expressão encontrada, realçada.
+- A primeira busca já é rápida: as leis são carregadas e indexadas em segundo plano assim que o site abre.
 
 ## 5. Compartilhar, copiar, imprimir e gerar imagem
 

@@ -93,10 +93,13 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 
 ### 4.2 Busca
 
-- Normalização sem acentos e sem maiúsculas.
-- Consulta de artigo (`art. 5º`, `artigo 1.035-A`, `adct 10`, `tema 75`) é reconhecida por expressão regular e comparada com a chave do dispositivo; `tema` busca só temas, `art` só artigos. Resultado único abre direto.
-- Consulta de texto: palavras soltas (todas devem aparecer) e expressões entre aspas. Pontuação: ocorrências no texto oficial valem mais que na análise. Limite de 300 resultados exibidos.
-- Escopo "Nesta lei" ou "Em todas"; as leis são carregadas sob demanda e guardadas em memória.
+- **Índice por lei** (`indexar()`), montado uma vez em segundo plano (`preCarregarBusca()`, logo após abrir o site, todas as leis em paralelo): para cada dispositivo, as palavras do título (peso 3), do texto oficial (2), da localização e campos (0,7) e da análise (0,6).
+- **Normalização:** sem acento e em minúsculas; números sem pontos (`13.105` = `13105`); palavras comuns ignoradas (`PARADAS`); **radical** em português (`radical()`: plural e feminino — `gestantes`→`gestant`, `ações`→`acao`, `morais`→`moral`, `mulheres`→`mulher`).
+- **Consulta** (`prepararConsulta()`): artigos/temas/precedentes reconhecidos por expressão regular (resultado único abre direto); expressões entre aspas são obrigatórias; palavras soltas exigem todas (E); se nada casar, cai para "parte das palavras" (OU) com aviso. Palavras com 4+ letras aceitam começo incompleto (`penhor`).
+- **Ranking:** soma por termo de `idf × Σ peso_campo × tf/(tf+1,2)`, com bônus para a expressão inteira no texto (+6) ou na análise (+2), para aspas (+8) e para presença no texto oficial (+1,5).
+- **Correção:** termos sem ocorrência recebem sugestão por distância de edição (1 ou 2 letras), escolhendo a forma mais frequente.
+- **Destaque:** por palavra (`casador()` + `realcar()`/`marcar()`), o mesmo critério da busca; o trecho exibido é a janela com mais ocorrências (`janela()`).
+- **Interface:** sugestões enquanto digita (`sugerir()`, a cada 160 ms, 7 itens, teclado ↑ ↓ Enter Esc); lista completa com filtros por lei e "Mostrar mais" (40 por vez). Endereço do resultado: `#/<lei>/<dispositivo>?q=<consulta>`.
 
 ### 4.3 Ações
 
@@ -159,6 +162,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Nova busca: índice com radicais, ranking por relevância, sugestões ao digitar, correção de digitação, filtros por lei e pré-carregamento |
 | 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
