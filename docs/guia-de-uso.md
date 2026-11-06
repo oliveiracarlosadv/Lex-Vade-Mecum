@@ -2,7 +2,7 @@
 
 Endereço: **https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/**
 
-A página reúne todas as leis do repositório para leitura e consulta, no computador, no tablet ou no celular. O texto de cada artigo é o texto oficial vigente, conferido toda semana com o Planalto (leis) e com o TST (precedentes). Não é preciso instalar nada nem criar conta.
+A página reúne todas as leis do repositório para leitura e consulta, no computador, no tablet ou no celular. O texto de cada artigo é o texto oficial vigente, conferido toda semana com o Planalto (leis), com o TST e com o TRT8 (precedentes). Não é preciso instalar nada nem criar conta.
 
 ## 1. Página inicial
 
@@ -55,6 +55,7 @@ Digite na barra do topo e tecle Enter (ou **Buscar**). Ao lado, escolha **Nesta 
 | `art. 5º`, `art 5`, `artigo 1.035`, `art. 1035-A` | Vai direto ao artigo |
 | `adct 10` | Artigo 10 do ADCT da Constituição |
 | `tema 75` | Vai direto ao tema do TST |
+| `irdr 7`, `iac 5` | Vai direto ao precedente do TRT8 |
 
 - Acentos e maiúsculas não importam (`acao` encontra `ação`).
 - Primeiro aparecem os dispositivos em que a palavra está no **texto da lei**; depois, os que só a têm na **análise** (marcados "Na análise").

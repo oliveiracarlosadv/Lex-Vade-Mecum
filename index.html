@@ -383,9 +383,9 @@ function parseLei(txt) {
     const linhas = ofic.split('\n').filter((x) => x.trim() && x.trim() !== '---');
     const loc = (linhas.find((x) => x.startsWith('**Localização:**')) || '').replace('**Localização:** ', '');
     const alt = linhas.find((x) => x.startsWith('> **Alterações'));
-    const campos = linhas.filter((x) => /^\*\*[^*]+:?\*\*/.test(x) && !x.startsWith('**Localização:**') && !x.startsWith('**Tese / Questão'));
+    const campos = linhas.filter((x) => /^\*\*[^*]+:?\*\*/.test(x) && !x.startsWith('**Localização:**') && !x.startsWith('**Tese'));
     const texto = linhas.filter((x) => !x.startsWith('**') && !x.startsWith('> **Alterações'));
-    const [rotulo, subt = ''] = head.split(/ — (?=[^—]*$)/).length > 1 && /^Tema /.test(head) ? head.split(/ — (.+)/) : [head, ''];
+    const [rotulo, subt = ''] = head.split(/ — (?=[^—]*$)/).length > 1 && /^(Tema|IRDR|IAC) /.test(head) ? head.split(/ — (.+)/) : [head, ''];
     return { idx, head, rotulo, subt, id: slug(head.split(' — ')[0] + (head.startsWith('ADCT') ? ' ' + head.split(' — ')[1] : '')),
       loc, alt, campos, texto, analise: '#### Interpretação\n' + analise.replace(/\n---\s*$/, ''),
       busca: semAcento(texto.join(' ').replace(/[~*\\]/g, '') + ' ' + subt), buscaAn: semAcento(analise.replace(/[#*>\\-]/g, ' ')),
@@ -397,6 +397,8 @@ function slug(s) { return semAcento(s).replace(/[^a-z0-9]+/g, '-').replace(/^-|-
 function chaveArtigo(head) {
   const t = semAcento(head);
   if (t.startsWith('preambulo')) return 'preambulo';
+  const p = t.match(/^(irdr|iac)\s*n?[º°o.]*\s*(\d+)/);
+  if (p) return p[1] + '-' + p[2];
   const m = t.match(/^(adct\s*—\s*)?(?:art\.|tema)\s*([\d.]+)\s*º?(-[a-z])?/);
   if (!m) return null;
   return (m[1] ? 'adct-' : '') + m[2].replace(/\./g, '') + (m[3] || '');
@@ -535,7 +537,7 @@ function abrirSecao(id, sl) {
   return true;
 }
 function rodape() {
-  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto e TST) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
+  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto, TST e TRT8) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
 }
 function inicio() {
   atual = null; desenharMenu(); desenharSumario();
@@ -546,7 +548,7 @@ function inicio() {
     <div class="vinheta">❦</div>
     <h2 class="titulo-indice">Leis disponíveis</h2>
     <ol class="indice">${leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
-    <div class="dica"><b>Como buscar:</b> digite uma palavra ou trecho (<code>dano moral</code>, <code>"direito adquirido"</code>), um artigo (<code>art. 5º</code>, <code>art 1.035-A</code>, <code>adct 10</code>) ou um tema do TST (<code>tema 75</code>) e escolha buscar <b>nesta lei</b> ou <b>em todas</b>. Palavras soltas são procuradas juntas, em qualquer ordem; entre aspas, a expressão exata.</div>
+    <div class="dica"><b>Como buscar:</b> digite uma palavra ou trecho (<code>dano moral</code>, <code>"direito adquirido"</code>), um artigo (<code>art. 5º</code>, <code>art 1.035-A</code>, <code>adct 10</code>) um tema do TST (<code>tema 75</code>) ou um precedente do TRT8 (<code>irdr 7</code>, <code>iac 5</code>) e escolha buscar <b>nesta lei</b> ou <b>em todas</b>. Palavras soltas são procuradas juntas, em qualquer ordem; entre aspas, a expressão exata.</div>
     </div>${rodape()}`;
   $('#main').scrollTop = 0;
 }
@@ -563,7 +565,7 @@ function sobre() {
       <p>O conteúdo foi pensado também para ferramentas de inteligência artificial (Claude, GPT e similares): cada artigo traz sua localização na lei, as alterações legislativas e a análise, o que permite buscas precisas e respostas fundamentadas no texto vigente.</p>
     </div></section>
     <section class="secao"><h2>Como o texto se mantém atual</h2><div class="md">
-      <p>O texto oficial nunca é digitado à mão: ele é extraído das páginas do Planalto e do Tribunal Superior do Trabalho e conferido, artigo por artigo, antes de cada publicação. Toda semana uma rotina compara o texto publicado com o da fonte oficial. Quando um artigo muda, o texto é atualizado no mesmo dia, a análise daquele artigo recebe o aviso de revisão pendente e a mudança fica registrada no histórico da lei. A data da última conferência aparece no início de cada lei.</p>
+      <p>O texto oficial nunca é digitado à mão: ele é extraído das páginas do Planalto, do Tribunal Superior do Trabalho e do TRT da 8ª Região e conferido, artigo por artigo, antes de cada publicação. Toda semana uma rotina compara o texto publicado com o da fonte oficial. Quando um artigo muda, o texto é atualizado no mesmo dia, a análise daquele artigo recebe o aviso de revisão pendente e a mudança fica registrada no histórico da lei. A data da última conferência aparece no início de cada lei.</p>
       <p>As análises têm finalidade informativa e didática e não substituem a consulta ao texto oficial nem a orientação de um profissional habilitado.</p>
     </div></section>
     <section class="secao"><h2>O criador</h2>
@@ -784,6 +786,8 @@ function ligarAcoes() {
 /* ---------- Busca ---------- */
 function interpretarConsulta(q) {
   const t = semAcento(q.trim());
+  const prec = t.match(/^(irdr|iac)\s*(?:n[º°o.]*)?\s*(\d+)$/);
+  if (prec) return { tipo: 'artigo', so: 'prec', chave: prec[1] + '-' + prec[2] };
   const art = t.match(/^(?:(adct)\s*[-—]?\s*)?(?:art(?:igo)?s?\.?|tema)?\s*(?:(adct)\s*)?(\d[\d.]*)\s*º?\s*(-?\s*[a-z])?$/);
   if (art && (/^(art|artigo|tema|adct)/.test(t) || /^\d/.test(t))) {
     const adct = art[1] || art[2];
@@ -802,7 +806,7 @@ async function buscar(q, escopo) {
   for (const id of alvoLeis) {
     let d; try { d = await abrirLei(id); } catch (e) { continue; }
     d.unidades.forEach((u) => {
-      if (c.tipo === 'artigo') { const ehTema = u.head.startsWith('Tema'); if ((c.so === 'tema' && !ehTema) || (c.so === 'art' && ehTema)) return; if (u.chave === c.chave) res.push({ id, u, score: 100 }); return; }
+      if (c.tipo === 'artigo') { const ehTema = /^(Tema|IRDR|IAC) /.test(u.head); if ((c.so === 'tema' && !ehTema) || (c.so === 'art' && ehTema)) return; if (u.chave === c.chave) res.push({ id, u, score: 100 }); return; }
       const termos = [...c.frases, ...c.palavras];
       const noTexto = termos.every((t) => u.busca.includes(t));
       const naAnalise = !noTexto && termos.every((t) => u.busca.includes(t) || u.buscaAn.includes(t));

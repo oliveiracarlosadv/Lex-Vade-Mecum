@@ -81,7 +81,7 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | `#/` | Página inicial |
 | `#/sobre` | Sobre (objetivo, atualização e criador; biografia e contato vêm do README, seções "Sobre o criador" e "Contato") |
 | `#/<lei>` | Lei inteira |
-| `#/<lei>/<dispositivo>` | Lei aberta no dispositivo (`art-5`, `art-1-035`, `adct-art-10`, `tema-75`) |
+| `#/<lei>/<dispositivo>` | Lei aberta no dispositivo (`art-5`, `art-1-035`, `adct-art-10`, `tema-75`, `irdr-n-7`, `iac-n-5`) |
 | `#/<lei>/s-<seção>` | Seção. As partes antes de `## Texto Estruturado` abrem na janela `#painel` (`abrirSecao()`); as de análise geral rolam até a seção (por exemplo `s-glossario-juridico`) |
 | `…?q=termo1|termo2` | Realça os termos buscados |
 
@@ -152,6 +152,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Precedentes do TRT8 (IRDR e IAC) na página; busca por `irdr 7` e `iac 5` |
 | 06/11/2026 | Story sem cortes (fonte ajustável, tamanho fixo de story); assinatura "Lex Vade Mecum by Carlos A. A. Oliveira" no topo, na página inicial e no rodapé |
 | 06/11/2026 | Lei abre direto no texto; partes introdutórias viram botões que abrem em janela |
 | 06/11/2026 | Busca leva direto à expressão encontrada; botão Story (1080 × 1920) na barra de seleção |

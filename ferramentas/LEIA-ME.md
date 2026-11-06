@@ -75,6 +75,22 @@ Regras de comparação:
 
 Para regenerar após revisar análises: `python3 ferramentas/tst.py --fonte tst-precedentes`.
 
+## Precedentes do TRT8 (`fontes/trt8-precedentes/`)
+
+Teses firmadas pelo TRT da 8ª Região em IRDR e IAC. O site do TRT8 aceita download direto, então não é preciso usar o navegador:
+
+```bash
+python3 ferramentas/trt8.py --fonte trt8-precedentes --baixar
+```
+
+O script lê a página https://www.trt8.jus.br/jurisprudencia/precedentes, separa cada precedente (tipo, número, título oficial, tese, processo, links do acórdão e da página), compara com a conferência anterior e monta `leis/trt8-precedentes/trt8-precedentes-completa.md`, validando que título e tese são idênticos aos do site. Anotações em `anotacoes.txt` com blocos `@IRDR 7` / `@IAC 5` (linhas `T:`, `I:`, `P:`, `K:`).
+
+Regras de comparação:
+- tese ou título oficial alterado, ou precedente novo → análise marcada como pendente de revisão;
+- mudança apenas no processo ou no link do acórdão → registrada no `CHANGELOG.md`, sem pendência.
+
+Para regenerar após revisar análises: `python3 ferramentas/trt8.py --fonte trt8-precedentes`.
+
 ## Página de consulta (`index.html`)
 
 A página na raiz do repositório (publicada pelo GitHub Pages em https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/) lê a tabela "Acesso direto às leis" do README e os arquivos `leis/*/*-completa.md`. Uma lei nova aparece na página assim que entra na tabela; não há nada a gerar.
