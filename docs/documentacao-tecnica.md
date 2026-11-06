@@ -117,6 +117,7 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | Favoritos e perfil | `alternarFavorita()` (botão ☆ na lei; ★ no menu e na página inicial). O perfil (`nome`, `@`) é saneado por `limparPerfil()` e entra no rodapé do story e da imagem via `linhaPerfil()` ("Compartilhado por …") |
 | Armazenamento | `localStorage['lex-dados']` = `{versao, perfil, favoritos[], marcas[]}`; cor preferida em `lex-cor`. Leitura e gravação sempre com `try/catch` (modo privado ou cota cheia mostram aviso). Nada é enviado a servidor |
 | Backup | `exportarBackup()` gera `lex-vade-mecum-backup-AAAA-MM-DD.json` (`app: "Lex Vade Mecum"`, `tipo: "backup"`); `importarBackup()` valida o arquivo e cada marcação, e junta (sem duplicar por `id`) ou substitui. Página `#/marcacoes` |
+| Desmarcar e @ no story | `marcasNaSelecao()` mostra o botão **Desmarcar** quando a seleção cruza `mark.mt`; `desmarcarSelecao()` remove os grupos. `pedirArrobaEGerar()` abre `#janelaArroba` antes do story quando não há @ salvo; o story desenha "Compartilhado por [nome]" e o @ em linha própria (50 px) |
 | Barra de seleção | Aparece em `selectionchange` dentro do conteúdo; no celular fica fixa embaixo para não colidir com o menu nativo |
 
 ### 4.4 Aparência
@@ -169,6 +170,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
 | 06/11/2026 | Nova busca: índice com radicais, ranking por relevância, sugestões ao digitar, correção de digitação, filtros por lei e pré-carregamento |
 | 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
+| 06/11/2026 | Barra de seleção cabe na tela do celular (ícone sobre rótulo, largura total); botão Desmarcar; story pede o @ quando não há perfil e o destaca no rodapé |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |

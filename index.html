@@ -156,6 +156,7 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .popover svg{width:17px;height:17px;color:var(--titulo2);flex:none}
 .barra-selecao{position:fixed;z-index:55;display:flex;gap:2px;background:var(--titulo);color:var(--papel);border-radius:999px;padding:4px;box-shadow:var(--sombra);font-family:var(--ui)}
 .barra-selecao[hidden]{display:none}
+.barra-selecao button[hidden]{display:none}
 .barra-selecao button{display:inline-flex;align-items:center;gap:6px;border:0;background:none;color:inherit;cursor:pointer;font-size:13px;padding:7px 12px;border-radius:999px}
 .barra-selecao button:hover{background:rgba(255,255,255,.14)}
 .barra-selecao svg{width:15px;height:15px}
@@ -245,6 +246,10 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 .perfil input:focus{outline:2px solid var(--titulo2);outline-offset:1px}
 @media (max-width:600px){.perfil{grid-template-columns:1fr}}
 .card-img .ci-perfil{margin-top:36px;text-align:right;font-family:var(--display);font-style:italic;font-size:28px;color:#46712A}
+.janela-arroba{width:min(34rem,94vw)}
+.janela-arroba .painel-folha{height:auto}
+.titulo-pequeno{font-family:var(--display);font-weight:600;font-variant:small-caps;letter-spacing:.08em;font-size:24px;color:var(--titulo);text-align:center;margin:0 0 .4em}
+.janela-arroba .perfil{grid-template-columns:1fr}
 .grade-backup{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0}
 @media print{mark.mt{background:transparent!important;text-decoration:underline;text-decoration-color:#999}}
 
@@ -294,7 +299,11 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   .painel{width:100vw;height:100%;max-height:100%;margin:0}
   .painel .painel-folha{max-height:100%;height:100%;border-radius:0}
   .chip{font-size:14.5px;padding:6px 12px}
-  .barra-selecao button{padding:7px 9px;font-size:12.5px;gap:4px}
+  .barra-selecao{left:8px!important;right:8px;width:auto;max-width:calc(100vw - 16px);border-radius:16px;padding:4px;justify-content:space-between}
+  .barra-selecao{gap:0}
+  .barra-selecao button{flex:1 1 auto;min-width:0;flex-direction:column;gap:3px;padding:7px 3px;font-size:10.5px;letter-spacing:-.01em;border-radius:12px;line-height:1.1}
+  .barra-selecao .rot{display:block;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .barra-selecao svg{width:18px;height:18px}
 }
 @media print{
   :root,:root[data-theme="dark"]{--papel:#fff;--papel2:#f5f5f5;--tinta:#111;--tinta2:#444;--titulo:#2b3a22;--titulo2:#3c5f24;--fio:#ccc;--marca-texto:transparent}
@@ -339,15 +348,23 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 </div>
 <button class="btn topo-btn" id="topoBtn" title="Voltar ao topo" aria-label="Voltar ao topo">↑</button>
 <div class="barra-selecao" id="barraSel" hidden role="toolbar" aria-label="Ações para o trecho selecionado">
-  <button data-sel="marcar" title="Marcar o trecho como marca-texto"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l-6 6v3h9l3-3"/><path d="M22 12l-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4"/></svg>Marcar</button>
-  <button data-sel="compartilhar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v14"/></svg>Compartilhar</button>
-  <button data-sel="copiar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button>
-  <button data-sel="imagem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="M21 15l-5-5L5 21"/></svg>Imagem</button>
-  <button data-sel="story" title="Gerar um story (1080 × 1920) com o trecho"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M10 18h4"/></svg>Story</button>
+  <button data-sel="marcar" title="Marcar o trecho como marca-texto"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l-6 6v3h9l3-3"/><path d="M22 12l-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4"/></svg><span class="rot">Marcar</span></button>
+  <button data-sel="desmarcar" hidden title="Remover a marcação dos trechos selecionados"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 20H8l-5-5a2 2 0 0 1 0-2.8L12.2 3a2 2 0 0 1 2.8 0l5 5a2 2 0 0 1 0 2.8L11 20"/><path d="M6 11l7 7"/></svg><span class="rot">Desmarcar</span></button>
+  <button data-sel="compartilhar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v14"/></svg><span class="rot">Compartilhar</span></button>
+  <button data-sel="copiar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg><span class="rot">Copiar</span></button>
+  <button data-sel="imagem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="M21 15l-5-5L5 21"/></svg><span class="rot">Imagem</span></button>
+  <button data-sel="story" title="Gerar um story (1080 × 1920) com o trecho"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M10 18h4"/></svg><span class="rot">Story</span></button>
 </div>
 <div class="popover" id="popover" hidden role="menu"></div>
 <div class="aviso-rapido" id="aviso" role="status" aria-live="polite"></div>
 <dialog class="painel" id="painel" aria-label="Informações sobre a lei"><div class="painel-folha folha"><button class="painel-fechar btn" aria-label="Fechar">✕ Fechar</button><div id="painelConteudo"></div></div></dialog>
+<dialog class="painel janela-arroba" id="janelaArroba" aria-label="Seu @ no story"><form method="dialog" class="painel-folha folha" id="formArroba">
+  <h2 class="titulo-pequeno">Seu @ no story</h2>
+  <p class="aviso-busca">O story sai com “Compartilhado por” e o seu @ no rodapé. Fica salvo no seu perfil, neste navegador.</p>
+  <div class="perfil"><label>@ nas redes sociais<input type="text" id="jaArroba" maxlength="41" placeholder="@seuperfil" autocapitalize="off" spellcheck="false"></label>
+  <label>Nome (opcional)<input type="text" id="jaNome" maxlength="60" placeholder="Seu nome" autocomplete="name"></label></div>
+  <div class="grade-backup"><button class="btn prim" value="ok">Gerar story</button><button class="btn" value="sem">Gerar sem @</button></div>
+</form></dialog>
 <input type="file" id="arqBackup" accept="application/json,.json" hidden>
 <div id="areaImpressao"></div>
 <div id="fabricaImagem"></div>
@@ -836,9 +853,12 @@ async function desenharStory(pac, lei) {
   if (x) blocos.push({ font: `700 54px ${DISPLAY}`, cor: '#384A2C', txt: x.u.head, lh: 64 });
   blocos.push({ font: `500 42px ${DISPLAY}`, cor: '#2A2925', txt: lei ? lei.nome : pac.fonte, lh: 52, mt: 8 });
   if (lei && lei.numero) blocos.push({ font: `400 32px ${SERIF}`, cor: '#5E5A50', txt: lei.numero, lh: 44, mt: 10 });
-  const pf = linhaPerfil();
-  if (pf) blocos.push({ font: `italic 500 38px ${DISPLAY}`, cor: '#46712A', txt: pf, lh: 48, mt: 26 });
-  blocos.push({ font: `400 28px ${SERIF}`, cor: '#5E5A50', txt: 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', lh: 38, mt: pf ? 14 : 26 });
+  const { nome: pfNome, arroba: pfArroba } = dados.perfil || {};
+  if (pfNome || pfArroba) {
+    blocos.push({ font: `italic 500 36px ${DISPLAY}`, cor: '#5E5A50', txt: 'Compartilhado por' + (pfNome ? ' ' + pfNome : ''), lh: 46, mt: 28 });
+    if (pfArroba) blocos.push({ font: `700 50px ${DISPLAY}`, cor: '#46712A', txt: pfArroba, lh: 60, mt: 2 });
+  }
+  blocos.push({ font: `400 28px ${SERIF}`, cor: '#5E5A50', txt: 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', lh: 38, mt: pfNome || pfArroba ? 16 : 26 });
   let altRod = 0;
   blocos.forEach((b) => { ctx.font = b.font; b.linhas = quebrarSimples(ctx, b.txt, LARG); altRod += (b.mt || 0) + b.linhas.length * b.lh; });
   const linhaRod = H - 130 - altRod - 48;
@@ -919,10 +939,11 @@ function posicionarBarraSel() {
   const ok = sel.rangeCount && !sel.isCollapsed && sel.toString().trim().length > 1 &&
     $('#conteudo').contains(sel.getRangeAt(0).commonAncestorContainer) && atual && atual !== 'sobre' && atual !== 'marcacoes';
   if (!ok) { bar.hidden = true; return; }
+  bar.querySelector('[data-sel="desmarcar"]').hidden = !marcasNaSelecao().length;
   bar.hidden = false;
   const r = sel.getRangeAt(0).getBoundingClientRect(); const w = bar.offsetWidth;
   const toque = matchMedia('(pointer: coarse)').matches;
-  if (toque) { bar.style.left = Math.max(8, (innerWidth - w) / 2) + 'px'; bar.style.top = ''; bar.style.bottom = '18px'; }
+  if (toque || innerWidth <= 600) { bar.style.left = innerWidth <= 600 ? '' : Math.max(8, (innerWidth - w) / 2) + 'px'; bar.style.top = ''; bar.style.bottom = 'max(18px, env(safe-area-inset-bottom))'; }
   else {
     bar.style.bottom = '';
     bar.style.left = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), innerWidth - w - 8) + 'px';
@@ -950,11 +971,12 @@ function ligarAcoes() {
   $('#barraSel').addEventListener('click', async (e) => {
     const b = e.target.closest('[data-sel]'); if (!b) return;
     if (b.dataset.sel === 'marcar') return iniciarMarcacao(b);
+    if (b.dataset.sel === 'desmarcar') return desmarcarSelecao();
     const pac = pacoteSelecao(); if (!pac) return;
     if (b.dataset.sel === 'compartilhar') abrirPopover(b, pac);
     if (b.dataset.sel === 'copiar') aviso((await copiar(pac.texto)) ? 'Trecho copiado com a fonte' : 'Não foi possível copiar');
     if (b.dataset.sel === 'imagem') gerarImagem(pac);
-    if (b.dataset.sel === 'story') gerarImagem(pac, 'story');
+    if (b.dataset.sel === 'story') pedirArrobaEGerar(pac);
   });
   document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel], mark.mt')) fecharFlutuantes(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { fecharFlutuantes(); $('#barraSel').hidden = true; } });
@@ -1031,6 +1053,36 @@ function trechosDaSelecao() {
     });
   });
   return out.length ? out : null;
+}
+// Grupos de marcação tocados pela seleção atual.
+// Antes do primeiro story sem @ salvo, pergunta o @ (e o nome) e guarda no perfil.
+let semArrobaNestaVisita = false;
+function pedirArrobaEGerar(pac) {
+  if (dados.perfil.arroba || semArrobaNestaVisita || !window.HTMLDialogElement) return gerarImagem(pac, 'story');
+  const dlg = $('#janelaArroba');
+  $('#jaArroba').value = ''; $('#jaNome').value = dados.perfil.nome || '';
+  dlg.onclose = () => {
+    if (dlg.returnValue === 'ok') {
+      const pf = limparPerfil({ nome: $('#jaNome').value, arroba: $('#jaArroba').value });
+      if (pf.arroba || pf.nome) { dados.perfil = pf; salvarDados(); } else semArrobaNestaVisita = true;
+    } else if (dlg.returnValue === 'sem') semArrobaNestaVisita = true;
+    else return;
+    gerarImagem(pac, 'story');
+  };
+  dlg.returnValue = ''; dlg.showModal(); setTimeout(() => $('#jaArroba').focus(), 50);
+}
+function marcasNaSelecao() {
+  const sel = getSelection(); if (!sel.rangeCount || sel.isCollapsed) return [];
+  const r = sel.getRangeAt(0); const gs = new Set();
+  document.querySelectorAll('#conteudo mark.mt').forEach((m) => { if (r.intersectsNode(m)) gs.add(m.dataset.g); });
+  return [...gs];
+}
+function desmarcarSelecao() {
+  const gs = marcasNaSelecao(); if (!gs.length) return aviso('Não há marcação no trecho selecionado');
+  dados.marcas = dados.marcas.filter((x) => !gs.includes(x.g));
+  if (salvarDados()) aviso(gs.length === 1 ? 'Marcação removida' : `${gs.length} marcações removidas`);
+  getSelection().removeAllRanges(); $('#barraSel').hidden = true; fecharFlutuantes();
+  aplicarMarcas(atual);
 }
 function iniciarMarcacao(botao) {
   const tr = trechosDaSelecao();
