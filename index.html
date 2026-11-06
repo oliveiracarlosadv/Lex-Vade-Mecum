@@ -139,9 +139,11 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .st-topo{text-align:center;padding-bottom:56px;border-bottom:2px solid #384A2C;position:relative}
 .st-topo img{width:600px;height:auto}
 .st-meio{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;position:relative}
-.st-caixa{margin:auto 0}
+.st-caixa{margin:auto 0;padding:24px 0 36px}
 .st-aspas{font-family:var(--display);font-size:220px;line-height:1;height:130px;color:#46712A;margin-left:-8px}
-.st-texto{line-height:1.5;text-align:left;hyphens:none}
+.st-texto{line-height:1.5;hyphens:none}
+.ln{display:block;text-align:justify;text-align-last:justify;white-space:nowrap}
+.ln.ult{text-align-last:left}
 .st-rodape{border-top:2px solid #384A2C;padding-top:48px;text-align:center;position:relative}
 .st-disp{font-family:var(--display);font-weight:700;font-size:54px;color:#384A2C;line-height:1.15}
 .st-lei{font-family:var(--display);font-size:42px;line-height:1.2;margin-top:10px}
@@ -160,7 +162,7 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .card-img .ci-texto p{margin:0 0 .45em}
 .card-img .ci-texto p.inciso,.card-img .ci-texto p.alinea{padding-left:1.2em}
 .card-img .ci-texto del{color:#8C877A}
-.card-img .ci-citacao{font-size:36px;line-height:1.55;font-style:italic;border-left:5px solid #46712A;padding-left:28px;margin:10px 0 26px}
+.card-img .ci-citacao{text-align:justify;font-size:36px;line-height:1.55;font-style:italic;border-left:5px solid #46712A;padding-left:28px;margin:10px 0 26px}
 .card-img .ci-fonte{font-family:var(--display);font-size:28px;color:#384A2C;text-align:right}
 .card-img .ci-rodape{margin-top:44px;border-top:1px solid #D9D0BA;padding-top:18px;font-family:var(--serif);font-size:19px;color:#5E5A50;display:flex;justify-content:space-between;gap:20px}
 .indice{list-style:none;padding:0;margin:22px auto 0;text-align:left;max-width:36rem;counter-reset:lei}
@@ -684,33 +686,80 @@ function carregarH2C() {
 }
 function htmlStory(pac, lei) {
   const t = pac.citacao; // trecho inteiro, nunca cortado: a fonte é ajustada em ajustarStory()
-  const fs = 76;
+  const fs = 64;
   const x = pac.uid && dadosUnidade(pac.uid);
   return `<div class="story-img"><div class="st-moldura"></div>
     <div class="st-topo"><img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum"></div>
-    <div class="st-meio"><div class="st-caixa"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px">${esc(t).replace(/\n/g, '<br>')}</div></div></div>
+    <div class="st-meio"><div class="st-caixa"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px" data-texto="${esc(t)}"></div></div></div>
     <div class="st-rodape">${x ? `<div class="st-disp">${esc(x.u.head)}</div>` : ''}<div class="st-lei">${esc(lei ? lei.nome : pac.fonte)}</div>${lei && lei.numero ? `<div class="st-num">${esc(lei.numero)}</div>` : ''}<div class="st-site">oliveiracarlosadv.github.io/Lex-Vade-Mecum</div></div>
   </div>`;
 }
 // Reduz a fonte do trecho até ele caber inteiro no story (1080 x 1920), sem cortar nada.
+/* ---------- Diagramação das imagens: justificado com hifenização em português ---------- */
+// Pontos de separação silábica (regras do português: V-CV, VC-CV, V-CCV com encontros inseparáveis).
+const VOGAIS = 'aeiouáéíóúâêôãõàüy';
+const INSEPARAVEIS = ['bl', 'br', 'cl', 'cr', 'dl', 'dr', 'fl', 'fr', 'gl', 'gr', 'kl', 'kr', 'pl', 'pr', 'tl', 'tr', 'vl', 'vr', 'ch', 'lh', 'nh', 'gu', 'qu'];
+function pontosSilabicos(palavra) {
+  const m = palavra.match(/^([^A-Za-zÀ-ÿ]*)([A-Za-zÀ-ÿ]+)/); if (!m) return [];
+  const off = m[1].length, w = m[2].toLowerCase(), v = (c) => VOGAIS.includes(c), pts = [];
+  for (let i = 1; i < w.length - 1; i++) {
+    const a = w[i - 1], b = w[i], c = w[i + 1];
+    if (v(b) || !v(c)) continue;
+    if (v(a)) pts.push(i);
+    else if (i >= 2 && v(w[i - 2])) pts.push(INSEPARAVEIS.includes(a + b) ? i - 1 : i);
+  }
+  return [...new Set(pts)].filter((i) => i >= 2 && w.length - i >= 2).map((i) => i + off);
+}
+function quebrarLinhas(texto, largura, ctx) {
+  const med = (s) => ctx.measureText(s).width, linhas = [];
+  for (const par of texto.split('\n')) {
+    const ws = par.split(/\s+/).filter(Boolean); let cur = []; let i = 0;
+    while (i < ws.length) {
+      const atual = cur.join(' ');
+      if (med(atual ? atual + ' ' + ws[i] : ws[i]) <= largura) { cur.push(ws[i++]); continue; }
+      // A palavra não cabe: se a linha ficaria com muita sobra, separa a palavra em sílabas.
+      const sobra = largura - med(atual);
+      if (!cur.length || sobra > largura * 0.08) {
+        for (const k of pontosSilabicos(ws[i]).reverse()) {
+          const parte = ws[i].slice(0, k) + '-';
+          if (med(atual ? atual + ' ' + parte : parte) <= largura) { cur.push(parte); ws[i] = ws[i].slice(k); break; }
+        }
+      }
+      if (!cur.length) cur.push(ws[i++]);
+      linhas.push({ t: cur.join(' '), ult: false }); cur = [];
+    }
+    if (cur.length) linhas.push({ t: cur.join(' '), ult: true });
+  }
+  return linhas;
+}
+// Diagrama el (com data-texto) em linhas justificadas; devolve a altura obtida.
+function diagramar(el, fs) {
+  const cs = getComputedStyle(el), largura = el.clientWidth * 0.985;
+  const ctx = (diagramar.c = diagramar.c || document.createElement('canvas')).getContext('2d');
+  ctx.font = `${cs.fontStyle} ${cs.fontWeight} ${fs}px ${cs.fontFamily}`;
+  el.style.fontSize = fs + 'px';
+  el.innerHTML = quebrarLinhas(el.dataset.texto, largura, ctx).map((l) => `<span class="ln${l.ult ? ' ult' : ''}">${esc(l.t)}</span>`).join('');
+  return el.offsetHeight;
+}
 function ajustarStory(card) {
   const meio = card.querySelector('.st-meio'), caixa = card.querySelector('.st-caixa'), tx = card.querySelector('.st-texto'), aspas = card.querySelector('.st-aspas');
-  let fs = parseFloat(tx.style.fontSize);
-  // margem de segurança de 4%: o gerador de imagem refaz a quebra de linhas e pode ocupar um pouco mais
-  const cabe = () => caixa.offsetHeight <= meio.clientHeight * 0.96;
-  while (!cabe() && fs > 12) {
-    fs -= fs > 30 ? 2 : 1; tx.style.fontSize = fs + 'px';
+  let fs = 64;
+  diagramar(tx, fs);
+  while (caixa.offsetHeight > meio.clientHeight * 0.97 && fs > 12) {
+    fs -= fs > 30 ? 2 : 1;
     if (fs < 40) aspas.style.display = 'none';
+    tx.style.lineHeight = fs < 30 ? '1.4' : '1.5';
+    diagramar(tx, fs);
   }
-  tx.style.lineHeight = fs < 30 ? '1.4' : '1.5';
 }
+function ajustarCartao(card) { const c = card.querySelector('.ci-citacao[data-texto]'); if (c) diagramar(c, 36); }
 async function gerarImagem(pac, formato) {
   aviso('Gerando a imagem…');
   const lei = leis.find((l) => l.id === atual);
   const x = pac.uid && dadosUnidade(pac.uid);
   let miolo;
   if (pac.tipo === 'selecao') {
-    miolo = `<div class="ci-citacao">“${esc(pac.citacao).replace(/\n/g, '<br>')}”</div><div class="ci-fonte">— ${esc(pac.fonte)}</div>`;
+    miolo = `<div class="ci-citacao" data-texto="${esc('“' + pac.citacao + '”')}"></div><div class="ci-fonte">— ${esc(pac.fonte)}</div>`;
   } else {
     miolo = `<div class="ci-rot">${esc(x.u.rotulo)}</div>${x.u.subt ? `<div class="ci-sub">${esc(x.u.subt)}</div>` : ''}
       <div class="ci-texto">${x.u.texto.map((l) => `<p class="${classeLinha(l)}">${inline(l)}</p>`).join('')}</div>`;
@@ -722,9 +771,11 @@ async function gerarImagem(pac, formato) {
   try {
     await carregarH2C();
     if (document.fonts && document.fonts.ready) await document.fonts.ready;
-    if (formato === 'story') ajustarStory(fab.firstElementChild);
+    if (formato === 'story') ajustarStory(fab.firstElementChild); else ajustarCartao(fab.firstElementChild);
+    // Reajusta na cópia que o gerador desenha (ela pode quebrar as linhas de outro jeito).
+    const onclone = formato === 'story' ? async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.story-img'); if (c) ajustarStory(c); } : async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.card-img'); if (c) ajustarCartao(c); };
     const tam = formato === 'story' ? { width: 1080, height: 1920, windowWidth: 1080, windowHeight: 1920 } : {};
-    const canvas = await window.html2canvas(fab.firstElementChild, Object.assign({ scale: 1, backgroundColor: '#FBF8F0', logging: false }, tam));
+    const canvas = await window.html2canvas(fab.firstElementChild, Object.assign({ scale: 1, backgroundColor: '#FBF8F0', logging: false, onclone }, tam));
     const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
     if (!blob) throw new Error('falha ao gerar');
     const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
