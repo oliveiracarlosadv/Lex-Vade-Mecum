@@ -31,6 +31,12 @@ Planalto / TST ──(conferência semanal: extração + validação)──▶ l
 | `.nojekyll` | Faz o GitHub Pages servir os arquivos como estão (sem Jekyll), inclusive os `.md` |
 | `assets/lex-vade-mecum-logo.svg` | Logo da página inicial |
 | `assets/lex-vade-mecum-icone.svg` | Ícone do topo, favicon e marca das imagens geradas |
+| `manifest.webmanifest` | Nome, cores e ícones do atalho na tela inicial (Android/Chrome); abre em tela cheia (`display: standalone`) |
+| `assets/apple-touch-icon.png` (e cópia na raiz) | Ícone 180 × 180 do atalho no iPhone/iPad |
+| `assets/icone-192.png`, `assets/icone-512.png` | Ícones do manifesto (Android) |
+| `assets/icone-maskable-512.png` | Ícone com margem extra para recortes circulares do Android |
+| `assets/favicon-32.png` | Favicon PNG para navegadores sem suporte a SVG |
+| `assets/icone-app.svg`, `assets/icone-maskable.svg` | Originais quadrados (fundo creme) dos ícones acima; os PNGs foram gerados com `qlmanage` e `sips` do macOS |
 | `README.md` | A tabela entre `<!-- catalogo:inicio -->` e `<!-- catalogo:fim -->` é a lista de leis da página |
 | `leis/<norma>/<norma>-completa.md` | Conteúdo de cada lei |
 | `ferramentas/gerar-offline.py` | Gera `dados-offline.js` para a cópia local |
@@ -153,6 +159,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | Data | Mudança |
 | --- | --- |
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
+| 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
 | 06/11/2026 | Celular: página fixa na largura da tela, sem rolagem lateral; links longos encurtados |

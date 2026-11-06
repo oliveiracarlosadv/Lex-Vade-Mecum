@@ -93,10 +93,19 @@ Todo artigo tem endereço próprio, por exemplo:
 
 Quem abrir o link cai direto no artigo, destacado.
 
-## 6. Cópia para uso sem internet
+## 6. Atalho na tela inicial do celular
+
+A página pode ser salva como um aplicativo, com o ícone do Lex Vade Mecum (livro aberto com ramo de oliveira) e o nome "Lex Vade Mecum":
+
+- **iPhone e iPad (Safari):** abra o site, toque em **Compartilhar** (quadrado com seta) → **Adicionar à Tela de Início** → **Adicionar**.
+- **Android (Chrome):** abra o site, toque no menu **⋮** → **Adicionar à tela inicial** (ou **Instalar app**).
+
+Aberto pelo atalho, o Lex Vade Mecum ocupa a tela inteira, sem a barra de endereço do navegador, e mostra sempre o texto atualizado.
+
+## 7. Cópia para uso sem internet
 
 A pasta do Google Drive do projeto tem uma cópia da página (`index.html` com `dados-offline.js`). Basta abrir o `index.html` com dois cliques: leitura, busca, compartilhamento por link e impressão funcionam sem servidor. A geração de **Imagem** precisa de internet e funciona apenas na versão on-line. A cópia reflete o conteúdo da data em que foi sincronizada; a versão on-line é sempre a mais atual.
 
-## 7. Aviso
+## 8. Aviso
 
 As análises têm finalidade informativa e didática, não constituem parecer jurídico e não substituem a consulta ao texto publicado no Diário Oficial nem a orientação de um profissional habilitado.
