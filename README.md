@@ -16,10 +16,10 @@ Clique em "Ler on-line" para abrir a norma inteira (texto oficial com a análise
 | Norma | Número | Data de publicação | Leitura on-line (arquivo inteiro) | Texto oficial |
 | --- | --- | --- | --- | --- |
 | Constituição da República Federativa do Brasil de 1988 | — (compilada até a EC nº 141/2026) | 5 de outubro de 1988 (DOU nº 191-A) | [Ler on-line](leis/constituicao-federal/constituicao-federal-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm) |
+| Código de Processo Civil (CPC) | Lei nº 13.105 | 16 de março de 2015 (DOU de 17.3.2015) | [Ler on-line](leis/cpc/cpc-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) |
 | Lei de Introdução às Normas do Direito Brasileiro (LINDB) | Decreto-Lei nº 4.657 | 4 de setembro de 1942 (DOU de 9.9.1942) | [Ler on-line](leis/lindb/lindb-completa.md) | [Planalto](https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm) |
 <!-- catalogo:fim -->
 
-**Em preparação:** Código de Processo Civil (Lei nº 13.105/2015).
 
 ## O que cada arquivo contém
 
