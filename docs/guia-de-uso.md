@@ -6,7 +6,7 @@ A página reúne todas as leis do repositório para leitura e consulta, no compu
 
 ## 1. Página inicial
 
-- **Logo e apresentação** do Lex Vade Mecum.
+- **Logo e assinatura** — *Lex Vade Mecum by Carlos A. A. Oliveira* — e a apresentação do projeto. A assinatura também aparece no topo de todas as páginas (computador) e no rodapé.
 - **Leis disponíveis**, em lista: nome da lei seguido do número (por exemplo, *Código de Processo Civil (CPC) — Lei nº 13.105*), com a data de publicação e a data da última conferência com a fonte oficial. Clique no nome para abrir a lei.
 - **Como buscar**: resumo das formas de busca.
 
@@ -78,7 +78,7 @@ Selecione qualquer trecho do texto com o mouse (ou mantendo o dedo pressionado n
 - **Compartilhar** → o mesmo menu acima, enviando o trecho entre aspas, seguido da fonte (`— Art. 5º, Constituição…`) e do link.
 - **Copiar** → copia o trecho com a fonte e o link, pronto para colar em petições, e-mails ou estudos.
 - **Imagem** → gera uma imagem de citação com o trecho e a fonte.
-- **Story** → gera uma imagem vertical (1080 × 1920, formato de story do Instagram, WhatsApp e similares) com o logo do Lex Vade Mecum no topo, o trecho no centro e, no rodapé, o artigo e a lei de onde ele foi tirado. No celular, abre direto a tela de compartilhamento; no computador, vai para Downloads.
+- **Story** → gera uma imagem vertical (1080 × 1920, formato de story do Instagram, WhatsApp e similares) com o logo do Lex Vade Mecum no topo, o trecho no centro e, no rodapé, o artigo e a lei de onde ele foi tirado. O trecho nunca é cortado: a imagem tem sempre o tamanho exato de um story e a letra diminui apenas o necessário para caber tudo (para leitura confortável, prefira trechos de até um parágrafo ou dois). No celular, abre direto a tela de compartilhamento; no computador, vai para Downloads.
 
 A barra some ao clicar fora ou ao teclar Esc.
 
