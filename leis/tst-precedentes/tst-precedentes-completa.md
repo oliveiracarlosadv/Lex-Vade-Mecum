@@ -77,7 +77,7 @@ A tabela oficial não se divide em títulos ou capítulos; cada tema é uma unid
 
 ## Texto Estruturado
 
-### Tema 1
+### Tema 1 — Certidão de antecedentes criminais na admissão e dano moral
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -118,7 +118,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 2
+### Tema 2 — Divisor de horas extras do bancário e repouso semanal
 
 **Situação (último movimento, conforme o TST):** Transitado em julgado (Acordo homologado no Cumprimento de Sentença nº 0010794-74.2025.5.03.0138)
 
@@ -188,7 +188,7 @@ Fixa as regras do divisor de horas extras, especialmente para bancários: o divi
 
 ---
 
-### Tema 3
+### Tema 3 — Honorários advocatícios antes e depois da Reforma Trabalhista
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -266,7 +266,7 @@ Disciplina os honorários advocatícios na Justiça do Trabalho antes e depois d
 
 ---
 
-### Tema 4
+### Tema 4 — Inaplicabilidade da multa do art. 523 do CPC ao processo do trabalho
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -305,7 +305,7 @@ A multa de 10% do cumprimento de sentença do CPC (art. 523, § 1º) não se apl
 
 ---
 
-### Tema 5
+### Tema 5 — Insalubridade: enquadramento oficial e operador de teleatendimento
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -350,7 +350,7 @@ O adicional de insalubridade exige enquadramento da atividade na relação ofici
 
 ---
 
-### Tema 6
+### Tema 6 — Responsabilidade do dono da obra (OJ 191 da SBDI-1)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -403,7 +403,7 @@ Interpreta a OJ 191 da SBDI-1 sobre a responsabilidade do dono da obra. A exclus
 
 ---
 
-### Tema 7
+### Tema 7 — TAP e VARIG: ausência de sucessão trabalhista
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -447,7 +447,7 @@ Com base na Lei de Recuperação Judicial e Falência (arts. 60 e 141, II, da Le
 
 ---
 
-### Tema 8
+### Tema 8 — Fundação Casa: agente socioeducativo sem adicional de insalubridade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -484,7 +484,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 9
+### Tema 9 — Reflexos do repouso semanal majorado pelas horas extras
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -523,7 +523,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 10
+### Tema 10 — Periculosidade e equipamento móvel de raios X (Portaria MTE 595/2015)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -567,7 +567,7 @@ A Portaria MTE nº 595/2015 é válida: não é devido adicional de periculosida
 
 ---
 
-### Tema 11
+### Tema 11 — Regulamento interno de dispensa: nulidade e reintegração
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -639,7 +639,7 @@ Trata dos regulamentos de dispensa da empregadora (Política de Orientação par
 
 ---
 
-### Tema 12
+### Tema 12 — Leis de efeitos concretos, prescrição total e prêmio do SERPRO
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -686,7 +686,7 @@ Leis estaduais, municipais e federais de efeitos concretos sobre relações de e
 
 ---
 
-### Tema 14
+### Tema 14 — Redução ínfima do intervalo intrajornada (até cinco minutos)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -725,7 +725,7 @@ A redução ínfima do intervalo intrajornada — até cinco minutos no total, p
 
 ---
 
-### Tema 15
+### Tema 15 — ECT: cumulação do AADC com periculosidade do carteiro motociclista
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -765,7 +765,7 @@ O carteiro motorizado da ECT que usa motocicleta pode receber cumulativamente o 
 
 ---
 
-### Tema 16
+### Tema 16 — Fundação Casa: periculosidade do agente socioeducativo
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -811,7 +811,7 @@ O Agente de Apoio Socioeducativo tem direito ao adicional de periculosidade por 
 
 ---
 
-### Tema 17
+### Tema 17 — Vedação de cumulação de insalubridade e periculosidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -850,7 +850,7 @@ O art. 193, § 2º, da CLT foi recepcionado pela Constituição e proíbe acumul
 
 ---
 
-### Tema 18
+### Tema 18 — Terceirização de atividade-fim: litisconsórcio e renúncia
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -910,7 +910,7 @@ Nas ações sobre fraude por terceirização de atividade-fim, o litisconsórcio
 
 ---
 
-### Tema 19
+### Tema 19 — Descaracterização do acordo de compensação de jornada
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -968,7 +968,7 @@ A descaracterização do acordo de compensação de jornada gera apenas o pagame
 
 ---
 
-### Tema 20
+### Tema 20 — Complementação de aposentadoria: prescrição da indenização
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -1033,7 +1033,7 @@ A pretensão de indenização por perdas e danos pela não inclusão de verbas s
 
 ---
 
-### Tema 21
+### Tema 21 — Justiça gratuita de ofício e comprovação da hipossuficiência
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -1081,7 +1081,7 @@ O juiz deve conceder de ofício a justiça gratuita a quem receba salário até 
 
 ---
 
-### Tema 23
+### Tema 23 — Aplicação imediata da Reforma Trabalhista aos contratos em curso
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1120,7 +1120,7 @@ A Lei nº 13.467/2017 (Reforma Trabalhista) aplica-se imediatamente aos contrato
 
 ---
 
-### Tema 24
+### Tema 24 — Incompetência para danos por má gestão de previdência complementar
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -1157,7 +1157,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 26
+### Tema 26 — Desconsideração da personalidade jurídica de empresa em recuperação judicial
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 7/2/2025 · Decisão de afetação do Relator publicada em 20/5/2025 (art. 284 do RITST) · Acórdão Publicado
 
@@ -1202,7 +1202,7 @@ A Justiça do Trabalho é competente para o incidente de desconsideração da pe
 
 ---
 
-### Tema 27
+### Tema 27 — Substituição processual ampla pelos sindicatos
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 07/3/2025 · Decisão de afetação do Relator publicada em 6/6/2025 (art. 284 do RITST · Decisão do Relator quanto ao não sobrestamento de processos (publicada em 11/9/2026) · Acórdão Publicado
 
@@ -1241,7 +1241,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 39
+### Tema 39 — Prescrição intercorrente: requisitos e intimação pessoal
 
 **Situação (último movimento, conforme o TST):** Concluso à Relatora em 14/3/2025 · Decisão de afetação da Relatora publicada em 15/5/2025 (art. 284 do RITST) · Decisão da Relatora quanto à redefinição da questão jurídica publicada em 22/10/2025 · Acórdão Publicado · (aguardando o julgamento do processo representativo)
 
@@ -1292,7 +1292,7 @@ A prescrição intercorrente trabalhista (art. 11-A da CLT) decorre da inércia 
 
 ---
 
-### Tema 41
+### Tema 41 — Custas e depósito recursal pagos por terceiro
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1332,7 +1332,7 @@ O pagamento de custas e do depósito recursal feito por terceiro estranho à lid
 
 ---
 
-### Tema 46
+### Tema 46 — Suspensão da prescrição na pandemia (Lei nº 14.010/2020)
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 14/3/2025 · Decisão de afetação do Relator publicada em 26/3/2025 (art. 284 do RITST) · Acórdão Publicado · Transitado em Julgado
 
@@ -1371,7 +1371,7 @@ A suspensão dos prazos prescricionais da Lei nº 14.010/2020 (pandemia) aplica-
 
 ---
 
-### Tema 50
+### Tema 50 — Petroleiros: inexistência de horas in itinere
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1413,7 +1413,7 @@ Empregados no regime da Lei nº 5.811/1972 (petroleiros em revezamento) não tê
 
 ---
 
-### Tema 51
+### Tema 51 — Caixa bancário da CEF: intervalo de digitação
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1450,7 +1450,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 52
+### Tema 52 — Multa do art. 477 na rescisão indireta
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1488,7 +1488,7 @@ Reconhecida em juízo a rescisão indireta, é devida a multa do art. 477, § 8�
 
 ---
 
-### Tema 53
+### Tema 53 — Gerente-geral da CEF e jornada de seis horas
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1531,7 +1531,7 @@ O gerente-geral de agência da CEF não tem direito à jornada de seis horas do 
 
 ---
 
-### Tema 54
+### Tema 54 — Falta de instalações sanitárias a trabalhadores externos e dano moral
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -1575,7 +1575,7 @@ A falta de instalações sanitárias e de local para refeição a empregados ext
 
 ---
 
-### Tema 55
+### Tema 55 — Pedido de demissão da gestante sem assistência sindical
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1615,7 +1615,7 @@ O pedido de demissão da empregada gestante com garantia de emprego só é váli
 
 ---
 
-### Tema 56
+### Tema 56 — Bancário: venda de produtos do grupo econômico sem comissão
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1652,7 +1652,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 57
+### Tema 57 — Comissões sobre vendas a prazo incluem juros e encargos
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1689,7 +1689,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 58
+### Tema 58 — Revista visual de pertences sem dano moral
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1725,7 +1725,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 59
+### Tema 59 — Transporte de mercadorias não é terceirização
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -1764,7 +1764,7 @@ O contrato de transporte de mercadorias tem natureza comercial e não configura 
 
 ---
 
-### Tema 60
+### Tema 60 — Falta de anotação na CTPS sem dano moral presumido
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1803,7 +1803,7 @@ A falta de anotação do vínculo na CTPS não gera dano moral presumido; é pre
 
 ---
 
-### Tema 61
+### Tema 61 — Transporte de valores por trabalhador não especializado
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1839,7 +1839,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 62
+### Tema 62 — Justa causa por improbidade revertida e dano moral
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1878,7 +1878,7 @@ A reversão em juízo de justa causa fundada em improbidade infundada ou não co
 
 ---
 
-### Tema 63
+### Tema 63 — Intervalo da mulher do art. 384 da CLT
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1920,7 +1920,7 @@ Antes da Reforma Trabalhista, o descumprimento do intervalo de 15 minutos da mul
 
 ---
 
-### Tema 64
+### Tema 64 — Adiamento de audiência sem rol de testemunhas
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1959,7 +1959,7 @@ Não há cerceamento de defesa no indeferimento de adiamento de audiência quand
 
 ---
 
-### Tema 65
+### Tema 65 — Vedação ao estorno de comissões
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -1995,7 +1995,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 66
+### Tema 66 — Motoristas e cobradores na cota de aprendizes
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2034,7 +2034,7 @@ Motoristas e cobradores de empresa de transporte coletivo integram a base de cá
 
 ---
 
-### Tema 67
+### Tema 67 — Ônus da prova na promoção por antiguidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2070,7 +2070,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 68
+### Tema 68 — FGTS e multa de 40% depositados na conta vinculada
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2106,7 +2106,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 69
+### Tema 69 — SERPRO: incorporação da função comissionada técnica
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 9/5/2025 a 16/5/2025) · RE Pendente
 
@@ -2143,7 +2143,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 70
+### Tema 70 — Irregularidade do FGTS e rescisão indireta
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2182,7 +2182,7 @@ A falta ou irregularidade nos depósitos do FGTS autoriza a rescisão indireta (
 
 ---
 
-### Tema 71
+### Tema 71 — Multa do art. 477 na reversão da justa causa
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2220,7 +2220,7 @@ Revertida em juízo a dispensa por justa causa, é devida a multa do art. 477, �
 
 ---
 
-### Tema 72
+### Tema 72 — Testemunha com ação contra o mesmo empregador
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2256,7 +2256,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 73
+### Tema 73 — Ônus da prova da impossibilidade de controle da jornada externa
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -2293,7 +2293,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 74
+### Tema 74 — Devolução de valores pagos a maior exige ação própria
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2330,7 +2330,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 75
+### Tema 75 — Penhora de salário para pagamento de crédito trabalhista
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2369,7 +2369,7 @@ No CPC/2015, é válida a penhora de rendimentos para crédito trabalhista, limi
 
 ---
 
-### Tema 76
+### Tema 76 — Concausa e redução da pensão mensal
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2406,7 +2406,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 77
+### Tema 77 — Pensão mensal ou parcela única: decisão judicial
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2445,7 +2445,7 @@ A escolha entre pensão mensal e parcela única na indenização do art. 950 do 
 
 ---
 
-### Tema 78
+### Tema 78 — PLR dos bancários sem horas extras na base de cálculo
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2482,7 +2482,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 79
+### Tema 79 — Periculosidade na área de abastecimento de aeronaves
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2518,7 +2518,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 80
+### Tema 80 — Câmaras frigoríficas sem pausa térmica e insalubridade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2557,7 +2557,7 @@ O trabalho em câmaras frigoríficas ou frio artificial sem a pausa térmica do 
 
 ---
 
-### Tema 81
+### Tema 81 — Terceirização com pluralidade de tomadores
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2593,7 +2593,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 82
+### Tema 82 — Motorista que acompanha abastecimento sem periculosidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2630,7 +2630,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 83
+### Tema 83 — ECT: custeio do plano de saúde Correios Saúde
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2667,7 +2667,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 84
+### Tema 84 — Roubo de carteiro e responsabilidade objetiva
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 30/6/2025) · RE Pendente
 
@@ -2704,7 +2704,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 85
+### Tema 85 — Descumprimento reiterado de horas extras e intervalo e rescisão indireta
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2742,7 +2742,7 @@ O descumprimento contumaz no pagamento de horas extras e na concessão do interv
 
 ---
 
-### Tema 86
+### Tema 86 — Tesoureiro da CEF não exerce cargo de confiança bancário
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2781,7 +2781,7 @@ O tesoureiro de retaguarda ou executivo da CEF exerce funções técnicas sem fi
 
 ---
 
-### Tema 87
+### Tema 87 — Troca de cilindros de GLP em empilhadeiras e periculosidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2817,7 +2817,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 88
+### Tema 88 — Limbo previdenciário e dano moral
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -2854,7 +2854,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 91
+### Tema 91 — Vedação ao reconhecimento de ofício da prescrição
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 7/4/2025 · Decisão de afetação do Relator publicada em 19/5/2025 (art. 284 do RITST) · Acórdão Publicado
 
@@ -2902,7 +2902,7 @@ No processo do trabalho, a prescrição não pode ser reconhecida de ofício, de
 
 ---
 
-### Tema 101
+### Tema 101 — Periculosidade do trabalhador em motocicleta
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 31/3/2025 · Decisão de afetação do Relator publicada em 23/5/2025 (art. 284 do RITST) · Acórdão Publicado
 
@@ -2948,7 +2948,7 @@ O art. 193, § 4º, da CLT é autoaplicável e garante periculosidade a quem tra
 
 ---
 
-### Tema 115
+### Tema 115 — ECT: alteração no cálculo do abono pecuniário de férias
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 31/3/2025 · Decisão de afetação do Relator publicada em 6/6/2025 (art. 284 do RITST) · Acórdão Publicado · RE Pendente
 
@@ -2987,7 +2987,7 @@ A mudança no cálculo do abono pecuniário de férias promovida pela ECT em 201
 
 ---
 
-### Tema 118
+### Tema 118 — Insalubridade dos agentes comunitários de saúde
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3025,7 +3025,7 @@ Desde a Lei nº 13.342/2016, agentes comunitários de saúde têm direito a adic
 
 ---
 
-### Tema 119
+### Tema 119 — Gestante: dúvida sobre a data da concepção
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3061,7 +3061,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 120
+### Tema 120 — Multa do art. 467 no vínculo reconhecido em juízo
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3099,7 +3099,7 @@ Não cabe a multa do art. 467 da CLT quando o vínculo de emprego é reconhecido
 
 ---
 
-### Tema 121
+### Tema 121 — Auxílio-alimentação com coparticipação sem natureza salarial
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3135,7 +3135,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 122
+### Tema 122 — Empregador doméstico sem controle de jornada
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -3172,7 +3172,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 123
+### Tema 123 — CONAB: incorporação de gratificação de função
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3209,7 +3209,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 124
+### Tema 124 — Tutela inibitória após cessação da conduta ilícita
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3245,7 +3245,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 125
+### Tema 125 — Estabilidade acidentária sem afastamento prévio
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3287,7 +3287,7 @@ A estabilidade acidentária (art. 118 da Lei nº 8.213/1991) não exige afastame
 
 ---
 
-### Tema 126
+### Tema 126 — Prescrição do dano em ricochete
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -3325,7 +3325,7 @@ Aplica-se a prescrição trienal civil (art. 206, § 3º, do Código Civil) à i
 
 ---
 
-### Tema 127
+### Tema 127 — Multa do art. 477 pela não entrega de documentos rescisórios
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3367,7 +3367,7 @@ Na vigência da Reforma, é devida a multa do art. 477, § 8º, da CLT se o empr
 
 ---
 
-### Tema 128
+### Tema 128 — Motorista que acumula função de cobrador
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3403,7 +3403,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 129
+### Tema 129 — Periculosidade nas horas variáveis dos aeronautas
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 30/6/2025) · RE Pendente
 
@@ -3439,7 +3439,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 130
+### Tema 130 — Dispensa de empregado admitido antes da privatização
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3475,7 +3475,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 131
+### Tema 131 — Preclusão das impugnações à sentença líquida
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3512,7 +3512,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 132
+### Tema 132 — Imprescritibilidade da entrega do PPP
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3548,7 +3548,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 133
+### Tema 133 — Redirecionamento da execução ao responsável subsidiário
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3584,7 +3584,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 134
+### Tema 134 — Recusa da gestante ao retorno e indenização substitutiva
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -3622,7 +3622,7 @@ A recusa da gestante em retornar ao trabalho, mesmo com oferta de emprego, não 
 
 ---
 
-### Tema 135
+### Tema 135 — Confissão ficta do preposto e indeferimento de testemunhas
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3658,7 +3658,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 136
+### Tema 136 — Validade dos cartões de ponto sem assinatura
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3694,7 +3694,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 137
+### Tema 137 — Supressão de horas extras reconhecidas em juízo (Súmula 291)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3732,7 +3732,7 @@ A supressão de horas extras habituais gera a indenização da Súmula 291, mesm
 
 ---
 
-### Tema 138
+### Tema 138 — Redução de jornada do empregado público com filho autista
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 17/4/2026)
 
@@ -3775,7 +3775,7 @@ Empregado público com filho autista tem direito à redução de jornada sem red
 
 ---
 
-### Tema 139
+### Tema 139 — Recuperação judicial e multas dos arts. 467 e 477
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3813,7 +3813,7 @@ A recuperação judicial, diferentemente da falência, não isenta a empresa das
 
 ---
 
-### Tema 140
+### Tema 140 — Prova pericial emprestada de insalubridade ou periculosidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3850,7 +3850,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 141
+### Tema 141 — Parcelamento do FGTS com a CEF e direito do empregado
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3889,7 +3889,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 142
+### Tema 142 — Base de cálculo da multa do art. 477
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3927,7 +3927,7 @@ A multa do art. 477, § 8º, da CLT incide sobre todas as parcelas salariais, n�
 
 ---
 
-### Tema 143
+### Tema 143 — Atraso rescisório sem dano moral presumido
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -3963,7 +3963,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 144
+### Tema 144 — Irrecorribilidade da rejeição da exceção de pré-executividade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4001,7 +4001,7 @@ A decisão interlocutória que rejeita exceção de pré-executividade é irreco
 
 ---
 
-### Tema 145
+### Tema 145 — Cumulação de pensão indenizatória com salário
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -4038,7 +4038,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 146
+### Tema 146 — Depósito recursal do devedor principal aproveita ao subsidiário
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4073,7 +4073,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 155
+### Tema 155 — Pensão do art. 950 do Código Civil: duração e parcela única
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4116,7 +4116,7 @@ Na indenização do art. 950 do Código Civil, a pensão mensal deve durar enqua
 
 ---
 
-### Tema 156
+### Tema 156 — Pesquisa patrimonial de rendimentos penhoráveis
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4153,7 +4153,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 157
+### Tema 157 — Comprovante bancário de custas sem GRU
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4190,7 +4190,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 158
+### Tema 158 — Agendamento bancário não comprova o preparo
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4227,7 +4227,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 159
+### Tema 159 — Garantia do juízo por empresa em recuperação judicial
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -4265,7 +4265,7 @@ A garantia integral da dívida na execução (art. 884 da CLT) aplica-se às emp
 
 ---
 
-### Tema 160
+### Tema 160 — Reflexos das horas extras no repouso do petroleiro
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4304,7 +4304,7 @@ Os reflexos das horas extras no repouso do petroleiro regido pela Lei nº 5.811/
 
 ---
 
-### Tema 161
+### Tema 161 — Calor excessivo sem pausa e horas extras
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4341,7 +4341,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 162
+### Tema 162 — Divergência de código de barras da GRU e deserção
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4378,7 +4378,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 163
+### Tema 163 — Estabilidade da gestante no contrato de experiência
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4416,7 +4416,7 @@ A garantia de emprego da gestante aplica-se ao contrato de experiência.
 
 ---
 
-### Tema 164
+### Tema 164 — Pagamento a menor das verbas rescisórias e multa do art. 477
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4453,7 +4453,7 @@ Pagamento parcial das verbas rescisórias no prazo, com diferenças reconhecidas
 
 ---
 
-### Tema 165
+### Tema 165 — Prescrição parcial e promoções anteriores ao quinquênio
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4489,7 +4489,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 166
+### Tema 166 — Petrobras: níveis remuneratórios da categoria Júnior
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4525,7 +4525,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 167
+### Tema 167 — Gratificação semestral na base de cálculo da PLR
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4561,7 +4561,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 168
+### Tema 168 — Multa do art. 477 no vínculo reconhecido em juízo (Súmula 462)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4603,7 +4603,7 @@ O reconhecimento do vínculo em juízo não afasta a multa do art. 477, § 8º, 
 
 ---
 
-### Tema 169
+### Tema 169 — Prescrição bienal conta do fim do aviso prévio
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4638,7 +4638,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 170
+### Tema 170 — Protesto judicial interrompe a prescrição após a Reforma
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4681,7 +4681,7 @@ O protesto judicial (art. 202, II, do Código Civil) continua interrompendo a pr
 
 ---
 
-### Tema 171
+### Tema 171 — Varrição de logradouros e insalubridade em grau máximo
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4718,7 +4718,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 172
+### Tema 172 — Trabalhador rural sem horas in itinere após a Reforma
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4760,7 +4760,7 @@ O art. 58, § 2º, da CLT, com redação da Reforma, aplica-se ao trabalhador ru
 
 ---
 
-### Tema 173
+### Tema 173 — Seguro-garantia sem acréscimo de 30% e complementação
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4799,7 +4799,7 @@ Substituído o depósito recursal por seguro-garantia sem o acréscimo de 30%, o
 
 ---
 
-### Tema 174
+### Tema 174 — Irrecorribilidade da homologação de cálculos
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4837,7 +4837,7 @@ A decisão que julga a impugnação e homologa os cálculos de liquidação é i
 
 ---
 
-### Tema 175
+### Tema 175 — Litigância de má-fé e justiça gratuita
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4872,7 +4872,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 176
+### Tema 176 — Jornada de seis horas no telemarketing
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4911,7 +4911,7 @@ O empregado que exerce atividade exclusiva ou preponderante de teleatendimento o
 
 ---
 
-### Tema 177
+### Tema 177 — Empregados de administradoras de cartão como financiários
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração Julgados (Sessão presencial de 6/2/2026) · RE Pendente
 
@@ -4947,7 +4947,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 178
+### Tema 178 — Compensação orgânica dos aeronautas
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -4983,7 +4983,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 179
+### Tema 179 — Empregados de loja de departamento não são financiários
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5019,7 +5019,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 180
+### Tema 180 — Álcalis cáusticos diluídos sem insalubridade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5057,7 +5057,7 @@ O contato com álcalis cáusticos diluídos em produtos de limpeza doméstica n�
 
 ---
 
-### Tema 181
+### Tema 181 — Dano moral em ricochete de familiares em acidente fatal
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -5093,7 +5093,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 182
+### Tema 182 — Sem honorários na produção antecipada de provas
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5131,7 +5131,7 @@ Não cabem honorários sucumbenciais na produção antecipada de provas (art. 38
 
 ---
 
-### Tema 183
+### Tema 183 — Termo inicial da prescrição em acidente de trabalho
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5167,7 +5167,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 184
+### Tema 184 — Parcelas vincendas de horas extras
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5202,7 +5202,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 185
+### Tema 185 — Bem de família alugado a terceiros
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5238,7 +5238,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 186
+### Tema 186 — Atraso na homologação da rescisão sem multa do art. 477
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5275,7 +5275,7 @@ O atraso só na homologação da rescisão, com verbas pagas no prazo, não gera
 
 ---
 
-### Tema 187
+### Tema 187 — Carta de fiança de instituição não autorizada pelo Banco Central
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -5311,7 +5311,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 188
+### Tema 188 — União paga honorários periciais do beneficiário da gratuidade (Súmula 457)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5351,7 +5351,7 @@ A União paga os honorários periciais quando o sucumbente na perícia é benefi
 
 ---
 
-### Tema 189
+### Tema 189 — Sistema S e responsabilidade subsidiária
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5387,7 +5387,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 190
+### Tema 190 — Manuseio de cimento sem insalubridade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5424,7 +5424,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 191
+### Tema 191 — Base de cálculo da sexta-parte paulista
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5462,7 +5462,7 @@ A sexta-parte da Constituição paulista é calculada sobre os vencimentos integ
 
 ---
 
-### Tema 192
+### Tema 192 — Retenção da CTPS e dano moral
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5498,7 +5498,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 193
+### Tema 193 — Aviso prévio indenizado e PLR proporcional
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -5534,7 +5534,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 194
+### Tema 194 — Promoção por antiguidade sem alternância no plano de cargos
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 13/3/2026) · RE Pendente
 
@@ -5571,7 +5571,7 @@ Antes da Reforma, é devida promoção por antiguidade quando o plano de cargos 
 
 ---
 
-### Tema 214
+### Tema 214 — Grupo econômico por coordenação nos processos anteriores à Reforma
 
 **Situação (último movimento, conforme o TST):** Concluso ao Relator em 1°/7/2025 · Decisão de afetação do Relator publicada em 12/8/2025 (art. 284 do RITST) · Acórdão Publicado
 
@@ -5613,7 +5613,7 @@ As regras de grupo econômico por coordenação (art. 2º, §§ 2º e 3º, da CL
 
 ---
 
-### Tema 215
+### Tema 215 — Ajuizamento da ação no domicílio do trabalhador
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5652,7 +5652,7 @@ Excepcionalmente, a ação pode ser ajuizada no domicílio do trabalhador quando
 
 ---
 
-### Tema 216
+### Tema 216 — Jornada de médicos e engenheiros (Súmula 370)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5691,7 +5691,7 @@ As Leis nº 3.999/1961 e 4.950-A/1966 fixam salário mínimo profissional de mé
 
 ---
 
-### Tema 217
+### Tema 217 — Prazo recursal da sentença publicada em audiência (Súmula 197)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5729,7 +5729,7 @@ O prazo recursal da parte intimada que não comparece à audiência de publicaç
 
 ---
 
-### Tema 218
+### Tema 218 — Mudança para regime estatutário e prescrição bienal (Súmula 382)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5767,7 +5767,7 @@ A mudança do regime celetista para estatutário extingue o contrato de trabalho
 
 ---
 
-### Tema 219
+### Tema 219 — Ação de cumprimento sem trânsito da sentença normativa (Súmula 246)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5804,7 +5804,7 @@ A ação de cumprimento dispensa o trânsito em julgado da sentença normativa. 
 
 ---
 
-### Tema 220
+### Tema 220 — Plano de saúde na suspensão do contrato (Súmula 440)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5842,7 +5842,7 @@ AUXÍLIO-DOENÇA ACIDENTÁRIO. APOSENTADORIA POR INVALIDEZ. SUSPENSÃO DO CONTRA
 
 ---
 
-### Tema 221
+### Tema 221 — Conselho fiscal de sindicato sem estabilidade (OJ 365)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5885,7 +5885,7 @@ Membro de conselho fiscal de sindicato não tem estabilidade sindical, pois não
 
 ---
 
-### Tema 222
+### Tema 222 — Movimentação de mercadorias como categoria diferenciada
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 13/3/2026) · RE Pendente
 
@@ -5923,7 +5923,7 @@ O trabalhador de movimentação de mercadorias (Lei nº 12.023/2009) integra cat
 
 ---
 
-### Tema 223
+### Tema 223 — Validade da notificação postal no processo do trabalho
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -5961,7 +5961,7 @@ No processo do trabalho, é válida a citação ou intimação postal entregue n
 
 ---
 
-### Tema 224
+### Tema 224 — Competência para danos decorrentes da relação de trabalho (Súmula 392)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6000,7 +6000,7 @@ A Justiça do Trabalho julga ações de dano moral e material da relação de tr
 
 ---
 
-### Tema 225
+### Tema 225 — Horas extras na colheita de laranja por produção
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6037,7 +6037,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 226
+### Tema 226 — Abandono de emprego após benefício previdenciário (Súmula 32)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6075,7 +6075,7 @@ Presume-se abandono de emprego se o trabalhador não retorna em 30 dias após a 
 
 ---
 
-### Tema 227
+### Tema 227 — Irrenunciabilidade do aviso prévio (Súmula 276)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6113,7 +6113,7 @@ O aviso prévio é irrenunciável pelo empregado; o pedido de dispensa não exim
 
 ---
 
-### Tema 228
+### Tema 228 — Aviso prévio e indenização adicional da data-base (Súmula 182)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6159,7 +6159,7 @@ O aviso prévio, ainda que indenizado, conta para a indenização adicional das 
 
 ---
 
-### Tema 229
+### Tema 229 — Execução de ofício da contribuição ao SAT (Súmula 454)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6203,7 +6203,7 @@ Compete à Justiça do Trabalho executar de ofício a contribuição ao Seguro d
 
 ---
 
-### Tema 230
+### Tema 230 — Prescrição bienal do portuário avulso
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -6239,7 +6239,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 231
+### Tema 231 — Perícia obrigatória para insalubridade (OJ 278)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6277,7 +6277,7 @@ A perícia é obrigatória para verificar insalubridade, mas, impossível (ex.: 
 
 ---
 
-### Tema 232
+### Tema 232 — Ônus da prova do vale-transporte (Súmula 460)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6315,7 +6315,7 @@ Cabe ao empregador provar que o empregado não preenche os requisitos ou não qu
 
 ---
 
-### Tema 233
+### Tema 233 — Contrato nulo sem concurso público (Súmula 363)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6354,7 +6354,7 @@ A contratação de servidor sem concurso após 1988 é nula e só gera direito �
 
 ---
 
-### Tema 234
+### Tema 234 — Gorjetas e base de cálculo (Súmula 354)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6392,7 +6392,7 @@ As gorjetas integram a remuneração, mas não servem de base para aviso prévio
 
 ---
 
-### Tema 235
+### Tema 235 — Alçada recursal vinculada ao salário mínimo (Súmula 356)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6435,7 +6435,7 @@ O art. 2º, § 4º, da Lei nº 5.584/1970 foi recepcionado, sendo lícita a alç
 
 ---
 
-### Tema 236
+### Tema 236 — Férias proporcionais no pedido de demissão (Súmula 261)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6473,7 +6473,7 @@ O empregado que pede demissão antes de 12 meses de serviço tem direito a féri
 
 ---
 
-### Tema 237
+### Tema 237 — Delegado sindical sem estabilidade (OJ 369)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6515,7 +6515,7 @@ O delegado sindical não tem a estabilidade do art. 8º, VIII, da CF, restrita a
 
 ---
 
-### Tema 238
+### Tema 238 — Sem multa do art. 477 no falecimento do empregado
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6552,7 +6552,7 @@ Não incide a multa do art. 477, § 8º, da CLT quando o contrato se extingue pe
 
 ---
 
-### Tema 239
+### Tema 239 — Horas extras além do período provado (OJ 233)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6590,7 +6590,7 @@ Horas extras deferidas com base em prova oral ou documental não se limitam ao p
 
 ---
 
-### Tema 240
+### Tema 240 — Presunção relativa das anotações na CTPS (Súmula 12)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6628,7 +6628,7 @@ As anotações na CTPS geram presunção apenas relativa. Reafirma a Súmula 12.
 
 ---
 
-### Tema 241
+### Tema 241 — Compensação limitada a dívidas trabalhistas (Súmula 18)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6666,7 +6666,7 @@ No processo do trabalho, a compensação limita-se a dívidas de natureza trabal
 
 ---
 
-### Tema 242
+### Tema 242 — Sucumbência recíproca e pedidos parcialmente procedentes
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6702,7 +6702,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 243
+### Tema 243 — Perda do adicional noturno na mudança de turno (Súmula 265)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6740,7 +6740,7 @@ A transferência para o turno diurno implica perda do adicional noturno. Reafirm
 
 ---
 
-### Tema 244
+### Tema 244 — Jornada reduzida do jornalista em empresa não jornalística (OJ 407)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6782,7 +6782,7 @@ O jornalista que exerce funções típicas tem jornada reduzida (art. 303 da CLT
 
 ---
 
-### Tema 245
+### Tema 245 — Pausas para o trabalhador rural (NR-31)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -6820,7 +6820,7 @@ O trabalhador rural que atua em pé ou com sobrecarga muscular tem direito a pau
 
 ---
 
-### Tema 246
+### Tema 246 — Custas do reclamante ausente à audiência
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6857,7 +6857,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 247
+### Tema 247 — Redução da carga horária do professor (OJ 244)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão presencial de 13/3/2026) · RE Pendente
 
@@ -6896,7 +6896,7 @@ A redução da carga horária do professor pela diminuição de alunos não é a
 
 ---
 
-### Tema 248
+### Tema 248 — Periculosidade por radiação ionizante (OJ 345)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -6939,7 +6939,7 @@ A exposição a radiação ionizante ou substância radioativa gera adicional de
 
 ---
 
-### Tema 249
+### Tema 249 — Limite da cláusula penal (OJ 54)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -6981,7 +6981,7 @@ A multa de cláusula penal, mesmo diária, não pode superar a obrigação princ
 
 ---
 
-### Tema 250
+### Tema 250 — FGTS fora da base da pensão mensal
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7017,7 +7017,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 251
+### Tema 251 — Prescrição do FGTS sobre parcelas prescritas (Súmula 206)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7055,7 +7055,7 @@ A prescrição das parcelas remuneratórias alcança o FGTS sobre elas incidente
 
 ---
 
-### Tema 252
+### Tema 252 — Dedução global das horas extras pagas (OJ 415)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7093,7 +7093,7 @@ A dedução das horas extras pagas das reconhecidas em juízo é integral, consi
 
 ---
 
-### Tema 253
+### Tema 253 — Jornada do gerente bancário e do gerente-geral (Súmula 287)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado
 
@@ -7137,7 +7137,7 @@ O gerente de agência bancária segue o art. 224, § 2º, da CLT; o gerente-gera
 
 ---
 
-### Tema 254
+### Tema 254 — Dispensa discriminatória de portador de doença grave (Súmula 443)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7176,7 +7176,7 @@ Presume-se discriminatória a dispensa de empregado com HIV ou doença grave que
 
 ---
 
-### Tema 255
+### Tema 255 — Base de cálculo da multa de 40% do FGTS (OJ 42)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7214,7 +7214,7 @@ A multa de 40% do FGTS incide sobre os depósitos atualizados do contrato, sem i
 
 ---
 
-### Tema 256
+### Tema 256 — Horas extras habituais no repouso remunerado (Súmula 172)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7252,7 +7252,7 @@ As horas extras habituais integram o cálculo do repouso remunerado. Reafirma a 
 
 ---
 
-### Tema 257
+### Tema 257 — Inquérito judicial para dispensa de dirigente sindical (Súmula 379)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7294,7 +7294,7 @@ A dispensa de dirigente sindical por falta grave exige inquérito judicial. Reaf
 
 ---
 
-### Tema 258
+### Tema 258 — Norma coletiva e categoria diferenciada (Súmula 374)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7332,7 +7332,7 @@ O integrante de categoria diferenciada não tem direito a vantagens de norma col
 
 ---
 
-### Tema 259
+### Tema 259 — Termo inicial do salário-família (Súmula 254)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7370,7 +7370,7 @@ O salário-família é devido desde a prova da filiação; feita em juízo, desd
 
 ---
 
-### Tema 260
+### Tema 260 — Divisor 200 para jornada de 40 horas (Súmula 431)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -7412,7 +7412,7 @@ Para empregados com 40 horas semanais, aplica-se o divisor 200 no cálculo do sa
 
 ---
 
-### Tema 261
+### Tema 261 — Financeiras equiparadas a bancos (Súmula 55)
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · RE Pendente
 
@@ -7455,7 +7455,7 @@ As financeiras equiparam-se aos bancos para o art. 224 da CLT (jornada de seis h
 
 ---
 
-### Tema 262
+### Tema 262 — Aviso prévio durante garantia de emprego (Súmula 348)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7493,7 +7493,7 @@ AVISO-PRÉVIO. CONCESSÃO NA FLUÊNCIA DA GARANTIA DE EMPREGO. INVALIDADE. É in
 
 ---
 
-### Tema 263
+### Tema 263 — Cumulação de pensão com benefício previdenciário
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7529,7 +7529,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 264
+### Tema 264 — Periculosidade no sistema elétrico de potência (OJ 324)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7567,7 +7567,7 @@ O adicional de periculosidade é devido a quem trabalha em sistema elétrico de 
 
 ---
 
-### Tema 265
+### Tema 265 — Repouso após o sétimo dia trabalhado (OJ 410)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7609,7 +7609,7 @@ O repouso semanal concedido após o sétimo dia consecutivo de trabalho viola o 
 
 ---
 
-### Tema 266
+### Tema 266 — Pagamento espontâneo de periculosidade dispensa perícia (Súmula 453)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7651,7 +7651,7 @@ O pagamento espontâneo do adicional de periculosidade, ainda que proporcional, 
 
 ---
 
-### Tema 267
+### Tema 267 — Custas recolhidas aproveitam às demais partes
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7687,7 +7687,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 268
+### Tema 268 — Prescrição durante auxílio-doença ou aposentadoria por invalidez (OJ 375)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7726,7 +7726,7 @@ A suspensão do contrato por auxílio-doença ou aposentadoria por invalidez nã
 
 ---
 
-### Tema 269
+### Tema 269 — Fundação Casa: validade da escala 12 horas em 2x2
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7762,7 +7762,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 270
+### Tema 270 — Vínculo de emprego de policial militar com empresa privada (Súmula 386)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado (Acordo Homologado)
 
@@ -7804,7 +7804,7 @@ Preenchidos os requisitos do art. 3º da CLT, é legítimo o vínculo de emprego
 
 ---
 
-### Tema 271
+### Tema 271 — Ausência total de preparo sem prazo para regularização
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7840,7 +7840,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 272
+### Tema 272 — Ônus da prova do abono pecuniário de férias
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7878,7 +7878,7 @@ Cabe ao empregador provar a opção do empregado pela conversão de um terço da
 
 ---
 
-### Tema 273
+### Tema 273 — Ônus da prova da regularidade do FGTS (Súmula 461)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7920,7 +7920,7 @@ Cabe ao empregador provar a regularidade dos depósitos de FGTS, por ser fato ex
 
 ---
 
-### Tema 278
+### Tema 278 — Ônus da prova do término do contrato (Súmula 212)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -7958,7 +7958,7 @@ Negados a prestação de serviço e a dispensa, cabe ao empregador provar o tér
 
 ---
 
-### Tema 279
+### Tema 279 — Ação após o fim da estabilidade não é abuso de direito (OJ 399)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8000,7 +8000,7 @@ Ajuizar a ação após o fim do período de estabilidade não é abuso de direit
 
 ---
 
-### Tema 280
+### Tema 280 — Base de cálculo das horas extras (Súmula 264)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8038,7 +8038,7 @@ A hora extra é calculada sobre a hora normal integrada por parcelas salariais, 
 
 ---
 
-### Tema 281
+### Tema 281 — Cipeiro e extinção do estabelecimento (Súmula 339, II)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8076,7 +8076,7 @@ Extinto o estabelecimento, não há despedida arbitrária do membro da CIPA, sen
 
 ---
 
-### Tema 282
+### Tema 282 — Multa convencional por obrigação também prevista em lei (Súmula 384)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8114,7 +8114,7 @@ Aplica-se a multa de norma coletiva pelo descumprimento de obrigação legal, ai
 
 ---
 
-### Tema 283
+### Tema 283 — Recuperação judicial não presume direito à justiça gratuita
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8150,7 +8150,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 284
+### Tema 284 — Estabilidade do suplente da CIPA (Súmula 339, I)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8192,7 +8192,7 @@ O suplente da CIPA tem a garantia de emprego do art. 10, II, a, do ADCT desde 19
 
 ---
 
-### Tema 285
+### Tema 285 — Hora noturna reduzida no cálculo do intervalo intrajornada
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8227,7 +8227,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 286
+### Tema 286 — Juntada de documentos na fase recursal (Súmula 8)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8265,7 +8265,7 @@ A juntada de documentos na fase recursal só se admite com prova de justo impedi
 
 ---
 
-### Tema 287
+### Tema 287 — Prescrição de contratos descontínuos (Súmula 156)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8303,7 +8303,7 @@ Na soma de períodos descontínuos de trabalho, a prescrição corre da extinç�
 
 ---
 
-### Tema 288
+### Tema 288 — Adicional noturno na base das horas extras noturnas (OJ 97)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8341,7 +8341,7 @@ O adicional noturno integra a base de cálculo das horas extras noturnas. Reafir
 
 ---
 
-### Tema 303
+### Tema 303 — SERPRO: GFC e FCT não se compensam
 
 **Situação (último movimento, conforme o TST):** Acórdão Publicado · Embargos de Declaração julgados (Sessão virtual de 20/2/2026 a 27/2/2026) · RE Pendente
 
@@ -8378,7 +8378,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 304
+### Tema 304 — Honorários na extinção sem resolução do mérito
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8416,7 +8416,7 @@ Cabem honorários sucumbenciais nos processos extintos sem resolução do mérit
 
 ---
 
-### Tema 305
+### Tema 305 — Intimação exclusiva em nome de advogado indicado (Súmula 427)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8455,7 +8455,7 @@ Havendo pedido expresso de intimação exclusiva em nome de advogado, a publica�
 
 ---
 
-### Tema 306
+### Tema 306 — Base de cálculo da insalubridade de agentes comunitários de saúde
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8494,7 +8494,7 @@ Desde a Lei nº 13.342/2016, o adicional de insalubridade do agente comunitário
 
 ---
 
-### Tema 307
+### Tema 307 — Testemunha em cargo de confiança e suspeição
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8530,7 +8530,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 308
+### Tema 308 — Repouso em dobro para ocupante de cargo de confiança
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8568,7 +8568,7 @@ O empregado em cargo de confiança (art. 62, II, da CLT) recebe em dobro os repo
 
 ---
 
-### Tema 309
+### Tema 309 — ECT: compensação de progressões por antiguidade
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8604,7 +8604,7 @@ Sem remissões expressas a dispositivos ou normas no texto da tese.
 
 ---
 
-### Tema 310
+### Tema 310 — Contribuição previdenciária em acordo sem vínculo (OJ 398)
 
 **Situação (último movimento, conforme o TST):** Transitado em Julgado
 
@@ -8647,7 +8647,7 @@ Nos acordos homologados sem reconhecimento de vínculo, incide contribuição pr
 
 ---
 
-### Tema 316
+### Tema 316 — Divisor 220 fixado por negociação coletiva
 
 **Situação (último movimento, conforme o TST):** Tema Julgado
 
@@ -8685,7 +8685,7 @@ Nos acordos homologados sem reconhecimento de vínculo, incide contribuição pr
 
 ---
 
-### Tema 317
+### Tema 317 — Protesto em ata contra indeferimento de prova e preclusão
 
 **Situação (último movimento, conforme o TST):** Tema Julgado
 
