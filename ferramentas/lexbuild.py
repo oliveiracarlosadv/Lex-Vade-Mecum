@@ -46,6 +46,9 @@ for p in cfg['parts']:
             j = i + 1; notes = []; parts = [name] if name else []
             while j < b and not ART.match(L[j]) and not HEAD.match(L[j]):
                 if L[j].startswith('('): notes.append(L[j])
+                # Linhas tachadas ou dispositivos soltos (§, incisos, alíneas de artigo revogado)
+                # não fazem parte do nome do Título/Capítulo/Seção.
+                elif '~~' in L[j] or re.match(r'^(§|Parágrafo|[IVXLC]+(-[A-Z])?\s*[-–]|[a-z]\))', L[j]): pass
                 elif L[j]: parts.append(L[j])
                 j += 1
             name = ' '.join(parts).replace(' Regulamento', '').replace('Estados,Distrito', 'Estados, Distrito')
