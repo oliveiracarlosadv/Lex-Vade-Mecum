@@ -1,0 +1,274 @@
+@CLT 394-A
+I: A empregada gestante deve ser afastada de atividades insalubres em qualquer grau durante a gestação, e a lactante, durante a lactação, sem prejuízo da remuneração, incluído o adicional de insalubridade. O STF (ADI 5.938) declarou inconstitucional a exigência de atestado médico para o afastamento nos graus médio e mínimo, trechos que aparecem tachados. Se não houver atividade salubre na empresa, a gravidez é considerada de risco e gera salário-maternidade durante todo o afastamento (§ 3º).
+P: Afastamento da gestante e da lactante de atividade insalubre em qualquer grau || Exigência de atestado afastada pelo STF (ADI 5.938) || Sem atividade salubre disponível, salário-maternidade (§ 3º)
+K: gestante; lactante; insalubridade; afastamento; ADI 5.938
+
+@CLT 395
+I: Em caso de aborto não criminoso, comprovado por atestado médico oficial, a mulher tem repouso remunerado de 2 semanas e o direito de voltar à função anterior.
+P: Repouso remunerado de 2 semanas || Atestado médico oficial || Retorno à função anterior garantido
+K: aborto não criminoso; repouso remunerado; licença
+
+@CLT 396
+I: Para amamentar o filho, inclusive adotado, até 6 meses de idade, a mulher tem direito a dois descansos especiais de meia hora cada durante a jornada, prazo que pode ser ampliado por necessidade de saúde da criança. Os horários são definidos em acordo individual.
+P: Dois intervalos de 30 minutos para amamentação || Até 6 meses, prorrogável por saúde do filho || Horários por acordo individual
+K: amamentação; intervalo para amamentação; lactante; adoção
+
+@CLT 397
+I: Prevê que entidades como SESI, SESC e outras de assistência à infância mantenham ou subvencionem escolas maternais e jardins de infância para filhos de trabalhadoras.
+P: Apoio institucional a creches || Entidades do Sistema S e assistenciais || Norma programática
+K: creche; escola maternal; Sistema S
+
+@CLT 399
+I: O Ministro do Trabalho pode conceder diploma de benemerência a empregadores que se destacarem na manutenção de creches e instituições de proteção à infância.
+P: Reconhecimento honorífico || Incentivo a creches empresariais || Norma programática
+K: creche; benemerência; incentivo
+
+@CLT 400
+I: Os locais para guarda dos filhos durante a amamentação devem ter, no mínimo, berçário, sala de amamentação, cozinha dietética e instalação sanitária.
+P: Estrutura mínima do local de amamentação || Berçário e sala de amamentação || Complementa o art. 389
+K: berçário; amamentação; creche
+
+@CLT 401
+I: Prevê multa para infrações ao Capítulo de proteção ao trabalho da mulher, aplicada no grau máximo em caso de fraude ou reincidência, com valores em moeda antiga.
+P: Multa administrativa || Grau máximo em fraude ou reincidência || Valores atualizados por lei posterior
+K: multa; trabalho da mulher; fiscalização
+
+@CLT 402
+I: Para a CLT, menor é o trabalhador de 14 a 18 anos. As regras do Capítulo aplicam-se mesmo em oficinas familiares, quanto ao trabalho noturno, insalubre e perigoso e às regras de duração. O Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) complementa a proteção.
+P: Menor trabalhador: de 14 a 18 anos || Oficinas familiares também observam proibições essenciais || Complemento do ECA
+K: trabalho do menor; adolescente; ECA
+
+@CLT 403
+I: Proíbe qualquer trabalho a menores de 16 anos, salvo como aprendiz a partir dos 14, em consonância com o art. 7º, XXXIII, da Constituição. O trabalho do menor não pode ocorrer em locais prejudiciais à sua formação e desenvolvimento nem em horários que impeçam a frequência escolar.
+P: Idade mínima de 16 anos; aprendiz a partir de 14 || Proibido trabalho que prejudique formação e escola || Base constitucional (art. 7º, XXXIII)
+K: idade mínima; trabalho infantil; aprendiz; frequência escolar
+
+@CLT 404
+I: É proibido o trabalho noturno (das 22h às 5h) ao menor de 18 anos, conforme também o art. 7º, XXXIII, da Constituição.
+P: Proibição de trabalho noturno ao menor || Das 22h às 5h || Garantia constitucional
+K: trabalho noturno; menor; adolescente
+
+@CLT 405
+I: Proíbe o trabalho do menor em locais perigosos ou insalubres (Lista TIP, Decreto nº 6.481/2008) e em locais ou serviços prejudiciais à moralidade, como teatros de revista, cabarés, venda de bebidas alcoólicas e material pornográfico. O trabalho em ruas depende de autorização judicial.
+P: Vedado trabalho perigoso, insalubre ou prejudicial à moralidade || Lista das piores formas de trabalho infantil (Decreto nº 6.481/2008) || Trabalho em ruas depende de autorização judicial
+K: trabalho do menor; insalubridade; moralidade; Lista TIP
+
+@CLT 406
+I: O juiz pode autorizar o menor a participar de representações e espetáculos se houver fim educativo e nenhum prejuízo moral, ou se a ocupação for indispensável à subsistência familiar. O STF (ADI 5.326) fixou que essas autorizações para trabalho artístico competem à Justiça comum (Juízo da Infância e Juventude).
+P: Autorização judicial para trabalho artístico || Fim educativo ou necessidade de subsistência || Competência da Justiça comum (ADI 5.326)
+K: trabalho infantil artístico; autorização judicial; ADI 5.326
+
+@CLT 407
+I: Se a autoridade verificar que o trabalho prejudica a saúde, o desenvolvimento ou a moralidade do menor, pode obrigá-lo a deixar o serviço, e a empresa deve facilitar a mudança de função; se não o fizer, configura-se rescisão indireta (art. 483).
+P: Afastamento do menor de trabalho prejudicial || Dever de mudança de função || Omissão gera rescisão indireta
+K: trabalho do menor; mudança de função; rescisão indireta
+
+@CLT 408
+I: O responsável legal pode pedir a extinção do contrato do menor quando o serviço puder causar prejuízo físico ou moral.
+P: Iniciativa do responsável legal || Prejuízo físico ou moral || Proteção integral
+K: menor; responsável legal; extinção do contrato
+
+@CLT 409
+I: A fiscalização pode proibir que o menor goze os intervalos de repouso nos locais de trabalho, por segurança e saúde.
+P: Repouso fora do local de trabalho || Medida de segurança || Decisão da fiscalização
+K: menor; intervalo; segurança
+
+@CLT 410
+I: O Ministro do Trabalho pode derrogar proibições do quadro de atividades perigosas ou insalubres para menores quando o risco tiver desaparecido.
+P: Revisão das proibições || Desaparecimento do risco || Ato ministerial
+K: menor; atividades insalubres; derrogação
+
+@CLT 411
+I: A duração do trabalho do menor segue as regras gerais, com as restrições do Capítulo.
+P: Regras gerais de jornada || Restrições específicas ao menor || Proteção adicional
+K: menor; jornada
+
+@CLT 412
+I: Após cada jornada, contínua ou em dois turnos, o menor tem intervalo mínimo de 11 horas de repouso.
+P: Intervalo interjornada de 11 horas || Aplica-se a turnos divididos || Proteção do adolescente
+K: menor; intervalo interjornada
+
+@CLT 413
+I: É vedado prorrogar a jornada do menor, salvo por até 2 horas para compensação, por norma coletiva, respeitado o limite semanal, ou, excepcionalmente, por força maior até 12 horas, com adicional (prevalece o mínimo constitucional de 50%) e se o trabalho do menor for imprescindível. O limite semanal citado deve respeitar a Constituição.
+P: Prorrogação vedada como regra || Compensação por norma coletiva || Força maior com adicional e trabalho imprescindível
+K: menor; prorrogação de jornada; compensação; força maior
+
+@CLT 414
+I: Se o menor trabalhar em mais de um estabelecimento, as horas em cada um são somadas para respeitar os limites.
+P: Soma das jornadas em vários empregos || Respeito aos limites legais || Proteção contra sobrecarga
+K: menor; múltiplos empregos; jornada
+
+@CLT 415
+I: Todo menor de 18 anos empregado deve ter Carteira de Trabalho e Previdência Social, sem distinção de sexo.
+P: CTPS obrigatória para menores || Sem distinção de sexo || Formalização do vínculo
+K: menor; CTPS; registro
+
+@CLT 416
+I: Menores só podem ser admitidos como empregados se tiverem CTPS, salvo a exceção prevista no art. 422 (já revogado).
+P: CTPS como requisito de admissão || Formalidade protetiva || Exceção histórica revogada
+K: menor; admissão; CTPS
+
+@CLT 423
+I: O empregador do menor não pode fazer na CTPS anotações além de salário, admissão, férias e saída.
+P: Anotações restritas na CTPS do menor || Vedação de anotações desabonadoras || Proteção da imagem
+K: menor; anotação na CTPS
+
+@CLT 424
+I: Os pais ou tutores devem afastar o menor de empregos que reduzam muito o tempo de estudo e de repouso ou prejudiquem sua educação moral.
+P: Dever dos responsáveis legais || Prioridade ao estudo e ao repouso || Proteção integral
+K: responsáveis legais; menor; estudo
+
+@CLT 425
+I: Os empregadores de menores devem zelar, em seus estabelecimentos, pelos bons costumes e pelas normas de segurança e medicina do trabalho.
+P: Dever de zelo do empregador || Segurança e saúde || Ambiente adequado ao adolescente
+K: empregador; menor; segurança do trabalho
+
+@CLT 426
+I: Na hipótese do art. 407, o empregador deve dar ao menor todas as facilidades para mudar de serviço.
+P: Dever de facilitar a mudança de função || Complementa o art. 407 || Proteção à saúde
+K: menor; mudança de função
+
+@CLT 427
+I: O empregador deve conceder ao menor o tempo necessário para frequentar as aulas, e estabelecimentos distantes de escola com mais de 30 menores analfabetos devem oferecer local para instrução primária.
+P: Tempo para frequência escolar || Obrigação de instrução em locais distantes || Prioridade à educação
+K: menor; frequência escolar; educação
+
+@CLT 428
+I: O contrato de aprendizagem é um contrato especial, escrito e por prazo determinado (até 2 anos, salvo aprendiz com deficiência), para jovens de 14 a 24 anos inscritos em programa de aprendizagem, com formação técnico-profissional metódica. Exige anotação na CTPS, matrícula e frequência escolar e garante salário mínimo-hora. O limite de idade não se aplica a aprendizes com deficiência.
+P: Aprendiz de 14 a 24 anos (sem limite para pessoa com deficiência) || Contrato escrito, até 2 anos, com formação metódica || Salário mínimo-hora e frequência escolar obrigatórios
+K: aprendiz; contrato de aprendizagem; jovem aprendiz; formação profissional
+
+@CLT 429
+I: Estabelecimentos de qualquer natureza devem contratar aprendizes entre 5% e 15% dos trabalhadores cujas funções demandem formação profissional, arredondando frações para cima. Entidades sem fins lucrativos de educação profissional não se sujeitam ao limite, e micro e pequenas empresas têm regras próprias.
+P: Cota de aprendizes de 5% a 15% || Base: funções que demandam formação profissional || Frações arredondadas para cima
+K: cota de aprendizes; aprendizagem; formação profissional
+
+@CLT 430
+I: Se os Serviços Nacionais de Aprendizagem (Sistema S) não tiverem vagas suficientes, a formação pode ser feita por escolas técnicas, entidades sem fins lucrativos registradas no conselho de direitos da criança e entidades desportivas, entre outras.
+P: Entidades formadoras alternativas || Escolas técnicas e entidades sem fins lucrativos || Supre a falta de vagas no Sistema S
+K: aprendizagem; entidade formadora; Sistema S
+
+@CLT 431
+I: O aprendiz pode ser contratado pela empresa onde ocorre a aprendizagem ou por entidades sem fins lucrativos ou desportivas; neste último caso, não há vínculo com a empresa tomadora.
+P: Contratação direta ou por entidade formadora || Sem vínculo com a tomadora na contratação indireta || Orientação profissional aos não selecionados
+K: aprendiz; contratação indireta; vínculo
+
+@CLT 432
+I: A jornada do aprendiz é de até 6 horas diárias, vedadas prorrogação e compensação; pode chegar a 8 horas para quem já concluiu o ensino fundamental, se incluídas as horas de aprendizagem teórica.
+P: Jornada de 6 horas, sem prorrogação ou compensação || Até 8 horas com ensino fundamental concluído || Inclui as atividades teóricas
+K: aprendiz; jornada; aprendizagem
+
+@CLT 433
+I: O contrato de aprendizagem termina no prazo ou quando o aprendiz completa 24 anos (salvo pessoa com deficiência), ou antes por desempenho insuficiente ou inadaptação, falta disciplinar grave, ausência escolar que cause perda do ano ou pedido do aprendiz. Nessas hipóteses, não se aplicam as indenizações dos arts. 479 e 480.
+P: Extinção no termo ou aos 24 anos || Hipóteses de extinção antecipada || Sem indenização dos arts. 479 e 480
+K: aprendiz; extinção do contrato; desempenho insuficiente
+
+@CLT 434
+I: Prevê multa por menor empregado em desacordo com a lei, multiplicada pelo número de menores, com teto que dobra na reincidência; valores em salários mínimos regionais históricos.
+P: Multa por menor em situação irregular || Teto com dobra na reincidência || Valores históricos
+K: multa; trabalho do menor
+
+@CLT 435
+I: A empresa que fizer anotação não prevista em lei na CTPS paga multa e o custo da emissão de nova via.
+P: Multa por anotação indevida na CTPS || Custeio da nova via || Proteção do trabalhador
+K: anotação indevida; CTPS; multa
+
+@CLT 438
+I: Define as autoridades competentes para impor as multas do Capítulo e manda aplicar o processo de multas administrativas.
+P: Competência administrativa || Processo de multas administrativas || Redação histórica
+K: competência; multas; processo administrativo
+
+@CLT 439
+I: O menor pode assinar recibos de salário, mas, na rescisão, não pode dar quitação da indenização sem assistência dos responsáveis legais.
+P: Recibo de salário assinado pelo menor || Quitação rescisória exige assistência || Proteção patrimonial
+K: menor; quitação; rescisão; assistência
+
+@CLT 440
+I: Não corre prescrição contra menores de 18 anos. A jurisprudência aplica a regra ao trabalhador menor, e não aos herdeiros menores do empregado falecido.
+P: Prescrição suspensa até os 18 anos || Aplica-se ao trabalhador menor || Proteção ao adolescente
+K: prescrição; menor; suspensão
+
+@CLT 441
+I: O quadro de atividades proibidas aos menores deve ser revisto a cada dois anos.
+P: Revisão bienal do quadro || Atualização dos riscos || Hoje a Lista TIP
+K: menor; quadro de atividades proibidas; revisão
+
+@CLT 442
+I: Define contrato individual de trabalho como o acordo tácito ou expresso correspondente à relação de emprego. Não há vínculo entre cooperativa e associados, nem entre estes e os tomadores, salvo fraude (art. 9º). Também não há vínculo entre entidades religiosas e ministros ou membros de ordens, salvo desvirtuamento da finalidade religiosa.
+P: Contrato de trabalho pode ser tácito ou expresso || Cooperativa sem vínculo, salvo fraude || Religiosos sem vínculo, salvo desvirtuamento (§ 2º)
+K: contrato de trabalho; cooperativa; vínculo de emprego; ministro religioso
+
+@CLT 442-A
+I: Na contratação, o empregador não pode exigir experiência prévia superior a 6 meses no mesmo tipo de atividade.
+P: Limite de 6 meses de experiência exigível || Facilita o acesso ao emprego || Vale para processos seletivos
+K: experiência prévia; contratação; processo seletivo
+
+@CLT 442-B
+I: A contratação de autônomo com as formalidades legais, com ou sem exclusividade, de forma contínua ou não, afasta a condição de empregado. Presentes, porém, subordinação e demais requisitos, prevalece a realidade (art. 9º) e reconhece-se o vínculo.
+P: Autônomo formalizado não é empregado || Exclusividade, por si só, não gera vínculo || Primazia da realidade se houver subordinação
+K: autônomo; vínculo de emprego; exclusividade; primazia da realidade
+
+@CLT 443
+I: O contrato pode ser tácito ou expresso, verbal ou escrito, por prazo determinado ou indeterminado, ou intermitente. O prazo determinado só vale para serviço transitório, atividade empresarial transitória ou contrato de experiência. O trabalho intermitente alterna períodos de prestação e inatividade, exceto para aeronautas.
+P: Formas de contratação, incluído o intermitente || Prazo determinado só nas hipóteses do § 2º || Trabalho intermitente com alternância de atividade (§ 3º)
+K: contrato por prazo determinado; contrato de experiência; trabalho intermitente; formas do contrato
+
+@CLT 444
+I: As partes podem estipular livremente as condições de trabalho, desde que não contrariem normas de proteção, normas coletivas e decisões das autoridades. O empregado "hipersuficiente" (diploma superior e salário igual ou maior que duas vezes o teto do RGPS) pode negociar individualmente as matérias do art. 611-A, com prevalência sobre a norma coletiva.
+P: Autonomia da vontade limitada pela lei e pelas normas coletivas || Empregado hipersuficiente (parágrafo único) || Negociação individual das matérias do art. 611-A
+K: autonomia da vontade; hipersuficiente; livre estipulação; negociação individual
+
+@CLT 445
+I: O contrato por prazo determinado não pode passar de 2 anos, e o de experiência, de 90 dias.
+P: Prazo máximo de 2 anos || Experiência de até 90 dias || Prorrogação limitada pelo art. 451
+K: contrato por prazo determinado; contrato de experiência; prazo máximo
+
+@CLT 447
+I: Na falta de acordo ou prova sobre condição essencial do contrato verbal, presume-se que foi estipulada conforme as normas jurídicas aplicáveis.
+P: Presunção de condições conforme a lei || Contratos verbais || Proteção do trabalhador
+K: contrato verbal; presunção; condições essenciais
+
+@CLT 448
+I: A mudança na propriedade ou na estrutura jurídica da empresa não afeta os contratos de trabalho, base da sucessão trabalhista.
+P: Continuidade dos contratos na sucessão || Mudança de propriedade não afeta o empregado || Complementa o art. 10
+K: sucessão trabalhista; mudança de propriedade; continuidade
+
+@CLT 448-A
+I: Caracterizada a sucessão, o sucessor responde por todas as obrigações trabalhistas, inclusive as anteriores à sucessão; a empresa sucedida responde solidariamente se houver fraude na transferência.
+P: Responsabilidade do sucessor por todas as obrigações || Sucedida responde só em caso de fraude || Introduzido pela Reforma Trabalhista
+K: sucessão empresarial; responsabilidade do sucessor; fraude
+
+@CLT 449
+I: Os direitos trabalhistas subsistem na falência ou dissolução da empresa, e os salários e indenizações são créditos privilegiados. A Lei nº 11.101/2005 (recuperação judicial e falência) limita o privilégio a 150 salários mínimos por credor e substituiu a antiga concordata.
+P: Direitos subsistem na falência || Créditos trabalhistas privilegiados || Limite de 150 salários mínimos (Lei nº 11.101/2005)
+K: falência; crédito trabalhista; recuperação judicial; privilégio
+
+@CLT 450
+I: O empregado chamado a ocupar outro cargo em comissão, interinamente ou em substituição, tem garantidos a contagem do tempo e o retorno ao cargo anterior. A Súmula 159 do TST assegura ao substituto, em substituição não eventual, o salário do substituído.
+P: Contagem do tempo no cargo provisório || Retorno ao cargo anterior || Salário do substituído (Súmula 159 do TST)
+K: substituição; cargo em comissão; interinidade; Súmula 159
+
+@CLT 451
+I: O contrato por prazo determinado prorrogado mais de uma vez passa a vigorar por prazo indeterminado.
+P: Apenas uma prorrogação permitida || Segunda prorrogação torna o contrato indeterminado || Proteção contra fraude
+K: prorrogação; contrato por prazo determinado; indeterminação
+
+@CLT 452
+I: Considera-se por prazo indeterminado o contrato que suceder outro a prazo determinado em menos de 6 meses, salvo se o término do anterior dependeu de serviços especializados ou de certos acontecimentos.
+P: Intervalo mínimo de 6 meses entre contratos a prazo || Exceções por serviços especializados || Proteção contra sucessão fraudulenta
+K: sucessão de contratos; prazo determinado; seis meses
+
+@CLT 452-A
+I: O contrato intermitente deve ser escrito e indicar o valor da hora, não inferior ao salário mínimo-hora nem ao dos colegas na mesma função. O empregador convoca com pelo menos 3 dias de antecedência, e o empregado tem 1 dia útil para responder (silêncio é recusa, sem descaracterizar a subordinação). Ao fim de cada período, recebe remuneração, férias proporcionais com 1/3, 13º proporcional, repouso e adicionais. O STF considerou o modelo constitucional.
+P: Contrato escrito com valor-hora mínimo || Convocação com 3 dias; resposta em 1 dia útil || Pagamento imediato de verbas proporcionais ao fim de cada período
+K: trabalho intermitente; convocação; valor-hora; Reforma Trabalhista
+
+@CLT 453
+I: Na readmissão, contam-se os períodos anteriores na empresa, salvo despedida por falta grave, recebimento de indenização legal ou aposentadoria espontânea. O STF (ADI 1.721) declarou inconstitucional o § 2º, de modo que a aposentadoria espontânea não extingue o contrato (OJ 361 da SBDI-1 do TST).
+P: Soma de períodos na readmissão, com exceções || Aposentadoria espontânea não extingue o vínculo (ADI 1.721) || Multa de 40% do FGTS sobre todo o período (OJ 361)
+K: readmissão; tempo de serviço; aposentadoria espontânea; ADI 1.721
+
+@CLT 454
+I: As invenções do empregado feitas com recursos do empregador, fora de contrato de pesquisa, são de propriedade comum, em partes iguais, cabendo ao empregador explorá-las em até um ano da patente. A matéria hoje é regida principalmente pela Lei nº 9.279/1996 (Propriedade Industrial, arts. 88 a 93).
+P: Invenção mista em copropriedade || Exploração pelo empregador em um ano || Lei de Propriedade Industrial (arts. 88 a 93)
+K: invenção do empregado; patente; propriedade industrial
