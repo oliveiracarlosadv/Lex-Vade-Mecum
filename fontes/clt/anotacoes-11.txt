@@ -1,0 +1,249 @@
+@CLT 610
+I: Atribuía ao Departamento Nacional do Trabalho a solução de dúvidas sobre a contribuição sindical, com instruções de execução. Norma administrativa de caráter histórico.
+P: Competência administrativa para dúvidas || Instruções ministeriais || Caráter histórico
+K: contribuição sindical; instruções; Ministério do Trabalho
+
+@CLT 611
+I: Define convenção coletiva como o acordo normativo entre sindicatos de empregados e de empregadores que fixa condições de trabalho para as categorias, e acordo coletivo como o firmado entre o sindicato profissional e uma ou mais empresas. Na falta de sindicato, federações e confederações podem negociar. Fundamento constitucional: art. 7º, XXVI.
+P: Convenção coletiva: sindicato profissional × sindicato patronal || Acordo coletivo: sindicato profissional × empresa || Reconhecimento constitucional (art. 7º, XXVI)
+K: convenção coletiva; acordo coletivo; negociação coletiva; normas coletivas
+
+@CLT 611-A
+I: Estabelece que a convenção e o acordo coletivo prevalecem sobre a lei em matérias como jornada (respeitados os limites constitucionais), banco de horas anual, intervalo intrajornada mínimo de 30 minutos, plano de cargos e salários, teletrabalho, remuneração por produtividade, troca de feriados, enquadramento de insalubridade e prorrogação em ambiente insalubre, entre outras. A ausência de contrapartida expressa não anula a cláusula, mas a redução salarial exige proteção contra dispensa. O STF (Tema 1.046) validou a prevalência do negociado sobre o legislado, ressalvados os direitos absolutamente indisponíveis.
+P: Negociado prevalece sobre o legislado nas matérias listadas || Intervalo mínimo de 30 minutos; redução salarial exige garantia de emprego (§ 3º) || Limite: direitos absolutamente indisponíveis (STF, Tema 1.046)
+K: negociado sobre o legislado; prevalência da norma coletiva; Tema 1.046; Reforma Trabalhista
+
+@CLT 611-B
+I: Lista, de forma exclusiva, os direitos que não podem ser suprimidos ou reduzidos por norma coletiva, como anotações na CTPS, seguro-desemprego, FGTS, salário mínimo, 13º, adicional noturno, repouso semanal, horas extras com 50%, férias com 1/3, licenças-maternidade e paternidade, normas de saúde e segurança das NRs, aposentadoria, liberdade sindical e direito de greve. O parágrafo único afirma que regras de duração do trabalho e intervalos não são normas de saúde para esse fim.
+P: Rol de direitos indisponíveis à negociação coletiva || Inclui FGTS, salário mínimo, 13º, férias e normas de segurança || Duração do trabalho e intervalos não são tratados como normas de saúde (parágrafo único)
+K: limites da negociação coletiva; direitos indisponíveis; objeto ilícito; norma coletiva
+
+@CLT 612
+I: Sindicatos só podem celebrar convenções ou acordos por deliberação de assembleia geral especialmente convocada, com quórum de 2/3 dos associados (convenção) ou interessados (acordo) em primeira convocação e 1/3 em segunda (1/8 em entidades com mais de 5 mil associados).
+P: Deliberação em assembleia específica || Quóruns de 2/3 e 1/3 || Legitimidade democrática da norma coletiva
+K: assembleia sindical; quórum; negociação coletiva
+
+@CLT 613
+I: Lista o conteúdo obrigatório das convenções e acordos: partes, prazo de vigência, categorias abrangidas, condições ajustadas, normas de conciliação, prorrogação e revisão, direitos e deveres e penalidades, celebrados por escrito.
+P: Conteúdo mínimo das normas coletivas || Forma escrita, sem emendas ou rasuras || Uma via para registro
+K: convenção coletiva; requisitos formais; conteúdo obrigatório
+
+@CLT 614
+I: As normas coletivas devem ser depositadas no Ministério do Trabalho em 8 dias para registro (hoje pelo sistema Mediador) e vigoram 3 dias após o depósito. A vigência máxima é de 2 anos, vedada a ultratividade (§ 3º); o STF (ADPF 323) afastou o entendimento da Súmula 277 do TST que mantinha as cláusulas após o vencimento.
+P: Depósito em 8 dias e vigência 3 dias após || Vigência máxima de 2 anos || Ultratividade vedada (§ 3º e ADPF 323)
+K: depósito da norma coletiva; vigência; ultratividade; ADPF 323; Súmula 277
+
+@CLT 615
+I: A prorrogação, revisão, denúncia ou revogação de convenção ou acordo depende de aprovação em assembleia, com depósito do novo instrumento e vigência 3 dias após.
+P: Alterações dependem de assembleia || Depósito do instrumento modificador || Vigência 3 dias após o depósito
+K: revisão da norma coletiva; denúncia; prorrogação
+
+@CLT 616
+I: Sindicatos e empresas não podem recusar-se a negociar quando provocados. Persistindo a recusa ou frustrada a negociação, cabe dissídio coletivo, que, nos conflitos econômicos, exige comum acordo das partes (CF, art. 114, § 2º). O dissídio deve ser instaurado nos 60 dias anteriores ao fim da norma vigente para preservar a data-base.
+P: Dever de negociar || Dissídio coletivo após frustrada a negociação || Comum acordo no dissídio econômico (CF, art. 114, § 2º)
+K: negociação coletiva; recusa; dissídio coletivo; comum acordo; data-base
+
+@CLT 617
+I: Empregados que queiram celebrar acordo coletivo com a empresa devem comunicar o sindicato, que tem 8 dias para assumir a negociação; se não o fizer, podem recorrer à federação e à confederação e, por fim, negociar diretamente.
+P: Sindicato tem 8 dias para assumir a negociação || Federação e confederação na sequência || Negociação direta como último recurso
+K: acordo coletivo; negociação direta; sindicato; recusa sindical
+
+@CLT 618
+I: Empresas e instituições fora do enquadramento sindical podem celebrar acordos coletivos com os sindicatos de seus empregados.
+P: Acordo coletivo para entidades sem enquadramento || Sindicato dos empregados || Amplia a negociação
+K: acordo coletivo; enquadramento sindical
+
+@CLT 619
+I: Cláusula de contrato individual que contrarie norma coletiva é nula de pleno direito. A regra admite exceção para o empregado hipersuficiente (art. 444, parágrafo único).
+P: Norma coletiva prevalece sobre contrato individual || Nulidade da cláusula contrária || Exceção do hipersuficiente
+K: norma coletiva; contrato individual; nulidade
+
+@CLT 620
+I: Desde a Reforma Trabalhista, o acordo coletivo sempre prevalece sobre a convenção coletiva, por ser mais específico, superando a regra anterior da norma mais favorável.
+P: Acordo coletivo prevalece sobre convenção || Critério da especificidade || Superação da norma mais favorável nesse conflito
+K: acordo coletivo; convenção coletiva; hierarquia; especificidade
+
+@CLT 621
+I: As normas coletivas podem prever comissões mistas de consulta e colaboração na empresa e participação nos lucros, definindo constituição, funcionamento e plano. A participação nos lucros hoje é regida pela Lei nº 10.101/2000.
+P: Comissões mistas por norma coletiva || Participação nos lucros (Lei nº 10.101/2000) || Regras de funcionamento
+K: participação nos lucros; PLR; comissão mista
+
+@CLT 622
+I: Empregados e empresas que celebrarem contratos contrários à norma coletiva ficam sujeitos à multa nela prevista, sendo a do empregado limitada à metade da fixada para a empresa.
+P: Multa convencional por descumprimento || Multa do empregado limitada à metade || Respeito à norma coletiva
+K: multa convencional; descumprimento; norma coletiva
+
+@CLT 623
+I: Considerava nula cláusula coletiva contrária à política econômico-financeira ou salarial do governo. A regra deve ser lida à luz da autonomia coletiva garantida pela Constituição (art. 7º, XXVI) e do fim das políticas salariais compulsórias.
+P: Limite histórico da política salarial || Autonomia coletiva constitucional || Aplicação residual
+K: política salarial; nulidade; autonomia coletiva
+
+@CLT 624
+I: Reajuste salarial que implique elevar tarifas ou preços fixados pelo poder público dependia de prévia manifestação da autoridade competente. Regra de pouca aplicação atual.
+P: Reajuste com impacto em tarifas públicas || Prévia audiência da autoridade || Aplicação residual
+K: reajuste salarial; tarifas; preços públicos
+
+@CLT 625
+I: As controvérsias sobre a aplicação de convenções e acordos coletivos são julgadas pela Justiça do Trabalho, inclusive em ações de cumprimento (art. 872).
+P: Competência da Justiça do Trabalho || Ação de cumprimento || Conflitos de aplicação da norma coletiva
+K: competência; norma coletiva; ação de cumprimento
+
+@CLT 625-A
+I: Empresas e sindicatos podem instituir Comissões de Conciliação Prévia (CCPs), paritárias, para tentar conciliar conflitos individuais, inclusive por grupos de empresas ou de forma intersindical.
+P: CCP paritária e facultativa || Conciliação de conflitos individuais || Pode ser intersindical
+K: comissão de conciliação prévia; CCP; conciliação extrajudicial
+
+@CLT 625-B
+I: A CCP na empresa tem de 2 a 10 membros, metade indicada pelo empregador e metade eleita pelos empregados, com suplentes e mandato de um ano, permitida uma recondução. Os representantes dos empregados têm garantia de emprego até um ano após o mandato, salvo falta grave.
+P: Composição paritária de 2 a 10 membros || Mandato de um ano com uma recondução || Garantia de emprego aos representantes dos empregados
+K: CCP; composição; estabilidade; mandato
+
+@CLT 625-C
+I: A CCP instituída no sindicato tem constituição e funcionamento definidos em convenção ou acordo coletivo.
+P: CCP sindical regulada por norma coletiva || Autonomia negocial || Flexibilidade de funcionamento
+K: CCP sindical; norma coletiva
+
+@CLT 625-D
+I: Previa que demandas trabalhistas fossem submetidas à CCP onde existisse, com declaração de tentativa frustrada para ajuizar a ação. O STF (ADIs 2.139 e 2.160) decidiu que a passagem pela CCP é facultativa, em respeito ao acesso à Justiça (CF, art. 5º, XXXV).
+P: Submissão à CCP é facultativa (STF) || Declaração de conciliação frustrada || Acesso à Justiça preservado
+K: CCP; tentativa de conciliação; acesso à justiça; ADI 2.139
+
+@CLT 625-E
+I: Aceita a conciliação, lavra-se termo assinado pelas partes e membros da comissão, que é título executivo extrajudicial com eficácia liberatória geral, exceto quanto às parcelas ressalvadas. A jurisprudência tende a limitar a quitação às parcelas efetivamente tratadas na conciliação.
+P: Termo de conciliação é título executivo extrajudicial || Eficácia liberatória, salvo parcelas ressalvadas || Alcance limitado ao objeto conciliado
+K: termo de conciliação; eficácia liberatória; título executivo
+
+@CLT 625-F
+I: A CCP tem 10 dias para realizar a sessão de conciliação após provocada; esgotado o prazo, fornece a declaração de tentativa frustrada.
+P: Prazo de 10 dias para a sessão || Declaração ao fim do prazo || Celeridade
+K: CCP; prazo; conciliação
+
+@CLT 625-G
+I: A prescrição fica suspensa desde a provocação da CCP e volta a correr, pelo que resta, a partir da tentativa frustrada ou do fim do prazo de 10 dias.
+P: Suspensão da prescrição na CCP || Retomada pelo prazo restante || Protege quem tenta conciliar
+K: prescrição; suspensão; CCP
+
+@CLT 625-H
+I: Aplicam-se, no que couber, as regras das CCPs aos Núcleos Intersindicais de Conciliação Trabalhista, respeitadas a paridade e a negociação coletiva.
+P: Extensão aos núcleos intersindicais || Paridade obrigatória || Negociação coletiva na constituição
+K: núcleo intersindical; conciliação; paridade
+
+@CLT 626
+I: Compete ao Ministério do Trabalho fiscalizar o cumprimento das normas de proteção ao trabalho, hoje pela Auditoria-Fiscal do Trabalho (Lei nº 10.593/2002 e Decreto nº 4.552/2002). A Constituição atribui à União a inspeção do trabalho (art. 21, XXIV).
+P: Fiscalização pela Auditoria-Fiscal do Trabalho || Competência da União (CF, art. 21, XXIV) || Normas de proteção ao trabalho
+K: inspeção do trabalho; auditor-fiscal do trabalho; fiscalização
+
+@CLT 627
+I: A fiscalização deve observar a dupla visita, de caráter orientador, quando houver lei ou norma nova e na primeira inspeção de estabelecimentos recém-abertos. Algumas infrações, como falta de registro, são exceção (arts. 29-A e 47).
+P: Dupla visita orientadora || Norma nova e estabelecimento recém-inaugurado || Exceções legais
+K: dupla visita; fiscalização orientadora; inspeção do trabalho
+
+@CLT 627-A
+I: Permite procedimento especial de fiscalização para orientar e sanear infrações mediante Termo de Compromisso, conforme o Regulamento da Inspeção do Trabalho.
+P: Procedimento especial orientador || Termo de Compromisso || Prevenção e saneamento
+K: procedimento especial; termo de compromisso; inspeção
+
+@CLT 628
+I: Fora dos casos de dupla visita e procedimento especial, toda violação constatada pelo Auditor-Fiscal deve gerar auto de infração, sob pena de responsabilidade administrativa. A inspeção é registrada no livro (hoje eletrônico) de Inspeção do Trabalho.
+P: Lavratura obrigatória de auto de infração || Responsabilidade do auditor || Registro da inspeção
+K: auto de infração; auditor-fiscal; livro de inspeção
+
+@CLT 628-A
+I: Institui o Domicílio Eletrônico Trabalhista, canal oficial para notificar o empregador de atos fiscais e para receber documentos, defesas e recursos, dispensando publicação e via postal.
+P: Comunicação eletrônica com o empregador || Ciência de autuações e intimações || Envio de defesas e recursos
+K: domicílio eletrônico trabalhista; DET; notificação eletrônica
+
+@CLT 629
+I: O auto de infração é lavrado conforme modelo oficial, com via entregue ao infrator, e seu valor probante não depende da assinatura do autuado; o infrator tem 10 dias para defesa.
+P: Requisitos e entrega do auto || Validade sem assinatura do infrator || Prazo de 10 dias para defesa
+K: auto de infração; defesa administrativa; prazo
+
+@CLT 630
+I: O agente da inspeção só pode atuar exibindo carteira de identidade fiscal, com livre acesso aos locais de trabalho e dever das empresas de prestar esclarecimentos e exibir documentos.
+P: Identificação obrigatória do auditor || Livre acesso aos estabelecimentos || Dever de colaboração da empresa
+K: identidade fiscal; acesso; inspeção do trabalho
+
+@CLT 631
+I: Qualquer servidor público ou representante sindical pode comunicar infrações à autoridade trabalhista, que deve promover as diligências e lavrar os autos cabíveis.
+P: Denúncia de infrações por servidores e sindicatos || Diligências obrigatórias || Participação social na fiscalização
+K: denúncia; fiscalização; sindicato
+
+@CLT 632
+I: O autuado pode requerer oitiva de testemunhas e diligências, cabendo à autoridade avaliar sua necessidade.
+P: Direito de produzir provas na defesa || Análise da pertinência pela autoridade || Contraditório administrativo
+K: defesa administrativa; provas; processo administrativo
+
+@CLT 634
+I: As multas são impostas pelas autoridades regionais do trabalho, sem prejuízo da responsabilidade penal, e os valores são reajustados anualmente conforme índice oficial.
+P: Competência regional para multas || Responsabilidade penal independente || Atualização anual dos valores
+K: multa administrativa; atualização; competência
+
+@CLT 635
+I: Da decisão que impõe multa cabe recurso à instância superior do Ministério do Trabalho, e as decisões devem ser fundamentadas.
+P: Recurso administrativo contra multa || Decisões fundamentadas || Duplo grau administrativo
+K: recurso administrativo; multa; fundamentação
+
+@CLT 636
+I: O recurso é interposto em 10 dias da notificação perante a autoridade que aplicou a multa. A exigência de depósito prévio da multa para recorrer foi declarada inconstitucional pelo STF (Súmula Vinculante 21).
+P: Prazo de 10 dias para recorrer || Depósito prévio inexigível (Súmula Vinculante 21) || Notificação por edital se o infrator estiver em local incerto
+K: recurso administrativo; depósito prévio; Súmula Vinculante 21
+
+@CLT 637
+I: Decisões que arquivam processos de infração exigem recurso de ofício à instância superior.
+P: Recurso de ofício no arquivamento || Controle hierárquico || Proteção do interesse público
+K: recurso de ofício; arquivamento; processo administrativo
+
+@CLT 638
+I: O Ministro do Trabalho pode avocar o exame de questões sobre fiscalização em até 90 dias do despacho final ou no curso do processo.
+P: Poder de avocação ministerial || Prazo de 90 dias || Controle hierárquico
+K: avocação; Ministro do Trabalho; fiscalização
+
+@CLT 639
+I: Não provido o recurso, o depósito eventualmente feito converte-se em pagamento da multa.
+P: Conversão do depósito em pagamento || Recurso improvido || Efeito financeiro imediato
+K: depósito; multa; recurso improvido
+
+@CLT 640
+I: As unidades regionais do Ministério do Trabalho podem promover cobrança amigável das multas antes da cobrança executiva.
+P: Cobrança amigável prévia || Antes da execução fiscal || Solução consensual
+K: cobrança amigável; multa administrativa
+
+@CLT 641
+I: Sem pagamento, a multa é inscrita em livro próprio e a cópia da inscrição vale como título de dívida líquida e certa para cobrança judicial. Hoje a inscrição é feita em dívida ativa da União.
+P: Inscrição do débito || Título de dívida líquida e certa || Dívida ativa da União
+K: inscrição em dívida ativa; multa; título executivo
+
+@CLT 642
+I: A cobrança judicial das multas trabalhistas segue a legislação da dívida ativa da União (Lei nº 6.830/1980), sendo hoje promovida pela Procuradoria da Fazenda Nacional, com competência da Justiça do Trabalho (CF, art. 114, VII).
+P: Execução fiscal das multas || Procuradoria da Fazenda Nacional || Competência da Justiça do Trabalho (CF, art. 114, VII)
+K: execução fiscal; multa trabalhista; competência
+
+@CLT 642-A
+I: Institui a Certidão Negativa de Débitos Trabalhistas (CNDT), gratuita e eletrônica, negada a quem tiver débitos inadimplidos em sentenças transitadas em julgado, acordos judiciais ou termos firmados com o MPT ou CCP. Admite certidão positiva com efeito de negativa se o débito estiver garantido. É exigida em licitações (Lei nº 14.133/2021).
+P: CNDT eletrônica e gratuita || Negada havendo débito trabalhista inadimplido || Positiva com efeito de negativa se garantido o débito
+K: CNDT; certidão negativa de débitos trabalhistas; licitação
+
+@CLT 643
+I: Atribui à Justiça do Trabalho os dissídios entre empregados e empregadores e entre avulsos e tomadores. Sua competência foi ampliada pela Emenda Constitucional nº 45/2004 (CF, art. 114), alcançando relações de trabalho em geral, danos morais e acidentários contra o empregador, greve e representação sindical.
+P: Competência da Justiça do Trabalho || Ampliada pela EC nº 45/2004 (CF, art. 114) || Inclui ações acidentárias contra o empregador
+K: competência da Justiça do Trabalho; EC 45/2004; relação de trabalho
+
+@CLT 644
+I: Lista os órgãos da Justiça do Trabalho: TST, TRTs e Juntas de Conciliação e Julgamento (ou juízes de direito investidos). Desde a EC nº 24/1999, as Juntas deram lugar às Varas do Trabalho, com juiz singular (CF, art. 111).
+P: TST, TRTs e Varas do Trabalho || Juntas extintas pela EC nº 24/1999 || Juízes de direito onde não há Vara
+K: órgãos da Justiça do Trabalho; Vara do Trabalho; TST; TRT
+
+@CLT 645
+I: O serviço da Justiça do Trabalho é relevante e obrigatório, ninguém podendo dele se eximir sem motivo justificado.
+P: Serviço público relevante || Obrigatoriedade || Escusa só por motivo justificado
+K: Justiça do Trabalho; serviço relevante
+
+@CLT 646
+I: Os órgãos da Justiça do Trabalho devem atuar coordenados, em colaboração, sob orientação do Presidente do TST. Hoje há também o Conselho Superior da Justiça do Trabalho (CF, art. 111-A, § 2º).
+P: Coordenação entre os órgãos || Orientação do Presidente do TST || CSJT como órgão central
+K: Justiça do Trabalho; coordenação; CSJT
+
+@CLT 647
+I: Previa a composição das Juntas com um juiz do trabalho e dois vogais classistas. A Emenda Constitucional nº 24/1999 extinguiu a representação classista, e as Varas do Trabalho passaram a ter juiz singular.
+P: Juntas com juízes classistas (histórico) || Extintas pela EC nº 24/1999 || Hoje Varas com juiz singular
+K: Junta de Conciliação e Julgamento; juiz classista; Vara do Trabalho

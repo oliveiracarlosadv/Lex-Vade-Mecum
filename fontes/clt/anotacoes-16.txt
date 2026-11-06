@@ -1,0 +1,254 @@
+@CLT 878
+I: Desde a Reforma Trabalhista, a execução é promovida pelas partes. O juiz só pode iniciá-la de ofício quando as partes não tiverem advogado (jus postulandi).
+P: Execução por iniciativa da parte || De ofício só sem advogado || Mudança da Reforma Trabalhista
+K: execução; impulso oficial; jus postulandi; Reforma Trabalhista
+
+@CLT 878-A
+I: O devedor pode pagar de imediato a parte que entender devida à Previdência, sem prejuízo da cobrança de diferenças na execução de ofício.
+P: Pagamento espontâneo das contribuições || Diferenças cobradas depois || Redução de encargos
+K: contribuição previdenciária; pagamento; execução
+
+@CLT 879
+I: Sentença ilíquida é liquidada por cálculo, arbitramento ou artigos (hoje, procedimento comum), sem modificar a decisão. A liquidação inclui as contribuições previdenciárias. Elaborada a conta, as partes têm prazo comum de 8 dias para impugnação fundamentada, com itens e valores, sob pena de preclusão. Quanto à correção, o STF (ADCs 58 e 59) afastou a TR; as regras posteriores à Lei nº 14.905/2024 seguem a jurisprudência do TST.
+P: Formas de liquidação || Impugnação fundamentada em 8 dias, sob pena de preclusão || Correção monetária conforme as ADCs 58 e 59
+K: liquidação de sentença; cálculos; impugnação; correção monetária; ADC 58
+
+@CLT 880
+I: Requerida a execução, o executado é citado para pagar ou garantir a execução em 48 horas, sob pena de penhora. A citação é feita por oficial de justiça e, se o executado não for encontrado duas vezes em 48 horas, por edital.
+P: Citação para pagar em 48 horas || Garantia ou penhora || Citação por edital após duas tentativas
+K: execução; citação; penhora; 48 horas
+
+@CLT 881
+I: O pagamento é feito na secretaria, com termo de quitação assinado pelas partes; ausente o exequente, o valor é depositado em banco oficial.
+P: Termo de quitação || Depósito judicial || Formalização do pagamento
+K: execução; pagamento; quitação
+
+@CLT 882
+I: O executado que não pagar pode garantir a execução com depósito atualizado, seguro-garantia judicial ou nomeação de bens, seguindo a ordem do art. 835 do CPC.
+P: Depósito, seguro-garantia ou bens || Ordem preferencial do CPC || Garantia do juízo
+K: garantia da execução; seguro-garantia; penhora
+
+@CLT 883
+I: Sem pagamento nem garantia, penhoram-se bens suficientes para a condenação, custas e juros de mora, estes contados desde o ajuizamento da reclamação.
+P: Penhora de bens suficientes || Juros desde o ajuizamento || Custas incluídas
+K: penhora; juros de mora; execução
+
+@CLT 883-A
+I: O protesto da decisão e a inclusão do executado em cadastros de inadimplentes ou no BNDT só podem ocorrer depois de 45 dias da citação, se não houver garantia do juízo.
+P: Prazo de 45 dias || Protesto e cadastros de crédito || BNDT
+K: protesto; BNDT; negativação; execução
+
+@CLT 884
+I: Garantida a execução, o executado tem 5 dias para embargos, e o exequente igual prazo para impugnação. A matéria é restrita a cumprimento, quitação ou prescrição, e a sentença de liquidação só é impugnada nesse momento. É inexigível o título fundado em lei declarada inconstitucional pelo STF. A garantia não é exigida de entidades filantrópicas e de seus diretores (§ 6º).
+P: Embargos em 5 dias após a garantia || Matéria restrita e impugnação da liquidação || Título fundado em norma inconstitucional e dispensa de garantia
+K: embargos à execução; impugnação; garantia do juízo; prescrição intercorrente
+
+@CLT 885
+I: Sem testemunhas arroladas, o juiz decide os embargos em 5 dias, julgando subsistente ou insubsistente a penhora.
+P: Julgamento em 5 dias || Subsistência da penhora || Celeridade
+K: embargos à execução; julgamento; penhora
+
+@CLT 886
+I: Com testemunhas, após a audiência os autos vão ao juiz em 48 horas para decisão. Julgada subsistente a penhora, segue-se a avaliação dos bens.
+P: Instrução dos embargos || Decisão e intimação || Avaliação dos bens
+K: embargos à execução; avaliação; penhora
+
+@CLT 887
+I: A avaliação dos bens penhorados seria feita por avaliador escolhido pelas partes ou designado pelo juiz; hoje cabe ao oficial de justiça avaliador (Lei nº 5.584/1970, art. 13).
+P: Avaliação dos bens || Avaliador designado || Oficial de justiça avaliador atual
+K: avaliação; penhora; oficial de justiça
+
+@CLT 888
+I: Após a avaliação, os bens vão à praça ou leilão anunciado por edital com 20 dias de antecedência e são vendidos pelo maior lance, com preferência do exequente para adjudicar. O arrematante dá sinal de 20% e completa em 24 horas, sob pena de perda do sinal. Sem licitantes, a venda pode ser feita por leiloeiro.
+P: Edital com 20 dias de antecedência || Maior lance e preferência de adjudicação || Sinal de 20% e complemento em 24 horas
+K: arrematação; leilão; adjudicação; hasta pública
+
+@CLT 889
+I: Aplicam-se subsidiariamente à execução trabalhista as normas da execução fiscal (Lei nº 6.830/1980) e, em seguida, o CPC.
+P: Lei de Execução Fiscal como fonte subsidiária || CPC em segundo plano || Compatibilidade com a CLT
+K: execução; Lei de Execução Fiscal; subsidiariedade
+
+@CLT 889-A
+I: As contribuições sociais são recolhidas por documento próprio, com o número do processo. Parcelamento na Receita suspende a execução da contribuição até a quitação, e as Varas informam mensalmente os recolhimentos.
+P: Recolhimento identificado pelo processo || Parcelamento suspende a execução || Informação à Receita Federal
+K: contribuição previdenciária; recolhimento; parcelamento
+
+@CLT 890
+I: A execução de prestações sucessivas segue as regras desta seção, além das demais do capítulo.
+P: Regime das prestações sucessivas || Aplicação das regras gerais || Obrigações continuadas
+K: execução; prestações sucessivas
+
+@CLT 891
+I: Em prestações por tempo determinado, a execução pela falta de uma abrange as que vierem depois.
+P: Vencimento antecipado || Prestações por tempo determinado || Economia processual
+K: prestações sucessivas; vencimento antecipado
+
+@CLT 892
+I: Em prestações por tempo indeterminado, a execução abrange inicialmente as prestações devidas até o início da execução.
+P: Prestações vencidas até a execução || Tempo indeterminado || Execuções posteriores
+K: prestações sucessivas; execução
+
+@CLT 893
+I: Os recursos trabalhistas são embargos, recurso ordinário, recurso de revista e agravo. As decisões interlocutórias não são recorríveis de imediato, só no recurso contra a decisão final (Súmula 214 do TST). O recurso extraordinário não impede a execução.
+P: Rol de recursos || Irrecorribilidade imediata das interlocutórias (Súmula 214) || Recurso ao STF não suspende a execução
+K: recursos; decisão interlocutória; Súmula 214
+
+@CLT 894
+I: No TST cabem embargos em 8 dias: infringentes, contra decisão não unânime em dissídio coletivo de competência originária, e de divergência, contra decisões de Turmas divergentes entre si ou da SDI, ou contrárias a súmula ou OJ do TST ou súmula vinculante do STF. A divergência deve ser atual, e o relator pode negar seguimento, com agravo interno.
+P: Embargos infringentes no dissídio coletivo || Embargos de divergência à SDI || Prazo de 8 dias
+K: embargos no TST; divergência; SDI; recurso
+
+@CLT 895
+I: Cabe recurso ordinário em 8 dias das decisões definitivas ou terminativas das Varas e dos TRTs em ações originárias. No sumaríssimo, o RO tem tramitação célere, sem revisor, parecer oral do MPT e acórdão por certidão.
+P: Recurso ordinário em 8 dias || Contra sentença e decisões originárias dos TRTs || Rito acelerado no sumaríssimo
+K: recurso ordinário; prazo; sumaríssimo
+
+@CLT 896
+I: Cabe recurso de revista ao TST contra acórdãos dos TRTs em recurso ordinário por divergência jurisprudencial, contrariedade a súmula ou violação literal de lei federal ou da CF. A parte deve transcrever o trecho do acórdão que prequestiona a matéria e confrontá-lo com a tese (§ 1º-A). No sumaríssimo e na execução, as hipóteses são mais restritas.
+P: Recurso de natureza extraordinária || Requisitos do § 1º-A (prequestionamento e confronto) || Hipóteses restritas no sumaríssimo e na execução
+K: recurso de revista; TST; prequestionamento; divergência jurisprudencial
+
+@CLT 896-A
+I: No recurso de revista, o TST examina antes a transcendência econômica, política, social ou jurídica. O relator pode negar seguimento monocraticamente, com agravo; a decisão do colegiado é irrecorrível.
+P: Filtro da transcendência || Indicadores econômico, político, social e jurídico || Decisão monocrática e agravo
+K: transcendência; recurso de revista; TST
+
+@CLT 896-B
+I: Aplicam-se ao recurso de revista, no que couber, as regras do CPC sobre recursos extraordinário e especial repetitivos (hoje arts. 1.036 e seguintes do CPC/2015).
+P: Sistema de repetitivos || Aplicação subsidiária do CPC || Uniformização
+K: recursos repetitivos; recurso de revista; CPC
+
+@CLT 896-C
+I: Havendo muitos recursos de revista sobre a mesma questão de direito, ela pode ser afetada à SDI ou ao Pleno do TST como recurso repetitivo, com suspensão dos demais e tese de observância obrigatória, admitida revisão.
+P: Afetação de recursos repetitivos || Suspensão dos processos || Tese vinculante e revisão
+K: recurso de revista repetitivo; tese jurídica; incidente
+
+@CLT 897
+I: Cabe agravo em 8 dias: de petição, contra decisões na execução, exigindo delimitação das matérias e valores impugnados; e de instrumento, contra decisões que negam seguimento a recursos. O agravo de instrumento deve vir com as peças necessárias para o julgamento imediato do recurso denegado.
+P: Agravo de petição na execução, com delimitação || Agravo de instrumento contra denegação de recurso || Prazo de 8 dias
+K: agravo de petição; agravo de instrumento; execução
+
+@CLT 897-A
+I: Cabem embargos de declaração em 5 dias contra sentença ou acórdão, com efeito modificativo em caso de omissão, contradição ou equívoco no exame dos pressupostos extrínsecos do recurso, ouvida a parte contrária. Erros materiais podem ser corrigidos de ofício, e os embargos interrompem o prazo recursal, salvo se intempestivos, irregulares ou sem assinatura.
+P: Embargos de declaração em 5 dias || Efeito modificativo com contraditório || Interrupção do prazo recursal
+K: embargos de declaração; efeito modificativo; prazo
+
+@CLT 898
+I: Das decisões em dissídio coletivo que afetem serviço público, ou em revisão, podem recorrer também o presidente do tribunal e o MPT.
+P: Legitimidade recursal ampliada || Serviço público e revisão || MPT e presidente do tribunal
+K: dissídio coletivo; recurso; legitimidade
+
+@CLT 899
+I: Os recursos são interpostos por simples petição e têm efeito apenas devolutivo, permitida a execução provisória até a penhora. Exige-se depósito recursal do empregador, em conta judicial, limitado a valores fixados pelo TST. O depósito cai pela metade para entidades sem fins lucrativos, empregadores domésticos, microempreendedores e micro e pequenas empresas; é dispensado para beneficiários da gratuidade, entidades filantrópicas e empresas em recuperação judicial; e pode ser substituído por fiança bancária ou seguro-garantia.
+P: Efeito devolutivo e execução provisória || Depósito recursal com teto do TST || Redução, isenção e substituição (§§ 9º a 11)
+K: depósito recursal; efeito devolutivo; execução provisória; seguro-garantia
+
+@CLT 900
+I: Interposto o recurso, o recorrido é intimado para contrarrazões no mesmo prazo do recorrente.
+P: Contrarrazões || Prazo igual ao do recurso || Contraditório
+K: contrarrazões; recurso; prazo
+
+@CLT 901
+I: As partes podem consultar os autos na secretaria, e os advogados podem retirá-los, salvo prazo comum; no processo eletrônico, o acesso é permanente.
+P: Vista dos autos || Retirada pelos advogados || Restrição em prazo comum
+K: vista dos autos; advogado
+
+@CLT 903
+I: As penalidades do título anterior são aplicadas pelo juiz ou tribunal que conhecer da infração, de ofício ou por representação de interessado ou do MPT.
+P: Competência para aplicar penalidades || De ofício ou por representação || Infrações processuais e funcionais
+K: penalidades; competência
+
+@CLT 904
+I: Sanções a autoridades da Justiça do Trabalho são aplicadas pela autoridade ou tribunal imediatamente superior. A referência ao "Conselho Federal" é histórica; hoje vale a Loman e o controle do CNJ e do CSJT.
+P: Competência do órgão superior || Referência histórica || Controle atual pelo CNJ e CSJT
+K: penalidades; magistrados; CNJ
+
+@CLT 905
+I: O acusado é notificado para defesa escrita em 15 dias, podendo indicar até 5 testemunhas; o julgamento ocorre em 10 dias após a defesa.
+P: Defesa em 15 dias || Até 5 testemunhas || Julgamento em 10 dias
+K: penalidades; defesa; procedimento
+
+@CLT 906
+I: Da penalidade cabe recurso ordinário ao TST em 10 dias, ou 20 dias se decorrer de dissídio coletivo.
+P: Recurso ordinário || Prazo de 10 ou 20 dias || Dissídio coletivo
+K: penalidades; recurso ordinário
+
+@CLT 907
+I: Se a infração também for crime, as peças são enviadas à autoridade competente.
+P: Comunicação ao Ministério Público || Independência das instâncias || Responsabilidade penal
+K: penalidades; crime; remessa
+
+@CLT 908
+I: As multas deste título são cobradas por execução fiscal; a referência à Procuradoria da Justiça do Trabalho e ao DL nº 960/1938 é histórica (hoje Lei nº 6.830/1980 e PGFN).
+P: Cobrança por execução fiscal || Referências históricas || Lei nº 6.830/1980
+K: multas; execução fiscal; dívida ativa
+
+@CLT 909
+I: A ordem dos processos no TST é regulada por seu regimento interno.
+P: Autonomia regimental || Organização interna || Competência normativa
+K: TST; regimento interno
+
+@CLT 910
+I: Para o Título X, equiparam-se a serviços públicos os de utilidade pública e atividades como alimentos, farmácias, hospitais, transportes, comunicações e bancos. Para a greve, hoje vale o rol de atividades essenciais da Lei nº 7.783/1989.
+P: Equiparação a serviço público || Lista de atividades || Atividades essenciais na Lei de Greve
+K: serviço público; atividades essenciais; greve
+
+@CLT 911
+I: A CLT entrou em vigor em 10 de novembro de 1943.
+P: Data de vigência || Vacatio legis || Marco histórico
+K: vigência; CLT; 1943
+
+@CLT 912
+I: As normas imperativas da CLT aplicam-se de imediato às relações iniciadas e ainda não consumadas antes de sua vigência.
+P: Aplicação imediata || Relações em curso || Direito intertemporal
+K: direito intertemporal; aplicação imediata
+
+@CLT 913
+I: O Ministério do Trabalho expede instruções, quadros e modelos para executar a CLT, e o TST adapta os regimentos.
+P: Poder regulamentar || Adaptação regimental || Normas Regulamentadoras
+K: regulamentação; Ministério do Trabalho; NR
+
+@CLT 914
+I: Continuam em vigor os quadros, tabelas e modelos aprovados com base em dispositivos não alterados.
+P: Preservação de atos anteriores || Continuidade normativa || Transição
+K: direito intertemporal; quadros; modelos
+
+@CLT 915
+I: Recursos interpostos ou com prazo em curso na data de vigência da CLT não são prejudicados.
+P: Proteção dos recursos em curso || Direito intertemporal processual || Segurança jurídica
+K: direito intertemporal; recursos
+
+@CLT 916
+I: Prazos prescricionais menores que os da lei anterior começaram a correr da vigência da CLT.
+P: Prescrição na transição || Prazo menor conta da vigência || Proteção contra surpresa
+K: prescrição; direito intertemporal
+
+@CLT 917
+I: Previa prazos para adaptar estabelecimentos às normas de higiene e segurança e para a obrigatoriedade da carteira profissional; regra transitória, já exaurida.
+P: Adaptação gradual || Regra transitória exaurida || Segurança e medicina do trabalho
+K: direito intertemporal; segurança do trabalho; CTPS
+
+@CLT 918
+I: Atribuía ao presidente do TST o julgamento de recursos previdenciários até a Lei Orgânica da Previdência Social; regra transitória, superada.
+P: Competência transitória || Matéria previdenciária || Regra superada
+K: direito intertemporal; previdência
+
+@CLT 919
+I: Garantia ao bancário admitido até a vigência da CLT a estabilidade do Decreto nº 24.615/1934; regra de transição, hoje sem efeito prático.
+P: Estabilidade do bancário || Direito adquirido || Regra de transição
+K: bancário; estabilidade; direito intertemporal
+
+@CLT 920
+I: Enquanto não constituídas as confederações, a representação de classes seria suprida pelas federações; regra transitória.
+P: Representação transitória || Federações || Regra exaurida
+K: confederações; federações; transição
+
+@CLT 921
+I: Empresas fora do enquadramento sindical do art. 577 podem celebrar contratos coletivos com o sindicato da categoria profissional.
+P: Negociação fora do enquadramento || Acordo com sindicato profissional || Base do acordo coletivo
+K: acordo coletivo; enquadramento sindical
+
+@CLT 922
+I: O art. 301 (mineiros) aplica-se apenas às relações de emprego iniciadas após a vigência da CLT.
+P: Aplicação prospectiva || Trabalho em minas || Direito intertemporal
+K: direito intertemporal; minas de subsolo

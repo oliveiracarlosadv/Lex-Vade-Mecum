@@ -1,7 +1,8 @@
 // Extrator do texto vigente de uma norma no Portal da Legislação (Planalto).
 // Executar no console da página da norma, aberta no navegador.
 //
-// - Redações antigas (parágrafos inteiros tachados) são descartadas.
+// - Redações antigas (parágrafos inteiros tachados) são descartadas, salvo o caput de
+//   artigo revogado sem versão vigente, que é mantido tachado.
 // - Trechos tachados dentro de parágrafos vigentes são mantidos entre ⟦ ⟧.
 // - Dispositivos revogados cujo texto o Planalto mantém tachado junto da nota
 //   "(Revogado ...)" são preservados entre ⟦ ⟧; o script atualizar.py os converte
@@ -15,6 +16,14 @@
   });
   const c = document.body.cloneNode(true);
   c.querySelector('#lex-copiar')?.remove();
+  // Artigos que têm versão vigente (parágrafo não tachado começando por "Art. N").
+  const rotulo = (txt) => { const m = txt.replace(/\u00a0/g, ' ').trim().match(/^A?rt\.?\s*\.?\s*(\d+(?:\.\d{3})*)\s*(?:º|o|°)?(-?[A-Z](?=[.\s-]))?/); return m && m[1].replace(/\./g, '') + (m[2] || '').replace('-', ''); };
+  const vigentes = new Set();
+  c.querySelectorAll('p').forEach((p) => {
+    const sobra = p.cloneNode(true);
+    sobra.querySelectorAll('strike,s,del,[data-struck]').forEach((e) => e.remove());
+    if (!p.hasAttribute('data-struck')) { const r = rotulo(sobra.textContent); if (r) vigentes.add(r); }
+  });
   c.querySelectorAll('p').forEach((p) => {
     const struck = [...p.querySelectorAll('strike,s,del,[data-struck]')].filter(
       (e) => !e.parentElement.closest('strike,s,del,[data-struck]')
@@ -40,7 +49,12 @@
       const sobra = p.cloneNode(true);
       sobra.querySelectorAll('strike,s,del,[data-struck]').forEach((e) => e.remove());
       const vigente = pst ? '' : sobra.textContent.replace(/[\s.,;:()]+/g, '');
-      if (!vigente) {
+      const r = rotulo(p.innerText);
+      if (!vigente && r && !vigentes.has(r)) {
+        // Caput de artigo revogado cuja nota "(Revogado ...)" está em outro parágrafo
+        // (ex.: CLT, arts. 88, 287, 375 e 387): mantém como tachado.
+        targets.forEach((e) => e.replaceWith(document.createTextNode('⟦' + e.innerText.replace(/\s+/g, ' ').trim() + '⟧')));
+      } else if (!vigente) {
         p.remove();
       } else {
         targets.forEach((e) => {

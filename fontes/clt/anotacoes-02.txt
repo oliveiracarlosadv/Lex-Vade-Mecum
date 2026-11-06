@@ -1,0 +1,249 @@
+@CLT 64
+I: Ensina a calcular o salário-hora do mensalista: divide-se o salário mensal por 30 vezes o número de horas da jornada diária. Se o número de dias de trabalho no mês for inferior a 30, usa-se esse número. Na prática, a jurisprudência adota divisores mensais (220 para 44 horas semanais, 180 para 36), ajustados à duração semanal vigente.
+P: Salário-hora = salário mensal ÷ (30 × horas diárias) || Base para horas extras e adicionais || Divisores mensais consolidados pela jurisprudência
+K: salário-hora; divisor; mensalista; cálculo de horas extras
+
+@CLT 65
+I: Para o diarista, o salário-hora é obtido dividindo o salário diário pelo número de horas de efetivo trabalho.
+P: Salário-hora do diarista || Divisão pelo número de horas trabalhadas || Base para adicionais e extras
+K: salário-hora; diarista; cálculo
+
+@CLT 66
+I: Garante intervalo mínimo de 11 horas consecutivas de descanso entre duas jornadas (intervalo interjornada). O TST entende que o desrespeito gera o pagamento das horas suprimidas como extras, com adicional (OJ 355 da SBDI-1).
+P: Mínimo de 11 horas entre jornadas || Descanso consecutivo || Supressão paga como hora extra (OJ 355 da SBDI-1)
+K: intervalo interjornada; onze horas; descanso entre jornadas; horas extras
+
+@CLT 67
+I: Assegura descanso semanal de 24 horas consecutivas, preferencialmente aos domingos, salvo conveniência pública ou necessidade imperiosa. Onde houver trabalho aos domingos, deve haver escala de revezamento mensal, sujeita à fiscalização. A Constituição garante o repouso semanal remunerado (art. 7º, XV) e a Lei nº 605/1949 o regulamenta.
+P: Descanso semanal de 24 horas, preferencialmente aos domingos || Escala de revezamento em atividades com trabalho dominical || Repouso remunerado (CF, art. 7º, XV; Lei nº 605/1949)
+K: descanso semanal remunerado; DSR; domingo; escala de revezamento
+
+@CLT 68
+I: O trabalho aos domingos depende de permissão prévia da autoridade trabalhista, concedida em caráter permanente para atividades que, por natureza ou conveniência pública, funcionam aos domingos, ou de forma transitória (até 60 dias) nos demais casos.
+P: Trabalho dominical exige autorização || Permanente para atividades essenciais || Transitória por até 60 dias
+K: trabalho aos domingos; autorização; atividades essenciais
+
+@CLT 69
+I: Ao regular o funcionamento de atividades, os municípios devem respeitar as regras da CLT sobre descanso e as instruções das autoridades trabalhistas, sem contrariá-las.
+P: Normas municipais não podem contrariar a CLT || Competência municipal para funcionamento do comércio || Respeito às instruções trabalhistas
+K: competência municipal; funcionamento do comércio; descanso
+
+@CLT 70
+I: Proíbe o trabalho em feriados nacionais e religiosos, salvo as permissões dos arts. 68 e 69. O trabalho em feriado sem folga compensatória deve ser pago em dobro (Lei nº 605/1949 e Súmula 146 do TST).
+P: Trabalho em feriado vedado, salvo autorização || Pagamento em dobro sem folga compensatória (Súmula 146 do TST) || Feriados definidos em lei própria
+K: feriados; trabalho em feriado; pagamento em dobro
+
+@CLT 71
+I: Em jornada contínua acima de 6 horas, é obrigatório intervalo de 1 a 2 horas para repouso e alimentação; entre 4 e 6 horas, intervalo de 15 minutos. Os intervalos não contam como jornada. Desde a Reforma Trabalhista, a supressão total ou parcial do intervalo gera o pagamento, de natureza indenizatória, apenas do período suprimido, com adicional de 50% (§ 4º). A norma coletiva pode reduzir o intervalo para 30 minutos em jornadas superiores a 6 horas (art. 611-A, III).
+P: Intervalo de 1 a 2 horas acima de 6 horas; 15 minutos entre 4 e 6 horas || Supressão: paga só o tempo suprimido, com 50%, natureza indenizatória (§ 4º) || Redução para 30 minutos por norma coletiva (art. 611-A, III)
+K: intervalo intrajornada; repouso e alimentação; supressão do intervalo; natureza indenizatória
+
+@CLT 72
+I: Nos serviços permanentes de mecanografia (datilografia, escrituração, cálculo), a cada 90 minutos de trabalho contínuo há repouso de 10 minutos, computado na jornada. A jurisprudência estende a regra, por analogia, a digitadores (Súmula 346 do TST) e a outras atividades com esforço contínuo.
+P: Pausa de 10 minutos a cada 90 minutos || Pausa computada na jornada || Aplicação analógica a digitadores (Súmula 346 do TST)
+K: mecanografia; digitador; pausa; ergonomia; intervalo especial
+
+@CLT 73
+I: O trabalho noturno urbano, das 22h às 5h, tem adicional mínimo de 20% e hora reduzida de 52 minutos e 30 segundos. Nos horários mistos, aplica-se a regra às horas noturnas, e a prorrogação após as 5h também é noturna (§ 5º e Súmula 60 do TST). O trabalho rural tem regras próprias (Lei nº 5.889/1973).
+P: Noturno das 22h às 5h, com adicional mínimo de 20% || Hora noturna reduzida de 52min30s || Prorrogação após as 5h também é noturna (Súmula 60 do TST)
+K: trabalho noturno; adicional noturno; hora noturna reduzida; prorrogação
+
+@CLT 74
+I: O horário de trabalho deve ser anotado no registro de empregados. Estabelecimentos com mais de 20 trabalhadores devem registrar entrada e saída (manual, mecânico ou eletrônico), com pré-assinalação do intervalo. Admite-se o ponto por exceção, por acordo individual escrito ou norma coletiva. A falta de controle por quem é obrigado faz presumir verdadeira a jornada alegada pelo empregado (Súmula 338 do TST).
+P: Controle de ponto obrigatório acima de 20 empregados || Ponto por exceção por acordo individual ou coletivo (§ 4º) || Falta de registro inverte o ônus da prova (Súmula 338 do TST)
+K: controle de ponto; registro de jornada; ponto por exceção; ônus da prova
+
+@CLT 75
+I: Prevê multas pelas infrações às regras de duração do trabalho, com valores em moeda antiga (cruzeiros), hoje atualizados pela legislação de multas administrativas, em dobro na reincidência ou oposição à fiscalização.
+P: Multa administrativa por infração às regras de jornada || Dobro na reincidência || Valores em moeda antiga, atualizados por norma posterior
+K: multa administrativa; jornada; fiscalização do trabalho
+
+@CLT 75-A
+I: Determina que o teletrabalho siga as regras do capítulo próprio (arts. 75-A a 75-F), introduzido pela Reforma Trabalhista e alterado pela Lei nº 14.442/2022.
+P: Capítulo próprio para o teletrabalho || Introduzido pela Reforma Trabalhista || Alterado pela Lei nº 14.442/2022
+K: teletrabalho; trabalho remoto; home office
+
+@CLT 75-B
+I: Define teletrabalho ou trabalho remoto como o serviço prestado fora das dependências do empregador, de forma preponderante ou não, com tecnologias de informação e comunicação, que não seja trabalho externo. Comparecer ao estabelecimento para atividades específicas não o descaracteriza. Pode ser por jornada (com controle e horas extras) ou por produção ou tarefa (sem as regras de jornada). Não se confunde com telemarketing, e o uso de ferramentas digitais fora da jornada não é tempo à disposição, salvo acordo.
+P: Teletrabalho preponderante ou não, fora do estabelecimento || Por jornada ou por produção/tarefa (§§ 2º e 3º) || Uso de equipamentos fora da jornada não é tempo à disposição (§ 5º)
+K: teletrabalho; trabalho remoto; home office; produção ou tarefa; controle de jornada
+
+@CLT 75-C
+I: O teletrabalho deve constar do contrato. A passagem do presencial para o teletrabalho exige mútuo acordo; a volta ao presencial pode ser determinada pelo empregador, com transição mínima de 15 dias, por aditivo. Se o empregado optar por trabalhar fora da localidade contratual, o empregador não arca com as despesas de retorno, salvo ajuste.
+P: Previsão expressa no contrato || Presencial para remoto por acordo; remoto para presencial por decisão do empregador, com 15 dias de transição || Despesas de retorno por conta do empregado que escolheu outra localidade
+K: teletrabalho; alteração contratual; aditivo; retorno ao presencial
+
+@CLT 75-D
+I: O contrato escrito deve dispor sobre quem adquire, mantém ou fornece os equipamentos e a infraestrutura do trabalho remoto e sobre o reembolso de despesas. Essas utilidades não integram a remuneração.
+P: Responsabilidade pelos equipamentos definida em contrato || Reembolso de despesas pactuado || Utilidades sem natureza salarial
+K: teletrabalho; equipamentos; reembolso de despesas; infraestrutura
+
+@CLT 75-E
+I: O empregador deve instruir expressamente os teletrabalhadores sobre precauções para evitar doenças e acidentes, e o empregado assina termo de responsabilidade comprometendo-se a segui-las. A instrução não afasta o dever geral do empregador de zelar pela saúde e segurança.
+P: Dever de instrução sobre saúde e segurança || Termo de responsabilidade do empregado || Ergonomia no trabalho remoto
+K: teletrabalho; saúde e segurança; ergonomia; termo de responsabilidade
+
+@CLT 75-F
+I: Dá prioridade, nas vagas de teletrabalho, a empregados com deficiência e a empregados com filhos ou crianças sob guarda judicial de até 4 anos.
+P: Prioridade para pessoas com deficiência || Prioridade para pais de crianças até 4 anos || Política de inclusão e conciliação familiar
+K: teletrabalho; pessoa com deficiência; parentalidade; prioridade
+
+@CLT 76
+I: Define salário mínimo como a contraprestação mínima paga diretamente pelo empregador a todo trabalhador, inclusive rural, sem distinção de sexo, capaz de atender a necessidades básicas. A Constituição (art. 7º, IV) fixou o salário mínimo nacionalmente unificado, que inclui também educação, saúde, lazer e previdência, e é fixado por lei.
+P: Contraprestação mínima a todo trabalhador || Hoje nacionalmente unificado (CF, art. 7º, IV) || Abrange necessidades vitais básicas
+K: salário mínimo; contraprestação mínima; necessidades básicas
+
+@CLT 78
+I: No salário por empreitada, tarefa ou peça, garante remuneração diária não inferior ao salário mínimo. Para o comissionista com parte fixa e variável, assegura sempre o mínimo, sem desconto posterior para compensar.
+P: Garantia do mínimo no salário por produção || Comissionista sempre recebe ao menos o mínimo || Vedada compensação em mês seguinte
+K: salário por produção; tarefa; comissionista; garantia do salário mínimo
+
+@CLT 81
+I: Estabelecia a fórmula histórica do salário mínimo (soma das despesas com alimentação, habitação, vestuário, higiene e transporte) e as listas de provisões. Hoje o valor é fixado por lei federal (CF, art. 7º, IV), e a fórmula tem valor histórico e referencial.
+P: Fórmula histórica do salário mínimo || Hoje fixado por lei || Referência para as parcelas in natura
+K: salário mínimo; composição; parcelas; histórico
+
+@CLT 82
+I: Quando o empregador fornece parte do salário mínimo em utilidades (in natura), o salário em dinheiro é o mínimo menos o valor dessas parcelas, mas nunca inferior a 30% do salário mínimo.
+P: Salário em dinheiro = mínimo − utilidades || Mínimo de 30% em dinheiro || Base do salário-utilidade
+K: salário in natura; salário-utilidade; desconto de utilidades
+
+@CLT 83
+I: Garante o salário mínimo ao trabalhador em domicílio, aquele que trabalha em sua casa ou em oficina de família para empregador que o remunera.
+P: Trabalhador em domicílio tem direito ao mínimo || Relação de emprego a distância || Complementa o art. 6º
+K: trabalho em domicílio; salário mínimo
+
+@CLT 117
+I: É nulo o contrato ou convenção que estipule remuneração inferior ao salário mínimo, sujeitando o empregador às sanções do art. 120.
+P: Nulidade de cláusula abaixo do mínimo || Sanção administrativa || Norma de ordem pública
+K: salário mínimo; nulidade; cláusula contratual
+
+@CLT 118
+I: O trabalhador que recebeu abaixo do mínimo pode cobrar a diferença, apesar de qualquer contrato ou convenção em contrário.
+P: Direito às diferenças salariais || Irrenunciabilidade do mínimo || Prevalece sobre acordo em contrário
+K: salário mínimo; diferenças salariais; irrenunciabilidade
+
+@CLT 119
+I: Previa prescrição de dois anos para cobrar diferenças de salário mínimo, contada de cada pagamento. Após a Constituição de 1988, prevalece a regra geral do art. 7º, XXIX (cinco anos, limitados a dois após o fim do contrato), reproduzida no art. 11 da CLT.
+P: Prazo original de dois anos || Hoje prevalece a prescrição constitucional (art. 11) || Contagem por pagamento
+K: prescrição; salário mínimo; diferenças
+
+@CLT 120
+I: Prevê multa para quem descumprir as normas sobre salário mínimo, dobrada na reincidência, com valor em moeda antiga atualizado pela legislação posterior.
+P: Multa administrativa || Dobro na reincidência || Valor em moeda antiga
+K: salário mínimo; multa administrativa
+
+@CLT 124
+I: Proíbe que a aplicação das regras de salário mínimo sirva de motivo para reduzir salários superiores.
+P: Vedação de redução salarial || Proteção dos salários acima do mínimo || Irredutibilidade (CF, art. 7º, VI)
+K: irredutibilidade salarial; salário mínimo
+
+@CLT 126
+I: Atribui ao Ministério do Trabalho as instruções de fiscalização do salário mínimo, podendo delegar a fiscalização a seus órgãos.
+P: Fiscalização pelo Ministério do Trabalho || Instruções administrativas || Redação histórica
+K: fiscalização; salário mínimo; Ministério do Trabalho
+
+@CLT 129
+I: Garante a todo empregado o direito anual a férias remuneradas. A Constituição acrescenta o terço constitucional (art. 7º, XVII).
+P: Férias anuais remuneradas || Terço constitucional (CF, art. 7º, XVII) || Direito irrenunciável
+K: férias; descanso anual; terço de férias
+
+@CLT 130
+I: Após 12 meses de contrato (período aquisitivo), o empregado tem férias de 30 dias, reduzidas conforme as faltas injustificadas: 24 dias (6 a 14 faltas), 18 dias (15 a 23) e 12 dias (24 a 32). Com mais de 32 faltas, perde o direito. As faltas não podem ser descontadas das férias, que contam como tempo de serviço. Desde a Reforma, aplica-se também ao tempo parcial.
+P: 30 dias com até 5 faltas, com redução escalonada || Mais de 32 faltas injustificadas afastam o direito || Vedado descontar faltas das férias (§ 1º)
+K: período aquisitivo; duração das férias; faltas injustificadas
+
+@CLT 131
+I: Lista ausências que não contam como falta para férias: as do art. 473, licença-maternidade ou aborto, acidente do trabalho ou doença atestada pelo INSS (salvo o caso do art. 133, IV), ausências justificadas pela empresa, suspensão preventiva seguida de absolvição e dias sem serviço.
+P: Ausências legais não reduzem as férias || Inclui licença-maternidade e acidente || Ausência abonada pela empresa também não conta
+K: faltas justificadas; férias; licença-maternidade; acidente do trabalho
+
+@CLT 132
+I: O tempo trabalhado antes do serviço militar obrigatório conta no período aquisitivo, se o empregado voltar ao trabalho em até 90 dias após a baixa.
+P: Tempo anterior ao serviço militar conta para férias || Retorno em até 90 dias da baixa || Proteção ao convocado
+K: serviço militar; período aquisitivo; férias
+
+@CLT 133
+I: Perde o direito a férias, no período aquisitivo, quem deixar o emprego e não for readmitido em 60 dias, ficar mais de 30 dias em licença remunerada ou sem trabalhar por paralisação da empresa com salário, ou receber benefício previdenciário por acidente ou doença por mais de 6 meses. Um novo período aquisitivo começa no retorno.
+P: Hipóteses de perda das férias || Licença remunerada ou paralisação acima de 30 dias || Benefício previdenciário por mais de 6 meses
+K: perda das férias; período aquisitivo; licença remunerada; auxílio-doença
+
+@CLT 134
+I: As férias são concedidas pelo empregador nos 12 meses seguintes à aquisição (período concessivo), em regra num só período. Com concordância do empregado, podem ser divididas em até três períodos, um com pelo menos 14 dias e os demais com ao menos 5 dias. É vedado iniciá-las nos dois dias que antecedem feriado ou repouso semanal.
+P: Período concessivo de 12 meses || Fracionamento em até três períodos (14 + 5 + 5 dias mínimos) || Vedado início nos dois dias antes de feriado ou DSR
+K: período concessivo; fracionamento de férias; concessão de férias
+
+@CLT 135
+I: A concessão de férias deve ser comunicada por escrito com antecedência mínima de 30 dias, com recibo do empregado. A anotação é feita na CTPS e no registro; com CTPS digital, nos sistemas eletrônicos.
+P: Aviso de férias com 30 dias de antecedência || Anotação na CTPS e no registro || CTPS digital dispensa anotação física
+K: aviso de férias; comunicação; CTPS; anotação
+
+@CLT 136
+I: A época das férias é definida conforme o interesse do empregador. Membros da mesma família no mesmo empregador podem tirá-las juntos, se não houver prejuízo, e o estudante menor de 18 anos pode fazê-las coincidir com as férias escolares.
+P: Época definida pelo empregador || Membros da família juntos, sem prejuízo ao serviço || Estudante menor de 18 anos nas férias escolares
+K: época das férias; estudante; família
+
+@CLT 137
+I: Férias concedidas após o período concessivo devem ser pagas em dobro. Vencido o prazo, o empregado pode pedir judicialmente a fixação da época de gozo, com multa diária de 5% do salário mínimo até o cumprimento.
+P: Férias fora do prazo são pagas em dobro || Ação para fixar a época das férias || Multa diária de 5% do salário mínimo
+K: férias em dobro; período concessivo; multa diária
+
+@CLT 138
+I: Durante as férias, o empregado não pode trabalhar para outro empregador, salvo se já tiver outro contrato regular.
+P: Vedação de trabalho para outro empregador nas férias || Exceção: contrato já existente || Finalidade de descanso
+K: férias; outro emprego; finalidade das férias
+
+@CLT 139
+I: Permite férias coletivas para toda a empresa ou para estabelecimentos ou setores, em até dois períodos anuais, nenhum inferior a 10 dias. O empregador deve comunicar o órgão do Ministério do Trabalho e os sindicatos com 15 dias de antecedência e afixar aviso no local de trabalho.
+P: Férias coletivas para empresa, estabelecimento ou setor || Até dois períodos de no mínimo 10 dias || Comunicação ao Ministério e aos sindicatos com 15 dias
+K: férias coletivas; comunicação; sindicato
+
+@CLT 140
+I: Nas férias coletivas, os empregados com menos de 12 meses de contrato gozam férias proporcionais e iniciam novo período aquisitivo.
+P: Férias proporcionais para contratados há menos de 12 meses || Novo período aquisitivo começa || Ajuste do calendário de férias
+K: férias coletivas; férias proporcionais; período aquisitivo
+
+@CLT 142
+I: Durante as férias, o empregado recebe a remuneração devida na data da concessão. Regula o cálculo para salário por hora, tarefa, percentagem ou comissões (média dos 12 meses) e manda incluir as utilidades e os adicionais (horas extras, noturno, insalubridade, periculosidade), usando a média duodecimal quando variáveis.
+P: Remuneração da data da concessão || Salário variável pela média dos 12 meses || Adicionais integram a base das férias (§ 5º)
+K: remuneração das férias; média; adicionais; comissões
+
+@CLT 143
+I: O empregado pode converter um terço das férias em abono pecuniário (venda de férias), requerendo até 15 dias antes do fim do período aquisitivo. Nas férias coletivas, a conversão depende de acordo coletivo.
+P: Conversão de até 1/3 das férias em dinheiro || Pedido até 15 dias antes do fim do período aquisitivo || Opção do empregado
+K: abono pecuniário; venda de férias; conversão
+
+@CLT 144
+I: O abono de férias do art. 143, e o concedido por contrato, regulamento ou norma coletiva até 20 dias de salário, não integra a remuneração para fins trabalhistas.
+P: Abono de férias sem natureza salarial || Limite de 20 dias de salário || Inclui abonos convencionais
+K: abono de férias; natureza indenizatória
+
+@CLT 145
+I: A remuneração das férias, e o abono quando houver, deve ser paga até 2 dias antes do início do período, com quitação pelo empregado. O STF (ADPF 501) afastou a Súmula 450 do TST, que mandava pagar em dobro as férias quitadas fora do prazo.
+P: Pagamento até 2 dias antes das férias || Quitação com indicação do período || Atraso não gera dobra (ADPF 501 do STF)
+K: pagamento das férias; prazo; Súmula 450; ADPF 501
+
+@CLT 146
+I: Na extinção do contrato, por qualquer causa, são devidas as férias vencidas, simples ou em dobro. Após 12 meses, as férias proporcionais (1/12 por mês ou fração superior a 14 dias) são devidas, exceto na justa causa. A jurisprudência (Súmula 171 do TST) admite as proporcionais também no pedido de demissão.
+P: Férias vencidas devidas em qualquer extinção || Proporcionais de 1/12 por mês, salvo justa causa || Terço constitucional incide sobre as férias indenizadas
+K: férias vencidas; férias proporcionais; rescisão; justa causa
+
+@CLT 147
+I: Quem for despedido sem justa causa, ou tiver contrato a termo extinto, antes de 12 meses de serviço, recebe férias proporcionais. Pela Súmula 261 do TST, o empregado que pede demissão antes de 12 meses também tem direito a elas.
+P: Proporcionais antes de 12 meses na dispensa sem justa causa || Também no término do contrato a termo || Pedido de demissão também gera proporcionais (Súmula 261)
+K: férias proporcionais; dispensa sem justa causa; contrato a termo
+
+@CLT 148
+I: A remuneração das férias, mesmo devida após a extinção do contrato, tem natureza salarial para efeito do art. 449 (privilégio na falência).
+P: Natureza salarial das férias indenizadas para falência || Crédito privilegiado || Remete ao art. 449
+K: natureza salarial; férias; falência; crédito trabalhista
+
+@CLT 149
+I: A prescrição para reclamar a concessão ou o pagamento das férias começa ao fim do período concessivo (art. 134) ou na extinção do contrato.
+P: Início da prescrição no fim do período concessivo || Ou na extinção do contrato || Aplica-se o prazo do art. 11
+K: prescrição; férias; período concessivo
+
+@CLT 150
+I: Traz regras especiais de férias para marítimos: o tempo de serviço prestado a outro armador conta para as férias, que são concedidas pelo armador a cujo serviço o tripulante estiver. Ao fim das férias, o tripulante se apresenta ao armador; por interesse público comprovado, as férias podem ser suspensas; e a autoridade do trabalho marítimo pode autorizar a acumulação de dois períodos, a pedido justificado do sindicato ou da empresa.
+P: Tripulante transferido mantém o tempo para férias || Suspensão das férias por interesse público comprovado (§ 5º) || Acumulação de dois períodos mediante requerimento justificado (§ 6º)
+K: marítimo; tripulante; férias; armador; acumulação de férias

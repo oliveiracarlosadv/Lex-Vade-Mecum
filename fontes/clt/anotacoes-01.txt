@@ -1,0 +1,224 @@
+@CLT 1
+I: Define o objeto da CLT: as normas que regulam as relações individuais e coletivas de trabalho nela previstas. É a porta de entrada do sistema, que convive com a Constituição (art. 7º e seguintes) e com leis especiais, como a do trabalho doméstico (LC nº 150/2015) e a do trabalho rural (Lei nº 5.889/1973).
+P: Abrange relações individuais e coletivas de trabalho || Aplica-se às relações previstas na própria CLT || Convive com a Constituição e leis especiais
+K: objeto da CLT; relação de trabalho; direito individual do trabalho; direito coletivo do trabalho
+
+@CLT 2
+I: Define empregador como a empresa que assume os riscos da atividade econômica e admite, assalaria e dirige a prestação pessoal de serviço (princípio da alteridade). Equipara a empregador profissionais liberais e entidades sem fins lucrativos que contratem empregados. Empresas de um mesmo grupo econômico respondem solidariamente pelas obrigações trabalhistas, mas a simples identidade de sócios não caracteriza o grupo: exige-se interesse integrado, comunhão de interesses e atuação conjunta (§ 3º, incluído pela Reforma Trabalhista).
+P: Empregador assume os riscos do negócio (alteridade) || Grupo econômico gera responsabilidade solidária (§ 2º) || Identidade de sócios, sozinha, não forma grupo econômico (§ 3º)
+K: empregador; alteridade; grupo econômico; responsabilidade solidária; empregador por equiparação
+
+@CLT 3
+I: Define empregado como a pessoa física que presta serviços não eventuais a empregador, sob dependência (subordinação) e mediante salário. Desses elementos, com a pessoalidade do art. 2º, extraem-se os requisitos da relação de emprego. Veda distinções entre trabalho intelectual, técnico e manual.
+P: Requisitos: pessoa física, pessoalidade, não eventualidade, subordinação e onerosidade || Ausência de um requisito afasta o vínculo de emprego || Igualdade entre trabalho intelectual, técnico e manual
+K: empregado; relação de emprego; subordinação; não eventualidade; onerosidade; pessoalidade
+
+@CLT 4
+I: Considera tempo de serviço efetivo o período à disposição do empregador, aguardando ou executando ordens. Conta-se para indenização e estabilidade o afastamento por serviço militar e acidente do trabalho. A Reforma Trabalhista (§ 2º) excluiu do tempo à disposição o período em que o empregado permanece na empresa por escolha própria para atividades particulares, como descanso, estudo, alimentação ou troca de roupa quando não obrigatória na empresa.
+P: Tempo à disposição conta como tempo de serviço || Afastamento por serviço militar e acidente conta para indenização e estabilidade || Permanência por escolha própria para atividades particulares não é jornada (§ 2º)
+K: tempo à disposição; tempo de serviço; serviço efetivo; atividades particulares; troca de uniforme
+
+@CLT 5
+I: Consagra o princípio da isonomia salarial: trabalho de igual valor deve receber salário igual, sem distinção de sexo. Os requisitos concretos da equiparação salarial estão no art. 461, e a Constituição proíbe diferença de salários por motivo de sexo, idade, cor ou estado civil (art. 7º, XXX).
+P: Igual valor do trabalho, igual salário || Vedação de discriminação por sexo || Requisitos detalhados no art. 461
+K: isonomia salarial; igualdade salarial; discriminação de gênero; equiparação salarial
+
+@CLT 6
+I: Não diferencia o trabalho feito no estabelecimento do empregador, no domicílio do empregado ou a distância, desde que presentes os requisitos da relação de emprego. Os meios telemáticos de comando e controle equiparam-se aos meios pessoais para fins de subordinação, base legal da subordinação no teletrabalho.
+P: Trabalho em domicílio e a distância também geram vínculo || Subordinação por meios telemáticos é válida || Base do teletrabalho (arts. 75-A a 75-F)
+K: trabalho a distância; trabalho em domicílio; subordinação telemática; teletrabalho
+
+@CLT 7
+I: Exclui da CLT, salvo disposição expressa, os empregados domésticos, os rurais (definidos pela atividade), os servidores públicos e os de autarquias com regime próprio, além das atividades de direção partidária. Hoje o doméstico tem lei própria (LC nº 150/2015) e o rural, a Lei nº 5.889/1973, com aplicação subsidiária da CLT no que couber.
+P: Domésticos regidos pela LC nº 150/2015 || Rurais regidos pela Lei nº 5.889/1973 || Servidores estatutários fora da CLT
+K: exclusões da CLT; empregado doméstico; trabalhador rural; servidor público; aplicação da CLT
+
+@CLT 8
+I: Indica as fontes para suprir lacunas: jurisprudência, analogia, equidade, princípios gerais, usos e costumes e direito comparado, sem que interesse particular prevaleça sobre o público; o direito comum é fonte subsidiária. A Reforma Trabalhista vedou que súmulas restrinjam direitos ou criem obrigações não previstas em lei e determinou que, no exame de normas coletivas, a Justiça do Trabalho analise só os elementos essenciais do negócio jurídico, com intervenção mínima.
+P: Fontes de integração em caso de lacuna || Direito comum como fonte subsidiária (§ 1º) || Súmulas não podem criar obrigações; intervenção mínima nas normas coletivas (§§ 2º e 3º)
+K: fontes do direito do trabalho; integração; analogia; equidade; direito comum; intervenção mínima; súmulas
+
+@CLT 9
+I: Declara nulos de pleno direito os atos destinados a desvirtuar, impedir ou fraudar a aplicação da CLT. É a base do princípio da primazia da realidade: vale o que de fato ocorre na relação, não a forma dada pelas partes (por exemplo, falsa contratação como autônomo ou pessoa jurídica).
+P: Nulidade de atos fraudulentos || Primazia da realidade sobre a forma || Fundamento para reconhecer vínculo em contratações simuladas
+K: fraude trabalhista; nulidade; primazia da realidade; pejotização
+
+@CLT 10
+I: Mudanças na estrutura jurídica da empresa (transformação, fusão, mudança de sócios) não afetam os direitos adquiridos dos empregados. Junto com o art. 448, fundamenta a sucessão trabalhista e a continuidade do contrato.
+P: Alteração societária não prejudica empregados || Base da sucessão trabalhista (arts. 448 e 448-A) || Protege direitos já adquiridos
+K: sucessão trabalhista; alteração da estrutura jurídica; direito adquirido; continuidade do contrato
+
+@CLT 10-A
+I: O sócio que deixa a sociedade responde subsidiariamente pelas dívidas trabalhistas do período em que foi sócio, apenas em ações ajuizadas até dois anos após averbada a saída, depois da empresa e dos sócios atuais. Se houver fraude na alteração societária, responde solidariamente.
+P: Responsabilidade subsidiária e limitada a dois anos da averbação || Ordem: empresa, sócios atuais, sócios retirantes || Fraude gera responsabilidade solidária
+K: sócio retirante; responsabilidade subsidiária; desconsideração da personalidade jurídica; benefício de ordem
+
+@CLT 11
+I: Fixa a prescrição trabalhista em cinco anos, limitada a dois anos após o fim do contrato, para trabalhadores urbanos e rurais, em harmonia com o art. 7º, XXIX, da Constituição. Ações sobre anotações para fins previdenciários não prescrevem. Para prestações sucessivas decorrentes de alteração do pactuado, a prescrição é total, salvo se a parcela também for prevista em lei. A interrupção ocorre só pelo ajuizamento de reclamação e alcança apenas pedidos idênticos.
+P: Prescrição quinquenal, limitada a dois anos após a extinção do contrato || Prescrição total em alteração do pactuado, salvo direito previsto em lei (§ 2º) || Interrupção só por reclamação trabalhista, para pedidos idênticos (§ 3º)
+K: prescrição trabalhista; prescrição bienal; prescrição quinquenal; prescrição total; interrupção da prescrição
+
+@CLT 11-A
+I: Admite a prescrição intercorrente no processo do trabalho, em dois anos, contados de quando o exequente deixa de cumprir determinação judicial na execução. Pode ser declarada de ofício, em qualquer grau. Segundo a Instrução Normativa nº 41/2018 do TST, aplica-se apenas quando a determinação judicial for posterior a 11/11/2017.
+P: Prazo de dois anos na fase de execução || Começa com o descumprimento de ordem judicial pelo exequente || Declarável de ofício
+K: prescrição intercorrente; execução trabalhista; inércia do exequente; Reforma Trabalhista
+
+@CLT 12
+I: Remete o regime de seguro social (previdência) à legislação especial, hoje a Lei nº 8.212/1991 (custeio) e a Lei nº 8.213/1991 (benefícios).
+P: Previdência fora da CLT || Legislação própria de custeio e benefícios || Interação com anotações da CTPS
+K: seguridade social; previdência social; legislação especial
+
+@CLT 13
+I: Torna obrigatória a Carteira de Trabalho e Previdência Social (CTPS) para qualquer emprego, inclusive rural e temporário, e para o exercício por conta própria de atividade remunerada, estendendo-a ao trabalho em regime de economia familiar. Os modelos são definidos pelo Ministério competente, hoje com prioridade para a carteira digital.
+P: CTPS obrigatória para qualquer emprego || Inclui rural, temporário e economia familiar || Modelo definido pelo Ministério
+K: carteira de trabalho; CTPS; economia familiar; obrigatoriedade
+
+@CLT 14
+I: A CTPS é emitida preferencialmente em meio eletrônico (carteira digital). Em caráter excepcional, pode ser emitida em papel por unidades do Ministério, órgãos conveniados ou cartórios, sem custo para a Administração.
+P: CTPS preferencialmente digital || Emissão física excepcional || Convênios com órgãos públicos e cartórios
+K: CTPS digital; emissão da carteira de trabalho; meio eletrônico
+
+@CLT 15
+I: Os procedimentos de emissão da CTPS são definidos em regulamento do Ministério competente, com prioridade para o formato eletrônico.
+P: Emissão regulamentada pelo Ministério || Prioridade ao formato eletrônico || Parágrafo único revogado
+K: CTPS; regulamento; emissão eletrônica
+
+@CLT 16
+I: A CTPS tem como identificação única do empregado o número do CPF, o que simplifica a emissão e integra os sistemas (como o eSocial). Os antigos requisitos de identificação foram revogados.
+P: CPF é o número da CTPS || Integração com sistemas eletrônicos || Requisitos antigos revogados
+K: CPF; identificação do empregado; CTPS digital; eSocial
+
+@CLT 29
+I: O empregador tem 5 dias úteis para anotar na CTPS a admissão, a remuneração (inclusive gorjetas estimadas) e condições especiais. As anotações são feitas na data-base, a pedido do trabalhador, na rescisão e para fins previdenciários. É proibido fazer anotações desabonadoras, sob multa, e a comunicação do CPF pelo empregado equivale à apresentação da CTPS digital.
+P: Prazo de 5 dias úteis para anotar a admissão || Vedação de anotações desabonadoras (§ 4º) || Falta de anotação gera auto de infração
+K: anotação na CTPS; admissão; registro; anotação desabonadora; prazo de anotação
+
+@CLT 29-A
+I: Fixa multa de R$ 3.000,00 por empregado prejudicado quando o empregador não anota a CTPS nos termos do art. 29, caput e § 1º, dobrando na reincidência; para microempresa e empresa de pequeno porte, R$ 800,00. A infração não se sujeita ao critério da dupla visita.
+P: Multa de R$ 3.000,00 por empregado, ou R$ 800,00 para ME e EPP || Reincidência acresce igual valor || Exceção à dupla visita
+K: multa administrativa; falta de anotação; CTPS; microempresa; dupla visita
+
+@CLT 29-B
+I: Prevê multa de R$ 600,00 por empregado prejudicado quando não forem feitas as anotações periódicas do art. 29, § 2º (data-base, rescisão, a pedido do trabalhador ou para a Previdência).
+P: Multa de R$ 600,00 por empregado || Refere-se às anotações do § 2º do art. 29 || Infração administrativa
+K: multa administrativa; anotações na CTPS; fiscalização do trabalho
+
+@CLT 36
+I: Se o empregador se recusar a anotar ou devolver a CTPS, o empregado pode reclamar pessoalmente ou por seu sindicato perante o órgão regional do Ministério do Trabalho, iniciando o procedimento administrativo de anotação.
+P: Reclamação administrativa por recusa de anotação || Pode ser feita pelo sindicato || Alternativa à via judicial
+K: recusa de anotação; reclamação administrativa; CTPS; sindicato
+
+@CLT 37
+I: Regula o procedimento administrativo da reclamação: diligência, notificação do empregador e designação de data para esclarecimentos ou anotação. Se o empregador não comparecer, é considerado revel e confesso, e as anotações são feitas por despacho da autoridade.
+P: Diligência e notificação do empregador || Revelia e confissão em caso de ausência || Anotação por despacho da autoridade
+K: procedimento administrativo; revelia; anotação da CTPS; fiscalização
+
+@CLT 38
+I: Se o empregador comparece e se recusa a anotar, lavra-se termo de comparecimento e abre-se prazo de 48 horas para defesa, seguindo o processo para julgamento pela autoridade administrativa.
+P: Termo de comparecimento || Prazo de 48 horas para defesa || Julgamento pela autoridade administrativa
+K: defesa administrativa; prazo de 48 horas; anotação da CTPS
+
+@CLT 39
+I: Se o empregador nega a existência de vínculo de emprego, ou não for possível verificá-lo administrativamente, o caso é enviado à Justiça do Trabalho, que, reconhecendo o vínculo, determina as anotações e comunica a autoridade para aplicar multa. Em qualquer processo trabalhista, o juiz deve mandar anotar desde logo o que não for controvertido.
+P: Controvérsia sobre vínculo vai à Justiça do Trabalho || Sentença determina anotação pela Secretaria || Anotação imediata do que não for controvertido (§ 2º)
+K: reconhecimento de vínculo; anotação judicial; Justiça do Trabalho; CTPS
+
+@CLT 40
+I: A CTPS regularmente anotada faz prova em dissídios sobre salário, férias e tempo de serviço e no cálculo de indenização por acidente ou doença profissional. A jurisprudência entende que essa presunção é relativa e admite prova em contrário (Súmula 12 do TST).
+P: CTPS como meio de prova || Presunção relativa (Súmula 12 do TST) || Uso em cálculos de indenização acidentária
+K: valor probatório da CTPS; presunção relativa; prova; Súmula 12 do TST
+
+@CLT 41
+I: Torna obrigatório o registro dos empregados em livros, fichas ou sistema eletrônico, com dados de qualificação, admissão, jornada, férias, acidentes e outras circunstâncias de proteção ao trabalhador. Hoje o registro é feito majoritariamente pelo eSocial.
+P: Registro obrigatório de todos os empregados || Livro, ficha ou sistema eletrônico || Dados mínimos no parágrafo único
+K: registro de empregados; livro de registro; eSocial; ficha de empregado
+
+@CLT 47
+I: Pune com multa de R$ 3.000,00 por empregado não registrado, dobrando na reincidência, o empregador que mantiver empregado sem registro (R$ 800,00 para microempresa e empresa de pequeno porte). Não se aplica a dupla visita.
+P: Multa por empregado sem registro || Valor reduzido para ME e EPP || Exceção à dupla visita
+K: empregado sem registro; multa administrativa; informalidade; dupla visita
+
+@CLT 47-A
+I: Prevê multa de R$ 600,00 por empregado quando não forem informados os dados de registro exigidos no parágrafo único do art. 41.
+P: Multa de R$ 600,00 por empregado || Dados de registro incompletos || Complementa o art. 47
+K: registro de empregados; multa; informações obrigatórias
+
+@CLT 48
+I: Atribui a aplicação das multas da seção às autoridades do Ministério do Trabalho (no DF, primeira instância; nos estados, autoridades regionais). A referência ao Território do Acre reflete a época da redação original.
+P: Competência administrativa para multas || Autoridades regionais do Ministério do Trabalho || Redação histórica
+K: competência administrativa; multas; Ministério do Trabalho
+
+@CLT 49
+I: Considera crime de falsidade, com as penas do art. 299 do Código Penal, falsificar CTPS ou documentos para sua emissão, declarar falsamente dados pessoais, usar documentos falsos, comercializar CTPS adulterada ou anotar dolosamente data de admissão diversa da verdadeira.
+P: Falsidade relativa à CTPS é crime || Penas do art. 299 do Código Penal || Inclui anotar data de admissão falsa
+K: falsificação de CTPS; falsidade ideológica; crime; art. 299 do Código Penal
+
+@CLT 50
+I: Comprovada falsidade nas declarações ou anotações da CTPS, o fato deve ser comunicado à autoridade emissora para as providências legais.
+P: Comunicação da falsidade à autoridade emissora || Complementa o art. 49 || Providências administrativas e penais
+K: falsidade; CTPS; comunicação à autoridade
+
+@CLT 51
+I: Prevê multa para quem vender ou expuser à venda carteira igual ou semelhante ao modelo oficial. O valor foi fixado em salários mínimos regionais, referência histórica hoje atualizada pela legislação de multas administrativas.
+P: Proibida a venda de carteiras semelhantes à oficial || Multa administrativa || Valores em referência histórica
+K: comércio de CTPS; multa; carteira falsa
+
+@CLT 52
+I: Se a CTPS for extraviada ou inutilizada por culpa da empresa, esta paga multa administrativa, sem prejuízo da reparação ao empregado.
+P: Responsabilidade da empresa pelo extravio da CTPS || Multa administrativa || Possível reparação civil ao empregado
+K: extravio da CTPS; multa; responsabilidade do empregador
+
+@CLT 55
+I: Prevê multa para a empresa que descumprir o art. 13 (obrigatoriedade da CTPS para o emprego).
+P: Multa por descumprir a obrigatoriedade da CTPS || Remete ao art. 13 || Infração administrativa
+K: CTPS; multa; obrigatoriedade
+
+@CLT 57
+I: Os preceitos sobre duração do trabalho aplicam-se a todas as atividades, salvo exclusões expressas; as regras especiais de certas profissões (Título III, Capítulo I) prevalecem quando tratam de suas peculiaridades.
+P: Regra geral de duração do trabalho || Profissões com regras especiais (bancários, telefonistas etc.) || Especial prevalece sobre o geral
+K: duração do trabalho; jornada; regras especiais; profissões regulamentadas
+
+@CLT 58
+I: Fixa a jornada normal em até 8 horas diárias, salvo outro limite expresso; a Constituição (art. 7º, XIII) também limita a duração semanal. Variações de até cinco minutos no ponto, no limite de dez minutos por dia, não são descontadas nem contadas como extras (Súmula 366 do TST). Desde a Reforma Trabalhista, o tempo de deslocamento casa-trabalho, mesmo em transporte do empregador, não conta como jornada (fim das horas in itinere).
+P: Jornada normal de até 8 horas diárias || Tolerância de 5 minutos por marcação, até 10 por dia (§ 1º) || Deslocamento não conta como jornada (§ 2º)
+K: jornada de trabalho; oito horas; minutos residuais; horas in itinere; deslocamento
+
+@CLT 58-A
+I: Define o regime de tempo parcial: até 30 horas semanais sem horas suplementares, ou até 26 horas com até 6 horas extras semanais, pagas com adicional de 50%. O salário é proporcional à jornada dos que trabalham em tempo integral nas mesmas funções, e a adoção para atuais empregados depende de negociação coletiva. As horas extras podem ser compensadas na semana seguinte.
+P: Até 30 h sem extras ou até 26 h com até 6 h extras || Salário proporcional à jornada || Férias pelas regras gerais (art. 130), conforme a Reforma
+K: tempo parcial; jornada reduzida; horas suplementares; salário proporcional
+
+@CLT 59
+I: Permite até duas horas extras por dia, por acordo individual ou norma coletiva, com adicional mínimo de 50%. Admite compensação anual por norma coletiva (até 10 horas diárias), banco de horas semestral por acordo individual escrito e compensação no mesmo mês por acordo individual tácito ou escrito. Na rescisão, as horas não compensadas devem ser pagas.
+P: Até 2 horas extras diárias com adicional de 50% || Banco de horas: anual por norma coletiva, semestral por acordo individual escrito || Compensação mensal por acordo tácito ou escrito (§ 6º)
+K: horas extras; adicional de horas extras; banco de horas; compensação de jornada; acordo individual
+
+@CLT 59-A
+I: Permite a jornada 12x36 (doze horas de trabalho por trinta e seis de descanso) por acordo individual escrito ou norma coletiva, com intervalos observados ou indenizados. A remuneração mensal já abrange o repouso semanal e os feriados, e consideram-se compensados os feriados e a prorrogação do trabalho noturno.
+P: Jornada 12x36 por acordo individual escrito ou coletivo || Intervalos observados ou indenizados || Remuneração abrange descanso semanal e feriados
+K: jornada 12x36; escala de revezamento; acordo individual; feriados
+
+@CLT 59-B
+I: O descumprimento das exigências formais da compensação de jornada, mesmo em acordo tácito, não gera pagamento integral das horas excedentes se a duração semanal máxima for respeitada; deve-se apenas o adicional. Horas extras habituais não descaracterizam o acordo de compensação nem o banco de horas, em sentido diverso do entendimento antigo da Súmula 85, IV, do TST.
+P: Irregularidade formal gera apenas o adicional || Horas extras habituais não invalidam a compensação || Altera o entendimento anterior da Súmula 85
+K: compensação de jornada; acordo tácito; adicional de horas extras; banco de horas; Súmula 85
+
+@CLT 60
+I: Em atividades insalubres, a prorrogação de jornada depende de licença prévia da autoridade de higiene do trabalho, após inspeção. A Reforma excetuou a jornada 12x36. O art. 611-A, XIII, também permite à norma coletiva dispensar a licença.
+P: Prorrogação em ambiente insalubre exige licença prévia || Exceção para a jornada 12x36 || Norma coletiva pode dispensar a licença (art. 611-A, XIII)
+K: atividade insalubre; prorrogação de jornada; licença prévia; segurança do trabalho
+
+@CLT 61
+I: Em necessidade imperiosa (força maior, serviços inadiáveis ou cuja inexecução cause prejuízo manifesto), a jornada pode exceder o limite legal, independentemente de norma coletiva. Na força maior, a hora excedente não pode ser inferior à normal; nos demais casos, há adicional mínimo de 25% e limite de 12 horas, conforme o texto. Interrupções por causas acidentais permitem recuperação de até 2 horas diárias, por até 45 dias por ano, com autorização.
+P: Prorrogação em força maior ou serviço inadiável || Dispensa norma coletiva (§ 1º) || Recuperação de horas por interrupção: até 2 h/dia e 45 dias/ano (§ 3º)
+K: necessidade imperiosa; força maior; serviços inadiáveis; prorrogação de jornada; recuperação de horas
+
+@CLT 62
+I: Exclui do controle de jornada (e, portanto, das horas extras) os empregados em atividade externa incompatível com horário fixo, anotada na CTPS; os gerentes com cargo de gestão (se a gratificação de função for de ao menos 40% do salário efetivo); e os empregados em teletrabalho por produção ou tarefa. A jurisprudência exige que a impossibilidade de controle seja real.
+P: Atividade externa incompatível com controle de horário || Cargo de gestão com gratificação de 40% ou mais || Teletrabalho por produção ou tarefa (inciso III)
+K: cargo de confiança; gerente; atividade externa; teletrabalho; controle de jornada; horas extras
+
+@CLT 63
+I: A participação em lucros ou comissões não exclui o empregado do regime de duração do trabalho, salvo lucros de caráter social. Assim, receber comissões não afasta o direito à limitação de jornada e às horas extras.
+P: Comissionado tem direito à limitação de jornada || Participação em lucros não afasta o regime || Exceção: lucros de caráter social
+K: comissões; participação nos lucros; duração do trabalho; comissionista

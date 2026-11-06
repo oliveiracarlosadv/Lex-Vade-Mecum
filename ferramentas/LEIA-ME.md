@@ -46,10 +46,10 @@ Para cada norma em `fontes/<lei>/config.json`:
 
 | Arquivo | Conteúdo |
 | --- | --- |
-| `config.json` | Nome, link oficial, arquivo de saída, marcadores de início e fim do texto e mínimo de artigos esperado |
+| `config.json` | Nome, link oficial, arquivo de saída, marcadores de início e fim do texto e mínimo de artigos esperado. Opção `descartar_vigencia_encerrada: true` (usada na CLT): omite redações tachadas de medidas provisórias com "(Vigência encerrada)" quando há redação em vigor do mesmo artigo; se todas estiverem tachadas, mantém a última |
 | `texto-oficial.txt` | Último texto oficial extraído (já com as marcações de tachado) |
 | `unidades.json` | Texto de cada artigo na última conferência (base da comparação) |
-| `anotacoes.txt` | Interpretação, pontos importantes e palavras-chave de cada artigo |
+| `anotacoes*.txt` | Interpretação, pontos importantes e palavras-chave de cada artigo. Leis grandes podem dividir as anotações em vários arquivos (`anotacoes-01.txt`, `anotacoes-02.txt`…); todos são lidos em ordem alfabética |
 | `abertura.md` / `fechamento.md` | Seções analíticas antes e depois do Texto Estruturado |
 | `pendentes.json` | Artigos com análise pendente de revisão |
 | `CHANGELOG.md` | Histórico de alterações detectadas no texto oficial |
@@ -57,6 +57,7 @@ Para cada norma em `fontes/<lei>/config.json`:
 ## Outros scripts
 
 - `lexbuild.py`: monta o Markdown (texto oficial + análises + remissões e alterações extraídas do próprio texto).
+- `extrair-planalto.js`: roda na página do Planalto (navegador). Mantém tachado o caput de artigo revogado quando a nota de revogação está em parágrafo separado e não existe redação vigente do mesmo artigo (casos como os arts. 88, 287, 375 e 387 da CLT).
 - `validate.py`: confere artigo por artigo o texto publicado contra o extraído.
 - `estrutura2.py`: gera o quadro estrutural (Partes, Livros, Títulos, Capítulos).
 

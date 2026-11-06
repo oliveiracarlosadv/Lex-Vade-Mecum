@@ -1,0 +1,249 @@
+@CLT 253
+I: Quem trabalha no interior de câmaras frigoríficas ou movimenta mercadorias entre ambientes quente e frio tem direito a 20 minutos de repouso após 1h40 de trabalho contínuo, computados como trabalho efetivo. O frio artificial é definido por zona climática (abaixo de 15 °C, 12 °C ou 10 °C). A Súmula 438 do TST estende a pausa a quem trabalha em ambiente artificialmente frio, mesmo fora de câmara frigorífica.
+P: Pausa de 20 minutos a cada 1h40 em ambiente frio || Pausa computada na jornada || Extensão a ambientes artificialmente frios (Súmula 438 do TST)
+K: câmara frigorífica; pausa térmica; ambiente artificialmente frio; Súmula 438
+
+@CLT 293
+I: A jornada normal dos empregados em minas de subsolo é de no máximo 6 horas diárias ou 36 semanais, em razão das condições penosas e insalubres.
+P: Jornada de 6 horas diárias ou 36 semanais || Proteção pela penosidade do trabalho || Regra especial para mineiros
+K: mineiro; minas de subsolo; jornada especial
+
+@CLT 294
+I: O tempo gasto pelo mineiro entre a boca da mina e o local de trabalho, na ida e na volta, conta para pagamento do salário.
+P: Deslocamento interno na mina é remunerado || Da boca da mina ao local de trabalho || Exceção à regra geral do art. 58, § 2º
+K: mineiro; deslocamento; tempo à disposição
+
+@CLT 295
+I: A jornada no subsolo pode ser elevada até 8 horas diárias (o texto fala em 48 semanais, limite que deve respeitar o teto constitucional) por acordo escrito ou norma coletiva, com licença prévia da autoridade de higiene do trabalho, que também pode reduzi-la abaixo de 6 horas por insalubridade.
+P: Prorrogação até 8 horas com acordo e licença prévia || Limite semanal subordinado à Constituição || Autoridade pode reduzir a jornada
+K: mineiro; prorrogação; licença prévia; insalubridade
+
+@CLT 296
+I: A hora prorrogada do mineiro deve ter acréscimo mínimo de 25%, previsto no acordo; prevalece, porém, o adicional constitucional mínimo de 50% (CF, art. 7º, XVI).
+P: Adicional de horas extras previsto no acordo || Mínimo constitucional de 50% prevalece || Regra histórica de 25%
+K: mineiro; horas extras; adicional
+
+@CLT 297
+I: As empresas de mineração devem fornecer ao empregado de subsolo alimentação adequada à natureza do trabalho, conforme instruções oficiais.
+P: Alimentação adequada obrigatória || Dever da empresa mineradora || Padrões definidos por órgão oficial
+K: mineiro; alimentação; dever do empregador
+
+@CLT 298
+I: No subsolo, a cada 3 horas consecutivas de trabalho é obrigatória pausa de 15 minutos, computada na jornada.
+P: Pausa de 15 minutos a cada 3 horas || Computada como trabalho efetivo || Proteção contra fadiga
+K: mineiro; pausa; intervalo especial
+
+@CLT 299
+I: Ocorrências no subsolo que possam comprometer a vida ou a saúde do empregado devem ser comunicadas imediatamente à autoridade regional do trabalho.
+P: Comunicação imediata de riscos graves || Dever da empresa || Prevenção de acidentes em minas
+K: mineração; comunicação de acidente; segurança
+
+@CLT 300
+I: Se a autoridade de saúde e segurança entender necessária, por motivo de saúde, a transferência do empregado do subsolo para a superfície, a empresa deve fazê-la, garantindo a remuneração do trabalhador de superfície em serviço equivalente. Havendo recusa do empregado, decide a autoridade.
+P: Transferência obrigatória por motivo de saúde || Remuneração equivalente à da superfície || Recusa decidida pela autoridade
+K: mineiro; transferência; saúde do trabalhador
+
+@CLT 301
+I: Restringe o trabalho no subsolo a homens de 21 a 50 anos. A restrição por sexo deve ser lida à luz da Constituição, que proíbe discriminação (arts. 5º, I, e 7º, XXX), e a doutrina e a jurisprudência tendem a considerá-la incompatível; a idade mínima protege a saúde.
+P: Limites de idade para o subsolo || Restrição por sexo questionada à luz da Constituição || Transferência à superfície garantida
+K: minas de subsolo; idade; igualdade de gênero; discriminação
+
+@CLT 302
+I: Aplica as regras da seção aos jornalistas, revisores, fotógrafos e ilustradores de empresas jornalísticas, definindo jornalista como o trabalhador intelectual da busca de informações à redação e direção, e empresa jornalística como a que edita periódicos, distribui notícias ou faz radiodifusão jornalística. A profissão também é regulada pelo Decreto-Lei nº 972/1969, e o STF dispensou o diploma para exercê-la (RE 511.961).
+P: Abrangência: jornalistas, revisores, fotógrafos e ilustradores || Conceito de empresa jornalística || Diploma não exigido (STF, RE 511.961)
+K: jornalista; empresa jornalística; radiodifusão; diploma de jornalismo
+
+@CLT 303
+I: A jornada normal dos jornalistas é de no máximo 5 horas, de dia ou à noite.
+P: Jornada de 5 horas || Vale para trabalho diurno e noturno || Regra especial da categoria
+K: jornalista; jornada especial; cinco horas
+
+@CLT 304
+I: A jornada do jornalista pode ser elevada a 7 horas por acordo escrito com aumento salarial proporcional e intervalo para repouso ou refeição; por força maior pode ir além, com comunicação à fiscalização em 5 dias.
+P: Elevação a 7 horas por acordo escrito com aumento salarial || Força maior, com comunicação em 5 dias || Intervalo obrigatório
+K: jornalista; prorrogação; acordo escrito; força maior
+
+@CLT 305
+I: As horas extras do jornalista não podem ser pagas abaixo do valor-hora (salário mensal ÷ 150, ou diário ÷ 5) acrescido de 25%; prevalece o adicional constitucional mínimo de 50%.
+P: Divisor 150 para mensalistas || Adicional mínimo constitucional de 50% || Base de cálculo das horas extras
+K: jornalista; horas extras; divisor 150
+
+@CLT 306
+I: Exclui da jornada especial os cargos de chefia (redator-chefe, secretário, chefes de revisão, oficina, ilustração e portaria) e os que trabalham só em serviços externos.
+P: Chefias excluídas da jornada de 5 horas || Serviços externos também excluídos || Interpretação restritiva das exceções
+K: jornalista; cargo de chefia; serviço externo
+
+@CLT 307
+I: A cada 6 dias de trabalho, o jornalista tem um dia de descanso obrigatório, em regra aos domingos, salvo acordo escrito indicando outro dia.
+P: Descanso após 6 dias de trabalho || Preferencialmente aos domingos || Outro dia por acordo escrito
+K: jornalista; descanso semanal
+
+@CLT 308
+I: Após cada jornada, o jornalista tem intervalo mínimo de 10 horas de repouso.
+P: Intervalo interjornada de 10 horas || Regra especial da categoria || Proteção contra fadiga
+K: jornalista; intervalo interjornada
+
+@CLT 309
+I: Conta como trabalho efetivo do jornalista todo o tempo à disposição do empregador.
+P: Tempo à disposição é jornada || Aplica-se à rotina de plantões || Reforça o art. 4º
+K: jornalista; tempo à disposição
+
+@CLT 311
+I: Lista documentos para o registro profissional do jornalista (nacionalidade, folha corrida, ausência de condenação por crime contra a segurança nacional, CTPS). O registro hoje segue o Decreto-Lei nº 972/1969 e seus regulamentos, e requisitos como a nacionalidade devem ser lidos à luz da Constituição.
+P: Requisitos históricos do registro || Regime atual no Decreto-Lei nº 972/1969 || Prazo de 60 dias para apresentar a CTPS
+K: jornalista; registro profissional; requisitos
+
+@CLT 312
+I: Regula o registro dos diretores-proprietários de jornais, com prova de profissão por certidão da Junta Comercial ou cartório, e emissão de certificado.
+P: Registro de diretores-proprietários || Prova por certidão || Norma histórica
+K: diretor-proprietário; jornal; registro
+
+@CLT 313
+I: Permite a inscrição, em registro especial, de quem exerce atividade jornalística sem caráter profissional, para fins culturais, científicos ou religiosos, mediante prova idônea.
+P: Registro especial de jornalismo não profissional || Fins culturais, científicos ou religiosos || Apreciação pelo Ministério
+K: jornalismo não profissional; registro especial
+
+@CLT 315
+I: Prevê que o Governo Federal, com os estados, promova a criação de escolas de formação de jornalistas. Norma programática de caráter histórico.
+P: Formação profissional em jornalismo || Cooperação federativa || Norma programática
+K: jornalismo; ensino; formação profissional
+
+@CLT 316
+I: A empresa jornalística que não pagar pontualmente os salários pode ter o funcionamento suspenso até o pagamento, mediante reclamação dos prejudicados e condenação não cumprida; a mesma pena vale para quem não recolher contribuições previdenciárias. A aplicação deve ser compatibilizada com a liberdade de imprensa (CF, art. 220).
+P: Suspensão da empresa por atraso salarial || Depende de reclamação e condenação descumprida || Compatibilização com a liberdade de imprensa
+K: empresa jornalística; atraso salarial; suspensão; liberdade de imprensa
+
+@CLT 317
+I: O exercício remunerado do magistério em escolas particulares exige habilitação legal e registro no Ministério da Educação, nos termos da legislação educacional (LDB).
+P: Habilitação legal para lecionar || Registro conforme normas da Educação || Escolas particulares
+K: professor; magistério; habilitação
+
+@CLT 318
+I: O professor pode lecionar em mais de um turno no mesmo estabelecimento, desde que respeite a jornada semanal legal, com intervalo para refeição assegurado e não computado (redação da Lei nº 13.415/2017, que acabou com o limite de 4 aulas consecutivas ou 6 intercaladas).
+P: Mais de um turno no mesmo estabelecimento || Respeito à jornada semanal legal || Intervalo de refeição garantido e não computado
+K: professor; jornada; turnos; Lei 13.415/2017
+
+@CLT 319
+I: É vedado aos professores reger aulas ou trabalhar em exames aos domingos.
+P: Proibição de aulas aos domingos || Inclui exames || Descanso semanal do professor
+K: professor; domingo; descanso
+
+@CLT 320
+I: A remuneração do professor é fixada pelo número de aulas semanais, paga mensalmente considerando 4,5 semanas por mês; faltas são descontadas, exceto por 9 dias em casamento ou luto (cônjuge, pais ou filho). O repouso semanal é acrescido conforme a Súmula 351 do TST.
+P: Salário por aulas semanais × 4,5 semanas || Faltas descontadas, salvo gala ou luto por 9 dias || Repouso semanal remunerado acrescido (Súmula 351)
+K: professor; remuneração; hora-aula; gala; luto
+
+@CLT 321
+I: Se a escola aumentar o número de aulas previsto no horário, deve pagar ao professor as aulas excedentes ao fim de cada mês.
+P: Aulas excedentes são remuneradas || Pagamento mensal || Proteção contra aumento de carga sem pagamento
+K: professor; aulas excedentes; remuneração
+
+@CLT 322
+I: Nas férias escolares e no período de exames, o professor recebe a mesma remuneração do período letivo; nos exames, não pode ser exigido mais de 8 horas diárias sem pagamento adicional, e nas férias só serviço ligado a exames. Dispensado sem justa causa ao fim do ano letivo ou nas férias, recebe a remuneração das férias escolares (Súmula 10 do TST).
+P: Remuneração garantida nas férias escolares || Limite de 8 horas no período de exames || Dispensa no fim do ano letivo não afasta o pagamento (§ 3º e Súmula 10)
+K: professor; férias escolares; exames; dispensa; Súmula 10 do TST
+
+@CLT 323
+I: Proíbe o funcionamento de escola particular que não remunere condignamente seus professores ou atrase salários, cabendo ao Ministério da Educação definir critérios.
+P: Remuneração condigna e pontual obrigatória || Sanção de funcionamento || Critérios pelo Ministério da Educação
+K: professor; remuneração condigna; escola particular
+
+@CLT 325
+I: Garante o livre exercício da profissão de químico a diplomados no Brasil, a diplomados no exterior com revalidação e a quem já exercia a função em 1934. A profissão também é regulada pela Lei nº 2.800/1956, que criou os Conselhos de Química.
+P: Requisitos para exercer a química || Revalidação de diploma estrangeiro || Regulamentação complementar pela Lei nº 2.800/1956
+K: químico; exercício profissional; diploma; Conselho de Química
+
+@CLT 326
+I: Exige do químico carteira profissional e registro do diploma, com documentos como nacionalidade, direitos civis e diploma. Atualmente, o registro é feito no Conselho Regional de Química.
+P: Registro do diploma obrigatório || Carteira profissional || Hoje a cargo do Conselho Regional de Química
+K: químico; registro profissional; carteira
+
+@CLT 327
+I: Previa taxa para registro do diploma de químico, em moeda antiga; norma de caráter histórico.
+P: Taxa de registro histórica || Valor em cruzeiros || Substituída pelas anuidades e taxas dos conselhos
+K: químico; taxa; registro
+
+@CLT 328
+I: Só se registram diplomas e títulos em devida forma, com firma reconhecida e, se estrangeiros, legalizados e traduzidos; a fiscalização publica a lista de químicos registrados.
+P: Requisitos formais dos documentos || Tradução de diplomas estrangeiros || Publicidade da lista de registrados
+K: químico; diploma; tradução; registro
+
+@CLT 329
+I: Descreve a carteira profissional do químico, com foto, impressão digital e dados pessoais e acadêmicos, emitida pelo órgão do trabalho. Norma hoje substituída pelos documentos do Conselho de Química.
+P: Conteúdo da carteira do químico || Emissão histórica pelo Ministério || Hoje emitida pelo conselho profissional
+K: químico; carteira profissional
+
+@CLT 330
+I: A carteira profissional de químico é obrigatória para o exercício, substitui o diploma e vale como identidade.
+P: Carteira obrigatória para exercer || Substitui o diploma || Vale como documento de identidade
+K: químico; carteira profissional; identidade
+
+@CLT 331
+I: Impostos relativos ao exercício profissional de químico, concursos periciais e atos oficiais que exijam capacidade técnica dependem da prova de registro do profissional.
+P: Prova de registro para atos oficiais || Concursos periciais exigem registro || Controle do exercício profissional
+K: químico; registro; perícia
+
+@CLT 332
+I: Quem se anuncia como químico sem registro sujeita-se às penas do exercício ilegal da profissão (Lei de Contravenções Penais, art. 47).
+P: Anúncio sem registro é exercício ilegal || Penalidades legais || Proteção da sociedade
+K: exercício ilegal da profissão; químico; anúncio
+
+@CLT 333
+I: Os químicos só podem exercer legalmente após cumprir as exigências de registro do art. 330.
+P: Registro é condição para o exercício || Remete ao art. 330 || Controle profissional
+K: químico; habilitação; registro
+
+@CLT 334
+I: Define as atividades do químico: fabricação de produtos químicos, análises, pareceres, perícias, direção de laboratórios, magistério de química e engenharia química, sendo esta privativa dos engenheiros químicos.
+P: Atribuições da profissão de químico || Engenharia química privativa dos engenheiros químicos || Inclui perícias e laudos
+K: químico; atribuições; engenharia química; perícia
+
+@CLT 335
+I: Torna obrigatória a admissão de químicos em indústrias de produtos químicos, que mantenham laboratório de controle ou que fabriquem produtos por reações químicas (cimento, açúcar e álcool, vidro, curtume, plásticos, explosivos, derivados de petróleo, sabão, celulose).
+P: Contratação obrigatória de químico em certas indústrias || Rol de atividades industriais || Controle técnico da produção
+K: químico; indústria química; contratação obrigatória
+
+@CLT 336
+I: Para cargos públicos que exigem a qualidade de químico, os candidatos devem cumprir as exigências de registro do art. 333.
+P: Registro exigido em concursos públicos || Requisito essencial || Ressalva das especializações
+K: químico; cargo público; concurso
+
+@CLT 337
+I: Certificados, pareceres, laudos e projetos químicos assinados por profissionais habilitados fazem fé pública.
+P: Fé pública dos laudos químicos || Exige profissional habilitado || Valor probatório
+K: químico; laudo; fé pública
+
+@CLT 338
+I: Químicos habilitados podem lecionar sua especialidade em escolas superiores e têm preferência, em igualdade de condições, em concursos públicos.
+P: Magistério superior em química || Preferência em concursos, em igualdade de condições || Requisito de habilitação
+K: químico; magistério; concurso; preferência
+
+@CLT 339
+I: O nome do químico responsável pela fabricação deve constar em rótulos, faturas e anúncios dos produtos da fábrica ou laboratório.
+P: Identificação do responsável técnico || Rótulos, faturas e anúncios || Transparência e responsabilidade
+K: químico; responsável técnico; rótulo
+
+@CLT 340
+I: Só químicos habilitados podem ser nomeados de ofício para perícias em fábricas, laboratórios e usinas, exceto produtos e laboratórios farmacêuticos.
+P: Perícia química por profissional habilitado || Exceção para farmacêuticos || Nomeação de ofício
+K: químico; perícia; laboratório farmacêutico
+
+@CLT 341
+I: Cabe aos químicos habilitados executar todos os serviços que, por natureza, exijam conhecimento de química, mesmo não especificados na lei.
+P: Cláusula aberta de atribuições || Conhecimento de química como critério || Profissional habilitado
+K: químico; atribuições; serviços técnicos
+
+@CLT 342
+I: Atribuía a fiscalização do exercício da química ao Ministério do Trabalho; hoje cabe aos Conselhos Federal e Regionais de Química (Lei nº 2.800/1956).
+P: Fiscalização histórica pelo Ministério do Trabalho || Hoje pelos Conselhos de Química || Controle do exercício profissional
+K: químico; fiscalização; Conselho de Química
+
+@CLT 343
+I: Lista as atribuições dos órgãos de fiscalização: examinar documentos e registrar profissionais, registrar contratos e verificar o cumprimento da seção, inclusive examinando livros e documentos das empresas.
+P: Exame de documentos e registro || Registro de contratos || Verificação nas empresas
+K: fiscalização; químico; registro; contratos
+
+@CLT 344
+I: Os sindicatos de químicos podem auxiliar a fiscalização na verificação do cumprimento das regras da seção.
+P: Colaboração sindical na fiscalização || Sindicatos reconhecidos || Apoio ao controle profissional
+K: sindicato; químico; fiscalização

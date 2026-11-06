@@ -1,0 +1,924 @@
+@CLT 17
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 17; da emissão da carteira
+
+@CLT 18
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-lei nº 926, de 10.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 18; da emissão da carteira
+
+@CLT 19
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 19; da emissão da carteira
+
+@CLT 20
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 20; da emissão da carteira
+
+@CLT 21
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 21; da emissão da carteira
+
+@CLT 22
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 926, de 10.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 22; da emissão da carteira
+
+@CLT 23
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 926, de 10.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 23; da emissão da carteira
+
+@CLT 24
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 926, de 10.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 24; da emissão da carteira
+
+@CLT 25
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 25; da entrega das carteiras de trabalho e previdência social
+
+@CLT 26
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 26; da entrega das carteiras de trabalho e previdência social
+
+@CLT 27
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 27; da entrega das carteiras de trabalho e previdência social
+
+@CLT 28
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 28; da entrega das carteiras de trabalho e previdência social
+
+@CLT 30
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 30; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 31
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 31; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 32
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 32; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 33
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 33; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 34
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 34; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 35
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.533, de 24.5.1978). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.533, de 24.5.1978 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 35; das anotações anotações na carteira de trabalho e previdência social
+
+@CLT 42
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 10.243, de 19.6.2001). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 10.243, de 19.6.2001 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 42; dos livros de registro de empregados
+
+@CLT 43
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 43; dos livros de registro de empregados
+
+@CLT 44
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 44; dos livros de registro de empregados
+
+@CLT 45
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 45; dos livros de registro de empregados
+
+@CLT 46
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 46; dos livros de registro de empregados
+
+@CLT 53
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 53; das penalidades
+
+@CLT 54
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 54; das penalidades
+
+@CLT 56
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 56; das penalidades
+
+@CLT 77
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 77; do conceito
+
+@CLT 79
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 79; do conceito
+
+@CLT 80
+I: Dispositivo integralmente revogado (Revogado pela Lei 10.097, de 2000). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei 10.097, de 2000 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 80; do conceito
+
+@CLT 84
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 84; das regiões, zonas e subzonas
+
+@CLT 85
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 85; das regiões, zonas e subzonas
+
+@CLT 86
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 86; das regiões, zonas e subzonas
+
+@CLT 87
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 87; da constituição das comissões
+
+@CLT 88
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 88; da constituição das comissões
+
+@CLT 89
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 89; da constituição das comissões
+
+@CLT 90
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 90; da constituição das comissões
+
+@CLT 91
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 91; da constituição das comissões
+
+@CLT 92
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 92; da constituição das comissões
+
+@CLT 93
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 93; da constituição das comissões
+
+@CLT 94
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 94; da constituição das comissões
+
+@CLT 95
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 95; da constituição das comissões
+
+@CLT 96
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 96; da constituição das comissões
+
+@CLT 97
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 97; da constituição das comissões
+
+@CLT 98
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 98; da constituição das comissões
+
+@CLT 99
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 99; da constituição das comissões
+
+@CLT 100
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 100; da constituição das comissões
+
+@CLT 101
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 101; das atribuições das comissões de salário mínimo
+
+@CLT 102
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 102; das atribuições das comissões de salário mínimo
+
+@CLT 103
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 103; das atribuições das comissões de salário mínimo
+
+@CLT 104
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 104; das atribuições das comissões de salário mínimo
+
+@CLT 105
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 105; das atribuições das comissões de salário mínimo
+
+@CLT 106
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 106; das atribuições das comissões de salário mínimo
+
+@CLT 107
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 107; das atribuições das comissões de salário mínimo
+
+@CLT 108
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 108; das atribuições das comissões de salário mínimo
+
+@CLT 109
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 109; das atribuições das comissões de salário mínimo
+
+@CLT 110
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 110; das atribuições das comissões de salário mínimo
+
+@CLT 111
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 111; das atribuições das comissões de salário mínimo
+
+@CLT 112
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 112; da fixação do salário mínimo
+
+@CLT 113
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 113; da fixação do salário mínimo
+
+@CLT 114
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 114; da fixação do salário mínimo
+
+@CLT 115
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 115; da fixação do salário mínimo
+
+@CLT 116
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 116; da fixação do salário mínimo
+
+@CLT 121
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 121; disposições gerais
+
+@CLT 122
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 122; disposições gerais
+
+@CLT 123
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 123; disposições gerais
+
+@CLT 125
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 125; disposições gerais
+
+@CLT 127
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 127; disposições gerais
+
+@CLT 128
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 128; disposições gerais
+
+@CLT 141
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 141; das férias coletivas
+
+@CLT 202
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 202; das penalidades atualização do valor das multas
+
+@CLT 203
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 203; das penalidades atualização do valor das multas
+
+@CLT 204
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 204; das penalidades atualização do valor das multas
+
+@CLT 205
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 205; das penalidades atualização do valor das multas
+
+@CLT 206
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 206; das penalidades atualização do valor das multas
+
+@CLT 207
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 207; das penalidades atualização do valor das multas
+
+@CLT 208
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 208; das penalidades atualização do valor das multas
+
+@CLT 209
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 209; das penalidades atualização do valor das multas
+
+@CLT 210
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 210; das penalidades atualização do valor das multas
+
+@CLT 211
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 211; das penalidades atualização do valor das multas
+
+@CLT 212
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 212; das penalidades atualização do valor das multas
+
+@CLT 213
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 213; das penalidades atualização do valor das multas
+
+@CLT 214
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 214; das penalidades atualização do valor das multas
+
+@CLT 215
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 215; das penalidades atualização do valor das multas
+
+@CLT 216
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 216; das penalidades atualização do valor das multas
+
+@CLT 217
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 217; das penalidades atualização do valor das multas
+
+@CLT 218
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 218; das penalidades atualização do valor das multas
+
+@CLT 219
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 219; das penalidades atualização do valor das multas
+
+@CLT 220
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 220; das penalidades atualização do valor das multas
+
+@CLT 221
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 221; das penalidades atualização do valor das multas
+
+@CLT 222
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 222; das penalidades atualização do valor das multas
+
+@CLT 223
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.514, de 22.12.1977 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 223; das penalidades atualização do valor das multas
+
+@CLT 235-H
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 235-H; do serviço do motorista profissional empregado
+
+@CLT 254
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 254; dos serviços de estiva
+
+@CLT 255
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 255; dos serviços de estiva
+
+@CLT 256
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 256; dos serviços de estiva
+
+@CLT 257
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 257; dos serviços de estiva
+
+@CLT 258
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 258; dos serviços de estiva
+
+@CLT 259
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 259; dos serviços de estiva
+
+@CLT 260
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 260; dos serviços de estiva
+
+@CLT 261
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 261; dos serviços de estiva
+
+@CLT 262
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 262; dos serviços de estiva
+
+@CLT 263
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 263; dos serviços de estiva
+
+@CLT 264
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 2.872, de 18.9.1956). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 2.872, de 18.9.1956 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 264; dos serviços de estiva
+
+@CLT 265
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 265; dos serviços de estiva
+
+@CLT 266
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 266; dos serviços de estiva
+
+@CLT 267
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 267; dos serviços de estiva
+
+@CLT 268
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 268; dos serviços de estiva
+
+@CLT 269
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 269; dos serviços de estiva
+
+@CLT 270
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 270; dos serviços de estiva
+
+@CLT 271
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 271; dos serviços de estiva
+
+@CLT 272
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 272; dos serviços de estiva
+
+@CLT 273
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 273; dos serviços de estiva
+
+@CLT 274
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 274; dos serviços de estiva
+
+@CLT 275
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 275; dos serviços de estiva
+
+@CLT 276
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 276; dos serviços de estiva
+
+@CLT 277
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 277; dos serviços de estiva
+
+@CLT 278
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 278; dos serviços de estiva
+
+@CLT 279
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 279; dos serviços de estiva
+
+@CLT 280
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 280; dos serviços de estiva
+
+@CLT 281
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 281; dos serviços de estiva
+
+@CLT 282
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 282; dos serviços de estiva
+
+@CLT 283
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 283; dos serviços de estiva
+
+@CLT 284
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 284; dos serviços de estiva
+
+@CLT 285
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 285; dos serviços de estiva
+
+@CLT 286
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 286; dos serviços de estiva
+
+@CLT 287
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 287; dos serviços de estiva
+
+@CLT 288
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 288; dos serviços de estiva
+
+@CLT 289
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 289; dos serviços de estiva
+
+@CLT 290
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 290; dos serviços de estiva
+
+@CLT 291
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 291; dos serviços de estiva
+
+@CLT 292
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 8.630, de 25.2.1993 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 292; dos serviços de estiva
+
+@CLT 310
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 972, de 17.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 972, de 17.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 310; dos jornalistas profissionais
+
+@CLT 314
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 972, de 17.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 972, de 17.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 314; dos jornalistas profissionais
+
+@CLT 324
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 324; dos professores
+
+@CLT 374
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 374; da duração, condições do trabalho e da discriminação contra a mulher
+
+@CLT 375
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 375; da duração, condições do trabalho e da discriminação contra a mulher
+
+@CLT 376
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 10.244, de 2001). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 10.244, de 2001 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 376; da duração, condições do trabalho e da discriminação contra a mulher
+
+@CLT 378
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 378; da duração, condições do trabalho e da discriminação contra a mulher
+
+@CLT 379
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 379; do trabalho noturno ii - ~~em serviço de saúde e bem-estar; (redação dada pelo decreto-lei nº 744, de 1969)~~
+
+@CLT 380
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 380; do trabalho noturno ii - ~~em serviço de saúde e bem-estar; (redação dada pelo decreto-lei nº 744, de 1969)~~
+
+@CLT 384
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 384; dos períodos de descanso
+
+@CLT 387
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 387; dos métodos e locais de trabalho
+
+@CLT 390-A
+I: Dispositivo vetado: o texto aprovado pelo Congresso não chegou a entrar em vigor. Permanece na numeração da CLT apenas como registro, como no Planalto.
+P: Sem eficácia normativa || Veto presidencial mantido || Numeração preservada para não alterar a ordem dos artigos
+K: dispositivo vetado; veto; CLT art. 390-A
+
+@CLT 390-D
+I: Dispositivo vetado: o texto aprovado pelo Congresso não chegou a entrar em vigor. Permanece na numeração da CLT apenas como registro, como no Planalto.
+P: Sem eficácia normativa || Veto presidencial mantido || Numeração preservada para não alterar a ordem dos artigos
+K: dispositivo vetado; veto; CLT art. 390-D
+
+@CLT 398
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 398; da proteção à maternidade
+
+@CLT 401-A
+I: Dispositivo vetado: o texto aprovado pelo Congresso não chegou a entrar em vigor. Permanece na numeração da CLT apenas como registro, como no Planalto.
+P: Sem eficácia normativa || Veto presidencial mantido || Numeração preservada para não alterar a ordem dos artigos
+K: dispositivo vetado; veto; CLT art. 401-A
+
+@CLT 401-B
+I: Dispositivo vetado: o texto aprovado pelo Congresso não chegou a entrar em vigor. Permanece na numeração da CLT apenas como registro, como no Planalto.
+P: Sem eficácia normativa || Veto presidencial mantido || Numeração preservada para não alterar a ordem dos artigos
+K: dispositivo vetado; veto; CLT art. 401-B
+
+@CLT 417
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 417; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 418
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 418; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 419
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 419; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 420
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 420; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 421
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 421; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 422
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 422; da admissão em emprego e da carteira de trabalho e previdência social
+
+@CLT 436
+I: Dispositivo integralmente revogado (Revogado pela Lei 10.097, de 2000). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei 10.097, de 2000 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 436; das penalidades
+
+@CLT 437
+I: Dispositivo integralmente revogado (Revogado pela Lei 10.097, de 2000). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei 10.097, de 2000 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 437; das penalidades
+
+@CLT 446
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.855, de 24.10.1989 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 446; disposições gerais
+
+@CLT 508
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 12.347, de 2010). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 12.347, de 2010 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 508; disposições especiais
+
+@CLT 509
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 6.533, de 24.5.1978). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 6.533, de 24.5.1978 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 509; disposições especiais
+
+@CLT 536
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 536; das associações sindicais de grau superior
+
+@CLT 563
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-lei nº 925, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-lei nº 925, de 10.10.1969 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 563; disposições gerais
+
+@CLT 567
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 567; disposições gerais
+
+@CLT 568
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 568; disposições gerais
+
+@CLT 569
+I: Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1967). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pelo Decreto-Lei nº 229, de 28.2.1967 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 569; disposições gerais
+
+@CLT 595
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 595; da comissão do imposto sindical
+
+@CLT 596
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 596; da comissão do imposto sindical
+
+@CLT 597
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 4.589, de 11.12.1964 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 597; da comissão do imposto sindical
+
+@CLT 601
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 601; disposições gerais
+
+@CLT 604
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 604; disposições gerais
+
+@CLT 633
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.874, de 2019 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 633; da fiscalização, da autuação e da imposição de multas
+
+@CLT 675
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 5.442, de 24.5.1968). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 5.442, de 24.5.1968 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 675; da jurisdição e competência
+
+@CLT 686
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 686; dos juízes representantes classistas dos tribunais regionais
+
+@CLT 691
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 691; disposições preliminares
+
+@CLT 692
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 692; disposições preliminares
+
+@CLT 695
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 695; da composição e funcionamento do tribunal superior do trabalho
+
+@CLT 698
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 698; da composição e funcionamento do tribunal superior do trabalho
+
+@CLT 703
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 703; da competência da câmara de justiça do trabalho
+
+@CLT 704
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 704; da competência da câmara de justiça do trabalho
+
+@CLT 705
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 705; da competência da câmara de justiça do trabalho
+
+@CLT 706
+I: Dispositivo integralmente revogado (Revogado). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 706; da competência da câmara de previdência social
+
+@CLT 709
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 14.824, de 2024). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 14.824, de 2024 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 709; das atribuições do vice-presidente a) ~~substituir o presidente e o corregedor em suas faltas e impedimentos;    (redação dada pela lei nº 2.244, de 23.6.1954)~~          (revogado pela lei nº 14.824, de 2024)
+
+@CLT 723
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 9.842, de 7.10.1999). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 9.842, de 7.10.1999 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 723; do "lock-out" e da greve
+
+@CLT 724
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 9.842, de 7.10.1999). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 9.842, de 7.10.1999 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 724; do "lock-out" e da greve
+
+@CLT 725
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 9.842, de 7.10.1999). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 9.842, de 7.10.1999 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 725; do "lock-out" e da greve
+
+@CLT 792
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.467, de 2017 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 792; das partes e dos procuradores
+
+@CLT 902
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 7.033, de 5.10.1982). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 7.033, de 5.10.1982 || Matéria, quando ainda regulada, deve ser buscada na norma posterior ou em outros dispositivos da CLT
+K: dispositivo revogado; CLT art. 902; dos recursos

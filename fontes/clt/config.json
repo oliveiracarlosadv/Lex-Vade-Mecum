@@ -1,0 +1,15 @@
+{
+ "nome": "Consolidação das Leis do Trabalho — CLT (Decreto-Lei nº 5.452/1943)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+ "saida": "leis/clt/clt-completa.md",
+ "minimo_artigos": 900,
+ "parts": [
+  {
+   "id": "CLT",
+   "start": "CONSOLIDAÇÃO DAS LEIS DO TRABALHO",
+   "end": "ANEXO",
+   "self_name": "desta Consolidação"
+  }
+ ],
+ "descartar_vigencia_encerrada": true
+}

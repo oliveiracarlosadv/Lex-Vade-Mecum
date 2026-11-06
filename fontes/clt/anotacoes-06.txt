@@ -1,0 +1,249 @@
+@CLT 345
+I: Diplomas, títulos e documentos falsos apresentados para o exercício da química sujeitam autores e cúmplices às penas legais, e a falsificação deve ser comunicada para as providências cabíveis.
+P: Falsificação de diplomas é punível || Comunicação ao órgão competente || Autores e cúmplices respondem
+K: químico; falsificação de diploma; sanção
+
+@CLT 346
+I: O químico pode ser suspenso por improbidade, falso testemunho, quebra de sigilo, falsificações, colaboração com crimes contra a pátria, a ordem social ou a saúde pública, ou por não registrar o diploma no prazo. Hoje o poder disciplinar é exercido pelos Conselhos de Química.
+P: Hipóteses de suspensão profissional || Inclui quebra de sigilo e improbidade || Poder disciplinar hoje dos Conselhos de Química
+K: químico; suspensão; ética profissional; sigilo
+
+@CLT 347
+I: Quem exerce a química sem os requisitos do art. 325 e sem registro paga multa, dobrada na reincidência; valores em moeda antiga.
+P: Multa por exercício sem habilitação || Dobro na reincidência || Valores históricos
+K: químico; exercício ilegal; multa
+
+@CLT 348
+I: Norma de transição que permitia cassar as garantias dos licenciados de 1934 que interrompessem sua função por falta grave do art. 346.
+P: Regra de transição de 1934 || Cassação de garantias || Sem aplicação atual relevante
+K: químico; licenciado; norma de transição
+
+@CLT 349
+I: Limita os químicos estrangeiros a um terço dos brasileiros nos quadros das empresas. A regra de nacionalização deve ser compatibilizada com a Constituição e com a legislação migratória atual (Lei nº 13.445/2017).
+P: Limite de 1/3 de químicos estrangeiros || Regra de nacionalização do trabalho || Leitura conforme a Constituição e a Lei de Migração
+K: químico estrangeiro; nacionalização; proporcionalidade
+
+@CLT 350
+I: O químico que assume a direção técnica de usina, fábrica ou laboratório deve comunicá-lo por escrito em 24 horas ao órgão fiscalizador, passando a responder tecnicamente pelos produtos; o contrato deve ser registrado em 30 dias, e a saída também comunicada.
+P: Comunicação da assunção de responsabilidade técnica em 24 horas || Registro do contrato em 30 dias || Responsabilidade técnica pelos produtos
+K: químico; responsável técnico; comunicação; contrato
+
+@CLT 351
+I: Prevê multas pelas infrações às regras das profissões regulamentadas deste Capítulo, dobradas na reincidência, oposição à fiscalização ou desacato, com valores em moeda antiga.
+P: Multa administrativa graduada || Dobro na reincidência ou desacato || Valores históricos atualizados por lei posterior
+K: multa administrativa; profissões regulamentadas
+
+@CLT 352
+I: Empresas concessionárias de serviço público e de atividades industriais e comerciais com 3 ou mais empregados devem manter proporção mínima de brasileiros, conforme o Capítulo da nacionalização do trabalho. A compatibilidade dessas regras com a Constituição de 1988, que veda distinções entre brasileiros e estrangeiros residentes (art. 5º, caput), é amplamente questionada.
+P: Proporção mínima de empregados brasileiros || Aplica-se a empresas com 3 ou mais empregados || Compatibilidade constitucional controvertida
+K: nacionalização do trabalho; proporcionalidade; estrangeiro; igualdade
+
+@CLT 353
+I: Equipara a brasileiros, para a proporcionalidade, estrangeiros residentes há mais de dez anos com cônjuge ou filho brasileiro, e os portugueses, ressalvadas as profissões reservadas a brasileiros.
+P: Equiparação de estrangeiros residentes e portugueses || Ressalva das profissões reservadas || Critérios de vínculo familiar e residência
+K: nacionalização; estrangeiro; portugueses; equiparação
+
+@CLT 354
+I: Fixa a proporção de dois terços de brasileiros, que pode ser reduzida por ato do Executivo diante da insuficiência de nacionais, e que vale para o quadro e para a folha de salários.
+P: Proporção de 2/3 de brasileiros || Redução por ato do Executivo || Aplica-se ao quadro e à folha de salários
+K: proporcionalidade; dois terços; nacionalização
+
+@CLT 355
+I: Filiais, sucursais e agências com 3 ou mais empregados são tratadas como estabelecimentos autônomos para a proporcionalidade.
+P: Filiais como estabelecimentos autônomos || Mínimo de 3 empregados || Cálculo por estabelecimento
+K: proporcionalidade; filial; estabelecimento
+
+@CLT 356
+I: Empresa com atividades sujeitas a proporcionalidades diferentes observa, para cada atividade, a proporção correspondente.
+P: Proporcionalidade por atividade || Empresas com múltiplas atividades || Cálculo separado
+K: proporcionalidade; atividades diversas
+
+@CLT 357
+I: Não entram na proporcionalidade empregados de funções técnicas especializadas quando faltarem trabalhadores nacionais, a juízo do Ministério.
+P: Exceção para funções técnicas especializadas || Falta de mão de obra nacional || Juízo do Ministério do Trabalho
+K: proporcionalidade; técnico especializado; exceção
+
+@CLT 358
+I: Nenhuma empresa pode pagar a brasileiro salário inferior ao do estrangeiro em função análoga, salvo exceções como diferença de tempo de serviço, quadro de carreira aprovado, aprendizes ou casos de menor produtividade. É um antecedente da isonomia salarial do art. 461.
+P: Isonomia salarial entre brasileiro e estrangeiro || Exceções por tempo de serviço e carreira || Antecedente do art. 461
+K: isonomia salarial; estrangeiro; equiparação
+
+@CLT 359
+I: A empresa só pode admitir estrangeiro que apresente documento de identidade de estrangeiro regular (hoje a Carteira de Registro Nacional Migratório) e deve registrar sua nacionalidade e número do documento.
+P: Documento migratório regular exigido || Registro da nacionalidade || Legislação migratória atual (Lei nº 13.445/2017)
+K: trabalhador estrangeiro; documento migratório; registro
+
+@CLT 360
+I: Previa a entrega anual de relação de empregados ao Ministério do Trabalho, com selos e formalidades da época. Essa obrigação foi substituída pela RAIS e, hoje, pelo eSocial.
+P: Relação anual de empregados (histórica) || Substituída pela RAIS e pelo eSocial || Formalidades em desuso
+K: relação anual de empregados; RAIS; eSocial
+
+@CLT 361
+I: Constatada infração nas relações apresentadas, o infrator tem 10 dias para defesa antes do despacho da autoridade.
+P: Prazo de 10 dias para defesa || Contraditório administrativo || Infrações à nacionalização
+K: defesa administrativa; prazo; fiscalização
+
+@CLT 362
+I: Previa fichário das empresas e certidões de quitação da nacionalização, exigidas para contratar com o Poder Público. Norma em grande parte superada pela legislação de licitações e pelos sistemas eletrônicos.
+P: Certidão de quitação para contratar com o governo || Fichário de empresas || Regra largamente superada
+K: certidão de quitação; contratação pública; nacionalização
+
+@CLT 363
+I: O processo das infrações deste Capítulo segue o Título do processo de multas administrativas (arts. 626 e seguintes).
+P: Remete ao processo de multas administrativas || Modelos de auto oficiais || Uniformidade procedimental
+K: processo administrativo; multas; auto de infração
+
+@CLT 364
+I: Prevê multa para as infrações do Capítulo e, para concessionárias ou sociedades estrangeiras que persistirem na infração, possível cassação da concessão ou autorização.
+P: Multa administrativa || Cassação da concessão em caso de persistência || Valores em moeda antiga
+K: multa; concessão; cassação; nacionalização
+
+@CLT 365
+I: O Capítulo não revoga exigências de nacionalidade para certas profissões nem as regras das faixas de fronteira.
+P: Mantém reservas de profissões a brasileiros || Faixa de fronteira com regras próprias || Norma de compatibilização
+K: nacionalidade; profissões reservadas; faixa de fronteira
+
+@CLT 366
+I: Enquanto não expedida a carteira de estrangeiro, vale provisoriamente certidão de que o empregado requereu a permanência no País.
+P: Documento provisório do estrangeiro || Certidão do pedido de permanência || Regra hoje regida pela legislação migratória
+K: trabalhador estrangeiro; documento provisório; permanência
+
+@CLT 367
+I: Permite que a redução da proporcionalidade seja feita por ato ministerial, mediante pedido fundamentado de associação sindical, enquanto faltarem dados estatísticos.
+P: Redução por ato do Ministro || Pedido sindical fundamentado || Estudos estatísticos
+K: proporcionalidade; sindicato; estatística
+
+@CLT 368
+I: O comando de navio mercante nacional só pode ser exercido por brasileiro nato. A exigência deve ser lida com a Constituição, que admite distinções entre natos e naturalizados apenas nos casos que ela prevê (art. 12, § 2º), e com a legislação marítima atual.
+P: Comandante de navio nacional deve ser brasileiro nato || Exigência sujeita a controle constitucional || Legislação marítima específica
+K: marinha mercante; comandante; brasileiro nato
+
+@CLT 369
+I: A tripulação de navio nacional deve ter ao menos dois terços de brasileiros natos, exceto em navios de pesca, regidos por lei própria.
+P: Mínimo de 2/3 de tripulantes brasileiros || Pesca com legislação específica || Regra de nacionalização
+K: marinha mercante; tripulação; nacionalização
+
+@CLT 370
+I: As empresas de navegação devem enviar as relações de tripulantes à autoridade do trabalho marítimo, segundo a classificação funcional aprovada pela Capitania dos Portos.
+P: Relação de tripulantes || Envio à autoridade marítima || Classificação funcional oficial
+K: tripulantes; relação; navegação
+
+@CLT 371
+I: As regras de nacionalização da marinha mercante também se aplicam à navegação fluvial e lacustre e à praticagem.
+P: Extensão à navegação fluvial e lacustre || Inclui praticagem || Abrangência da seção
+K: navegação fluvial; praticagem; nacionalização
+
+@CLT 372
+I: As normas do trabalho masculino aplicam-se ao feminino, salvo onde colidirem com a proteção especial do Capítulo. A proteção deve ser lida à luz da igualdade constitucional, preservando apenas as diferenças justificadas, como a proteção à maternidade.
+P: Regras gerais valem para homens e mulheres || Proteções especiais da mulher prevalecem || Igualdade constitucional como baliza
+K: trabalho da mulher; igualdade; proteção especial
+
+@CLT 373
+I: A jornada normal da mulher é de 8 horas diárias, salvo duração inferior fixada para certas atividades, como para qualquer trabalhador.
+P: Jornada de 8 horas || Mesma regra geral || Jornadas reduzidas específicas prevalecem
+K: trabalho da mulher; jornada
+
+@CLT 373-A
+I: Proíbe práticas discriminatórias contra a mulher: anúncios com referência a sexo, idade, cor ou situação familiar; recusa de emprego, promoção ou dispensa por esses motivos ou por gravidez; exigência de atestado de gravidez ou esterilização; revistas íntimas; e outras distinções, ressalvadas ações afirmativas. Complementa a Lei nº 9.029/1995.
+P: Vedação de discriminação no acesso, promoção e dispensa || Proibidos exigência de teste de gravidez e revista íntima || Ações afirmativas permitidas
+K: discriminação; gênero; gravidez; revista íntima; Lei 9.029/1995
+
+@CLT 377
+I: As medidas de proteção ao trabalho da mulher são de ordem pública e não justificam redução salarial.
+P: Proteção da mulher é de ordem pública || Vedação de redução salarial || Indisponibilidade
+K: trabalho da mulher; ordem pública; irredutibilidade
+
+@CLT 381
+I: O trabalho noturno da mulher tem adicional mínimo de 20% e hora reduzida de 52min30s, regras iguais às do art. 73 para todos os trabalhadores.
+P: Adicional noturno mínimo de 20% || Hora noturna reduzida || Mesma regra geral do art. 73
+K: trabalho noturno; mulher; adicional noturno
+
+@CLT 382
+I: Garante à mulher intervalo mínimo de 11 horas consecutivas entre jornadas, como para os demais empregados (art. 66).
+P: Intervalo interjornada de 11 horas || Regra igual à geral || Descanso entre jornadas
+K: intervalo interjornada; mulher
+
+@CLT 383
+I: Garante à empregada intervalo para refeição e repouso de 1 a 2 horas, salvo a redução autorizada do art. 71, § 3º, em simetria com a regra geral.
+P: Intervalo de 1 a 2 horas || Redução autorizada pelo art. 71, § 3º || Simetria com a regra geral
+K: intervalo intrajornada; mulher
+
+@CLT 385
+I: O descanso semanal da mulher é de 24 horas consecutivas, preferencialmente aos domingos, salvo conveniência pública ou necessidade imperiosa, respeitada a proibição de trabalho em feriados.
+P: Descanso semanal de 24 horas || Preferência pelo domingo || Feriados conforme legislação geral
+K: descanso semanal; mulher; domingo
+
+@CLT 386
+I: Havendo trabalho aos domingos, deve haver escala de revezamento quinzenal que favoreça o repouso dominical da mulher, regra mais protetiva que a geral do art. 67. Sua aplicação tem sido debatida na jurisprudência à luz da igualdade entre homens e mulheres.
+P: Escala quinzenal favorecendo o domingo || Proteção específica da mulher || Mais protetiva que a regra geral (art. 67)
+K: escala de revezamento; domingo; trabalho da mulher
+
+@CLT 388
+I: Permite ao Ministro do Trabalho derrogar as proibições do art. 387 (já revogado) quando desaparecer o caráter perigoso ou insalubre. Com a revogação do art. 387, a regra perdeu objeto prático.
+P: Derrogação de proibições por parecer técnico || Vinculada ao art. 387, revogado || Pouca aplicação atual
+K: trabalho da mulher; insalubridade; derrogação
+
+@CLT 389
+I: Obriga as empresas a garantir higiene, ventilação e iluminação, bebedouros, sanitários, assentos, vestiários privativos e outras condições adequadas às mulheres. Estabelecimentos com pelo menos 30 mulheres com mais de 16 anos devem ter local para guarda e amamentação dos filhos, que pode ser substituído por creches conveniadas ou reembolso-creche.
+P: Condições de higiene e conforto para as trabalhadoras || Local de amamentação a partir de 30 mulheres || Creche conveniada ou reembolso-creche como alternativa
+K: trabalho da mulher; amamentação; creche; reembolso-creche; vestiário
+
+@CLT 390
+I: Proíbe empregar a mulher em serviço com força muscular superior a 20 kg (contínuo) ou 25 kg (ocasional), salvo remoção com aparelhos mecânicos.
+P: Limite de 20 kg contínuo e 25 kg ocasional || Exclui aparelhos mecânicos || Proteção à saúde
+K: trabalho da mulher; levantamento de peso; limite
+
+@CLT 390-B
+I: As vagas em cursos de formação profissional devem ser oferecidas a empregados de ambos os sexos.
+P: Igualdade de acesso à qualificação || Cursos públicos e privados || Combate à discriminação
+K: formação profissional; igualdade de gênero
+
+@CLT 390-C
+I: Empresas com mais de cem empregados de ambos os sexos devem manter programas de incentivo e aperfeiçoamento profissional.
+P: Programas de capacitação obrigatórios || Empresas com mais de 100 empregados || Promoção da igualdade
+K: capacitação; igualdade de gênero; programas
+
+@CLT 390-E
+I: Permite às empresas firmar parcerias com entidades de formação, cooperativas, órgãos públicos e sindicatos para projetos de incentivo ao trabalho da mulher.
+P: Parcerias para incentivo ao trabalho feminino || Convênios com entidades diversas || Ações conjuntas
+K: trabalho da mulher; incentivo; convênios
+
+@CLT 391
+I: Casamento e gravidez não são justo motivo para rescindir o contrato da mulher, e são proibidas restrições ao emprego por esses motivos em regulamentos ou contratos.
+P: Casamento e gravidez não justificam dispensa || Nulidade de cláusulas restritivas || Proteção contra discriminação
+K: gravidez; casamento; dispensa discriminatória
+
+@CLT 391-A
+I: A gravidez confirmada no curso do contrato, inclusive durante o aviso prévio trabalhado ou indenizado, garante a estabilidade da gestante (ADCT, art. 10, II, b), desde a confirmação até cinco meses após o parto. A regra vale também para o empregado adotante com guarda provisória. O desconhecimento da gravidez pelo empregador não afasta a garantia (Súmula 244 do TST; STF, Tema 497).
+P: Estabilidade da gestante até 5 meses após o parto || Alcança gravidez no aviso prévio || Desconhecimento do empregador não afasta o direito (Súmula 244)
+K: estabilidade da gestante; aviso prévio; adotante; Súmula 244
+
+@CLT 392
+I: A empregada tem direito à licença-maternidade de 120 dias, sem prejuízo do emprego e do salário, podendo iniciá-la entre o 28º dia antes do parto e o parto, com acréscimo de duas semanas antes e depois por atestado médico. Durante a gravidez, tem direito a mudar de função por saúde e a dispensa para consultas e exames (ao menos seis). Empresas do Programa Empresa Cidadã podem prorrogá-la por 60 dias, e o STF (ADI 6.327) determinou que, em internação longa, a licença conte da alta.
+P: Licença-maternidade de 120 dias || Dispensa para ao menos seis consultas e exames (§ 4º) || Prorrogação de 60 dias no Empresa Cidadã; contagem a partir da alta em internações (ADI 6.327)
+K: licença-maternidade; gestante; salário-maternidade; Empresa Cidadã
+
+@CLT 392-A
+I: A empregada que adota ou obtém guarda judicial para adoção de criança ou adolescente tem licença-maternidade nos mesmos termos do art. 392, mediante termo judicial de guarda, concedida a apenas um dos adotantes em caso de adoção conjunta.
+P: Licença para adotante igual à da gestante || Exige termo judicial de guarda || Apenas um adotante em adoção conjunta
+K: licença-maternidade; adoção; guarda judicial
+
+@CLT 392-B
+I: Em caso de morte da mãe, o cônjuge ou companheiro empregado tem direito à licença pelo período total ou restante da licença-maternidade, salvo morte ou abandono do filho.
+P: Licença ao pai em caso de morte da mãe || Período total ou restante || Exceção: morte ou abandono do filho
+K: licença-maternidade; pai; morte da genitora
+
+@CLT 392-C
+I: Aplicam-se ao empregado que adotar ou obtiver guarda judicial as regras dos arts. 392-A e 392-B, no que couber, garantindo licença ao adotante homem.
+P: Licença ao adotante homem || Aplicação das regras de adoção || Igualdade parental
+K: licença-adotante; adoção; paternidade
+
+@CLT 393
+I: Durante a licença-maternidade, a mulher recebe salário integral (média dos últimos 6 meses se variável) e mantém direitos e vantagens, podendo voltar à função anterior. O salário-maternidade é pago pela Previdência, com adiantamento pelo empregador em regra.
+P: Salário integral na licença || Média de 6 meses se variável || Direito de retorno à função anterior
+K: salário-maternidade; licença-maternidade; remuneração
+
+@CLT 394
+I: Mediante atestado médico, a gestante pode romper o contrato de trabalho que seja prejudicial à gestação. A doutrina entende que, nesse caso, ela fica dispensada de cumprir o aviso prévio.
+P: Rescisão pela gestante por risco à gestação || Exige atestado médico || Proteção à saúde da gestante
+K: gestante; rescisão; atestado médico; saúde

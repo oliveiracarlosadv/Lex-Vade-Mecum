@@ -30,6 +30,7 @@
   --titulo2:#46712A;
   --fio:#D9D0BA;         /* fios e bordas */
   --marca-texto:#F3E3A4;
+  --mt-amarelo:#F7E27C; --mt-verde:#C9E6A8; --mt-azul:#BFDDF3; --mt-rosa:#F6C6D6;
   --aviso:#F6EBCB; --avisoBorda:#B8962E; --tachado:#8C877A;
   --sombra:0 1px 1px rgba(60,50,30,.06),0 8px 28px rgba(60,50,30,.10);
   --serif:"Literata",Georgia,"Iowan Old Style","Times New Roman",serif;
@@ -41,12 +42,14 @@
   :root:not([data-theme="light"]){
     --mesa:#14120E; --papel:#1E1B16; --papel2:#25211A; --tinta:#E6DFCD; --tinta2:#ABA390;
     --titulo:#B9CDA4; --titulo2:#9FC07F; --fio:#3A3428; --marca-texto:#5E5121;
+    --mt-amarelo:#6B5A14; --mt-verde:#3E5A26; --mt-azul:#244A64; --mt-rosa:#6A2F44;
     --aviso:#2C2716; --avisoBorda:#9C7F26; --tachado:#7E7869; --sombra:0 8px 30px rgba(0,0,0,.35);
   }
 }
 :root[data-theme="dark"]{
   --mesa:#14120E; --papel:#1E1B16; --papel2:#25211A; --tinta:#E6DFCD; --tinta2:#ABA390;
   --titulo:#B9CDA4; --titulo2:#9FC07F; --fio:#3A3428; --marca-texto:#5E5121;
+  --mt-amarelo:#6B5A14; --mt-verde:#3E5A26; --mt-azul:#244A64; --mt-rosa:#6A2F44;
   --aviso:#2C2716; --avisoBorda:#9C7F26; --tachado:#7E7869; --sombra:0 8px 30px rgba(0,0,0,.35);
 }
 *{box-sizing:border-box}
@@ -214,6 +217,37 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
 .painel .secao{margin-top:.6em}
 .sep{text-align:center;color:var(--fio);letter-spacing:1em;margin:1.6em 0 0;font-size:12px}
 
+/* ---------- Marca-texto, favoritos e backup ---------- */
+mark.mt{padding:0;border-radius:2px;cursor:pointer;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+mark.mt.amarelo{background:var(--mt-amarelo)} mark.mt.verde{background:var(--mt-verde)}
+mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
+.cores{display:flex;gap:8px;padding:6px 10px 8px}
+.popover .cores button{width:32px;height:32px;padding:0;border-radius:50%;border:2px solid var(--fio);justify-content:center}
+.popover .cores button.on{border-color:var(--titulo)}
+.cores .amarelo{background:var(--mt-amarelo)!important} .cores .verde{background:var(--mt-verde)!important}
+.cores .azul{background:var(--mt-azul)!important} .cores .rosa{background:var(--mt-rosa)!important}
+.estrela{color:var(--avisoBorda);margin-right:4px}
+.btn.fav.on{border-color:var(--avisoBorda);color:var(--avisoBorda)}
+.dispositivo.tem-marca .rotulo::after{content:"";display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--avisoBorda);margin-left:7px;vertical-align:middle}
+.lista-marcas{list-style:none;padding:0;margin:8px 0 18px}
+.lista-marcas li{border-bottom:1px solid var(--fio);padding:10px 2px;display:flex;gap:10px;align-items:flex-start}
+.lista-marcas .cor{flex:none;width:12px;height:12px;border-radius:50%;margin-top:.45em}
+.lista-marcas .cor.amarelo{background:var(--mt-amarelo)} .lista-marcas .cor.verde{background:var(--mt-verde)}
+.lista-marcas .cor.azul{background:var(--mt-azul)} .lista-marcas .cor.rosa{background:var(--mt-rosa)}
+.lista-marcas a{color:inherit;text-decoration:none;flex:1;min-width:0}
+.lista-marcas a:hover b{text-decoration:underline}
+.lista-marcas b{font-family:var(--display);color:var(--titulo);font-size:18px}
+.lista-marcas q{display:block;font-style:italic;font-size:.95em;color:var(--tinta)}
+.lista-marcas .x{flex:none;border:0;background:none;color:var(--tinta2);cursor:pointer;font-size:18px;line-height:1;padding:2px 6px}
+.perfil{display:grid;grid-template-columns:1fr 1fr auto;gap:10px;align-items:end;font-family:var(--ui);font-size:13px;color:var(--tinta2);max-width:40rem;margin:8px auto 0}
+.perfil label{display:flex;flex-direction:column;gap:4px;min-width:0}
+.perfil input{padding:9px 12px;border:1px solid var(--fio);border-radius:10px;background:var(--papel2);font-family:var(--ui);font-size:16px;min-width:0}
+.perfil input:focus{outline:2px solid var(--titulo2);outline-offset:1px}
+@media (max-width:600px){.perfil{grid-template-columns:1fr}}
+.card-img .ci-perfil{margin-top:36px;text-align:right;font-family:var(--display);font-style:italic;font-size:28px;color:#46712A}
+.grade-backup{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0}
+@media print{mark.mt{background:transparent!important;text-decoration:underline;text-decoration-color:#999}}
+
 /* ---------- Início, busca e Sobre ---------- */
 .capa{text-align:center}
 .capa img{width:min(420px, 80%);height:auto;margin:6px auto 10px;display:block}
@@ -298,13 +332,14 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
   <aside id="lateral">
     <h2>Leis</h2>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
-    <div class="menu-extra"><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button></div>
+    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button></div>
     <div id="sumario"></div>
   </aside>
   <main id="main"><div class="folha" id="conteudo"><div class="carregando">Carregando…</div></div></main>
 </div>
 <button class="btn topo-btn" id="topoBtn" title="Voltar ao topo" aria-label="Voltar ao topo">↑</button>
 <div class="barra-selecao" id="barraSel" hidden role="toolbar" aria-label="Ações para o trecho selecionado">
+  <button data-sel="marcar" title="Marcar o trecho como marca-texto"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l-6 6v3h9l3-3"/><path d="M22 12l-4.6 4.6a2 2 0 0 1-2.8 0l-5.2-5.2a2 2 0 0 1 0-2.8L14 4"/></svg>Marcar</button>
   <button data-sel="compartilhar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v14"/></svg>Compartilhar</button>
   <button data-sel="copiar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copiar</button>
   <button data-sel="imagem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="9" cy="9" r="2"/><path d="M21 15l-5-5L5 21"/></svg>Imagem</button>
@@ -313,6 +348,7 @@ details.analise .md{font-size:.9em;line-height:1.6;color:var(--tinta)}
 <div class="popover" id="popover" hidden role="menu"></div>
 <div class="aviso-rapido" id="aviso" role="status" aria-live="polite"></div>
 <dialog class="painel" id="painel" aria-label="Informações sobre a lei"><div class="painel-folha folha"><button class="painel-fechar btn" aria-label="Fechar">✕ Fechar</button><div id="painelConteudo"></div></div></dialog>
+<input type="file" id="arqBackup" accept="application/json,.json" hidden>
 <div id="areaImpressao"></div>
 <div id="fabricaImagem"></div>
 
@@ -466,9 +502,10 @@ function blocoDispositivo(id, u, casa) {
 /* ---------- Telas ---------- */
 let atual = null;
 function desenharMenu() {
-  $('#listaLeis').innerHTML = leis.map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${esc(l.nome)}<small>${esc(l.numero)}</small></button>`).join('');
+  $('#listaLeis').innerHTML = leis.map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}</small></button>`).join('');
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
+  $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
 }
 function desenharSumario(id, d) {
   if (!d) { $('#sumario').innerHTML = ''; return; }
@@ -503,7 +540,7 @@ async function mostrarLei(id, alvo, q) {
   let h = `<div class="cabecalho-corrido">Lex Vade Mecum · ${esc(lei.nome)}</div>
     <h1 class="titulo-obra">${esc(d.titulo || lei.nome)}</h1>
     <div class="meta-lei"><span>${esc(lei.numero)}</span><span>Publicação: ${esc(lei.data)}</span>${lei.conferido ? `<span>Conferido com a fonte oficial em ${esc(lei.conferido)}</span>` : ''}${lei.oficial ? `<a href="${lei.oficial}" target="_blank" rel="noopener">Texto oficial ↗</a>` : ''}</div>
-    <div class="ferr"><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
+    <div class="ferr"><button class="btn fav" id="favLei"></button><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
     <div class="vinheta">❦</div>`;
   h += `<nav class="chips" aria-label="Informações sobre a lei">${d.antes.map((s) => `<button class="chip" data-secao="${slug(s.titulo)}">${esc(s.titulo)}</button>`).join('')}</nav>`;
   h += `<section class="parte" id="${id}--texto"><h2>Texto da Lei</h2>` + d.unidades.map((u) => blocoDispositivo(id, u, casa)).join('<div class="sep">·  ·  ·</div>') + '</section>';
@@ -514,6 +551,8 @@ async function mostrarLei(id, alvo, q) {
   const rot = () => (tg.textContent = document.body.classList.contains('oculta-analises') ? 'Mostrar análises' : 'Ocultar análises');
   tg.onclick = () => { document.body.classList.toggle('oculta-analises'); rot(); }; rot();
   $('#imprLei').onclick = () => window.print();
+  desenharFav(id); $('#favLei').onclick = () => { alternarFavorita(id); desenharFav(id); };
+  aplicarMarcas(id);
   irPara(id, alvo);
 }
 function irPara(id, alvo) {
@@ -525,7 +564,7 @@ function irPara(id, alvo) {
   if (el.classList.contains('dispositivo')) el.classList.add('alvo');
   const main = $('#main');
   // Vindo da busca, vai à primeira ocorrência realçada (de preferência no texto oficial).
-  const foco = el.querySelector('.oficial mark') || el.querySelector('mark');
+  const foco = el.querySelector('.oficial mark:not(.mt)') || el.querySelector('mark:not(.mt)') || el.querySelector('mark.mt');
   if (foco) { document.querySelectorAll('mark.foco').forEach((m) => m.classList.remove('foco')); foco.classList.add('foco'); }
   const rolar = () => {
     main.style.scrollBehavior = 'auto';
@@ -558,10 +597,12 @@ function inicio() {
   $('#conteudo').innerHTML = `<div class="capa">
     <img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum">
     <p class="assinatura">Lex Vade Mecum <a href="#/sobre">by Carlos A. A. Oliveira</a></p>
+    ${dados.perfil.nome ? `<p class="lema">Olá, ${esc(dados.perfil.nome.split(' ')[0])}!</p>` : ''}
     <p class="lema">Leis brasileiras com o texto oficial sempre atualizado e a análise de cada artigo, reunidas para consulta.</p>
     <div class="vinheta">❦</div>
+    ${blocoFavoritas()}
     <h2 class="titulo-indice">Leis disponíveis</h2>
-    <ol class="indice">${leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
+    <ol class="indice">${leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
     <div class="dica"><b>Como buscar:</b> digite uma palavra ou trecho (<code>dano moral</code>, <code>"direito adquirido"</code>), um artigo (<code>art. 5º</code>, <code>art 1.035-A</code>, <code>adct 10</code>) um tema do TST (<code>tema 75</code>) ou um precedente do TRT8 (<code>irdr 7</code>, <code>iac 5</code>) e escolha buscar <b>nesta lei</b> ou <b>em todas</b>. Palavras soltas são procuradas juntas, em qualquer ordem; entre aspas, a expressão exata.</div>
     </div>${rodape()}`;
   $('#main').scrollTop = 0;
@@ -795,7 +836,9 @@ async function desenharStory(pac, lei) {
   if (x) blocos.push({ font: `700 54px ${DISPLAY}`, cor: '#384A2C', txt: x.u.head, lh: 64 });
   blocos.push({ font: `500 42px ${DISPLAY}`, cor: '#2A2925', txt: lei ? lei.nome : pac.fonte, lh: 52, mt: 8 });
   if (lei && lei.numero) blocos.push({ font: `400 32px ${SERIF}`, cor: '#5E5A50', txt: lei.numero, lh: 44, mt: 10 });
-  blocos.push({ font: `400 28px ${SERIF}`, cor: '#5E5A50', txt: 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', lh: 38, mt: 26 });
+  const pf = linhaPerfil();
+  if (pf) blocos.push({ font: `italic 500 38px ${DISPLAY}`, cor: '#46712A', txt: pf, lh: 48, mt: 26 });
+  blocos.push({ font: `400 28px ${SERIF}`, cor: '#5E5A50', txt: 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', lh: 38, mt: pf ? 14 : 26 });
   let altRod = 0;
   blocos.forEach((b) => { ctx.font = b.font; b.linhas = quebrarSimples(ctx, b.txt, LARG); altRod += (b.mt || 0) + b.linhas.length * b.lh; });
   const linhaRod = H - 130 - altRod - 48;
@@ -860,7 +903,7 @@ async function gerarImagem(pac, formato) {
   }
   const fab = $('#fabricaImagem');
   fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}${lei && lei.conferido ? `<small>Texto oficial conferido em ${esc(lei.conferido)}</small>` : ''}</div></div>
-    ${miolo}<div class="ci-rodape"><span class="ci-assina">${ASSINATURA}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
+    ${miolo}${linhaPerfil() ? `<div class="ci-perfil">${esc(linhaPerfil())}</div>` : ''}<div class="ci-rodape"><span class="ci-assina">${ASSINATURA}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
   fab.classList.add('ativa');
   try {
     await carregarH2C();
@@ -874,7 +917,7 @@ async function gerarImagem(pac, formato) {
 function posicionarBarraSel() {
   const bar = $('#barraSel'); const sel = getSelection();
   const ok = sel.rangeCount && !sel.isCollapsed && sel.toString().trim().length > 1 &&
-    $('#conteudo').contains(sel.getRangeAt(0).commonAncestorContainer) && atual && atual !== 'sobre';
+    $('#conteudo').contains(sel.getRangeAt(0).commonAncestorContainer) && atual && atual !== 'sobre' && atual !== 'marcacoes';
   if (!ok) { bar.hidden = true; return; }
   bar.hidden = false;
   const r = sel.getRangeAt(0).getBoundingClientRect(); const w = bar.offsetWidth;
@@ -893,6 +936,8 @@ function ligarAcoes() {
   });
   $('#painel').addEventListener('click', (e) => { if (e.target === $('#painel') || e.target.closest('.painel-fechar')) $('#painel').close(); });
   $('#conteudo').addEventListener('click', (e) => {
+    const m = e.target.closest('mark.mt');
+    if (m && getSelection().isCollapsed) return menuMarca(m);
     const b = e.target.closest('[data-acao]'); if (!b) return;
     const uid = b.closest('.acoes').dataset.uid;
     if (b.dataset.acao === 'compartilhar') { const pac = pacoteUnidade(uid); if (pac) abrirPopover(b, pac); }
@@ -904,14 +949,245 @@ function ligarAcoes() {
   $('#barraSel').addEventListener('mousedown', (e) => e.preventDefault());
   $('#barraSel').addEventListener('click', async (e) => {
     const b = e.target.closest('[data-sel]'); if (!b) return;
+    if (b.dataset.sel === 'marcar') return iniciarMarcacao(b);
     const pac = pacoteSelecao(); if (!pac) return;
     if (b.dataset.sel === 'compartilhar') abrirPopover(b, pac);
     if (b.dataset.sel === 'copiar') aviso((await copiar(pac.texto)) ? 'Trecho copiado com a fonte' : 'Não foi possível copiar');
     if (b.dataset.sel === 'imagem') gerarImagem(pac);
     if (b.dataset.sel === 'story') gerarImagem(pac, 'story');
   });
-  document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel]')) fecharFlutuantes(); });
+  document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel], mark.mt')) fecharFlutuantes(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { fecharFlutuantes(); $('#barraSel').hidden = true; } });
+}
+
+/* ---------- Favoritos, marca-texto e backup ----------
+   Ficam só neste navegador (localStorage, chave "lex-dados"), até que os dados do
+   site sejam apagados. O backup é um arquivo .json que pode ser importado em
+   qualquer navegador ou aparelho.
+   Cada marcação guarda a lei, o dispositivo, o parágrafo e o trecho marcado; se o
+   texto da lei mudar, a marcação é reposicionada pelo trecho (ou fica listada
+   como "não localizada"). */
+const CHAVE_DADOS = 'lex-dados';
+const CORES = ['amarelo', 'verde', 'azul', 'rosa'];
+let dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [] };
+let corPadrao = 'amarelo';
+function carregarDados() {
+  try {
+    const x = JSON.parse(localStorage.getItem(CHAVE_DADOS) || 'null');
+    if (x && typeof x === 'object') dados = { versao: 1, perfil: limparPerfil(x.perfil), favoritos: Array.isArray(x.favoritos) ? x.favoritos : [], marcas: Array.isArray(x.marcas) ? x.marcas : [] };
+    corPadrao = localStorage.getItem('lex-cor') || corPadrao;
+  } catch (e) {}
+}
+function salvarDados() {
+  try { localStorage.setItem(CHAVE_DADOS, JSON.stringify(dados)); return true; }
+  catch (e) { aviso('O navegador não permitiu salvar (modo privado ou armazenamento cheio)'); return false; }
+}
+function limparPerfil(pf) {
+  pf = pf && typeof pf === 'object' ? pf : {};
+  const nome = String(pf.nome || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+  let arroba = String(pf.arroba || '').replace(/\s+/g, '').replace(/^@+/, '').slice(0, 40);
+  return { nome, arroba: arroba ? '@' + arroba : '' };
+}
+// Linha "Compartilhado por" das imagens e stories; vazia se não houver perfil.
+function linhaPerfil() {
+  const { nome, arroba } = dados.perfil || {};
+  if (!nome && !arroba) return '';
+  return 'Compartilhado por ' + [nome, arroba].filter(Boolean).join(' · ');
+}
+const ehFavorita = (id) => dados.favoritos.includes(id);
+function alternarFavorita(id) {
+  dados.favoritos = ehFavorita(id) ? dados.favoritos.filter((x) => x !== id) : dados.favoritos.concat(id);
+  salvarDados(); desenharMenu();
+  aviso(ehFavorita(id) ? 'Lei adicionada aos favoritos' : 'Lei removida dos favoritos');
+}
+function desenharFav(id) {
+  const b = $('#favLei'); if (!b) return; const on = ehFavorita(id);
+  b.classList.toggle('on', on); b.textContent = on ? '★ Favorita' : '☆ Favoritar';
+  b.title = on ? 'Remover dos favoritos' : 'Adicionar aos favoritos (fica salvo neste navegador)';
+}
+function blocoFavoritas() {
+  const fav = leis.filter((l) => ehFavorita(l.id)); const n = dados.marcas.length;
+  if (!fav.length && !n) return '';
+  return `<h2 class="titulo-indice">Suas favoritas</h2><ol class="indice">${fav.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei"><span class="estrela">★</span>${esc(l.nome)}</span><span class="num-lei">${esc(l.numero)}</span></a></li>`).join('')}
+    ${n ? `<li><a href="#/marcacoes"><span class="nome-lei">Trechos marcados</span><span class="num-lei">${n} ${n === 1 ? 'marcação' : 'marcações'}</span><span class="meta">Ver todas, fazer backup ou importar</span></a></li>` : ''}</ol>`;
+}
+const novoId = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+// Posição do início de um ponto (nó, deslocamento) dentro do texto de um parágrafo.
+function deslocamento(p, no, off) { const r = document.createRange(); r.selectNodeContents(p); r.setEnd(no, off); return r.toString().length; }
+// Divide a seleção em trechos por parágrafo do texto oficial.
+function trechosDaSelecao() {
+  const sel = getSelection(); if (!sel.rangeCount || sel.isCollapsed) return null;
+  const r = sel.getRangeAt(0); const out = [];
+  document.querySelectorAll('#conteudo .dispositivo').forEach((art) => {
+    if (!r.intersectsNode(art)) return;
+    const uid = art.id.split('--')[1];
+    art.querySelectorAll('.oficial p').forEach((p, i) => {
+      if (!r.intersectsNode(p)) return;
+      const total = p.textContent.length;
+      const ini = p.contains(r.startContainer) ? deslocamento(p, r.startContainer, r.startOffset) : 0;
+      const fim = p.contains(r.endContainer) ? deslocamento(p, r.endContainer, r.endOffset) : total;
+      const t = p.textContent.slice(ini, fim);
+      if (t.trim()) out.push({ uid, p: i, ini, fim, t });
+    });
+  });
+  return out.length ? out : null;
+}
+function iniciarMarcacao(botao) {
+  const tr = trechosDaSelecao();
+  if (!tr) return aviso('Selecione um trecho do texto da lei para marcar');
+  const lei = leis.find((l) => l.id === atual);
+  const pop = $('#popover');
+  pop.innerHTML = `<div class="tit">Cor do marca-texto</div><div class="cores">${CORES.map((c) => `<button class="${c}${c === corPadrao ? ' on' : ''}" data-cor="${c}" title="${c}" aria-label="Marcar em ${c}"></button>`).join('')}</div>`;
+  posicionarPop(pop, botao);
+  pop.onclick = (e) => {
+    const b = e.target.closest('[data-cor]'); if (!b) return;
+    corPadrao = b.dataset.cor; try { localStorage.setItem('lex-cor', corPadrao); } catch (e2) {}
+    const g = novoId(), em = new Date().toISOString();
+    tr.forEach((x) => dados.marcas.push({ id: novoId(), g, lei: atual, nomeLei: lei ? lei.nome : atual, uid: x.uid, p: x.p, ini: x.ini, fim: x.fim, t: x.t, cor: corPadrao, em }));
+    if (salvarDados()) aviso('Trecho marcado');
+    getSelection().removeAllRanges(); $('#barraSel').hidden = true; fecharFlutuantes();
+    aplicarMarcas(atual);
+  };
+}
+function posicionarPop(pop, ancora) {
+  pop.hidden = false;
+  const r = ancora.getBoundingClientRect(); const w = pop.offsetWidth, h = pop.offsetHeight;
+  pop.style.left = Math.min(Math.max(8, r.left + r.width / 2 - w / 2), innerWidth - w - 8) + 'px';
+  let y = r.bottom + 8; if (y + h > innerHeight - 8) y = Math.max(8, r.top - h - 8);
+  pop.style.top = y + 'px';
+}
+function menuMarca(m) {
+  const g = m.dataset.g; const ms = dados.marcas.filter((x) => x.g === g); if (!ms.length) return;
+  const pop = $('#popover');
+  pop.innerHTML = `<div class="tit">Trecho marcado</div><div class="cores">${CORES.map((c) => `<button class="${c}${c === ms[0].cor ? ' on' : ''}" data-cor="${c}" aria-label="Mudar para ${c}"></button>`).join('')}</div>
+    <button data-m="copiar">${ICONE.copiar}Copiar trecho com a fonte</button>
+    <button data-m="remover">${svg('<path d="M3 6h18"/><path d="M8 6V4h8v2"/><path d="M19 6l-1 14H6L5 6"/>')}Remover marcação</button>`;
+  posicionarPop(pop, m);
+  pop.onclick = async (e) => {
+    const c = e.target.closest('[data-cor]'), b = e.target.closest('[data-m]');
+    if (c) { ms.forEach((x) => (x.cor = c.dataset.cor)); salvarDados(); }
+    if (b && b.dataset.m === 'remover') { dados.marcas = dados.marcas.filter((x) => x.g !== g); salvarDados(); aviso('Marcação removida'); }
+    if (b && b.dataset.m === 'copiar') {
+      const x = dadosUnidade(ms[0].uid); const fonte = x ? `${x.u.head}, ${x.lei.nome}` : ms[0].nomeLei;
+      aviso((await copiar(`“${ms.map((y) => y.t.trim()).join(' ')}”\n— ${fonte}\n\nLex Vade Mecum: ${x ? x.link : SITE}`)) ? 'Trecho copiado com a fonte' : 'Não foi possível copiar');
+    }
+    if (c || b) { fecharFlutuantes(); aplicarMarcas(atual); }
+  };
+}
+// Envolve o intervalo [ini, fim) do texto do parágrafo em <mark class="mt">.
+function envolver(p, ini, fim, m) {
+  const w = document.createTreeWalker(p, NodeFilter.SHOW_TEXT); let pos = 0; const alvos = [];
+  for (let n = w.nextNode(); n; n = w.nextNode()) {
+    const a = pos, b = pos + n.length; pos = b;
+    if (b <= ini || a >= fim) continue;
+    alvos.push([n, Math.max(ini, a) - a, Math.min(fim, b) - a]);
+  }
+  alvos.forEach(([n, s, e]) => {
+    if (e < n.length) n.splitText(e);
+    const alvo = s > 0 ? n.splitText(s) : n;
+    const mk = document.createElement('mark'); mk.className = 'mt ' + (CORES.includes(m.cor) ? m.cor : 'amarelo');
+    mk.dataset.g = m.g; mk.title = 'Trecho marcado — toque para mudar a cor ou remover';
+    alvo.parentNode.insertBefore(mk, alvo); mk.appendChild(alvo);
+  });
+}
+// Encontra a posição da marcação; se o texto mudou, procura o trecho no mesmo dispositivo.
+function localizar(art, m) {
+  const ps = [...art.querySelectorAll('.oficial p')];
+  const p = ps[m.p];
+  if (p && p.textContent.slice(m.ini, m.fim) === m.t) return [p, m.ini, m.fim];
+  for (const q of (p ? [p] : []).concat(ps)) { const k = q.textContent.indexOf(m.t); if (k >= 0) return [q, k, k + m.t.length]; }
+  return null;
+}
+function aplicarMarcas(id) {
+  const raiz = $('#conteudo');
+  raiz.querySelectorAll('mark.mt').forEach((mk) => { const pai = mk.parentNode; while (mk.firstChild) pai.insertBefore(mk.firstChild, mk); mk.remove(); pai.normalize(); });
+  raiz.querySelectorAll('.dispositivo.tem-marca').forEach((a) => a.classList.remove('tem-marca'));
+  dados.marcas.filter((m) => m.lei === id).forEach((m) => {
+    const art = document.getElementById(`${id}--${m.uid}`); if (!art) return;
+    const pos = localizar(art, m); if (!pos) return;
+    envolver(pos[0], pos[1], pos[2], m); art.classList.add('tem-marca');
+  });
+}
+function telaMarcacoes() {
+  atual = 'marcacoes'; desenharMenu(); desenharSumario();
+  const fav = leis.filter((l) => ehFavorita(l.id));
+  const grupos = {}; dados.marcas.forEach((m) => { (grupos[m.g] = grupos[m.g] || []).push(m); });
+  const porLei = {}; Object.values(grupos).forEach((ms) => { (porLei[ms[0].lei] = porLei[ms[0].lei] || []).push(ms); });
+  const nomeDe = (id, ms) => ((leis.find((l) => l.id === id) || {}).nome) || ms[0][0].nomeLei || id;
+  const rotDe = (uid) => uid.replace(/^art-(\d+)(-[a-z])?$/, (s, n, l) => 'Art. ' + n + (l ? l.toUpperCase() : '')).replace(/^tema-(\d+)$/, 'Tema $1');
+  let h = `<div class="cabecalho-corrido">Lex Vade Mecum · Perfil, favoritos e marcações</div>
+    <h1 class="titulo-obra">Perfil, favoritos e marcações</h1>
+    <p class="subtitulo">Ficam salvos neste navegador enquanto os dados do site não forem apagados. Faça backup para guardar ou levar a outro aparelho.</p>
+    <div class="grade-backup"><button class="btn prim" id="bkExportar">Fazer backup (.json)</button><button class="btn" id="bkImportar">Importar backup</button>${fav.length || dados.marcas.length ? '<button class="btn" id="bkLimpar">Apagar tudo</button>' : ''}</div>
+    <div class="vinheta">❦</div>
+    <section class="secao"><h2>Seu perfil</h2>
+      <p class="aviso-busca">Seu nome e seu @ aparecem no rodapé dos stories e imagens que você gerar (“Compartilhado por …”). Deixe em branco para não aparecer.</p>
+      <form class="perfil" id="formPerfil" autocomplete="on">
+        <label>Nome<input type="text" id="pfNome" maxlength="60" placeholder="Ex.: Maria Souza" value="${esc(dados.perfil.nome)}" autocomplete="name"></label>
+        <label>@ nas redes sociais<input type="text" id="pfArroba" maxlength="41" placeholder="Ex.: @mariasouza.adv" value="${esc(dados.perfil.arroba)}" autocapitalize="off" spellcheck="false"></label>
+        <button class="btn prim" type="submit">Salvar perfil</button>
+      </form>
+    </section>
+    <section class="secao"><h2>Leis favoritas</h2>`;
+  h += fav.length ? `<ol class="indice">${fav.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei"><span class="estrela">★</span>${esc(l.nome)}</span><span class="num-lei">${esc(l.numero)}</span></a></li>`).join('')}</ol>`
+    : '<p class="aviso-busca">Nenhuma lei favorita. Abra uma lei e toque em <b>☆ Favoritar</b>.</p>';
+  h += `</section><section class="secao"><h2>Trechos marcados</h2>`;
+  const ids = Object.keys(porLei);
+  if (!ids.length) h += '<p class="aviso-busca">Nenhum trecho marcado. Selecione um trecho do texto de uma lei e toque em <b>Marcar</b>.</p>';
+  ids.forEach((id) => {
+    const lista = porLei[id].sort((a, b) => a[0].em < b[0].em ? 1 : -1);
+    h += `<h3 class="md" style="text-align:center"><span style="font-family:var(--display);color:var(--titulo);font-size:21px">${esc(nomeDe(id, lista))}</span></h3><ul class="lista-marcas">`;
+    lista.forEach((ms) => {
+      const m = ms[0]; const data = new Date(m.em);
+      h += `<li><span class="cor ${esc(m.cor)}"></span><a href="#/${esc(id)}/${esc(m.uid)}"><b>${esc(rotDe(m.uid))}</b> <span class="l" style="font-family:var(--ui);font-size:12px;color:var(--tinta2)">${isNaN(data) ? '' : data.toLocaleDateString('pt-BR')}</span><q>${esc(ms.map((x) => x.t.replace(/\s+/g, ' ').trim()).join(' … ').slice(0, 400))}</q></a><button class="x" data-rem="${esc(m.g)}" title="Remover marcação" aria-label="Remover marcação">✕</button></li>`;
+    });
+    h += '</ul>';
+  });
+  h += '</section>' + rodape();
+  $('#conteudo').innerHTML = h; $('#main').scrollTop = 0;
+  $('#formPerfil').onsubmit = (e) => {
+    e.preventDefault();
+    dados.perfil = limparPerfil({ nome: $('#pfNome').value, arroba: $('#pfArroba').value });
+    $('#pfNome').value = dados.perfil.nome; $('#pfArroba').value = dados.perfil.arroba;
+    if (salvarDados()) aviso(linhaPerfil() ? 'Perfil salvo — aparecerá nos stories e imagens' : 'Perfil removido dos stories e imagens');
+  };
+  $('#bkExportar').onclick = exportarBackup;
+  $('#bkImportar').onclick = () => $('#arqBackup').click();
+  if ($('#bkLimpar')) $('#bkLimpar').onclick = () => {
+    if (!confirm('Apagar o perfil, as leis favoritas e os trechos marcados deste navegador? Faça um backup antes, se quiser guardá-los.')) return;
+    dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [] }; salvarDados(); telaMarcacoes();
+  };
+  $('#conteudo').querySelectorAll('[data-rem]').forEach((b) => (b.onclick = () => {
+    dados.marcas = dados.marcas.filter((x) => x.g !== b.dataset.rem); salvarDados(); telaMarcacoes();
+  }));
+}
+function exportarBackup() {
+  const hoje = new Date().toISOString().slice(0, 10);
+  const conteudo = JSON.stringify({ app: 'Lex Vade Mecum', tipo: 'backup', criado: new Date().toISOString(), ...dados }, null, 2);
+  const url = URL.createObjectURL(new Blob([conteudo], { type: 'application/json' }));
+  const a = document.createElement('a'); a.href = url; a.download = `lex-vade-mecum-backup-${hoje}.json`;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 4000);
+  aviso('Backup gerado');
+}
+async function importarBackup(arquivo) {
+  let x; try { x = JSON.parse(await arquivo.text()); } catch (e) { return aviso('Arquivo inválido: não é um backup do Lex Vade Mecum'); }
+  if (!x || x.app !== 'Lex Vade Mecum' || !Array.isArray(x.marcas) || !Array.isArray(x.favoritos)) return aviso('Arquivo inválido: não é um backup do Lex Vade Mecum');
+  const ok = (m) => m && typeof m === 'object' && typeof m.lei === 'string' && typeof m.uid === 'string' && typeof m.t === 'string' && Number.isInteger(m.p) && Number.isInteger(m.ini) && Number.isInteger(m.fim);
+  const marcas = x.marcas.filter(ok).map((m) => ({ id: String(m.id || novoId()), g: String(m.g || m.id || novoId()), lei: m.lei, nomeLei: String(m.nomeLei || m.lei), uid: m.uid, p: m.p, ini: m.ini, fim: m.fim, t: m.t, cor: CORES.includes(m.cor) ? m.cor : 'amarelo', em: String(m.em || new Date().toISOString()) }));
+  const favs = x.favoritos.filter((f) => typeof f === 'string');
+  const juntar = dados.favoritos.length || dados.marcas.length
+    ? confirm('Juntar o backup com o que já está salvo neste navegador?\n\nOK = juntar · Cancelar = substituir pelo backup')
+    : true;
+  const perfilBk = limparPerfil(x.perfil);
+  if (juntar) {
+    if (!dados.perfil.nome && !dados.perfil.arroba) dados.perfil = perfilBk;
+    const ids = new Set(dados.marcas.map((m) => m.id));
+    dados.marcas = dados.marcas.concat(marcas.filter((m) => !ids.has(m.id)));
+    dados.favoritos = [...new Set(dados.favoritos.concat(favs))];
+  } else dados = { versao: 1, perfil: perfilBk, favoritos: [...new Set(favs)], marcas };
+  if (salvarDados()) aviso(`Backup importado: ${favs.length} favorita(s) e ${marcas.length} marcação(ões)`);
+  desenharMenu();
+  if (atual === 'marcacoes') telaMarcacoes(); else if (atual && cache[atual]) aplicarMarcas(atual);
 }
 
 /* ---------- Busca ----------
@@ -1115,7 +1391,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);
@@ -1220,6 +1496,7 @@ async function rota() {
   const q = (new URLSearchParams(qs).get('q') || '').replace(/\|/g, ' ').trim();
   if (!id) return inicio();
   if (id === 'sobre') return sobre();
+  if (id === 'marcacoes') return telaMarcacoes();
   if (atual === id && $('#conteudo .titulo-obra') && !q) { desenharMenu(); return irPara(id, alvo); }
   esconderSugestoes();
   await mostrarLei(id, alvo, q);
@@ -1228,6 +1505,7 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
 
 (async function () {
   try { const t = localStorage.getItem('lex-tema'); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  carregarDados();
   $('#temaBtn').onclick = () => {
     const cur = document.documentElement.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     const novo = cur === 'dark' ? 'light' : 'dark';
@@ -1237,6 +1515,8 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
   ligarAcoes();
   $('#topoBtn').onclick = () => ($('#main').scrollTop = 0);
   $('#sobreBtn').onclick = () => { location.hash = '#/sobre'; fecharMenu(); };
+  $('#marcasBtn').onclick = () => { location.hash = '#/marcacoes'; fecharMenu(); };
+  $('#arqBackup').onchange = (e) => { const f = e.target.files[0]; e.target.value = ''; if (f) importarBackup(f); };
   $('#formBusca').onsubmit = (e) => { e.preventDefault(); fecharMenu(); buscar($('#q').value, $('#escopo').value); };
   try { await carregarCatalogo(); } catch (e) { return erro(e); }
   if (!leis.length) return erro(new Error('Nenhuma lei encontrada no README.'));

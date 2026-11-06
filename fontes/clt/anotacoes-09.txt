@@ -1,0 +1,274 @@
+@CLT 499
+I: Não há estabilidade decenal em cargos de diretoria, gerência ou confiança imediata, mas o tempo conta para todos os efeitos. O estável que deixa o cargo de confiança volta ao cargo efetivo, e quem só exerceu cargo de confiança por mais de 10 anos tem indenização se dispensado sem justa causa. Regra residual após o FGTS.
+P: Cargos de confiança sem estabilidade decenal || Reversão ao cargo efetivo || Indenização residual após 10 anos
+K: cargo de confiança; estabilidade decenal; reversão
+
+@CLT 500
+I: O pedido de demissão do empregado estável só vale com assistência do sindicato ou, na falta, da autoridade do Ministério do Trabalho ou da Justiça do Trabalho. A jurisprudência aplica a exigência a outras estabilidades, como a da gestante.
+P: Pedido de demissão do estável exige assistência || Sindicato, Ministério ou Justiça do Trabalho || Aplicação a estabilidades provisórias
+K: pedido de demissão; estável; assistência sindical; gestante
+
+@CLT 501
+I: Define força maior como acontecimento inevitável, alheio à vontade do empregador e para o qual ele não concorreu. A imprevidência do empregador a exclui, e se o evento não afetar substancialmente a situação econômica da empresa, não se aplicam as regras do Capítulo.
+P: Força maior = evento inevitável sem participação do empregador || Imprevidência exclui a força maior || Exige impacto econômico substancial
+K: força maior; risco do negócio; imprevidência
+
+@CLT 502
+I: Se a força maior extinguir a empresa ou o estabelecimento, o empregado dispensado recebe indenização reduzida: integral para o estável, metade para o não estável e metade da indenização do art. 479 nos contratos a prazo. Hoje a multa do FGTS cai para 20% (Lei nº 8.036/1990, art. 18, § 2º).
+P: Indenização reduzida por força maior || Multa do FGTS de 20% || Aplica-se à extinção da empresa ou estabelecimento
+K: força maior; extinção da empresa; indenização reduzida
+
+@CLT 503
+I: Em força maior ou prejuízos comprovados, permitia redução geral de salários de até 25%, respeitado o mínimo. A Constituição (art. 7º, VI) passou a exigir convenção ou acordo coletivo para reduzir salários, o que limita a aplicação deste artigo.
+P: Redução salarial de até 25% por força maior || Hoje depende de negociação coletiva (CF, art. 7º, VI) || Restabelecimento após cessar a causa
+K: redução salarial; força maior; irredutibilidade
+
+@CLT 504
+I: Comprovada falsa alegação de força maior, os estáveis são reintegrados e os não estáveis recebem o complemento da indenização, além da remuneração atrasada.
+P: Sanção à falsa alegação de força maior || Reintegração ou complemento da indenização || Pagamento dos atrasados
+K: força maior; falsa alegação; reintegração
+
+@CLT 505
+I: Estendia aos rurais capítulos deste Título. Hoje o trabalho rural é regido pela Lei nº 5.889/1973, com aplicação subsidiária da CLT, e a Constituição igualou direitos urbanos e rurais (art. 7º, caput).
+P: Extensão histórica aos rurais || Lei nº 5.889/1973 hoje rege o rural || Igualdade constitucional
+K: trabalhador rural; Lei 5.889/1973
+
+@CLT 506
+I: No contrato agrícola, admite-se remuneração in natura com produtos da exploração, até um terço do salário total.
+P: Pagamento in natura com produtos agrícolas || Limite de 1/3 do salário || Regra específica do trabalho rural
+K: trabalho rural; salário in natura; produtos agrícolas
+
+@CLT 507
+I: As regras do capítulo sobre estabilidade não se aplicam aos empregados de consultórios ou escritórios de profissionais liberais.
+P: Exclusão da estabilidade decenal || Consultórios e escritórios de profissionais liberais || Regra residual
+K: profissional liberal; estabilidade; exclusão
+
+@CLT 507-A
+I: Para empregados com remuneração superior a duas vezes o teto do RGPS, pode ser pactuada cláusula compromissória de arbitragem, por iniciativa do empregado ou com sua concordância expressa (Lei nº 9.307/1996).
+P: Arbitragem para empregados de alta remuneração || Iniciativa ou concordância expressa do empregado || Lei de Arbitragem
+K: arbitragem; cláusula compromissória; hipersuficiente
+
+@CLT 507-B
+I: Empregados e empregadores podem firmar, perante o sindicato dos empregados, termo de quitação anual das obrigações trabalhistas, com eficácia liberatória das parcelas nele discriminadas.
+P: Quitação anual perante o sindicato || Eficácia liberatória limitada às parcelas especificadas || Facultativa
+K: quitação anual; sindicato; eficácia liberatória
+
+@CLT 510
+I: Prevê multa para a empresa que violar as proibições do Título do contrato individual, dobrada na reincidência. O art. 461, § 7º, fixa multa específica de 10 vezes o novo salário para a discriminação salarial.
+P: Multa por infrações ao Título IV || Dobro na reincidência || Multa específica da igualdade salarial (art. 461, § 7º)
+K: multa administrativa; contrato individual
+
+@CLT 510-A
+I: Empresas com mais de 200 empregados devem permitir a eleição de comissão de representantes para promover o entendimento direto com o empregador: 3 membros (até 3.000 empregados), 5 (até 5.000) e 7 (acima), com comissões por estado se houver empregados em várias unidades da federação. Concretiza o art. 11 da Constituição.
+P: Comissão obrigatória acima de 200 empregados || Número de membros conforme o porte || Fundamento no art. 11 da Constituição
+K: comissão de representantes; representação dos empregados; art. 11 da Constituição
+
+@CLT 510-B
+I: A comissão representa os empregados perante a empresa, promove diálogo e prevenção de conflitos, busca soluções rápidas, combate discriminações, encaminha reivindicações e acompanha o cumprimento das normas trabalhistas e coletivas, decidindo por maioria.
+P: Representação e diálogo com a empresa || Prevenção de conflitos e combate à discriminação || Acompanhamento das normas
+K: comissão de representantes; atribuições; diálogo social
+
+@CLT 510-C
+I: A eleição é convocada por edital com 30 dias de antecedência, organizada por comissão eleitoral de 5 empregados sem interferência da empresa ou do sindicato, com voto secreto. Não podem se candidatar empregados com contrato a prazo, suspenso ou em aviso prévio.
+P: Edital com 30 dias e comissão eleitoral independente || Voto secreto || Restrições a candidatos
+K: eleição; comissão de representantes; voto secreto
+
+@CLT 510-D
+I: O mandato é de um ano, sem reeleição nos dois períodos seguintes, sem suspensão do contrato. Desde o registro da candidatura até um ano após o mandato, o membro não pode sofrer despedida arbitrária (sem motivo disciplinar, técnico, econômico ou financeiro).
+P: Mandato de um ano || Garantia contra despedida arbitrária || Proibição de reeleição imediata
+K: comissão de representantes; estabilidade; mandato
+
+@CLT 511
+I: Autoriza a associação sindical de empregadores, empregados, autônomos e profissionais liberais da mesma atividade ou atividades similares ou conexas, e define categoria econômica, categoria profissional e categoria profissional diferenciada (profissão regulamentada ou estatuto próprio). É a base do enquadramento sindical.
+P: Liberdade de associação sindical (CF, art. 8º) || Conceitos de categoria econômica, profissional e diferenciada || Base do enquadramento sindical
+K: sindicato; categoria profissional; categoria econômica; categoria diferenciada
+
+@CLT 512
+I: Só associações registradas podem ser reconhecidas como sindicatos. Com a Constituição de 1988 (art. 8º, I), o Estado não pode interferir na organização sindical, mas o registro no Ministério do Trabalho permanece para controlar a unicidade (Súmula 677 do STF).
+P: Registro como condição de reconhecimento || Vedação de interferência estatal (CF, art. 8º, I) || Registro para controle da unicidade (Súmula 677 do STF)
+K: registro sindical; unicidade; Súmula 677 do STF
+
+@CLT 513
+I: Lista as prerrogativas dos sindicatos: representar a categoria perante autoridades administrativas e judiciais, celebrar normas coletivas, eleger representantes, colaborar com o Estado e impor contribuições. A substituição processual ampla é reconhecida pelo STF com base no art. 8º, III, da Constituição. A contribuição prevista na alínea e deve ser lida com o STF (Tema 935): contribuição assistencial cabe a todos da categoria, assegurado o direito de oposição.
+P: Representação da categoria e negociação coletiva || Substituição processual ampla (CF, art. 8º, III) || Contribuição assistencial com direito de oposição (STF, Tema 935)
+K: prerrogativas sindicais; substituição processual; negociação coletiva; contribuição assistencial
+
+@CLT 514
+I: Lista deveres dos sindicatos, como colaborar com o poder público, manter assistência jurídica aos associados e promover a conciliação nos dissídios.
+P: Assistência jurídica aos associados || Promoção da conciliação || Colaboração com o poder público
+K: deveres sindicais; assistência jurídica; conciliação
+
+@CLT 515
+I: Lista requisitos para reconhecimento sindical (número mínimo de associados, mandato de 3 anos, presidente brasileiro). Requisitos que implicam interferência estatal ou distinções de nacionalidade devem ser lidos à luz do art. 8º da Constituição, que garante autonomia sindical.
+P: Requisitos históricos de reconhecimento || Mandato de 3 anos da diretoria || Leitura conforme a autonomia sindical (CF, art. 8º)
+K: reconhecimento sindical; requisitos; autonomia sindical
+
+@CLT 516
+I: Proíbe mais de um sindicato da mesma categoria na mesma base territorial (unicidade sindical), regra mantida pelo art. 8º, II, da Constituição, que fixa a base mínima no município.
+P: Unicidade sindical || Base territorial mínima: município || Mantida pela Constituição
+K: unicidade sindical; base territorial; sindicato único
+
+@CLT 517
+I: Permite sindicatos distritais, municipais, intermunicipais, estaduais e interestaduais, e nacionais em casos excepcionais, podendo criar delegacias ou seções. A base territorial passou a ser definida pelos trabalhadores ou empregadores (CF, art. 8º, II), não mais outorgada pelo Ministro.
+P: Abrangência territorial dos sindicatos || Base definida pelos interessados (CF, art. 8º, II) || Delegacias e seções sindicais
+K: base territorial; sindicato; delegacia sindical
+
+@CLT 518
+I: Regulava o pedido de reconhecimento sindical ao Ministro e o conteúdo dos estatutos, com cláusulas de subordinação ao interesse nacional. Hoje vale a autonomia estatutária (CF, art. 8º, I), restando o registro administrativo.
+P: Procedimento histórico de reconhecimento || Conteúdo mínimo dos estatutos || Autonomia sindical prevalece
+K: estatuto sindical; reconhecimento; autonomia
+
+@CLT 519
+I: Previa a investidura sindical da associação mais representativa a juízo do Ministro, por número de associados, serviços e patrimônio. A escolha estatal é incompatível com a autonomia sindical; a representatividade hoje é discutida no registro e na Justiça.
+P: Critério histórico da maior representatividade || Interferência estatal vedada pela Constituição || Disputas de representação resolvidas na Justiça do Trabalho
+K: investidura sindical; representatividade; conflito de representação
+
+@CLT 520
+I: O reconhecimento sindical era formalizado por carta do Ministro, investindo o sindicato nas prerrogativas e deveres legais. Atualmente o registro no órgão competente cumpre a função de publicidade e controle da unicidade.
+P: Carta de reconhecimento histórica || Prerrogativas e deveres || Hoje: registro sindical
+K: carta sindical; registro sindical; reconhecimento
+
+@CLT 521
+I: Lista condições de funcionamento do sindicato, como gratuidade dos cargos eletivos e vedação de atividades político-partidárias. Restrições que interfiram na autonomia devem ser lidas à luz do art. 8º da Constituição.
+P: Condições históricas de funcionamento || Vedação de atividade político-partidária || Autonomia sindical como baliza
+K: funcionamento do sindicato; autonomia sindical
+
+@CLT 522
+I: Fixa a administração do sindicato em diretoria de 3 a 7 membros e conselho fiscal de 3, eleitos pela assembleia. O TST considera o limite recepcionado pela Constituição e restringe a estabilidade sindical a 7 dirigentes e igual número de suplentes (Súmula 369, II).
+P: Diretoria de 3 a 7 membros e conselho fiscal de 3 || Limite de 7 dirigentes para estabilidade (Súmula 369, II) || Conselho fiscal só fiscaliza finanças
+K: diretoria sindical; conselho fiscal; estabilidade sindical; Súmula 369
+
+@CLT 523
+I: Os delegados sindicais que dirigem delegacias ou seções são designados pela diretoria entre associados da região. Delegados designados não têm a estabilidade dos dirigentes eleitos (OJ 369 da SBDI-1).
+P: Delegado sindical designado pela diretoria || Atua nas delegacias regionais || Sem estabilidade (OJ 369)
+K: delegado sindical; delegacia sindical
+
+@CLT 524
+I: Exige escrutínio secreto nas deliberações da assembleia sobre eleições, contas, patrimônio, penalidades e dissídios coletivos, com quórum especial para estes.
+P: Voto secreto em matérias relevantes || Assembleia específica para dissídios || Transparência interna
+K: assembleia sindical; escrutínio secreto; deliberações
+
+@CLT 525
+I: Proíbe a interferência de estranhos na administração do sindicato. A exceção que permitia delegados do Ministério não é compatível com a vedação de interferência estatal (CF, art. 8º, I).
+P: Vedação de interferência externa || Exceção ministerial superada pela Constituição || Autonomia administrativa
+K: autonomia sindical; interferência; administração do sindicato
+
+@CLT 526
+I: Os empregados do sindicato são nomeados pela diretoria, com vedações por inelegibilidade, e têm direito às leis trabalhistas e previdenciárias, inclusive de se sindicalizar.
+P: Nomeação pela diretoria || Empregados de sindicato são protegidos pela CLT || Direito de associação sindical
+K: empregado de sindicato; nomeação; direitos trabalhistas
+
+@CLT 527
+I: Determina que cada sindicato mantenha livro de registro de associados com dados das empresas ou dos trabalhadores. A autenticação ministerial deve ser lida à luz da autonomia sindical.
+P: Registro de associados || Dados de empresas e trabalhadores || Controle interno
+K: registro de associados; sindicato
+
+@CLT 528
+I: Permitia ao Ministro intervir em sindicatos por dissídio ou segurança nacional. A Constituição de 1988 vedou a intervenção estatal (art. 8º, I), e a regra não foi recepcionada.
+P: Intervenção estatal em sindicatos (histórica) || Não recepcionada (CF, art. 8º, I) || Conflitos internos vão à Justiça
+K: intervenção sindical; autonomia sindical; não recepção
+
+@CLT 529
+I: Fixa condições para votar e ser votado em eleições sindicais: mais de 6 meses de associação e 2 anos de atividade, maioridade e gozo dos direitos sindicais, com voto obrigatório. Os estatutos podem dispor de modo diverso, em respeito à autonomia.
+P: Requisitos de elegibilidade e voto || Voto obrigatório dos associados || Autonomia estatutária
+K: eleição sindical; voto; elegibilidade
+
+@CLT 530
+I: Lista inelegibilidades para cargos sindicais, como contas não aprovadas, lesão ao patrimônio sindical, falta de exercício da atividade há 2 anos e condenações criminais.
+P: Inelegibilidades sindicais || Proteção do patrimônio da entidade || Critérios de probidade
+K: inelegibilidade; eleição sindical; dirigente
+
+@CLT 531
+I: Nas eleições para diretoria e conselho fiscal, é eleito quem obtiver maioria absoluta dos eleitores; não alcançada, nova convocação com maioria dos presentes, com regras para chapa única.
+P: Maioria absoluta em primeira convocação || Maioria dos presentes na segunda || Regras para chapa única
+K: eleição sindical; quórum; maioria
+
+@CLT 532
+I: As eleições devem ocorrer entre 60 e 30 dias antes do fim do mandato, com prazos para protestos e recursos.
+P: Prazo de 60 a 30 dias antes do fim do mandato || Recursos eleitorais || Regras supletivas aos estatutos
+K: eleição sindical; prazo; recurso
+
+@CLT 533
+I: Federações e confederações são as associações sindicais de grau superior.
+P: Estrutura sindical em graus || Federações e confederações || Sistema confederativo (CF, art. 8º, IV)
+K: federação; confederação; grau superior
+
+@CLT 534
+I: Pelo menos 5 sindicatos que representem a maioria absoluta de um grupo de atividades podem formar federação, em regra estadual.
+P: Mínimo de 5 sindicatos para federação || Maioria absoluta do grupo || Base estadual
+K: federação; constituição; sindicatos
+
+@CLT 535
+I: As confederações têm no mínimo 3 federações e sede na capital, com denominações históricas para empregadores e trabalhadores (indústria, comércio, transportes, crédito etc.).
+P: Mínimo de 3 federações || Sede na capital federal || Confederações nacionais por setor
+K: confederação; estrutura sindical
+
+@CLT 537
+I: Regula o pedido de reconhecimento das federações e a carta de reconhecimento, hoje substituídos pelo registro sindical, respeitada a autonomia.
+P: Reconhecimento de federações || Requisitos dos estatutos || Hoje registro no órgão competente
+K: federação; reconhecimento; registro
+
+@CLT 538
+I: A administração de federações e confederações cabe a diretoria, conselho de representantes e conselho fiscal, com mandato de 3 anos.
+P: Três órgãos de administração || Mandato de 3 anos || Conselho de representantes das entidades filiadas
+K: federação; confederação; administração
+
+@CLT 539
+I: Aplicam-se às federações, no que couber, as regras de constituição e administração dos sindicatos.
+P: Aplicação subsidiária das regras sindicais || Constituição e administração || Coerência do sistema
+K: federação; regras sindicais
+
+@CLT 540
+I: Toda empresa ou trabalhador da categoria tem direito de ser admitido no sindicato. Perde os direitos quem deixa a atividade, mas aposentados, desempregados e convocados ao serviço militar os mantêm.
+P: Direito de filiação || Aposentados e desempregados mantêm direitos || Perda ao deixar a atividade
+K: filiação sindical; associado; aposentado
+
+@CLT 541
+I: Onde não houver sindicato da categoria, o trabalhador pode filiar-se ao de atividade idêntica, similar ou conexa mais próximo.
+P: Filiação ao sindicato mais próximo || Atividade similar ou conexa || Evita vazio de representação
+K: filiação sindical; categoria conexa
+
+@CLT 542
+I: Qualquer exercente da atividade pode recorrer de atos lesivos dos órgãos sindicais em 30 dias. O recurso ao Ministério tornou-se incompatível com a autonomia; hoje a via é judicial.
+P: Impugnação de atos sindicais lesivos || Prazo de 30 dias || Hoje pela via judicial
+K: impugnação; ato sindical; recurso
+
+@CLT 543
+I: O dirigente sindical eleito não pode ser impedido de exercer suas funções nem transferido para local que as dificulte. Desde o registro da candidatura até um ano após o fim do mandato, não pode ser dispensado salvo falta grave apurada (CF, art. 8º, VIII), e a empresa deve ser comunicada em 24 horas.
+P: Estabilidade do dirigente sindical (CF, art. 8º, VIII) || Vedada transferência que impeça o mandato || Comunicação à empresa em 24 horas (§ 5º)
+K: dirigente sindical; estabilidade sindical; transferência; inquérito
+
+@CLT 544
+I: A associação sindical é livre, mas o sindicalizado tem preferência, em igualdade de condições, em admissões em empresas públicas, concursos habitacionais e outros benefícios. Preferências assim são discutidas à luz da liberdade sindical negativa (CF, art. 8º, V).
+P: Liberdade de associação || Preferências ao sindicalizado || Compatibilidade com a liberdade sindical negativa
+K: liberdade sindical; sindicalizado; preferência
+
+@CLT 545
+I: O empregador deve descontar da folha as contribuições ao sindicato autorizadas pelo empregado e repassá-las até o 10º dia, sob pena de juros de 10%, multa e responsabilidade penal por apropriação indébita.
+P: Desconto em folha com autorização do empregado || Repasse até o 10º dia || Sanções pelo atraso no repasse
+K: contribuição sindical; desconto em folha; repasse
+
+@CLT 546
+I: Empresas sindicalizadas teriam preferência, em igualdade de condições, em concorrências públicas. A regra não se harmoniza com a legislação de licitações e a liberdade sindical.
+P: Preferência histórica em concorrências || Incompatível com licitações isonômicas || Liberdade sindical
+K: empresa sindicalizada; licitação; preferência
+
+@CLT 547
+I: Exige sindicalização para funções representativas em órgãos oficiais e para benefícios fiscais, regra que deve ser lida à luz da liberdade de não se filiar (CF, art. 8º, V).
+P: Exigência histórica de sindicalização || Funções representativas e favores fiscais || Liberdade sindical negativa
+K: sindicalização; representação; benefícios fiscais
+
+@CLT 548
+I: Compõem o patrimônio sindical as contribuições da categoria, as dos associados, bens e rendas, doações e multas. A contribuição sindical obrigatória deixou de existir com a Reforma Trabalhista (STF, ADI 5.794).
+P: Fontes de receita sindical || Contribuição sindical hoje facultativa (ADI 5.794) || Contribuições associativas e assistenciais
+K: patrimônio sindical; receitas; contribuição sindical
+
+@CLT 549
+I: A receita sindical só pode ser aplicada conforme o orçamento anual, e a alienação ou aquisição de imóveis exige avaliação prévia e autorização da assembleia.
+P: Aplicação conforme orçamento || Imóveis: avaliação e autorização da assembleia || Controle da gestão
+K: gestão financeira; sindicato; imóveis
+
+@CLT 550
+I: Os orçamentos sindicais são aprovados em escrutínio secreto pela assembleia ou conselho até 30 dias antes do exercício e publicados em resumo.
+P: Aprovação do orçamento por voto secreto || Publicação em resumo || Prazo de 30 dias antes do exercício
+K: orçamento sindical; assembleia; publicidade

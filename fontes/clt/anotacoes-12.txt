@@ -1,0 +1,299 @@
+@CLT 648
+I: Previa a incompatibilidade de parentes até o terceiro grau para atuar na mesma Junta. Com a extinção das Juntas e dos vogais (EC nº 24/1999), o impedimento por parentesco segue hoje as regras gerais da magistratura e do processo.
+P: Incompatibilidade por parentesco (histórica) || Juntas extintas || Regras gerais de impedimento
+K: impedimento; parentesco; Junta de Conciliação e Julgamento
+
+@CLT 649
+I: Regulava o funcionamento das Juntas e o voto de desempate do presidente. Com a EC nº 24/1999, as Varas do Trabalho passaram a ter juiz singular, e a regra perdeu aplicação.
+P: Funcionamento colegiado das Juntas (histórico) || Voto de desempate do presidente || Hoje juiz singular
+K: Junta; funcionamento; juiz singular
+
+@CLT 650
+I: A jurisdição de cada Vara do Trabalho abrange o território da comarca onde tem sede, alterável apenas por lei federal.
+P: Jurisdição territorial da Vara || Alteração só por lei federal || Leis locais não interferem
+K: jurisdição; Vara do Trabalho; comarca
+
+@CLT 651
+I: A competência territorial da Vara do Trabalho é fixada pelo local onde o empregado presta serviços, ainda que contratado em outro lugar ou no exterior. Para viajantes comerciais, vale a localidade da agência a que estiverem subordinados ou o domicílio do empregado; se o empregador atua fora do local da contratação, o empregado pode escolher o foro da contratação ou da prestação. Brasileiros que trabalhem no exterior podem ajuizar no Brasil.
+P: Regra geral: local da prestação de serviços || Exceções para viajantes e empregadores itinerantes || Trabalho no exterior por empresa brasileira
+K: competência territorial; local da prestação de serviços; foro
+
+@CLT 652
+I: Lista a competência das Varas do Trabalho: dissídios sobre estabilidade, remuneração, férias, indenizações, empreitadas de operário ou artífice e demais dissídios individuais, além de ações de avulsos e, desde a Reforma, homologação de acordo extrajudicial (alínea f). A competência atual é mais ampla, conforme o art. 114 da Constituição.
+P: Competência das Varas para dissídios individuais || Homologação de acordo extrajudicial (alínea f) || Ampliação pela EC nº 45/2004
+K: competência das Varas do Trabalho; acordo extrajudicial; homologação
+
+@CLT 653
+I: Atribui às Varas outras competências, como requisitar diligências, cumprir cartas precatórias, julgar suspeições de seus membros e impor multas. Algumas referências são históricas.
+P: Diligências e cartas precatórias || Julgamento de suspeições || Atribuições complementares
+K: competência; diligências; carta precatória
+
+@CLT 654
+I: O ingresso na magistratura do trabalho ocorre como juiz do trabalho substituto, por concurso público, com promoções alternadas por antiguidade e merecimento (CF, art. 93). Regras históricas sobre suplentes e nomeações foram superadas.
+P: Ingresso por concurso como juiz substituto || Promoção por antiguidade e merecimento || Regras constitucionais da magistratura
+K: magistratura do trabalho; concurso; juiz substituto; promoção
+
+@CLT 655
+I: Regulava a posse dos juízes perante o presidente do TRT, com regras históricas para estados sem sede de tribunal e territórios.
+P: Posse perante o presidente do TRT || Regras históricas || Hoje regulamentos dos tribunais
+K: posse; juiz do trabalho; TRT
+
+@CLT 656
+I: O juiz do trabalho substituto pode atuar nas Varas quando não estiver substituindo o titular, em zonas definidas pelo TRT, com designação conforme critérios do tribunal.
+P: Atuação do juiz substituto || Divisão da Região em zonas || Designação pelo TRT
+K: juiz substituto; designação; Vara do Trabalho
+
+@CLT 657
+I: Os juízes do trabalho recebem os vencimentos (subsídios) fixados em lei, hoje conforme o regime constitucional da magistratura.
+P: Remuneração fixada em lei || Subsídio da magistratura || Regime constitucional
+K: subsídio; magistratura do trabalho
+
+@CLT 658
+I: Lista deveres dos juízes do trabalho: conduta exemplar, imparcialidade, residência na jurisdição, cumprimento de prazos, entre outros. Complementa a Lei Orgânica da Magistratura (LC nº 35/1979).
+P: Deveres funcionais do juiz || Imparcialidade e residência na jurisdição || Complementa a LOMAN
+K: deveres do juiz; magistratura; LOMAN
+
+@CLT 659
+I: Lista as atribuições do juiz da Vara, como presidir audiências e executar decisões, e concede liminar para tornar sem efeito transferência ilegal (inciso IX) e reintegrar dirigente sindical afastado ou dispensado (inciso X).
+P: Presidir audiências e executar decisões || Liminar contra transferência ilegal (IX) || Liminar para reintegrar dirigente sindical (X)
+K: atribuições do juiz; liminar; dirigente sindical; transferência
+
+@CLT 660
+I: Os vogais das Juntas eram designados pelo presidente do TRT. A representação classista foi extinta pela EC nº 24/1999.
+P: Designação de vogais (histórica) || Representação classista extinta || Sem aplicação atual
+K: vogal; juiz classista; EC 24/1999
+
+@CLT 661
+I: Fixava requisitos para ser vogal (nacionalidade, idoneidade, idade, sindicalização). Sem aplicação após a extinção da representação classista.
+P: Requisitos dos vogais (históricos) || Extinção pela EC nº 24/1999 || Sem aplicação atual
+K: vogal; requisitos; juiz classista
+
+@CLT 662
+I: Regulava a escolha dos vogais a partir de listas sindicais. Sem aplicação após a EC nº 24/1999.
+P: Listas sindicais para vogais (histórico) || Representação classista extinta || Sem aplicação atual
+K: vogal; listas sindicais
+
+@CLT 663
+I: Fixava a investidura de 3 anos dos vogais e sua substituição. Sem aplicação após a EC nº 24/1999.
+P: Mandato de 3 anos (histórico) || Substituição pelos suplentes || Sem aplicação atual
+K: vogal; mandato
+
+@CLT 664
+I: Os vogais tomavam posse perante o presidente da Junta. Norma sem aplicação após a extinção da representação classista.
+P: Posse dos vogais (histórica) || Junta extinta || Sem aplicação atual
+K: vogal; posse
+
+@CLT 665
+I: Garantia aos vogais as prerrogativas dos jurados durante a investidura. Sem aplicação após a EC nº 24/1999.
+P: Prerrogativas de jurado (histórico) || Vogais extintos || Sem aplicação atual
+K: vogal; prerrogativas
+
+@CLT 666
+I: Previa gratificação por audiência aos vogais, até 20 por mês. Sem aplicação após a EC nº 24/1999.
+P: Gratificação dos vogais (histórica) || Limite de 20 audiências || Sem aplicação atual
+K: vogal; gratificação
+
+@CLT 667
+I: Listava prerrogativas dos vogais, como votar, aconselhar conciliação e pedir vista. Sem aplicação após a EC nº 24/1999.
+P: Prerrogativas dos vogais (históricas) || Representação classista extinta || Sem aplicação atual
+K: vogal; prerrogativas; juiz classista
+
+@CLT 668
+I: Onde não houver Vara do Trabalho, os juízes de direito exercem a jurisdição trabalhista (CF, art. 112), com recurso ao TRT.
+P: Juiz de direito investido de jurisdição trabalhista || Na falta de Vara do Trabalho || Recurso ao TRT (CF, art. 112)
+K: juiz de direito; jurisdição trabalhista; comarca
+
+@CLT 669
+I: Os juízes de direito investidos na jurisdição trabalhista têm a mesma competência das Varas, distribuindo-se os processos entre os juízes cíveis onde houver mais de um.
+P: Mesma competência das Varas || Distribuição entre juízes cíveis || Organização judiciária local
+K: juiz de direito; competência trabalhista
+
+@CLT 670
+I: Fixava a composição histórica dos TRTs, com juízes togados e classistas. Hoje a composição segue o art. 115 da Constituição (mínimo de 7 juízes, com quinto constitucional) e leis específicas de cada tribunal.
+P: Composição histórica dos TRTs || Hoje regida pelo art. 115 da Constituição || Classistas extintos
+K: TRT; composição; quinto constitucional
+
+@CLT 671
+I: Aplicava aos TRTs a incompatibilidade por parentesco do art. 648, hoje regulada pelas normas gerais da magistratura e dos regimentos.
+P: Impedimento por parentesco nos TRTs || Normas gerais da magistratura || Regra histórica
+K: TRT; impedimento; parentesco
+
+@CLT 672
+I: Fixava quórum de deliberação dos TRTs com exigência de classistas. Hoje os quóruns são definidos pelos regimentos internos, sem classistas.
+P: Quórum histórico dos TRTs || Hoje definido pelo regimento interno || Classistas extintos
+K: TRT; quórum; regimento interno
+
+@CLT 673
+I: A ordem das sessões dos TRTs é estabelecida no regimento interno.
+P: Ordem das sessões no regimento || Autonomia dos tribunais (CF, art. 96) || Organização interna
+K: TRT; sessões; regimento interno
+
+@CLT 674
+I: Dividia o país em oito regiões trabalhistas. Hoje há 24 Tribunais Regionais do Trabalho, criados por leis específicas, e a referência é histórica.
+P: Divisão regional histórica || Hoje 24 TRTs || Criação por lei federal
+K: regiões trabalhistas; TRT; jurisdição
+
+@CLT 676
+I: Atribuía ao Presidente da República alterar regiões e tribunais. Hoje a criação e a alteração de tribunais dependem de lei, por iniciativa do Judiciário (CF, art. 96, II).
+P: Competência histórica do Executivo || Hoje depende de lei (CF, art. 96, II) || Iniciativa do Judiciário
+K: TRT; criação de tribunais; iniciativa legislativa
+
+@CLT 677
+I: A competência dos TRTs segue a regra territorial do art. 651, e nos dissídios coletivos é definida pelo local do conflito.
+P: Competência territorial dos TRTs || Dissídio coletivo pelo local do conflito || Remete ao art. 651
+K: TRT; competência; dissídio coletivo
+
+@CLT 678
+I: Define as competências do Pleno e das Turmas dos TRTs divididos em turmas: o Pleno julga originariamente dissídios coletivos, revisões, mandados de segurança e outros feitos; as Turmas julgam recursos ordinários e agravos de petição. Detalhes dependem dos regimentos internos.
+P: Pleno: dissídios coletivos e ações originárias || Turmas: recursos ordinários e agravos || Regimentos complementam
+K: TRT; competência; Pleno; Turmas
+
+@CLT 679
+I: Nos TRTs não divididos em turmas, o Pleno concentra as competências do artigo anterior.
+P: Tribunal pleno único || Concentração de competências || TRTs menores
+K: TRT; Pleno; competência
+
+@CLT 680
+I: Os TRTs ou suas Turmas também determinam diligências, fiscalizam suas decisões, declaram nulidades, julgam suspeições e exercem outras atribuições previstas em lei.
+P: Atribuições complementares dos TRTs || Fiscalização das próprias decisões || Julgamento de suspeições
+K: TRT; atribuições; diligências
+
+@CLT 681
+I: Os presidentes e vice-presidentes dos TRTs tomam posse perante os respectivos tribunais.
+P: Posse perante o próprio tribunal || Presidente e vice-presidente || Regimento interno
+K: TRT; presidente; posse
+
+@CLT 682
+I: Lista atribuições privativas dos presidentes dos TRTs, como dar posse, conceder licenças, presidir sessões e decidir questões administrativas. Referências aos vogais são históricas.
+P: Atribuições administrativas do presidente do TRT || Posse e licenças || Referências históricas aos vogais
+K: TRT; presidente; atribuições
+
+@CLT 683
+I: Regula a substituição dos presidentes dos TRTs em faltas e impedimentos, hoje complementada pelos regimentos internos.
+P: Substituição do presidente do TRT || Regras de convocação || Regimento interno
+K: TRT; substituição; presidente
+
+@CLT 684
+I: Regulava a designação dos juízes classistas dos TRTs. Sem aplicação após a EC nº 24/1999.
+P: Classistas nos TRTs (histórico) || Extintos em 1999 || Sem aplicação atual
+K: juiz classista; TRT
+
+@CLT 685
+I: Regulava a escolha dos classistas dos TRTs por listas sindicais. Sem aplicação após a EC nº 24/1999.
+P: Listas sindicais para classistas (histórico) || Extinção da representação classista || Sem aplicação atual
+K: juiz classista; listas
+
+@CLT 687
+I: Os classistas dos TRTs tomavam posse perante o presidente do tribunal. Sem aplicação atual.
+P: Posse de classistas (histórica) || Extintos em 1999 || Sem aplicação atual
+K: juiz classista; posse
+
+@CLT 688
+I: Aplicava aos classistas dos TRTs regras de mandato e prerrogativas dos vogais. Sem aplicação após a EC nº 24/1999.
+P: Remissão às regras dos vogais (histórica) || Classistas extintos || Sem aplicação atual
+K: juiz classista; mandato
+
+@CLT 689
+I: Previa gratificação por sessão aos classistas dos TRTs e desconto por retenção de processos. Sem aplicação após a EC nº 24/1999.
+P: Gratificação dos classistas (histórica) || Desconto por retenção de processos || Sem aplicação atual
+K: juiz classista; gratificação
+
+@CLT 690
+I: O TST, com sede na capital e jurisdição nacional, é a instância máxima da Justiça do Trabalho, funcionando em composição plena ou em órgãos fracionários. A paridade classista foi extinta; a composição atual está no art. 111-A da Constituição.
+P: TST como instância máxima trabalhista || Jurisdição nacional || Composição pelo art. 111-A da Constituição
+K: Tribunal Superior do Trabalho; TST; jurisdição nacional
+
+@CLT 693
+I: Fixava a composição histórica do TST em 17 ministros, com togados e classistas. Hoje o TST tem 27 ministros, nomeados pelo Presidente da República após aprovação do Senado, com quinto constitucional (CF, art. 111-A).
+P: Composição histórica do TST || Hoje 27 ministros (CF, art. 111-A) || Classistas extintos
+K: TST; composição; ministros
+
+@CLT 694
+I: Previa a origem dos ministros togados do TST (magistrados, advogados e Ministério Público). Hoje vigora o art. 111-A da Constituição: um quinto entre advogados e membros do MPT, e os demais entre juízes dos TRTs de carreira.
+P: Origem dos ministros do TST || Quinto constitucional || Regra atual no art. 111-A
+K: TST; ministros; quinto constitucional
+
+@CLT 696
+I: Considerava renúncia a ausência injustificada de membro a mais de três sessões consecutivas, regra pensada para os classistas. Hoje a disciplina dos ministros segue a LOMAN e o regimento.
+P: Renúncia por faltas (histórica) || Pensada para classistas || Hoje LOMAN e regimento
+K: TST; faltas; renúncia
+
+@CLT 697
+I: Em licença superior a 30 dias ou vacância, os ministros do TST podem ser substituídos por juízes de TRT convocados, conforme o regimento.
+P: Convocação de desembargadores de TRT || Licenças e vacância || Regimento do TST
+K: TST; convocação; substituição
+
+@CLT 699
+I: Fixava quóruns históricos de deliberação do TST. Hoje os quóruns são definidos pelo Regimento Interno do TST.
+P: Quóruns históricos || Hoje no Regimento Interno || Composição atual de 27 ministros
+K: TST; quórum; regimento
+
+@CLT 700
+I: O TST reúne-se em dias fixados pelo presidente, que pode convocar sessões extraordinárias.
+P: Calendário fixado pelo presidente || Sessões extraordinárias || Regimento complementa
+K: TST; sessões
+
+@CLT 701
+I: As sessões do TST são públicas, com horários e regras de convocação extraordinária; debates podem ser reservados por interesse público. A publicidade dos julgamentos é garantida pelo art. 93, IX, da Constituição.
+P: Sessões públicas || Reserva excepcional por interesse público || Publicidade constitucional (art. 93, IX)
+K: TST; sessões públicas; publicidade
+
+@CLT 702
+I: Define as competências do Pleno do TST, como declarar inconstitucionalidade, julgar dissídios coletivos de âmbito nacional e editar súmulas. Os requisitos rígidos para editar súmulas incluídos pela Reforma (alínea f e §§ 3º e 4º) foram declarados inconstitucionais pelo STF (ADI 6.188). Hoje a distribuição interna de competências segue o Regimento Interno do TST.
+P: Competências do Pleno do TST || Requisitos da Reforma para súmulas afastados pelo STF (ADI 6.188) || Regimento Interno detalha a organização
+K: TST; Pleno; súmulas; ADI 6.188
+
+@CLT 707
+I: Lista as atribuições do Presidente do TST: presidir sessões, superintender serviços, expedir instruções, fazer cumprir decisões e despachar recursos, entre outras.
+P: Atribuições administrativas e judiciais do Presidente || Expedição de instruções || Cumprimento das decisões
+K: TST; presidente; atribuições
+
+@CLT 708
+I: O Vice-Presidente do TST substitui o Presidente em faltas e impedimentos; na ausência de ambos, preside o ministro mais antigo.
+P: Substituição do Presidente || Ministro mais antigo na ausência de ambos || Regimento detalha
+K: TST; vice-presidente; substituição
+
+@CLT 710
+I: Cada Vara do Trabalho tem uma secretaria dirigida por servidor designado pelo juiz, com gratificação de função.
+P: Secretaria da Vara || Diretor de secretaria designado || Organização administrativa
+K: secretaria da Vara; diretor de secretaria
+
+@CLT 711
+I: Compete à secretaria da Vara receber, autuar, movimentar e guardar os processos, manter protocolo, registrar decisões, informar as partes e cumprir as ordens do juiz, hoje majoritariamente no processo eletrônico (PJe).
+P: Atividades cartorárias da Vara || Informação às partes || Processo Judicial Eletrônico
+K: secretaria; processo; PJe
+
+@CLT 712
+I: Lista as atribuições do diretor de secretaria: superintender os trabalhos, cumprir ordens, submeter despachos ao juiz, abrir correspondência e assinar certidões, entre outras.
+P: Chefia da secretaria || Cumprimento das ordens judiciais || Expedição de certidões
+K: diretor de secretaria; atribuições
+
+@CLT 713
+I: Onde houver mais de uma Vara do Trabalho, haverá distribuidor.
+P: Distribuição entre Varas || Garantia do juiz natural || Hoje eletrônica
+K: distribuição; Vara do Trabalho
+
+@CLT 714
+I: O distribuidor distribui os processos pela ordem de entrada, fornece recibo e mantém registros por nome de reclamante e reclamado. Hoje a distribuição é eletrônica e aleatória.
+P: Distribuição por ordem de entrada || Registros de partes || Distribuição eletrônica atual
+K: distribuição; distribuidor; juiz natural
+
+@CLT 715
+I: Os distribuidores são designados pelo presidente do TRT entre servidores da localidade.
+P: Designação pelo presidente do TRT || Servidores da localidade || Subordinação administrativa
+K: distribuidor; designação
+
+@CLT 716
+I: Os cartórios dos juízos de direito investidos na jurisdição trabalhista têm as mesmas atribuições das secretarias das Varas, com distribuição alternada entre cartórios.
+P: Cartórios com funções de secretaria trabalhista || Distribuição alternada || Jurisdição delegada
+K: cartório; juiz de direito; jurisdição trabalhista
+
+@CLT 717
+I: Os escrivães dos juízos de direito investidos na jurisdição trabalhista têm as atribuições dos diretores de secretaria das Varas.
+P: Escrivão com funções de diretor de secretaria || Jurisdição trabalhista delegada || Simetria
+K: escrivão; juiz de direito
+
+@CLT 718
+I: Cada TRT tem uma secretaria dirigida por servidor designado, com gratificação de função.
+P: Secretaria do TRT || Direção por servidor designado || Organização administrativa
+K: TRT; secretaria

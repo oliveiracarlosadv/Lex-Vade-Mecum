@@ -1,0 +1,299 @@
+@CLT 833
+I: Erros materiais da decisão (de escrita, datilografia ou cálculo) podem ser corrigidos antes da execução, de ofício ou a requerimento das partes ou do MPT.
+P: Correção de erro material || De ofício ou a requerimento || Não altera o conteúdo decisório
+K: erro material; correção; sentença
+
+@CLT 834
+I: Salvo exceções legais, a publicação da decisão e a intimação das partes consideram-se feitas na própria audiência em que é proferida. A parte intimada para a audiência de julgamento que não comparece tem o prazo de recurso contado da publicação (Súmula 197 do TST).
+P: Publicação da sentença em audiência || Intimação presumida das partes || Prazo recursal da data da audiência (Súmula 197)
+K: publicação; intimação; sentença em audiência; Súmula 197
+
+@CLT 835
+I: O acordo ou a decisão devem ser cumpridos no prazo e nas condições fixados.
+P: Cumprimento nos termos fixados || Prazo e condições || Base para a execução
+K: cumprimento; acordo; decisão
+
+@CLT 836
+I: Os órgãos da Justiça do Trabalho não podem rejulgar questões já decididas, salvo as exceções legais e a ação rescisória, que segue o CPC (hoje arts. 966 e seguintes do CPC/2015) e exige depósito prévio de 20% do valor da causa, salvo miserabilidade do autor. A execução da rescisória é feita nos autos originais.
+P: Coisa julgada protegida || Ação rescisória com depósito de 20% || Dispensa para quem prova miserabilidade
+K: ação rescisória; coisa julgada; depósito prévio
+
+@CLT 837
+I: Onde houver apenas uma Vara (ou um juízo de direito), a reclamação é apresentada diretamente à sua secretaria ou cartório.
+P: Apresentação direta sem distribuição || Vara única || Simplificação
+K: reclamação; apresentação; Vara única
+
+@CLT 838
+I: Onde houver mais de uma Vara ou juízo, a reclamação é previamente distribuída (arts. 783 a 788).
+P: Distribuição obrigatória || Pluralidade de Varas || Remissão aos arts. 783 a 788
+K: distribuição; reclamação
+
+@CLT 839
+I: A reclamação pode ser apresentada pelos empregados e empregadores, pessoalmente ou por representantes, pelos sindicatos e por intermédio das Procuradorias do Trabalho.
+P: Legitimados para reclamar || Atuação pessoal ou por representante || Sindicatos e MPT
+K: reclamação; legitimidade; jus postulandi
+
+@CLT 840
+I: A reclamação pode ser escrita ou verbal. Se escrita, deve conter juízo, qualificação das partes, breve exposição dos fatos, pedido certo, determinado e com valor, data e assinatura. Desde a Reforma Trabalhista, pedidos sem esses requisitos são extintos sem resolução do mérito; o TST tem admitido valores por estimativa (IN nº 41/2018, art. 12, § 2º).
+P: Requisitos da petição inicial trabalhista || Pedido líquido, com indicação de valor || Extinção sem mérito se descumprido (§ 3º)
+K: petição inicial; pedido líquido; valor do pedido; Reforma Trabalhista
+
+@CLT 841
+I: Recebida a reclamação, a secretaria envia ao reclamado, em 48 horas, cópia da inicial e notificação para a audiência, a primeira desimpedida após 5 dias. A notificação é postal e, se frustrada, por edital. Depois de oferecida a contestação, mesmo eletrônica, o reclamante não pode desistir sem consentimento do reclamado (§ 3º).
+P: Notificação do reclamado em 48 horas || Prazo mínimo de 5 dias até a audiência || Desistência depende de anuência após a contestação
+K: notificação; citação; audiência; desistência
+
+@CLT 842
+I: Várias reclamações com identidade de matéria podem ser reunidas num só processo (reclamação plúrima) se os empregados forem da mesma empresa ou estabelecimento.
+P: Litisconsórcio ativo facultativo || Identidade de matéria || Mesma empresa ou estabelecimento
+K: reclamação plúrima; litisconsórcio; cumulação
+
+@CLT 843
+I: Reclamante e reclamado devem comparecer pessoalmente à audiência, salvo em reclamações plúrimas ou ações de cumprimento, em que o sindicato pode representar. O empregador pode enviar preposto que conheça os fatos e cujas declarações o obrigam; desde a Reforma, o preposto não precisa ser empregado (§ 3º). O empregado impedido por doença pode ser representado por colega ou pelo sindicato, apenas para evitar o arquivamento.
+P: Comparecimento pessoal obrigatório || Preposto com conhecimento dos fatos, não necessariamente empregado || Representação do empregado doente para evitar arquivamento
+K: audiência; preposto; comparecimento; representação
+
+@CLT 844
+I: A ausência do reclamante gera arquivamento; a do reclamado, revelia e confissão quanto à matéria de fato. O reclamante ausente paga custas mesmo com justiça gratuita, salvo justificativa em 15 dias, e esse pagamento condiciona nova ação (o STF validou a regra na ADI 5.766). A revelia não produz efeitos em casos como pluralidade de réus com contestação, direitos indisponíveis ou documento indispensável, e a contestação e os documentos são aceitos se o advogado estiver presente.
+P: Arquivamento × revelia e confissão || Custas do reclamante ausente, mesmo beneficiário da gratuidade || Exceções à revelia e aceitação da defesa com advogado presente (§§ 4º e 5º)
+K: revelia; confissão ficta; arquivamento; custas; ausência
+
+@CLT 845
+I: As partes devem comparecer à audiência acompanhadas de suas testemunhas e apresentar as demais provas.
+P: Testemunhas trazidas pelas partes || Concentração das provas || Audiência una
+K: audiência; testemunhas; provas
+
+@CLT 846
+I: Aberta a audiência, o juiz propõe a conciliação. Havendo acordo, lavra-se termo com prazo e condições de cumprimento, podendo prever que o inadimplente pague integralmente o pedido ou uma indenização (cláusula penal).
+P: Primeira proposta de conciliação || Termo de acordo com prazo e condições || Cláusula penal pelo descumprimento
+K: conciliação; acordo; cláusula penal
+
+@CLT 847
+I: Não havendo acordo, o reclamado tem 20 minutos para defesa oral, após a leitura da reclamação, salvo dispensa. Pode também apresentar defesa escrita pelo PJe até a audiência.
+P: Defesa oral em 20 minutos || Defesa escrita pelo PJe até a audiência || Contestação após a conciliação frustrada
+K: contestação; defesa; audiência; PJe
+
+@CLT 848
+I: Após a defesa, segue a instrução: o juiz pode interrogar as partes e, depois, ouvem-se testemunhas, peritos e técnicos. Interrogada, a parte pode retirar-se, prosseguindo com seu representante.
+P: Interrogatório das partes || Oitiva de testemunhas e peritos || Ordem da instrução
+K: instrução; interrogatório; depoimento pessoal
+
+@CLT 849
+I: A audiência é contínua; se não puder terminar no mesmo dia por força maior, prossegue na primeira data desimpedida, sem nova notificação.
+P: Continuidade da audiência || Adiamento só por força maior || Dispensa de nova notificação
+K: audiência una; continuidade
+
+@CLT 850
+I: Encerrada a instrução, as partes têm até 10 minutos cada para razões finais; em seguida, o juiz renova a proposta de conciliação e, frustrada, profere a decisão. O parágrafo único se refere aos extintos vogais (representação classista, extinta pela EC nº 24/1999).
+P: Razões finais orais de 10 minutos || Segunda proposta de conciliação obrigatória || Decisão após conciliação frustrada
+K: razões finais; conciliação; sentença
+
+@CLT 851
+I: A instrução e o julgamento são resumidos em ata, com a decisão na íntegra; a ata deve ser juntada em 48 horas. As referências a vogais e Juntas são históricas.
+P: Ata de audiência com a decisão || Juntada em 48 horas || Terminologia histórica
+K: ata; audiência; sentença
+
+@CLT 852
+I: Os litigantes são notificados da decisão na própria audiência, pessoalmente ou por representante; o revel é notificado por via postal ou edital (art. 841, § 1º).
+P: Intimação da sentença em audiência || Revel notificado por correio ou edital || Início do prazo recursal
+K: intimação; sentença; revelia
+
+@CLT 852-A
+I: Os dissídios individuais de até 40 salários mínimos seguem o procedimento sumaríssimo, exceto quando for parte a Administração Pública direta, autárquica ou fundacional.
+P: Rito sumaríssimo até 40 salários mínimos || Exclusão da Administração Pública || Celeridade processual
+K: procedimento sumaríssimo; valor da causa; rito
+
+@CLT 852-B
+I: No sumaríssimo, o pedido deve ser certo ou determinado e com valor, não há citação por edital e a causa deve ser apreciada em até 15 dias. O descumprimento dos requisitos gera arquivamento e custas, e as partes devem comunicar mudança de endereço.
+P: Pedido líquido || Vedada a citação por edital || Julgamento em até 15 dias
+K: procedimento sumaríssimo; pedido líquido; citação por edital
+
+@CLT 852-C
+I: As causas do rito sumaríssimo são instruídas e julgadas em audiência única, podendo ser convocado juiz substituto para atuar ao mesmo tempo que o titular.
+P: Audiência única || Juiz substituto convocável || Concentração dos atos
+K: procedimento sumaríssimo; audiência única
+
+@CLT 852-D
+I: No sumaríssimo, o juiz tem liberdade para definir as provas, limitar as excessivas, impertinentes ou protelatórias e valorizar as regras de experiência comum ou técnica.
+P: Ampla direção do juiz sobre a prova || Exclusão de provas protelatórias || Regras de experiência
+K: procedimento sumaríssimo; provas; poderes do juiz
+
+@CLT 852-E
+I: No sumaríssimo, o juiz esclarece as partes sobre as vantagens da conciliação e busca o acordo em qualquer fase da audiência.
+P: Estímulo à conciliação || Em qualquer fase || Meios adequados de persuasão
+K: procedimento sumaríssimo; conciliação
+
+@CLT 852-F
+I: A ata do sumaríssimo registra resumidamente os atos essenciais, as afirmações fundamentais das partes e as informações úteis da prova testemunhal.
+P: Ata resumida || Registro do essencial || Simplicidade
+K: procedimento sumaríssimo; ata
+
+@CLT 852-G
+I: No sumaríssimo, incidentes e exceções que afetem o andamento são decididos de plano; as demais questões, na sentença.
+P: Decisão imediata dos incidentes || Demais questões na sentença || Celeridade
+K: procedimento sumaríssimo; incidentes; exceções
+
+@CLT 852-H
+I: No sumaríssimo, todas as provas são produzidas em audiência, mesmo sem requerimento prévio; a parte se manifesta de imediato sobre documentos. Cada parte leva até 2 testemunhas, intimadas só se comprovadamente convidadas. A perícia só ocorre quando a lei exigir ou o fato o impuser, com prazo para o laudo e manifestação das partes em 5 dias.
+P: Prova concentrada na audiência || Até 2 testemunhas, intimadas só se convidadas || Perícia excepcional, com prazo
+K: procedimento sumaríssimo; testemunhas; perícia; provas
+
+@CLT 852-I
+I: A sentença do sumaríssimo dispensa relatório, mencionando os elementos de convicção e o resumo dos fatos relevantes. O juiz adota a decisão mais justa e equânime, atento aos fins sociais da lei, e as partes são intimadas na própria audiência.
+P: Dispensa de relatório || Decisão justa e equânime || Intimação em audiência
+K: procedimento sumaríssimo; sentença; equidade
+
+@CLT 853
+I: Para dispensar empregado estável por falta grave, o empregador deve ajuizar inquérito judicial, por escrito, em até 30 dias da suspensão do empregado. O prazo é decadencial (Súmula 403 do STF) e o inquérito é exigido, por exemplo, para o dirigente sindical (Súmula 379 do TST).
+P: Inquérito judicial para estável || Prazo decadencial de 30 dias da suspensão || Exigido para dirigente sindical (Súmula 379)
+K: inquérito para apuração de falta grave; estabilidade; decadência; dirigente sindical
+
+@CLT 854
+I: O inquérito segue as regras do processo das reclamações, com as particularidades desta seção.
+P: Rito comum do processo trabalhista || Especificidades do inquérito || Integração normativa
+K: inquérito para apuração de falta grave; procedimento
+
+@CLT 855
+I: Se a estabilidade já tiver sido reconhecida, o julgamento do inquérito não impede a execução dos salários devidos até a instauração do inquérito.
+P: Salários anteriores ao inquérito garantidos || Estabilidade previamente reconhecida || Independência das execuções
+K: inquérito; estabilidade; salários
+
+@CLT 855-A
+I: Aplica-se ao processo do trabalho o incidente de desconsideração da personalidade jurídica do CPC (arts. 133 a 137). Na fase de conhecimento a decisão não é recorrível de imediato; na execução cabe agravo de petição, sem garantia do juízo; no tribunal, agravo interno. O incidente suspende o processo, sem prejuízo de tutela de urgência.
+P: Incidente do CPC aplicável || Recorribilidade conforme a fase || Suspensão do processo e tutela cautelar
+K: desconsideração da personalidade jurídica; incidente; agravo de petição; sócios
+
+@CLT 855-B
+I: A homologação de acordo extrajudicial começa por petição conjunta, com advogados obrigatórios e distintos para cada parte; o trabalhador pode ser assistido pelo advogado do sindicato.
+P: Petição conjunta || Advogados obrigatórios e distintos || Assistência sindical facultativa
+K: acordo extrajudicial; homologação; jurisdição voluntária
+
+@CLT 855-C
+I: A homologação de acordo extrajudicial não altera o prazo de pagamento das verbas rescisórias (art. 477, § 6º) nem afasta a multa do art. 477, § 8º.
+P: Prazo rescisório mantido || Multa do art. 477 aplicável || Acordo não posterga direitos
+K: acordo extrajudicial; verbas rescisórias; multa do art. 477
+
+@CLT 855-D
+I: Em 15 dias da distribuição, o juiz analisa o acordo, designa audiência se necessário e profere sentença. O juiz não é obrigado a homologar (Súmula 418 do TST, aplicada por analogia).
+P: Prazo de 15 dias || Audiência facultativa || Juiz pode recusar a homologação
+K: acordo extrajudicial; homologação; sentença
+
+@CLT 855-E
+I: A petição de homologação suspende a prescrição quanto aos direitos nela especificados; negada a homologação, o prazo volta a correr no dia útil seguinte ao trânsito em julgado.
+P: Suspensão da prescrição || Limitada aos direitos especificados || Retomada após o trânsito da recusa
+K: acordo extrajudicial; prescrição; suspensão
+
+@CLT 856
+I: O dissídio coletivo é instaurado por representação escrita ao presidente do tribunal; em caso de greve, também por iniciativa do presidente ou do MPT. A CF (art. 114, § 3º) prevê a legitimidade do MPT em greve em atividade essencial com risco ao interesse público.
+P: Instauração por representação escrita || Greve permite iniciativa do tribunal ou do MPT || Harmonização com o art. 114 da CF
+K: dissídio coletivo; instauração; greve; MPT
+
+@CLT 857
+I: A legitimidade para o dissídio coletivo é das entidades sindicais; sem sindicato da categoria, cabe à federação e, na falta, à confederação. Desde a EC nº 45/2004, o dissídio de natureza econômica exige comum acordo das partes (CF, art. 114, § 2º).
+P: Legitimidade sindical || Federações e confederações subsidiariamente || Comum acordo no dissídio econômico (CF, art. 114, § 2º)
+K: dissídio coletivo; legitimidade; sindicato; comum acordo
+
+@CLT 858
+I: A representação deve trazer tantas vias quantos forem os suscitados, a qualificação das partes, a natureza do estabelecimento, os motivos do dissídio e as bases da conciliação.
+P: Requisitos da petição de dissídio coletivo || Motivos e bases da conciliação || Qualificação das partes
+K: dissídio coletivo; petição inicial; requisitos
+
+@CLT 859
+I: A representação sindical para instaurar dissídio depende de aprovação em assembleia dos interessados, por 2/3 em primeira convocação ou 2/3 dos presentes em segunda. Hoje prevalece o quórum do estatuto sindical, por força da autonomia sindical (CF, art. 8º, I).
+P: Autorização da assembleia || Quórum legal de 2/3 || Autonomia sindical e estatuto
+K: dissídio coletivo; assembleia; quórum
+
+@CLT 860
+I: Recebida a representação, o presidente do tribunal designa audiência de conciliação em até 10 dias, notificando as partes. Instaurado de ofício, a audiência deve ocorrer o mais breve possível.
+P: Audiência de conciliação em 10 dias || Notificação das partes || Urgência no dissídio de ofício
+K: dissídio coletivo; conciliação; audiência
+
+@CLT 861
+I: No dissídio coletivo, o empregador pode ser representado por gerente ou preposto que conheça o dissídio, respondendo por suas declarações.
+P: Representação por preposto || Conhecimento do dissídio || Responsabilidade do empregador
+K: dissídio coletivo; preposto
+
+@CLT 862
+I: Na audiência, o presidente convida as partes a se pronunciarem sobre as bases da conciliação e, se rejeitadas, propõe a solução que lhe pareça adequada.
+P: Debate das bases de conciliação || Proposta do presidente || Mediação judicial
+K: dissídio coletivo; conciliação; mediação
+
+@CLT 863
+I: Havendo acordo no dissídio coletivo, o presidente o submete à homologação do tribunal na primeira sessão.
+P: Homologação pelo tribunal || Primeira sessão || Acordo com força de sentença normativa
+K: dissídio coletivo; acordo; homologação
+
+@CLT 864
+I: Sem acordo ou com ausência das partes, o processo vai a julgamento após as diligências necessárias e o parecer do MPT.
+P: Julgamento na falta de acordo || Diligências prévias || Parecer do MPT
+K: dissídio coletivo; julgamento; MPT
+
+@CLT 865
+I: Havendo ameaça à ordem durante o dissídio, o presidente requisita providências à autoridade competente.
+P: Manutenção da ordem || Requisição de força pública || Poder de polícia
+K: dissídio coletivo; ordem pública
+
+@CLT 866
+I: Se o dissídio ocorrer fora da sede do tribunal, o presidente pode delegar à autoridade local a conciliação; frustrada, ela devolve o processo com exposição dos fatos e sugestão de solução.
+P: Delegação da conciliação || Relatório da autoridade delegada || Descentralização
+K: dissídio coletivo; delegação; conciliação
+
+@CLT 867
+I: As partes são notificadas da decisão e ela é publicada. A sentença normativa vigora da publicação (ou do ajuizamento, se não houver norma coletiva vigente) quando o dissídio for proposto fora do prazo do art. 616, § 3º; se proposto no prazo, vigora a partir do fim da norma anterior.
+P: Publicação da sentença normativa || Data de início da vigência || Prazo do art. 616, § 3º
+K: sentença normativa; vigência; dissídio coletivo
+
+@CLT 868
+I: Se o dissídio envolver só parte dos empregados de uma empresa, o tribunal pode estender as novas condições aos demais da mesma profissão. A vigência não pode passar de 4 anos.
+P: Extensão aos demais empregados da empresa || Mesma profissão || Vigência máxima de 4 anos
+K: sentença normativa; extensão; vigência
+
+@CLT 869
+I: A decisão pode ser estendida a toda a categoria na jurisdição do tribunal, a pedido de empregadores, sindicatos, do MPT ou de ofício.
+P: Extensão à categoria || Legitimados para pedir || Iniciativa do tribunal
+K: sentença normativa; extensão; categoria
+
+@CLT 870
+I: A extensão depende da concordância de 3/4 dos empregadores e 3/4 dos empregados (ou seus sindicatos), com prazo de 30 a 60 dias para manifestação e parecer do MPT.
+P: Quórum de 3/4 || Prazo de 30 a 60 dias || Parecer do MPT
+K: sentença normativa; extensão; quórum
+
+@CLT 871
+I: Ao estender a decisão, o tribunal fixa a data de início da extensão.
+P: Data de vigência da extensão || Segurança jurídica || Ato do tribunal
+K: sentença normativa; extensão; vigência
+
+@CLT 872
+I: Celebrado o acordo ou transitada a decisão, segue-se o cumprimento. Se o empregador não pagar os salários fixados, os empregados ou o sindicato, sem precisar de outorga, podem propor ação de cumprimento na Vara, sem rediscutir a matéria já decidida. A ação dispensa o trânsito em julgado da sentença normativa (Súmula 246 do TST).
+P: Ação de cumprimento || Sindicato como substituto processual || Dispensa do trânsito em julgado (Súmula 246)
+K: ação de cumprimento; sentença normativa; substituição processual; Súmula 246
+
+@CLT 873
+I: Após mais de 1 ano de vigência, as decisões que fixam condições de trabalho podem ser revistas se mudarem as circunstâncias e as condições se tornarem injustas ou inaplicáveis.
+P: Revisão após 1 ano || Cláusula rebus sic stantibus || Mudança das circunstâncias
+K: revisão; sentença normativa; rebus sic stantibus
+
+@CLT 874
+I: A revisão pode ser promovida pelo tribunal prolator, pelo MPT, pelos sindicatos ou pelos empregadores interessados, com 30 dias para manifestação dos demais.
+P: Legitimados para a revisão || Prazo de 30 dias para manifestação || Contraditório
+K: revisão; sentença normativa; legitimidade
+
+@CLT 875
+I: A revisão é julgada pelo tribunal que proferiu a decisão, ouvido o MPT.
+P: Competência do tribunal prolator || Parecer do MPT || Simetria de competência
+K: revisão; sentença normativa; competência
+
+@CLT 876
+I: São executadas na Justiça do Trabalho as decisões transitadas ou sem recurso com efeito suspensivo, os acordos descumpridos, os TACs firmados com o MPT e os termos das Comissões de Conciliação Prévia. A Justiça do Trabalho executa de ofício as contribuições previdenciárias sobre as condenações e acordos que homologar (Súmula Vinculante 53).
+P: Títulos executivos judiciais e extrajudiciais || TAC e termo de CCP || Execução de ofício das contribuições sobre a condenação (SV 53)
+K: execução; título executivo; contribuição previdenciária; Súmula Vinculante 53
+
+@CLT 877
+I: A execução compete ao juiz ou presidente do tribunal que conciliou ou julgou originariamente o dissídio.
+P: Competência funcional da execução || Juízo da causa || Perpetuação da competência
+K: execução; competência
+
+@CLT 877-A
+I: A execução de título extrajudicial compete ao juiz que seria competente para o processo de conhecimento da mesma matéria.
+P: Competência para título extrajudicial || Critério do processo de conhecimento || Simetria
+K: execução; título extrajudicial; competência

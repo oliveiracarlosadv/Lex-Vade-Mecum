@@ -1,0 +1,249 @@
+@CLT 151
+I: Determina que, enquanto não houver caderneta profissional específica para marítimos, as férias sejam anotadas pela Capitania dos Portos na caderneta-matrícula do tripulante. Norma de caráter histórico, hoje complementada pelos registros eletrônicos.
+P: Anotação das férias do marítimo pela Capitania dos Portos || Caderneta-matrícula do tripulante || Regra de transição histórica
+K: marítimo; caderneta-matrícula; anotação de férias; Capitania dos Portos
+
+@CLT 152
+I: Durante as férias, a remuneração do tripulante é acrescida da etapa (valor da alimentação a bordo) que estiver vencendo.
+P: Férias do tripulante incluem a etapa || Valor correspondente à alimentação a bordo || Regra especial dos marítimos
+K: marítimo; etapa; remuneração das férias; tripulante
+
+@CLT 153
+I: As infrações ao capítulo de férias são punidas com multa de 160 BTN por empregado em situação irregular, dobrada em caso de reincidência, embaraço à fiscalização ou fraude. O BTN foi extinto e os valores são convertidos pela legislação de multas administrativas.
+P: Multa por empregado em situação irregular || Dobro na reincidência, embaraço ou fraude || Valor em BTN, convertido pela legislação posterior
+K: multa administrativa; férias; fiscalização; BTN
+
+@CLT 154
+I: O cumprimento das regras de segurança e medicina do trabalho da CLT não dispensa as empresas de observar as normas de códigos de obras, regulamentos sanitários estaduais e municipais e normas coletivas sobre a matéria.
+P: Normas de segurança da CLT são o mínimo || Convivem com normas locais e coletivas || Abre o capítulo de Segurança e Medicina do Trabalho
+K: segurança e medicina do trabalho; normas sanitárias; código de obras; convenção coletiva
+
+@CLT 155
+I: Atribui ao órgão nacional de segurança e medicina do trabalho (hoje no Ministério do Trabalho) editar normas sobre o capítulo, especialmente as Normas Regulamentadoras (NRs) previstas no art. 200, coordenar a fiscalização e julgar recursos em última instância administrativa.
+P: Edição das Normas Regulamentadoras (NRs) || Coordenação nacional da fiscalização || Última instância administrativa em segurança do trabalho
+K: Normas Regulamentadoras; NR; segurança do trabalho; Ministério do Trabalho
+
+@CLT 156
+I: Compete às unidades regionais do Ministério do Trabalho fiscalizar o cumprimento das normas de segurança e saúde, determinar obras e reparos necessários e aplicar penalidades.
+P: Fiscalização regional || Determinação de obras e reparos || Aplicação de multas (art. 201)
+K: fiscalização do trabalho; superintendência regional; segurança do trabalho
+
+@CLT 157
+I: Impõe às empresas cumprir e fazer cumprir as normas de segurança e medicina do trabalho, instruir os empregados por ordens de serviço sobre a prevenção de acidentes e doenças, adotar as medidas determinadas pela autoridade e facilitar a fiscalização.
+P: Dever de cumprir e fazer cumprir as normas de segurança || Ordens de serviço sobre prevenção || Colaboração com a fiscalização
+K: deveres do empregador; segurança do trabalho; ordem de serviço; prevenção de acidentes
+
+@CLT 158
+I: Os empregados devem observar as normas de segurança e as instruções do empregador e colaborar com sua aplicação. A recusa injustificada a seguir as instruções ou a usar os equipamentos de proteção individual fornecidos é ato faltoso, que pode levar a sanções disciplinares e até justa causa.
+P: Dever do empregado de seguir as normas de segurança || Recusa injustificada ao EPI é falta (parágrafo único) || Pode fundamentar sanção disciplinar
+K: deveres do empregado; EPI; ato faltoso; segurança do trabalho
+
+@CLT 159
+I: Por convênio autorizado pelo Ministro do Trabalho, a fiscalização e a orientação em segurança e saúde podem ser delegadas a outros órgãos federais, estaduais ou municipais.
+P: Delegação da fiscalização por convênio || Órgãos federais, estaduais ou municipais || Cooperação federativa
+K: convênio; delegação; fiscalização; segurança do trabalho
+
+@CLT 160
+I: Nenhum estabelecimento pode iniciar atividades sem inspeção e aprovação prévia das instalações pela autoridade regional de segurança e medicina do trabalho. Modificações substanciais exigem nova inspeção, e as empresas podem pedir aprovação prévia dos projetos.
+P: Inspeção prévia antes do início das atividades || Nova inspeção após modificação substancial || Aprovação prévia de projetos facultativa
+K: inspeção prévia; aprovação de instalações; segurança do trabalho
+
+@CLT 161
+I: Diante de laudo técnico que demonstre risco grave e iminente, a autoridade regional pode interditar estabelecimento, setor, máquina ou equipamento, ou embargar obra. A medida pode ser requerida pela fiscalização, por auditor ou por sindicato, cabe recurso em 10 dias, e quem desobedecer responde penalmente. Durante a paralisação, os empregados recebem salários normalmente.
+P: Interdição ou embargo por risco grave e iminente || Requerimento por auditor fiscal ou sindicato; recurso em 10 dias || Salários garantidos durante a paralisação (§ 6º)
+K: interdição; embargo; risco grave e iminente; laudo técnico; segurança do trabalho
+
+@CLT 162
+I: As empresas devem manter serviços especializados em segurança e medicina do trabalho (SESMT), conforme normas do Ministério do Trabalho, que classificam as empresas pelo número de empregados e grau de risco e definem o número e a qualificação dos profissionais.
+P: SESMT obrigatório conforme porte e risco || Dimensionamento pela NR-4 || Profissionais especializados
+K: SESMT; serviço especializado; segurança do trabalho; NR-4
+
+@CLT 163
+I: Torna obrigatória a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) nos estabelecimentos e obras definidos pelo Ministério do Trabalho, que regulamenta sua composição e funcionamento. A inclusão do assédio no nome reflete a ampliação de suas funções pela Lei nº 14.457/2022.
+P: CIPA obrigatória conforme regulamentação (NR-5) || Prevenção de acidentes e de assédio || Composição e funcionamento definidos pelo Ministério
+K: CIPA; prevenção de acidentes; assédio; NR-5
+
+@CLT 164
+I: A CIPA é composta por representantes do empregador (designados) e dos empregados (eleitos por voto secreto, sem exigência de filiação sindical). O mandato dos eleitos é de um ano, com uma reeleição; o empregador designa o presidente, e os empregados elegem o vice.
+P: Composição paritária: designados e eleitos || Mandato de um ano, com uma reeleição || Presidente indicado pela empresa; vice eleito pelos empregados
+K: CIPA; eleição; mandato; cipeiro; composição
+
+@CLT 165
+I: Os representantes eleitos dos empregados na CIPA não podem sofrer despedida arbitrária, entendida como a que não se funda em motivo disciplinar, técnico, econômico ou financeiro. Cabe ao empregador provar o motivo, sob pena de reintegração. A Constituição (ADCT, art. 10, II, a) garante estabilidade desde o registro da candidatura até um ano após o mandato, inclusive ao suplente (Súmula 339 do TST).
+P: Garantia contra despedida arbitrária do cipeiro eleito || Ônus da prova do empregador || Estabilidade do registro da candidatura até um ano após o mandato (ADCT, art. 10, II, a)
+K: estabilidade do cipeiro; CIPA; despedida arbitrária; reintegração; Súmula 339 do TST
+
+@CLT 166
+I: A empresa deve fornecer gratuitamente equipamento de proteção individual (EPI) adequado ao risco e em perfeito estado, sempre que as medidas coletivas não protejam completamente. O fornecimento do EPI, por si só, não exime do adicional de insalubridade se não neutralizar o agente (Súmula 289 do TST).
+P: EPI gratuito e adequado ao risco || Subsidiário às medidas de proteção coletiva || Fornecer não basta: é preciso fiscalizar o uso (Súmula 289 do TST)
+K: EPI; equipamento de proteção individual; segurança do trabalho; insalubridade
+
+@CLT 167
+I: O equipamento de proteção só pode ser vendido ou usado com o Certificado de Aprovação (CA) do Ministério do Trabalho.
+P: EPI exige Certificado de Aprovação (CA) || Vale para venda e uso || Garantia de eficácia do equipamento
+K: certificado de aprovação; CA; EPI; segurança do trabalho
+
+@CLT 168
+I: Torna obrigatórios, por conta do empregador, os exames médicos admissional, demissional e periódicos, além de complementares a critério médico, com resultados comunicados ao trabalhador. O empregador deve manter material de primeiros socorros. Para motoristas profissionais, exige exame toxicológico na admissão e no desligamento, com janela mínima de 90 dias, contraprova e sigilo.
+P: Exames admissional, periódico e demissional pagos pelo empregador || Resultado comunicado ao trabalhador, com ética médica || Exame toxicológico para motorista profissional (§§ 6º e 7º)
+K: exame admissional; exame demissional; ASO; PCMSO; exame toxicológico; motorista profissional
+
+@CLT 169
+I: É obrigatória a notificação das doenças profissionais e das decorrentes de condições especiais de trabalho, comprovadas ou suspeitas, conforme instruções do Ministério do Trabalho.
+P: Notificação obrigatória de doenças ocupacionais || Inclui casos suspeitos || Relaciona-se à CAT previdenciária
+K: doença profissional; notificação; doença ocupacional; CAT
+
+@CLT 169-A
+I: Obriga as empresas a informar os empregados sobre campanhas oficiais de vacinação, HPV e cânceres de mama, colo do útero e próstata, promover ações de conscientização, orientar sobre o acesso a diagnósticos e informar o direito de faltar sem prejuízo do salário para exames preventivos (art. 473, XII).
+P: Dever de informação sobre vacinação e prevenção de cânceres || Ações de conscientização || Direito à ausência remunerada para exames preventivos (art. 473, XII)
+K: saúde do trabalhador; vacinação; HPV; câncer; exames preventivos
+
+@CLT 170
+I: As edificações devem atender aos requisitos técnicos que garantam perfeita segurança a quem nelas trabalha, detalhados nas Normas Regulamentadoras.
+P: Segurança das edificações || Requisitos técnicos nas NRs || Responsabilidade do empregador
+K: edificações; segurança; local de trabalho; NR-8
+
+@CLT 171
+I: Os locais de trabalho devem ter pé-direito mínimo de 3 metros, que pode ser reduzido se houver iluminação e conforto térmico adequados, sob controle da autoridade competente.
+P: Pé-direito mínimo de 3 metros || Redução admitida com iluminação e conforto térmico || Controle pela autoridade de segurança
+K: pé-direito; edificações; conforto; local de trabalho
+
+@CLT 172
+I: Os pisos não podem ter saliências ou depressões que prejudiquem a circulação de pessoas ou a movimentação de materiais.
+P: Pisos regulares || Prevenção de quedas || Circulação segura
+K: pisos; edificações; prevenção de quedas
+
+@CLT 173
+I: As aberturas em pisos e paredes devem ser protegidas para impedir a queda de pessoas ou objetos.
+P: Proteção de aberturas || Prevenção de quedas de pessoas e objetos || Segurança das edificações
+K: aberturas; queda; proteção coletiva
+
+@CLT 174
+I: Paredes, escadas, rampas, passarelas, pisos, corredores, coberturas e passagens devem seguir as condições de segurança e higiene fixadas pelo Ministério do Trabalho e ser mantidos conservados e limpos.
+P: Condições de segurança das estruturas || Conservação e limpeza || Normas do Ministério do Trabalho
+K: edificações; escadas; rampas; conservação; higiene
+
+@CLT 175
+I: Todos os locais de trabalho devem ter iluminação adequada, natural ou artificial, uniforme e difusa, evitando ofuscamento, reflexos, sombras e contrastes excessivos, com níveis mínimos fixados pelo Ministério do Trabalho.
+P: Iluminação adequada à atividade || Distribuição uniforme e difusa || Níveis mínimos em norma do Ministério
+K: iluminação; ergonomia; conforto visual
+
+@CLT 176
+I: Os locais de trabalho devem ter ventilação natural compatível com o serviço; a ventilação artificial é obrigatória quando a natural não garantir conforto térmico.
+P: Ventilação natural compatível com o serviço || Ventilação artificial quando necessária || Conforto térmico
+K: ventilação; conforto térmico; local de trabalho
+
+@CLT 177
+I: Quando instalações geradoras de frio ou calor tornarem o ambiente desconfortável, é obrigatório o uso de vestimenta adequada ou de proteções físicas (capelas, anteparos, paredes duplas, isolamento térmico) contra as radiações térmicas.
+P: Proteção contra frio e calor || Vestimentas e barreiras físicas || Prevenção de radiações térmicas
+K: conforto térmico; calor; frio; vestimenta adequada
+
+@CLT 178
+I: As condições de conforto térmico devem respeitar os limites fixados pelo Ministério do Trabalho (como os da NR-15 e da NR-17).
+P: Limites de conforto térmico em normas || Remete às NRs || Fiscalização administrativa
+K: conforto térmico; limites de tolerância; NR
+
+@CLT 179
+I: O Ministério do Trabalho regulamenta as condições de segurança em instalações elétricas, da produção ao consumo de energia (NR-10).
+P: Segurança em instalações elétricas || Todas as fases da energia || Regulamentação pela NR-10
+K: eletricidade; instalações elétricas; NR-10
+
+@CLT 180
+I: Somente profissional qualificado pode instalar, operar, inspecionar ou reparar instalações elétricas.
+P: Exigência de qualificação profissional || Prevenção de choques e acidentes || Responsabilidade do empregador pela habilitação
+K: eletricista; qualificação; instalações elétricas
+
+@CLT 181
+I: Quem trabalha com eletricidade deve conhecer os métodos de socorro a vítimas de choque elétrico.
+P: Treinamento em primeiros socorros || Específico para choque elétrico || Prevenção de agravamento de acidentes
+K: eletricidade; primeiros socorros; choque elétrico
+
+@CLT 182
+I: O Ministério do Trabalho estabelece normas sobre segurança na movimentação, manuseio e armazenagem de materiais, equipamentos obrigatórios, carga máxima, avisos de perigo e rotulagem de substâncias.
+P: Normas sobre movimentação e armazenagem || Indicação de carga máxima e avisos || Rotulagem conforme padrão internacional
+K: movimentação de materiais; armazenagem; carga máxima; rotulagem
+
+@CLT 183
+I: Quem trabalha na movimentação de materiais deve conhecer os métodos racionais de levantamento de cargas.
+P: Treinamento em levantamento de cargas || Prevenção de lesões || Ergonomia
+K: levantamento de cargas; ergonomia; movimentação de materiais
+
+@CLT 184
+I: Máquinas e equipamentos devem ter dispositivos de partida, parada e outros necessários à prevenção de acidentes, especialmente contra acionamento acidental; é proibido fabricar, importar, vender, alugar ou usar máquinas fora desse padrão (NR-12).
+P: Dispositivos de segurança obrigatórios || Proteção contra acionamento acidental || Vedada a comercialização de máquinas inseguras
+K: máquinas e equipamentos; NR-12; dispositivo de parada; segurança
+
+@CLT 185
+I: Reparos, limpeza e ajustes só podem ser feitos com as máquinas paradas, salvo quando o movimento for indispensável ao ajuste.
+P: Manutenção com máquina parada || Exceção restrita ao ajuste que exige movimento || Prevenção de acidentes
+K: manutenção; máquinas; segurança; bloqueio
+
+@CLT 186
+I: O Ministério do Trabalho estabelece normas adicionais de proteção na operação de máquinas, sobre partes móveis, distâncias, acessos e ferramentas.
+P: Normas complementares para máquinas || Proteção de partes móveis || Regulamentação pela NR-12
+K: máquinas; partes móveis; NR-12
+
+@CLT 187
+I: Caldeiras e recipientes sob pressão devem ter válvulas e dispositivos que impeçam ultrapassar a pressão compatível com sua resistência, com normas complementares do Ministério (NR-13).
+P: Dispositivos de segurança contra sobrepressão || Normas complementares (NR-13) || Prevenção de explosões
+K: caldeiras; vasos de pressão; NR-13; válvula de segurança
+
+@CLT 188
+I: As caldeiras passam por inspeções periódicas por engenheiro ou empresa especializada, têm prontuário com dados do fabricante e pressão máxima de trabalho e registro de segurança atualizado; os projetos de instalação dependem de aprovação prévia.
+P: Inspeção periódica por profissional habilitado || Prontuário e registro de segurança || Aprovação prévia dos projetos
+K: caldeiras; inspeção; prontuário; registro de segurança
+
+@CLT 189
+I: Define atividades insalubres como as que expõem o empregado a agentes nocivos à saúde acima dos limites de tolerância, considerando a natureza, a intensidade do agente e o tempo de exposição.
+P: Insalubridade = exposição acima dos limites de tolerância || Natureza, intensidade e tempo de exposição || Caracterização técnica
+K: insalubridade; agentes nocivos; limites de tolerância
+
+@CLT 190
+I: O Ministério do Trabalho aprova o quadro de atividades insalubres (NR-15), com critérios de caracterização, limites de tolerância, meios de proteção e tempo máximo de exposição, inclusive para aerodispersoides. Sem previsão no quadro oficial, não há adicional, ainda que haja laudo (Súmula 448 do TST).
+P: Quadro oficial de insalubridade (NR-15) || Limites de tolerância e meios de proteção || Atividade precisa constar do quadro (Súmula 448 do TST)
+K: NR-15; quadro de insalubridade; limites de tolerância; aerodispersoides
+
+@CLT 191
+I: A insalubridade é eliminada ou neutralizada por medidas que mantenham o ambiente nos limites de tolerância ou por EPI que reduza o agente a esses limites. Comprovada a insalubridade, a fiscalização notifica a empresa e fixa prazo para eliminá-la.
+P: Eliminação por medidas coletivas || Neutralização por EPI eficaz || Prazo fixado pela fiscalização
+K: neutralização da insalubridade; EPI; medidas coletivas
+
+@CLT 192
+I: O trabalho insalubre acima dos limites de tolerância dá direito a adicional de 40%, 20% ou 10% (graus máximo, médio e mínimo). O texto fixa a base no salário mínimo; o STF (Súmula Vinculante 4) vedou o salário mínimo como indexador, mas, até lei ou norma coletiva que defina outra base, ele continua sendo utilizado.
+P: Adicional de 40%, 20% ou 10% conforme o grau || Base de cálculo discutida (Súmula Vinculante 4) || Salário mínimo segue como base até nova lei ou norma coletiva
+K: adicional de insalubridade; grau; base de cálculo; Súmula Vinculante 4
+
+@CLT 193
+I: Considera perigosas as atividades com exposição permanente a inflamáveis, explosivos ou energia elétrica; a roubos e violência na segurança pessoal ou patrimonial; e a acidentes e violências na atividade dos agentes de trânsito (inciso III, Lei nº 14.684/2023), além do trabalho em motocicleta (§ 4º). O adicional é de 30% sobre o salário-base, sem gratificações, prêmios ou lucros. O empregado pode optar pelo adicional de insalubridade, não cumulá-lo. O § 5º exclui o combustível dos tanques originais de veículos e máquinas.
+P: Adicional de periculosidade de 30% sobre o salário-base || Hipóteses: inflamáveis, explosivos, eletricidade, segurança patrimonial, agentes de trânsito e motociclistas || Opção entre insalubridade e periculosidade (§ 2º)
+K: adicional de periculosidade; inflamáveis; eletricidade; vigilante; motociclista; agente de trânsito
+
+@CLT 194
+I: O direito ao adicional de insalubridade ou periculosidade cessa quando o risco é eliminado, conforme as normas do Ministério do Trabalho. O adicional não se incorpora definitivamente ao salário.
+P: Adicional depende da permanência do risco || Eliminação do risco encerra o pagamento || Natureza de salário-condição
+K: cessação do adicional; salário-condição; insalubridade; periculosidade
+
+@CLT 195
+I: A caracterização da insalubridade e da periculosidade depende de perícia por Médico do Trabalho ou Engenheiro de Segurança do Trabalho. Em juízo, o juiz nomeia perito habilitado; empresas e sindicatos podem pedir perícia ao Ministério do Trabalho, sem prejuízo da fiscalização.
+P: Perícia obrigatória por médico ou engenheiro do trabalho || Perito nomeado pelo juiz na ação || Pedido de perícia por empresa ou sindicato
+K: perícia; insalubridade; periculosidade; laudo pericial
+
+@CLT 196
+I: Os efeitos financeiros do adicional são devidos a partir da inclusão da atividade nos quadros oficiais do Ministério do Trabalho, respeitada a prescrição do art. 11.
+P: Adicional devido desde a inclusão no quadro oficial || Respeito à prescrição || Necessidade de enquadramento normativo
+K: efeitos pecuniários; quadro oficial; adicional; prescrição
+
+@CLT 197
+I: Materiais e substâncias perigosos ou nocivos devem ter rótulo com composição, recomendações de socorro e símbolo de perigo internacional, e os setores devem ter avisos de advertência.
+P: Rotulagem obrigatória de substâncias perigosas || Símbolo de perigo internacional || Avisos nos setores de trabalho
+K: rotulagem; substâncias perigosas; advertência; produtos químicos
+
+@CLT 198
+I: Fixa em 60 kg o peso máximo que um empregado pode remover individualmente, ressalvadas as regras especiais para menores e mulheres (art. 390), excluída a remoção por aparelhos mecânicos, para a qual o Ministério pode fixar limites.
+P: Limite de 60 kg por empregado || Regras especiais para mulheres e menores || Aparelhos mecânicos com limites próprios
+K: peso máximo; levantamento de peso; fadiga; ergonomia
+
+@CLT 199
+I: É obrigatório fornecer assentos que garantam postura correta quando a tarefa for feita sentada, e assentos para as pausas quando o trabalho for de pé.
+P: Assentos ergonômicos obrigatórios || Assentos para pausas no trabalho em pé || Prevenção da fadiga (NR-17)
+K: ergonomia; assento; postura; NR-17

@@ -1,0 +1,249 @@
+@CLT 455
+I: Na subempreitada, o subempreiteiro responde pelas obrigações trabalhistas de seus empregados, mas estes podem reclamar contra o empreiteiro principal se houver inadimplemento. O empreiteiro tem ação regressiva e pode reter valores devidos ao subempreiteiro. A OJ 191 da SBDI-1 do TST afasta a responsabilidade do dono da obra que não seja construtora ou incorporadora.
+P: Responsabilidade do empreiteiro principal pelo inadimplemento do subempreiteiro || Ação regressiva e retenção de valores || Dono da obra, em regra, não responde (OJ 191)
+K: subempreitada; empreiteiro principal; responsabilidade; dono da obra
+
+@CLT 456
+I: A prova do contrato de trabalho é feita pela CTPS ou por instrumento escrito, admitidos todos os meios de prova. Sem prova ou cláusula expressa, entende-se que o empregado se obrigou a qualquer serviço compatível com sua condição pessoal.
+P: Prova pela CTPS, contrato escrito ou outros meios || Liberdade probatória || Presunção de serviço compatível com a condição pessoal
+K: prova do contrato; CTPS; função; obrigações do empregado
+
+@CLT 456-A
+I: O empregador define o padrão de vestimenta, podendo incluir logomarcas próprias ou de parceiros e itens de identificação. A higienização do uniforme cabe ao empregado, salvo quando exigir procedimentos ou produtos especiais.
+P: Padrão de vestimenta definido pelo empregador || Logomarcas de parceiros permitidas || Lavagem especial é responsabilidade do empregador
+K: uniforme; vestimenta; logomarca; higienização
+
+@CLT 457
+I: A remuneração inclui o salário pago pelo empregador e as gorjetas. Integram o salário a importância fixa, as gratificações legais e as comissões. Desde a Reforma Trabalhista, ajuda de custo, auxílio-alimentação (sem pagamento em dinheiro), diárias, prêmios e abonos, mesmo habituais, não integram a remuneração nem são base de encargos. Prêmios são liberalidades por desempenho superior ao esperado. Os parágrafos seguintes disciplinam a gorjeta cobrada pela empresa e seu rateio.
+P: Remuneração = salário + gorjetas || Verbas que não integram a remuneração (§ 2º) || Prêmio exige desempenho superior ao ordinário (§ 4º)
+K: remuneração; salário; gorjeta; comissões; prêmios; ajuda de custo; auxílio-alimentação
+
+@CLT 458
+I: Integram o salário as utilidades (alimentação, habitação, vestuário etc.) fornecidas habitualmente pelo contrato ou costume, vedado pagar com bebidas alcoólicas ou drogas. Não são salário as utilidades para o trabalho ou de caráter social: vestuário e equipamentos de trabalho, educação, transporte, assistência médica e odontológica, seguros, previdência privada e vale-cultura. Habitação e alimentação como salário-utilidade não podem passar de 25% e 20% do salário contratual.
+P: Salário-utilidade (in natura) integra o salário || Utilidades fornecidas para o trabalho ou de caráter social não integram (§ 2º) || Limites de 25% (habitação) e 20% (alimentação)
+K: salário-utilidade; salário in natura; habitação; alimentação; benefícios
+
+@CLT 459
+I: O salário não pode ser estipulado por período superior a um mês, salvo comissões, percentagens e gratificações. O salário mensal deve ser pago até o quinto dia útil do mês seguinte.
+P: Periodicidade máxima mensal || Pagamento até o 5º dia útil || Exceções para comissões e gratificações
+K: pagamento do salário; prazo; quinto dia útil
+
+@CLT 460
+I: Sem estipulação ou prova do salário ajustado, o empregado recebe o mesmo que quem faz serviço equivalente na empresa ou o habitualmente pago para serviço semelhante.
+P: Salário supletivo por equivalência || Falta de prova do ajuste || Parâmetro de mercado
+K: salário supletivo; equivalência; prova do salário
+
+@CLT 461
+I: Garante a equiparação salarial: mesma função, trabalho de igual valor, mesmo empregador e mesmo estabelecimento, sem distinção de sexo, etnia, nacionalidade ou idade. O trabalho de igual valor exige igual produtividade e perfeição técnica, diferença de tempo de serviço de até 4 anos e na função de até 2 anos. Não cabe equiparação havendo quadro de carreira ou plano de cargos, nem com paradigma remoto. A Lei nº 14.611/2023 reforçou a igualdade salarial entre mulheres e homens, com indenização por dano moral e multa de 10 vezes o novo salário em caso de discriminação.
+P: Requisitos: mesma função, igual valor, mesmo empregador e estabelecimento || Diferença máxima de 4 anos na empresa e 2 na função || Discriminação gera dano moral e multa de 10 vezes o novo salário (§§ 6º e 7º)
+K: equiparação salarial; isonomia; igualdade salarial; paradigma; Lei 14.611/2023
+
+@CLT 462
+I: Proíbe descontos no salário, salvo adiantamentos, previsão legal ou norma coletiva. Por dano causado pelo empregado, o desconto só é lícito se previsto em acordo ou em caso de dolo. É vedado coagir o empregado a usar armazém ou serviços da empresa (truck system) e limitar a disposição do salário.
+P: Princípio da intangibilidade salarial || Desconto por dano: acordo prévio ou dolo || Vedação do truck system
+K: desconto salarial; intangibilidade; dano causado pelo empregado; truck system
+
+@CLT 463
+I: O salário em dinheiro deve ser pago em moeda corrente nacional; o pagamento feito de outra forma considera-se não realizado.
+P: Pagamento em moeda nacional || Pagamento irregular é tido como não feito || Proteção contra pagamento em vales ou títulos
+K: pagamento do salário; moeda corrente
+
+@CLT 464
+I: O salário é pago contra recibo assinado pelo empregado (ou por impressão digital ou a rogo, se analfabeto); o comprovante de depósito em conta aberta com seu consentimento tem força de recibo.
+P: Recibo assinado é a prova do pagamento || Depósito em conta tem força de recibo || Regras para analfabetos
+K: recibo de pagamento; depósito bancário; prova
+
+@CLT 465
+I: O salário é pago em dia útil, no local de trabalho, durante o expediente ou logo após, salvo quando por depósito bancário.
+P: Pagamento em dia útil e no local de trabalho || Durante ou logo após o expediente || Exceção do depósito bancário
+K: pagamento do salário; local; horário
+
+@CLT 466
+I: Comissões e percentagens só são exigíveis depois de concluída a transação; nas vendas a prazo, proporcionalmente ao recebimento. A extinção do contrato não prejudica as comissões devidas. A jurisprudência considera a transação ultimada com o aceite do negócio, independentemente do pagamento integral.
+P: Comissão devida após concluída a transação || Pagamento proporcional nas vendas a prazo || Comissões subsistem após o fim do contrato
+K: comissões; percentagens; vendas a prazo; comissionista
+
+@CLT 467
+I: Na rescisão, havendo controvérsia sobre o valor das verbas rescisórias, o empregador deve pagar a parte incontroversa na primeira audiência, sob pena de acréscimo de 50%.
+P: Parte incontroversa paga na primeira audiência || Multa de 50% sobre a parte não paga || Incentivo ao pagamento imediato
+K: verbas rescisórias; parte incontroversa; multa do art. 467
+
+@CLT 468
+I: Alterações no contrato só são lícitas por mútuo consentimento e sem prejuízo ao empregado, sob pena de nulidade (princípio da inalterabilidade contratual lesiva). Não é alteração unilateral a reversão do empregado ao cargo efetivo, deixando a função de confiança, e, desde a Reforma, essa reversão não garante a manutenção da gratificação, ainda que recebida por mais de 10 anos (superando a Súmula 372, I, do TST para fatos posteriores).
+P: Alteração só com consentimento e sem prejuízo || Reversão do cargo de confiança é lícita (§ 1º) || Gratificação não se incorpora após a Reforma (§ 2º)
+K: alteração contratual; inalterabilidade lesiva; reversão; gratificação de função
+
+@CLT 469
+I: É vedado transferir o empregado sem sua anuência para localidade que exija mudança de domicílio, salvo para cargos de confiança e contratos com cláusula de transferência por real necessidade, ou extinção do estabelecimento. Em necessidade de serviço, a transferência provisória gera adicional mínimo de 25% enquanto durar (OJ 113 da SBDI-1).
+P: Transferência exige anuência quando muda o domicílio || Exceções: confiança, cláusula contratual e extinção do estabelecimento || Adicional de 25% na transferência provisória
+K: transferência; adicional de transferência; mudança de domicílio
+
+@CLT 469-A
+I: Empregados da Administração Pública têm direito à transferência para acompanhar cônjuge ou companheiro servidor, militar ou empregado público deslocado no interesse da Administração, a pedido e conforme existência de unidade no destino.
+P: Transferência para acompanhar cônjuge deslocado || Depende de filial ou representação no local || Aplica-se a empregados públicos
+K: transferência; empregado público; acompanhamento de cônjuge
+
+@CLT 470
+I: As despesas da transferência ficam a cargo do empregador.
+P: Custos da mudança pelo empregador || Inclui transporte e mudança || Complementa o art. 469
+K: transferência; despesas; empregador
+
+@CLT 471
+I: O empregado afastado tem asseguradas, ao voltar, todas as vantagens atribuídas à sua categoria durante a ausência.
+P: Vantagens da categoria garantidas no retorno || Aplica-se a suspensões e interrupções || Isonomia com os colegas
+K: suspensão do contrato; retorno; vantagens
+
+@CLT 472
+I: O afastamento para serviço militar ou outro encargo público não autoriza alteração ou rescisão do contrato. Para voltar, o empregado deve notificar o empregador em até 30 dias da baixa ou do fim do encargo.
+P: Serviço militar não justifica rescisão || Notificação em 30 dias para retorno || Contratos a prazo com regras próprias
+K: serviço militar; encargo público; suspensão do contrato
+
+@CLT 473
+I: Lista as faltas justificadas, sem prejuízo do salário (interrupção do contrato): até 2 dias por falecimento de familiar; até 3 por casamento; 5 dias por nascimento, adoção ou guarda compartilhada; 1 dia por ano para doação de sangue; até 2 para alistamento eleitoral; serviço militar; vestibular; comparecimento a juízo; reunião sindical internacional; até 6 consultas da gestante; 1 dia por ano para acompanhar filho de até 6 anos ao médico; exames preventivos de câncer, entre outras.
+P: Faltas legais justificadas sem desconto || Inclui nascimento, casamento, luto e doação de sangue || Acompanhamento de gestante e filho e exames preventivos
+K: faltas justificadas; interrupção do contrato; licença-paternidade; luto; casamento
+
+@CLT 474
+I: A suspensão disciplinar do empregado por mais de 30 dias consecutivos equivale a dispensa sem justa causa.
+P: Suspensão disciplinar limitada a 30 dias || Excesso caracteriza despedida injusta || Limite ao poder disciplinar
+K: suspensão disciplinar; poder disciplinar; rescisão injusta
+
+@CLT 475
+I: O empregado aposentado por invalidez (hoje aposentadoria por incapacidade permanente) tem o contrato suspenso. Recuperada a capacidade e cancelada a aposentadoria, tem direito à função anterior, podendo o empregador indenizá-lo; o substituto pode ser dispensado sem indenização se ciente da interinidade.
+P: Aposentadoria por incapacidade suspende o contrato || Direito de retorno se a aposentadoria for cancelada || Substituto ciente da interinidade
+K: aposentadoria por invalidez; suspensão do contrato; retorno ao trabalho
+
+@CLT 476
+I: Durante o auxílio-doença (hoje auxílio por incapacidade temporária), o empregado fica em licença não remunerada, com o contrato suspenso; os primeiros 15 dias são pagos pelo empregador.
+P: Auxílio-doença suspende o contrato || Primeiros 15 dias pagos pelo empregador || Benefício pago pelo INSS
+K: auxílio-doença; suspensão do contrato; afastamento previdenciário
+
+@CLT 476-A
+I: Permite suspender o contrato de 2 a 5 meses para qualificação profissional do empregado, com previsão em norma coletiva e concordância formal, notificando o sindicato com 15 dias. Pode haver ajuda compensatória sem natureza salarial. Dispensa durante ou até 3 meses após gera multa de no mínimo 100% da última remuneração, e a suspensão é descaracterizada se não houver curso ou se o empregado continuar trabalhando.
+P: Suspensão de 2 a 5 meses para qualificação (lay-off) || Norma coletiva e aceite do empregado || Multa mínima de 100% em caso de dispensa
+K: lay-off; suspensão para qualificação; bolsa qualificação; ajuda compensatória
+
+@CLT 477
+I: Na extinção do contrato, o empregador deve anotar a CTPS, comunicar a dispensa aos órgãos competentes e pagar as verbas rescisórias em até 10 dias do término, discriminando cada parcela (a quitação vale só para as parcelas especificadas). A Reforma eliminou a homologação sindical. O atraso gera multa administrativa e multa ao empregado no valor de um salário (§ 8º). A anotação na CTPS habilita o saque do FGTS e o seguro-desemprego.
+P: Prazo único de 10 dias para pagar as verbas rescisórias (§ 6º) || Multa de um salário ao empregado pelo atraso (§ 8º) || Quitação limitada às parcelas discriminadas (§ 2º)
+K: verbas rescisórias; rescisão; multa do art. 477; prazo de pagamento; homologação
+
+@CLT 477-A
+I: Equipara dispensas individuais, plúrimas e coletivas, dispensando autorização sindical ou norma coletiva. O STF (Tema 638 da repercussão geral) decidiu, porém, que a intervenção sindical prévia (negociação) é exigência para a dispensa em massa, embora não se confunda com autorização do sindicato.
+P: Dispensas individuais e coletivas equiparadas || Sem necessidade de autorização sindical || Dispensa em massa exige diálogo prévio com o sindicato (STF, Tema 638)
+K: dispensa coletiva; dispensa em massa; sindicato; Tema 638
+
+@CLT 477-B
+I: O Plano de Demissão Voluntária ou Incentivada previsto em norma coletiva dá quitação plena e irrevogável dos direitos do contrato, salvo disposição em contrário, em linha com o STF (Tema 152).
+P: PDV previsto em norma coletiva gera quitação plena || Salvo cláusula em contrário || Entendimento do STF (Tema 152)
+K: PDV; demissão voluntária; quitação plena; Tema 152
+
+@CLT 478
+I: Regulava a indenização por tempo de serviço na dispensa sem justa causa (um mês de remuneração por ano). Após a Constituição de 1988, foi substituída pelo regime do FGTS e pela multa de 40%, aplicando-se apenas a situações de direito adquirido.
+P: Indenização por tempo de serviço histórica || Substituída pelo FGTS e pela multa de 40% || Aplicação residual
+K: indenização por tempo de serviço; FGTS; estabilidade decenal
+
+@CLT 479
+I: No contrato a prazo, se o empregador dispensar sem justa causa antes do termo, deve pagar indenização de metade da remuneração devida até o fim do contrato.
+P: Indenização de 50% do período restante || Contratos por prazo determinado || Inclui o contrato de experiência
+K: contrato por prazo determinado; rescisão antecipada; indenização do art. 479
+
+@CLT 480
+I: No contrato a prazo, o empregado que se desligar sem justa causa deve indenizar os prejuízos do empregador, limitados ao que o empregado receberia em situação idêntica.
+P: Indenização ao empregador pelo pedido de demissão antecipado || Limitada ao valor do art. 479 || Exige prejuízo comprovado
+K: contrato por prazo determinado; pedido de demissão; indenização do art. 480
+
+@CLT 481
+I: Se o contrato a prazo tiver cláusula de rescisão antecipada recíproca e ela for usada, aplicam-se as regras do contrato por prazo indeterminado, inclusive o aviso prévio (Súmula 163 do TST).
+P: Cláusula assecuratória de rescisão antecipada || Aplicam-se as regras do prazo indeterminado || Aviso prévio devido (Súmula 163)
+K: cláusula assecuratória; rescisão antecipada; aviso prévio
+
+@CLT 482
+I: Lista as hipóteses de justa causa do empregado: improbidade, incontinência de conduta ou mau procedimento, concorrência desleal, condenação criminal transitada sem suspensão da pena, desídia, embriaguez habitual ou em serviço (a jurisprudência trata o alcoolismo crônico como doença), violação de segredo, indisciplina ou insubordinação, abandono de emprego (Súmula 32 do TST: 30 dias), ofensas, jogos de azar e perda dolosa da habilitação profissional.
+P: Rol de faltas graves que autorizam a justa causa || Exige proporcionalidade, imediatidade e prova || Alcoolismo crônico tratado como doença pela jurisprudência
+K: justa causa; improbidade; desídia; insubordinação; abandono de emprego
+
+@CLT 483
+I: Lista as hipóteses de rescisão indireta (justa causa do empregador): exigir serviços superiores às forças ou ilícitos, rigor excessivo, perigo manifesto, descumprimento contratual (como atraso de salários ou falta de depósito do FGTS), ofensas à honra ou físicas e redução do trabalho por peça. Nos casos de descumprimento contratual e redução do trabalho, o empregado pode permanecer no serviço até a decisão.
+P: Justa causa do empregador gera as mesmas verbas da dispensa sem justa causa || Descumprimento contratual inclui atraso salarial e FGTS || Pode permanecer trabalhando nos casos das alíneas d e g (§ 3º)
+K: rescisão indireta; justa causa do empregador; descumprimento contratual
+
+@CLT 484
+I: Havendo culpa recíproca na rescisão, a indenização é reduzida à metade. A Súmula 14 do TST garante, nesse caso, 50% do aviso prévio, do 13º e das férias proporcionais.
+P: Culpa recíproca reduz verbas pela metade || Aplica-se também à multa do FGTS (20%) || Súmula 14 do TST
+K: culpa recíproca; rescisão; indenização reduzida
+
+@CLT 484-A
+I: Permite extinguir o contrato por acordo entre empregado e empregador: pagam-se pela metade o aviso prévio indenizado e a multa do FGTS (20%), e integralmente as demais verbas. O empregado pode sacar até 80% do FGTS, mas não recebe seguro-desemprego.
+P: Distrato com metade do aviso e multa de 20% do FGTS || Saque de até 80% do FGTS || Sem direito ao seguro-desemprego
+K: rescisão por acordo; distrato; FGTS; Reforma Trabalhista
+
+@CLT 485
+I: Se a atividade da empresa cessar por morte do empregador, os empregados têm direito às indenizações cabíveis (arts. 477 e 497).
+P: Morte do empregador e cessação da atividade || Indenizações devidas || Remete aos arts. 477 e 497
+K: morte do empregador; cessação da atividade; indenização
+
+@CLT 486
+I: Na paralisação do trabalho por ato de autoridade ou por lei que impossibilite a atividade (fato do príncipe), a indenização fica a cargo do governo responsável, que é chamado ao processo. A jurisprudência aplica a regra de forma restrita e a afastou, em regra, nas paralisações da pandemia de covid-19.
+P: Fato do príncipe transfere a indenização ao ente público || Chamamento da pessoa de direito público ao processo || Interpretação restritiva pela jurisprudência
+K: fato do príncipe; paralisação; ato de autoridade; indenização
+
+@CLT 487
+I: Sem prazo estipulado, quem quiser rescindir sem justo motivo deve dar aviso prévio: 8 dias (pagamento semanal) ou 30 dias (quinzenal, mensal ou com mais de 12 meses). A Lei nº 12.506/2011 acrescentou 3 dias por ano de serviço, até 90 dias, em favor do empregado. A falta de aviso pelo empregador gera os salários do período, integrado ao tempo de serviço; pelo empregado, permite o desconto. Horas extras habituais e reajustes coletivos repercutem no aviso.
+P: Aviso de 30 dias, com acréscimo proporcional até 90 (Lei nº 12.506/2011) || Período do aviso integra o tempo de serviço || Devido também na rescisão indireta (§ 4º)
+K: aviso prévio; aviso prévio proporcional; Lei 12.506/2011; rescisão
+
+@CLT 488
+I: No aviso prévio dado pelo empregador, a jornada é reduzida em 2 horas diárias sem prejuízo do salário, ou o empregado pode optar por faltar 7 dias corridos (ou 1 dia no aviso de 8 dias). A substituição da redução por pagamento é inválida (Súmula 230 do TST).
+P: Redução de 2 horas diárias ou 7 dias corridos de folga || Opção do empregado || Pagar em vez de reduzir é nulo (Súmula 230)
+K: aviso prévio trabalhado; redução de jornada; procura de emprego
+
+@CLT 489
+I: A rescisão só se efetiva ao fim do prazo do aviso; se quem avisou reconsiderar antes, a outra parte pode aceitar ou não. Aceita a reconsideração ou mantido o trabalho após o prazo, o contrato continua como se não houvesse aviso.
+P: Rescisão efetiva ao fim do aviso || Reconsideração depende de aceitação || Continuidade do trabalho mantém o contrato
+K: aviso prévio; reconsideração; continuidade do contrato
+
+@CLT 490
+I: O empregador que, durante o aviso prévio, cometer falta que justifique a rescisão imediata deve pagar a remuneração do período restante do aviso, sem prejuízo da indenização devida.
+P: Falta grave do empregador no curso do aviso || Pagamento do restante do aviso || Indenizações mantidas
+K: aviso prévio; falta do empregador; rescisão indireta
+
+@CLT 491
+I: O empregado que cometer justa causa durante o aviso prévio perde o direito ao restante do prazo; a Súmula 73 do TST ressalva o abandono de emprego, que não retira as verbas indenizatórias.
+P: Justa causa no aviso retira o restante do prazo || Converte a dispensa em justa causa || Ressalva do abandono (Súmula 73)
+K: aviso prévio; justa causa; perda do aviso
+
+@CLT 492
+I: Previa a estabilidade decenal: após 10 anos na empresa, o empregado só podia ser dispensado por falta grave ou força maior comprovadas. Com o FGTS obrigatório desde a Constituição de 1988, a regra subsiste apenas para quem já tinha estabilidade adquirida.
+P: Estabilidade após 10 anos de serviço (histórica) || Substituída pelo FGTS (CF, art. 7º, III) || Direito adquirido preservado
+K: estabilidade decenal; FGTS; falta grave
+
+@CLT 493
+I: Define falta grave como a justa causa do art. 482 que, pela repetição ou natureza, represente séria violação dos deveres do empregado. É o requisito para dispensar empregados estáveis, como dirigentes sindicais.
+P: Falta grave = justa causa qualificada || Exigida para dispensar estáveis || Gravidade por repetição ou natureza
+K: falta grave; estabilidade; justa causa
+
+@CLT 494
+I: O empregado estável acusado de falta grave pode ser suspenso, mas a dispensa só se efetiva após inquérito judicial que confirme a acusação; a suspensão dura até a decisão final.
+P: Inquérito judicial para apurar falta grave || Suspensão até a decisão || Proteção do estável
+K: inquérito para apuração de falta grave; suspensão; estável
+
+@CLT 495
+I: Se não ficar comprovada a falta grave, o empregador deve readmitir o empregado e pagar os salários do período de suspensão.
+P: Readmissão se não houver falta grave || Pagamento dos salários da suspensão || Consequência do inquérito improcedente
+K: readmissão; inquérito; salários do período
+
+@CLT 496
+I: Quando a reintegração do estável for desaconselhável pela incompatibilidade entre as partes, o juiz pode convertê-la em indenização. A jurisprudência aplica a regra também a outras estabilidades.
+P: Conversão da reintegração em indenização || Incompatibilidade entre as partes || Critério judicial
+K: reintegração; indenização substitutiva; estabilidade
+
+@CLT 497
+I: Extinta a empresa sem força maior, o empregado estável dispensado recebe indenização em dobro.
+P: Indenização em dobro ao estável || Extinção da empresa sem força maior || Regra da estabilidade decenal
+K: estabilidade; extinção da empresa; indenização em dobro
+
+@CLT 498
+I: No fechamento de estabelecimento, filial ou agência, ou supressão de atividade sem força maior, os estáveis que ali trabalham recebem a indenização do art. 497.
+P: Fechamento de estabelecimento sem força maior || Indenização em dobro aos estáveis || Remete ao art. 497
+K: fechamento de estabelecimento; estabilidade; indenização

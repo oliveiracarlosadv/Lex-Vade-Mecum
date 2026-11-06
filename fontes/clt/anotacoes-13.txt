@@ -1,0 +1,299 @@
+@CLT 719
+I: A secretaria dos TRTs tem as atribuições das secretarias das Varas, mais a conclusão de processos ao presidente e a manutenção de repositório de jurisprudência, com detalhes nos regimentos internos.
+P: Atribuições da secretaria do TRT || Organização da jurisprudência || Regimento interno complementa
+K: TRT; secretaria; jurisprudência
+
+@CLT 720
+I: Os secretários dos TRTs têm as atribuições dos diretores de secretaria das Varas, além das fixadas nos regimentos.
+P: Simetria com a secretaria da Vara || Atribuições regimentais || Organização administrativa
+K: TRT; secretário; atribuições
+
+@CLT 721
+I: Os oficiais de justiça avaliadores da Justiça do Trabalho cumprem os atos de execução determinados pelos juízes, com prazo de 9 dias para avaliação e possibilidade de designação de oficial ad hoc na falta ou impedimento.
+P: Oficial de justiça avaliador na execução || Prazo de 9 dias para avaliação || Oficial ad hoc em caso de falta
+K: oficial de justiça avaliador; execução trabalhista; penhora
+
+@CLT 722
+I: Previa penalidades a empregadores que paralisassem atividades sem autorização (lockout) ou descumprissem decisão de dissídio coletivo. Hoje o lockout é proibido pela Lei de Greve (Lei nº 7.783/1989, art. 17), com pagamento dos salários do período.
+P: Sanções históricas ao lockout || Lockout vedado pela Lei nº 7.783/1989 || Salários devidos durante a paralisação patronal
+K: lockout; greve; Lei 7.783/1989
+
+@CLT 726
+I: Punia a recusa injustificada ao exercício da função de vogal. Sem aplicação após a extinção da representação classista (EC nº 24/1999).
+P: Sanção à recusa da função de vogal (histórica) || Classistas extintos || Sem aplicação atual
+K: vogal; recusa; penalidade
+
+@CLT 727
+I: Previa perda do cargo dos vogais por faltas a 3 sessões consecutivas e sanções aos presidentes faltosos. Sem aplicação atual quanto aos vogais; a disciplina dos juízes segue a LOMAN.
+P: Perda do cargo por faltas (histórica) || Vogais extintos || Disciplina judicial pela LOMAN
+K: faltas; vogal; disciplina judicial
+
+@CLT 728
+I: Aplica aos membros e servidores da Justiça do Trabalho as normas do Código Penal sobre crimes contra a Administração Pública (Título XI).
+P: Responsabilidade penal de juízes e servidores || Crimes contra a Administração Pública || Código Penal, Título XI
+K: crimes funcionais; Código Penal; servidor público
+
+@CLT 729
+I: O empregador que não cumprir decisão transitada em julgado de readmissão ou reintegração paga os salários e multa diária até cumpri-la; há também multa por impedir o empregado de servir à Justiça ou depor. Hoje se aplicam também as astreintes do CPC.
+P: Multa diária pelo descumprimento de reintegração || Salários do período devidos || Multa por obstruir depoimento
+K: reintegração; multa diária; astreintes
+
+@CLT 730
+I: Quem se recusar a depor como testemunha sem motivo justificado paga multa, além de poder ser conduzido coercitivamente (art. 825).
+P: Multa à testemunha que se recusa a depor || Condução coercitiva possível || Valores históricos
+K: testemunha; recusa; multa
+
+@CLT 731
+I: Quem apresenta reclamação verbal e não comparece em 5 dias para reduzi-la a termo perde por 6 meses o direito de reclamar na Justiça do Trabalho (perempção trabalhista).
+P: Perempção por não reduzir a termo a reclamação verbal || Suspensão do direito de ação por 6 meses || Remete ao art. 786
+K: perempção; reclamação verbal; penalidade
+
+@CLT 732
+I: O reclamante que der causa a dois arquivamentos seguidos por ausência à audiência (art. 844) perde por 6 meses o direito de reclamar.
+P: Perempção por dois arquivamentos seguidos || 6 meses sem poder ajuizar || Apenas para a mesma pretensão, segundo a jurisprudência
+K: perempção; arquivamento; ausência à audiência
+
+@CLT 733
+I: Infrações ao Título da Justiça do Trabalho sem pena específica são punidas com multa, dobrada na reincidência.
+P: Multa residual || Dobro na reincidência || Valores históricos
+K: multa; infração; Justiça do Trabalho
+
+@CLT 734
+I: Permitia ao Ministro do Trabalho rever decisões de órgãos previdenciários e trabalhistas antigos. Regra superada pela independência do Judiciário e pela reorganização administrativa.
+P: Revisão ministerial (histórica) || Órgãos extintos || Sem aplicação atual
+K: revisão ministerial; histórico
+
+@CLT 735
+I: Repartições públicas e sindicatos devem fornecer aos juízes, tribunais e ao Ministério Público do Trabalho as informações necessárias aos processos, sob pena de sanção ao servidor que recusar.
+P: Dever de colaboração com a Justiça do Trabalho || Inclui sindicatos e órgãos públicos || Sanção funcional pela recusa
+K: requisição de informações; colaboração; Ministério Público do Trabalho
+
+@CLT 736
+I: Descrevia o Ministério Público do Trabalho como agente do Poder Executivo. Hoje o MPT integra o Ministério Público da União, instituição autônoma e independente (CF, arts. 127 e 128; LC nº 75/1993).
+P: Concepção histórica do MPT || Hoje autônomo e independente (CF, art. 127) || Regido pela LC nº 75/1993
+K: Ministério Público do Trabalho; MPT; LC 75/1993
+
+@CLT 737
+I: Dividia o MPT em Procuradoria da Justiça do Trabalho e Procuradoria da Previdência Social, subordinadas ao Ministro. A estrutura atual está na LC nº 75/1993, sem subordinação ao Executivo.
+P: Estrutura histórica do MPT || Procuradoria da Previdência extinta || Estrutura atual na LC nº 75/1993
+K: Ministério Público do Trabalho; estrutura; histórico
+
+@CLT 738
+I: Previa percentual aos procuradores sobre a cobrança de dívida ativa e multas. Sem aplicação no regime atual de subsídios do Ministério Público.
+P: Percentual histórico sobre cobranças || Incompatível com o subsídio atual || Sem aplicação
+K: procuradores; remuneração; histórico
+
+@CLT 739
+I: Dispensava procuradores-gerais e procuradores do controle de ponto. A matéria hoje segue a LC nº 75/1993 e normas internas.
+P: Dispensa de ponto (histórica) || Regime da LC nº 75/1993 || Normas internas do MPU
+K: procuradores; ponto; regime funcional
+
+@CLT 740
+I: Organizava a Procuradoria da Justiça do Trabalho em Procuradoria-Geral e oito regionais. Hoje há a Procuradoria-Geral do Trabalho e 24 Procuradorias Regionais, conforme a LC nº 75/1993.
+P: Organização histórica || Hoje 24 Procuradorias Regionais || LC nº 75/1993
+K: Procuradoria-Geral do Trabalho; Procuradorias Regionais
+
+@CLT 741
+I: Subordinava as Procuradorias Regionais ao procurador-geral. A organização atual do MPT está na LC nº 75/1993.
+P: Hierarquia administrativa histórica || LC nº 75/1993 || Independência funcional dos membros
+K: Ministério Público do Trabalho; organização
+
+@CLT 742
+I: Descrevia a composição da Procuradoria-Geral e das Regionais. Hoje a carreira do MPT é regida pela LC nº 75/1993.
+P: Composição histórica || Carreira atual na LC nº 75/1993 || Procurador-Geral do Trabalho
+K: Ministério Público do Trabalho; composição
+
+@CLT 743
+I: Previa substitutos designados por decreto nas Procuradorias Regionais. Regra superada pela organização da carreira do MPU.
+P: Substitutos por decreto (histórico) || Superado pela LC nº 75/1993 || Sem aplicação
+K: substituição; procurador; histórico
+
+@CLT 744
+I: Fixava requisitos para nomear o procurador-geral. Hoje o Procurador-Geral do Trabalho é nomeado pelo Procurador-Geral da República a partir de lista tríplice (LC nº 75/1993).
+P: Requisitos históricos || Lista tríplice atual || LC nº 75/1993
+K: Procurador-Geral do Trabalho; nomeação
+
+@CLT 745
+I: Fixava requisitos para nomear procuradores. Hoje o ingresso na carreira do MPT ocorre por concurso público (CF, art. 129, § 3º).
+P: Requisitos históricos || Concurso público obrigatório || Três anos de atividade jurídica
+K: procurador do trabalho; concurso público
+
+@CLT 746
+I: Lista atribuições da Procuradoria-Geral junto ao TST, como oficiar nos processos, participar das sessões, recorrer e promover dissídios coletivos em caso de greve. Hoje as atribuições do MPT estão na LC nº 75/1993 (art. 83), incluindo ação civil pública.
+P: Atuação no TST || Atribuições hoje na LC nº 75/1993 || Ação civil pública e defesa de interesses coletivos
+K: Ministério Público do Trabalho; atribuições; ação civil pública
+
+@CLT 747
+I: As Procuradorias Regionais exercem, perante os TRTs, as atribuições da Procuradoria-Geral.
+P: Atuação perante os TRTs || Simetria com a Procuradoria-Geral || LC nº 75/1993
+K: Procuradoria Regional do Trabalho; atribuições
+
+@CLT 748
+I: Lista atribuições do procurador-geral como chefe da instituição, hoje disciplinadas pela LC nº 75/1993.
+P: Chefia da Procuradoria-Geral || Atuação no TST || Regime atual da LC nº 75/1993
+K: Procurador-Geral do Trabalho; atribuições
+
+@CLT 749
+I: Os procuradores da Procuradoria-Geral atuam nas sessões do TST por designação e podem requerer diligências.
+P: Atuação no TST por designação || Requisição de diligências || LC nº 75/1993
+K: procurador do trabalho; atribuições
+
+@CLT 750
+I: Lista atribuições dos procuradores regionais: dirigir a Procuradoria, atuar nas sessões do TRT, relatar atividades e acompanhar cobranças, hoje complementadas pela LC nº 75/1993.
+P: Direção da Procuradoria Regional || Atuação no TRT || LC nº 75/1993
+K: procurador regional; atribuições
+
+@CLT 751
+I: Os procuradores adjuntos atuam nas sessões do TRT por designação e desempenham encargos atribuídos pelo procurador regional.
+P: Atuação por designação || Encargos do procurador regional || Organização histórica
+K: procurador adjunto; TRT
+
+@CLT 752
+I: Regulava a secretaria da Procuradoria-Geral, com pessoal designado pelo Ministro do Trabalho. Hoje a estrutura administrativa é própria do MPU.
+P: Secretaria histórica || Pessoal hoje do quadro do MPU || Autonomia administrativa
+K: secretaria; Ministério Público do Trabalho
+
+@CLT 753
+I: Lista as atribuições da secretaria da Procuradoria: protocolo, arquivo, informações e expediente.
+P: Atividades de apoio || Protocolo e arquivo || Organização administrativa
+K: secretaria; Procuradoria; atribuições
+
+@CLT 754
+I: Nas Procuradorias Regionais, os serviços de secretaria são executados por servidores designados.
+P: Apoio administrativo regional || Servidores designados || Simetria com a Procuradoria-Geral
+K: Procuradoria Regional; secretaria
+
+@CLT 755
+I: Descrevia a Procuradoria da Previdência Social, órgão extinto; a representação judicial do INSS hoje cabe à Procuradoria-Geral Federal (AGU).
+P: Procuradoria da Previdência (extinta) || Hoje Procuradoria-Geral Federal || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 756
+I: Remetia aos arts. 744 e 745 os requisitos de nomeação na Procuradoria da Previdência Social, órgão extinto.
+P: Requisitos de nomeação (histórico) || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 757
+I: Previa a competência da Procuradoria da Previdência Social junto ao antigo Conselho Superior de Previdência Social, órgãos extintos.
+P: Competência histórica || Órgãos extintos || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 758
+I: Descrevia as atribuições do procurador-geral da Procuradoria da Previdência Social, órgão extinto.
+P: Atribuições históricas || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 759
+I: Previa encargos dos procuradores da Previdência Social, órgão extinto.
+P: Encargos históricos || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 760
+I: Previa a secretaria da Procuradoria da Previdência Social, órgão extinto.
+P: Secretaria histórica || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 761
+I: Previa a designação de pessoal para a secretaria da Procuradoria da Previdência Social, órgão extinto.
+P: Pessoal da secretaria (histórico) || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 762
+I: Atribuía à secretaria da Procuradoria da Previdência Social serviços idênticos aos do art. 753; órgão extinto.
+P: Serviços de secretaria (histórico) || Órgão extinto || Sem aplicação atual
+K: Procuradoria da Previdência Social; histórico
+
+@CLT 763
+I: O processo nos dissídios individuais e coletivos e na aplicação de penalidades na Justiça do Trabalho segue as normas deste Título, em todo o país.
+P: Processo do trabalho regido pela CLT || Dissídios individuais e coletivos || Aplicação nacional
+K: processo do trabalho; dissídio individual; dissídio coletivo
+
+@CLT 764
+I: Os dissídios trabalhistas estão sempre sujeitos à conciliação: juízes e tribunais devem empregar seus bons ofícios para o acordo, que pode ocorrer a qualquer tempo, mesmo após encerrado o juízo conciliatório. A conciliação é princípio central do processo do trabalho.
+P: Conciliação obrigatória em todos os dissídios || Acordo possível a qualquer tempo (§ 3º) || Princípio da conciliação
+K: conciliação; acordo; processo do trabalho
+
+@CLT 765
+I: Os juízos do trabalho têm ampla liberdade na direção do processo, devem zelar pela rapidez e podem determinar diligências necessárias (princípio inquisitivo e da celeridade).
+P: Ampla direção do processo pelo juiz || Celeridade || Diligências de ofício
+K: poderes do juiz; celeridade; princípio inquisitivo
+
+@CLT 766
+I: Nos dissídios sobre salários, devem ser fixadas condições que garantam salário justo aos trabalhadores e justa retribuição às empresas.
+P: Equilíbrio nos dissídios salariais || Justo salário e justa retribuição || Diretriz para dissídios coletivos
+K: dissídio coletivo; salário justo; equilíbrio
+
+@CLT 767
+I: A compensação ou retenção só pode ser alegada como matéria de defesa. A compensação limita-se a dívidas de natureza trabalhista (Súmula 18 do TST) e deve ser arguida na contestação (Súmula 48).
+P: Compensação e retenção apenas na defesa || Só dívidas trabalhistas (Súmula 18) || Momento: contestação (Súmula 48)
+K: compensação; retenção; defesa; contestação
+
+@CLT 768
+I: Tem preferência em todas as fases o processo cuja decisão deva ser executada no juízo da falência.
+P: Prioridade de processos ligados à falência || Todas as fases || Celeridade para habilitação do crédito
+K: preferência; falência; tramitação prioritária
+
+@CLT 769
+I: Nos casos omissos, o direito processual comum é fonte subsidiária do processo do trabalho, salvo incompatibilidade. O CPC (art. 15) também prevê sua aplicação supletiva e subsidiária, e o TST disciplinou a compatibilidade na Instrução Normativa nº 39/2016.
+P: Aplicação subsidiária do processo comum || Requisitos: omissão e compatibilidade || CPC, art. 15, e IN nº 39/2016 do TST
+K: aplicação subsidiária; CPC; processo do trabalho; IN 39/2016
+
+@CLT 770
+I: Os atos processuais são públicos, salvo interesse social, e realizam-se em dias úteis das 6h às 20h; a penhora pode ocorrer em domingos e feriados com autorização do juiz.
+P: Publicidade dos atos || Horário das 6h às 20h || Penhora em dia não útil com autorização
+K: atos processuais; publicidade; horário; penhora
+
+@CLT 771
+I: Os atos e termos processuais podiam ser escritos à tinta, datilografados ou a carimbo; hoje predominam os atos eletrônicos (Lei nº 11.419/2006).
+P: Forma dos atos (histórica) || Processo eletrônico atual || Lei nº 11.419/2006
+K: atos processuais; forma; processo eletrônico
+
+@CLT 772
+I: Quem não puder assinar atos processuais por motivo justificado os firma a rogo, na presença de duas testemunhas, se não houver procurador.
+P: Assinatura a rogo || Duas testemunhas || Sem procurador constituído
+K: assinatura a rogo; atos processuais
+
+@CLT 773
+I: Os termos de movimentação dos processos constam de notas datadas e rubricadas pelos servidores, hoje registradas eletronicamente.
+P: Registro da movimentação || Notas datadas || Hoje no sistema eletrônico
+K: movimentação processual; termos
+
+@CLT 774
+I: Os prazos contam-se da notificação pessoal ou recebida, da publicação do edital ou de sua afixação. Presume-se recebida a notificação postal 48 horas após a expedição (Súmula 16 do TST), e o não recebimento deve ser comunicado em igual prazo.
+P: Início dos prazos pela notificação ou edital || Presunção de recebimento em 48 horas (Súmula 16) || Ônus de provar o não recebimento
+K: prazos processuais; notificação; Súmula 16
+
+@CLT 775
+I: Desde a Reforma Trabalhista, os prazos do processo do trabalho contam-se em dias úteis, excluindo o dia do começo e incluindo o do vencimento. Podem ser prorrogados quando necessário ou por força maior, e o juiz pode dilatá-los e alterar a ordem das provas.
+P: Contagem em dias úteis || Prorrogação por necessidade ou força maior || Dilação e alteração da ordem das provas (§ 2º)
+K: prazos processuais; dias úteis; prorrogação
+
+@CLT 775-A
+I: Suspendem-se os prazos processuais entre 20 de dezembro e 20 de janeiro, sem audiências ou sessões no período, embora juízes, MP e auxiliares continuem trabalhando, salvo férias e feriados.
+P: Suspensão de prazos de 20/12 a 20/01 || Sem audiências nem sessões || Atividades internas continuam
+K: suspensão de prazos; recesso forense; férias forenses
+
+@CLT 776
+I: O vencimento dos prazos é certificado nos autos pelos servidores.
+P: Certificação do vencimento || Ato da secretaria || Controle dos prazos
+K: certidão; prazos; secretaria
+
+@CLT 777
+I: Os documentos, atos, petições e razões formam os autos do processo, sob a responsabilidade dos servidores da secretaria.
+P: Composição dos autos || Responsabilidade da secretaria || Hoje autos eletrônicos
+K: autos; secretaria; processo
+
+@CLT 778
+I: Os autos só podem sair da secretaria a pedido de advogado constituído ou por remessa a outro órgão. No processo eletrônico, o acesso é remoto.
+P: Retirada de autos por advogado || Remessa em recurso ou requisição || Acesso eletrônico atual
+K: autos; carga; advogado
+
+@CLT 779
+I: As partes e seus procuradores podem consultar livremente os processos nas secretarias.
+P: Consulta ampla aos processos || Partes e advogados || Publicidade processual
+K: consulta; autos; publicidade
+
+@CLT 780
+I: Documentos juntados só podem ser desentranhados após o fim do processo, permanecendo traslado.
+P: Desentranhamento só ao final || Traslado obrigatório || Preservação da prova
+K: desentranhamento; documentos; autos
