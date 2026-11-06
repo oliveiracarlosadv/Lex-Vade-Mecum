@@ -1,0 +1,1094 @@
+@TST 1
+I: Define quando o empregador pode exigir certidão de antecedentes criminais de candidato a emprego. A exigência é legítima se houver previsão legal ou se justificar pela natureza do ofício ou pelo grau especial de fidúcia (como domésticos, cuidadores, motoristas de carga, bancários, quem lida com armas, substâncias tóxicas ou informações sigilosas). Fora dessas hipóteses, é discriminatória e gera dano moral in re ipsa, mesmo que o candidato tenha sido contratado.
+P: Exigência sem justificativa gera dano moral presumido || Rol exemplificativo de atividades que justificam a exigência || Indenização independe da admissão do candidato
+K: certidão de antecedentes criminais; dano moral in re ipsa; discriminação na admissão; fidúcia
+
+@TST 2
+I: Fixa as regras do divisor de horas extras, especialmente para bancários: o divisor corresponde às horas remuneradas pelo salário mensal e segue a regra do art. 64 da CLT (180 para jornada de seis horas e 220 para oito horas). A inclusão do sábado como repouso não altera o divisor, e as normas coletivas dos bancários não deram ao sábado natureza de repouso. A tese teve modulação de efeitos e não serve de fundamento para ações rescisórias.
+P: Divisores 180 e 220 para bancários de seis e oito horas || Semana de 4,2857 no mês; vedada a multiplicação da carga semanal por 5 || Modulação: não alcança decisões de mérito de Turma ou SBDI-1 entre 27/9/2012 e 21/11/2016
+K: divisor de horas extras; bancário; Súmula 124 do TST; repouso semanal remunerado; modulação de efeitos
+
+@TST 3
+I: Disciplina os honorários advocatícios na Justiça do Trabalho antes e depois da Reforma Trabalhista. Nas ações da relação de emprego ajuizadas antes de 11/11/2017, só cabem honorários assistenciais (Lei nº 5.584/1970 e Súmula 219, I) ou na assistência pela Defensoria; não por mera sucumbência. Nas lides não decorrentes da relação de emprego, vale a sucumbência. Os honorários sucumbenciais do art. 791-A da CLT aplicam-se apenas às ações propostas a partir de 11/11/2017.
+P: Marco temporal: ações ajuizadas a partir de 11/11/2017 (Lei nº 13.467/2017) || Antes disso, honorários só assistenciais nas lides da relação de emprego || Avulsos e portuários seguem o item I da Súmula 219
+K: honorários advocatícios; art. 791-A da CLT; Súmula 219 do TST; Reforma Trabalhista; direito intertemporal
+
+@TST 4
+I: A multa de 10% do cumprimento de sentença do CPC (art. 523, § 1º) não se aplica ao processo do trabalho, por incompatibilidade com as normas da CLT.
+P: Inaplicabilidade da multa do art. 523, § 1º, do CPC || Execução trabalhista regida pela CLT || Antigo art. 475-J do CPC/1973
+K: multa do art. 523 do CPC; execução trabalhista; aplicação subsidiária do CPC
+
+@TST 5
+I: O adicional de insalubridade exige enquadramento da atividade na relação oficial do Ministério do Trabalho ou extrapolação de limites de tolerância de agente previsto no quadro oficial. Operadores de teleatendimento com fones de ouvido não têm direito ao adicional apenas por equiparação a telegrafistas (Anexo 13 da NR-15).
+P: Necessidade de enquadramento na NR-15 || Teleatendimento não equiparado à telegrafia || Laudo não supre a ausência de previsão oficial
+K: adicional de insalubridade; NR-15; teleatendimento; fones de ouvido
+
+@TST 6
+I: Interpreta a OJ 191 da SBDI-1 sobre a responsabilidade do dono da obra. A exclusão de responsabilidade alcança empresas de qualquer porte e entes públicos; o dono da obra que é construtor ou incorporador responde. Exceto ente público, o dono da obra que contrata empreiteiro sem idoneidade econômico-financeira responde subsidiariamente (culpa in eligendo), para contratos celebrados após 11/5/2017.
+P: Dono da obra, em regra, não responde (OJ 191) || Exceção: construtor ou incorporador e contratação de empreiteiro inidôneo || Responsabilidade por culpa in eligendo só para contratos após 11/5/2017
+K: dono da obra; OJ 191 da SBDI-1; responsabilidade subsidiária; empreitada; culpa in eligendo
+
+@TST 7
+I: Com base na Lei de Recuperação Judicial e Falência (arts. 60 e 141, II, da Lei nº 11.101/2005), a TAP Manutenção e Engenharia Brasil não responde por obrigações trabalhistas da VARIG pelo fato de ter adquirido a VEM S.A.
+P: Aquisição de unidade produtiva em recuperação judicial || Ausência de sucessão trabalhista || Caso específico VARIG/TAP
+K: VARIG; TAP; sucessão trabalhista; recuperação judicial; Lei nº 11.101/2005
+
+@TST 8
+I: O Agente de Apoio Socioeducativo da Fundação Casa não tem direito ao adicional de insalubridade pelo local de trabalho, pois o estabelecimento não se destina a cuidados de saúde humana.
+P: Ausência de insalubridade por contato eventual com doenças || Natureza do estabelecimento é decisiva || Fundação Casa (SP)
+K: Fundação Casa; agente socioeducativo; adicional de insalubridade; agentes biológicos
+
+@TST 9
+I: O aumento do repouso semanal remunerado pela integração das horas extras habituais repercute nas demais parcelas calculadas sobre o salário (férias, 13º, aviso prévio, FGTS), sem bis in idem. A regra vale para horas extras trabalhadas a partir de 20/3/2023.
+P: Reflexos do RSR majorado em outras verbas || Superação da antiga OJ 394 da SBDI-1 || Modulação: horas extras a partir de 20/3/2023
+K: repouso semanal remunerado; horas extras habituais; reflexos; OJ 394
+
+@TST 10
+I: A Portaria MTE nº 595/2015 é válida: não é devido adicional de periculosidade a quem apenas permanece em áreas onde se usa equipamento móvel de raios X, sem operá-lo, inclusive para situações anteriores à portaria.
+P: Validade da Portaria nº 595/2015 || Periculosidade apenas para quem opera o equipamento || Efeitos retroativos da portaria
+K: adicional de periculosidade; raios X móvel; radiação ionizante; Portaria MTE 595/2015
+
+@TST 11
+I: Trata dos regulamentos de dispensa da empregadora (Política de Orientação para Melhoria, 2006–2012, e Política Corporativa, 2012–2014): eles aderem aos contratos como condição mais benéfica, devem ser cumpridos em qualquer dispensa e seu descumprimento gera nulidade da dispensa e reintegração com pagamento dos salários do período. Cabe à empresa provar o cumprimento dos procedimentos.
+P: Regulamento empresarial adere ao contrato (Súmula 51, I) || Descumprimento gera nulidade da dispensa e reintegração || Facultatividade arbitrária é condição puramente potestativa e discriminatória
+K: regulamento interno; procedimento de dispensa; reintegração; condição mais benéfica; Súmula 51 do TST
+
+@TST 12
+I: Leis estaduais, municipais e federais de efeitos concretos sobre relações de emprego equiparam-se a regulamento de empresa; a supressão de parcelas nelas previstas sujeita-se à prescrição total (Súmula 294). Quanto ao prêmio de produtividade do SERPRO (Lei nº 5.615/1970), a prescrição é parcial até 11/9/1997 e total após a extinção da parcela.
+P: Leis de efeitos concretos equivalem a regulamento empresarial || Prescrição total em caso de supressão (Súmula 294) || Regra específica para o prêmio do SERPRO
+K: prescrição total; Súmula 294 do TST; SERPRO; lei de efeitos concretos
+
+@TST 14
+I: A redução ínfima do intervalo intrajornada — até cinco minutos no total, por variações de marcação — não atrai a punição do art. 71, § 4º, da CLT; acima disso, aplicam-se as consequências legais.
+P: Tolerância de até cinco minutos somados || Variações de registro de ponto || Excesso gera pagamento do intervalo
+K: intervalo intrajornada; art. 71, § 4º, da CLT; tolerância; controle de ponto
+
+@TST 15
+I: O carteiro motorizado da ECT que usa motocicleta pode receber cumulativamente o Adicional de Atividade de Distribuição e/ou Coleta Externa (AADC) e o adicional de periculosidade (art. 193, § 4º, da CLT), por terem naturezas distintas.
+P: Cumulação permitida || Naturezas jurídicas diversas || Carteiro motociclista
+K: ECT; AADC; adicional de periculosidade; motocicleta; carteiro
+
+@TST 16
+I: O Agente de Apoio Socioeducativo tem direito ao adicional de periculosidade por exposição permanente a violência física em atividades de segurança, com efeitos a partir de 3/12/2013, data da regulamentação do art. 193, II, da CLT (Anexo 3 da NR-16).
+P: Periculosidade por risco de violência física || Efeitos financeiros desde 3/12/2013 || Fundação pública estadual
+K: agente socioeducativo; adicional de periculosidade; segurança pessoal e patrimonial; NR-16
+
+@TST 17
+I: O art. 193, § 2º, da CLT foi recepcionado pela Constituição e proíbe acumular adicionais de insalubridade e periculosidade, ainda que decorrentes de fatos geradores distintos.
+P: Vedação de cumulação dos adicionais || Mesmo com fatos geradores autônomos || Empregado opta pelo mais vantajoso
+K: cumulação de adicionais; insalubridade; periculosidade; art. 193, § 2º, da CLT
+
+@TST 18
+I: Nas ações sobre fraude por terceirização de atividade-fim, o litisconsórcio entre prestadora e tomadora é necessário e unitário. A renúncia à pretensão independe de anuência e pode ser homologada a qualquer tempo, gerando coisa julgada; a prestadora não condenada pode recorrer, e a decisão de retratação alcança ambas as empresas.
+P: Litisconsórcio necessário e unitário na terceirização || Renúncia homologável em qualquer grau, com controle judicial de abusos || Efeitos idênticos para prestadora e tomadora
+K: terceirização; atividade-fim; litisconsórcio unitário; renúncia; Tema 725 do STF
+
+@TST 19
+I: A descaracterização do acordo de compensação de jornada gera apenas o pagamento do adicional sobre as horas até 44 semanais, e hora normal mais adicional sobre as excedentes; o acordo é inválido por inteiro, não apenas nas semanas descumpridas. A tese reafirma a Súmula 85, IV, sem modulação.
+P: Reafirmação da Súmula 85, IV || Invalidade integral do acordo de compensação || Questões da Reforma Trabalhista fora do escopo
+K: acordo de compensação; banco de horas; Súmula 85 do TST; horas extras
+
+@TST 20
+I: A pretensão de indenização por perdas e danos pela não inclusão de verbas salariais na complementação de aposentadoria segue a prescrição trabalhista (cinco anos, limitada a dois após o contrato) e só pode ser deduzida após a concessão do benefício ou saldamento do plano. A tese fixa marcos iniciais diferenciados para casos anteriores às teses do STJ (Temas 955 e 1.021).
+P: Prescrição trabalhista quinquenal e bienal || Termo inicial a partir da concessão do benefício || Regras de transição detalhadas (FUNCEF REG/REPLAN)
+K: complementação de aposentadoria; previdência complementar; prescrição; perdas e danos; FUNCEF
+
+@TST 21
+I: O juiz deve conceder de ofício a justiça gratuita a quem receba salário até 40% do teto do RGPS. Acima disso, o pedido pode ser instruído por declaração do interessado (Lei nº 7.115/1983); havendo impugnação com prova, o juiz ouve o requerente antes de decidir.
+P: Gratuidade de ofício até 40% do teto do RGPS || Declaração de hipossuficiência como prova suficiente || Contraditório na impugnação (art. 99, § 2º, do CPC)
+K: justiça gratuita; gratuidade; art. 790 da CLT; declaração de hipossuficiência
+
+@TST 23
+I: A Lei nº 13.467/2017 (Reforma Trabalhista) aplica-se imediatamente aos contratos em curso, regulando os direitos de origem legal cujos fatos geradores ocorrerem a partir de sua vigência.
+P: Aplicação imediata da Reforma aos contratos vigentes || Fatos geradores a partir de 11/11/2017 || Direitos de origem legal
+K: Reforma Trabalhista; Lei nº 13.467/2017; direito intertemporal; contratos em curso
+
+@TST 24
+I: A Justiça do Trabalho não é competente para julgar indenização pedida contra empregador por prejuízos a beneficiários de previdência complementar fechada decorrentes de má gestão da entidade ou atos de representantes do patrocinador.
+P: Incompetência da Justiça do Trabalho || Má gestão de fundo de pensão || Competência da Justiça comum
+K: competência; previdência complementar; fundo de pensão; má gestão
+
+@TST 26
+I: A Justiça do Trabalho é competente para o incidente de desconsideração da personalidade jurídica contra empresa em recuperação judicial, salvo ordem expressa do juízo recuperacional; a desconsideração exige abuso da personalidade (art. 50 do Código Civil), não bastando inadimplemento ou insuficiência patrimonial. Registro no TST: concluso ao relator.
+P: Competência trabalhista mesmo após a Lei nº 14.112/2020 || Teoria maior da desconsideração (art. 50 do CC) || Ressalva de ordem do juízo da recuperação
+K: desconsideração da personalidade jurídica; recuperação judicial; competência; art. 50 do Código Civil
+
+@TST 27
+I: Os sindicatos têm legitimidade extraordinária ampla para defender direitos individuais e coletivos da categoria, de associados e não associados, sem autorização, em todas as fases; a necessidade de individualizar beneficiários ou valores não impede ações coletivas. Registro no TST: concluso ao relator.
+P: Substituição processual ampla pelo sindicato || Fases de conhecimento, liquidação e execução || Questões individuais não obstam a ação coletiva
+K: substituição processual; sindicato; legitimidade extraordinária; ação coletiva
+
+@TST 39
+I: A prescrição intercorrente trabalhista (art. 11-A da CLT) decorre da inércia qualificada do exequente após ordem judicial emitida já na vigência da Reforma; a intimação deve ser específica e pessoal ao credor, e a decisão exige oitiva prévia da parte. Registro no TST: concluso à relatora.
+P: Exige descumprimento de ordem judicial posterior à Lei nº 13.467/2017 || Intimação específica, cominatória e pessoal || Nulidade sem oitiva prévia (arts. 9º e 10 do CPC)
+K: prescrição intercorrente; art. 11-A da CLT; execução trabalhista; intimação pessoal
+
+@TST 41
+I: O pagamento de custas e do depósito recursal feito por terceiro estranho à lide aproveita ao recorrente, desde que observados os requisitos e prazos legais.
+P: Preparo por terceiro é válido || Mesmos requisitos e prazos || Custas e depósito recursal
+K: preparo; depósito recursal; custas; terceiro
+
+@TST 46
+I: A suspensão dos prazos prescricionais da Lei nº 14.010/2020 (pandemia) aplica-se ao Direito do Trabalho, nas prescrições bienal e quinquenal, independentemente da possibilidade efetiva de acesso ao Judiciário. Registro no TST: concluso ao relator.
+P: Suspensão da prescrição na pandemia || Prescrições bienal e quinquenal || Irrelevância do acesso efetivo ao Judiciário
+K: prescrição; Lei nº 14.010/2020; pandemia; Covid-19
+
+@TST 50
+I: Empregados no regime da Lei nº 5.811/1972 (petroleiros em revezamento) não têm direito a horas in itinere, porque a lei assegura transporte gratuito.
+P: Petroleiros: transporte gratuito legal || Horas in itinere indevidas || Lei especial
+K: horas in itinere; petroleiro; Lei nº 5.811/1972
+
+@TST 51
+I: O caixa bancário da CEF que exerce digitação, ainda que intercalada com outras funções, tem direito ao intervalo de 10 minutos a cada 50 trabalhados previsto em norma coletiva ou interna, salvo se a norma exigir digitação preponderante ou exclusiva.
+P: Intervalo de digitação para caixa bancário || Dispensa a preponderância, salvo previsão expressa || Caixa Econômica Federal
+K: intervalo de digitação; caixa bancário; CEF; norma coletiva
+
+@TST 52
+I: Reconhecida em juízo a rescisão indireta, é devida a multa do art. 477, § 8º, da CLT.
+P: Multa por atraso rescisório na rescisão indireta || Reconhecimento judicial não afasta a multa || Art. 477, § 8º
+K: rescisão indireta; multa do art. 477; verbas rescisórias
+
+@TST 53
+I: O gerente-geral de agência da CEF não tem direito à jornada de seis horas do PCS de 1989, aplicando-se a exceção do art. 62, II, da CLT e a Súmula 287.
+P: Gerente-geral excluído do controle de jornada || Súmula 287 do TST || Horas extras indevidas
+K: gerente-geral; CEF; art. 62, II, da CLT; Súmula 287
+
+@TST 54
+I: A falta de instalações sanitárias e de local para refeição a empregados externos de limpeza urbana gera dano moral, por violar padrões mínimos de higiene e segurança (NR-24).
+P: Dano moral por condições degradantes || NR-24 e art. 7º, XXII, da CF || Trabalhadores externos de limpeza
+K: dano moral; instalações sanitárias; NR-24; limpeza urbana
+
+@TST 55
+I: O pedido de demissão da empregada gestante com garantia de emprego só é válido com assistência do sindicato ou de autoridade competente (art. 500 da CLT).
+P: Assistência sindical obrigatória || Garantia da gestante (ADCT, art. 10, II, b) || Nulidade do pedido sem assistência
+K: gestante; pedido de demissão; art. 500 da CLT; estabilidade gestante
+
+@TST 56
+I: O bancário que vende produtos de empresas do mesmo grupo econômico não tem direito a comissões, salvo previsão contratual de acréscimo sobre as vendas.
+P: Venda de produtos do grupo é atribuição compatível || Comissão só com previsão contratual || Bancários
+K: bancário; venda de produtos; comissões; grupo econômico
+
+@TST 57
+I: As comissões do vendedor sobre vendas a prazo incidem sobre o valor total da operação, incluídos juros e encargos, salvo pacto em contrário.
+P: Base de cálculo das comissões || Inclui juros e encargos financeiros || Pactuação diversa permitida
+K: comissões; vendas a prazo; juros; vendedor
+
+@TST 58
+I: A revista meramente visual em pertences, impessoal, geral e sem contato físico ou exposição vexatória, não gera dano moral.
+P: Revista visual permitida || Requisitos: impessoalidade e ausência de contato || Revista íntima segue vedada
+K: revista de pertences; dano moral; poder diretivo
+
+@TST 59
+I: O contrato de transporte de mercadorias tem natureza comercial e não configura terceirização (Súmula 331, IV), afastando a responsabilidade subsidiária do tomador.
+P: Transporte de cargas não é terceirização || Afasta a Súmula 331, IV || Natureza comercial do contrato
+K: transporte de mercadorias; terceirização; responsabilidade subsidiária; Súmula 331
+
+@TST 60
+I: A falta de anotação do vínculo na CTPS não gera dano moral presumido; é preciso provar constrangimento ou prejuízo imaterial.
+P: Dano moral não presumido || Prova do prejuízo || Arts. 186 e 927 do Código Civil
+K: CTPS; anotação; dano moral; vínculo de emprego
+
+@TST 61
+I: O transporte de valores por trabalhador não especializado gera dano moral in re ipsa, independentemente da atividade do empregador.
+P: Dano moral presumido || Exposição a risco || Trabalhador não especializado
+K: transporte de valores; dano moral in re ipsa; risco
+
+@TST 62
+I: A reversão em juízo de justa causa fundada em improbidade infundada ou não comprovada gera dano moral in re ipsa.
+P: Acusação de improbidade não comprovada || Dano moral presumido || Art. 482, a, da CLT
+K: justa causa; improbidade; reversão; dano moral
+
+@TST 63
+I: Antes da Reforma Trabalhista, o descumprimento do intervalo de 15 minutos da mulher antes da prorrogação (art. 384 da CLT) gerava o pagamento de 15 minutos extras, sem exigência de tempo mínimo de sobrejornada.
+P: Intervalo do art. 384 da CLT (revogado em 2017) || Pagamento de 15 minutos como extra || Sem tempo mínimo de prorrogação
+K: intervalo da mulher; art. 384 da CLT; horas extras
+
+@TST 64
+I: Não há cerceamento de defesa no indeferimento de adiamento de audiência quando a parte, intimada, não apresentou rol de testemunhas nem justificou a ausência delas, que deveriam comparecer espontaneamente.
+P: Comparecimento espontâneo das testemunhas (art. 825 da CLT) || Ônus da parte || Sem nulidade
+K: cerceamento de defesa; testemunhas; adiamento de audiência; art. 825 da CLT
+
+@TST 65
+I: A inadimplência ou o cancelamento da compra pelo cliente não autoriza o empregador a estornar comissões do empregado.
+P: Vedação ao estorno de comissões || Risco do negócio é do empregador || Proteção salarial
+K: comissões; estorno; inadimplência do cliente
+
+@TST 66
+I: Motoristas e cobradores de empresa de transporte coletivo integram a base de cálculo da cota de aprendizes (art. 429 da CLT).
+P: Base de cálculo da cota de aprendizagem || Inclui motoristas e cobradores || Transporte coletivo
+K: cota de aprendizes; art. 429 da CLT; motorista; cobrador
+
+@TST 67
+I: Cabe ao empregador provar que o empregado não cumpre requisito para a promoção por antiguidade, por se tratar de fato impeditivo.
+P: Ônus do empregador || Fato impeditivo || Promoção por antiguidade
+K: ônus da prova; promoção por antiguidade; fato impeditivo
+
+@TST 68
+I: Nas reclamações, o FGTS e a indenização de 40% devem ser depositados na conta vinculada, não pagos diretamente ao trabalhador.
+P: Depósito na conta vinculada || Inclui a multa de 40% || Vedação de pagamento direto
+K: FGTS; multa de 40%; conta vinculada
+
+@TST 69
+I: A função comissionada técnica (FCT/FCA/GFE) paga com habitualidade a empregados do SERPRO, sem vínculo a atividade extraordinária ou de confiança, incorpora-se ao salário para todos os efeitos.
+P: Natureza salarial da FCT || Habitualidade || Reflexos em adicionais
+K: SERPRO; função comissionada técnica; incorporação; natureza salarial
+
+@TST 70
+I: A falta ou irregularidade nos depósitos do FGTS autoriza a rescisão indireta (art. 483, d, da CLT), sem exigência de imediatidade.
+P: FGTS irregular gera rescisão indireta || Dispensada a imediatidade || Descumprimento contratual grave
+K: rescisão indireta; FGTS; art. 483 da CLT; imediatidade
+
+@TST 71
+I: Revertida em juízo a dispensa por justa causa, é devida a multa do art. 477, § 8º, da CLT.
+P: Multa rescisória após reversão da justa causa || Art. 477, § 8º || Verbas não pagas no prazo
+K: justa causa; reversão; multa do art. 477
+
+@TST 72
+I: Ter ação contra o mesmo empregador, mesmo com pedido idêntico, não torna a testemunha suspeita, salvo prova de parcialidade.
+P: Súmula 357 do TST reforçada || Suspeição depende de prova || Pedido idêntico não basta
+K: testemunha; suspeição; Súmula 357 do TST
+
+@TST 73
+I: Cabe ao empregador provar a impossibilidade de controle da jornada do trabalhador externo, por ser fato impeditivo.
+P: Ônus do empregador no art. 62, I, da CLT || Trabalho externo || Fato impeditivo
+K: trabalho externo; controle de jornada; ônus da prova; art. 62 da CLT
+
+@TST 74
+I: A devolução de valores pagos a maior ao exequente deve ser pedida em ação própria, e não nos autos da execução.
+P: Necessidade de ação própria || Devido processo legal || Vedação de cobrança nos autos
+K: execução; valores pagos a maior; ação própria; restituição
+
+@TST 75
+I: No CPC/2015, é válida a penhora de rendimentos para crédito trabalhista, limitada a 50% dos rendimentos líquidos e garantido ao devedor ao menos um salário mínimo.
+P: Penhora de salário para crédito trabalhista || Limite de 50% dos rendimentos líquidos || Garantia de um salário mínimo ao devedor
+K: penhora de salário; impenhorabilidade; art. 833 do CPC; crédito trabalhista
+
+@TST 76
+I: Havendo concausa entre trabalho e doença ocupacional, a pensão mensal é reduzida em até 50%, salvo se o laudo indicar expressamente o grau de contribuição do trabalho.
+P: Redução da pensão na concausalidade || Até 50% || Prevalece o percentual do laudo, se houver
+K: concausa; doença ocupacional; pensão mensal; danos materiais
+
+@TST 77
+I: A escolha entre pensão mensal e parcela única na indenização do art. 950 do Código Civil não é direito subjetivo da parte, cabendo ao juiz decidir fundamentadamente.
+P: Discricionariedade judicial motivada || Parcela única ou pensão || Análise do caso concreto
+K: pensão vitalícia; parcela única; art. 950 do Código Civil; danos materiais
+
+@TST 78
+I: Se a norma coletiva limita a base da PLR dos bancários às verbas fixas salariais, as horas extras habituais não integram o cálculo.
+P: PLR conforme norma coletiva || Horas extras são parcela variável || Bancários
+K: participação nos lucros; PLR; horas extras; bancário
+
+@TST 79
+I: É devido adicional de periculosidade a quem trabalha na área externa de aeronave durante o abastecimento, ainda que não atue diretamente na função.
+P: Área de abastecimento como área de risco || Anexo 2 da NR-16 || Atuação indireta basta
+K: periculosidade; abastecimento de aeronaves; NR-16
+
+@TST 80
+I: O trabalho em câmaras frigoríficas ou frio artificial sem a pausa térmica do art. 253 da CLT gera direito ao adicional de insalubridade, mesmo com EPIs.
+P: Pausa térmica obrigatória || EPI não afasta o adicional || Art. 253 da CLT
+K: câmara frigorífica; pausa térmica; insalubridade; art. 253 da CLT
+
+@TST 81
+I: A prestação de serviços terceirizados a vários tomadores não afasta a responsabilidade subsidiária de cada um que se beneficiou dos serviços.
+P: Pluralidade de tomadores || Responsabilidade subsidiária mantida || Benefício dos serviços
+K: terceirização; responsabilidade subsidiária; pluralidade de tomadores
+
+@TST 82
+I: Motoristas que apenas acompanham o abastecimento feito por terceiro, sem contato direto com combustível, não têm direito a adicional de periculosidade.
+P: Acompanhamento do abastecimento não gera periculosidade || Ausência de contato direto || Motoristas
+K: periculosidade; abastecimento; motorista; inflamáveis
+
+@TST 83
+I: A cobrança de mensalidades ou coparticipação no plano "Correios Saúde" de empregados ativos e aposentados da ECT não configura alteração contratual lesiva.
+P: Validade do custeio do plano de saúde || Respaldo em dissídio coletivo revisional || ECT
+K: ECT; Correios Saúde; plano de saúde; alteração contratual
+
+@TST 84
+I: É objetiva a responsabilidade do empregador por dano moral quando carteiro sofre roubo em serviço, pela atividade de risco diferenciado.
+P: Responsabilidade objetiva || Atividade de risco || Carteiros
+K: carteiro; roubo; responsabilidade objetiva; dano moral
+
+@TST 85
+I: O descumprimento contumaz no pagamento de horas extras e na concessão do intervalo intrajornada autoriza a rescisão indireta (art. 483, d, da CLT).
+P: Rescisão indireta por descumprimento reiterado || Horas extras e intervalo || Art. 483, d
+K: rescisão indireta; horas extras; intervalo intrajornada
+
+@TST 86
+I: O tesoureiro de retaguarda ou executivo da CEF exerce funções técnicas sem fidúcia especial e não se enquadra no art. 224, § 2º, da CLT.
+P: Afasta o cargo de confiança bancário || Jornada de seis horas || CEF
+K: tesoureiro; CEF; cargo de confiança; art. 224, § 2º, da CLT
+
+@TST 87
+I: É devido adicional de periculosidade a quem abastece empilhadeiras trocando cilindros de GLP, ainda que por tempo reduzido.
+P: Troca de cilindros de GLP || Tempo reduzido não afasta || Inflamáveis
+K: periculosidade; GLP; empilhadeira
+
+@TST 88
+I: Impedir o retorno do empregado após alta previdenciária e deixar de pagar salários (limbo previdenciário) é ilícito e gera dano moral in re ipsa.
+P: Limbo previdenciário || Dano moral presumido || Dever de readmitir e remunerar
+K: limbo previdenciário; alta do INSS; dano moral; retorno ao trabalho
+
+@TST 91
+I: No processo do trabalho, a prescrição não pode ser reconhecida de ofício, devendo ser arguida na instância ordinária; o art. 487, II, do CPC é inaplicável, exceto quanto à prescrição intercorrente (art. 11-A, § 2º, da CLT). Registro no TST: concluso ao relator.
+P: Vedação ao reconhecimento de ofício || Arguição na instância ordinária || Exceção: prescrição intercorrente
+K: prescrição de ofício; processo do trabalho; art. 769 da CLT; prescrição intercorrente
+
+@TST 101
+I: O art. 193, § 4º, da CLT é autoaplicável e garante periculosidade a quem trabalha com motocicleta em vias públicas; exceções regulamentares exigem laudo técnico e não retroagem, cabendo a prova a quem as alega. Registro no TST: concluso ao relator.
+P: Periculosidade do motociclista é autoaplicável || Exceções dependem de laudo (art. 195 da CLT) || Sem efeito retroativo nem devolução de valores
+K: motociclista; adicional de periculosidade; art. 193, § 4º, da CLT; NR-16
+
+@TST 115
+I: A mudança no cálculo do abono pecuniário de férias promovida pela ECT em 2016 é alteração contratual lesiva e não atinge empregados contratados antes. Registro no TST: concluso ao relator.
+P: Alteração lesiva (art. 468 da CLT) || Abono pecuniário (art. 143 da CLT) || ECT
+K: abono pecuniário; férias; ECT; alteração contratual lesiva
+
+@TST 118
+I: Desde a Lei nº 13.342/2016, agentes comunitários de saúde têm direito a adicional de insalubridade em grau médio, sem necessidade de laudo pericial.
+P: Insalubridade em grau médio || Dispensa de perícia || Agentes comunitários de saúde
+K: agente comunitário de saúde; insalubridade; Lei nº 13.342/2016
+
+@TST 119
+I: Dúvida razoável sobre a data de início da gravidez e sua contemporaneidade ao contrato não afasta a garantia de emprego da gestante.
+P: Proteção à gestante em caso de dúvida || Contemporaneidade ao contrato || ADCT, art. 10, II, b
+K: gestante; estabilidade; data da concepção
+
+@TST 120
+I: Não cabe a multa do art. 467 da CLT quando o vínculo de emprego é reconhecido em juízo e a natureza da relação foi impugnada na defesa.
+P: Controvérsia afasta a multa do art. 467 || Vínculo reconhecido judicialmente || Defesa fundada
+K: multa do art. 467; vínculo de emprego; verbas incontroversas
+
+@TST 121
+I: O auxílio-alimentação não tem natureza salarial quando o empregado contribui para o custeio, qualquer que seja o valor da coparticipação.
+P: Coparticipação afasta natureza salarial || Valor irrelevante || Auxílio-alimentação
+K: auxílio-alimentação; natureza salarial; coparticipação
+
+@TST 122
+I: A não apresentação dos registros de jornada pelo empregador doméstico gera presunção relativa da jornada alegada na inicial.
+P: Presunção relativa || Empregado doméstico || Elidível por prova em contrário
+K: empregado doméstico; controle de jornada; presunção; LC nº 150/2015
+
+@TST 123
+I: A alteração dos regulamentos da CONAB que garantiam a incorporação de gratificação de função não atinge quem já tinha direito adquirido, mesmo diante de decisão do TCU.
+P: Direito adquirido à incorporação || Decisão do TCU não prevalece || CONAB
+K: CONAB; gratificação de função; incorporação; direito adquirido
+
+@TST 124
+I: A cessação da conduta ilícita após a ação civil pública não impede a tutela inibitória, que visa prevenir ilícitos futuros.
+P: Tutela inibitória preventiva || Cessação posterior não basta || Ação civil pública
+K: tutela inibitória; ação civil pública; Ministério Público do Trabalho
+
+@TST 125
+I: A estabilidade acidentária (art. 118 da Lei nº 8.213/1991) não exige afastamento superior a 15 dias nem auxílio-doença acidentário, se reconhecido depois o nexo causal ou concausal da doença ocupacional.
+P: Nexo reconhecido após a dispensa || Dispensa afastamento e benefício || Súmula 378, II, do TST
+K: estabilidade acidentária; doença ocupacional; art. 118 da Lei nº 8.213/1991
+
+@TST 126
+I: Aplica-se a prescrição trienal civil (art. 206, § 3º, do Código Civil) à indenização por dano em ricochete (reflexo).
+P: Prescrição de três anos || Dano reflexo de familiares || Código Civil
+K: dano em ricochete; prescrição trienal; familiares
+
+@TST 127
+I: Na vigência da Reforma, é devida a multa do art. 477, § 8º, da CLT se o empregador não entrega em dez dias os documentos que comprovam a comunicação da extinção do contrato, ainda que pague as verbas no prazo.
+P: Prazo de dez dias também para documentos || Multa mesmo com pagamento tempestivo || Lei nº 13.467/2017
+K: multa do art. 477; entrega de documentos; rescisão contratual
+
+@TST 128
+I: O motorista de ônibus urbano que também cobra passagens não tem direito a acréscimo salarial.
+P: Acúmulo de funções não remunerado || Compatibilidade das tarefas || Transporte urbano
+K: acúmulo de funções; motorista; cobrador
+
+@TST 129
+I: O adicional de periculosidade integra a base de cálculo das horas variáveis dos aeronautas.
+P: Reflexo do adicional || Horas variáveis || Aeronautas
+K: aeronauta; periculosidade; horas variáveis
+
+@TST 130
+I: É válida a dispensa imotivada de empregado admitido antes da privatização, ainda que norma interna anterior previsse procedimentos e vedações.
+P: Privatização afasta restrições internas || Dispensa sem justa causa válida || Sucessão empresarial
+K: privatização; dispensa imotivada; norma interna
+
+@TST 131
+I: Proferida sentença líquida, as impugnações a critérios ou valores de liquidação devem ser feitas no recurso ordinário, sob pena de preclusão.
+P: Preclusão na sentença líquida || Recurso ordinário como momento próprio || Liquidação
+K: sentença líquida; preclusão; recurso ordinário; cálculos
+
+@TST 132
+I: É imprescritível a pretensão de retificação e entrega do Perfil Profissiográfico Previdenciário (PPP).
+P: Natureza declaratória || Imprescritibilidade || Documento previdenciário
+K: PPP; perfil profissiográfico previdenciário; imprescritibilidade
+
+@TST 133
+I: Constatado o inadimplemento do devedor principal, a execução pode ser redirecionada ao responsável subsidiário sem esgotar bens do principal e de seus sócios, salvo indicação de bens suficientes.
+P: Dispensa o benefício de ordem contra sócios || Inadimplemento basta || Exceção: bens suficientes indicados
+K: responsabilidade subsidiária; redirecionamento da execução; benefício de ordem
+
+@TST 134
+I: A recusa da gestante em retornar ao trabalho, mesmo com oferta de emprego, não é renúncia à estabilidade e mantém a indenização substitutiva.
+P: Recusa não é renúncia || Indenização substitutiva devida || Garantia gestante
+K: gestante; recusa de reintegração; indenização substitutiva
+
+@TST 135
+I: Não há cerceamento de defesa no indeferimento de prova testemunhal fundado em confissão ficta por desconhecimento dos fatos pela parte ou preposto.
+P: Confissão ficta do preposto || Indeferimento de testemunhas válido || Súmula 74 do TST
+K: confissão ficta; preposto; cerceamento de defesa
+
+@TST 136
+I: A falta de assinatura do empregado não invalida, por si só, os controles de horário.
+P: Validade dos cartões sem assinatura || Presunção relativa || Prova em contrário possível
+K: controle de ponto; assinatura; jornada
+
+@TST 137
+I: A supressão de horas extras habituais gera a indenização da Súmula 291, mesmo que o labor extra tenha sido reconhecido apenas em juízo e a redução decorra de adequação judicial da jornada.
+P: Indenização da Súmula 291 || Horas reconhecidas judicialmente || Supressão por adequação judicial
+K: supressão de horas extras; Súmula 291 do TST; indenização
+
+@TST 138
+I: Empregado público com filho autista tem direito à redução de jornada sem redução salarial e sem compensação, por analogia ao art. 98, §§ 2º e 3º, da Lei nº 8.112/1990.
+P: Redução de jornada sem perda salarial || Analogia ao regime estatutário || Proteção da pessoa com TEA
+K: TEA; autismo; redução de jornada; empregado público
+
+@TST 139
+I: A recuperação judicial, diferentemente da falência, não isenta a empresa das multas dos arts. 467 e 477, § 8º, da CLT.
+P: Multas devidas na recuperação judicial || Distinção com a falência (Súmula 388) || Arts. 467 e 477
+K: recuperação judicial; multa do art. 477; multa do art. 467
+
+@TST 140
+I: É válida a prova pericial emprestada para insalubridade ou periculosidade, sem concordância da parte contrária, se houver identidade fática e contraditório.
+P: Prova emprestada válida || Identidade fática e contraditório || Indeferimento de nova perícia possível
+K: prova emprestada; perícia; insalubridade; periculosidade
+
+@TST 141
+I: O parcelamento de débitos de FGTS entre empregador e CEF não impede o empregado de pedir em juízo o recolhimento imediato dos valores.
+P: Parcelamento não vincula o empregado || Recolhimento imediato || Direito de ação preservado
+K: FGTS; parcelamento; CEF; recolhimento
+
+@TST 142
+I: A multa do art. 477, § 8º, da CLT incide sobre todas as parcelas salariais, não só sobre o salário-base.
+P: Base de cálculo ampla || Parcelas de natureza salarial || Multa rescisória
+K: multa do art. 477; base de cálculo; salário
+
+@TST 143
+I: Atraso ou ausência de pagamento das verbas rescisórias, por si só, não gera dano moral; é preciso provar lesão concreta a direitos de personalidade.
+P: Dano moral não presumido || Prova de lesão concreta || Verbas rescisórias
+K: verbas rescisórias; atraso; dano moral
+
+@TST 144
+I: A decisão interlocutória que rejeita exceção de pré-executividade é irrecorrível de imediato (art. 893, § 1º, da CLT).
+P: Irrecorribilidade imediata || Exceção de pré-executividade || Interlocutórias trabalhistas
+K: exceção de pré-executividade; decisão interlocutória; irrecorribilidade
+
+@TST 145
+I: A pensão por redução da capacidade laboral pode ser cumulada com o salário recebido, por terem naturezas distintas.
+P: Cumulação com salário || Naturezas e fatos geradores distintos || Indenização material
+K: pensão; redução da capacidade; cumulação; salário
+
+@TST 146
+I: O depósito recursal do devedor principal aproveita ao responsável subsidiário, desde que o principal não tenha pedido exclusão da lide.
+P: Aproveitamento do depósito recursal || Súmula 128, III || Condição: devedor principal na lide
+K: depósito recursal; responsável subsidiário
+
+@TST 155
+I: Na indenização do art. 950 do Código Civil, a pensão mensal deve durar enquanto persistir a incapacidade, vedada limitação etária de ofício; convertida em parcela única, usa-se a Tábua de Mortalidade do IBGE vigente no início do pensionamento, conforme o sexo.
+P: Sem limitação etária de ofício || Parcela única pela Tábua do IBGE || Expectativa de sobrevida
+K: pensão; art. 950 do Código Civil; Tábua de Mortalidade do IBGE; parcela única
+
+@TST 156
+I: É lícito expedir ofícios e consultar bancos de dados oficiais para localizar rendimentos penhoráveis do executado, observados os limites do Tema 75.
+P: Pesquisa patrimonial por ofícios e sistemas || Limites da penhora de salário (Tema 75) || Efetividade da execução
+K: pesquisa patrimonial; ofícios; penhora de rendimentos; Tema 75
+
+@TST 157
+I: O comprovante bancário de pagamento das custas, com identificação do convênio STN-GRU Judicial, valor e prazo corretos, basta para o preparo, mesmo sem a GRU.
+P: Comprovante bancário suficiente || Identificação do convênio || Custas
+K: custas; GRU; preparo; comprovante bancário
+
+@TST 158
+I: O comprovante de agendamento bancário não comprova o recolhimento de custas e depósito recursal, e não se concede prazo para regularização.
+P: Agendamento não é pagamento || Deserção || Sem prazo de correção
+K: agendamento bancário; deserção; custas; depósito recursal
+
+@TST 159
+I: A garantia integral da dívida na execução (art. 884 da CLT) aplica-se às empresas em recuperação judicial, condicionando os embargos e recursos subsequentes.
+P: Garantia do juízo obrigatória || Recuperação judicial não isenta || Art. 884 da CLT
+K: garantia do juízo; recuperação judicial; embargos à execução
+
+@TST 160
+I: Os reflexos das horas extras no repouso do petroleiro regido pela Lei nº 5.811/1972 são calculados pelo percentual de 16,67%.
+P: Percentual de 16,67% || Petroleiros || Repouso semanal
+K: petroleiro; reflexos; repouso; Lei nº 5.811/1972
+
+@TST 161
+I: Antes de 9/12/2019, a não concessão do intervalo de recuperação térmica ao empregado exposto a calor excessivo gera pagamento de horas extras pelo período.
+P: Pausa para calor excessivo || Marco: 9/12/2019 || Horas extras
+K: calor excessivo; pausa térmica; horas extras; NR-15
+
+@TST 162
+I: Divergência entre códigos de barras do comprovante de custas e da GRU gera deserção, sem prazo para regularização.
+P: Divergência de código de barras || Deserção || Sem prazo de correção
+K: custas; GRU; código de barras; deserção
+
+@TST 163
+I: A garantia de emprego da gestante aplica-se ao contrato de experiência.
+P: Contrato por prazo determinado || Estabilidade gestante || Súmula 244, III
+K: gestante; contrato de experiência; estabilidade
+
+@TST 164
+I: Pagamento parcial das verbas rescisórias no prazo, com diferenças reconhecidas em juízo, não gera, por si só, a multa do art. 477, § 8º, da CLT.
+P: Diferenças judiciais não geram multa || Pagamento tempestivo || Art. 477
+K: multa do art. 477; diferenças rescisórias
+
+@TST 165
+I: A prescrição parcial sobre diferenças de promoções de plano de cargos não impede reconhecer promoções anteriores ao quinquênio, mas os efeitos financeiros limitam-se ao período não prescrito.
+P: Reconhecimento de promoções antigas || Efeitos pecuniários no período imprescrito || Prescrição parcial
+K: promoções; plano de cargos e salários; prescrição parcial
+
+@TST 166
+I: A criação pela Petrobras de níveis remuneratórios apenas para a categoria "Júnior" não viola a isonomia nem gera diferenças às demais categorias.
+P: Isonomia não violada || Petrobras || Níveis salariais diferenciados
+K: Petrobras; isonomia; níveis remuneratórios
+
+@TST 167
+I: A gratificação semestral integra a base de cálculo da PLR quando a norma coletiva prevê apuração sobre verbas de natureza salarial.
+P: Gratificação semestral na PLR || Depende da norma coletiva || Natureza salarial
+K: gratificação semestral; PLR; norma coletiva
+
+@TST 168
+I: O reconhecimento do vínculo em juízo não afasta a multa do art. 477, § 8º, da CLT, salvo se o empregado comprovadamente der causa à mora. Reafirma a Súmula 462.
+P: Multa devida no vínculo reconhecido judicialmente || Exceção: mora causada pelo empregado || Reafirmação da Súmula 462
+K: multa do art. 477; vínculo de emprego; Súmula 462 do TST
+
+@TST 169
+I: A prescrição bienal começa a correr do término do aviso prévio, ainda que indenizado.
+P: Projeção do aviso prévio || Termo inicial da prescrição bienal || OJ 83 da SBDI-1
+K: prescrição bienal; aviso prévio indenizado
+
+@TST 170
+I: O protesto judicial (art. 202, II, do Código Civil) continua interrompendo a prescrição mesmo após a Reforma, que incluiu o § 3º no art. 11 da CLT.
+P: Protesto interruptivo mantido || Compatível com o art. 11, § 3º, da CLT || Prescrição trabalhista
+K: protesto judicial; interrupção da prescrição; Reforma Trabalhista
+
+@TST 171
+I: É devido adicional de insalubridade em grau máximo ao trabalhador de varrição de logradouros com contato permanente com lixo urbano (Anexo 14 da NR-15).
+P: Grau máximo || Varrição e lixo urbano || Súmula 448, II
+K: varrição; lixo urbano; insalubridade em grau máximo; NR-15
+
+@TST 172
+I: O art. 58, § 2º, da CLT, com redação da Reforma, aplica-se ao trabalhador rural, que não tem direito a horas in itinere.
+P: Fim das horas in itinere também para rurais || Redação da Lei nº 13.467/2017 || Trabalhador rural
+K: horas in itinere; trabalhador rural; art. 58, § 2º, da CLT
+
+@TST 173
+I: Substituído o depósito recursal por seguro-garantia sem o acréscimo de 30%, o recorrente deve ser intimado para complementar, sob pena de deserção (art. 1.007, § 2º, do CPC).
+P: Complementação antes da deserção || Acréscimo de 30% exigido || Seguro-garantia judicial
+K: seguro-garantia; depósito recursal; deserção; complementação
+
+@TST 174
+I: A decisão que julga a impugnação e homologa os cálculos de liquidação é interlocutória e irrecorrível de imediato.
+P: Natureza interlocutória || Art. 893, § 1º, da CLT || Discussão posterior em embargos
+K: homologação de cálculos; liquidação; irrecorribilidade
+
+@TST 175
+I: A condenação por litigância de má-fé não impede a concessão da gratuidade de justiça.
+P: Institutos independentes || Gratuidade preservada || Multa continua devida
+K: litigância de má-fé; justiça gratuita
+
+@TST 176
+I: O empregado que exerce atividade exclusiva ou preponderante de teleatendimento ou telemarketing tem direito à jornada de seis horas do art. 227 da CLT.
+P: Jornada reduzida por analogia aos telefonistas || Atividade exclusiva ou preponderante || Art. 227 da CLT
+K: telemarketing; teleatendimento; jornada de seis horas; art. 227 da CLT
+
+@TST 177
+I: Os empregados de administradoras de cartão de crédito enquadram-se na categoria dos financiários.
+P: Enquadramento sindical || Financiários || Administradoras de cartão
+K: cartão de crédito; financiários; enquadramento sindical
+
+@TST 178
+I: A "compensação orgânica" dos aeronautas, prevista em norma coletiva e identificável, não é salário complessivo.
+P: Validade da parcela || Previsão em norma coletiva || Identificação de valor
+K: aeronauta; compensação orgânica; salário complessivo
+
+@TST 179
+I: Empregados de loja de departamento não se enquadram como financiários.
+P: Enquadramento sindical || Lojas de departamento || Afasta a categoria financiária
+K: loja de departamento; financiários; enquadramento
+
+@TST 180
+I: O contato com álcalis cáusticos diluídos em produtos de limpeza doméstica não gera insalubridade, pois o Anexo 13 da NR-15 trata da substância bruta e concentrada.
+P: Produtos de limpeza diluídos || Anexo 13 da NR-15 || Insalubridade indevida
+K: álcalis cáusticos; produtos de limpeza; insalubridade
+
+@TST 181
+I: É devida indenização por dano moral em ricochete, por presunção relativa, a filhos, pais, irmãos e cônjuge ou companheiro de empregado morto em acidente de trabalho.
+P: Dano reflexo presumido || Núcleo familiar definido || Presunção relativa
+K: dano moral em ricochete; acidente de trabalho fatal; familiares
+
+@TST 182
+I: Não cabem honorários sucumbenciais na produção antecipada de provas (art. 381 do CPC), pois não há pretensão resistida.
+P: Ausência de lide || Produção antecipada de prova || Art. 791-A da CLT
+K: honorários advocatícios; produção antecipada de provas
+
+@TST 183
+I: A prescrição da reparação por acidente de trabalho ou doença ocupacional começa na ciência inequívoca da consolidação da lesão.
+P: Actio nata || Consolidação da lesão || Súmula 278 do STJ
+K: prescrição; acidente de trabalho; ciência inequívoca
+
+@TST 184
+I: São devidas as parcelas vincendas de horas extras enquanto permanecer a situação de fato que as originou.
+P: Condenação em parcelas vincendas || Art. 323 do CPC || Situação de fato inalterada
+K: parcelas vincendas; horas extras
+
+@TST 185
+I: A impenhorabilidade do único imóvel da família alugado a terceiros depende de prova de que a renda sustenta a família ou paga outra moradia.
+P: Bem de família locado || Prova da destinação da renda || Súmula 486 do STJ
+K: bem de família; impenhorabilidade; imóvel alugado
+
+@TST 186
+I: O atraso só na homologação da rescisão, com verbas pagas no prazo, não gera multa do art. 477, § 8º, da CLT.
+P: Pagamento tempestivo afasta a multa || Homologação tardia || Art. 477
+K: homologação da rescisão; multa do art. 477
+
+@TST 187
+I: É ineficaz carta de fiança, em substituição ao depósito recursal, emitida por instituição não autorizada pelo Banco Central.
+P: Exigência de autorização do Bacen || Ineficácia da garantia || Deserção
+K: carta de fiança; depósito recursal; Banco Central
+
+@TST 188
+I: A União paga os honorários periciais quando o sucumbente na perícia é beneficiário da gratuidade, observada a Resolução CSJT nº 247/2019. Reafirma a Súmula 457.
+P: Responsabilidade da União || Beneficiário da gratuidade || Reafirmação da Súmula 457
+K: honorários periciais; justiça gratuita; União; Súmula 457
+
+@TST 189
+I: As entidades do "Sistema S" são de direito privado e, configurada a terceirização, respondem subsidiariamente sem necessidade de provar culpa na fiscalização.
+P: Sistema S não é administração pública || Responsabilidade subsidiária sem culpa provada || Terceirização
+K: Sistema S; terceirização; responsabilidade subsidiária
+
+@TST 190
+I: O manuseio de cimento na construção civil não está entre as atividades insalubres do Anexo 13 da NR-15, mesmo com laudo pericial em contrário.
+P: Cimento não gera insalubridade || Prevalência do quadro oficial || Laudo não supre enquadramento
+K: cimento; construção civil; insalubridade; NR-15
+
+@TST 191
+I: A sexta-parte da Constituição paulista é calculada sobre os vencimentos integrais, excluídas parcelas cuja lei estadual limite expressamente a incidência.
+P: Base: vencimentos integrais || Exclusões legais expressas || Servidores celetistas de SP
+K: sexta-parte; Constituição do Estado de São Paulo; base de cálculo
+
+@TST 192
+I: A retenção injustificada da CTPS além do prazo legal gera dano moral presumido.
+P: Dano moral in re ipsa || Prazo legal de devolução || CTPS
+K: CTPS; retenção; dano moral
+
+@TST 193
+I: A projeção do aviso prévio indenizado é considerada para o pagamento proporcional da PLR.
+P: Aviso prévio projeta efeitos || PLR proporcional || OJ 82 da SBDI-1
+K: PLR; aviso prévio indenizado; proporcionalidade
+
+@TST 194
+I: Antes da Reforma, é devida promoção por antiguidade quando o plano de cargos não prevê alternância entre merecimento e antiguidade.
+P: Promoção por antiguidade || Período anterior à Lei nº 13.467/2017 || Art. 461, § 2º, da CLT
+K: promoção por antiguidade; plano de cargos e salários
+
+@TST 214
+I: As regras de grupo econômico por coordenação (art. 2º, §§ 2º e 3º, da CLT, na redação da Reforma) aplicam-se aos processos iniciados antes da lei, ressalvados processos transitados, créditos satisfeitos e execuções findas. Registro no TST: concluso ao relator.
+P: Aplicação aos processos em curso || Ressalvas de situações consolidadas || Grupo econômico
+K: grupo econômico; Reforma Trabalhista; direito intertemporal
+
+@TST 215
+I: Excepcionalmente, a ação pode ser ajuizada no domicílio do trabalhador quando o foro do art. 651 da CLT inviabilizar ou tornar desproporcional o acesso à Justiça, com fundamentação concreta e garantia de defesa da parte contrária; hipossuficiência presumida ou distância isolada não bastam.
+P: Flexibilização do art. 651 da CLT || Exige circunstâncias concretas (doença, vulnerabilidade, migração) || Garantia de defesa, inclusive eletrônica
+K: competência territorial; domicílio do trabalhador; acesso à Justiça; art. 651 da CLT
+
+@TST 216
+I: As Leis nº 3.999/1961 e 4.950-A/1966 fixam salário mínimo profissional de médicos e engenheiros, não jornada reduzida; horas extras só após a oitava, respeitado o mínimo horário. Reafirma a Súmula 370.
+P: Salário mínimo profissional, não jornada || Horas extras após a oitava || Reafirmação da Súmula 370
+K: médico; engenheiro; salário profissional; Súmula 370
+
+@TST 217
+I: O prazo recursal da parte intimada que não comparece à audiência de publicação da sentença corre da publicação. Reafirma a Súmula 197.
+P: Prazo da publicação em audiência || Parte intimada e ausente || Reafirmação da Súmula 197
+K: prazo recursal; publicação da sentença; Súmula 197
+
+@TST 218
+I: A mudança do regime celetista para estatutário extingue o contrato de trabalho e inicia a prescrição bienal. Reafirma a Súmula 382.
+P: Extinção do contrato pela mudança de regime || Prescrição bienal || Reafirmação da Súmula 382
+K: mudança de regime; estatutário; prescrição bienal
+
+@TST 219
+I: A ação de cumprimento dispensa o trânsito em julgado da sentença normativa. Reafirma a Súmula 246.
+P: Ação de cumprimento || Sentença normativa sem trânsito || Reafirmação da Súmula 246
+K: ação de cumprimento; sentença normativa
+
+@TST 220
+I: É assegurada a manutenção do plano de saúde oferecido pela empresa durante auxílio-doença acidentário ou aposentadoria por invalidez, nas mesmas condições anteriores. Reafirma a Súmula 440.
+P: Manutenção do plano de saúde na suspensão contratual || Mesmas condições || Reafirmação da Súmula 440
+K: plano de saúde; aposentadoria por invalidez; auxílio-doença acidentário
+
+@TST 221
+I: Membro de conselho fiscal de sindicato não tem estabilidade sindical, pois não representa a categoria. Reafirma a OJ 365 da SBDI-1.
+P: Sem estabilidade para conselho fiscal || Função de fiscalização financeira || Reafirmação da OJ 365
+K: estabilidade sindical; conselho fiscal; OJ 365
+
+@TST 222
+I: O trabalhador de movimentação de mercadorias (Lei nº 12.023/2009) integra categoria diferenciada, independentemente da atividade do empregador.
+P: Categoria diferenciada || Movimentação de mercadorias || Enquadramento sindical
+K: movimentação de mercadorias; categoria diferenciada; Lei nº 12.023/2009
+
+@TST 223
+I: No processo do trabalho, é válida a citação ou intimação postal entregue no endereço da parte ré, cabendo a ela provar o não recebimento.
+P: Impessoalidade da notificação postal || Ônus do destinatário || Art. 841, § 1º, da CLT
+K: citação postal; notificação; processo do trabalho
+
+@TST 224
+I: A Justiça do Trabalho julga ações de dano moral e material da relação de trabalho, inclusive por acidente, ainda que propostas por dependentes ou sucessores. Reafirma a Súmula 392.
+P: Competência trabalhista ampla || Ações dos sucessores || Reafirmação da Súmula 392
+K: competência; acidente de trabalho; dano moral; sucessores
+
+@TST 225
+I: Na colheita de laranja por produção, as horas extras são pagas com a hora normal acrescida do adicional.
+P: Trabalhador rural por produção || Hora normal mais adicional || Exceção à OJ 235
+K: trabalho por produção; colheita de laranja; trabalhador rural; horas extras
+
+@TST 226
+I: Presume-se abandono de emprego se o trabalhador não retorna em 30 dias após a cessação do benefício previdenciário nem justifica. Reafirma a Súmula 32.
+P: Prazo de 30 dias || Presunção de abandono || Reafirmação da Súmula 32
+K: abandono de emprego; benefício previdenciário; Súmula 32
+
+@TST 227
+I: O aviso prévio é irrenunciável pelo empregado; o pedido de dispensa não exime o empregador de pagá-lo, salvo prova de novo emprego. Reafirma a Súmula 276.
+P: Irrenunciabilidade || Exceção: novo emprego || Reafirmação da Súmula 276
+K: aviso prévio; renúncia; Súmula 276
+
+@TST 228
+I: O aviso prévio, ainda que indenizado, conta para a indenização adicional das Leis nº 6.708/1979 e 7.238/1984 (dispensa nos 30 dias anteriores à data-base). Reafirma a Súmula 182.
+P: Projeção do aviso prévio || Indenização adicional || Reafirmação da Súmula 182
+K: indenização adicional; data-base; aviso prévio; Súmula 182
+
+@TST 229
+I: Compete à Justiça do Trabalho executar de ofício a contribuição ao Seguro de Acidente de Trabalho (SAT). Reafirma a Súmula 454.
+P: Execução de ofício do SAT || Natureza de contribuição social || Reafirmação da Súmula 454
+K: SAT; contribuição previdenciária; execução de ofício
+
+@TST 230
+I: A prescrição bienal do portuário avulso corre da extinção do cadastro ou registro no OGMO.
+P: Termo inicial: extinção do registro no OGMO || Trabalhador avulso portuário || Prescrição bienal
+K: portuário avulso; OGMO; prescrição bienal
+
+@TST 231
+I: A perícia é obrigatória para verificar insalubridade, mas, impossível (ex.: empresa fechada), o juiz pode usar outros meios de prova. Reafirma a OJ 278.
+P: Perícia obrigatória || Outros meios se impossível || Reafirmação da OJ 278
+K: perícia; insalubridade; OJ 278
+
+@TST 232
+I: Cabe ao empregador provar que o empregado não preenche os requisitos ou não quer o vale-transporte. Reafirma a Súmula 460.
+P: Ônus do empregador || Vale-transporte || Reafirmação da Súmula 460
+K: vale-transporte; ônus da prova; Súmula 460
+
+@TST 233
+I: A contratação de servidor sem concurso após 1988 é nula e só gera direito às horas trabalhadas (respeitado o salário mínimo-hora) e ao FGTS. Reafirma a Súmula 363.
+P: Nulidade do contrato sem concurso || Direitos limitados a salário e FGTS || Reafirmação da Súmula 363
+K: contrato nulo; concurso público; Súmula 363; FGTS
+
+@TST 234
+I: As gorjetas integram a remuneração, mas não servem de base para aviso prévio, adicional noturno, horas extras e repouso remunerado. Reafirma a Súmula 354.
+P: Gorjeta integra a remuneração || Base de cálculo restrita || Reafirmação da Súmula 354
+K: gorjetas; remuneração; Súmula 354
+
+@TST 235
+I: O art. 2º, § 4º, da Lei nº 5.584/1970 foi recepcionado, sendo lícita a alçada recursal com base no salário mínimo. Reafirma a Súmula 356.
+P: Alçada em salários mínimos || Recepção constitucional || Reafirmação da Súmula 356
+K: alçada; rito sumário trabalhista; salário mínimo
+
+@TST 236
+I: O empregado que pede demissão antes de 12 meses de serviço tem direito a férias proporcionais. Reafirma a Súmula 261.
+P: Férias proporcionais no pedido de demissão || Menos de um ano || Reafirmação da Súmula 261
+K: férias proporcionais; pedido de demissão; Súmula 261
+
+@TST 237
+I: O delegado sindical não tem a estabilidade do art. 8º, VIII, da CF, restrita a cargos de direção eleitos. Reafirma a OJ 369.
+P: Estabilidade só para dirigentes eleitos || Delegado sindical excluído || Reafirmação da OJ 369
+K: delegado sindical; estabilidade; OJ 369
+
+@TST 238
+I: Não incide a multa do art. 477, § 8º, da CLT quando o contrato se extingue pela morte do empregado.
+P: Falecimento do empregado || Multa rescisória indevida || Peculiaridade da extinção
+K: multa do art. 477; falecimento do empregado
+
+@TST 239
+I: Horas extras deferidas com base em prova oral ou documental não se limitam ao período abrangido pela prova, se o juiz se convencer de que o procedimento o superou. Reafirma a OJ 233.
+P: Extensão da prova a todo o período || Convencimento do juiz || Reafirmação da OJ 233
+K: horas extras; prova; OJ 233
+
+@TST 240
+I: As anotações na CTPS geram presunção apenas relativa. Reafirma a Súmula 12.
+P: Presunção relativa da CTPS || Prova em contrário possível || Reafirmação da Súmula 12
+K: CTPS; presunção relativa; Súmula 12
+
+@TST 241
+I: No processo do trabalho, a compensação limita-se a dívidas de natureza trabalhista. Reafirma a Súmula 18.
+P: Compensação restrita || Dívidas trabalhistas || Reafirmação da Súmula 18
+K: compensação; dívidas trabalhistas; Súmula 18
+
+@TST 242
+I: Só há sucumbência recíproca quando pelo menos um pedido é totalmente improcedente; o reclamante não paga honorários sobre pedidos parcialmente procedentes.
+P: Sucumbência por pedido, não por valor || Parcial procedência não gera honorários ao reclamante || Art. 791-A, § 3º, da CLT
+K: sucumbência recíproca; honorários advocatícios; procedência parcial
+
+@TST 243
+I: A transferência para o turno diurno implica perda do adicional noturno. Reafirma a Súmula 265.
+P: Supressão lícita do adicional noturno || Mudança de turno || Reafirmação da Súmula 265
+K: adicional noturno; mudança de turno; Súmula 265
+
+@TST 244
+I: O jornalista que exerce funções típicas tem jornada reduzida (art. 303 da CLT), qualquer que seja o ramo do empregador. Reafirma a OJ 407.
+P: Jornalista em empresa não jornalística || Jornada reduzida || Reafirmação da OJ 407
+K: jornalista; jornada reduzida; art. 303 da CLT
+
+@TST 245
+I: O trabalhador rural que atua em pé ou com sobrecarga muscular tem direito a pausas de 10 minutos a cada 90 trabalhados (NR-31 e art. 72 da CLT).
+P: Pausas para o trabalhador rural || NR-31 || Analogia ao art. 72 da CLT
+K: trabalhador rural; pausas; NR-31
+
+@TST 246
+I: O reclamante que não justifica, em 15 dias, a ausência à audiência paga as custas, ainda que beneficiário da gratuidade (art. 844, § 2º, da CLT).
+P: Custas pelo arquivamento || Mesmo com gratuidade || Justificativa em 15 dias
+K: arquivamento; custas; ausência à audiência; art. 844 da CLT
+
+@TST 247
+I: A redução da carga horária do professor pela diminuição de alunos não é alteração contratual lesiva, pois não reduz o valor da hora-aula. Reafirma a OJ 244.
+P: Redução de carga horária lícita || Mantido o valor da hora-aula || Reafirmação da OJ 244
+K: professor; carga horária; hora-aula; OJ 244
+
+@TST 248
+I: A exposição a radiação ionizante ou substância radioativa gera adicional de periculosidade, com base em portarias ministeriais válidas; de 12/12/2002 a 6/4/2003, é devido o adicional de insalubridade. Reafirma a OJ 345.
+P: Periculosidade por radiação ionizante || Validade das portarias ministeriais || Reafirmação da OJ 345
+K: radiação ionizante; periculosidade; OJ 345
+
+@TST 249
+I: A multa de cláusula penal, mesmo diária, não pode superar a obrigação principal corrigida (art. 412 do Código Civil). Reafirma a OJ 54.
+P: Limite da cláusula penal || Art. 412 do Código Civil || Reafirmação da OJ 54
+K: cláusula penal; multa; OJ 54
+
+@TST 250
+I: O FGTS não integra a base de cálculo da pensão mensal por danos materiais.
+P: Exclusão do FGTS || Pensão indenizatória || Base de cálculo
+K: pensão; danos materiais; FGTS
+
+@TST 251
+I: A prescrição das parcelas remuneratórias alcança o FGTS sobre elas incidente. Reafirma a Súmula 206.
+P: FGTS reflexo segue a prescrição da parcela principal || Reafirmação da Súmula 206 || Prescrição
+K: FGTS reflexo; prescrição; Súmula 206
+
+@TST 252
+I: A dedução das horas extras pagas das reconhecidas em juízo é integral, considerando todo o período imprescrito, e não mês a mês. Reafirma a OJ 415.
+P: Abatimento global || Período imprescrito || Reafirmação da OJ 415
+K: horas extras; dedução; OJ 415
+
+@TST 253
+I: O gerente de agência bancária segue o art. 224, § 2º, da CLT; o gerente-geral presume-se em cargo de gestão (art. 62 da CLT). Reafirma a Súmula 287.
+P: Gerente de agência: oito horas || Gerente-geral: sem controle de jornada || Reafirmação da Súmula 287
+K: gerente bancário; art. 224 da CLT; art. 62 da CLT; Súmula 287
+
+@TST 254
+I: Presume-se discriminatória a dispensa de empregado com HIV ou doença grave que gere estigma, com direito à reintegração. Reafirma a Súmula 443.
+P: Presunção de discriminação || Reintegração || Reafirmação da Súmula 443
+K: dispensa discriminatória; HIV; doença grave; Súmula 443
+
+@TST 255
+I: A multa de 40% do FGTS incide sobre os depósitos atualizados do contrato, sem incluir a projeção do aviso prévio indenizado. Reafirma a OJ 42, II.
+P: Base da multa de 40% || Exclui a projeção do aviso prévio || Reafirmação da OJ 42
+K: multa de 40% do FGTS; aviso prévio; OJ 42
+
+@TST 256
+I: As horas extras habituais integram o cálculo do repouso remunerado. Reafirma a Súmula 172.
+P: Reflexo em RSR || Habitualidade || Reafirmação da Súmula 172
+K: repouso semanal remunerado; horas extras; Súmula 172
+
+@TST 257
+I: A dispensa de dirigente sindical por falta grave exige inquérito judicial. Reafirma a Súmula 379.
+P: Inquérito judicial obrigatório || Dirigente sindical || Reafirmação da Súmula 379
+K: dirigente sindical; inquérito judicial; falta grave
+
+@TST 258
+I: O integrante de categoria diferenciada não tem direito a vantagens de norma coletiva da qual o empregador não participou por sua representação. Reafirma a Súmula 374.
+P: Categoria diferenciada || Representação patronal necessária || Reafirmação da Súmula 374
+K: categoria diferenciada; norma coletiva; Súmula 374
+
+@TST 259
+I: O salário-família é devido desde a prova da filiação; feita em juízo, desde o ajuizamento, salvo recusa anterior do empregador. Reafirma a Súmula 254.
+P: Termo inicial do salário-família || Prova da filiação || Reafirmação da Súmula 254
+K: salário-família; filiação; Súmula 254
+
+@TST 260
+I: Para empregados com 40 horas semanais, aplica-se o divisor 200 no cálculo do salário-hora. Reafirma a Súmula 431.
+P: Divisor 200 para 40 horas || Art. 58 da CLT || Reafirmação da Súmula 431
+K: divisor 200; salário-hora; Súmula 431
+
+@TST 261
+I: As financeiras equiparam-se aos bancos para o art. 224 da CLT (jornada de seis horas). Reafirma a Súmula 55.
+P: Financeiras equiparadas a bancos || Jornada de seis horas || Reafirmação da Súmula 55
+K: financeiras; bancário; art. 224 da CLT; Súmula 55
+
+@TST 262
+I: É inválido o aviso prévio concedido durante a garantia de emprego. Reafirma a Súmula 348.
+P: Incompatibilidade entre aviso e estabilidade || Invalidade || Reafirmação da Súmula 348
+K: aviso prévio; garantia de emprego; Súmula 348
+
+@TST 263
+I: A pensão por danos materiais pode ser cumulada com benefício previdenciário, por terem naturezas distintas.
+P: Cumulação com benefício do INSS || Naturezas distintas || Responsabilidade civil
+K: pensão; benefício previdenciário; cumulação
+
+@TST 264
+I: O adicional de periculosidade é devido a quem trabalha em sistema elétrico de potência ou com instalações similares de risco equivalente, ainda que em unidade consumidora. Reafirma a OJ 324.
+P: Sistema elétrico de potência || Risco equivalente || Reafirmação da OJ 324
+K: eletricidade; periculosidade; OJ 324
+
+@TST 265
+I: O repouso semanal concedido após o sétimo dia consecutivo de trabalho viola o art. 7º, XV, da CF e deve ser pago em dobro. Reafirma a OJ 410.
+P: Repouso após o sétimo dia é irregular || Pagamento em dobro || Reafirmação da OJ 410
+K: repouso semanal remunerado; sétimo dia; OJ 410
+
+@TST 266
+I: O pagamento espontâneo do adicional de periculosidade, ainda que proporcional, dispensa a perícia do art. 195 da CLT, pois torna presumido o trabalho perigoso. Reafirma a Súmula 453.
+P: Fato incontroverso dispensa perícia || Pagamento espontâneo || Reafirmação da Súmula 453
+K: periculosidade; perícia; Súmula 453
+
+@TST 267
+I: As custas recolhidas aproveitam às demais partes, ainda que o responsável pelo recolhimento tenha pedido exclusão da lide.
+P: Aproveitamento das custas || Mesmo com pedido de exclusão || Preparo
+K: custas; preparo; litisconsortes
+
+@TST 268
+I: A suspensão do contrato por auxílio-doença ou aposentadoria por invalidez não impede a prescrição quinquenal, salvo impossibilidade absoluta de acesso ao Judiciário. Reafirma a OJ 375.
+P: Prescrição corre na suspensão contratual || Exceção: impossibilidade absoluta || Reafirmação da OJ 375
+K: prescrição; auxílio-doença; aposentadoria por invalidez; OJ 375
+
+@TST 269
+I: É válida a jornada 12x2 (dois dias de trabalho e dois de descanso) na Fundação Casa, desde que prevista em lei ou norma coletiva.
+P: Validade da escala especial || Previsão legal ou coletiva || Fundação Casa
+K: jornada 12 horas; escala; Fundação Casa
+
+@TST 270
+I: Preenchidos os requisitos do art. 3º da CLT, é legítimo o vínculo de emprego entre policial militar e empresa privada. Reafirma a Súmula 386.
+P: Vínculo de policial militar com empresa privada || Independe de punição disciplinar || Reafirmação da Súmula 386
+K: policial militar; vínculo de emprego; Súmula 386
+
+@TST 271
+I: Não se concede prazo para regularizar o preparo quando há total ausência de comprovação de custas ou depósito recursal no prazo do recurso.
+P: Ausência total de preparo || Inaplicável o art. 1.007, §§ 2º, 4º e 7º, do CPC || Deserção imediata
+K: preparo; deserção; depósito recursal
+
+@TST 272
+I: Cabe ao empregador provar a opção do empregado pela conversão de um terço das férias em abono pecuniário (art. 143 da CLT).
+P: Ônus do empregador || Abono pecuniário || Faculdade do empregado
+K: abono pecuniário; férias; ônus da prova
+
+@TST 273
+I: Cabe ao empregador provar a regularidade dos depósitos de FGTS, por ser fato extintivo. Reafirma a Súmula 461.
+P: Ônus do empregador || FGTS || Reafirmação da Súmula 461
+K: FGTS; ônus da prova; Súmula 461
+
+@TST 278
+I: Negados a prestação de serviço e a dispensa, cabe ao empregador provar o término do contrato, pelo princípio da continuidade. Reafirma a Súmula 212.
+P: Princípio da continuidade || Ônus do empregador || Reafirmação da Súmula 212
+K: término do contrato; ônus da prova; Súmula 212
+
+@TST 279
+I: Ajuizar a ação após o fim do período de estabilidade não é abuso de direito; a indenização é devida da dispensa até o fim da estabilidade, respeitada a prescrição. Reafirma a OJ 399.
+P: Ação tardia não é abuso || Indenização do período estabilitário || Reafirmação da OJ 399
+K: estabilidade; abuso de direito; OJ 399
+
+@TST 280
+I: A hora extra é calculada sobre a hora normal integrada por parcelas salariais, acrescida do adicional legal, contratual ou normativo. Reafirma a Súmula 264.
+P: Base de cálculo da hora extra || Parcelas salariais || Reafirmação da Súmula 264
+K: horas extras; base de cálculo; Súmula 264
+
+@TST 281
+I: Extinto o estabelecimento, não há despedida arbitrária do membro da CIPA, sendo indevidas reintegração e indenização. Reafirma a Súmula 339, II.
+P: Estabilidade do cipeiro não é vantagem pessoal || Extinção do estabelecimento || Reafirmação da Súmula 339, II
+K: CIPA; estabilidade; extinção do estabelecimento
+
+@TST 282
+I: Aplica-se a multa de norma coletiva pelo descumprimento de obrigação legal, ainda que a cláusula repita a lei. Reafirma a Súmula 384, II.
+P: Multa convencional devida || Obrigação também legal || Reafirmação da Súmula 384, II
+K: multa convencional; norma coletiva; Súmula 384
+
+@TST 283
+I: A recuperação judicial não presume incapacidade financeira nem autoriza, por si só, a gratuidade de justiça à pessoa jurídica.
+P: Exige prova da insuficiência || Recuperação judicial não basta || Pessoa jurídica
+K: justiça gratuita; recuperação judicial; pessoa jurídica
+
+@TST 284
+I: O suplente da CIPA tem a garantia de emprego do art. 10, II, a, do ADCT desde 1988. Reafirma a Súmula 339, I.
+P: Estabilidade do suplente || ADCT || Reafirmação da Súmula 339, I
+K: CIPA; suplente; estabilidade
+
+@TST 285
+I: A redução ficta da hora noturna é considerada para fixar o intervalo intrajornada de quem trabalha à noite.
+P: Hora noturna reduzida || Cálculo do intervalo || Trabalho noturno
+K: hora noturna reduzida; intervalo intrajornada
+
+@TST 286
+I: A juntada de documentos na fase recursal só se admite com prova de justo impedimento ou se referentes a fato posterior à sentença. Reafirma a Súmula 8.
+P: Documentos na fase recursal || Justo impedimento ou fato novo || Reafirmação da Súmula 8
+K: juntada de documentos; recurso; Súmula 8
+
+@TST 287
+I: Na soma de períodos descontínuos de trabalho, a prescrição corre da extinção do último contrato. Reafirma a Súmula 156.
+P: Contratos descontínuos || Termo inicial: último contrato || Reafirmação da Súmula 156
+K: prescrição; períodos descontínuos; Súmula 156
+
+@TST 288
+I: O adicional noturno integra a base de cálculo das horas extras noturnas. Reafirma a OJ 97.
+P: Reflexo do adicional noturno || Horas extras noturnas || Reafirmação da OJ 97
+K: adicional noturno; horas extras; OJ 97
+
+@TST 303
+I: A Gratificação de Função de Confiança (GFC) e a Função Comissionada Técnica (FCT) do SERPRO não se compensam, por terem naturezas distintas.
+P: Vedação de compensação || Naturezas jurídicas distintas || SERPRO
+K: SERPRO; GFC; FCT; compensação
+
+@TST 304
+I: Cabem honorários sucumbenciais nos processos extintos sem resolução do mérito, pelo princípio da causalidade (art. 85 do CPC).
+P: Causalidade || Extinção sem mérito || Aplicação subsidiária do CPC
+K: honorários sucumbenciais; extinção sem mérito; causalidade
+
+@TST 305
+I: Havendo pedido expresso de intimação exclusiva em nome de advogado, a publicação em nome de outro é nula, salvo ausência de prejuízo. Reafirma a Súmula 427.
+P: Intimação exclusiva || Nulidade condicionada a prejuízo || Reafirmação da Súmula 427
+K: intimação; advogado; nulidade; Súmula 427
+
+@TST 306
+I: Desde a Lei nº 13.342/2016, o adicional de insalubridade do agente comunitário de saúde e do agente de combate às endemias é calculado sobre o vencimento ou salário-base.
+P: Base de cálculo: vencimento ou salário-base || Lei nº 11.350/2006 || ACS e ACE
+K: agente comunitário de saúde; insalubridade; base de cálculo
+
+@TST 307
+I: Exercer cargo de gerência ou confiança não torna a testemunha suspeita, salvo falta de isenção ou poderes de mando equiparados aos do empregador.
+P: Suspeição excepcional || Poderes de gestão || Isenção de ânimo
+K: testemunha; cargo de confiança; suspeição
+
+@TST 308
+I: O empregado em cargo de confiança (art. 62, II, da CLT) recebe em dobro os repousos trabalhados e não compensados.
+P: Repouso em dobro também para cargo de confiança || Art. 62, II, da CLT || Súmula 146
+K: cargo de confiança; repouso semanal; pagamento em dobro
+
+@TST 309
+I: As progressões por antiguidade da ECT previstas no PCCS compensam-se com as de mesma natureza previstas em norma coletiva.
+P: Compensação de progressões || Mesma natureza || ECT
+K: ECT; progressão por antiguidade; compensação
+
+@TST 310
+I: Nos acordos homologados sem reconhecimento de vínculo, incide contribuição previdenciária de 20% do tomador e 11% do prestador sobre o valor total, ainda que o acordo se diga indenizatório. Reafirma a OJ 398.
+P: Contribuição sobre o total do acordo || Alíquotas de 20% e 11% || Reafirmação da OJ 398
+K: contribuição previdenciária; acordo judicial; OJ 398
+
+@TST 316
+I: É válida a negociação coletiva que fixa o divisor 220 para jornada de 40 horas semanais, conforme o Tema 1.046 do STF.
+P: Prevalência do negociado || Divisor 220 válido || Tema 1.046 do STF
+K: divisor 220; negociação coletiva; Tema 1.046 do STF
+
+@TST 317
+I: O protesto contra o indeferimento de prova registrado em ata não precisa ser renovado em razões finais para evitar a preclusão da nulidade por cerceamento de defesa.
+P: Protesto em ata basta || Desnecessária a renovação em razões finais || Cerceamento de defesa
+K: protesto em ata; preclusão; cerceamento de defesa

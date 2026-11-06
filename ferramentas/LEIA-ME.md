@@ -59,3 +59,18 @@ Para cada norma em `fontes/<lei>/config.json`:
 - `lexbuild.py`: monta o Markdown (texto oficial + análises + remissões e alterações extraídas do próprio texto).
 - `validate.py`: confere artigo por artigo o texto publicado contra o extraído.
 - `estrutura2.py`: gera o quadro estrutural (Partes, Livros, Títulos, Capítulos).
+
+## Precedentes Vinculantes do TST (`fontes/tst-precedentes/`)
+
+Fonte com estrutura diferente das leis: uma tabela de temas, em que cada tema traz tese, representativos, último movimento, suspensão e relator.
+
+1. Abrir https://www.tst.jus.br/nugep-sp/recursos-repetitivos/precedentes-vinculantes no navegador (o site também recusa downloads diretos).
+2. Executar `ferramentas/extrair-tst.js` no console, clicar em **COPIAR TABELA DO TST** e salvar: `LANG=en_US.UTF-8 pbpaste > tabela.json`.
+3. Rodar `python3 ferramentas/tst.py --fonte tst-precedentes --tabela tabela.json`.
+
+Regras de comparação:
+- tese alterada ou tema novo → análise marcada como pendente de revisão;
+- mudança apenas de andamento, suspensão, relator ou representativos → registrada no `CHANGELOG.md`, sem pendência;
+- o quadro "Estrutura" (temas por situação) é gerado a cada montagem.
+
+Para regenerar após revisar análises: `python3 ferramentas/tst.py --fonte tst-precedentes`.

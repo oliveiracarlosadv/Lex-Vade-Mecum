@@ -1,0 +1,7 @@
+{
+ "nome": "Precedentes Vinculantes do TST — Recursos de Revista Repetitivos",
+ "url": "https://www.tst.jus.br/nugep-sp/recursos-repetitivos/precedentes-vinculantes",
+ "tipo": "tabela-tst",
+ "saida": "leis/tst-precedentes/tst-precedentes-completa.md",
+ "minimo_temas": 200
+}
