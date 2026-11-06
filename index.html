@@ -138,21 +138,8 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .aviso-rapido.on{opacity:1}
 #areaImpressao,#fabricaImagem{display:none}
 #fabricaImagem.ativa{display:block;position:fixed;left:-20000px;top:0}
-.story-img{width:1080px;height:1920px;overflow:hidden;background:#FBF8F0;color:#2A2925;display:flex;flex-direction:column;box-sizing:border-box;padding:150px 120px 140px;font-family:var(--serif);position:relative}
-.st-moldura{position:absolute;left:44px;top:44px;right:44px;bottom:44px;border:2px solid #D9D0BA;border-radius:8px}
-.st-topo{text-align:center;padding-bottom:56px;border-bottom:2px solid #384A2C;position:relative}
-.st-topo img{width:600px;height:auto}
-.st-meio{flex:1;min-height:0;overflow:hidden;display:flex;flex-direction:column;position:relative}
-.st-caixa{margin:auto 0;padding:24px 0 36px}
-.st-aspas{font-family:var(--display);font-size:220px;line-height:1;height:130px;color:#46712A;margin-left:-8px}
-.st-texto{line-height:1.5;hyphens:none}
 .ln{display:block;text-align:justify;text-align-last:justify;white-space:nowrap}
 .ln.ult{text-align-last:left}
-.st-rodape{border-top:2px solid #384A2C;padding-top:48px;text-align:center;position:relative}
-.st-disp{font-family:var(--display);font-weight:700;font-size:54px;color:#384A2C;line-height:1.15}
-.st-lei{font-family:var(--display);font-size:42px;line-height:1.2;margin-top:10px}
-.st-num{font-family:var(--serif);font-size:32px;color:#5E5A50;margin-top:12px}
-.st-site{font-family:var(--serif);font-size:28px;color:#5E5A50;margin-top:30px}
 .card-img{width:1080px;background:#FBF8F0;color:#2A2925;font-family:var(--serif);padding:80px 88px 64px;box-sizing:border-box}
 .card-img .ci-topo{display:flex;align-items:center;gap:16px;border-bottom:2px solid #384A2C;padding-bottom:20px;margin-bottom:36px}
 .card-img .ci-topo img{width:64px;height:64px}
@@ -696,17 +683,6 @@ function carregarH2C() {
     document.head.appendChild(s);
   }));
 }
-function htmlStory(pac, lei) {
-  const t = pac.citacao; // trecho inteiro, nunca cortado: a fonte é ajustada em ajustarStory()
-  const fs = 64;
-  const x = pac.uid && dadosUnidade(pac.uid);
-  return `<div class="story-img"><div class="st-moldura"></div>
-    <div class="st-topo"><img src="assets/lex-vade-mecum-logo.svg" alt="Lex Vade Mecum"></div>
-    <div class="st-meio"><div class="st-caixa"><div class="st-aspas">“</div><div class="st-texto" style="font-size:${fs}px" data-texto="${esc(t)}"></div></div></div>
-    <div class="st-rodape">${x ? `<div class="st-disp">${esc(x.u.head)}</div>` : ''}<div class="st-lei">${esc(lei ? lei.nome : pac.fonte)}</div>${lei && lei.numero ? `<div class="st-num">${esc(lei.numero)}</div>` : ''}<div class="st-site">oliveiracarlosadv.github.io/Lex-Vade-Mecum</div></div>
-  </div>`;
-}
-// Reduz a fonte do trecho até ele caber inteiro no story (1080 x 1920), sem cortar nada.
 /* ---------- Diagramação das imagens: justificado com hifenização em português ---------- */
 // Pontos de separação silábica (regras do português: V-CV, VC-CV, V-CCV com encontros inseparáveis).
 const VOGAIS = 'aeiouáéíóúâêôãõàüy';
@@ -753,21 +729,110 @@ function diagramar(el, fs) {
   el.innerHTML = quebrarLinhas(el.dataset.texto, largura, ctx).map((l) => `<span class="ln${l.ult ? ' ult' : ''}">${esc(l.t)}</span>`).join('');
   return el.offsetHeight;
 }
-function ajustarStory(card) {
-  const meio = card.querySelector('.st-meio'), caixa = card.querySelector('.st-caixa'), tx = card.querySelector('.st-texto'), aspas = card.querySelector('.st-aspas');
-  let fs = 64;
-  diagramar(tx, fs);
-  while (caixa.offsetHeight > meio.clientHeight * 0.97 && fs > 12) {
+function ajustarCartao(card) { const c = card.querySelector('.ci-citacao[data-texto]'); if (c) diagramar(c, 36); }
+/* ---------- Story (1080 x 1920) desenhado direto em canvas ----------
+   Não depende de como cada navegador diagrama a página: as linhas são
+   quebradas e justificadas aqui (espaço distribuído entre as palavras),
+   com hifenização em português, e a fonte diminui até o trecho caber inteiro. */
+function carregarImagem(src) {
+  return new Promise((ok, falha) => { const i = new Image(); i.onload = () => ok(i); i.onerror = falha; i.src = src; });
+}
+function quebrarSimples(ctx, texto, largura) {
+  const L = []; let c = '';
+  for (const w of texto.split(/\s+/).filter(Boolean)) {
+    const t = c ? c + ' ' + w : w;
+    if (ctx.measureText(t).width <= largura || !c) c = t; else { L.push(c); c = w; }
+  }
+  if (c) L.push(c);
+  return L;
+}
+function escreverJustificado(ctx, linha, x, y, largura) {
+  const ws = linha.t.split(' ');
+  if (linha.ult || ws.length < 2) { ctx.fillText(linha.t, x, y); return; }
+  const larg = ws.map((w) => ctx.measureText(w).width);
+  const vao = (largura - larg.reduce((a, b) => a + b, 0)) / (ws.length - 1);
+  let cx = x; ws.forEach((w, i) => { ctx.fillText(w, cx, y); cx += larg[i] + vao; });
+}
+async function desenharStory(pac, lei) {
+  const W = 1080, H = 1920, M = 120, LARG = W - 2 * M;
+  const SERIF = 'Literata, Georgia, serif', DISPLAY = '"Cormorant Garamond", Georgia, serif';
+  if (document.fonts) {
+    await Promise.all([`400 64px ${SERIF}`, `400 italic 64px ${SERIF}`, `700 54px ${DISPLAY}`, `500 42px ${DISPLAY}`]
+      .map((f) => document.fonts.load(f).catch(() => null)));
+  }
+  const cv = document.createElement('canvas'); cv.width = W; cv.height = H;
+  const ctx = cv.getContext('2d');
+  ctx.fillStyle = '#FBF8F0'; ctx.fillRect(0, 0, W, H);
+  ctx.strokeStyle = '#D9D0BA'; ctx.lineWidth = 2; ctx.strokeRect(44, 44, W - 88, H - 88);
+
+  // Topo: logo do Lex Vade Mecum
+  const logo = await carregarImagem('assets/lex-vade-mecum-logo.svg');
+  const lw = 600, lh = logo.naturalWidth ? lw * logo.naturalHeight / logo.naturalWidth : 220;
+  ctx.drawImage(logo, (W - lw) / 2, 140, lw, lh);
+  const linhaTopo = 140 + lh + 56;
+  ctx.fillStyle = '#384A2C'; ctx.fillRect(M, linhaTopo, LARG, 2);
+
+  // Rodapé: dispositivo, lei, número e site (montado de baixo para cima)
+  const x = pac.uid && dadosUnidade(pac.uid);
+  const blocos = [];
+  if (x) blocos.push({ font: `700 54px ${DISPLAY}`, cor: '#384A2C', txt: x.u.head, lh: 64 });
+  blocos.push({ font: `500 42px ${DISPLAY}`, cor: '#2A2925', txt: lei ? lei.nome : pac.fonte, lh: 52, mt: 8 });
+  if (lei && lei.numero) blocos.push({ font: `400 32px ${SERIF}`, cor: '#5E5A50', txt: lei.numero, lh: 44, mt: 10 });
+  blocos.push({ font: `400 28px ${SERIF}`, cor: '#5E5A50', txt: 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', lh: 38, mt: 26 });
+  let altRod = 0;
+  blocos.forEach((b) => { ctx.font = b.font; b.linhas = quebrarSimples(ctx, b.txt, LARG); altRod += (b.mt || 0) + b.linhas.length * b.lh; });
+  const linhaRod = H - 130 - altRod - 48;
+  ctx.fillStyle = '#384A2C'; ctx.fillRect(M, linhaRod, LARG, 2);
+  ctx.textAlign = 'center'; ctx.textBaseline = 'alphabetic';
+  let y = linhaRod + 48;
+  blocos.forEach((b) => {
+    y += b.mt || 0; ctx.font = b.font; ctx.fillStyle = b.cor;
+    b.linhas.forEach((l) => { ctx.fillText(l, W / 2, y + b.lh * 0.76); y += b.lh; });
+  });
+
+  // Centro: o trecho, justificado, do maior tamanho que couber inteiro
+  const topo = linhaTopo + 50, base = linhaRod - 50, alt = base - topo;
+  let fs = 64, linhas, entre, aspas, total;
+  for (;;) {
+    ctx.font = `400 ${fs}px ${SERIF}`;
+    linhas = quebrarLinhas(pac.citacao, LARG, ctx);
+    entre = Math.round(fs * (fs < 30 ? 1.4 : 1.5));
+    aspas = fs >= 36 ? Math.round(fs * 1.6) : 0;
+    total = aspas + linhas.length * entre;
+    if (total <= alt || fs <= 12) break;
     fs -= fs > 30 ? 2 : 1;
-    if (fs < 40) aspas.style.display = 'none';
-    tx.style.lineHeight = fs < 30 ? '1.4' : '1.5';
-    diagramar(tx, fs);
+  }
+  let y0 = topo + Math.max(0, (alt - total) / 2);
+  if (aspas) {
+    ctx.textAlign = 'left'; ctx.fillStyle = '#46712A'; ctx.font = `600 ${Math.round(fs * 3.2)}px ${DISPLAY}`;
+    ctx.fillText('“', M - 6, y0 + fs * 2.3);
+    y0 += aspas;
+  }
+  ctx.textAlign = 'left'; ctx.fillStyle = '#2A2925'; ctx.font = `400 ${fs}px ${SERIF}`;
+  linhas.forEach((l, i) => escreverJustificado(ctx, l, M, y0 + i * entre + entre * 0.72, LARG));
+  return cv;
+}
+async function entregarImagem(canvas, pac, formato) {
+  const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
+  if (!blob) throw new Error('falha ao gerar');
+  const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
+  const arq = new File([blob], nome, { type: 'image/png' });
+  if (navigator.canShare && navigator.canShare({ files: [arq] }) && matchMedia('(pointer: coarse)').matches) {
+    try { await navigator.share({ files: [arq], title: pac.titulo, text: pac.link }); } catch (e) {}
+  } else {
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome;
+    document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    aviso('Imagem salva em Downloads');
   }
 }
-function ajustarCartao(card) { const c = card.querySelector('.ci-citacao[data-texto]'); if (c) diagramar(c, 36); }
 async function gerarImagem(pac, formato) {
   aviso('Gerando a imagem…');
   const lei = leis.find((l) => l.id === atual);
+  const falhou = () => aviso(location.protocol === 'file:' ? 'Para gerar imagens, use a versão on-line' : 'Não foi possível gerar a imagem');
+  if (formato === 'story') {
+    try { await entregarImagem(await desenharStory(pac, lei), pac, formato); } catch (e) { falhou(); }
+    return;
+  }
   const x = pac.uid && dadosUnidade(pac.uid);
   let miolo;
   if (pac.tipo === 'selecao') {
@@ -777,31 +842,17 @@ async function gerarImagem(pac, formato) {
       <div class="ci-texto">${x.u.texto.map((l) => `<p class="${classeLinha(l)}">${inline(l)}</p>`).join('')}</div>`;
   }
   const fab = $('#fabricaImagem');
-  if (formato === 'story') fab.innerHTML = htmlStory(pac, lei); else fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}</div></div>
+  fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}</div></div>
     ${miolo}<div class="ci-rodape"><span>Texto oficial${lei && lei.conferido ? ' conferido em ' + esc(lei.conferido) : ''}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
   fab.classList.add('ativa');
   try {
     await carregarH2C();
     if (document.fonts && document.fonts.ready) await document.fonts.ready;
-    if (formato === 'story') ajustarStory(fab.firstElementChild); else ajustarCartao(fab.firstElementChild);
-    // Reajusta na cópia que o gerador desenha (ela pode quebrar as linhas de outro jeito).
-    const onclone = formato === 'story' ? async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.story-img'); if (c) ajustarStory(c); } : async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.card-img'); if (c) ajustarCartao(c); };
-    const tam = formato === 'story' ? { width: 1080, height: 1920, windowWidth: 1080, windowHeight: 1920 } : {};
-    const canvas = await window.html2canvas(fab.firstElementChild, Object.assign({ scale: 1, backgroundColor: '#FBF8F0', logging: false, onclone }, tam));
-    const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
-    if (!blob) throw new Error('falha ao gerar');
-    const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
-    const arq = new File([blob], nome, { type: 'image/png' });
-    if (navigator.canShare && navigator.canShare({ files: [arq] }) && matchMedia('(pointer: coarse)').matches) {
-      try { await navigator.share({ files: [arq], title: pac.titulo, text: pac.link }); } catch (e) {}
-    } else {
-      const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome;
-      document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-      aviso('Imagem salva em Downloads');
-    }
-  } catch (e) {
-    aviso(location.protocol === 'file:' ? 'Para gerar imagens, use a versão on-line' : 'Não foi possível gerar a imagem');
-  } finally { fab.classList.remove('ativa'); fab.innerHTML = ''; }
+    ajustarCartao(fab.firstElementChild);
+    const onclone = async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.card-img'); if (c) ajustarCartao(c); };
+    const canvas = await window.html2canvas(fab.firstElementChild, { scale: 1, backgroundColor: '#FBF8F0', logging: false, onclone });
+    await entregarImagem(canvas, pac, formato);
+  } catch (e) { falhou(); } finally { fab.classList.remove('ativa'); fab.innerHTML = ''; }
 }
 function posicionarBarraSel() {
   const bar = $('#barraSel'); const sel = getSelection();
