@@ -1,0 +1,17 @@
+{
+  "name": "Lex Vade Mecum",
+  "short_name": "Lex Vade Mecum",
+  "description": "Leis brasileiras com o texto oficial sempre atualizado e a análise de cada artigo — by Carlos A. A. Oliveira.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF8F0",
+  "theme_color": "#384A2C",
+  "icons": [
+    { "src": "assets/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
