@@ -1,0 +1,299 @@
+@CLT 781
+I: As partes podem requerer certidões dos processos em curso ou arquivados; nos processos em segredo de justiça, depende de autorização do juiz.
+P: Direito a certidões || Segredo de justiça exige despacho || Expedição pela secretaria
+K: certidão; segredo de justiça; processo
+
+@CLT 782
+I: Reclamações, requerimentos, atos e processos da Justiça do Trabalho são isentos de selo.
+P: Isenção de selo || Atos da Justiça do Trabalho || Acesso facilitado
+K: isenção; selo; Justiça do Trabalho
+
+@CLT 783
+I: A distribuição das reclamações é feita entre as Varas (ou juízes de direito) pela ordem rigorosa de apresentação, hoje de forma eletrônica e aleatória.
+P: Distribuição por ordem de apresentação || Varas e juízes de direito || Distribuição eletrônica atual
+K: distribuição; reclamação trabalhista
+
+@CLT 784
+I: As reclamações eram registradas em livro rubricado; hoje o registro é eletrônico.
+P: Registro das reclamações || Livro próprio (histórico) || Sistema eletrônico atual
+K: registro; distribuição
+
+@CLT 785
+I: O distribuidor fornece recibo com nomes das partes, data, objeto e Vara a que coube a reclamação; hoje o comprovante é emitido pelo sistema eletrônico.
+P: Recibo de distribuição || Dados essenciais da reclamação || Comprovante eletrônico
+K: recibo; distribuição
+
+@CLT 786
+I: A reclamação verbal é distribuída antes de ser reduzida a termo, e o reclamante deve comparecer em 5 dias para isso, sob pena de perempção de 6 meses (art. 731).
+P: Reclamação verbal é distribuída primeiro || Comparecimento em 5 dias para redução a termo || Perempção do art. 731
+K: reclamação verbal; jus postulandi; redução a termo
+
+@CLT 787
+I: A reclamação escrita deve ser apresentada com os documentos em que se funda (antes, em duas vias; hoje, no processo eletrônico).
+P: Petição inicial instruída com documentos || Duas vias no processo físico || Peticionamento eletrônico
+K: petição inicial; documentos; reclamação escrita
+
+@CLT 788
+I: Feita a distribuição, a reclamação é remetida à Vara competente com o bilhete de distribuição.
+P: Remessa à Vara competente || Bilhete de distribuição || Etapa inicial do processo
+K: distribuição; remessa
+
+@CLT 789
+I: As custas no processo de conhecimento são de 2% sobre o valor do acordo ou da condenação (ou da causa, em extinção ou improcedência), com mínimo de R$ 10,64 e máximo de quatro vezes o teto do RGPS. São pagas pelo vencido após o trânsito em julgado; em caso de recurso, devem ser pagas e comprovadas no prazo recursal. No acordo, dividem-se igualmente, salvo ajuste.
+P: Custas de 2%, com mínimo e teto || Pagas pelo vencido; no recurso, dentro do prazo || Divisão igual no acordo
+K: custas processuais; deserção; valor da condenação
+
+@CLT 789-A
+I: Fixa as custas da execução, sempre a cargo do executado e pagas ao final, por tabela (arrematação, adjudicação, remição, diligências, agravos, embargos, entre outros).
+P: Custas da execução pelo executado || Pagas ao final || Tabela de valores fixos e percentuais
+K: custas da execução; executado; tabela
+
+@CLT 789-B
+I: Fixa os emolumentos por autenticações, cópias, cartas de sentença e certidões, a cargo de quem os requerer.
+P: Emolumentos pagos pelo requerente || Tabela de valores || Serviços de secretaria
+K: emolumentos; certidões; cópias
+
+@CLT 790
+I: O pagamento de custas segue instruções do TST, e o sindicato que intervier responde solidariamente pelas custas do empregado sem gratuidade. A justiça gratuita pode ser concedida, inclusive de ofício, a quem receba salário até 40% do teto do RGPS, ou a quem comprovar insuficiência de recursos. O TST tem admitido que a declaração de hipossuficiência, não impugnada, basta para a comprovação.
+P: Gratuidade para quem recebe até 40% do teto do RGPS (§ 3º) || Acima disso, mediante comprovação de insuficiência (§ 4º) || Declaração de hipossuficiência aceita pelo TST
+K: justiça gratuita; hipossuficiência; custas; 40% do teto
+
+@CLT 790-A
+I: São isentos de custas os beneficiários da justiça gratuita, os entes públicos e suas autarquias e fundações que não explorem atividade econômica, e o MPT. A isenção não alcança conselhos de fiscalização profissional nem exime os entes públicos de reembolsar despesas da parte vencedora.
+P: Isenção de custas da Fazenda Pública e do MPT || Não alcança conselhos profissionais || Reembolso de despesas ao vencedor
+K: isenção de custas; Fazenda Pública; MPT
+
+@CLT 790-B
+I: Os honorários periciais cabem à parte sucumbente no objeto da perícia. O STF (ADI 5.766) declarou inconstitucional a cobrança do beneficiário da justiça gratuita, que fica a cargo da União. O juiz deve respeitar limite fixado pelo CSJT, pode parcelar e não pode exigir adiantamento.
+P: Sucumbente no objeto da perícia paga os honorários periciais || Beneficiário da gratuidade não paga (ADI 5.766) || Vedado exigir adiantamento (§ 3º)
+K: honorários periciais; justiça gratuita; ADI 5.766
+
+@CLT 791
+I: Empregados e empregadores podem atuar pessoalmente na Justiça do Trabalho (jus postulandi) ou por advogado ou sindicato. O jus postulandi não alcança ação rescisória, ação cautelar, mandado de segurança e recursos ao TST (Súmula 425 do TST). O mandato pode ser registrado em ata de audiência.
+P: Jus postulandi das partes || Limites da Súmula 425 do TST || Procuração apud acta (§ 3º)
+K: jus postulandi; advogado; representação processual; Súmula 425
+
+@CLT 791-A
+I: Desde a Reforma Trabalhista, são devidos honorários de sucumbência de 5% a 15% sobre o valor da liquidação, do proveito econômico ou da causa, inclusive contra a Fazenda e em ações sindicais, com sucumbência recíproca vedada a compensação. Para o beneficiário da justiça gratuita, o STF (ADI 5.766) afastou a cobrança com créditos obtidos no processo, mantendo a obrigação sob condição suspensiva por 2 anos. Aplica-se só às ações ajuizadas após 11/11/2017 (IN nº 41/2018).
+P: Honorários de sucumbência de 5% a 15% || Sucumbência recíproca, sem compensação || Beneficiário da gratuidade: condição suspensiva (ADI 5.766)
+K: honorários de sucumbência; Reforma Trabalhista; justiça gratuita; ADI 5.766
+
+@CLT 793
+I: A reclamação do menor de 18 anos é proposta por seus representantes legais ou, na falta, pelo MPT, sindicato, Ministério Público estadual ou curador.
+P: Representação do menor || Legitimados subsidiários || Proteção processual do adolescente
+K: menor; representação processual; curador
+
+@CLT 793-A
+I: Responde por perdas e danos quem litigar de má-fé como reclamante, reclamado ou interveniente.
+P: Responsabilidade por dano processual || Vale para todas as partes || Introduzido pela Reforma
+K: litigância de má-fé; dano processual
+
+@CLT 793-B
+I: Lista as condutas de litigância de má-fé: pretensão contra texto de lei ou fato incontroverso, alterar a verdade, objetivo ilegal, resistência injustificada, conduta temerária, incidentes infundados e recursos protelatórios.
+P: Rol de condutas de má-fé || Inclui recurso protelatório || Simétrico ao CPC
+K: litigância de má-fé; condutas; recurso protelatório
+
+@CLT 793-C
+I: O litigante de má-fé é condenado, de ofício ou a pedido, a multa entre 1% e 10% do valor da causa, indenização à parte contrária e honorários e despesas. Com valor da causa irrisório, a multa pode chegar a duas vezes o teto do RGPS.
+P: Multa de 1% a 10% do valor da causa || Indenização e despesas da parte contrária || Proporcional ou solidária entre litigantes
+K: multa por litigância de má-fé; indenização; valor da causa
+
+@CLT 793-D
+I: A multa por má-fé aplica-se também à testemunha que intencionalmente altere a verdade ou omita fatos essenciais, executada nos mesmos autos.
+P: Multa à testemunha que falta com a verdade || Execução nos próprios autos || Sem prejuízo da responsabilidade penal
+K: testemunha; falso testemunho; multa
+
+@CLT 794
+I: No processo do trabalho só há nulidade quando o ato causar manifesto prejuízo às partes (princípio do prejuízo, "pas de nullité sans grief").
+P: Nulidade exige prejuízo manifesto || Instrumentalidade das formas || Economia processual
+K: nulidade; prejuízo; instrumentalidade
+
+@CLT 795
+I: As nulidades só são declaradas a pedido das partes, que devem alegá-las na primeira oportunidade de falar nos autos ou em audiência, sob pena de preclusão. A incompetência absoluta deve ser declarada de ofício, com remessa ao juízo competente.
+P: Nulidade arguida na primeira oportunidade || Preclusão se não alegada || Incompetência absoluta declarada de ofício
+K: nulidade; preclusão; incompetência
+
+@CLT 796
+I: A nulidade não é declarada se for possível suprir a falta ou repetir o ato, nem quando alegada por quem lhe deu causa.
+P: Aproveitamento dos atos || Vedação de beneficiar-se da própria falta || Economia processual
+K: nulidade; convalidação; princípio da causalidade
+
+@CLT 797
+I: O juiz que declarar a nulidade deve indicar os atos atingidos.
+P: Delimitação da nulidade || Segurança processual || Dever de fundamentar a extensão
+K: nulidade; extensão; atos processuais
+
+@CLT 798
+I: A nulidade só atinge os atos posteriores que dependam do ato nulo ou sejam sua consequência.
+P: Contaminação limitada aos atos dependentes || Preservação dos atos independentes || Utilidade processual
+K: nulidade; atos dependentes
+
+@CLT 799
+I: Só as exceções de suspeição e incompetência suspendem o processo; as demais são alegadas na defesa. Das decisões sobre essas exceções não cabe recurso imediato, salvo se terminativas, podendo ser rediscutidas no recurso contra a decisão final.
+P: Exceções com efeito suspensivo: suspeição e incompetência || Demais matérias na contestação || Irrecorribilidade imediata, salvo decisão terminativa
+K: exceções; suspeição; incompetência; recorribilidade
+
+@CLT 800
+I: A exceção de incompetência territorial deve ser apresentada em 5 dias da notificação, antes da audiência, suspendendo o processo. O reclamante se manifesta em 5 dias e, se necessário, há audiência para provas, inclusive por carta precatória, antes da decisão.
+P: Exceção de incompetência em 5 dias, antes da audiência || Suspensão do processo e contraditório || Prova oral possível
+K: exceção de incompetência territorial; prazo; suspensão
+
+@CLT 801
+I: O juiz deve declarar-se suspeito, e pode ser recusado, por inimizade, amizade íntima, parentesco até o terceiro grau ou interesse na causa. Perde o direito de alegar quem aceitou o juiz ou deixou de alegar tendo conhecimento. Aplicam-se também as hipóteses de impedimento do CPC.
+P: Hipóteses de suspeição || Preclusão por aceitação do juiz || Impedimentos do CPC complementam
+K: suspeição; imparcialidade; impedimento
+
+@CLT 802
+I: Apresentada a exceção de suspeição, designa-se audiência em 48 horas para instruí-la e julgá-la; se procedente, o juiz é substituído na forma da organização judiciária.
+P: Audiência em 48 horas para a suspeição || Substituição do juiz suspeito || Celeridade
+K: suspeição; procedimento; substituição
+
+@CLT 803
+I: Lista os conflitos de jurisdição (competência) possíveis entre órgãos da Justiça do Trabalho e entre estes e a Justiça comum. As denominações refletem a estrutura antiga.
+P: Conflitos entre órgãos trabalhistas e com a Justiça comum || Terminologia histórica || Hoje conflito de competência
+K: conflito de competência; jurisdição
+
+@CLT 804
+I: Há conflito positivo quando ambos os juízos se consideram competentes e negativo quando ambos se declaram incompetentes.
+P: Conflito positivo || Conflito negativo || Definição clássica
+K: conflito de competência; positivo; negativo
+
+@CLT 805
+I: Podem suscitar conflito os juízes e tribunais do trabalho, o Ministério Público do Trabalho e a parte interessada.
+P: Legitimados para suscitar conflito || Juízes, MPT e partes || Iniciativa ampla
+K: conflito de competência; legitimidade
+
+@CLT 806
+I: A parte que já opôs exceção de incompetência não pode suscitar conflito de competência sobre a mesma questão.
+P: Vedação de dupla impugnação || Exceção ou conflito || Evita protelação
+K: conflito de competência; exceção de incompetência
+
+@CLT 807
+I: Quem suscita conflito deve apresentar a prova de sua existência.
+P: Ônus de provar o conflito || Instrução do incidente || Requisito formal
+K: conflito de competência; prova
+
+@CLT 808
+I: Define quem resolve os conflitos de competência na estrutura antiga. Hoje vale a Constituição: TRTs entre Varas da região, TST entre TRTs ou Varas de regiões diferentes e STJ entre Justiça do Trabalho e Justiça comum (CF, art. 105, I, d).
+P: Competência para julgar conflitos || Estrutura atual: TRT, TST e STJ || Terminologia histórica
+K: conflito de competência; STJ; TST; TRT
+
+@CLT 809
+I: Regula o procedimento dos conflitos entre Varas e juízes de direito: formação de autos com as provas, remessa ao TRT, possibilidade de sobrestamento e julgamento após parecer do MPT.
+P: Procedimento do conflito no TRT || Sobrestamento dos processos || Parecer do MPT
+K: conflito de competência; procedimento
+
+@CLT 810
+I: Aplica aos conflitos entre TRTs as normas do artigo anterior.
+P: Procedimento estendido aos TRTs || Simetria procedimental || Julgamento pelo TST
+K: conflito de competência; TRT
+
+@CLT 811
+I: Conflitos entre Justiça do Trabalho e Justiça comum eram remetidos ao STF; hoje a competência é do STJ (CF, art. 105, I, d).
+P: Remessa histórica ao STF || Competência atual do STJ || Conflitos entre ramos do Judiciário
+K: conflito de competência; STJ; Justiça comum
+
+@CLT 812
+I: A ordem processual dos conflitos entre órgãos do TST segue seu regimento interno.
+P: Conflitos internos do TST || Regimento interno || Autonomia regimental
+K: TST; conflito interno; regimento
+
+@CLT 813
+I: As audiências são públicas, na sede do juízo, em dias úteis entre 8h e 18h, sem ultrapassar 5 horas seguidas salvo urgência; podem ocorrer em outro local ou extraordinariamente com edital de 24 horas.
+P: Audiências públicas das 8h às 18h || Limite de 5 horas seguidas || Local diverso e audiências extraordinárias
+K: audiência; horário; publicidade
+
+@CLT 814
+I: Os servidores da secretaria devem estar presentes às audiências com a necessária antecedência.
+P: Presença da secretaria || Apoio às audiências || Organização
+K: audiência; secretaria
+
+@CLT 815
+I: Aberta a audiência, faz-se o pregão das partes e testemunhas. Se o juiz não comparecer em 15 minutos, os presentes podem se retirar; se a audiência não começar em 30 minutos sem justificativa, partes e advogados podem sair, com nova designação. Não há tolerância para o atraso das partes (OJ 245 da SBDI-1).
+P: Pregão das partes || Tolerância de 15 minutos para o juiz e 30 para início da audiência || Partes não têm tolerância de atraso (OJ 245)
+K: audiência; pregão; atraso; OJ 245
+
+@CLT 816
+I: O juiz mantém a ordem nas audiências e pode retirar quem as perturbar (poder de polícia).
+P: Poder de polícia do juiz || Manutenção da ordem || Retirada de perturbadores
+K: audiência; poder de polícia
+
+@CLT 817
+I: O registro das audiências contém os processos, as soluções e as ocorrências, com certidões a quem as requerer; hoje é feito em ata eletrônica.
+P: Registro das audiências || Certidões disponíveis || Ata eletrônica
+K: ata de audiência; registro
+
+@CLT 818
+I: O ônus da prova cabe ao reclamante quanto aos fatos constitutivos e ao reclamado quanto aos impeditivos, modificativos ou extintivos. O juiz pode distribuí-lo de modo diverso (ônus dinâmico) por decisão fundamentada, antes da instrução, dando à parte oportunidade de cumpri-lo, sem gerar prova impossível ou excessivamente difícil.
+P: Regra estática: fato constitutivo × fato impeditivo, modificativo ou extintivo || Distribuição dinâmica por decisão fundamentada (§ 1º) || Decisão antes da instrução, com possibilidade de adiamento
+K: ônus da prova; distribuição dinâmica; fato constitutivo
+
+@CLT 819
+I: O depoimento de quem não fala a língua nacional, ou de pessoa surda ou muda que não escreva, é feito por intérprete nomeado pelo juiz, com despesas pela parte sucumbente, salvo justiça gratuita.
+P: Intérprete para estrangeiros e pessoas com deficiência || Nomeado pelo juiz || Custo pelo sucumbente
+K: intérprete; depoimento; acessibilidade
+
+@CLT 820
+I: As partes e testemunhas são inquiridas pelo juiz e podem ser reinquiridas, por seu intermédio, a pedido das partes ou advogados.
+P: Inquirição pelo juiz || Reperguntas por intermédio do juiz || Condução da prova oral
+K: depoimento; testemunha; inquirição
+
+@CLT 821
+I: Cada parte pode indicar até 3 testemunhas, ou até 6 no inquérito para apuração de falta grave. No rito sumaríssimo, o limite é de 2 (art. 852-H).
+P: Até 3 testemunhas por parte || Até 6 no inquérito || Até 2 no sumaríssimo
+K: testemunhas; número máximo; inquérito
+
+@CLT 822
+I: A testemunha não pode ter desconto salarial por faltar ao trabalho para depor, quando arrolada ou convocada.
+P: Falta para depor é justificada || Sem desconto salarial || Proteção da testemunha
+K: testemunha; falta justificada; salário
+
+@CLT 823
+I: Servidor civil ou militar que deva depor em horário de serviço é requisitado ao chefe da repartição.
+P: Requisição de servidor público para depor || Comunicação ao superior || Colaboração institucional
+K: testemunha; servidor público; requisição
+
+@CLT 824
+I: O juiz deve providenciar que uma testemunha não ouça o depoimento das demais (incomunicabilidade).
+P: Incomunicabilidade das testemunhas || Preserva a espontaneidade || Dever do juiz
+K: testemunha; incomunicabilidade
+
+@CLT 825
+I: As testemunhas comparecem independentemente de intimação; as que faltarem são intimadas de ofício ou a pedido e, se não comparecerem sem justificativa, sujeitam-se a condução coercitiva e multa. No sumaríssimo, a intimação depende de prova do convite (art. 852-H, § 3º).
+P: Comparecimento espontâneo como regra || Intimação de quem faltar || Condução coercitiva e multa
+K: testemunha; intimação; condução coercitiva
+
+@CLT 826
+I: Cada parte pode apresentar um perito ou assistente técnico. A Lei nº 5.584/1970 prevê perito único nomeado pelo juiz, com assistentes técnicos das partes.
+P: Assistente técnico de cada parte || Perito do juízo (Lei nº 5.584/1970) || Prova técnica
+K: perícia; assistente técnico; perito
+
+@CLT 827
+I: O juiz pode questionar os peritos e técnicos e rubricar o laudo apresentado.
+P: Esclarecimentos dos peritos || Laudo juntado aos autos || Controle judicial da prova técnica
+K: perícia; laudo; esclarecimentos
+
+@CLT 828
+I: A testemunha é qualificada antes do compromisso (nome, nacionalidade, profissão, idade, residência e tempo de serviço, se empregada) e responde penalmente por falso testemunho. Os depoimentos são resumidos em ata e assinados.
+P: Qualificação e compromisso da testemunha || Responsabilidade penal por falso || Resumo dos depoimentos em ata
+K: testemunha; compromisso; falso testemunho
+
+@CLT 829
+I: Parente até o terceiro grau, amigo íntimo ou inimigo de uma das partes não presta compromisso, e seu depoimento vale como simples informação. Litigar contra o mesmo empregador não torna a testemunha suspeita (Súmula 357 do TST).
+P: Testemunha suspeita ouvida como informante || Parentesco, amizade íntima ou inimizade || Ação contra o mesmo empregador não gera suspeição (Súmula 357)
+K: testemunha suspeita; informante; contradita; Súmula 357
+
+@CLT 830
+I: A cópia de documento pode ser declarada autêntica pelo próprio advogado, sob responsabilidade pessoal; impugnada, a parte deve apresentar original ou cópia autenticada.
+P: Autenticação pelo advogado || Responsabilidade pessoal || Impugnação exige original
+K: documentos; autenticação; advogado
+
+@CLT 831
+I: A decisão é proferida após rejeitada a conciliação. Havendo acordo, o termo vale como decisão irrecorrível, salvo para a Previdência quanto às contribuições, e só pode ser desconstituído por ação rescisória (Súmula 259 do TST).
+P: Decisão após tentativa de conciliação || Termo de acordo irrecorrível || Desconstituição só por ação rescisória (Súmula 259)
+K: acordo judicial; conciliação; irrecorribilidade; Súmula 259
+
+@CLT 832
+I: A sentença deve conter partes, resumo do pedido e da defesa, apreciação das provas, fundamentos e conclusão, prazo e condições de cumprimento e as custas. Decisões e acordos devem indicar a natureza das parcelas, para fins previdenciários, e a União é intimada dos acordos.
+P: Requisitos da sentença trabalhista || Natureza jurídica das parcelas (§ 3º) || Intimação da União sobre contribuições
+K: sentença; requisitos; contribuição previdenciária; natureza das parcelas
