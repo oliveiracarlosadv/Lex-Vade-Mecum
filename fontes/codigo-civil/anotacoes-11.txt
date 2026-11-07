@@ -1,0 +1,499 @@
+@CC 932
+I: Respondem também pela reparação os pais pelos filhos menores sob sua autoridade e companhia, tutores e curadores pelos pupilos e curatelados, o empregador pelos empregados e prepostos no trabalho, donos de hotéis e escolas pelos hóspedes e educandos, e quem participou gratuitamente do produto do crime.
+P: Responsabilidade por fato de terceiro || Pais, tutores, empregadores, hotéis e escolas || Participação no produto do crime
+K: responsabilidade por fato de terceiro; pais; empregador
+
+@CC 933
+I: As pessoas do art. 932 respondem pelos atos dos terceiros ali indicados mesmo sem culpa própria (responsabilidade objetiva indireta), superando a antiga culpa presumida (Súmula 341 do STF).
+P: Responsabilidade objetiva || Dispensa culpa in vigilando ou in eligendo || Exige culpa do autor direto
+K: responsabilidade objetiva; fato de terceiro
+
+@CC 934
+I: Quem paga o dano causado por outro pode reaver o valor do causador, salvo se este for seu descendente incapaz.
+P: Direito de regresso || Exceção do descendente incapaz || Ex.: empregador contra o empregado
+K: ação regressiva; responsabilidade por fato de terceiro
+
+@CC 935
+I: A responsabilidade civil independe da criminal, mas não se discute mais a existência do fato ou a autoria quando já decididas no juízo criminal.
+P: Independência relativa das instâncias || Coisa julgada penal sobre fato e autoria || Absolvição por falta de provas não vincula
+K: responsabilidade civil; sentença penal; independência das instâncias
+
+@CC 936
+I: O dono ou detentor do animal responde pelo dano que ele causar, salvo culpa da vítima ou força maior (responsabilidade objetiva).
+P: Responsabilidade pelo fato do animal || Excludentes: culpa da vítima e força maior || Objetiva
+K: responsabilidade civil; animal
+
+@CC 937
+I: O dono de edifício ou construção responde pelos danos de sua ruína quando decorrente de falta de reparos de necessidade manifesta.
+P: Ruína do edifício || Falta de reparos manifesta || Responsabilidade do proprietário
+K: responsabilidade civil; ruína; edifício
+
+@CC 938
+I: Quem habita prédio responde pelo dano das coisas que dele caírem ou forem lançadas em lugar indevido (effusis et dejectis); no condomínio, sem identificar a unidade, responde o condomínio.
+P: Responsabilidade objetiva do habitante || Coisas caídas ou lançadas || Condomínio quando incerta a unidade
+K: responsabilidade civil; coisas lançadas; condomínio
+
+@CC 939
+I: O credor que cobra antes do vencimento, fora dos casos legais, deve esperar o prazo, descontar os juros e pagar as custas em dobro.
+P: Cobrança antecipada || Desconto de juros || Custas em dobro
+K: cobrança indevida; vencimento
+
+@CC 940
+I: Quem cobra dívida já paga sem ressalvar o recebido deve pagar ao devedor o dobro do cobrado; quem pede mais que o devido paga o equivalente ao excesso. O STJ exige má-fé do credor (Súmula 159 do STF).
+P: Cobrança de dívida paga: dobro || Excesso: equivalente || Exige má-fé (Súmula 159 STF)
+K: cobrança indevida; repetição em dobro; Súmula 159 STF
+
+@CC 941
+I: As penas dos arts. 939 e 940 não se aplicam se o autor desistir antes da contestação, ressalvada a indenização por prejuízo provado.
+P: Desistência antes da contestação || Afasta as penas || Indenização residual
+K: cobrança indevida; desistência
+
+@CC 942
+I: Os bens do responsável respondem pela reparação; havendo mais de um autor, todos respondem solidariamente, assim como as pessoas do art. 932.
+P: Responsabilidade patrimonial || Solidariedade dos coautores || Solidariedade com os responsáveis indiretos
+K: responsabilidade civil; solidariedade
+
+@CC 943
+I: O direito de exigir reparação e o dever de prestá-la transmitem-se com a herança, inclusive a reparação por dano moral (Súmula 642 do STJ).
+P: Transmissibilidade || Herdeiros ativos e passivos || Dano moral transmissível (Súmula 642 STJ)
+K: responsabilidade civil; herança; Súmula 642 STJ
+
+@CC 944
+I: A indenização mede-se pela extensão do dano (reparação integral); havendo desproporção excessiva entre a culpa e o dano, o juiz pode reduzi-la equitativamente.
+P: Reparação integral || Redução equitativa || Grau de culpa
+K: indenização; extensão do dano; reparação integral
+
+@CC 945
+I: Se a vítima concorreu culposamente para o dano, a indenização considera a gravidade de sua culpa em comparação com a do autor (culpa concorrente).
+P: Culpa concorrente || Redução proporcional || Gravidade das culpas
+K: culpa concorrente; indenização
+
+@CC 946
+I: Se a obrigação for indeterminada e não houver valor fixado em lei ou contrato, as perdas e danos são apuradas na forma da lei processual (liquidação).
+P: Liquidação das perdas e danos || Lei processual || Obrigação indeterminada
+K: indenização; liquidação
+
+@CC 947
+I: Se o devedor não puder cumprir na espécie ajustada, a prestação é substituída pelo seu valor em moeda corrente.
+P: Conversão em dinheiro || Impossibilidade da espécie || Equivalente
+K: indenização; equivalente pecuniário
+
+@CC 948
+I: No homicídio, a indenização inclui despesas de tratamento, funeral e luto, e alimentos a quem o morto os devia, pela duração provável de vida da vítima, sem excluir outras reparações, como o dano moral.
+P: Despesas e luto || Pensão aos dependentes || Expectativa de vida e dano moral
+K: homicídio; indenização; pensão; danos morais
+
+@CC 949
+I: Na lesão à saúde, indenizam-se despesas de tratamento e lucros cessantes até o fim da convalescença, além de outros prejuízos provados.
+P: Despesas de tratamento || Lucros cessantes || Outros prejuízos
+K: lesão corporal; indenização
+
+@CC 950
+I: Se a ofensa impedir o exercício da profissão ou reduzir a capacidade de trabalho, a indenização inclui pensão correspondente; o lesado pode exigir pagamento de uma só vez.
+P: Pensão por incapacidade || Proporcional à depreciação || Pagamento único a pedido
+K: incapacidade laboral; pensão; indenização
+
+@CC 951
+I: As regras dos arts. 948 a 950 aplicam-se ao profissional que, por negligência, imprudência ou imperícia, causa morte, agrava o mal, lesiona ou inabilita o paciente (responsabilidade subjetiva do profissional de saúde).
+P: Responsabilidade profissional || Culpa exigida || Erro médico
+K: erro médico; responsabilidade profissional; culpa
+
+@CC 952
+I: Na usurpação ou esbulho, além de restituir a coisa, indenizam-se deteriorações e lucros cessantes; faltando a coisa, paga-se seu valor ordinário e de afeição.
+P: Restituição e deteriorações || Lucros cessantes || Valor de afeição
+K: esbulho; indenização; valor de afeição
+
+@CC 953
+I: A indenização por injúria, difamação ou calúnia repara o dano ao ofendido; sem prova de prejuízo material, o juiz fixa equitativamente.
+P: Crimes contra a honra || Reparação do dano || Fixação equitativa
+K: honra; calúnia; difamação; injúria; dano moral
+
+@CC 954
+I: A ofensa à liberdade pessoal (cárcere privado, prisão por queixa falsa ou ilegal) gera perdas e danos, com fixação equitativa se não houver prova de prejuízo.
+P: Ofensa à liberdade || Prisão ilegal || Fixação equitativa
+K: liberdade pessoal; prisão ilegal; indenização
+
+@CC 955
+I: Declara-se a insolvência quando as dívidas excedem os bens do devedor.
+P: Insolvência civil || Dívidas maiores que bens || Concurso de credores
+K: insolvência; concurso de credores
+
+@CC 956
+I: No concurso, os credores podem discutir a preferência e também a nulidade, simulação, fraude ou falsidade das dívidas.
+P: Objeto da discussão || Preferência || Validade dos créditos
+K: concurso de credores; preferência
+
+@CC 957
+I: Sem título legal de preferência, os credores têm igual direito sobre os bens do devedor (par conditio creditorum).
+P: Igualdade entre credores || Sem preferência || Rateio
+K: concurso de credores; par conditio creditorum
+
+@CC 958
+I: Os títulos legais de preferência são os privilégios e os direitos reais.
+P: Privilégios || Direitos reais de garantia || Preferência
+K: preferência; privilégio; direito real
+
+@CC 959
+I: Credores hipotecários ou privilegiados mantêm seus direitos sobre o seguro ou a indenização da coisa perdida ou danificada e sobre o valor da desapropriação.
+P: Sub-rogação real || Seguro e indenização || Desapropriação
+K: hipoteca; privilégio; sub-rogação real
+
+@CC 960
+I: O devedor do seguro ou da indenização se libera pagando sem oposição dos credores hipotecários ou privilegiados.
+P: Pagamento liberatório || Ausência de oposição || Proteção do pagador
+K: preferência; seguro; indenização
+
+@CC 961
+I: O crédito real prefere ao pessoal; o pessoal privilegiado, ao simples; o privilégio especial, ao geral. Na falência e no CPC há ordens próprias (créditos trabalhistas e tributários).
+P: Ordem de preferência || Real > pessoal || Especial > geral
+K: preferência; crédito real; privilégio
+
+@CC 962
+I: Credores da mesma classe com privilégio especial sobre os mesmos bens dividem proporcionalmente o produto, se insuficiente.
+P: Rateio proporcional || Mesma classe || Insuficiência
+K: concurso de credores; rateio
+
+@CC 963
+I: O privilégio especial abrange só os bens indicados em lei; o geral, todos os bens não sujeitos a crédito real ou privilégio especial.
+P: Privilégio especial: bens determinados || Privilégio geral: demais bens || Limites
+K: privilégio especial; privilégio geral
+
+@CC 964
+I: Lista os créditos com privilégio especial, como custas sobre a coisa arrecadada, despesas de salvamento, benfeitorias, materiais e mão de obra de construção, sementes e instrumentos agrícolas, aluguéis sobre os bens que guarnecem o imóvel, direitos autorais e créditos trabalhistas sobre o produto da colheita.
+P: Rol de privilégios especiais || Vínculo com bens determinados || Ordem legal
+K: privilégio especial; créditos
+
+@CC 965
+I: Lista, em ordem, os créditos com privilégio geral: funeral, custas judiciais, luto, doença, sustento do devedor e família, tributos, salários de empregados domésticos e outros créditos privilegiados por lei especial.
+P: Rol e ordem dos privilégios gerais || Funeral e custas primeiro || Créditos de subsistência
+K: privilégio geral; ordem de preferência
+
+@CC 966
+I: Empresário é quem exerce profissionalmente atividade econômica organizada para produzir ou fazer circular bens ou serviços. Não é empresário quem exerce profissão intelectual, científica, literária ou artística, salvo se a atividade constituir elemento de empresa.
+P: Teoria da empresa || Profissionalismo e organização || Profissões intelectuais excluídas, salvo elemento de empresa
+K: empresário; teoria da empresa; atividade econômica organizada
+
+@CC 967
+I: O empresário deve inscrever-se no Registro Público de Empresas Mercantis (Junta Comercial) antes de iniciar a atividade. O registro é declaratório da condição de empresário (Enunciado 199 da III Jornada).
+P: Inscrição obrigatória || Junta Comercial || Efeito declaratório
+K: registro de empresa; Junta Comercial; empresário
+
+@CC 968
+I: O requerimento de inscrição contém nome, nacionalidade, domicílio, estado civil e regime de bens, firma e assinatura, capital, objeto e sede; as alterações são averbadas, e há regras para o microempreendedor individual.
+P: Requisitos da inscrição || Averbação de alterações || Regime simplificado do MEI
+K: inscrição do empresário; requisitos
+
+@CC 969
+I: O empresário que abrir filial, sucursal ou agência em área de outra Junta deve inscrevê-la também ali, com prova da inscrição originária, e averbá-la na sede.
+P: Inscrição de filial || Outra Junta Comercial || Averbação na sede
+K: filial; registro
+
+@CC 970
+I: A lei assegura tratamento favorecido, diferenciado e simplificado ao empresário rural e ao pequeno empresário (CF, art. 179; LC nº 123/2006).
+P: Tratamento favorecido || Pequeno empresário e rural || Estatuto da ME e EPP
+K: pequeno empresário; empresário rural; LC 123
+
+@CC 971
+I: O empresário rural pode optar por se inscrever na Junta Comercial, ficando equiparado ao empresário sujeito a registro.
+P: Registro facultativo do rural || Equiparação || Efeitos empresariais
+K: empresário rural; registro facultativo
+
+@CC 972
+I: Podem ser empresários os que estiverem em pleno gozo da capacidade civil e não forem legalmente impedidos.
+P: Capacidade civil plena || Ausência de impedimento || Requisitos
+K: capacidade empresarial; impedimento
+
+@CC 973
+I: O legalmente impedido que exercer atividade empresarial responde pelas obrigações contraídas.
+P: Responsabilidade do impedido || Validade perante terceiros || Sanções próprias
+K: empresário impedido; responsabilidade
+
+@CC 974
+I: O incapaz, representado ou assistido, pode continuar empresa que exercia quando capaz, ou de seus pais ou do autor da herança, com autorização judicial, ficando protegidos seus bens estranhos ao acervo. O sócio incapaz pode integrar sociedade se não administrar, o capital estiver integralizado e houver representação ou assistência.
+P: Continuação da empresa pelo incapaz || Autorização judicial || Proteção dos bens alheios à empresa
+K: incapaz; empresa; autorização judicial
+
+@CC 975
+I: Se o representante ou assistente do incapaz for impedido de ser empresário, nomeia gerentes com aprovação judicial; a aprovação não exime o representante pelos atos dos gerentes.
+P: Nomeação de gerente || Aprovação judicial || Responsabilidade do representante
+K: incapaz; gerente; empresa
+
+@CC 976
+I: Emancipação, autorização do incapaz e sua revogação são inscritas ou averbadas na Junta; o uso da firma cabe ao gerente ou ao representante.
+P: Publicidade na Junta || Emancipação e autorização || Uso da firma
+K: incapaz; registro; emancipação
+
+@CC 977
+I: Cônjuges podem contratar sociedade entre si ou com terceiros, salvo se casados na comunhão universal ou na separação obrigatória.
+P: Sociedade entre cônjuges || Vedação na comunhão universal e separação obrigatória || Proteção contra fraude
+K: sociedade entre cônjuges; regime de bens
+
+@CC 978
+I: O empresário casado pode alienar ou onerar imóveis da empresa sem outorga conjugal, em qualquer regime.
+P: Dispensa de outorga || Imóveis da empresa || Agilidade empresarial
+K: outorga conjugal; empresário casado
+
+@CC 979
+I: Pactos antenupciais, doações, heranças ou legados com cláusula de incomunicabilidade ou inalienabilidade do empresário devem ser arquivados também na Junta.
+P: Publicidade de restrições patrimoniais || Pacto antenupcial || Cláusulas restritivas
+K: empresário; pacto antenupcial; registro
+
+@CC 980
+I: A sentença de separação judicial do empresário e a reconciliação só são oponíveis a terceiros após averbação na Junta.
+P: Eficácia perante terceiros || Averbação || Separação e reconciliação
+K: empresário; separação; registro
+
+@CC 981
+I: Celebram sociedade as pessoas que se obrigam a contribuir com bens ou serviços para atividade econômica e partilhar os resultados; a atividade pode restringir-se a negócios determinados.
+P: Contrato de sociedade || Contribuição e partilha de resultados || Affectio societatis
+K: sociedade; contrato de sociedade
+
+@CC 982
+I: É empresária a sociedade que exerce atividade de empresário sujeito a registro; as demais são simples. A sociedade por ações é sempre empresária, e a cooperativa sempre simples.
+P: Sociedade empresária × simples || S.A. sempre empresária || Cooperativa sempre simples
+K: sociedade empresária; sociedade simples; cooperativa
+
+@CC 983
+I: A sociedade empresária deve adotar um dos tipos legais; a simples pode adotar um deles ou seguir suas próprias normas, salvo leis especiais.
+P: Tipicidade societária || Sociedade simples pura || Leis especiais
+K: tipos societários; sociedade simples
+
+@CC 984
+I: A sociedade de atividade rural constituída em tipo empresário pode registrar-se na Junta e ficar equiparada à empresária.
+P: Sociedade rural || Registro facultativo || Equiparação
+K: sociedade rural; registro
+
+@CC 985
+I: A sociedade adquire personalidade jurídica com a inscrição de seus atos constitutivos no registro próprio.
+P: Personalidade pelo registro || Registro próprio || Arts. 45 e 1.150
+K: personalidade jurídica; registro; sociedade
+
+@CC 986
+I: Enquanto não registrada, a sociedade (exceto por ações em organização) é sociedade em comum, regida por este capítulo e, subsidiariamente, pelas regras da sociedade simples.
+P: Sociedade em comum || Sociedade irregular ou de fato || Aplicação subsidiária
+K: sociedade em comum; sociedade de fato
+
+@CC 987
+I: Entre si ou com terceiros, os sócios só provam a sociedade por escrito; terceiros podem prová-la de qualquer modo.
+P: Prova entre sócios por escrito || Terceiros: prova livre || Proteção de terceiros
+K: sociedade em comum; prova
+
+@CC 988
+I: Bens e dívidas sociais formam patrimônio especial, de titularidade comum dos sócios.
+P: Patrimônio especial || Titularidade comum || Afetação
+K: sociedade em comum; patrimônio especial
+
+@CC 989
+I: Os bens sociais respondem pelos atos de gestão de qualquer sócio, salvo pacto limitativo, eficaz apenas contra terceiro que o conheça.
+P: Responsabilidade dos bens sociais || Pacto limitativo || Ciência do terceiro
+K: sociedade em comum; gestão
+
+@CC 990
+I: Todos os sócios respondem solidária e ilimitadamente pelas obrigações sociais, e quem contratou pela sociedade não tem benefício de ordem.
+P: Responsabilidade ilimitada e solidária || Sem benefício de ordem para quem contratou || Sanção da irregularidade
+K: sociedade em comum; responsabilidade ilimitada
+
+@CC 991
+I: Na sociedade em conta de participação, o sócio ostensivo exerce a atividade em seu nome e sob sua responsabilidade, e os participantes só participam dos resultados.
+P: Sócio ostensivo || Sócio participante oculto || Responsabilidade exclusiva do ostensivo
+K: sociedade em conta de participação; sócio ostensivo
+
+@CC 992
+I: A conta de participação independe de formalidade e pode ser provada por qualquer meio.
+P: Informalidade || Prova livre || Contrato consensual
+K: sociedade em conta de participação; forma
+
+@CC 993
+I: O contrato só produz efeito entre os sócios, e o registro não dá personalidade; o participante pode fiscalizar, mas se intervier nas relações com terceiros responde solidariamente.
+P: Efeito interno || Sem personalidade jurídica || Responsabilidade do participante que intervém
+K: sociedade em conta de participação; personalidade
+
+@CC 994
+I: As contribuições formam patrimônio especial, eficaz só entre os sócios; na falência do ostensivo, o participante é credor quirografário; na falência do participante, aplicam-se as regras dos contratos bilaterais.
+P: Patrimônio especial interno || Falência do ostensivo || Falência do participante
+K: sociedade em conta de participação; falência
+
+@CC 995
+I: Salvo estipulação, o ostensivo não pode admitir novo sócio sem consentimento expresso dos demais.
+P: Admissão de sócio || Consentimento expresso || Intuitu personae
+K: sociedade em conta de participação; admissão
+
+@CC 996
+I: Aplicam-se subsidiariamente as regras da sociedade simples, e a liquidação segue a prestação de contas.
+P: Aplicação subsidiária || Liquidação por prestação de contas || Contas separadas
+K: sociedade em conta de participação; liquidação
+
+@CC 997
+I: A sociedade simples constitui-se por contrato escrito que indica sócios, denominação, objeto, sede, prazo, capital, quotas, prestações, administradores, participação nos lucros e perdas e responsabilidade subsidiária dos sócios; pacto separado em contrário é ineficaz perante terceiros.
+P: Requisitos do contrato social || Forma escrita || Pacto separado ineficaz perante terceiros
+K: contrato social; sociedade simples; requisitos
+
+@CC 998
+I: A sociedade simples deve pedir inscrição no Registro Civil das Pessoas Jurídicas em 30 dias da constituição.
+P: Prazo de 30 dias || Registro Civil das Pessoas Jurídicas || Documentos exigidos
+K: sociedade simples; registro; prazo
+
+@CC 999
+I: Alterações das matérias essenciais do art. 997 exigem unanimidade; as demais, maioria absoluta, salvo previsão de unanimidade; toda alteração é averbada.
+P: Unanimidade para cláusulas essenciais || Maioria absoluta para as demais || Averbação
+K: alteração do contrato social; quórum
+
+@CC 1000
+I: A sociedade simples que abrir filial em área de outro Registro Civil das Pessoas Jurídicas deve inscrevê-la ali e averbá-la na sede.
+P: Inscrição de filial || Outro cartório || Averbação
+K: sociedade simples; filial
+
+@CC 1001
+I: As obrigações dos sócios começam com o contrato, salvo outra data, e terminam com a extinção das responsabilidades sociais após a liquidação.
+P: Início das obrigações || Término após liquidação || Duração
+K: sócios; obrigações
+
+@CC 1002
+I: O sócio não pode ser substituído em suas funções sem consentimento dos demais, expresso em alteração contratual.
+P: Caráter pessoal || Consentimento || Alteração contratual
+K: sócio; substituição
+
+@CC 1003
+I: A cessão de quota sem alteração contratual consentida é ineficaz perante sócios e sociedade; o cedente responde solidariamente com o cessionário por 2 anos após a averbação.
+P: Cessão de quota exige consentimento || Responsabilidade do cedente por 2 anos || Averbação
+K: cessão de quotas; responsabilidade do cedente
+
+@CC 1004
+I: O sócio deve integralizar as contribuições no prazo; notificado e inerte por 30 dias, responde pelo dano, e a maioria pode excluí-lo ou reduzir sua quota (sócio remisso).
+P: Integralização || Sócio remisso || Exclusão ou redução da quota
+K: sócio remisso; integralização
+
+@CC 1005
+I: O sócio que contribui com domínio, posse ou uso responde pela evicção; quem transfere crédito responde pela solvência do devedor.
+P: Garantia da evicção || Solvência do crédito || Contribuição em bens
+K: sócio; evicção; contribuição
+
+@CC 1006
+I: O sócio de serviço não pode, salvo convenção, empregar-se em atividade estranha, sob pena de perder lucros e ser excluído.
+P: Sócio de indústria || Exclusividade || Sanção
+K: sócio de serviço; exclusividade
+
+@CC 1007
+I: Salvo estipulação, o sócio participa de lucros e perdas na proporção das quotas; o de serviço participa dos lucros pela média do valor das quotas.
+P: Participação proporcional || Sócio de serviço || Estipulação em contrário
+K: lucros; perdas; quotas
+
+@CC 1008
+I: É nula a cláusula que exclua sócio de participar dos lucros e das perdas (pacto leonino).
+P: Vedação do pacto leonino || Nulidade || Comunhão de resultados
+K: pacto leonino; lucros e perdas
+
+@CC 1009
+I: A distribuição de lucros ilícitos ou fictícios gera responsabilidade solidária dos administradores e dos sócios que os receberam sabendo ou devendo saber.
+P: Lucros fictícios || Responsabilidade solidária || Proteção do capital
+K: lucros ilícitos; responsabilidade; administradores
+
+@CC 1010
+I: As deliberações dos sócios são por maioria de votos conforme o valor das quotas; empate decide-se pelo número de sócios e, persistindo, pelo juiz; o sócio com interesse contrário que votar responde por perdas e danos.
+P: Maioria pelo capital || Desempate || Conflito de interesses
+K: deliberação; maioria; voto
+
+@CC 1011
+I: O administrador deve agir com o cuidado e a diligência do homem ativo e probo. Não podem ser administradores os impedidos por lei especial, condenados por certos crimes ou a pena que vede cargos públicos.
+P: Dever de diligência || Impedimentos legais || Aplicação das regras do mandato
+K: administrador; dever de diligência; impedimentos
+
+@CC 1012
+I: O administrador nomeado em instrumento separado deve averbá-lo; antes disso, responde pessoal e solidariamente com a sociedade.
+P: Averbação da nomeação || Responsabilidade antes da averbação || Publicidade
+K: administrador; nomeação; averbação
+
+@CC 1013
+I: No silêncio do contrato, cada sócio administra separadamente; os demais podem impugnar operações, decidindo a maioria; responde por perdas e danos quem realiza operação sabendo que contraria a maioria.
+P: Administração disjuntiva || Impugnação || Responsabilidade
+K: administração; sócios
+
+@CC 1014
+I: Nos atos de competência conjunta, é necessário o concurso de todos os administradores, salvo urgência que possa causar dano irreparável.
+P: Administração conjunta || Exceção de urgência || Validade dos atos
+K: administração conjunta; urgência
+
+@CC 1015
+I: No silêncio do contrato, os administradores praticam todos os atos de gestão; vender ou onerar imóveis fora do objeto social depende da maioria. O parágrafo único (teoria ultra vires) foi revogado pela Lei nº 14.195/2021.
+P: Poderes de gestão || Imóveis exigem maioria || Ultra vires revogada
+K: administrador; poderes; ultra vires
+
+@CC 1016
+I: Os administradores respondem solidariamente perante a sociedade e terceiros por culpa no desempenho das funções.
+P: Responsabilidade por culpa || Solidariedade || Sociedade e terceiros
+K: administrador; responsabilidade
+
+@CC 1017
+I: O administrador que usa bens ou créditos sociais em proveito próprio ou alheio sem consentimento escrito deve restituí-los com lucros e responder por prejuízos; o que tiver interesse contrário em operação não pode participar da deliberação.
+P: Desvio de bens sociais || Restituição com lucros || Conflito de interesses
+K: administrador; desvio; conflito de interesses
+
+@CC 1018
+I: O administrador não pode se fazer substituir, mas pode constituir mandatários da sociedade nos limites de seus poderes.
+P: Indelegabilidade || Mandatários da sociedade || Limites dos poderes
+K: administrador; substituição; mandatário
+
+@CC 1019
+I: São irrevogáveis os poderes do sócio administrador nomeado no contrato, salvo justa causa reconhecida judicialmente; os do nomeado em separado ou não sócio são revogáveis a qualquer tempo.
+P: Irrevogabilidade do administrador contratual || Justa causa judicial || Revogabilidade dos demais
+K: administrador; revogação; justa causa
+
+@CC 1020
+I: Os administradores devem prestar contas justificadas e apresentar anualmente inventário, balanço patrimonial e de resultado.
+P: Prestação de contas || Inventário e balanços anuais || Transparência
+K: administrador; prestação de contas; balanço
+
+@CC 1021
+I: Salvo estipulação de época própria, o sócio pode examinar a qualquer tempo livros, documentos, caixa e carteira da sociedade.
+P: Direito de fiscalização || A qualquer tempo || Estipulação em contrário
+K: sócio; fiscalização; livros
+
+@CC 1022
+I: A sociedade atua por administradores com poderes especiais ou, não havendo, por qualquer administrador.
+P: Representação da sociedade || Poderes especiais || Qualquer administrador
+K: sociedade; representação; administrador
+
+@CC 1023
+I: Se os bens sociais não cobrirem as dívidas, os sócios respondem pelo saldo na proporção das perdas, salvo cláusula de solidariedade (responsabilidade subsidiária).
+P: Responsabilidade subsidiária || Proporção das perdas || Solidariedade convencional
+K: sociedade simples; responsabilidade dos sócios
+
+@CC 1024
+I: Os bens particulares dos sócios só são executados por dívidas sociais depois de executados os bens da sociedade (benefício de ordem).
+P: Benefício de ordem || Bens sociais primeiro || Responsabilidade subsidiária
+K: benefício de ordem; sócios; execução
+
+@CC 1025
+I: O sócio admitido em sociedade já constituída responde pelas dívidas sociais anteriores.
+P: Responsabilidade por dívidas anteriores || Novo sócio || Proteção dos credores
+K: sócio; dívidas anteriores
+
+@CC 1026
+I: O credor particular do sócio pode, sem outros bens, penhorar os lucros ou a parte na liquidação; se a sociedade não estiver dissolvida, pode pedir a liquidação da quota.
+P: Penhora de lucros || Liquidação da quota || Credor particular
+K: penhora de quotas; credor do sócio
+
+@CC 1027
+I: Herdeiros do cônjuge do sócio ou o ex-cônjuge não podem exigir de imediato a parte na quota, mas participam da divisão de lucros até a liquidação.
+P: Ex-cônjuge e herdeiros || Participação nos lucros || Sem ingresso imediato
+K: quota; ex-cônjuge; herdeiros
+
+@CC 1028
+I: Morrendo o sócio, liquida-se sua quota, salvo disposição contratual, opção pela dissolução ou acordo de substituição com os herdeiros.
+P: Liquidação da quota do falecido || Exceções || Ingresso dos herdeiros por acordo
+K: morte de sócio; liquidação de quota
+
+@CC 1029
+I: Qualquer sócio pode retirar-se: na sociedade por prazo indeterminado, notificando os demais com 60 dias; na de prazo determinado, provando justa causa em juízo. Os demais podem optar pela dissolução em 30 dias.
+P: Direito de retirada || 60 dias de antecedência || Justa causa no prazo determinado
+K: retirada de sócio; recesso
+
+@CC 1030
+I: O sócio pode ser excluído judicialmente, por iniciativa da maioria dos demais, por falta grave ou incapacidade superveniente; é excluído de pleno direito o falido ou cuja quota foi liquidada por credor.
+P: Exclusão judicial || Falta grave ou incapacidade || Exclusão de pleno direito
+K: exclusão de sócio; falta grave
+
+@CC 1031
+I: Resolvida a sociedade quanto a um sócio, sua quota é liquidada pelo valor patrimonial real apurado em balanço especial na data da resolução, salvo disposição contratual; o capital é reduzido, salvo suprimento pelos demais, e o pagamento ocorre em 90 dias.
+P: Apuração de haveres || Balanço especial || Pagamento em 90 dias
+K: apuração de haveres; dissolução parcial; balanço especial
