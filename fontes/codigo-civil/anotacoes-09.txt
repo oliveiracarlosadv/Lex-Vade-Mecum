@@ -1,0 +1,499 @@
+@CC 687
+I: Comunicada ao mandatário a nomeação de outro para o mesmo negócio, o mandato anterior considera-se revogado (revogação tácita).
+P: Revogação tácita || Nomeação de novo mandatário || Comunicação necessária
+K: mandato; revogação tácita
+
+@CC 688
+I: A renúncia deve ser comunicada ao mandante, que será indenizado se prejudicado pela inoportunidade, salvo se o mandatário provar que não podia continuar sem prejuízo considerável. No processo, o advogado continua por 10 dias (CPC, art. 112).
+P: Comunicação da renúncia || Indenização por renúncia inoportuna || Exceção do prejuízo considerável
+K: mandato; renúncia
+
+@CC 689
+I: Valem perante contratantes de boa-fé os atos praticados pelo mandatário enquanto ignorava a morte do mandante ou a extinção do mandato.
+P: Proteção da boa-fé || Ignorância da extinção || Teoria da aparência
+K: mandato; extinção; boa-fé
+
+@CC 690
+I: Morrendo o mandatário com negócio pendente, os herdeiros que souberem do mandato devem avisar o mandante e tomar as providências necessárias.
+P: Dever dos herdeiros || Aviso ao mandante || Providências urgentes
+K: mandato; morte do mandatário; herdeiros
+
+@CC 691
+I: Os herdeiros devem limitar-se a medidas conservatórias ou a negócios urgentes, aplicando-se as regras do mandato.
+P: Medidas conservatórias || Negócios urgentes || Limites da atuação
+K: mandato; herdeiros
+
+@CC 692
+I: O mandato judicial segue a legislação processual e, supletivamente, o Código Civil.
+P: Primazia do CPC || Aplicação supletiva || Procuração ad judicia
+K: mandato judicial; CPC
+
+@CC 693
+I: Na comissão, o comissário compra, vende ou realiza mútuo ou outro negócio de crédito em nome próprio, mas por conta do comitente.
+P: Atuação em nome próprio || Por conta do comitente || Mandato sem representação
+K: comissão; comissário; comitente
+
+@CC 694
+I: O comissário obriga-se diretamente com quem contrata, e não há ação direta entre o comitente e os terceiros, salvo cessão de direitos.
+P: Responsabilidade direta do comissário || Ausência de vínculo com o comitente || Cessão de direitos
+K: comissão; terceiros
+
+@CC 695
+I: O comissário segue as ordens do comitente e, na falta delas, os usos; age bem se trouxer vantagem ao comitente ou se a demora fosse prejudicial.
+P: Observância das instruções || Usos na falta de ordens || Atuação vantajosa justificada
+K: comissão; instruções
+
+@CC 696
+I: O comissário deve agir com cuidado e diligência para evitar prejuízos e buscar o lucro esperado, respondendo por prejuízos culposos, salvo força maior.
+P: Dever de diligência || Busca de lucro razoável || Responsabilidade por culpa
+K: comissão; diligência
+
+@CC 697
+I: O comissário não responde pela insolvência de quem contratou, salvo culpa ou cláusula del credere.
+P: Sem garantia de solvência || Exceções: culpa e del credere || Risco do comitente
+K: comissão; insolvência
+
+@CC 698
+I: Com cláusula del credere, o comissário responde solidariamente com os terceiros e, salvo estipulação, tem direito a remuneração mais elevada.
+P: Cláusula del credere || Solidariedade do comissário || Remuneração maior
+K: comissão; del credere
+
+@CC 699
+I: Presume-se o comissário autorizado a conceder prazo para pagamento conforme os usos locais, se não houver instruções contrárias.
+P: Dilação de prazo presumida || Usos do lugar || Instruções em contrário
+K: comissão; prazo de pagamento
+
+@CC 700
+I: Se havia proibição ou o prazo não segue os usos, o comitente pode exigir que o comissário pague de imediato ou responda pelas consequências.
+P: Prazo indevido || Pagamento imediato || Responsabilidade do comissário
+K: comissão; responsabilidade
+
+@CC 701
+I: Não estipulada, a remuneração do comissário é arbitrada pelos usos do lugar.
+P: Arbitramento || Usos locais || Remuneração
+K: comissão; remuneração
+
+@CC 702
+I: Por morte do comissário ou força maior que impeça a conclusão, o comitente paga remuneração proporcional ao trabalho feito.
+P: Remuneração proporcional || Morte ou força maior || Trabalho realizado
+K: comissão; remuneração proporcional
+
+@CC 703
+I: Mesmo dispensado por sua culpa, o comissário recebe pelos serviços úteis, e o comitente pode exigir os prejuízos.
+P: Serviços úteis remunerados || Compensação com prejuízos || Vedação de enriquecimento
+K: comissão; dispensa
+
+@CC 704
+I: Salvo disposição em contrário, o comitente pode alterar as instruções a qualquer tempo, atingindo os negócios pendentes.
+P: Alteração das instruções || Negócios pendentes || Poder do comitente
+K: comissão; instruções
+
+@CC 705
+I: Dispensado sem justa causa, o comissário recebe pelo trabalho feito e por perdas e danos.
+P: Dispensa injusta || Remuneração e perdas e danos || Proteção do comissário
+K: comissão; dispensa sem justa causa
+
+@CC 706
+I: Comitente e comissário pagam juros um ao outro: o primeiro pelos adiantamentos, o segundo pela mora em entregar fundos.
+P: Juros recíprocos || Adiantamentos || Mora na entrega
+K: comissão; juros
+
+@CC 707
+I: O crédito do comissário por comissões e despesas tem privilégio geral na falência ou insolvência do comitente.
+P: Privilégio geral || Falência do comitente || Comissões e despesas
+K: comissão; privilégio; falência
+
+@CC 708
+I: O comissário pode reter bens e valores do comitente até ser reembolsado e remunerado.
+P: Direito de retenção || Bens em seu poder || Garantia do crédito
+K: comissão; retenção
+
+@CC 709
+I: Aplicam-se à comissão, no que couber, as regras do mandato.
+P: Aplicação subsidiária || Mandato || Integração
+K: comissão; mandato
+
+@CC 710
+I: Na agência, o agente promove, de forma não eventual e sem dependência, negócios por conta do proponente em zona determinada, mediante retribuição; há distribuição quando o agente tem a coisa à disposição. O proponente pode conferir poderes de representação.
+P: Agência e distribuição || Autonomia e habitualidade || Zona determinada
+K: agência; distribuição; representação comercial
+
+@CC 711
+I: Salvo ajuste, há exclusividade recíproca: o proponente não nomeia outro agente na mesma zona e o agente não trabalha para concorrente.
+P: Exclusividade de zona || Exclusividade do agente || Ajuste em contrário
+K: agência; exclusividade
+
+@CC 712
+I: O agente deve agir com diligência e seguir as instruções do proponente.
+P: Dever de diligência || Observância das instruções || Lealdade
+K: agência; deveres do agente
+
+@CC 713
+I: Salvo estipulação, as despesas da agência ou distribuição são do agente ou distribuidor.
+P: Despesas do agente || Norma supletiva || Autonomia
+K: agência; despesas
+
+@CC 714
+I: Salvo ajuste, o agente recebe pelos negócios concluídos em sua zona, mesmo sem sua interferência.
+P: Remuneração por zona || Negócios sem interferência || Exclusividade
+K: agência; remuneração
+
+@CC 715
+I: O agente tem direito a indenização se o proponente, sem justa causa, deixar de atender propostas ou reduzi-las a ponto de inviabilizar o contrato.
+P: Indenização por redução injustificada || Inviabilidade econômica || Boa-fé
+K: agência; indenização
+
+@CC 716
+I: A remuneração é devida mesmo se o negócio não se realizar por fato imputável ao proponente.
+P: Remuneração garantida || Fato do proponente || Proteção do agente
+K: agência; remuneração
+
+@CC 717
+I: Mesmo dispensado por justa causa, o agente recebe pelos serviços úteis, sem prejuízo das perdas e danos do proponente.
+P: Serviços úteis || Justa causa || Perdas e danos
+K: agência; justa causa
+
+@CC 718
+I: Dispensado sem culpa, o agente recebe a remuneração devida, inclusive dos negócios pendentes, além das indenizações da lei especial (Lei nº 4.886/1965 para representantes comerciais).
+P: Remuneração dos pendentes || Indenização da lei especial || Representação comercial
+K: agência; dispensa; Lei 4.886
+
+@CC 719
+I: Se o agente não puder continuar por força maior, recebe pelos serviços feitos; em caso de morte, o direito passa aos herdeiros.
+P: Força maior || Remuneração proporcional || Herdeiros
+K: agência; força maior
+
+@CC 720
+I: No contrato por prazo indeterminado, qualquer parte pode resolvê-lo com aviso prévio de 90 dias, desde que transcorrido prazo compatível com os investimentos do agente; havendo divergência, o juiz decide o prazo e o valor.
+P: Aviso prévio de 90 dias || Prazo compatível com investimentos || Decisão judicial
+K: agência; aviso prévio; investimentos
+
+@CC 721
+I: Aplicam-se à agência e distribuição, no que couber, as regras do mandato, da comissão e de lei especial.
+P: Aplicação subsidiária || Mandato e comissão || Lei especial
+K: agência; mandato; comissão
+
+@CC 722
+I: Na corretagem, o corretor, sem vínculo de mandato, prestação de serviços ou dependência, obriga-se a obter um ou mais negócios para o cliente, conforme instruções.
+P: Mediação || Independência do corretor || Obtenção de negócios
+K: corretagem; corretor; mediação
+
+@CC 723
+I: O corretor deve agir com diligência e prudência e informar espontaneamente o andamento, inclusive sobre segurança ou risco do negócio e alterações de valores, sob pena de perdas e danos.
+P: Dever de diligência || Dever de informação || Responsabilidade
+K: corretagem; dever de informação
+
+@CC 724
+I: Sem previsão legal ou acordo, a remuneração do corretor é arbitrada pela natureza do negócio e pelos usos locais.
+P: Arbitramento || Usos locais || Natureza do negócio
+K: corretagem; comissão
+
+@CC 725
+I: A comissão é devida quando o corretor obtém o resultado previsto, ainda que o negócio não se efetive por arrependimento das partes. O STJ entende que a aproximação útil, com acordo de vontades, gera o direito à comissão.
+P: Obrigação de resultado || Arrependimento não afasta a comissão || Resultado útil
+K: corretagem; comissão; resultado útil
+
+@CC 726
+I: Se o negócio for feito diretamente entre as partes, não há comissão, salvo exclusividade escrita, caso em que é devida integralmente, exceto se provada a inércia ou ociosidade do corretor.
+P: Negócio direto sem comissão || Exclusividade escrita || Inércia do corretor
+K: corretagem; exclusividade
+
+@CC 727
+I: Se, sem prazo, o corretor for dispensado e o negócio se realizar depois por sua mediação, a comissão é devida; o mesmo se realizado após o prazo como fruto de seu trabalho.
+P: Dispensa do corretor || Negócio posterior fruto da mediação || Comissão devida
+K: corretagem; dispensa
+
+@CC 728
+I: Com vários corretores, a remuneração é dividida igualmente, salvo ajuste.
+P: Divisão igualitária || Pluralidade de corretores || Ajuste em contrário
+K: corretagem; pluralidade
+
+@CC 729
+I: As regras do Código não excluem a legislação especial de corretagem.
+P: Legislação especial || Corretores de imóveis e seguros || Complementaridade
+K: corretagem; legislação especial
+
+@CC 730
+I: No contrato de transporte, alguém se obriga, mediante retribuição, a levar pessoas ou coisas de um lugar a outro.
+P: Transporte de pessoas e coisas || Onerosidade || Obrigação de resultado
+K: transporte; contrato de transporte
+
+@CC 731
+I: O transporte delegado (autorização, permissão ou concessão) segue as normas regulamentares e os atos de delegação, sem prejuízo do Código.
+P: Serviço público delegado || Normas regulamentares || Aplicação do Código
+K: transporte; concessão
+
+@CC 732
+I: Aplicam-se ao transporte a legislação especial e os tratados, desde que não contrariem o Código. No transporte aéreo internacional, o STF (Tema 210) manda aplicar as Convenções de Varsóvia e Montreal aos danos materiais.
+P: Legislação especial e tratados || Prevalência do Código || Convenções de Varsóvia e Montreal (Tema 210)
+K: transporte; tratados; Convenção de Montreal
+
+@CC 733
+I: No transporte cumulativo, cada transportador responde por seu percurso; o dano por atraso ou interrupção é apurado em relação a todo o percurso, e o substituto responde solidariamente.
+P: Responsabilidade por trecho || Atraso apurado no todo || Solidariedade do substituto
+K: transporte cumulativo; responsabilidade
+
+@CC 734
+I: O transportador responde pelos danos aos passageiros e bagagens, salvo força maior, sendo nula cláusula de exclusão; pode exigir declaração do valor da bagagem para limitar a indenização. A responsabilidade é objetiva e há cláusula de incolumidade.
+P: Responsabilidade objetiva || Nulidade da cláusula de não indenizar || Declaração do valor da bagagem
+K: transporte de pessoas; responsabilidade objetiva; cláusula de incolumidade
+
+@CC 735
+I: A culpa de terceiro não exclui a responsabilidade do transportador por acidente com passageiro, que tem regresso contra o terceiro (Súmula 187 do STF). O fato doloso de terceiro estranho ao transporte, como assalto, é tratado como fortuito externo pelo STJ.
+P: Culpa de terceiro não exclui || Regresso || Fortuito externo (assalto) exclui
+K: transporte; culpa de terceiro; Súmula 187 STF
+
+@CC 736
+I: O transporte gratuito por amizade ou cortesia não segue as regras do contrato de transporte; não é gratuito se o transportador obtiver vantagem indireta. No de cortesia, responde só por dolo ou culpa grave (Súmula 145 do STJ).
+P: Transporte de cortesia || Vantagem indireta afasta a gratuidade || Dolo ou culpa grave
+K: transporte gratuito; cortesia; Súmula 145 STJ
+
+@CC 737
+I: O transportador deve cumprir horários e itinerários, sob pena de perdas e danos, salvo força maior.
+P: Horários e itinerários || Atraso gera indenização || Força maior
+K: transporte; atraso; horários
+
+@CC 738
+I: O passageiro deve seguir as normas do transportador e evitar incômodo ou prejuízo; se contribuir para o dano, o juiz reduz a indenização.
+P: Deveres do passageiro || Culpa concorrente || Redução da indenização
+K: transporte; passageiro; culpa concorrente
+
+@CC 739
+I: O transportador não pode recusar passageiros, salvo previsão regulamentar ou razões de higiene ou saúde.
+P: Dever de contratar || Exceções regulamentares || Higiene e saúde
+K: transporte; recusa de passageiro
+
+@CC 740
+I: O passageiro pode desistir antes da viagem com restituição, se avisar a tempo de revender o bilhete; pode também desistir durante ou não embarcar, provando que outro ocupou o lugar. O transportador pode reter até 5% a título de multa.
+P: Desistência com restituição || Lugar ocupado por outro || Multa de até 5%
+K: transporte; desistência; reembolso
+
+@CC 741
+I: Interrompida a viagem por motivo alheio ao transportador, mesmo imprevisível, ele deve concluir o transporte em veículo equivalente ou, com anuência, por outro meio, custeando estada e alimentação na espera.
+P: Conclusão da viagem || Veículo equivalente || Despesas de espera
+K: transporte; interrupção
+
+@CC 742
+I: Executado o transporte, o transportador pode reter a bagagem para garantir o pagamento da passagem não paga no início.
+P: Retenção da bagagem || Passagem não paga || Garantia
+K: transporte; retenção; bagagem
+
+@CC 743
+I: A coisa transportada deve ser caracterizada por natureza, valor, peso e quantidade, e o destinatário indicado ao menos por nome e endereço.
+P: Identificação da carga || Destinatário || Documentação
+K: transporte de coisas; carga
+
+@CC 744
+I: Ao receber a coisa, o transportador emite conhecimento com os dados de identificação e pode exigir relação dos bens assinada pelo remetente.
+P: Conhecimento de transporte || Relação de bens || Lei especial
+K: conhecimento de transporte
+
+@CC 745
+I: Em caso de informação inexata ou falsa no documento, o transportador é indenizado, devendo propor a ação em 120 dias (prazo decadencial).
+P: Informação falsa || Indenização do transportador || Decadência de 120 dias
+K: transporte; informação falsa; decadência
+
+@CC 746
+I: O transportador pode recusar coisa com embalagem inadequada ou que ofereça risco à saúde, ao veículo ou a outros bens.
+P: Recusa facultativa || Embalagem inadequada || Risco
+K: transporte; recusa
+
+@CC 747
+I: O transportador deve recusar coisa de transporte ou comércio proibido, ou sem os documentos exigidos.
+P: Recusa obrigatória || Mercadoria proibida || Documentação
+K: transporte; mercadoria proibida
+
+@CC 748
+I: Até a entrega, o remetente pode desistir e pedir a coisa de volta ou mudar o destinatário, pagando os acréscimos e perdas e danos.
+P: Contraordem || Mudança do destinatário || Despesas acrescidas
+K: transporte; contraordem
+
+@CC 749
+I: O transportador deve conduzir a coisa com as cautelas necessárias e entregá-la no prazo.
+P: Dever de cautela || Prazo de entrega || Obrigação de resultado
+K: transporte; entrega
+
+@CC 750
+I: A responsabilidade do transportador, limitada ao valor do conhecimento, vai do recebimento à entrega ou ao depósito em juízo, se o destinatário não for encontrado.
+P: Limite do conhecimento || Período de responsabilidade || Depósito em juízo
+K: transporte; responsabilidade; limite
+
+@CC 751
+I: A coisa guardada nos armazéns do transportador segue, no que couber, as regras do depósito.
+P: Armazenagem || Regras do depósito || Guarda
+K: transporte; depósito
+
+@CC 752
+I: Desembarcada a mercadoria, o transportador só avisa o destinatário ou entrega a domicílio se ajustado, e isso deve constar do conhecimento.
+P: Aviso e entrega a domicílio || Ajuste necessário || Conhecimento
+K: transporte; entrega
+
+@CC 753
+I: Se o transporte não puder ser feito ou for interrompido longamente, o transportador pede instruções e zela pela coisa, respondendo por perda salvo força maior; pode depositá-la ou vendê-la se perecível, conforme o caso.
+P: Pedido de instruções || Dever de guarda || Depósito ou venda
+K: transporte; impedimento
+
+@CC 754
+I: A mercadoria é entregue ao destinatário ou a quem apresentar o conhecimento endossado, que deve conferi-la e reclamar de imediato, sob pena de decadência; avaria não perceptível de imediato pode ser reclamada em 10 dias.
+P: Conferência na entrega || Reclamação imediata || Avaria oculta em 10 dias
+K: transporte; entrega; decadência
+
+@CC 755
+I: Havendo dúvida sobre o destinatário, o transportador deposita a mercadoria em juízo, se não obtiver instruções; se perecível, pode vendê-la e depositar o saldo.
+P: Dúvida sobre o destinatário || Depósito em juízo || Venda de perecíveis
+K: transporte; destinatário; depósito
+
+@CC 756
+I: No transporte cumulativo de coisas, todos os transportadores respondem solidariamente perante o remetente, apurando-se depois entre eles quem causou o dano.
+P: Solidariedade || Remetente protegido || Apuração interna
+K: transporte cumulativo; solidariedade
+
+@CC 803
+I: Pela constituição de renda, alguém se obriga a prestação periódica em favor de outro, a título gratuito.
+P: Prestação periódica || Título gratuito || Contrato de renda
+K: constituição de renda
+
+@CC 804
+I: A constituição de renda pode ser onerosa, com entrega de bens ao rendeiro, que paga as prestações ao credor ou a terceiros.
+P: Renda onerosa || Entrega de bens || Beneficiário
+K: constituição de renda; onerosa
+
+@CC 805
+I: Na renda onerosa, o credor pode exigir garantia real ou fidejussória.
+P: Garantia real ou pessoal || Renda onerosa || Proteção do credor
+K: constituição de renda; garantia
+
+@CC 806
+I: A renda pode ser a prazo certo ou vitalícia, podendo ultrapassar a vida do devedor, mas não a do credor.
+P: Prazo certo ou vitalício || Limite da vida do credor || Transmissão do dever
+K: constituição de renda; prazo
+
+@CC 807
+I: A constituição de renda exige escritura pública.
+P: Forma solene || Escritura pública || Nulidade sem a forma
+K: constituição de renda; escritura pública
+
+@CC 808
+I: É nula a renda em favor de pessoa já morta ou que morra em 30 dias de doença que já tinha ao contratar.
+P: Nulidade || Morte em 30 dias || Doença preexistente
+K: constituição de renda; nulidade
+
+@CC 809
+I: Os bens dados em troca da renda passam ao domínio do rendeiro desde a tradição.
+P: Transferência do domínio || Tradição || Rendeiro
+K: constituição de renda; domínio
+
+@CC 810
+I: Se o rendeiro não cumprir, o credor pode cobrar as prestações atrasadas e exigir garantia das futuras, sob pena de rescisão.
+P: Cobrança dos atrasados || Garantia das futuras || Rescisão
+K: constituição de renda; inadimplemento
+
+@CC 811
+I: O direito à renda adquire-se dia a dia, salvo se a prestação for paga adiantada no início de cada período.
+P: Aquisição dia a dia || Pagamento antecipado || Proporcionalidade
+K: constituição de renda; aquisição
+
+@CC 812
+I: Constituída em favor de várias pessoas sem quotas, presumem-se iguais, e os sobreviventes não acrescem a parte dos falecidos, salvo estipulação.
+P: Quotas iguais || Sem direito de acrescer || Estipulação em contrário
+K: constituição de renda; pluralidade
+
+@CC 813
+I: A renda gratuita pode ficar isenta, por ato do instituidor, de execuções presentes e futuras; a isenção vale de pleno direito para montepios e pensões alimentícias.
+P: Isenção de execuções || Renda gratuita || Montepios e pensões
+K: constituição de renda; impenhorabilidade
+
+@CC 814
+I: Dívidas de jogo ou aposta não obrigam a pagamento (obrigação natural), mas o que foi pago voluntariamente não pode ser recuperado, salvo dolo ou perdente menor ou interdito. A regra alcança contratos que encubram dívida de jogo; jogos e apostas legalmente permitidos podem ser exigíveis.
+P: Obrigação natural || Irrepetibilidade do pagamento || Jogos legalmente autorizados
+K: jogo; aposta; obrigação natural
+
+@CC 815
+I: Não se pode exigir de volta o que se emprestou para jogo ou aposta no ato de jogar ou apostar.
+P: Mútuo para jogo || Inexigibilidade || No ato do jogo
+K: jogo; empréstimo
+
+@CC 816
+I: As regras do jogo não se aplicam aos contratos sobre títulos, mercadorias ou valores liquidados pela diferença de preço (contratos diferenciais).
+P: Contratos diferenciais || Mercado de capitais || Exigibilidade
+K: contratos diferenciais; jogo
+
+@CC 817
+I: O sorteio para resolver questões ou dividir bens comuns vale como partilha ou transação.
+P: Sorteio lícito || Partilha ou transação || Divisão de bens comuns
+K: sorteio; partilha; transação
+
+@CC 818
+I: Na fiança, uma pessoa garante ao credor o cumprimento da obrigação do devedor, caso este não pague.
+P: Garantia pessoal || Obrigação acessória || Subsidiariedade
+K: fiança; fiador; garantia fidejussória
+
+@CC 819
+I: A fiança deve ser escrita e não admite interpretação extensiva. A Súmula 214 do STJ aplica a regra aos aditamentos da locação sem anuência do fiador.
+P: Forma escrita || Interpretação restritiva || Súmula 214 do STJ
+K: fiança; forma; interpretação restritiva
+
+@CC 820
+I: A fiança pode ser dada sem consentimento do devedor ou contra sua vontade.
+P: Contrato entre fiador e credor || Dispensa anuência do devedor || Autonomia
+K: fiança; consentimento
+
+@CC 821
+I: Dívidas futuras podem ser afiançadas, mas o fiador só é demandado quando a obrigação principal se tornar certa e líquida.
+P: Fiança de dívida futura || Certeza e liquidez || Exigibilidade
+K: fiança; dívida futura
+
+@CC 822
+I: Não limitada, a fiança abrange os acessórios da dívida, inclusive despesas judiciais desde a citação do fiador.
+P: Fiança ilimitada || Acessórios incluídos || Despesas após a citação
+K: fiança; acessórios
+
+@CC 823
+I: A fiança pode ser menor ou menos onerosa que a obrigação; se maior, vale só até o limite da dívida.
+P: Fiança parcial || Redução ao limite || Acessoriedade
+K: fiança; limite
+
+@CC 824
+I: Obrigações nulas não admitem fiança, salvo se a nulidade decorrer só de incapacidade pessoal do devedor; a exceção não abrange mútuo a menor.
+P: Acessoriedade || Incapacidade pessoal || Mútuo a menor excluído
+K: fiança; nulidade
+
+@CC 825
+I: O credor não é obrigado a aceitar fiador que não seja idôneo, domiciliado no município e com bens suficientes.
+P: Requisitos do fiador || Idoneidade e bens || Domicílio
+K: fiança; idoneidade
+
+@CC 826
+I: Se o fiador ficar insolvente ou incapaz, o credor pode exigir a substituição.
+P: Substituição do fiador || Insolvência ou incapacidade || Garantia efetiva
+K: fiança; substituição
+
+@CC 827
+I: Demandado, o fiador pode exigir, até a contestação, que primeiro sejam executados os bens do devedor (benefício de ordem), indicando bens livres e suficientes no mesmo município.
+P: Benefício de ordem || Prazo até a contestação || Indicação de bens
+K: fiança; benefício de ordem
+
+@CC 828
+I: Não há benefício de ordem se o fiador renunciou expressamente, se obrigou como principal pagador ou devedor solidário, ou se o devedor for insolvente ou falido.
+P: Exclusões do benefício || Renúncia e solidariedade || Insolvência do devedor
+K: fiança; benefício de ordem; solidariedade
+
+@CC 829
+I: Vários fiadores do mesmo débito são solidários, salvo reserva do benefício de divisão, caso em que cada um responde pela sua parte.
+P: Solidariedade entre cofiadores || Benefício de divisão || Responsabilidade proporcional
+K: fiança; cofiadores; benefício de divisão
+
+@CC 830
+I: Cada fiador pode fixar a parte da dívida que garante, não respondendo além dela.
+P: Limitação individual || Parte da dívida || Autonomia
+K: fiança; limite
+
+@CC 831
+I: O fiador que paga toda a dívida sub-roga-se nos direitos do credor, mas só cobra de cada cofiador a respectiva quota; a parte do insolvente é rateada.
+P: Sub-rogação || Quota dos cofiadores || Rateio do insolvente
+K: fiança; sub-rogação; regresso
+
+@CC 832
+I: O devedor responde ao fiador pelas perdas e danos que este pagar ou sofrer em razão da fiança.
+P: Ressarcimento integral || Perdas e danos || Regresso contra o devedor
+K: fiança; regresso; perdas e danos
