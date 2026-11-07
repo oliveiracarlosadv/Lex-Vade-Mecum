@@ -1,0 +1,599 @@
+@CC 1675
+I: No cálculo dos aquestos, computa-se o valor das doações feitas sem autorização do outro cônjuge, que pode reivindicar o bem ou receber seu valor.
+P: Doações não autorizadas || Cômputo no monte || Reivindicação ou valor
+K: participação final nos aquestos; doações
+
+@CC 1676
+I: Incorpora-se ao monte o valor dos bens alienados em prejuízo da meação, se o lesado não preferir reivindicá-los.
+P: Alienações lesivas || Reposição do valor || Reivindicação
+K: participação final nos aquestos; meação
+
+@CC 1677
+I: Pelas dívidas posteriores ao casamento, só responde o cônjuge que as contraiu, salvo prova de proveito do outro.
+P: Responsabilidade individual || Prova de proveito || Dívidas posteriores
+K: participação final nos aquestos; dívidas
+
+@CC 1678
+I: Se um cônjuge pagou dívida do outro com bens seus, o valor atualizado é imputado à meação do outro na dissolução.
+P: Pagamento de dívida alheia || Imputação na meação || Atualização
+K: participação final nos aquestos; compensação
+
+@CC 1679
+I: Nos bens adquiridos pelo trabalho conjunto, cada cônjuge tem quota igual.
+P: Trabalho conjunto || Quotas iguais || Condomínio
+K: participação final nos aquestos; trabalho conjunto
+
+@CC 1680
+I: Perante terceiros, os móveis presumem-se do cônjuge devedor, salvo bens de uso pessoal do outro.
+P: Presunção em favor de credores || Uso pessoal excluído || Móveis
+K: participação final nos aquestos; presunção
+
+@CC 1681
+I: Os imóveis são do cônjuge em cujo nome estiverem registrados; impugnada a titularidade, ele deve provar a aquisição regular.
+P: Titularidade registral || Ônus da prova || Impugnação
+K: participação final nos aquestos; imóveis
+
+@CC 1682
+I: Durante o regime, o direito à meação não pode ser renunciado, cedido ou penhorado.
+P: Indisponibilidade da meação || Na vigência do regime || Proteção
+K: participação final nos aquestos; meação
+
+@CC 1683
+I: Na dissolução por separação ou divórcio, os aquestos são apurados na data em que cessou a convivência.
+P: Data da separação de fato || Apuração || Marco temporal
+K: participação final nos aquestos; dissolução
+
+@CC 1684
+I: Se não for possível dividir os bens em natureza, calcula-se o valor para reposição em dinheiro; sem pagamento, os bens podem ser vendidos judicialmente.
+P: Reposição em dinheiro || Avaliação || Venda judicial
+K: participação final nos aquestos; partilha
+
+@CC 1685
+I: Na dissolução por morte, apura-se a meação do sobrevivente e o restante cabe aos herdeiros.
+P: Meação do viúvo || Herança dos herdeiros || Apuração
+K: participação final nos aquestos; morte
+
+@CC 1686
+I: As dívidas de um cônjuge superiores à sua meação não obrigam o outro nem seus herdeiros.
+P: Limite da meação || Proteção do outro cônjuge || Herdeiros
+K: participação final nos aquestos; dívidas
+
+@CC 1687
+I: Na separação convencional de bens, cada cônjuge administra e pode alienar ou gravar livremente seus bens, sem outorga.
+P: Separação convencional || Administração exclusiva || Dispensa de outorga
+K: separação de bens; administração
+
+@CC 1688
+I: Ambos contribuem para as despesas do casal na proporção de seus rendimentos e bens, salvo estipulação no pacto.
+P: Contribuição proporcional || Separação de bens || Pacto em contrário
+K: separação de bens; despesas
+
+@CC 1689
+I: Os pais, no exercício do poder familiar, são usufrutuários e administradores dos bens dos filhos menores.
+P: Usufruto legal || Administração dos bens || Poder familiar
+K: poder familiar; usufruto; bens dos filhos
+
+@CC 1690
+I: Os pais representam os filhos menores de 16 anos e os assistem até a maioridade ou emancipação; havendo divergência, decide o juiz.
+P: Representação e assistência || Decisão conjunta || Divergência judicial
+K: poder familiar; representação
+
+@CC 1691
+I: Os pais não podem alienar ou gravar imóveis dos filhos nem contrair obrigações além da simples administração, salvo necessidade ou interesse evidente, com autorização judicial; os atos irregulares podem ser anulados.
+P: Autorização judicial || Atos de disposição || Anulabilidade
+K: bens dos filhos; autorização judicial
+
+@CC 1692
+I: Havendo conflito de interesses entre pais e filho, o juiz nomeia curador especial a pedido do filho ou do MP.
+P: Curador especial || Colisão de interesses || Proteção do menor
+K: curador especial; conflito de interesses
+
+@CC 1693
+I: Excluem-se do usufruto e da administração dos pais os bens do filho anteriores ao reconhecimento, os ganhos do filho maior de 16 em atividade profissional, os deixados sob condição de exclusão e os herdados quando os pais forem excluídos da sucessão.
+P: Bens excluídos da administração || Ganhos profissionais do maior de 16 || Exclusão por disposição
+K: bens dos filhos; exclusão
+
+@CC 1694
+I: Parentes, cônjuges e companheiros podem pedir uns aos outros alimentos para viver conforme sua condição social, inclusive educação; fixam-se na proporção das necessidades de quem pede e dos recursos de quem paga; se a necessidade resultar de culpa, são apenas os indispensáveis.
+P: Binômio necessidade-possibilidade || Alimentos civis e naturais || Culpa reduz aos indispensáveis
+K: alimentos; necessidade; possibilidade
+
+@CC 1695
+I: Os alimentos são devidos quando quem os pede não tem bens nem pode se sustentar pelo trabalho, e quem os presta pode fornecê-los sem prejuízo do próprio sustento.
+P: Necessidade do alimentando || Possibilidade do alimentante || Sem desfalque do necessário
+K: alimentos; pressupostos
+
+@CC 1696
+I: O direito a alimentos é recíproco entre pais e filhos e se estende a todos os ascendentes, recaindo nos mais próximos. A obrigação dos avós é subsidiária e complementar (Súmula 596 do STJ).
+P: Reciprocidade || Ascendentes mais próximos || Avós: subsidiária e complementar (Súmula 596)
+K: alimentos; ascendentes; alimentos avoengos; Súmula 596 STJ
+
+@CC 1697
+I: Na falta de ascendentes, a obrigação cabe aos descendentes, na ordem da sucessão, e depois aos irmãos, germanos ou unilaterais.
+P: Ordem dos obrigados || Descendentes e irmãos || Subsidiariedade
+K: alimentos; descendentes; irmãos
+
+@CC 1698
+I: Se o parente obrigado em primeiro lugar não puder arcar com tudo, são chamados os de grau imediato; vários obrigados concorrem na proporção de seus recursos e podem ser chamados ao processo.
+P: Complementação por outros parentes || Divisão proporcional || Chamamento ao processo
+K: alimentos; obrigação complementar
+
+@CC 1699
+I: Mudando a situação financeira de quem paga ou recebe, pode-se pedir exoneração, redução ou majoração dos alimentos.
+P: Revisão || Mudança de situação || Cláusula rebus sic stantibus
+K: alimentos; revisão; exoneração
+
+@CC 1700
+I: A obrigação alimentar transmite-se aos herdeiros do devedor, nos limites da herança.
+P: Transmissibilidade || Limite da herança || Dívidas vencidas e vincendas
+K: alimentos; herdeiros
+
+@CC 1701
+I: O alimentante pode pagar pensão ou dar hospedagem e sustento, sem prejuízo da educação do menor; o juiz fixa a forma se as circunstâncias exigirem.
+P: Pensão ou alimentos in natura || Educação do menor || Fixação judicial
+K: alimentos; forma de prestação
+
+@CC 1702
+I: Previa alimentos ao cônjuge inocente e sem recursos na separação litigiosa. Com o fim da discussão de culpa (EC nº 66/2010), os alimentos entre ex-cônjuges seguem a necessidade e a possibilidade e, segundo o STJ, costumam ser temporários.
+P: Texto histórico da culpa || Alimentos entre ex-cônjuges || Caráter transitório
+K: alimentos; ex-cônjuge
+
+@CC 1703
+I: Os pais separados contribuem para a manutenção dos filhos na proporção de seus recursos.
+P: Contribuição proporcional || Filhos || Ambos os genitores
+K: alimentos; filhos
+
+@CC 1704
+I: O ex-cônjuge que vier a precisar de alimentos pode recebê-los do outro; se declarado culpado, só os indispensáveis e se não houver parentes em condições.
+P: Necessidade superveniente || Culpa limita (texto histórico) || Fixação judicial
+K: alimentos; ex-cônjuge
+
+@CC 1705
+I: O filho havido fora do casamento pode acionar o genitor por alimentos, podendo a ação correr em segredo de justiça.
+P: Alimentos ao filho extramatrimonial || Segredo de justiça || Igualdade da filiação
+K: alimentos; filho; segredo de justiça
+
+@CC 1706
+I: Os alimentos provisionais são fixados pelo juiz conforme a lei processual.
+P: Alimentos provisórios || Lei processual || Tutela de urgência
+K: alimentos provisionais
+
+@CC 1707
+I: O credor pode não exercer, mas não renunciar ao direito a alimentos; o crédito não pode ser cedido, compensado ou penhorado. O STJ admite a renúncia entre ex-cônjuges no divórcio.
+P: Irrenunciabilidade || Incessível, incompensável e impenhorável || Renúncia entre ex-cônjuges admitida pelo STJ
+K: alimentos; irrenunciabilidade
+
+@CC 1708
+I: Cessa o dever de alimentos com o casamento, união estável ou concubinato do credor, ou se ele tiver procedimento indigno em relação ao devedor.
+P: Novo relacionamento do credor || Procedimento indigno || Exoneração
+K: alimentos; cessação; exoneração
+
+@CC 1709
+I: O novo casamento do devedor não extingue a obrigação fixada no divórcio.
+P: Novo casamento do devedor || Obrigação mantida || Revisão possível
+K: alimentos; novo casamento
+
+@CC 1710
+I: As prestações alimentícias são atualizadas por índice oficial.
+P: Correção monetária || Índice oficial || Preservação do valor
+K: alimentos; atualização
+
+@CC 1711
+I: Cônjuges ou a entidade familiar podem, por escritura ou testamento, instituir bem de família com até 1/3 do patrimônio líquido, sem afastar a impenhorabilidade legal do imóvel residencial (Lei nº 8.009/1990).
+P: Bem de família voluntário || Limite de 1/3 || Convivência com a Lei nº 8.009/1990
+K: bem de família convencional; impenhorabilidade
+
+@CC 1712
+I: O bem de família é prédio residencial urbano ou rural, com pertenças, destinado ao domicílio familiar, e pode abranger valores mobiliários cuja renda o sustente.
+P: Imóvel residencial || Valores mobiliários || Domicílio familiar
+K: bem de família; objeto
+
+@CC 1713
+I: Os valores mobiliários do bem de família não podem exceder o valor do prédio e devem ser individualizados; podem ser confiados a instituição financeira.
+P: Limite dos valores mobiliários || Individualização || Administração por instituição
+K: bem de família; valores mobiliários
+
+@CC 1714
+I: O bem de família constitui-se pelo registro do título no Registro de Imóveis.
+P: Registro constitutivo || Instituição por cônjuges ou terceiro || Publicidade
+K: bem de família; registro
+
+@CC 1715
+I: O bem de família é isento de execução por dívidas posteriores à instituição, salvo tributos do prédio e despesas de condomínio; o saldo de eventual execução é aplicado em outro bem de família.
+P: Impenhorabilidade relativa || Exceções: tributos e condomínio || Dívidas posteriores
+K: bem de família; impenhorabilidade
+
+@CC 1716
+I: A isenção dura enquanto viver um dos cônjuges ou até a maioridade dos filhos.
+P: Duração da proteção || Cônjuges e filhos menores || Termo
+K: bem de família; duração
+
+@CC 1717
+I: O bem de família não pode ter outro destino nem ser alienado sem consentimento dos interessados e do MP.
+P: Inalienabilidade relativa || Consentimento || Ministério Público
+K: bem de família; alienação
+
+@CC 1718
+I: A liquidação da instituição financeira administradora não atinge os valores do bem de família, que o juiz transfere a outra.
+P: Proteção dos valores || Liquidação da instituição || Transferência
+K: bem de família; instituição financeira
+
+@CC 1719
+I: Comprovada a impossibilidade de manter o bem de família, o juiz pode extingui-lo ou autorizar a sub-rogação em outros bens.
+P: Extinção judicial || Sub-rogação || Impossibilidade
+K: bem de família; sub-rogação
+
+@CC 1720
+I: A administração do bem de família cabe a ambos os cônjuges, salvo disposição; morrendo ambos, ao filho mais velho, se maior, ou ao tutor.
+P: Administração conjunta || Sucessão na administração || Divergência judicial
+K: bem de família; administração
+
+@CC 1721
+I: A dissolução da sociedade conjugal não extingue o bem de família; com a morte de um cônjuge, o sobrevivente pode pedir a extinção se for o único bem do casal.
+P: Subsistência após a dissolução || Extinção a pedido do viúvo || Único bem
+K: bem de família; dissolução
+
+@CC 1722
+I: O bem de família se extingue com a morte de ambos os cônjuges e a maioridade dos filhos, se não sujeitos a curatela.
+P: Extinção natural || Morte e maioridade || Curatela
+K: bem de família; extinção
+
+@CC 1723
+I: É entidade familiar a união estável configurada pela convivência pública, contínua e duradoura com objetivo de constituir família; não se forma se houver impedimento matrimonial, salvo separação de fato. O STF reconheceu a união homoafetiva (ADI 4.277 e ADPF 132).
+P: Requisitos da união estável || Impedimentos e separação de fato || União homoafetiva
+K: união estável; entidade familiar; união homoafetiva
+
+@CC 1724
+I: As relações entre companheiros seguem os deveres de lealdade, respeito, assistência e guarda, sustento e educação dos filhos.
+P: Deveres dos companheiros || Lealdade e assistência || Filhos
+K: união estável; deveres
+
+@CC 1725
+I: Salvo contrato escrito, aplica-se à união estável o regime da comunhão parcial; para o STJ, a separação obrigatória do maior de 70 anos também se aplica à união estável (afastável por escritura, conforme o Tema 1.236 do STF).
+P: Comunhão parcial supletiva || Contrato de convivência || Maior de 70 anos
+K: união estável; regime de bens; contrato de convivência
+
+@CC 1726
+I: A união estável pode converter-se em casamento por pedido dos companheiros e assento no Registro Civil; hoje a conversão também pode ser feita no cartório.
+P: Conversão em casamento || Registro Civil || Via extrajudicial
+K: união estável; conversão em casamento
+
+@CC 1727
+I: As relações não eventuais entre pessoas impedidas de casar constituem concubinato, que não gera os efeitos da união estável. O STF (Temas 526 e 529) não admite reconhecer união estável paralela a casamento ou união anterior nem ratear pensão com a concubina.
+P: Concubinato || Impedimento matrimonial || Sem efeitos de família (Temas 526 e 529)
+K: concubinato; uniões paralelas; Tema 529
+
+@CC 1728
+I: Os filhos menores são postos sob tutela com a morte ou ausência dos pais ou se estes perderem o poder familiar.
+P: Hipóteses de tutela || Morte ou ausência || Perda do poder familiar
+K: tutela; menores
+
+@CC 1729
+I: O direito de nomear tutor cabe aos pais, em conjunto, por testamento ou documento autêntico.
+P: Tutela testamentária || Nomeação conjunta || Forma
+K: tutela; nomeação
+
+@CC 1730
+I: É nula a nomeação de tutor por pai ou mãe que não tinha o poder familiar ao morrer.
+P: Nulidade || Sem poder familiar || Nomeação de tutor
+K: tutela; nulidade
+
+@CC 1731
+I: Sem tutor nomeado, a tutela cabe aos parentes consanguíneos: ascendentes (os mais próximos) e colaterais até o terceiro grau, cabendo ao juiz escolher o mais apto ao menor.
+P: Tutela legítima || Ordem dos parentes || Escolha judicial
+K: tutela legítima
+
+@CC 1732
+I: O juiz nomeia tutor idôneo residente no domicílio do menor na falta, exclusão ou escusa dos tutores testamentários ou legítimos, ou se removidos.
+P: Tutela dativa || Idoneidade || Domicílio do menor
+K: tutela dativa
+
+@CC 1733
+I: Irmãos órfãos recebem um só tutor; nomeados vários sem precedência, a tutela é dos primeiros na ordem; quem deixa bens a menor pode nomear curador especial para eles.
+P: Unicidade da tutela || Ordem de nomeação || Curador especial dos bens
+K: tutela; irmãos órfãos
+
+@CC 1734
+I: Crianças e adolescentes com pais desconhecidos, falecidos ou destituídos recebem tutor nomeado pelo juiz ou são colocados em família substituta, conforme o ECA.
+P: Tutela ou família substituta || ECA || Proteção integral
+K: tutela; família substituta; ECA
+
+@CC 1735
+I: Não podem ser tutores quem não tem livre administração dos bens, quem tem obrigações ou demandas com o menor, inimigos dele ou dos pais, excluídos pelos pais, condenados por certos crimes, pessoas de mau procedimento e quem exerce função pública incompatível.
+P: Incapacidade para a tutela || Conflito de interesses || Idoneidade moral
+K: tutela; impedimentos
+
+@CC 1736
+I: Podem escusar-se da tutela, entre outros, maiores de 60 anos, quem tem mais de três filhos, enfermos, quem mora longe, quem já exerce tutela ou curatela e militares em serviço. A escusa de "mulheres casadas" é tida como incompatível com a igualdade constitucional.
+P: Escusas legais || Idade e encargos || Igualdade de gênero
+K: tutela; escusa
+
+@CC 1737
+I: Não parente não é obrigado a aceitar a tutela se houver parente idôneo no lugar.
+P: Escusa do não parente || Parente idôneo || Subsidiariedade
+K: tutela; escusa
+
+@CC 1738
+I: A escusa deve ser apresentada em 10 dias da designação, ou do motivo superveniente, sob pena de renúncia ao direito.
+P: Prazo de 10 dias || Renúncia tácita || Motivo superveniente
+K: tutela; escusa; prazo
+
+@CC 1739
+I: Não admitida a escusa, o nomeado exerce a tutela enquanto pende o recurso e responde pelos prejuízos ao menor.
+P: Exercício provisório || Recurso || Responsabilidade
+K: tutela; escusa
+
+@CC 1740
+I: Cabe ao tutor dirigir a educação do menor, defendê-lo e prestar-lhe alimentos, pedir providências ao juiz quando necessário e cumprir os deveres dos pais, ouvindo o menor maior de 12 anos.
+P: Deveres pessoais do tutor || Educação e alimentos || Oitiva do menor
+K: tutor; deveres
+
+@CC 1741
+I: O tutor administra os bens do tutelado sob inspeção do juiz, com zelo e boa-fé.
+P: Administração fiscalizada || Proveito do menor || Zelo e boa-fé
+K: tutor; administração
+
+@CC 1742
+I: O juiz pode nomear protutor para fiscalizar os atos do tutor.
+P: Protutor || Fiscalização || Controle
+K: protutor; tutela
+
+@CC 1743
+I: Se os bens exigirem conhecimento técnico ou forem complexos ou distantes, o tutor pode delegar a gestão parcial, com aprovação judicial.
+P: Delegação parcial || Aprovação judicial || Bens complexos
+K: tutela; delegação
+
+@CC 1744
+I: O juiz responde direta e pessoalmente se não nomear tutor ou o fizer tardiamente, e subsidiariamente se não exigir garantia ou não o remover quando suspeito.
+P: Responsabilidade do juiz || Direta ou subsidiária || Omissões
+K: tutela; responsabilidade do juiz
+
+@CC 1745
+I: Os bens do menor são entregues ao tutor por termo especificado; se o patrimônio for considerável, o juiz pode exigir caução.
+P: Termo de entrega || Caução || Patrimônio considerável
+K: tutela; caução
+
+@CC 1746
+I: O menor com bens é sustentado e educado à custa deles, conforme o arbitramento do juiz.
+P: Sustento com os próprios bens || Arbitramento judicial || Rendimentos
+K: tutela; sustento
+
+@CC 1747
+I: Compete ao tutor representar o menor até 16 anos e assisti-lo depois, receber rendas e pensões, fazer as despesas de subsistência, alienar bens destinados à venda e promover o arrendamento de imóveis.
+P: Representação e assistência || Administração ordinária || Atos sem autorização
+K: tutor; atribuições
+
+@CC 1748
+I: Com autorização judicial, o tutor pode pagar dívidas, aceitar heranças e doações com encargo, transigir, vender móveis e imóveis e propor ou defender ações.
+P: Atos dependentes de autorização || Transação e venda || Ações judiciais
+K: tutor; autorização judicial
+
+@CC 1749
+I: Mesmo com autorização, o tutor não pode, sob pena de nulidade, adquirir bens do menor, dispor gratuitamente de seus bens nem se tornar cessionário de crédito contra ele.
+P: Atos vedados || Nulidade || Conflito de interesses
+K: tutor; vedações
+
+@CC 1750
+I: Imóveis do tutelado só podem ser vendidos com manifesta vantagem, prévia avaliação e aprovação judicial.
+P: Venda de imóveis || Avaliação judicial || Manifesta vantagem
+K: tutela; venda de imóveis
+
+@CC 1751
+I: Antes de assumir, o tutor deve declarar o que o menor lhe deve, sob pena de não poder cobrar durante a tutela.
+P: Declaração de créditos || Sanção || Transparência
+K: tutor; créditos
+
+@CC 1752
+I: O tutor responde por prejuízos culposos ou dolosos e tem direito ao reembolso das despesas e a remuneração proporcional; o protutor também é remunerado.
+P: Responsabilidade do tutor || Reembolso || Remuneração
+K: tutor; responsabilidade; remuneração
+
+@CC 1753
+I: O tutor não pode reter dinheiro do tutelado além do necessário; os valores e bens são depositados em banco oficial ou aplicados conforme o juiz determinar.
+P: Depósito do dinheiro || Banco oficial || Aplicação determinada
+K: tutela; depósito
+
+@CC 1754
+I: Os valores depositados só são retirados com ordem judicial, para despesas do menor, compra de imóveis e títulos, entrega ao herdeiro ou na emancipação ou maioridade.
+P: Levantamento por ordem judicial || Finalidades legais || Proteção do patrimônio
+K: tutela; levantamento
+
+@CC 1755
+I: O tutor deve prestar contas, ainda que os pais o tenham dispensado.
+P: Prestação de contas obrigatória || Dispensa ineficaz || Controle
+K: tutela; prestação de contas
+
+@CC 1756
+I: Ao fim de cada ano, o tutor submete ao juiz o balanço, que, aprovado, é anexado ao inventário.
+P: Balanço anual || Aprovação judicial || Inventário
+K: tutela; balanço
+
+@CC 1757
+I: O tutor presta contas a cada 2 anos, quando deixar a tutela ou quando o juiz determinar, com audiência dos interessados e do MP.
+P: Contas bienais || Ao deixar a tutela || Ministério Público
+K: tutela; prestação de contas
+
+@CC 1758
+I: Finda a tutela, a quitação do menor só vale após aprovadas as contas pelo juiz.
+P: Quitação condicionada || Aprovação judicial || Responsabilidade subsiste
+K: tutela; quitação
+
+@CC 1759
+I: Na morte, ausência ou interdição do tutor, as contas são prestadas por seus herdeiros ou representantes.
+P: Herdeiros do tutor || Prestação de contas || Continuidade
+K: tutela; herdeiros
+
+@CC 1760
+I: São creditadas ao tutor as despesas justificadas e proveitosas ao menor.
+P: Despesas justificadas || Proveito do menor || Crédito do tutor
+K: tutela; despesas
+
+@CC 1761
+I: As despesas da prestação de contas são pagas pelo tutelado.
+P: Custas da prestação de contas || Tutelado paga || Interesse do menor
+K: tutela; despesas
+
+@CC 1762
+I: O alcance do tutor e o saldo contra o tutelado são dívidas de valor e vencem juros desde o julgamento definitivo das contas.
+P: Dívida de valor || Juros desde o julgamento || Reciprocidade
+K: tutela; alcance; juros
+
+@CC 1763
+I: Cessa a tutela com a maioridade ou emancipação, ou quando o menor passa ao poder familiar por reconhecimento ou adoção.
+P: Fim da tutela || Maioridade e emancipação || Reconhecimento ou adoção
+K: tutela; cessação
+
+@CC 1764
+I: Cessam as funções do tutor pelo fim do prazo, escusa legítima ou remoção.
+P: Término das funções || Escusa || Remoção
+K: tutor; cessação
+
+@CC 1765
+I: O tutor é obrigado a servir por 2 anos, podendo continuar se quiser e o juiz julgar conveniente.
+P: Prazo de 2 anos || Prorrogação || Conveniência
+K: tutor; prazo
+
+@CC 1766
+I: O tutor negligente, prevaricador ou que se torne incapaz é destituído.
+P: Destituição || Negligência ou prevaricação || Incapacidade
+K: tutor; destituição
+
+@CC 1767
+I: Estão sujeitos a curatela quem não pode exprimir sua vontade por causa transitória ou permanente, os ébrios habituais e viciados em tóxicos e os pródigos. Desde o Estatuto da Pessoa com Deficiência, a curatela é medida extraordinária, proporcional e restrita a atos patrimoniais.
+P: Hipóteses de curatela || Medida excepcional || Atos patrimoniais (Lei nº 13.146/2015)
+K: curatela; interdição; Estatuto da Pessoa com Deficiência
+
+@CC 1774
+I: Aplicam-se à curatela as regras da tutela, com as modificações seguintes.
+P: Remissão à tutela || Modificações || Supletividade
+K: curatela; tutela
+
+@CC 1775
+I: O cônjuge ou companheiro não separado é curador legal do outro; na falta, o pai ou a mãe, e depois o descendente mais apto; sem eles, o juiz escolhe.
+P: Ordem legal de curadores || Cônjuge ou companheiro || Escolha judicial
+K: curatela; curador
+
+@CC 1775-A
+I: Na curatela de pessoa com deficiência, o juiz pode estabelecer curatela compartilhada entre mais de uma pessoa.
+P: Curatela compartilhada || Pessoa com deficiência || Corresponsabilidade
+K: curatela compartilhada
+
+@CC 1777
+I: As pessoas sem condição de exprimir vontade devem receber apoio para preservar a convivência familiar e comunitária, evitando-se o recolhimento em instituição que as afaste desse convívio.
+P: Convivência familiar e comunitária || Desinstitucionalização || Apoio
+K: curatela; convivência familiar
+
+@CC 1778
+I: A autoridade do curador estende-se à pessoa e aos bens dos filhos menores do curatelado.
+P: Curatela prorrogada || Filhos do curatelado || Extensão
+K: curatela; filhos
+
+@CC 1779
+I: Dá-se curador ao nascituro se o pai morrer durante a gravidez e a mãe não tiver o poder familiar; se a mãe for interdita, seu curador também é o do nascituro.
+P: Curatela do nascituro || Morte do pai || Proteção
+K: curatela; nascituro
+
+@CC 1781
+I: Aplicam-se à curatela as regras do exercício da tutela, com as restrições desta seção.
+P: Remissão || Exercício da curatela || Restrições
+K: curatela; exercício
+
+@CC 1782
+I: A interdição do pródigo só o impede de, sem curador, emprestar, transigir, dar quitação, alienar, hipotecar, demandar e praticar atos que não sejam de mera administração.
+P: Curatela do pródigo limitada || Atos de disposição || Mera administração livre
+K: pródigo; curatela
+
+@CC 1783
+I: O curador cônjuge casado em comunhão universal não precisa prestar contas, salvo determinação judicial.
+P: Dispensa de contas || Comunhão universal || Determinação judicial
+K: curatela; prestação de contas
+
+@CC 1783-A
+I: Na tomada de decisão apoiada, a pessoa com deficiência escolhe ao menos dois apoiadores de confiança para ajudá-la em decisões da vida civil, com termo homologado pelo juiz, preservando sua capacidade.
+P: Alternativa à curatela || Dois apoiadores || Homologação judicial
+K: tomada de decisão apoiada; pessoa com deficiência
+
+@CC 1784
+I: Aberta a sucessão, a herança transmite-se imediatamente aos herdeiros legítimos e testamentários (princípio da saisine).
+P: Saisine || Transmissão automática || Momento da morte
+K: sucessão; saisine; herança
+
+@CC 1785
+I: A sucessão abre-se no lugar do último domicílio do falecido.
+P: Lugar da abertura || Último domicílio || Competência do inventário
+K: sucessão; domicílio
+
+@CC 1786
+I: A sucessão ocorre por lei ou por disposição de última vontade.
+P: Sucessão legítima || Sucessão testamentária || Coexistência
+K: sucessão legítima; sucessão testamentária
+
+@CC 1787
+I: A sucessão e a legitimação para suceder regem-se pela lei vigente ao tempo da abertura.
+P: Lei da data do óbito || Direito intertemporal || Tempus regit actum
+K: sucessão; lei aplicável
+
+@CC 1788
+I: Sem testamento, a herança vai aos herdeiros legítimos; também os bens não abrangidos pelo testamento e quando este caducar ou for nulo.
+P: Sucessão legítima supletiva || Bens não testados || Testamento caduco ou nulo
+K: sucessão legítima
+
+@CC 1789
+I: Havendo herdeiros necessários, o testador só pode dispor da metade da herança (legítima).
+P: Legítima de 50% || Herdeiros necessários || Parte disponível
+K: legítima; herdeiros necessários; parte disponível
+
+@CC 1790
+I: Previa regras próprias e inferiores para a sucessão do companheiro. O STF (Tema 809) declarou o artigo inconstitucional: aplica-se ao companheiro o regime do cônjuge do art. 1.829.
+P: Dispositivo inconstitucional (Tema 809) || Equiparação ao cônjuge || Art. 1.829
+K: sucessão do companheiro; Tema 809; inconstitucionalidade
+
+@CC 1791
+I: A herança é um todo unitário até a partilha, regida pelas regras do condomínio quanto à posse e propriedade.
+P: Indivisibilidade da herança || Condomínio hereditário || Até a partilha
+K: herança; indivisibilidade; condomínio
+
+@CC 1792
+I: O herdeiro não responde por encargos além das forças da herança, cabendo-lhe provar o excesso, salvo inventário que o demonstre (benefício de inventário).
+P: Limite das forças da herança || Ônus da prova do excesso || Inventário
+K: herança; responsabilidade do herdeiro
+
+@CC 1793
+I: O direito à sucessão aberta e o quinhão podem ser cedidos por escritura pública; é ineficaz a cessão de bem singular da herança sem autorização judicial.
+P: Cessão de direitos hereditários || Escritura pública || Bem singular exige autorização
+K: cessão de direitos hereditários
+
+@CC 1794
+I: O coerdeiro não pode ceder sua quota a estranho se outro coerdeiro a quiser pelo mesmo preço.
+P: Preferência dos coerdeiros || Tanto por tanto || Cessão a estranho
+K: cessão de direitos hereditários; preferência
+
+@CC 1795
+I: O coerdeiro preterido pode, depositando o preço, haver para si a quota cedida a estranho em até 180 dias da transmissão.
+P: Prazo de 180 dias || Depósito do preço || Vários coerdeiros: proporção
+K: cessão de direitos hereditários; preferência
+
+@CC 1796
+I: O inventário deve ser instaurado em 30 dias da abertura da sucessão, no lugar desta; o CPC fixa 2 meses (art. 611).
+P: Prazo para abrir inventário || Lugar da sucessão || Prazo do CPC
+K: inventário; prazo
+
+@CC 1797
+I: Até o compromisso do inventariante, administra a herança, sucessivamente, o cônjuge ou companheiro convivente, o herdeiro na posse, o testamenteiro ou pessoa de confiança do juiz (administrador provisório).
+P: Administrador provisório || Ordem legal || Até o inventariante
+K: herança; administrador provisório
+
+@CC 1798
+I: Podem suceder as pessoas nascidas ou já concebidas no momento da abertura da sucessão.
+P: Legitimação para suceder || Nascituro incluído || Momento do óbito
+K: vocação hereditária; legitimação
+
+@CC 1799
+I: Na sucessão testamentária podem ainda suceder filhos ainda não concebidos de pessoas indicadas (prole eventual), pessoas jurídicas e fundações a constituir.
+P: Prole eventual || Pessoas jurídicas || Fundações futuras
+K: sucessão testamentária; prole eventual
+
+@CC 1800
+I: Os bens da prole eventual ficam com curador nomeado pelo juiz; se o herdeiro não for concebido em 2 anos, os bens vão aos herdeiros legítimos, salvo disposição do testador.
+P: Curador dos bens || Prazo de 2 anos || Destino aos legítimos
+K: prole eventual; curador
