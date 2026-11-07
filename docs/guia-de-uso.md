@@ -98,15 +98,16 @@ Todo artigo tem endereço próprio, por exemplo:
 
 Quem abrir o link cai direto no artigo, destacado.
 
-## 6. Marca-texto, favoritos, perfil e backup
+## 6. Marca-texto, favoritos, perfil, progresso de leitura e backup
 
 Tudo o que você marca fica salvo **neste navegador**, sem cadastro e sem envio a servidor, enquanto os dados do site não forem apagados (limpar o histórico ou os dados de navegação apaga também as marcações). Para não perder nada, ou para levar tudo a outro aparelho, use o backup.
 
 - **Marca-texto:** selecione um trecho do texto da lei e toque em **Marcar** (primeiro botão da barra de seleção); escolha a cor (amarelo, verde, azul ou rosa). O trecho fica colorido sempre que você abrir a lei, e o artigo ganha um ponto ao lado do número. Tocar num trecho marcado permite **mudar a cor**, **copiar com a fonte** ou **remover a marcação**. Também dá para selecionar um trecho já marcado e tocar em **Desmarcar**, que aparece na barra sempre que a seleção inclui uma marcação. No celular, a barra fica fixa na parte de baixo da tela, ocupando a largura toda.
+- **Onde parei (progresso de leitura):** para estudar uma lei aos poucos, toque em **Parei aqui** (ícone de marcador) no artigo onde parar. O início da lei passa a mostrar uma barra com o **percentual lido** (posição do artigo no total de dispositivos), o artigo onde você parou e o botão **Continuar leitura**, que leva direto a ele, destacado com "Você parou aqui". O percentual também aparece ao lado do nome da lei no menu e na seção **Continuar lendo** da página inicial. Cada lei guarda um ponto de leitura; tocar em **Parei aqui** em outro artigo atualiza o ponto. Para recomeçar, apague o ponto em **★ Perfil, favoritos e marcações › Progresso de leitura**.
 - **Favoritar lei:** dentro da lei, toque em **☆ Favoritar**. As favoritas recebem ★ no menu e aparecem em **Suas favoritas**, no topo da página inicial.
 - **Seu perfil:** em **★ Perfil, favoritos e marcações** (menu lateral), informe seu **nome** e seu **@** nas redes sociais e toque em **Salvar perfil**. Eles passam a sair no rodapé dos **stories** e das **imagens** que você gerar, como "Compartilhado por Maria Souza · @mariasouza.adv". Deixe em branco para não aparecer. Se você gerar um story sem ter salvo o @, o site pergunta o @ (e o nome, opcional) antes de gerar e guarda no perfil; **Gerar sem @** pula a pergunta até a próxima visita. No story, o @ aparece em destaque, numa linha própria, logo abaixo de "Compartilhado por".
 - **Lista de marcações:** a mesma página mostra as leis favoritas e todos os trechos marcados, agrupados por lei, com link direto para cada artigo e botão ✕ para remover.
-- **Fazer backup (.json):** baixa um arquivo `lex-vade-mecum-backup-AAAA-MM-DD.json` com o perfil, as favoritas e as marcações.
+- **Fazer backup (.json):** baixa um arquivo `lex-vade-mecum-backup-AAAA-MM-DD.json` com o perfil, as favoritas, as marcações e o progresso de leitura.
 - **Importar backup:** escolha o arquivo de backup. Se já houver dados no navegador, você decide entre **juntar** (OK) ou **substituir** (Cancelar).
 - **Apagar tudo:** remove perfil, favoritas e marcações deste navegador (faça backup antes, se quiser guardar).
 

@@ -115,7 +115,8 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | Ir à expressão buscada | Resultados levam `?q=termos`; `irPara()` rola até o primeiro `<mark>` do texto oficial (ou da análise), a um terço da altura da tela, e o destaca com `mark.foco` |
 | Marca-texto | Botão **Marcar** da barra de seleção. `trechosDaSelecao()` divide a seleção por parágrafo do texto oficial (`.oficial p`) e guarda, para cada parte: lei, dispositivo (`uid`), índice do parágrafo, posição inicial e final no `textContent` e o próprio trecho; partes de uma mesma seleção compartilham o grupo `g`. `aplicarMarcas()` remove e redesenha os `<mark class="mt">` a cada abertura da lei; `localizar()` confere o trecho na posição salva e, se o texto mudou, procura-o no mesmo dispositivo. Clique numa marca abre `menuMarca()` (cor, copiar, remover) |
 | Favoritos e perfil | `alternarFavorita()` (botão ☆ na lei; ★ no menu e na página inicial). O perfil (`nome`, `@`) é saneado por `limparPerfil()` e entra no rodapé do story e da imagem via `linhaPerfil()` ("Compartilhado por …") |
-| Armazenamento | `localStorage['lex-dados']` = `{versao, perfil, favoritos[], marcas[]}`; cor preferida em `lex-cor`. Leitura e gravação sempre com `try/catch` (modo privado ou cota cheia mostram aviso). Nada é enviado a servidor |
+| Progresso de leitura | Botão `data-acao="parei"` em cada dispositivo chama `marcarLeitura()`, que grava `dados.leitura[lei] = {uid, idx, total, rot, em}`; `pctLeitura()` = (idx + 1) / total. `aplicarLeitura()` desenha a barra em `#progLei`, marca `.dispositivo.parei` e troca o rótulo para "Você parou aqui"; `blocoLeituras()` e `listaLeituras()` mostram a lista na página inicial e em `#/marcacoes`; o menu exibe o percentual. Na importação, prevalece o ponto mais recente (`em`) |
+| Armazenamento | `localStorage['lex-dados']` = `{versao, perfil, favoritos[], marcas[], leitura{}}`; cor preferida em `lex-cor`. Leitura e gravação sempre com `try/catch` (modo privado ou cota cheia mostram aviso). Nada é enviado a servidor |
 | Backup | `exportarBackup()` gera `lex-vade-mecum-backup-AAAA-MM-DD.json` (`app: "Lex Vade Mecum"`, `tipo: "backup"`); `importarBackup()` valida o arquivo e cada marcação, e junta (sem duplicar por `id`) ou substitui. Página `#/marcacoes` |
 | Desmarcar e @ no story | `marcasNaSelecao()` mostra o botão **Desmarcar** quando a seleção cruza `mark.mt`; `desmarcarSelecao()` remove os grupos. `pedirArrobaEGerar()` abre `#janelaArroba` antes do story quando não há @ salvo; o story desenha "Compartilhado por [nome]" e o @ em linha própria (50 px) |
 | Barra de seleção | Aparece em `selectionchange` dentro do conteúdo; no celular fica fixa embaixo para não colidir com o menu nativo |
@@ -159,6 +160,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 - [ ] Links diretos: `#/constituicao-federal/art-5`, `#/cpc/art-1-035`, `#/tst-precedentes/tema-75`.
 - [ ] Busca: `dano moral` (todas), `"direito adquirido"`, `art 5`, `tema 75`, `adct 10`.
 - [ ] Compartilhar artigo e seleção; Copiar; Imprimir artigo e lei; Imagem.
+- [ ] Parei aqui: barra e percentual no início da lei, Continuar leitura, percentual no menu e Continuar lendo na página inicial.
 - [ ] Marcar trecho (inclusive de dois parágrafos), recarregar a página e conferir; mudar cor e remover; favoritar lei; salvar perfil e gerar Story; backup e importação.
 - [ ] Tema escuro; largura de celular (375 px) e de computador.
 - [ ] Cópia do Drive abre com dois cliques (sem servidor).
@@ -170,6 +172,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 06/11/2026 | Primeira versão: menu de leis, sumário, busca, diagramação de livro, tema escuro, página Sobre, títulos dos temas do TST |
 | 06/11/2026 | Nova busca: índice com radicais, ranking por relevância, sugestões ao digitar, correção de digitação, filtros por lei e pré-carregamento |
 | 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
+| 06/11/2026 | Código Civil publicado; progresso de leitura (Parei aqui, percentual, Continuar leitura) salvo no navegador e no backup |
 | 06/11/2026 | Barra de seleção cabe na tela do celular (ícone sobre rótulo, largura total); botão Desmarcar; story pede o @ quando não há perfil e o destaca no rodapé |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |

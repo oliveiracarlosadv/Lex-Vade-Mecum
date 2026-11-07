@@ -253,6 +253,26 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 .grade-backup{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0}
 @media print{mark.mt{background:transparent!important;text-decoration:underline;text-decoration-color:#999}}
 
+.progresso{max-width:36rem;margin:10px auto 0;font-family:var(--ui);font-size:13.5px;color:var(--tinta2)}
+.progresso:empty{display:none}
+.prog-linha{display:flex;align-items:center;gap:10px}
+.prog-linha b,.prog-linha em{font-style:normal;color:var(--titulo);white-space:nowrap}
+.barra{flex:1;height:8px;border-radius:999px;background:var(--papel2);border:1px solid var(--fio);overflow:hidden;display:block;min-width:60px}
+.barra span{display:block;height:100%;background:var(--titulo2);border-radius:999px}
+.prog-acoes{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;margin-top:8px}
+.dica-leitura{display:flex;gap:8px;align-items:center;justify-content:center;text-align:center}
+.dica-leitura svg{width:16px;height:16px;flex:none;color:var(--titulo2)}
+.dispositivo.parei{box-shadow:inset 3px 0 0 var(--titulo2);padding-left:10px;margin-left:-13px}
+.dispositivo.parei .acao-parei{color:var(--titulo);border-color:var(--titulo2);background:var(--papel2)}
+.lista-leitura{list-style:none;padding:0;margin:12px auto 18px;max-width:36rem;text-align:left}
+.lista-leitura li{display:flex;gap:10px;align-items:flex-start;border-bottom:1px solid var(--fio);padding:10px 2px}
+.lista-leitura a{flex:1;min-width:0;color:inherit;text-decoration:none;display:flex;flex-direction:column;gap:5px}
+.lista-leitura b{font-family:var(--display);color:var(--titulo);font-size:18px}
+.lista-leitura small{font-family:var(--ui);font-size:12px;color:var(--tinta2)}
+.lista-leitura .x{flex:none;border:0;background:none;color:var(--tinta2);cursor:pointer;font-size:18px;padding:2px 6px}
+.lei .pct{color:var(--titulo2)}
+@media print{.progresso{display:none!important}}
+
 /* ---------- Início, busca e Sobre ---------- */
 .capa{text-align:center}
 .capa img{width:min(420px, 80%);height:auto;margin:6px auto 10px;display:block}
@@ -286,6 +306,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   .busca select{display:none}
 }
 @media (max-width:600px){
+  .dispositivo.parei{margin-left:-6px;padding-left:6px}
   .topo{gap:8px;padding:8px 10px}
   .marca .nome{display:none}
   .busca input[type=search]{font-size:16px}
@@ -511,6 +532,7 @@ function blocoDispositivo(id, u, casa) {
       <button class="acao" data-acao="compartilhar" title="Enviar o texto e o link deste dispositivo">${ICONE.compartilhar}Compartilhar</button>
       <button class="acao" data-acao="imprimir" title="Imprimir só este dispositivo">${ICONE.imprimir}Imprimir</button>
       <button class="acao" data-acao="imagem" title="Gerar uma imagem deste dispositivo">${ICONE.imagem}Imagem</button>
+      <button class="acao acao-parei" data-acao="parei" title="Marcar este artigo como o ponto onde você parou de ler">${ICONE.marcador}<span>Parei aqui</span></button>
     </div>${campos}
     <div class="oficial texto">${texto}</div>${alt}
     <details class="analise" open><summary>Análise do dispositivo</summary><div class="md">${md(u.analise)}</div></details>
@@ -519,7 +541,7 @@ function blocoDispositivo(id, u, casa) {
 /* ---------- Telas ---------- */
 let atual = null;
 function desenharMenu() {
-  $('#listaLeis').innerHTML = leis.map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}</small></button>`).join('');
+  $('#listaLeis').innerHTML = leis.map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`).join('');
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
   $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
@@ -558,6 +580,7 @@ async function mostrarLei(id, alvo, q) {
     <h1 class="titulo-obra">${esc(d.titulo || lei.nome)}</h1>
     <div class="meta-lei"><span>${esc(lei.numero)}</span><span>Publicação: ${esc(lei.data)}</span>${lei.conferido ? `<span>Conferido com a fonte oficial em ${esc(lei.conferido)}</span>` : ''}${lei.oficial ? `<a href="${lei.oficial}" target="_blank" rel="noopener">Texto oficial ↗</a>` : ''}</div>
     <div class="ferr"><button class="btn fav" id="favLei"></button><button class="btn" id="tgAn">Ocultar análises</button><button class="btn" id="imprLei" title="Imprimir a lei inteira (as análises seguem a opção ao lado)">Imprimir lei</button><a class="btn" href="${lei.arquivo}" target="_blank" rel="noopener">Arquivo .md</a></div>
+    <div class="progresso" id="progLei"></div>
     <div class="vinheta">❦</div>`;
   h += `<nav class="chips" aria-label="Informações sobre a lei">${d.antes.map((s) => `<button class="chip" data-secao="${slug(s.titulo)}">${esc(s.titulo)}</button>`).join('')}</nav>`;
   h += `<section class="parte" id="${id}--texto"><h2>Texto da Lei</h2>` + d.unidades.map((u) => blocoDispositivo(id, u, casa)).join('<div class="sep">·  ·  ·</div>') + '</section>';
@@ -568,6 +591,7 @@ async function mostrarLei(id, alvo, q) {
   const rot = () => (tg.textContent = document.body.classList.contains('oculta-analises') ? 'Mostrar análises' : 'Ocultar análises');
   tg.onclick = () => { document.body.classList.toggle('oculta-analises'); rot(); }; rot();
   $('#imprLei').onclick = () => window.print();
+  aplicarLeitura(id);
   desenharFav(id); $('#favLei').onclick = () => { alternarFavorita(id); desenharFav(id); };
   aplicarMarcas(id);
   irPara(id, alvo);
@@ -617,6 +641,7 @@ function inicio() {
     ${dados.perfil.nome ? `<p class="lema">Olá, ${esc(dados.perfil.nome.split(' ')[0])}!</p>` : ''}
     <p class="lema">Leis brasileiras com o texto oficial sempre atualizado e a análise de cada artigo, reunidas para consulta.</p>
     <div class="vinheta">❦</div>
+    ${blocoLeituras()}
     ${blocoFavoritas()}
     <h2 class="titulo-indice">Leis disponíveis</h2>
     <ol class="indice">${leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
@@ -665,6 +690,7 @@ const ICONE = {
   email: svg('<rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 6l-10 7L2 6"/>'),
   link: svg('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
   copiar: svg('<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>'),
+  marcador: svg('<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>'),
   mais: svg('<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/>'),
 };
 function urlDe(hash) { return (location.protocol.startsWith('http') ? location.href.split('#')[0].split('?')[0] : SITE) + hash; }
@@ -964,6 +990,7 @@ function ligarAcoes() {
     if (b.dataset.acao === 'compartilhar') { const pac = pacoteUnidade(uid); if (pac) abrirPopover(b, pac); }
     if (b.dataset.acao === 'imprimir') imprimirUnidade(uid);
     if (b.dataset.acao === 'imagem') { const pac = pacoteUnidade(uid); if (pac) gerarImagem(pac); }
+    if (b.dataset.acao === 'parei') marcarLeitura(uid);
   });
   let t; document.addEventListener('selectionchange', () => { clearTimeout(t); t = setTimeout(posicionarBarraSel, 180); });
   $('#main').addEventListener('scroll', () => { if (!$('#barraSel').hidden) posicionarBarraSel(); fecharFlutuantes(); }, { passive: true });
@@ -991,12 +1018,12 @@ function ligarAcoes() {
    como "não localizada"). */
 const CHAVE_DADOS = 'lex-dados';
 const CORES = ['amarelo', 'verde', 'azul', 'rosa'];
-let dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [] };
+let dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [], leitura: {} };
 let corPadrao = 'amarelo';
 function carregarDados() {
   try {
     const x = JSON.parse(localStorage.getItem(CHAVE_DADOS) || 'null');
-    if (x && typeof x === 'object') dados = { versao: 1, perfil: limparPerfil(x.perfil), favoritos: Array.isArray(x.favoritos) ? x.favoritos : [], marcas: Array.isArray(x.marcas) ? x.marcas : [] };
+    if (x && typeof x === 'object') dados = { versao: 1, perfil: limparPerfil(x.perfil), favoritos: Array.isArray(x.favoritos) ? x.favoritos : [], marcas: Array.isArray(x.marcas) ? x.marcas : [], leitura: limparLeitura(x.leitura) };
     corPadrao = localStorage.getItem('lex-cor') || corPadrao;
   } catch (e) {}
 }
@@ -1170,7 +1197,7 @@ function telaMarcacoes() {
   let h = `<div class="cabecalho-corrido">Lex Vade Mecum · Perfil, favoritos e marcações</div>
     <h1 class="titulo-obra">Perfil, favoritos e marcações</h1>
     <p class="subtitulo">Ficam salvos neste navegador enquanto os dados do site não forem apagados. Faça backup para guardar ou levar a outro aparelho.</p>
-    <div class="grade-backup"><button class="btn prim" id="bkExportar">Fazer backup (.json)</button><button class="btn" id="bkImportar">Importar backup</button>${fav.length || dados.marcas.length ? '<button class="btn" id="bkLimpar">Apagar tudo</button>' : ''}</div>
+    <div class="grade-backup"><button class="btn prim" id="bkExportar">Fazer backup (.json)</button><button class="btn" id="bkImportar">Importar backup</button>${fav.length || dados.marcas.length || Object.keys(dados.leitura).length ? '<button class="btn" id="bkLimpar">Apagar tudo</button>' : ''}</div>
     <div class="vinheta">❦</div>
     <section class="secao"><h2>Seu perfil</h2>
       <p class="aviso-busca">Seu nome e seu @ aparecem no rodapé dos stories e imagens que você gerar (“Compartilhado por …”). Deixe em branco para não aparecer.</p>
@@ -1180,6 +1207,7 @@ function telaMarcacoes() {
         <button class="btn prim" type="submit">Salvar perfil</button>
       </form>
     </section>
+    <section class="secao"><h2>Progresso de leitura</h2>${listaLeituras(true)}</section>
     <section class="secao"><h2>Leis favoritas</h2>`;
   h += fav.length ? `<ol class="indice">${fav.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei"><span class="estrela">★</span>${esc(l.nome)}</span><span class="num-lei">${esc(l.numero)}</span></a></li>`).join('')}</ol>`
     : '<p class="aviso-busca">Nenhuma lei favorita. Abra uma lei e toque em <b>☆ Favoritar</b>.</p>';
@@ -1206,9 +1234,13 @@ function telaMarcacoes() {
   $('#bkExportar').onclick = exportarBackup;
   $('#bkImportar').onclick = () => $('#arqBackup').click();
   if ($('#bkLimpar')) $('#bkLimpar').onclick = () => {
-    if (!confirm('Apagar o perfil, as leis favoritas e os trechos marcados deste navegador? Faça um backup antes, se quiser guardá-los.')) return;
-    dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [] }; salvarDados(); telaMarcacoes();
+    if (!confirm('Apagar o perfil, as leis favoritas, os trechos marcados e o progresso de leitura deste navegador? Faça um backup antes, se quiser guardá-los.')) return;
+    dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [], leitura: {} }; salvarDados(); telaMarcacoes();
   };
+  $('#conteudo').querySelectorAll('[data-recomecar]').forEach((b) => (b.onclick = () => {
+    if (!confirm('Apagar o ponto de leitura desta lei?')) return;
+    delete dados.leitura[b.dataset.recomecar]; salvarDados(); desenharMenu(); telaMarcacoes();
+  }));
   $('#conteudo').querySelectorAll('[data-rem]').forEach((b) => (b.onclick = () => {
     dados.marcas = dados.marcas.filter((x) => x.g !== b.dataset.rem); salvarDados(); telaMarcacoes();
   }));
@@ -1227,19 +1259,73 @@ async function importarBackup(arquivo) {
   const ok = (m) => m && typeof m === 'object' && typeof m.lei === 'string' && typeof m.uid === 'string' && typeof m.t === 'string' && Number.isInteger(m.p) && Number.isInteger(m.ini) && Number.isInteger(m.fim);
   const marcas = x.marcas.filter(ok).map((m) => ({ id: String(m.id || novoId()), g: String(m.g || m.id || novoId()), lei: m.lei, nomeLei: String(m.nomeLei || m.lei), uid: m.uid, p: m.p, ini: m.ini, fim: m.fim, t: m.t, cor: CORES.includes(m.cor) ? m.cor : 'amarelo', em: String(m.em || new Date().toISOString()) }));
   const favs = x.favoritos.filter((f) => typeof f === 'string');
-  const juntar = dados.favoritos.length || dados.marcas.length
+  const juntar = dados.favoritos.length || dados.marcas.length || Object.keys(dados.leitura).length
     ? confirm('Juntar o backup com o que já está salvo neste navegador?\n\nOK = juntar · Cancelar = substituir pelo backup')
     : true;
   const perfilBk = limparPerfil(x.perfil);
+  const leituraBk = limparLeitura(x.leitura);
   if (juntar) {
+    Object.entries(leituraBk).forEach(([k, v]) => { const a = dados.leitura[k]; if (!a || (v.em || '') > (a.em || '')) dados.leitura[k] = v; });
     if (!dados.perfil.nome && !dados.perfil.arroba) dados.perfil = perfilBk;
     const ids = new Set(dados.marcas.map((m) => m.id));
     dados.marcas = dados.marcas.concat(marcas.filter((m) => !ids.has(m.id)));
     dados.favoritos = [...new Set(dados.favoritos.concat(favs))];
-  } else dados = { versao: 1, perfil: perfilBk, favoritos: [...new Set(favs)], marcas };
-  if (salvarDados()) aviso(`Backup importado: ${favs.length} favorita(s) e ${marcas.length} marcação(ões)`);
+  } else dados = { versao: 1, perfil: perfilBk, favoritos: [...new Set(favs)], marcas, leitura: leituraBk };
+  if (salvarDados()) aviso(`Backup importado: ${favs.length} favorita(s), ${marcas.length} marcação(ões) e ${Object.keys(leituraBk).length} leitura(s) em andamento`);
   desenharMenu();
-  if (atual === 'marcacoes') telaMarcacoes(); else if (atual && cache[atual]) aplicarMarcas(atual);
+  if (atual === 'marcacoes') telaMarcacoes(); else if (atual && cache[atual]) { aplicarMarcas(atual); aplicarLeitura(atual); }
+}
+
+/* ---------- Progresso de leitura ----------
+   "Parei aqui" guarda, por lei, o dispositivo onde a pessoa parou; o percentual é a
+   posição desse dispositivo no total da lei. Fica em dados.leitura e entra no backup. */
+function limparLeitura(x) {
+  const out = {};
+  if (x && typeof x === 'object') Object.entries(x).forEach(([k, v]) => {
+    if (v && typeof v === 'object' && typeof v.uid === 'string' && Number.isInteger(v.idx) && Number.isInteger(v.total) && v.total > 0)
+      out[k] = { uid: v.uid, idx: Math.max(0, Math.min(v.idx, v.total - 1)), total: v.total, rot: String(v.rot || ''), em: String(v.em || '') };
+  });
+  return out;
+}
+function pctLeitura(id) {
+  const r = dados.leitura && dados.leitura[id]; if (!r) return null;
+  return Math.max(1, Math.min(100, Math.round(((r.idx + 1) / r.total) * 100)));
+}
+function marcarLeitura(uid) {
+  const d = cache[atual]; const lei = leis.find((l) => l.id === atual); if (!d || !lei) return;
+  const idx = d.unidades.findIndex((u) => u.id === uid); if (idx < 0) return;
+  const u = d.unidades[idx];
+  dados.leitura[atual] = { uid, idx, total: d.unidades.length, rot: u.rotulo, em: new Date().toISOString() };
+  if (salvarDados()) aviso(`Leitura marcada em ${u.rotulo}: ${pctLeitura(atual)}% de ${siglaLei(atual)}`);
+  aplicarLeitura(atual); desenharMenu();
+}
+function barra(p) { return `<span class="barra" role="progressbar" aria-valuenow="${p}" aria-valuemin="0" aria-valuemax="100"><span style="width:${p}%"></span></span>`; }
+function aplicarLeitura(id) {
+  document.querySelectorAll('#conteudo .dispositivo.parei').forEach((a) => a.classList.remove('parei'));
+  document.querySelectorAll('#conteudo .acao-parei span').forEach((s) => (s.textContent = 'Parei aqui'));
+  const box = $('#progLei'); const r = dados.leitura[id]; const d = cache[id];
+  if (r && d) {
+    const u = d.unidades.find((x) => x.id === r.uid) || d.unidades[r.idx];
+    const el = u && document.getElementById(`${id}--${u.id}`);
+    if (el) { el.classList.add('parei'); const s = el.querySelector('.acao-parei span'); if (s) s.textContent = 'Você parou aqui'; }
+  }
+  if (!box) return;
+  if (!r) { box.innerHTML = `<span class="dica-leitura">${ICONE.marcador}Para acompanhar seus estudos, toque em <b>Parei aqui</b> no artigo onde parar a leitura.</span>`; return; }
+  const p = pctLeitura(id);
+  box.innerHTML = `<div class="prog-linha">${barra(p)}<b>${p}% lido</b></div>
+    <div class="prog-acoes"><span>Você parou em <b>${esc(r.rot || r.uid)}</b> (${r.idx + 1} de ${r.total})</span>
+    <a class="btn prim" href="#/${id}/${r.uid}">Continuar leitura</a></div>`;
+}
+function listaLeituras(comAcoes) {
+  const ls = leis.filter((l) => dados.leitura[l.id]);
+  if (!ls.length) return comAcoes ? '<p class="aviso-busca">Nenhuma leitura em andamento. Abra uma lei e toque em <b>Parei aqui</b> no artigo onde parar.</p>' : '';
+  return `<ul class="lista-leitura">${ls.map((l) => { const r = dados.leitura[l.id]; const p = pctLeitura(l.id); return `<li>
+    <a href="#/${l.id}/${r.uid}"><b>${esc(l.nome)}</b><span class="prog-linha">${barra(p)}<em>${p}%</em></span><small>Parou em ${esc(r.rot || r.uid)} · ${r.idx + 1} de ${r.total} dispositivos</small></a>
+    ${comAcoes ? `<button class="x" data-recomecar="${esc(l.id)}" title="Apagar o ponto de leitura" aria-label="Apagar o ponto de leitura">✕</button>` : ''}</li>`; }).join('')}</ul>`;
+}
+function blocoLeituras() {
+  const h = listaLeituras(false);
+  return h ? `<h2 class="titulo-indice">Continuar lendo</h2>${h}` : '';
 }
 
 /* ---------- Busca ----------
@@ -1443,7 +1529,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);
