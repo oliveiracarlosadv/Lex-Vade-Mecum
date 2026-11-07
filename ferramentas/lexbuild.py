@@ -14,10 +14,19 @@ import json, re, sys, glob, os
 cfg = json.load(open(sys.argv[1], encoding='utf-8'))
 L = [l.strip() for l in open(cfg['text'], encoding='utf-8').read().split('\n')]
 
+# Cabeçalhos com letras espaçadas ("P A R T E   G E R A L", no Código Civil) viram "PARTE GERAL".
+# Só afeta linhas formadas por letras soltas; o texto dos artigos não muda.
+def _espacado(l):
+    if not re.fullmatch(r'(?:[A-ZÁÉÍÓÚÂÊÔÃÕÇ]\s+){3,}[A-ZÁÉÍÓÚÂÊÔÃÕÇ]', l): return l
+    s = re.sub(r'\s+', '', l)
+    return re.sub(r'^(PARTE|LIVRO)(?=[A-Z])', r'\1 ', s)
+L = [_espacado(l) for l in L]
+
 HEAD = re.compile(r'^(TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
 # \s aceita também o espaço não separável (U+00A0) que o Planalto às vezes usa após "Art."
+# Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
-ART = re.compile(r'^Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?\s')
+ART = re.compile(r'^Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?(?:\s|(?=\())')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'CAPÍTULO': 3, 'SEÇÃO': 4, 'Seção': 4, 'SUBSEÇÃO': 5, 'Subseção': 5}
 
 def find(prefix, start=0):

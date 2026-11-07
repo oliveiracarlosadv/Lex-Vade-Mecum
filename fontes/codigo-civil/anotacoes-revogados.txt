@@ -1,0 +1,329 @@
+@CC 194
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 11.280, de 2006). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. Desde a Lei nº 11.280/2006, o juiz pode reconhecer a prescrição de ofício (CPC, art. 487, II).
+P: Sem eficácia normativa atual || Revogado pela Lei nº 11.280, de 2006 || Desde a Lei nº 11.280/2006, o juiz pode reconhecer a prescrição de ofício (CPC, art. 487, II)
+K: dispositivo revogado; revogação; Lei nº 11.280
+
+@CC 229
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 230
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 374
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 10.677, de 22.5.2003). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 10.677, de 22.5.2003 || Ver a norma que passou a regular a matéria
+K: dispositivo revogado; revogação; Lei nº 10.677
+
+@CC 456
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 757
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 758
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 759
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 760
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 761
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 762
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 763
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 764
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 765
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 766
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 767
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 768
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 769
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 770
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 771
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 772
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 773
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 774
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 775
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 776
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 777
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 778
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 779
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 780
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 781
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 782
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 783
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 784
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 785
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 786
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 787
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 788
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 789
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 790
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 791
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 792
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 793
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 794
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 795
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 796
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 797
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 798
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 799
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 800
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 801
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 802
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 15.040, de 2024). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 15.040, de 2024 || A matéria (contrato de seguro) passou a ser regida pela Lei nº 15.040/2024, o Marco Legal dos Seguros
+K: dispositivo revogado; revogação; Lei nº 15.040
+
+@CC 819-A
+I: Dispositivo vetado pelo Presidente da República; não chegou a vigorar e não tem conteúdo normativo.
+P: Vetado || Sem conteúdo normativo || Mantido apenas para preservar a numeração
+K: dispositivo vetado; revogação; Lei nº 10.931
+
+@CC 980-A
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 14.382, de 2022). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. Revogação feita pela Lei nº 14.382/2022 (Sistema Eletrônico de Registros Públicos).
+P: Sem eficácia normativa atual || Revogado pela Lei nº 14.382, de 2022 || Revogação feita pela Lei nº 14.382/2022 (Sistema Eletrônico de Registros Públicos)
+K: dispositivo revogado; revogação; Lei nº 14.382
+
+@CC 1463
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 14.179, de 2021). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 14.179, de 2021 || Ver a norma que passou a regular a matéria
+K: dispositivo revogado; revogação; Lei nº 14.179
+
+@CC 1482
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1483
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1494
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 14.382, de 2022). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. Revogação feita pela Lei nº 14.382/2022 (Sistema Eletrônico de Registros Públicos).
+P: Sem eficácia normativa atual || Revogado pela Lei nº 14.382, de 2022 || Revogação feita pela Lei nº 14.382/2022 (Sistema Eletrônico de Registros Públicos)
+K: dispositivo revogado; revogação; Lei nº 14.382
+
+@CC 1620
+I: Arts. 1.620 a 1.629 integralmente revogados (Revogados pela Lei nº 12.010, de 2009). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A adoção passou a ser regida pelo Estatuto da Criança e do Adolescente (arts. 1.618 e 1.619 deste Código).
+P: Sem eficácia normativa atual || Revogados pela Lei nº 12.010, de 2009 || A adoção passou a ser regida pelo Estatuto da Criança e do Adolescente (arts. 1.618 e 1.619 deste Código)
+K: dispositivo revogado; revogação; Lei nº 12.010
+
+@CC 1768
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1769
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1770
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1771
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1772
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1773
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.105, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. A matéria passou a ser tratada pelo Código de Processo Civil de 2015.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.105, de 2015 || A matéria passou a ser tratada pelo Código de Processo Civil de 2015
+K: dispositivo revogado; revogação; Lei nº 13.105
+
+@CC 1776
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.146, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. Revogação feita pelo Estatuto da Pessoa com Deficiência, que reformulou o regime das incapacidades.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.146, de 2015 || Revogação feita pelo Estatuto da Pessoa com Deficiência, que reformulou o regime das incapacidades
+K: dispositivo revogado; revogação; Lei nº 13.146
+
+@CC 1780
+I: Dispositivo integralmente revogado (Revogado pela Lei nº 13.146, de 2015). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro. Revogação feita pelo Estatuto da Pessoa com Deficiência, que reformulou o regime das incapacidades.
+P: Sem eficácia normativa atual || Revogado pela Lei nº 13.146, de 2015 || Revogação feita pelo Estatuto da Pessoa com Deficiência, que reformulou o regime das incapacidades
+K: dispositivo revogado; revogação; Lei nº 13.146
