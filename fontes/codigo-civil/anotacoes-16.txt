@@ -1,0 +1,574 @@
+@CC 1437
+I: A extinção do penhor só produz efeitos após a averbação do cancelamento do registro.
+P: Averbação do cancelamento || Prova da extinção || Eficácia perante terceiros
+K: penhor; cancelamento; averbação
+
+@CC 1438
+I: O penhor rural constitui-se por instrumento público ou particular registrado no Registro de Imóveis do local das coisas; pode ser emitida cédula rural pignoratícia.
+P: Registro no Registro de Imóveis || Cédula rural pignoratícia || Coisas com o devedor
+K: penhor rural; cédula rural
+
+@CC 1439
+I: Penhores agrícola e pecuário não podem ter prazo superior ao da obrigação garantida; vencido o prazo, a garantia subsiste enquanto subsistirem os bens; a prorrogação deve ser averbada.
+P: Prazo vinculado à obrigação || Subsistência da garantia || Averbação da prorrogação
+K: penhor agrícola; penhor pecuário; prazo
+
+@CC 1440
+I: O penhor rural sobre prédio hipotecado dispensa anuência do credor hipotecário, mas não prejudica sua preferência nem a extensão da hipoteca.
+P: Penhor sobre prédio hipotecado || Dispensa anuência || Preferência do hipotecário
+K: penhor rural; hipoteca
+
+@CC 1441
+I: O credor pode inspecionar as coisas empenhadas onde estiverem, por si ou por credenciado.
+P: Direito de inspeção || Coisas com o devedor || Fiscalização da garantia
+K: penhor rural; inspeção
+
+@CC 1442
+I: Podem ser objeto de penhor agrícola máquinas e instrumentos, colheitas pendentes ou em formação, frutos armazenados, lenha e carvão, e animais de serviço.
+P: Objetos do penhor agrícola || Colheitas futuras || Máquinas e animais de serviço
+K: penhor agrícola
+
+@CC 1443
+I: O penhor sobre colheita pendente abrange a seguinte se a primeira frustrar ou for insuficiente; se o credor não financiar a nova safra, outro pode fazê-lo com preferência sobre ela.
+P: Extensão à colheita seguinte || Financiamento da nova safra || Preferência
+K: penhor agrícola; colheita
+
+@CC 1444
+I: Podem ser empenhados animais da atividade pastoril, agrícola ou de laticínios.
+P: Penhor pecuário || Animais da atividade || Objeto
+K: penhor pecuário
+
+@CC 1445
+I: O devedor não pode alienar os animais empenhados sem consentimento escrito do credor; se tentar ou se houver negligência que ameace a garantia, o credor pode pedir depósito.
+P: Vedação de alienação || Consentimento escrito || Depósito judicial
+K: penhor pecuário; alienação
+
+@CC 1446
+I: Animais comprados para substituir os mortos ficam sub-rogados no penhor; a substituição presume-se, mas só vale contra terceiros se averbada.
+P: Sub-rogação real || Presunção de substituição || Averbação
+K: penhor pecuário; sub-rogação
+
+@CC 1447
+I: Podem ser objeto de penhor industrial ou mercantil máquinas e instalações em funcionamento, animais da indústria, matérias-primas, produtos e mercadorias; pode-se emitir cédula.
+P: Objetos do penhor industrial || Mercadorias e produtos || Cédula do crédito
+K: penhor industrial; penhor mercantil
+
+@CC 1448
+I: O penhor industrial ou mercantil constitui-se por instrumento registrado no Registro de Imóveis do local das coisas.
+P: Registro imobiliário || Coisas com o devedor || Cédula
+K: penhor industrial; registro
+
+@CC 1449
+I: O devedor não pode alterar, remover ou dispor das coisas empenhadas sem consentimento escrito; se o credor autorizar a venda, o devedor repõe outros bens.
+P: Vedação de alteração e disposição || Reposição dos bens || Consentimento escrito
+K: penhor industrial; disposição
+
+@CC 1450
+I: O credor pode inspecionar as coisas empenhadas, por si ou por credenciado.
+P: Direito de inspeção || Fiscalização || Garantia
+K: penhor industrial; inspeção
+
+@CC 1451
+I: Podem ser empenhados direitos cessíveis sobre coisas móveis.
+P: Penhor de direitos || Cessibilidade || Móveis
+K: penhor de direitos
+
+@CC 1452
+I: O penhor de direito constitui-se por instrumento registrado em Títulos e Documentos, e o titular entrega os documentos comprobatórios ao credor, salvo interesse legítimo em conservá-los.
+P: Registro em Títulos e Documentos || Entrega dos documentos || Exceção
+K: penhor de direitos; registro
+
+@CC 1453
+I: O penhor de crédito só é eficaz após notificado ao devedor, ou se este se declarar ciente.
+P: Notificação do devedor || Ciência equivale || Eficácia
+K: penhor de crédito; notificação
+
+@CC 1454
+I: O credor pignoratício deve conservar e defender o direito empenhado e cobrar juros e acessórios.
+P: Atos de conservação || Cobrança de acessórios || Defesa do crédito
+K: penhor de crédito; deveres
+
+@CC 1455
+I: O credor deve cobrar o crédito empenhado quando exigível; se dinheiro, deposita conforme ajuste ou aplica no pagamento vencido; se coisa, fica com ela em penhor.
+P: Cobrança obrigatória || Depósito ou imputação || Coisa recebida em penhor
+K: penhor de crédito; cobrança
+
+@CC 1456
+I: Com vários penhores sobre o mesmo crédito, o devedor paga ao preferente; o credor que, notificado, não cobrar responde aos demais.
+P: Concurso de penhores || Pagamento ao preferente || Responsabilidade do omisso
+K: penhor de crédito; preferência
+
+@CC 1457
+I: O titular do crédito empenhado só recebe o pagamento com anuência escrita do credor pignoratício, e então o penhor se extingue.
+P: Anuência escrita || Extinção do penhor || Proteção do credor
+K: penhor de crédito; pagamento
+
+@CC 1458
+I: O penhor de título de crédito constitui-se por instrumento ou endosso pignoratício, com a entrega do título.
+P: Endosso-penhor || Tradição do título || Instrumento
+K: penhor de título de crédito
+
+@CC 1459
+I: O credor de título empenhado pode conservar e recuperar sua posse, defendê-lo judicialmente, intimar o devedor a não pagar ao credor original e receber a importância.
+P: Posse do título || Intimação do devedor || Recebimento
+K: penhor de título; direitos do credor
+
+@CC 1460
+I: Intimado ou ciente do penhor, o devedor do título não pode pagar ao credor original; se pagar, responde solidariamente perante o credor pignoratício.
+P: Vedação de pagamento ao credor original || Responsabilidade solidária || Ciência do penhor
+K: penhor de título; devedor
+
+@CC 1461
+I: Podem ser empenhados veículos de transporte ou condução.
+P: Penhor de veículos || Qualquer transporte || Objeto
+K: penhor de veículos
+
+@CC 1462
+I: O penhor de veículos constitui-se por instrumento registrado em Títulos e Documentos do domicílio do devedor e anotado no certificado de propriedade; pode-se emitir cédula.
+P: Registro e anotação no certificado || Domicílio do devedor || Cédula
+K: penhor de veículos; registro
+
+@CC 1464
+I: O credor pode inspecionar o veículo empenhado.
+P: Inspeção || Fiscalização || Garantia
+K: penhor de veículos; inspeção
+
+@CC 1465
+I: A alienação ou mudança do veículo sem comunicação prévia ao credor causa o vencimento antecipado do crédito.
+P: Vencimento antecipado || Falta de comunicação || Proteção do credor
+K: penhor de veículos; vencimento antecipado
+
+@CC 1466
+I: O penhor de veículos tem prazo máximo de 2 anos, prorrogável por igual período, com averbação.
+P: Prazo de 2 anos || Prorrogação única || Averbação
+K: penhor de veículos; prazo
+
+@CC 1467
+I: São credores pignoratícios por lei os hospedeiros sobre bagagens e bens dos hóspedes, pelas despesas, e o locador de prédio sobre os bens móveis do inquilino, pelos aluguéis.
+P: Penhor legal || Hospedeiros || Locador
+K: penhor legal; hospedeiro; locador
+
+@CC 1468
+I: A conta do hospedeiro segue tabela de preços previamente exposta, sob pena de nulidade do penhor.
+P: Tabela exposta || Transparência || Nulidade
+K: penhor legal; hospedagem
+
+@CC 1469
+I: O credor pode tomar um ou mais objetos até o valor da dívida.
+P: Limite do valor || Seleção de bens || Proporcionalidade
+K: penhor legal; limite
+
+@CC 1470
+I: Havendo perigo na demora, o credor pode efetivar o penhor antes de recorrer ao juiz, entregando comprovante dos bens.
+P: Autotutela autorizada || Perigo na demora || Comprovante
+K: penhor legal; autotutela
+
+@CC 1471
+I: Tomado o penhor, o credor deve requerer de imediato sua homologação judicial (CPC, arts. 703 a 706).
+P: Homologação judicial || Imediatamente || Procedimento do CPC
+K: penhor legal; homologação
+
+@CC 1472
+I: O locatário pode impedir o penhor legal oferecendo caução idônea.
+P: Caução substitutiva || Locatário || Afasta o penhor
+K: penhor legal; caução
+
+@CC 1473
+I: Podem ser hipotecados imóveis e acessórios, domínio direto e útil, estradas de ferro, recursos naturais, navios, aeronaves, direito de uso especial para moradia, direito real de uso, propriedade superficiária e direitos da imissão provisória na posse concedida ao Poder Público; navios e aeronaves seguem lei especial.
+P: Bens hipotecáveis || Imóveis e equiparados || Navios e aeronaves em lei especial
+K: hipoteca; objeto
+
+@CC 1474
+I: A hipoteca abrange acessões, melhoramentos e construções; subsistem os ônus reais anteriores registrados.
+P: Extensão às acessões || Ônus anteriores || Prioridade
+K: hipoteca; acessões
+
+@CC 1475
+I: É nula a cláusula que proíbe alienar o imóvel hipotecado, mas pode-se pactuar o vencimento do crédito em caso de alienação.
+P: Vedação de cláusula de inalienabilidade || Vencimento antecipado permitido || Sequela
+K: hipoteca; alienação
+
+@CC 1476
+I: O dono do imóvel hipotecado pode constituir nova hipoteca, em favor do mesmo ou de outro credor.
+P: Sub-hipoteca || Novo título || Mesmo ou outro credor
+K: hipoteca; segunda hipoteca
+
+@CC 1477
+I: Salvo insolvência do devedor, o credor da segunda hipoteca não pode executar o imóvel antes de vencida a primeira.
+P: Ordem das hipotecas || Exceção da insolvência || Prioridade
+K: segunda hipoteca; execução
+
+@CC 1478
+I: O credor hipotecário que pagar as hipotecas anteriores sub-roga-se nos direitos destas, sem prejuízo dos seus contra o devedor.
+P: Sub-rogação || Pagamento das anteriores || Credor posterior
+K: hipoteca; sub-rogação
+
+@CC 1479
+I: O adquirente do imóvel hipotecado que não se obrigou pessoalmente pode exonerar-se abandonando o imóvel aos credores.
+P: Abandono liberatório || Adquirente não obrigado || Hipoteca
+K: hipoteca; abandono
+
+@CC 1480
+I: O adquirente notifica vendedor e credores, entregando-lhes a posse ou depositando o imóvel em juízo, até 24 horas após a citação.
+P: Notificação || Posse aos credores ou depósito || Prazo
+K: hipoteca; abandono
+
+@CC 1481
+I: Em 30 dias do registro do título, o adquirente pode remir o imóvel hipotecado, oferecendo valor não inferior ao preço de aquisição; se impugnado, haverá licitação.
+P: Remição pelo adquirente || Prazo de 30 dias || Licitação
+K: hipoteca; remição
+
+@CC 1484
+I: As partes podem fixar na escritura o valor do imóvel hipotecado, que, atualizado, serve de base para arrematação, adjudicação e remição.
+P: Valor ajustado || Base para a execução || Atualização
+K: hipoteca; avaliação
+
+@CC 1485
+I: A hipoteca pode ser prorrogada por averbação até 30 anos do contrato; depois, só por novo título e novo registro, mantida a prioridade.
+P: Prazo máximo de 30 anos || Prorrogação por averbação || Reconstituição
+K: hipoteca; prazo
+
+@CC 1486
+I: Credor e devedor podem autorizar a emissão de cédula hipotecária, conforme lei especial.
+P: Cédula hipotecária || Lei especial || Circulação do crédito
+K: hipoteca; cédula hipotecária
+
+@CC 1487
+I: A hipoteca pode garantir dívida futura ou condicionada, com valor máximo determinado; a execução depende de acordo ou prova da dívida.
+P: Hipoteca de dívida futura || Valor máximo || Liquidez
+K: hipoteca; dívida futura
+
+@CC 1487-A
+I: A hipoteca pode ser estendida, a pedido do proprietário, a novas obrigações com o mesmo credor, mantidos registro e prioridade, sem exceder o prazo e o valor máximo da especialização original, com preferência da obrigação mais antiga (Marco Legal das Garantias).
+P: Extensão da hipoteca || Mesmo credor || Limite do valor
+K: hipoteca; extensão; Lei 14.711/2023
+
+@CC 1488
+I: Se o imóvel hipotecado for loteado ou dividido em condomínio, o ônus pode ser dividido proporcionalmente entre as unidades, a pedido de interessados.
+P: Divisão do ônus || Loteamento e condomínio || Proporcionalidade
+K: hipoteca; loteamento
+
+@CC 1489
+I: A lei confere hipoteca às pessoas de direito público sobre imóveis de gestores de seus fundos, aos filhos sobre imóveis do pai que se casa antes de partilhar, ao ofendido sobre imóveis do delinquente, ao coerdeiro pela torna e ao credor sobre imóvel arrematado.
+P: Hipoteca legal || Hipóteses taxativas || Proteção de vulneráveis
+K: hipoteca legal
+
+@CC 1490
+I: O credor da hipoteca legal pode exigir reforço se os imóveis forem insuficientes.
+P: Reforço da garantia || Insuficiência || Hipoteca legal
+K: hipoteca legal; reforço
+
+@CC 1491
+I: A hipoteca legal pode ser substituída por caução de títulos públicos ou outra garantia aceita pelo juiz.
+P: Substituição || Títulos da dívida pública || Critério judicial
+K: hipoteca legal; substituição
+
+@CC 1492
+I: A hipoteca é registrada no cartório do lugar do imóvel, ou de cada um.
+P: Registro no lugar do imóvel || Vários imóveis || Interessados requerem
+K: hipoteca; registro
+
+@CC 1493
+I: Os registros seguem a ordem do protocolo, que define a prioridade e a preferência entre hipotecas.
+P: Ordem de protocolo || Prioridade || Preferência
+K: hipoteca; prioridade registral
+
+@CC 1495
+I: Se o título mencionar hipoteca anterior não registrada, o oficial prenota e aguarda 30 dias pelo registro da anterior; não ocorrendo, registra a nova com preferência.
+P: Hipoteca anterior não registrada || Prazo de 30 dias || Preferência
+K: hipoteca; registro; prenotação
+
+@CC 1496
+I: Havendo dúvida sobre a legalidade, o oficial prenota o pedido; julgada improcedente em 90 dias, o registro retroage à prenotação.
+P: Dúvida registral || Prenotação || Retroação
+K: hipoteca; dúvida registral
+
+@CC 1497
+I: As hipotecas legais devem ser registradas e especializadas, a cargo de quem deve prestar a garantia, podendo o interessado promovê-las.
+P: Registro e especialização || Obrigado à garantia || Interessados
+K: hipoteca legal; especialização
+
+@CC 1498
+I: O registro da hipoteca vale enquanto durar a obrigação, mas a especialização deve ser renovada a cada 20 anos.
+P: Validade do registro || Renovação em 20 anos || Especialização
+K: hipoteca; renovação
+
+@CC 1499
+I: A hipoteca extingue-se pela extinção da obrigação, perecimento da coisa, resolução da propriedade, renúncia, remição ou arrematação/adjudicação.
+P: Causas de extinção || Remição || Arrematação
+K: hipoteca; extinção
+
+@CC 1500
+I: A hipoteca também se extingue com a averbação do cancelamento do registro.
+P: Cancelamento registral || Prova || Averbação
+K: hipoteca; cancelamento
+
+@CC 1501
+I: A arrematação ou adjudicação não extingue a hipoteca se os credores hipotecários não foram notificados judicialmente.
+P: Notificação obrigatória || Sequela preservada || Proteção do credor
+K: hipoteca; arrematação; notificação
+
+@CC 1502
+I: A hipoteca de estrada de ferro é registrada no Município da estação inicial.
+P: Registro especial || Estação inicial || Vias férreas
+K: hipoteca de ferrovia
+
+@CC 1503
+I: Os credores não podem embaraçar a exploração da linha nem as modificações da administração.
+P: Continuidade do serviço || Limite dos credores || Interesse público
+K: hipoteca de ferrovia
+
+@CC 1504
+I: A hipoteca restringe-se às linhas e ao material especificados, podendo os credores opor-se à venda de bens que prejudique a garantia.
+P: Objeto delimitado || Material de exploração || Oposição à venda
+K: hipoteca de ferrovia
+
+@CC 1505
+I: Na execução, a União ou o Estado é intimado para, em 15 dias, remir a ferrovia pagando o preço.
+P: Remição pelo Poder Público || Prazo de 15 dias || Interesse público
+K: hipoteca de ferrovia; remição
+
+@CC 1506
+I: Na anticrese, o devedor entrega o imóvel ao credor para que perceba frutos e rendimentos em compensação da dívida; pode-se estipular que os frutos paguem os juros.
+P: Entrega do imóvel || Frutos compensam a dívida || Juros pelos frutos
+K: anticrese
+
+@CC 1507
+I: O credor anticrético administra o bem e frui seus frutos, apresentando balanço anual; pode arrendar a terceiros, salvo pacto contrário.
+P: Administração pelo credor || Balanço anual || Arrendamento
+K: anticrese; administração
+
+@CC 1508
+I: O credor anticrético responde por deteriorações culposas e frutos que deixar de perceber por negligência.
+P: Responsabilidade por culpa || Frutos negligenciados || Deteriorações
+K: anticrese; responsabilidade
+
+@CC 1509
+I: O credor anticrético pode opor seus direitos ao adquirente e aos credores posteriores ao registro; se executar o imóvel, perde a preferência sobre o preço quanto aos demais.
+P: Oponibilidade || Credores posteriores || Execução e preferência
+K: anticrese; oponibilidade
+
+@CC 1510
+I: O adquirente dos bens em anticrese pode remi-los antes do vencimento, pagando a dívida, e imitir-se na posse.
+P: Remição || Pagamento integral || Imissão na posse
+K: anticrese; remição
+
+@CC 1510-A
+I: O proprietário de construção-base pode ceder a superfície superior ou inferior para que o titular da laje mantenha unidade distinta, com matrícula própria; a laje não confere fração do terreno.
+P: Direito real de laje || Matrícula própria || Sem fração do terreno
+K: direito de laje
+
+@CC 1510-B
+I: O titular da laje não pode prejudicar com obras ou falta de reparos a segurança, a linha arquitetônica ou a estética do edifício.
+P: Vedação de prejuízo || Segurança e estética || Posturas locais
+K: direito de laje; deveres
+
+@CC 1510-C
+I: As despesas de conservação das partes comuns são partilhadas entre os proprietários da construção-base e da laje, conforme contrato, aplicando-se no que couber as regras do condomínio edilício.
+P: Rateio das despesas || Partes que servem a todos || Regras do edilício
+K: direito de laje; despesas
+
+@CC 1510-D
+I: Na alienação de uma das unidades sobrepostas, os titulares da construção-base e da laje têm preferência, nessa ordem; preterido, pode haver a unidade depositando o preço em 180 dias.
+P: Preferência recíproca || Ordem legal || Prazo de 180 dias
+K: direito de laje; preferência
+
+@CC 1510-E
+I: A ruína da construção-base extingue a laje, salvo se instituída sobre o subsolo ou se a base for reconstruída em 5 anos, sem afastar a responsabilidade de quem causou a ruína.
+P: Extinção pela ruína || Exceções || Reconstrução em 5 anos
+K: direito de laje; extinção
+
+@CC 1511
+I: O casamento estabelece comunhão plena de vida, com igualdade de direitos e deveres dos cônjuges (CF, art. 226, § 5º).
+P: Comunhão plena de vida || Igualdade entre cônjuges || Família constitucional
+K: casamento; igualdade; comunhão de vida
+
+@CC 1512
+I: O casamento é civil e sua celebração gratuita; habilitação, registro e primeira certidão são gratuitos para quem declarar pobreza.
+P: Casamento civil || Gratuidade da celebração || Isenção aos pobres
+K: casamento; gratuidade
+
+@CC 1513
+I: Nenhuma pessoa, pública ou privada, pode interferir na comunhão de vida da família (princípio da não intervenção).
+P: Autonomia familiar || Não intervenção || Planejamento familiar
+K: família; não intervenção
+
+@CC 1514
+I: O casamento se realiza quando os nubentes manifestam perante o juiz a vontade de casar e são declarados casados. O STF (ADI 4.277 e ADPF 132) e o CNJ (Resolução 175/2013) asseguram o casamento entre pessoas do mesmo sexo.
+P: Momento da celebração || Manifestação de vontade e declaração || Casamento homoafetivo
+K: casamento; celebração; casamento homoafetivo
+
+@CC 1515
+I: O casamento religioso que atenda às exigências legais equipara-se ao civil, se registrado, com efeitos desde a celebração.
+P: Casamento religioso com efeitos civis || Registro || Retroação
+K: casamento religioso; efeitos civis
+
+@CC 1516
+I: O registro do casamento religioso segue os requisitos do civil e deve ser feito em 90 dias da celebração, ou após habilitação posterior.
+P: Prazo de 90 dias || Habilitação prévia ou posterior || Registro
+K: casamento religioso; registro
+
+@CC 1517
+I: Podem casar os maiores de 16 anos, com autorização de ambos os pais ou representantes até a maioridade; havendo divergência, decide o juiz.
+P: Idade núbil de 16 anos || Autorização dos pais || Divergência resolvida pelo juiz
+K: idade núbil; autorização; casamento
+
+@CC 1518
+I: Os pais ou tutores podem revogar a autorização até a celebração.
+P: Revogação da autorização || Até a celebração || Proteção do menor
+K: casamento; autorização; revogação
+
+@CC 1519
+I: A recusa injusta do consentimento pode ser suprida pelo juiz.
+P: Suprimento judicial || Recusa injusta || Menor de 18 anos
+K: casamento; suprimento
+
+@CC 1520
+I: Desde a Lei nº 13.811/2019, é proibido, em qualquer caso, o casamento de quem não atingiu a idade núbil (16 anos).
+P: Vedação absoluta abaixo de 16 anos || Sem exceções || Proteção da criança
+K: idade núbil; casamento infantil
+
+@CC 1521
+I: Não podem casar ascendentes com descendentes, afins em linha reta, adotante com ex-cônjuge do adotado e vice-versa, irmãos e colaterais até o terceiro grau, adotado com filho do adotante, pessoas casadas e o cônjuge sobrevivente com o condenado por homicídio ou tentativa contra o seu consorte.
+P: Impedimentos matrimoniais || Parentesco e bigamia || Nulidade do casamento
+K: impedimentos; casamento; nulidade
+
+@CC 1522
+I: Os impedimentos podem ser opostos por qualquer pessoa capaz até a celebração, e o oficial ou juiz que souber deve declará-los.
+P: Oposição até a celebração || Legitimidade ampla || Dever de ofício
+K: impedimentos; oposição
+
+@CC 1523
+I: Não devem casar (causas suspensivas) o viúvo com filhos antes do inventário, a viúva ou mulher cujo casamento acabou nos 10 meses seguintes, o divorciado sem partilha e o tutor ou curador com o tutelado; a consequência é o regime de separação obrigatória, podendo o juiz dispensá-la se não houver prejuízo.
+P: Causas suspensivas || Separação obrigatória de bens || Dispensa judicial
+K: causas suspensivas; separação obrigatória
+
+@CC 1524
+I: As causas suspensivas só podem ser arguidas por parentes em linha reta e colaterais em segundo grau de um dos nubentes.
+P: Legitimidade restrita || Parentes próximos || Interesse privado
+K: causas suspensivas; legitimidade
+
+@CC 1525
+I: O pedido de habilitação é assinado pelos nubentes, ou procurador, com certidão de nascimento, autorização se necessária, declaração de duas testemunhas, declaração do estado civil e domicílio e certidão de óbito, divórcio ou anulação anterior.
+P: Documentos da habilitação || Assinatura dos nubentes || Comprovação do estado civil
+K: habilitação para o casamento; documentos
+
+@CC 1526
+I: A habilitação é feita perante o oficial do Registro Civil, com audiência do MP; havendo impugnação, o caso vai ao juiz.
+P: Habilitação no cartório || Ministério Público || Impugnação ao juiz
+K: habilitação; Registro Civil
+
+@CC 1527
+I: Com a documentação em ordem, o oficial extrai edital, afixado por 15 dias nos cartórios de ambos os nubentes e publicado na imprensa local, se houver; em urgência, a autoridade pode dispensar a publicação.
+P: Proclamas por 15 dias || Afixação e imprensa local || Dispensa por urgência
+K: proclamas; edital; habilitação
+
+@CC 1528
+I: O oficial deve esclarecer os nubentes sobre causas de invalidade do casamento e sobre os regimes de bens.
+P: Dever de informação || Invalidade || Regimes de bens
+K: habilitação; dever de informação
+
+@CC 1529
+I: Impedimentos e causas suspensivas são opostos por declaração escrita e assinada, com provas.
+P: Forma escrita || Provas || Responsabilidade
+K: oposição; impedimentos
+
+@CC 1530
+I: O oficial dá aos nubentes nota da oposição, que podem pedir prazo para provar o contrário e processar o oponente de má-fé.
+P: Ciência da oposição || Direito de defesa || Responsabilidade do oponente
+K: oposição; defesa
+
+@CC 1531
+I: Cumpridas as formalidades e sem fato obstativo, o oficial expede o certificado de habilitação.
+P: Certificado de habilitação || Ausência de impedimento || Conclusão
+K: habilitação; certificado
+
+@CC 1532
+I: A habilitação vale por 90 dias da expedição do certificado.
+P: Validade de 90 dias || Certificado || Nova habilitação após o prazo
+K: habilitação; prazo
+
+@CC 1533
+I: O casamento é celebrado no dia, hora e lugar designados pela autoridade, a pedido dos nubentes habilitados.
+P: Designação da celebração || Petição dos nubentes || Certidão de habilitação
+K: celebração do casamento
+
+@CC 1534
+I: A celebração ocorre no cartório, com publicidade, portas abertas e duas testemunhas, ou em outro lugar com consentimento da autoridade; em edifício particular ou se um nubente não souber escrever, exigem-se quatro testemunhas.
+P: Publicidade || Duas ou quatro testemunhas || Local
+K: celebração; testemunhas
+
+@CC 1535
+I: Presentes os nubentes, testemunhas e oficial, o presidente, ouvida a afirmação de que querem casar por livre vontade, os declara casados com a fórmula legal.
+P: Afirmação dos nubentes || Declaração do presidente || Fórmula solene
+K: celebração; declaração
+
+@CC 1536
+I: Celebrado o casamento, lavra-se o assento no livro de registro com os dados dos cônjuges, pais, testemunhas, regime de bens e outros elementos.
+P: Assento de casamento || Conteúdo || Assinaturas
+K: registro de casamento; assento
+
+@CC 1537
+I: A autorização para casar é transcrita integralmente na escritura antenupcial.
+P: Transcrição da autorização || Pacto antenupcial || Menores
+K: pacto antenupcial; autorização
+
+@CC 1538
+I: A celebração é suspensa se um nubente recusar a afirmação, declarar que sua vontade não é livre ou se mostrar arrependido, não podendo retratar-se no mesmo dia.
+P: Suspensão da celebração || Vontade livre || Vedação de retratação no mesmo dia
+K: celebração; suspensão
+
+@CC 1539
+I: Em caso de moléstia grave, a autoridade celebra o casamento onde estiver o nubente, mesmo à noite, com duas testemunhas alfabetizadas.
+P: Casamento em moléstia grave || Local do nubente || Duas testemunhas
+K: casamento; moléstia grave
+
+@CC 1540
+I: Em iminente risco de vida, sem autoridade disponível, o casamento pode ser celebrado na presença de seis testemunhas sem parentesco próximo (casamento nuncupativo).
+P: Casamento nuncupativo || Seis testemunhas || Risco de vida
+K: casamento nuncupativo; in extremis
+
+@CC 1541
+I: Realizado o casamento nuncupativo, as testemunhas declaram ao juiz em 10 dias os fatos, e o juiz, após diligências, decide e manda registrar; se o enfermo convalescer, pode ratificar perante o oficial.
+P: Declaração das testemunhas em 10 dias || Decisão judicial || Ratificação
+K: casamento nuncupativo; registro
+
+@CC 1542
+I: O casamento pode ser celebrado por procuração pública com poderes especiais, válida por 90 dias; a revogação só por instrumento público.
+P: Casamento por procuração || Instrumento público e poderes especiais || Prazo de 90 dias
+K: casamento por procuração
+
+@CC 1543
+I: O casamento celebrado no Brasil prova-se pela certidão do registro; justificada a falta, admite-se outra prova.
+P: Certidão do registro || Prova supletiva || Justificação
+K: prova do casamento; certidão
+
+@CC 1544
+I: O casamento de brasileiro no exterior deve ser registrado em 180 dias da volta ao Brasil, no cartório do domicílio.
+P: Registro no Brasil || Prazo de 180 dias || Casamento no exterior
+K: casamento no exterior; registro
+
+@CC 1545
+I: O casamento de quem viveu na posse do estado de casado e não pode manifestar vontade ou morreu não se contesta em prejuízo da prole, salvo certidão que prove já ser casado.
+P: Posse do estado de casado || Proteção dos filhos || Prova em contrário
+K: posse do estado de casado; prova
+
+@CC 1546
+I: Provado judicialmente o casamento, o registro da sentença produz efeitos desde a celebração.
+P: Prova judicial || Registro da sentença || Efeitos retroativos
+K: prova do casamento; sentença
+
+@CC 1547
+I: Na dúvida entre provas, decide-se pelo casamento se os cônjuges viveram na posse do estado de casados (in dubio pro matrimonio).
+P: In dubio pro matrimonio || Posse do estado || Presunção favorável
+K: prova do casamento; posse do estado
+
+@CC 1548
+I: É nulo o casamento contraído com infração de impedimento; a hipótese de enfermo mental foi revogada pelo Estatuto da Pessoa com Deficiência.
+P: Nulidade por impedimento || Revogação da hipótese de doença mental || Nulidade absoluta
+K: nulidade do casamento; impedimentos
+
+@CC 1549
+I: A nulidade do casamento pode ser pedida por ação direta de qualquer interessado ou do MP.
+P: Ação de nulidade || Legitimidade ampla || Ministério Público
+K: nulidade do casamento; legitimidade
