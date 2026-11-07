@@ -106,7 +106,8 @@ A CLT tem onze Títulos, alguns divididos em Capítulos. O quadro mostra a divis
 | TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO III — DOS JUÍZOS DE DIREITO | 668 a 669 (2) |
 | TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO IV — DOS TRIBUNAIS REGIONAIS DO TRABALHO | 670 a 689 (20) |
 | TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO V — DO TRIBUNAL SUPERIOR DO TRABALHO | 690 a 709 (20) |
-| TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO | 710 a 733 (24) |
+| TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO | 710 a 721 (12) |
+| TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO VII — DAS PENALIDADES | 722 a 733 (12) |
 | TÍTULO VIII — DA JUSTIÇA DO TRABALHO | CAPÍTULO VIII — DISPOSIÇÕES GERAIS | 734 a 735 (2) |
 | TÍTULO IX — DO MINISTÉRIO PÚBLICO DO TRABALHO | CAPÍTULO I — DISPOSIÇÕES GERAIS | 736 a 739 (4) |
 | TÍTULO IX — DO MINISTÉRIO PÚBLICO DO TRABALHO | CAPÍTULO II — DA PROCURADORIA DA JUSTIÇA DO TRABALHO | 740 a 754 (15) |
@@ -27743,10 +27744,6 @@ Art. 721 - Incumbe aos Oficiais de Justiça e Oficiais de Justiça Avaliadores d
 
 § 5º Na falta ou impedimento do Oficial de Justiça ou Oficial de Justiça Avaliador, o Presidente da Junta poderá atribuir a realização do ato a qualquer serventuário.                   (Redação dada pela Lei nº 5.442, de 24.5.1968)
 
-CAPITULO VII
-
-DAS PENALIDADES
-
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 5.442, de 24.5.1968.
 
 #### Interpretação
@@ -27775,7 +27772,7 @@ Os oficiais de justiça avaliadores da Justiça do Trabalho cumprem os atos de e
 
 ### Art. 722
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
 Art. 722 - Os empregadores que, individual ou coletivamente, suspenderem os trabalhos dos seus estabelecimentos, sem prévia autorização do Tribunal competente, ou que violarem, ou se recusarem a cumprir decisão proferida em dissídio coletivo, incorrerão nas seguintes penalidades:
 
@@ -27817,7 +27814,7 @@ Previa penalidades a empregadores que paralisassem atividades sem autorização 
 
 ### Art. 723
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
 Art. 723 ~~- Os empregados que, coletivamente e sem prévia autorização do tribunal competente, abandonarem o serviço, ou desobedecerem a qualquer decisão proferida em dissídio, incorrerão nas seguintes penalidades:~~(Revogado pela Lei nº 9.842, de 7.10.1999)
 
@@ -27853,7 +27850,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 724
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
 Art. 724 ~~- Quando a suspensão do serviço ou a desobediência às decisões dos Tribunais do Trabalho for ordenada por associação profissional, sindical ou não, de empregados ou de empregadores, a pena será:~~                     (Revogado pela Lei nº 9.842, de 7.10.1999)
 
@@ -27887,7 +27884,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 725
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
 Art. 725 ~~-~~ ~~Aquele que, empregado ou empregador, ou mesmo estranho às categorias em conflito, instigar a prática de infrações previstas neste Capítulo ou houver feito cabeça de coligação de empregadores ou de empregados incorrerá na pena de prisão prevista na legislação penal, sem prejuízo das demais sanções cominadas.~~                  (Revogado pela Lei nº 9.842, de 7.10.1999)
 
@@ -27921,7 +27918,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 726
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
 
 Art. 726 - Aquele que recusar o exercício da função de vogal de Junta de Conciliação e Julgamento ou de Tribunal Regional, sem motivo justificado, incorrerá nas seguintes penas:
 
@@ -27955,7 +27952,7 @@ Punia a recusa injustificada ao exercício da função de vogal. Sem aplicação
 
 ### Art. 727
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
 
 Art. 727 - Os vogais das Juntas de Conciliação e Julgamento, ou dos Tribunais Regionais, que faltarem a 3 (três) reuniões ou sessões consecutivas, sem motivo justificado, perderão o cargo, além de incorrerem nas penas do artigo anterior.
 
@@ -27985,7 +27982,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 728
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO II — DAS PENALIDADES CONTRA OS MEMBROS DA JUSTIÇA DO TRABALHO
 
 Art. 728 - Aos presidentes, membros, juízes, vogais, e funcionários auxiliares da Justiça do Trabalho, aplica-se o disposto no Título XI do Código Penal.
 
@@ -28013,7 +28010,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 729
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO III — DE OUTRAS PENALIDADES
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO III — DE OUTRAS PENALIDADES
 
 Art. 729 - O empregador que deixar de cumprir decisão passada em julgado sobre a readmissão ou reintegração de empregado, além do pagamento dos salários deste, incorrerá na multa de Cr$ 10,00 (dez cruzeiros) a Cr$ 50,00 (cinquenta cruzeiros) por dia, até que seja cumprida a decisão.                (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
 
@@ -28047,7 +28044,7 @@ O empregador que não cumprir decisão transitada em julgado de readmissão ou r
 
 ### Art. 730
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO III — DE OUTRAS PENALIDADES
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO III — DE OUTRAS PENALIDADES
 
 Art. 730 - Aqueles que se recusarem a depor como testemunhas, sem motivo justificado, incorrerão na multa de Cr$ 50,00 (cinquenta cruzeiros) a Cr$ 500,00 (quinhentos cruzeiros).                    (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
 
@@ -28077,7 +28074,7 @@ Quem se recusar a depor como testemunha sem motivo justificado paga multa, além
 
 ### Art. 731
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO III — DE OUTRAS PENALIDADES
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO III — DE OUTRAS PENALIDADES
 
 Art. 731 - Aquele que, tendo apresentado ao distribuidor reclamação verbal, não se apresentar, no prazo estabelecido no parágrafo único do art. 786, à Junta ou Juízo para fazê-lo tomar por termo, incorrerá na pena de perda, pelo prazo de 6 (seis) meses, do direito de reclamar perante a Justiça do Trabalho.
 
@@ -28107,7 +28104,7 @@ Quem apresenta reclamação verbal e não comparece em 5 dias para reduzi-la a t
 
 ### Art. 732
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO III — DE OUTRAS PENALIDADES
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO III — DE OUTRAS PENALIDADES
 
 Art. 732 - Na mesma pena do artigo anterior incorrerá o reclamante que, por 2 (duas) vezes seguidas, der causa ao arquivamento de que trata o art. 844.
 
@@ -28137,7 +28134,7 @@ O reclamante que der causa a dois arquivamentos seguidos por ausência à audiê
 
 ### Art. 733
 
-**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VI — DOS SERVIÇOS AUXILIARES DA JUSTIÇA DO TRABALHO › SEÇÃO III — DE OUTRAS PENALIDADES
+**Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO III — DE OUTRAS PENALIDADES
 
 Art. 733 - As infrações de disposições deste Título, para as quais não haja penalidades cominadas, serão punidas com a multa de Cr$ 50,00 (cinquenta cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros), elevada ao dobro na reincidência.                (Vide Leis nºs 6.986, de 1982 e 6.205, de 1975)
 

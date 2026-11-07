@@ -20,14 +20,17 @@ def _espacado(l):
     if not re.fullmatch(r'(?:[A-ZÁÉÍÓÚÂÊÔÃÕÇ]\s+){3,}[A-ZÁÉÍÓÚÂÊÔÃÕÇ]', l): return l
     s = re.sub(r'\s+', '', l)
     return re.sub(r'^(PARTE|LIVRO)(?=[A-Z])', r'\1 ', s)
-L = [_espacado(l) for l in L]
+# Cabeçalhos sem acento ("TITULO III", "CAPITULO I", no Código Civil) recebem o acento.
+def _acento(l):
+    return re.sub(r'^(SUB)?TITULO(?=\s)', lambda m: (m.group(1) or '') + 'TÍTULO', re.sub(r'^CAPITULO(?=\s)', 'CAPÍTULO', l))
+L = [_acento(_espacado(l)) for l in L]
 
-HEAD = re.compile(r'^(TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
+HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
 # \s aceita também o espaço não separável (U+00A0) que o Planalto às vezes usa após "Art."
 # Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
 ART = re.compile(r'^Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?(?:\s|(?=\())')
-LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'CAPÍTULO': 3, 'SEÇÃO': 4, 'Seção': 4, 'SUBSEÇÃO': 5, 'Subseção': 5}
+LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
 def find(prefix, start=0):
     for i in range(start, len(L)):
@@ -41,7 +44,7 @@ for p in cfg['parts']:
     a = find(p['start'], pos)
     b = find(p['end'], a + 1)
     pos = b
-    path = [None] * 6
+    path = [None] * 7
     cur = None
     i = a
     while i < b:
@@ -63,7 +66,7 @@ for p in cfg['parts']:
             name = ' '.join(parts).replace(' Regulamento', '').replace('Estados,Distrito', 'Estados, Distrito')
             label = m.group(1).upper() + ' ' + m.group(2)
             path[lv] = f'{label} — {name}' if name else label
-            for k in range(lv + 1, 6): path[k] = None
+            for k in range(lv + 1, 7): path[k] = None
             structure.append({'part': p['id'], 'level': lv, 'label': label, 'name': name, 'notes': notes})
             cur = None; i = j; continue
         m = ART.match(l)
