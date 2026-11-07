@@ -14,6 +14,9 @@ readme = (raiz / 'README.md').read_text(encoding='utf-8')
 dados = {'README.md': readme}
 for caminho in re.findall(r'\]\((leis/[^)]+\.md)\)', readme):
     dados[caminho] = (raiz / caminho).read_text(encoding='utf-8')
+for extra in ('docs/manual-de-uso.md',):
+    if (raiz / extra).exists():
+        dados[extra] = (raiz / extra).read_text(encoding='utf-8')
 js = 'window.LEX_DADOS = ' + json.dumps(dados, ensure_ascii=False) + ';\n'
 (saida / 'dados-offline.js').write_text(js, encoding='utf-8')
-print(f'{len(dados) - 1} leis embutidas em {saida / "dados-offline.js"} ({len(js) // 1024} KB)')
+print(f'{len([k for k in dados if k.startswith("leis/")])} leis embutidas em {saida / "dados-offline.js"} ({len(js) // 1024} KB)')

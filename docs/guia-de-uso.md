@@ -1,5 +1,7 @@
 # Guia de uso — Lex Vade Mecum on-line
 
+> Para uma explicação mais simples, organizada por finalidade (estudar, pesquisar, compartilhar), veja o [Manual de uso](manual-de-uso.md). Este guia é a referência completa de cada recurso.
+
 Endereço: **https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/**
 
 A página reúne todas as leis do repositório para leitura e consulta, no computador, no tablet ou no celular. O texto de cada artigo é o texto oficial vigente, conferido toda semana com o Planalto (leis), com o TST e com o TRT8 (precedentes). Não é preciso instalar nada nem criar conta.
