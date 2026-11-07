@@ -1,0 +1,59 @@
+@CTN 35-A
+I: Dispositivo vetado pelo Presidente da República; não chegou a vigorar e não tem conteúdo normativo.
+P: Vetado || Sem conteúdo normativo || Numeração preservada
+K: dispositivo vetado; revogação; CTN
+
+@CTN 39
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 227, de 2026). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 227, de 2026 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 52
+I: Arts. 52 a 58 integralmente revogados (Revogados pelo Decreto-lei nº 406, de 1968). Não têm mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogados pelo Decreto-lei nº 406, de 1968 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 59
+I: Arts. 59 a 62 integralmente revogados (Revogados pelo Ato Complementar nº 31, de 1966). Não têm mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogados pelo Ato Complementar nº 31, de 1966 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 71
+I: Arts. 71 a 73 integralmente revogados (Revogados pelo Decreto-lei nº 406, de 1968). Não têm mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogados pelo Decreto-lei nº 406, de 1968 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 86
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 87
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 88
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 89
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 93
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 94
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
+
+@CTN 95
+I: Dispositivo integralmente revogado (Revogado pela Lei Complementar nº 143, de 2013). Não tem mais eficácia normativa; a numeração é mantida no texto oficial apenas para registro.
+P: Sem eficácia normativa atual || Revogado pela Lei Complementar nº 143, de 2013 || Matéria tratada por norma posterior
+K: dispositivo revogado; revogação; CTN
