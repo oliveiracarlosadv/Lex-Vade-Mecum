@@ -1,0 +1,424 @@
+@CC 224
+I: Documentos em língua estrangeira devem ser traduzidos para o português para produzir efeitos legais no Brasil. O CPC exige tradução juramentada ou feita por via diplomática (art. 192).
+P: Tradução obrigatória || Efeitos legais no Brasil || Tradução juramentada no processo
+K: documento estrangeiro; tradução
+
+@CC 225
+I: Fotografias, filmes, gravações e reproduções mecânicas ou eletrônicas (inclusive prints e mensagens) fazem prova plena se a parte contrária não impugnar sua exatidão.
+P: Reproduções eletrônicas como prova || Prova plena sem impugnação || Impugnação exige verificação
+K: prova eletrônica; reprodução; gravação
+
+@CC 226
+I: Os livros e fichas empresariais provam contra o empresário e, a seu favor, quando regularmente escriturados e confirmados por outras provas. Não bastam quando a lei exige escritura pública ou forma especial, e podem ser ilididos por prova da falsidade.
+P: Prova contra o empresário || Prova a favor se regulares e confirmados || Limites da prova contábil
+K: livros empresariais; escrituração; prova
+
+@CC 227
+I: O caput foi revogado pelo CPC de 2015, que eliminou o limite de valor para a prova exclusivamente testemunhal. Permanece a regra de que, em qualquer valor, a testemunha pode complementar a prova escrita.
+P: Caput revogado pelo CPC || Prova testemunhal subsidiária ou complementar || Sem limite de valor
+K: prova testemunhal; começo de prova escrita; CPC
+
+@CC 228
+I: Não podem ser testemunhas os menores de 16 anos, o interessado no litígio, o amigo íntimo ou inimigo capital das partes e os parentes até o terceiro grau, mas o juiz pode ouvi-los para provar fatos que só eles conheçam. Desde o Estatuto da Pessoa com Deficiência, a pessoa com deficiência pode testemunhar com os recursos de tecnologia assistiva.
+P: Impedimentos e suspeições para testemunhar || Oitiva excepcional de fatos que só eles conhecem || Pessoa com deficiência pode testemunhar
+K: testemunha; impedimento; suspeição; pessoa com deficiência
+
+@CC 231
+I: Quem se recusa a exame médico necessário não pode se beneficiar da recusa.
+P: Vedação de aproveitar a recusa || Exame médico || Boa-fé processual
+K: exame médico; recusa; prova
+
+@CC 232
+I: A recusa à perícia médica determinada pelo juiz pode suprir a prova que se pretendia obter. Na investigação de paternidade, a recusa ao DNA gera presunção relativa de paternidade (Súmula 301 do STJ; Lei nº 8.560/1992, art. 2º-A).
+P: Recusa supre a prova || Presunção na investigação de paternidade || Súmula 301 do STJ
+K: perícia médica; DNA; presunção; Súmula 301 STJ
+
+@CC 233
+I: A obrigação de dar coisa certa inclui os acessórios, mesmo não mencionados, salvo disposição em contrário (princípio da gravitação jurídica).
+P: Acessórios incluídos || Salvo título ou circunstâncias || Gravitação jurídica
+K: obrigação de dar coisa certa; acessórios
+
+@CC 234
+I: Perdida a coisa sem culpa do devedor antes da tradição, resolve-se a obrigação para ambos (res perit domino); com culpa, o devedor paga o equivalente e perdas e danos.
+P: Perda sem culpa resolve a obrigação || Perda com culpa gera equivalente e perdas e danos || Risco do dono até a tradição
+K: perda da coisa; tradição; res perit domino
+
+@CC 235
+I: Deteriorada a coisa sem culpa do devedor, o credor pode resolver a obrigação ou aceitar a coisa com abatimento do preço.
+P: Deterioração sem culpa || Resolução ou abatimento || Opção do credor
+K: deterioração; abatimento do preço
+
+@CC 236
+I: Se o devedor for culpado pela deterioração, o credor pode exigir o equivalente ou aceitar a coisa como está, com perdas e danos em ambos os casos.
+P: Deterioração culposa || Equivalente ou coisa no estado || Perdas e danos
+K: deterioração; culpa; perdas e danos
+
+@CC 237
+I: Até a tradição, a coisa e seus melhoramentos pertencem ao devedor, que pode pedir aumento do preço ou resolver a obrigação. Os frutos colhidos são do devedor e os pendentes, do credor.
+P: Propriedade até a tradição || Aumento de preço pelos melhoramentos || Frutos percebidos e pendentes
+K: tradição; melhoramentos; frutos
+
+@CC 238
+I: Na obrigação de restituir coisa certa, se ela se perder sem culpa do devedor, o credor (dono) suporta a perda e a obrigação se resolve.
+P: Obrigação de restituir || Credor suporta a perda || Res perit domino
+K: obrigação de restituir; perda; risco
+
+@CC 239
+I: Se a coisa a restituir se perder por culpa do devedor, ele responde pelo equivalente e por perdas e danos.
+P: Perda culposa || Equivalente || Perdas e danos
+K: obrigação de restituir; culpa; perdas e danos
+
+@CC 240
+I: Deteriorada sem culpa, o credor recebe a coisa como está, sem indenização; com culpa do devedor, aplica-se o art. 239.
+P: Deterioração sem culpa: sem indenização || Com culpa: equivalente e perdas e danos || Obrigação de restituir
+K: deterioração; obrigação de restituir
+
+@CC 241
+I: Na obrigação de restituir, melhoramentos sem trabalho ou despesa do devedor beneficiam o credor, sem indenização.
+P: Acréscimos naturais ao credor || Sem indenização || Dono lucra
+K: melhoramentos; obrigação de restituir
+
+@CC 242
+I: Se o devedor investiu trabalho ou despesa no melhoramento, aplicam-se as regras das benfeitorias do possuidor de boa-fé ou de má-fé, e o mesmo quanto aos frutos.
+P: Remissão às regras de benfeitorias || Boa-fé ou má-fé do possuidor || Frutos
+K: benfeitorias; possuidor de boa-fé; frutos
+
+@CC 243
+I: A coisa incerta deve ser indicada ao menos pelo gênero e pela quantidade.
+P: Determinação mínima || Gênero e quantidade || Obrigação genérica
+K: obrigação de dar coisa incerta; gênero
+
+@CC 244
+I: Na obrigação genérica, a escolha cabe ao devedor, salvo disposição em contrário, que não pode dar a pior nem é obrigado a dar a melhor (critério da qualidade média).
+P: Escolha do devedor || Qualidade média || Concentração
+K: escolha; coisa incerta; qualidade média
+
+@CC 245
+I: Feita a escolha e cientificado o credor, aplicam-se as regras da obrigação de dar coisa certa.
+P: Concentração do débito || Ciência do credor || Passa a coisa certa
+K: concentração; coisa incerta
+
+@CC 246
+I: Antes da escolha, o devedor não pode alegar perda ou deterioração, nem por caso fortuito ou força maior, pois o gênero não perece.
+P: Genus nunquam perit || Sem exoneração antes da escolha || Risco do devedor
+K: gênero não perece; caso fortuito; coisa incerta
+
+@CC 247
+I: O devedor que recusa prestação que só ele pode cumprir (obrigação personalíssima) responde por perdas e danos.
+P: Obrigação de fazer personalíssima || Recusa gera perdas e danos || Tutela específica processual
+K: obrigação de fazer; infungível; perdas e danos
+
+@CC 248
+I: Se a prestação de fazer se tornar impossível sem culpa do devedor, resolve-se a obrigação; com culpa, há perdas e danos.
+P: Impossibilidade sem culpa resolve || Com culpa, perdas e danos || Obrigação de fazer
+K: obrigação de fazer; impossibilidade
+
+@CC 249
+I: Se o fato puder ser feito por terceiro, o credor pode mandar executá-lo à custa do devedor que recusa ou atrasa, com indenização. Em urgência, pode fazê-lo sem autorização judicial e pedir ressarcimento.
+P: Execução por terceiro || Custas do devedor || Autotutela em caso de urgência
+K: obrigação de fazer fungível; execução por terceiro; autotutela
+
+@CC 250
+I: A obrigação de não fazer se extingue se, sem culpa do devedor, for impossível abster-se do ato.
+P: Impossibilidade da abstenção || Sem culpa || Extinção
+K: obrigação de não fazer; impossibilidade
+
+@CC 251
+I: Se o devedor praticou o ato que devia evitar, o credor pode exigir o desfazimento, sob pena de desfazê-lo à custa dele, com perdas e danos. Em urgência, pode desfazer sem autorização judicial.
+P: Desfazimento do ato || Custas do devedor e perdas e danos || Autotutela em urgência
+K: obrigação de não fazer; desfazimento; autotutela
+
+@CC 252
+I: Na obrigação alternativa, a escolha cabe ao devedor, salvo estipulação; ele não pode obrigar o credor a receber parte de uma e parte de outra prestação. Em prestações periódicas, a escolha pode ser feita a cada período; havendo vários optantes sem acordo, decide o juiz, assim como quando o terceiro não quiser ou não puder escolher.
+P: Escolha do devedor || Indivisibilidade da prestação escolhida || Escolha por terceiro ou pelo juiz
+K: obrigação alternativa; escolha
+
+@CC 253
+I: Se uma das prestações não puder ser objeto da obrigação ou se tornar inexequível, o débito subsiste quanto à outra.
+P: Concentração na prestação possível || Subsistência da obrigação || Alternatividade
+K: obrigação alternativa; impossibilidade
+
+@CC 254
+I: Se, por culpa do devedor que tem a escolha, ambas se tornarem impossíveis, ele paga o valor da última que se impossibilitou, mais perdas e danos.
+P: Culpa do devedor || Valor da última prestação || Perdas e danos
+K: obrigação alternativa; culpa
+
+@CC 255
+I: Se a escolha for do credor e uma prestação se tornar impossível por culpa do devedor, o credor exige a restante ou o valor da outra, com perdas e danos; se ambas, pode exigir o valor de qualquer delas.
+P: Escolha do credor || Opção entre a subsistente e o valor da perdida || Perdas e danos
+K: obrigação alternativa; escolha do credor
+
+@CC 256
+I: Se todas as prestações se tornarem impossíveis sem culpa do devedor, a obrigação se extingue.
+P: Impossibilidade total sem culpa || Extinção || Sem indenização
+K: obrigação alternativa; extinção
+
+@CC 257
+I: Na obrigação divisível com vários credores ou devedores, presume-se dividida em tantas obrigações iguais quantos forem eles (concursu partes fiunt).
+P: Presunção de divisão || Partes iguais || Pluralidade subjetiva
+K: obrigação divisível; pluralidade
+
+@CC 258
+I: A obrigação é indivisível quando a prestação não admite divisão por natureza, por razão econômica ou pela razão determinante do negócio.
+P: Indivisibilidade natural, econômica ou convencional || Objeto da prestação || Efeitos sobre a cobrança
+K: obrigação indivisível
+
+@CC 259
+I: Sendo a prestação indivisível e vários os devedores, cada um responde pela dívida toda; quem paga sub-roga-se contra os demais.
+P: Cada devedor responde pelo todo || Sub-rogação de quem paga || Diferença da solidariedade
+K: obrigação indivisível; sub-rogação
+
+@CC 260
+I: Havendo vários credores de prestação indivisível, cada um pode exigir a dívida toda, e o devedor se libera pagando a todos juntos ou a um que dê caução de ratificação dos demais.
+P: Cada credor exige o todo || Pagamento a todos ou com caução || Proteção do devedor
+K: obrigação indivisível; pluralidade de credores; caução
+
+@CC 261
+I: Se um credor receber a prestação inteira, os demais podem exigir dele, em dinheiro, sua parte.
+P: Rateio entre credores || Em dinheiro || Relação interna
+K: obrigação indivisível; rateio
+
+@CC 262
+I: O perdão de um credor não extingue a obrigação para os outros, que a exigem descontada a quota do remitente; o mesmo vale para transação, novação, compensação e confusão.
+P: Remissão parcial || Desconto da quota || Extensão a outros modos de extinção
+K: remissão; obrigação indivisível
+
+@CC 263
+I: A obrigação indivisível que se converte em perdas e danos torna-se divisível. Se todos os devedores tiverem culpa, respondem em partes iguais; se um só, os outros se exoneram e só ele responde pelas perdas e danos.
+P: Conversão em perdas e danos divide a obrigação || Culpa de todos: partes iguais || Culpa de um: só ele responde
+K: obrigação indivisível; perdas e danos; culpa
+
+@CC 264
+I: Há solidariedade quando, na mesma obrigação, há vários credores ou devedores, cada um com direito ou obrigado à dívida toda.
+P: Unidade da obrigação || Cada um pelo todo || Solidariedade ativa e passiva
+K: solidariedade; obrigação solidária
+
+@CC 265
+I: A solidariedade não se presume: resulta da lei ou da vontade das partes. No CDC, a solidariedade entre fornecedores é legal (arts. 7º e 25).
+P: Não se presume || Fonte legal ou convencional || Interpretação restritiva
+K: solidariedade; presunção
+
+@CC 266
+I: A obrigação solidária pode ser pura para um e condicional, a prazo ou com lugar diverso de pagamento para outro.
+P: Modalidades diferentes entre coobrigados || Unidade da prestação || Flexibilidade
+K: solidariedade; condição; prazo
+
+@CC 267
+I: Cada credor solidário pode exigir do devedor a prestação inteira.
+P: Solidariedade ativa || Exigência do todo || Um credor pelo todo
+K: solidariedade ativa
+
+@CC 268
+I: Enquanto nenhum credor solidário demandar o devedor, este pode pagar a qualquer deles; demandado, deve pagar ao autor da ação (prevenção judicial).
+P: Pagamento a qualquer credor || Prevenção pelo ajuizamento || Liberação do devedor
+K: solidariedade ativa; pagamento
+
+@CC 269
+I: O pagamento a um credor solidário extingue a dívida até o valor pago.
+P: Extinção proporcional || Pagamento a um credor || Efeito para todos
+K: solidariedade ativa; pagamento
+
+@CC 270
+I: Morrendo um credor solidário, cada herdeiro só pode exigir a quota correspondente ao seu quinhão, salvo obrigação indivisível (refração do crédito).
+P: Herdeiros não herdam a solidariedade || Quota do quinhão || Exceção da indivisibilidade
+K: solidariedade ativa; herdeiros
+
+@CC 271
+I: Convertida a prestação em perdas e danos, a solidariedade subsiste (diferente da indivisibilidade, art. 263).
+P: Solidariedade persiste || Perdas e danos || Contraste com a indivisibilidade
+K: solidariedade; perdas e danos
+
+@CC 272
+I: O credor que perdoou a dívida ou recebeu o pagamento responde aos demais pela parte de cada um.
+P: Relação interna entre credores || Responsabilidade do que recebeu ou perdoou || Rateio
+K: solidariedade ativa; remissão; rateio
+
+@CC 273
+I: O devedor não pode opor a um credor solidário as exceções pessoais que tenha contra outro credor.
+P: Exceções pessoais restritas || Proteção dos credores || Exceções comuns oponíveis
+K: solidariedade ativa; exceções pessoais
+
+@CC 274
+I: O julgamento contrário a um credor solidário não atinge os outros, mas o favorável aproveita a todos, ressalvadas exceções pessoais do devedor (redação dada pelo CPC de 2015).
+P: Coisa julgada secundum eventum litis || Favorável aproveita a todos || Exceções pessoais ressalvadas
+K: solidariedade ativa; coisa julgada
+
+@CC 275
+I: O credor pode cobrar a dívida comum de um, de alguns ou de todos os devedores, total ou parcialmente; havendo pagamento parcial, os demais seguem solidários pelo resto. Propor ação contra um ou alguns não é renúncia à solidariedade.
+P: Livre escolha do devedor || Pagamento parcial mantém solidariedade || Ação contra um não é renúncia
+K: solidariedade passiva; cobrança
+
+@CC 276
+I: Morrendo um devedor solidário, cada herdeiro só paga a quota de seu quinhão, salvo obrigação indivisível; reunidos, os herdeiros valem como um devedor solidário em relação aos demais.
+P: Refração da dívida entre herdeiros || Exceção da indivisibilidade || Herdeiros reunidos como um devedor
+K: solidariedade passiva; herdeiros
+
+@CC 277
+I: O pagamento parcial ou o perdão obtido por um devedor só aproveita aos outros até o valor pago ou perdoado.
+P: Efeito limitado || Até o valor pago ou relevado || Demais permanecem obrigados
+K: solidariedade passiva; remissão; pagamento parcial
+
+@CC 278
+I: Cláusula ou obrigação adicional ajustada entre um devedor e o credor não agrava a posição dos demais sem o consentimento deles.
+P: Vedação de agravamento || Consentimento necessário || Proteção dos codevedores
+K: solidariedade passiva; agravamento
+
+@CC 279
+I: Se a prestação se tornar impossível por culpa de um devedor, todos pagam o equivalente, mas só o culpado responde pelas perdas e danos.
+P: Equivalente para todos || Perdas e danos só do culpado || Pessoalidade da culpa
+K: solidariedade passiva; culpa; perdas e danos
+
+@CC 280
+I: Todos os devedores respondem pelos juros de mora, mesmo que a ação seja só contra um; o culpado reembolsa os outros.
+P: Juros de mora para todos || Ação contra um só || Regresso contra o culpado
+K: solidariedade passiva; juros de mora
+
+@CC 281
+I: O devedor demandado pode opor suas exceções pessoais e as comuns a todos, mas não as pessoais de outro codevedor.
+P: Exceções pessoais próprias || Exceções comuns || Vedação de exceções alheias
+K: solidariedade passiva; exceções
+
+@CC 282
+I: O credor pode renunciar à solidariedade em favor de um, alguns ou todos os devedores; a renúncia a favor de um mantém a solidariedade dos demais, abatida a parte do exonerado (Enunciado 349 da IV Jornada).
+P: Renúncia à solidariedade || Total ou parcial || Demais permanecem solidários
+K: renúncia à solidariedade
+
+@CC 283
+I: Quem pagou a dívida toda pode cobrar de cada codevedor sua quota, presumidas iguais, e a parte do insolvente é dividida entre todos.
+P: Direito de regresso || Quotas presumidas iguais || Rateio da parte do insolvente
+K: regresso; solidariedade passiva; insolvente
+
+@CC 284
+I: No rateio da quota do insolvente, contribuem também os devedores exonerados da solidariedade pelo credor.
+P: Exonerado participa do rateio || Parte do insolvente || Proteção do que pagou
+K: rateio; insolvência; exoneração
+
+@CC 285
+I: Se a dívida solidária interessar só a um devedor (como o afiançado), ele responde por toda ela perante quem pagou.
+P: Interesse exclusivo || Reembolso integral || Ex.: devedor principal e fiador solidário
+K: solidariedade passiva; interesse exclusivo; regresso
+
+@CC 286
+I: O credor pode ceder seu crédito, salvo se a natureza da obrigação, a lei ou o contrato proibirem; a cláusula proibitiva só pode ser oposta ao cessionário de boa-fé se constar do instrumento.
+P: Livre cessão do crédito || Limites: natureza, lei e convenção || Proteção do cessionário de boa-fé
+K: cessão de crédito; cláusula proibitiva
+
+@CC 287
+I: Salvo disposição em contrário, a cessão abrange todos os acessórios do crédito (juros, garantias, multas).
+P: Acessórios acompanham o crédito || Salvo estipulação || Garantias transmitidas
+K: cessão de crédito; acessórios
+
+@CC 288
+I: A cessão só é eficaz perante terceiros se feita por instrumento público ou particular com as formalidades do mandato (art. 654, § 1º) e, para muitos fins, registrado.
+P: Forma para eficácia perante terceiros || Instrumento público ou particular qualificado || Entre as partes vale sem forma
+K: cessão de crédito; eficácia; terceiros
+
+@CC 289
+I: O cessionário de crédito hipotecário pode averbar a cessão no registro do imóvel.
+P: Averbação da cessão || Crédito hipotecário || Publicidade
+K: cessão de crédito; hipoteca; averbação
+
+@CC 290
+I: A cessão só produz efeito perante o devedor após notificação, ou se ele se declarou ciente por escrito. A falta de notificação não impede a cobrança nem a negativação pelo cessionário, segundo o STJ.
+P: Notificação do devedor || Ciência por escrito supre || Sem notificação, pagamento ao cedente libera
+K: cessão de crédito; notificação do devedor
+
+@CC 291
+I: Havendo várias cessões do mesmo crédito, prevalece a que se completar com a entrega do título.
+P: Concurso de cessões || Tradição do título || Prioridade
+K: cessão de crédito; tradição do título
+
+@CC 292
+I: Fica liberado o devedor que paga ao credor original antes de saber da cessão, ou, havendo várias cessões, paga ao cessionário que apresenta o título; constando de escritura pública, prevalece a prioridade da notificação.
+P: Pagamento de boa-fé libera || Cessões múltiplas || Prioridade da notificação
+K: cessão de crédito; pagamento; boa-fé
+
+@CC 293
+I: Mesmo sem ciência do devedor, o cessionário pode praticar atos conservatórios do crédito.
+P: Atos conservatórios || Independem de notificação || Proteção do cessionário
+K: cessão de crédito; atos conservatórios
+
+@CC 294
+I: O devedor pode opor ao cessionário suas próprias exceções e as que tinha contra o cedente quando soube da cessão.
+P: Exceções oponíveis || Momento da ciência || Proteção do devedor
+K: cessão de crédito; exceções
+
+@CC 295
+I: Na cessão onerosa, o cedente responde pela existência do crédito (nomen verum), mesmo sem cláusula; na gratuita, só se agiu de má-fé.
+P: Garantia da existência do crédito || Cessão onerosa || Cessão gratuita: só má-fé
+K: cessão de crédito; responsabilidade do cedente
+
+@CC 296
+I: Salvo estipulação, o cedente não responde pela solvência do devedor (cessão pro soluto).
+P: Cessão pro soluto como regra || Solvência não garantida || Pacto em contrário possível
+K: cessão de crédito; solvência; pro soluto
+
+@CC 297
+I: O cedente que garantiu a solvência (pro solvendo) responde até o que recebeu, com juros, mais as despesas da cessão e da cobrança.
+P: Cessão pro solvendo || Limite do valor recebido || Despesas ressarcidas
+K: cessão de crédito; pro solvendo
+
+@CC 298
+I: Penhorado o crédito, o credor que sabe da penhora não pode transferi-lo; o devedor que paga sem ter sido notificado da penhora fica liberado.
+P: Indisponibilidade do crédito penhorado || Devedor de boa-fé liberado || Direitos de terceiro contra o credor
+K: penhora de crédito; cessão
+
+@CC 299
+I: Terceiro pode assumir a dívida com consentimento expresso do credor, liberando o devedor original, salvo se o novo devedor já era insolvente e o credor ignorava. O silêncio do credor diante do prazo fixado vale como recusa.
+P: Consentimento expresso do credor || Liberação do devedor primitivo || Silêncio é recusa
+K: assunção de dívida; consentimento do credor
+
+@CC 300
+I: Salvo concordância expressa do devedor primitivo, extinguem-se com a assunção as garantias especiais que ele havia dado.
+P: Extinção das garantias especiais || Consentimento do devedor original || Proteção do garantidor
+K: assunção de dívida; garantias
+
+@CC 301
+I: Anulada a substituição do devedor, restaura-se a dívida com as garantias, exceto as de terceiros que não conheciam o vício.
+P: Restauração do débito || Garantias de terceiros de boa-fé extintas || Efeito da anulação
+K: assunção de dívida; anulação; garantias
+
+@CC 302
+I: O novo devedor não pode opor ao credor as exceções pessoais do devedor primitivo.
+P: Exceções pessoais intransmissíveis || Exceções comuns oponíveis || Proteção do credor
+K: assunção de dívida; exceções
+
+@CC 303
+I: O adquirente de imóvel hipotecado pode assumir o crédito garantido; se o credor notificado não impugnar em 30 dias, presume-se o consentimento.
+P: Imóvel hipotecado || Assunção pelo adquirente || Silêncio de 30 dias como consentimento
+K: assunção de dívida; hipoteca; consentimento tácito
+
+@CC 304
+I: Qualquer interessado pode pagar a dívida, inclusive com consignação se o credor se opuser; o terceiro não interessado também pode, em nome e por conta do devedor, salvo oposição deste.
+P: Pagamento por terceiro interessado || Terceiro não interessado em nome do devedor || Consignação contra a recusa
+K: pagamento; terceiro interessado; terceiro não interessado
+
+@CC 305
+I: O terceiro não interessado que paga em nome próprio tem direito a reembolso, mas não se sub-roga nos direitos do credor; pagando antes do vencimento, só é reembolsado no vencimento.
+P: Reembolso sem sub-rogação || Pagamento antecipado || Terceiro não interessado
+K: pagamento por terceiro; reembolso; sub-rogação
+
+@CC 306
+I: O terceiro que paga sem conhecimento ou contra a vontade do devedor não tem reembolso se o devedor tinha meios para evitar a cobrança (como prescrição ou compensação).
+P: Pagamento contra a vontade do devedor || Perda do reembolso || Defesas do devedor preservadas
+K: pagamento por terceiro; oposição do devedor
+
+@CC 307
+I: O pagamento que transmite propriedade só é eficaz se feito por quem pode alienar o bem; se for coisa fungível recebida e consumida de boa-fé, o credor não precisa devolvê-la.
+P: Poder de disposição || Coisa fungível consumida de boa-fé || Proteção do credor
+K: pagamento; transmissão de propriedade; fungível
+
+@CC 308
+I: O pagamento deve ser feito ao credor ou a seu representante; feito a outro, só vale se ratificado ou na medida em que reverteu em proveito do credor.
+P: Destinatário do pagamento || Ratificação || Proveito do credor
+K: pagamento; credor; representante
+
+@CC 309
+I: É válido o pagamento feito de boa-fé ao credor putativo (aparente), mesmo que depois se prove que não era credor.
+P: Teoria da aparência || Boa-fé do devedor || Credor putativo
+K: credor putativo; teoria da aparência; pagamento
+
+@CC 310
+I: Não vale o pagamento feito conscientemente a credor incapaz de dar quitação, salvo prova de que reverteu em benefício dele.
+P: Credor incapaz || Conhecimento do devedor || Prova do benefício
+K: pagamento; incapaz; quitação
