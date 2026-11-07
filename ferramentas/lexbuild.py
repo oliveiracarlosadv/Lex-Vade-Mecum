@@ -25,11 +25,13 @@ def _acento(l):
     return re.sub(r'^(SUB)?TITULO(?=\s)', lambda m: (m.group(1) or '') + 'TÍTULO', re.sub(r'^CAPITULO(?=\s)', 'CAPÍTULO', l))
 L = [_acento(_espacado(l)) for l in L]
 
-HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR)\b\s*(.*)$')
+HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|SEÇÃO|Seção|SUBSEÇÃO|Subseção|LIVRO|PARTE)\s+([IVXLC]+(-[A-Z])?|ÚNIC[OA]|GERAL|ESPECIAL|COMPLEMENTAR|PRIMEIRO|SEGUNDO|TERCEIRO|QUARTO|QUINTO)\b\s*(.*)$')
 # \s aceita também o espaço não separável (U+00A0) que o Planalto às vezes usa após "Art."
+# Aceita "Arts. 52 a 58 (Revogados...)" (intervalo revogado, CTN) como uma unidade.
 # Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
-ART = re.compile(r'^Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?(?:\s|(?=\())')
+ART = re.compile(r'^Arts?\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|[A-Z](?=[.\s-]))?\.?(?:\s|(?=\())')
+SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓRIAS|Disposições Finais e Transitórias)$')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
 def find(prefix, start=0):
@@ -51,6 +53,13 @@ for p in cfg['parts']:
         l = L[i]
         if not l:
             i += 1; continue
+        # Divisões sem número (CTN): "DISPOSIÇÃO PRELIMINAR" e "Disposições Finais e Transitórias"
+        # isoladas entre artigos abrem uma divisão no nível do Livro.
+        if SOLTA.match(l):
+            path[1] = l.upper()
+            for k in range(2, 7): path[k] = None
+            structure.append({'part': p['id'], 'level': 1, 'label': l.upper(), 'name': '', 'notes': []})
+            cur = None; i += 1; continue
         m = HEAD.match(l)
         if m and not ART.match(l):
             lv = 0 if m.group(2) == 'COMPLEMENTAR' else LEVEL[m.group(1)]

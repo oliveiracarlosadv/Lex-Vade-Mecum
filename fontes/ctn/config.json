@@ -1,0 +1,14 @@
+{
+ "nome": "Código Tributário Nacional — CTN (Lei nº 5.172/1966)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+ "saida": "leis/ctn/ctn-completa.md",
+ "minimo_artigos": 200,
+ "parts": [
+  {
+   "id": "CTN",
+   "start": "DISPOSIÇÃO PRELIMINAR",
+   "end": "Brasília, 25 de outubro de 1966",
+   "self_name": "deste Código"
+  }
+ ]
+}

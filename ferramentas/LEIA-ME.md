@@ -58,6 +58,7 @@ Para cada norma em `fontes/<lei>/config.json`:
 
 - `lexbuild.py`: monta o Markdown (texto oficial + análises + remissões e alterações extraídas do próprio texto).
 - `lexbuild.py` reconhece cabeçalhos com letras espaçadas ("P A R T E G E R A L"), sem acento ("TITULO", "CAPITULO") e o nível SUBTÍTULO, presentes no Código Civil; aceita também "Art. 759.(Revogado...)" sem espaço. A mudança corrigiu o Capítulo VII (Das Penalidades) da CLT, cujo cabeçalho sem acento estava dentro do art. 721.
+- `lexbuild.py` também aceita os Livros por ordinal ("LIVRO PRIMEIRO", "LIVRO SEGUNDO"), blocos revogados em uma linha ("Arts. 52 a 58 (Revogados...)"), que viram um único dispositivo identificado pelo primeiro artigo, e títulos soltos sem número ("DISPOSIÇÃO PRELIMINAR", "DISPOSIÇÕES FINAIS E TRANSITÓRIAS"), presentes no CTN.
 - `extrair-planalto.js`: roda na página do Planalto (navegador). Mantém tachado o caput de artigo revogado quando a nota de revogação está em parágrafo separado e não existe redação vigente do mesmo artigo (casos como os arts. 88, 287, 375 e 387 da CLT).
 - `validate.py`: confere artigo por artigo o texto publicado contra o extraído.
 - `estrutura2.py`: gera o quadro estrutural (Partes, Livros, Títulos, Capítulos).

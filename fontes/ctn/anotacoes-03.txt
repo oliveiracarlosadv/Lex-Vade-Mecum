@@ -1,0 +1,309 @@
+@CTN 173
+I: O direito de constituir o crédito (decadência) extingue-se em 5 anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ser feito, ou da decisão definitiva que anular o lançamento por vício formal; se houver medida preparatória notificada antes, o prazo conta dessa notificação. Sem declaração nem pagamento, aplica-se esta regra também aos tributos por homologação (Súmula 555 do STJ).
+P: Decadência de 5 anos || Termo inicial no exercício seguinte || Vício formal reabre o prazo
+K: decadência tributária; lançamento; Súmula 555 STJ
+
+@CTN 174
+I: A cobrança do crédito prescreve em 5 anos da constituição definitiva. A prescrição se interrompe pelo despacho que ordena a citação na execução fiscal, protesto da CDA ou judicial, ato que constitua o devedor em mora, reconhecimento do débito, instauração de mediação, instituição de arbitragem, sentença que extingue a execução por não localização de devedor ou bens (antes da prescrição intercorrente), informação do crédito na falência (suspendendo o prazo até o fim do processo) e início da execução fiscal extrajudicial (LC nº 236/2026).
+P: Prescrição de 5 anos || Causas de interrupção ampliadas || Recomeça do ato interruptivo
+K: prescrição tributária; execução fiscal; interrupção
+
+@CTN 175
+I: Excluem o crédito a isenção e a anistia, sem dispensar as obrigações acessórias.
+P: Isenção e anistia || Exclusão do crédito || Obrigações acessórias mantidas
+K: exclusão do crédito tributário; isenção; anistia
+
+@CTN 176
+I: A isenção decorre sempre de lei que especifique condições, requisitos, tributos e prazo, mesmo quando prevista em contrato, e pode ser restrita a uma região.
+P: Isenção exige lei || Requisitos legais || Isenção regional
+K: isenção; reserva de lei
+
+@CTN 177
+I: Salvo lei em contrário, a isenção não alcança taxas e contribuições de melhoria nem tributos criados depois.
+P: Alcance restrito || Taxas e contribuições excluídas || Tributos posteriores
+K: isenção; alcance
+
+@CTN 178
+I: A isenção pode ser revogada ou modificada a qualquer tempo, salvo se concedida por prazo certo e sob condições onerosas (Súmula 544 do STF), observada a anterioridade.
+P: Revogabilidade || Isenção onerosa e a prazo protegida || Anterioridade
+K: isenção; revogação; Súmula 544 STF
+
+@CTN 179
+I: A isenção não geral é concedida por despacho a requerimento com prova dos requisitos, renovado a cada período nos tributos periódicos, sem gerar direito adquirido.
+P: Isenção individual || Renovação periódica || Sem direito adquirido
+K: isenção; despacho
+
+@CTN 180
+I: A anistia abrange só infrações anteriores à lei, não se aplicando a crimes, contravenções, atos com dolo, fraude ou simulação e, salvo disposição, a conluio.
+P: Perdão de infrações passadas || Exclusão de dolo e fraude || Conluio
+K: anistia; infrações
+
+@CTN 181
+I: A anistia pode ser geral ou limitada a tributo, valor, região ou condicionada ao pagamento do tributo.
+P: Anistia geral ou limitada || Condição de pagamento || Critério regional
+K: anistia; modalidades
+
+@CTN 182
+I: A anistia individual é concedida por despacho a requerimento, sem gerar direito adquirido.
+P: Despacho || Prova dos requisitos || Sem direito adquirido
+K: anistia; despacho
+
+@CTN 183
+I: As garantias do CTN não excluem outras previstas em lei, e sua natureza não altera a do crédito.
+P: Rol exemplificativo || Outras garantias legais || Natureza preservada
+K: garantias do crédito tributário
+
+@CTN 184
+I: Respondem pelo crédito tributário todos os bens e rendas do sujeito passivo, inclusive gravados por ônus real ou cláusula de inalienabilidade, salvo os absolutamente impenhoráveis por lei.
+P: Responsabilidade patrimonial ampla || Ônus e cláusulas não oponíveis || Impenhorabilidade absoluta
+K: garantias; responsabilidade patrimonial; impenhorabilidade
+
+@CTN 185
+I: Presume-se fraudulenta a alienação de bens por devedor com crédito inscrito em dívida ativa, salvo se reservar bens suficientes. Na execução fiscal, não se aplica a Súmula 375 do STJ (dispensa registro da penhora e prova de má-fé — Tema 290 do STJ).
+P: Fraude à execução fiscal || Marco: inscrição em dívida ativa || Presunção absoluta (Tema 290)
+K: fraude à execução fiscal; dívida ativa
+
+@CTN 185-A
+I: Se o devedor citado não pagar nem indicar bens e não forem encontrados bens penhoráveis, o juiz decreta a indisponibilidade de seus bens, limitada ao valor da dívida, com comunicação aos registros e ao sistema financeiro. O STJ exige o esgotamento das diligências (Súmula 560).
+P: Indisponibilidade universal || Limite do débito || Esgotamento das diligências (Súmula 560)
+K: indisponibilidade de bens; execução fiscal; Súmula 560 STJ
+
+@CTN 186
+I: O crédito tributário prefere a qualquer outro, salvo os trabalhistas e de acidente do trabalho; na falência, não prefere aos extraconcursais, às restituições e aos créditos com garantia real até o valor do bem, e a multa tributária só prefere aos subordinados.
+P: Preferência do crédito tributário || Exceção trabalhista || Regras na falência
+K: preferência; falência; crédito tributário
+
+@CTN 187
+I: A cobrança judicial do crédito tributário não se sujeita a concurso de credores ou habilitação em falência, recuperação ou inventário; entre entes públicos, a ordem é União, Estados e Municípios. O STF declarou não recepcionado o concurso de preferência entre entes (ADPF 357).
+P: Execução fiscal autônoma || Sem habilitação obrigatória || Ordem entre entes afastada (ADPF 357)
+K: execução fiscal; concurso de credores; ADPF 357
+
+@CTN 188
+I: São extraconcursais os créditos tributários de fatos geradores ocorridos durante a falência; contestados, o juiz reserva bens suficientes.
+P: Créditos extraconcursais || Fatos geradores na falência || Reserva de bens
+K: falência; créditos extraconcursais
+
+@CTN 189
+I: Os créditos tributários do falecido ou do espólio exigíveis durante o inventário são pagos preferencialmente aos demais créditos habilitados.
+P: Preferência no inventário || Encargos do monte || Contestação com reserva
+K: inventário; preferência
+
+@CTN 190
+I: Na liquidação de pessoa jurídica, os créditos tributários exigíveis são pagos preferencialmente.
+P: Preferência na liquidação || Pessoas jurídicas || Vencidos e vincendos
+K: liquidação; preferência
+
+@CTN 191
+I: A extinção das obrigações do falido exige prova de quitação de todos os tributos.
+P: Quitação tributária || Extinção das obrigações || Falência
+K: falência; quitação
+
+@CTN 191-A
+I: A concessão da recuperação judicial depende de prova de quitação dos tributos, admitidas certidões positivas com efeito de negativa. O STJ passou a exigir a regularidade fiscal após a criação de parcelamentos específicos (Lei nº 14.112/2020).
+P: Regularidade fiscal na recuperação || Certidão positiva com efeito de negativa || Parcelamento específico
+K: recuperação judicial; certidão negativa
+
+@CTN 192
+I: Nenhuma partilha ou adjudicação é julgada sem prova de quitação dos tributos dos bens do espólio. O STJ dispensa a prova no arrolamento sumário para a homologação (Tema 1.074), mantida a exigência para a expedição de formais.
+P: Quitação para a partilha || Bens do espólio || Arrolamento sumário (Tema 1.074)
+K: partilha; quitação; inventário
+
+@CTN 193
+I: Sem autorização legal, nenhum órgão público contrata ou aceita proposta em licitação sem prova de quitação dos tributos relativos à atividade.
+P: Regularidade fiscal em contratações || Licitações || Tributos da atividade
+K: licitação; regularidade fiscal
+
+@CTN 194
+I: A legislação regula a competência e os poderes de fiscalização, aplicando-se também a imunes e isentos. A administração deve priorizar métodos preventivos de autorregularização antes do auto de infração e manter programas de conformidade baseados em voluntariedade, boa-fé, diálogo, transparência e prevenção de litígios (LC nº 236/2026).
+P: Poderes de fiscalização || Autorregularização prévia || Programas de conformidade
+K: fiscalização; conformidade tributária; autorregularização
+
+@CTN 194-A
+I: Decisões definitivas do STF e STJ com efeito vinculante também vinculam a administração tributária; em até 90 dias úteis do trânsito, a Fazenda publica parecer indicando como aplicará a orientação e em quais temas deixará de litigar ou desistirá de recursos.
+P: Vinculação da administração a precedentes || Parecer em 90 dias úteis || Desistência de litígios
+K: precedentes vinculantes; administração tributária
+
+@CTN 195
+I: Não se aplicam à fiscalização normas que limitem o exame de mercadorias, livros e documentos; os livros fiscais devem ser guardados até a prescrição. Sigilo comercial não se opõe ao Fisco (Súmula 439 do STF).
+P: Exame de livros sem restrições || Guarda até a prescrição || Súmula 439 do STF
+K: fiscalização; livros; Súmula 439 STF
+
+@CTN 196
+I: A fiscalização deve ser documentada por termos e precedida de documento com identificação das autoridades, objeto, período, documentos e prazo, entregue ao contribuinte; o uso de força policial depende de justificativa (LC nº 236/2026).
+P: Termos de fiscalização || Documento prévio de início || Transparência do procedimento
+K: fiscalização; termo de início; procedimento fiscal
+
+@CTN 197
+I: Mediante intimação escrita, tabeliães, bancos, administradores de bens, corretores, leiloeiros, inventariantes, síndicos e outros designados em lei devem informar ao Fisco sobre bens e negócios de terceiros, ressalvado o sigilo profissional. O STF validou o acesso a dados bancários pela Receita (Tema 225, LC nº 105/2001).
+P: Dever de informar || Instituições financeiras || Sigilo profissional ressalvado
+K: fiscalização; informações de terceiros; sigilo bancário
+
+@CTN 198
+I: O Fisco não pode divulgar informações sobre a situação econômica do contribuinte (sigilo fiscal), salvo requisição judicial, processo administrativo, intercâmbio formal entre órgãos e as exceções sobre representação penal, dívida ativa, parcelamento e benefícios a pessoas jurídicas.
+P: Sigilo fiscal || Exceções legais || Transparência de benefícios
+K: sigilo fiscal; informações
+
+@CTN 199
+I: As Fazendas da União, Estados, DF e Municípios prestam assistência mútua e trocam informações por lei ou convênio, e a União pode trocar informações com Estados estrangeiros por tratados.
+P: Cooperação entre fiscos || Permuta de informações || Cooperação internacional
+K: fiscalização; troca de informações
+
+@CTN 199-A
+I: As Fazendas podem, por convênio, compartilhar atividades de fiscalização, lançamento, cobrança e estrutura do processo administrativo.
+P: Compartilhamento de atividades || Convênio || Eficiência
+K: fiscalização; convênio; compartilhamento
+
+@CTN 200
+I: Autoridades fiscais podem requisitar força pública quando vítimas de embaraço ou desacato, ou para efetivar medida prevista em lei.
+P: Auxílio da força pública || Embaraço à fiscalização || Efetivação de medidas
+K: fiscalização; força pública
+
+@CTN 201
+I: Dívida ativa tributária é o crédito regularmente inscrito após o prazo de pagamento; juros não afastam a liquidez. O controle de legalidade da inscrição é direito do contribuinte e dever da Fazenda, e o órgão lançador deve enviar os dados para inscrição em 90 dias úteis (120 para contribuintes conformes, 60 para os de baixo recolhimento).
+P: Inscrição em dívida ativa || Controle de legalidade || Prazos para encaminhar
+K: dívida ativa; inscrição; controle de legalidade
+
+@CTN 202
+I: O termo de inscrição indica devedor e corresponsáveis, quantia e juros, origem, natureza e fundamento legal, data e processo administrativo; a certidão inclui livro e folha.
+P: Requisitos do termo de inscrição || Certidão de dívida ativa || Corresponsáveis
+K: dívida ativa; CDA; requisitos
+
+@CTN 203
+I: A falta ou erro nos requisitos anula a inscrição e a cobrança, mas a CDA pode ser substituída até a decisão de primeira instância, reabrindo-se o prazo de defesa; não se admite mudar o sujeito passivo (Súmula 392 do STJ).
+P: Nulidade sanável || Substituição até a sentença || Vedação de alterar o devedor (Súmula 392)
+K: CDA; nulidade; substituição; Súmula 392 STJ
+
+@CTN 204
+I: A dívida inscrita presume-se certa e líquida, com efeito de prova pré-constituída; a presunção é relativa e pode ser afastada por prova inequívoca do sujeito passivo.
+P: Presunção de certeza e liquidez || Prova pré-constituída || Presunção relativa
+K: dívida ativa; presunção
+
+@CTN 205
+I: A lei pode exigir certidão negativa como prova de quitação, emitida em até 10 dias do requerimento.
+P: Certidão negativa || Prazo de 10 dias || Requerimento
+K: certidão negativa de débitos
+
+@CTN 206
+I: Tem os mesmos efeitos da negativa a certidão positiva com créditos não vencidos, em execução com penhora ou com exigibilidade suspensa.
+P: Certidão positiva com efeito de negativa || Penhora ou suspensão || Equiparação
+K: certidão positiva com efeito de negativa
+
+@CTN 207
+I: Dispensa-se a prova de quitação para ato indispensável a evitar a caducidade de direito, respondendo os participantes pelos tributos e penalidades.
+P: Dispensa por urgência || Evitar caducidade || Responsabilidade dos participantes
+K: certidão negativa; dispensa
+
+@CTN 208
+I: O servidor que expedir certidão negativa com dolo ou fraude responde pessoalmente pelo crédito e juros, sem prejuízo das sanções penais e funcionais.
+P: Responsabilidade do servidor || Certidão fraudulenta || Sanções criminais
+K: certidão negativa; responsabilidade do servidor
+
+@CTN 208-A
+I: Estabelece normas gerais do processo administrativo fiscal para todos os entes, assegurando devido processo legal, contraditório, ampla defesa e duplo grau; entes com mais de 100 mil habitantes devem garantir o duplo grau (LC nº 236/2026).
+P: Normas gerais do PAF || Duplo grau obrigatório acima de 100 mil habitantes || Garantias processuais
+K: processo administrativo fiscal; duplo grau
+
+@CTN 208-B
+I: O auto de infração deve conter identificação do autuado, descrição clara dos fatos, dispositivo infringido e penalidade, subsunção, exigência e intimação, local, data e hora, e assinatura do autuante.
+P: Requisitos do auto de infração || Motivação e subsunção || Identificação do autuante
+K: auto de infração; requisitos
+
+@CTN 208-C
+I: A impugnação tempestiva instaura o contencioso e suspende a exigibilidade; da primeira instância cabem recurso voluntário e remessa necessária; havendo instância superior, recurso especial por divergência; cabem embargos de declaração com efeito interruptivo; e é vedado recurso hierárquico contra decisão definitiva favorável ao contribuinte.
+P: Fases do contencioso || Recursos cabíveis || Vedação de recurso hierárquico
+K: processo administrativo fiscal; recursos; impugnação
+
+@CTN 208-D
+I: Garantem-se impugnação, recurso voluntário e recurso especial em 20 dias e embargos de declaração em 5 dias, com pautas divulgadas com 10 dias de antecedência, prazos em dias úteis e suspensão no fim do ano.
+P: Prazos de 20 e 5 dias || Dias úteis || Publicidade das pautas
+K: processo administrativo fiscal; prazos
+
+@CTN 208-E
+I: O contribuinte deve informar se a matéria foi levada ao Judiciário; a ação judicial com o mesmo objeto implica renúncia ao recurso administrativo.
+P: Dever de informar ação judicial || Concomitância || Renúncia à via administrativa
+K: processo administrativo fiscal; concomitância
+
+@CTN 208-F
+I: Decisões e acórdãos devem ser motivados e publicados para consulta.
+P: Motivação || Publicidade das decisões || Transparência
+K: processo administrativo fiscal; motivação
+
+@CTN 208-G
+I: Vinculam o processo administrativo os precedentes do STF e STJ com efeito vinculante, as resoluções do Senado que suspendem leis e as súmulas dos tribunais administrativos; não se lavra auto, nem se nega pedido, nem se inscreve crédito contrários a essas decisões favoráveis ao contribuinte.
+P: Precedentes vinculantes no PAF || Súmulas administrativas || Vedação de autuação contrária
+K: processo administrativo fiscal; precedentes; súmulas
+
+@CTN 208-H
+I: A administração deve anular seus atos ilegais; são nulos atos de autoridade incompetente e lançamentos sem fundamentação legal; a nulidade só atinge atos dependentes, e não se declara quando o mérito puder ser decidido a favor do contribuinte.
+P: Autotutela || Hipóteses de nulidade || Primazia do mérito
+K: processo administrativo fiscal; nulidade
+
+@CTN 208-I
+I: O trâmite do processo pode ser diferenciado conforme o valor do crédito, do indébito ou o porte da empresa.
+P: Rito diferenciado || Valor e porte || Proporcionalidade
+K: processo administrativo fiscal; rito
+
+@CTN 208-J
+I: Processos administrativos sobre questão com suspensão nacional determinada pelo STF ou STJ ficam sobrestados automaticamente, podendo outras questões seguir em autos apartados, sem impedir liminares judiciais.
+P: Sobrestamento automático || Autos apartados || Precedentes qualificados
+K: processo administrativo fiscal; sobrestamento
+
+@CTN 209
+I: "Fazenda Pública", sem qualificação, abrange a da União, Estados, DF e Municípios.
+P: Conceito de Fazenda Pública || Todos os entes || Interpretação
+K: Fazenda Pública
+
+@CTN 210
+I: Os prazos tributários são contínuos, excluindo o dia de início e incluindo o do vencimento, e só começam ou vencem em dia de expediente normal.
+P: Contagem de prazos || Prazos contínuos || Dia de expediente
+K: prazos; contagem
+
+@CTN 211
+I: Atribuía ao Conselho Técnico de Economia e Finanças a assistência técnica aos Estados e Municípios; órgão histórico.
+P: Assistência técnica || Órgão histórico || Uniformidade
+K: disposições finais
+
+@CTN 211-A
+I: Estados, DF e Municípios devem, em 2 anos, ajustar sua legislação para adotar ao menos as reduções de multa do art. 142, § 5º (LC nº 236/2026).
+P: Prazo de 2 anos || Moderação sancionatória || Adoção mínima
+K: multa tributária; adaptação da legislação
+
+@CTN 211-B
+I: Todos os entes devem, em 2 anos, adaptar sua legislação às normas do processo administrativo fiscal (arts. 208-A a 208-J); sem isso, essas normas aplicam-se diretamente.
+P: Prazo de 2 anos || Aplicação direta supletiva || Devido processo
+K: processo administrativo fiscal; adaptação
+
+@CTN 212
+I: Os Executivos devem consolidar anualmente, por decreto, a legislação de cada tributo.
+P: Consolidação anual || Decreto || Transparência
+K: consolidação da legislação
+
+@CTN 213
+I: Previa convênios para alíquotas uniformes do antigo ICM e do ISS; regra transitória superada.
+P: Convênios históricos || ICM e ISS antigos || Regra superada
+K: disposições transitórias; ICMS
+
+@CTN 214
+I: Previa convênios para excluir ou limitar o ICM nas exportações; hoje a imunidade nas exportações é constitucional (CF, art. 155, § 2º, X, a).
+P: Exportações || Regra histórica || Imunidade constitucional atual
+K: exportação; ICMS
+
+@CTN 215
+I: Permitia reajustar a alíquota do antigo ICM em 1967; regra transitória exaurida.
+P: Regra transitória || Exercício de 1967 || Exaurida
+K: disposições transitórias
+
+@CTN 216
+I: Previa medidas legislativas para cumprir a EC nº 18/1965 sem comprimir investimentos de 1967; regra exaurida.
+P: Regra transitória || Orçamento de 1967 || Exaurida
+K: disposições transitórias
+
+@CTN 217
+I: O CTN não excluiu a contribuição sindical, as quotas de previdência, a contribuição ao FUNRURAL, o FGTS e outras contribuições sociais. Fundamentou a coexistência das contribuições parafiscais com o sistema tributário.
+P: Contribuições preservadas || Parafiscalidade || FGTS e contribuição sindical
+K: contribuições sociais; FGTS; contribuição sindical
+
+@CTN 218
+I: O CTN entrou em vigor em 1º de janeiro de 1967, revogando a Lei nº 854/1949.
+P: Vigência em 1967 || Revogação || Marco temporal
+K: vigência; Código Tributário Nacional
