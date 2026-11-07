@@ -1,0 +1,449 @@
+@CC 402
+I: Salvo exceções legais, as perdas e danos abrangem o que o credor efetivamente perdeu (dano emergente) e o que razoavelmente deixou de lucrar (lucros cessantes). A doutrina e o STJ admitem também a perda de uma chance séria e real.
+P: Dano emergente || Lucros cessantes razoáveis || Perda de uma chance
+K: perdas e danos; dano emergente; lucros cessantes; perda de uma chance
+
+@CC 403
+I: Mesmo com dolo do devedor, só se indenizam os prejuízos e lucros cessantes que sejam efeito direto e imediato da inexecução (teoria do dano direto e imediato, ou da causalidade necessária).
+P: Nexo causal direto e imediato || Dolo não amplia a indenização || Teoria da causalidade adequada/necessária
+K: nexo causal; dano direto e imediato; perdas e danos
+
+@CC 404
+I: Nas obrigações em dinheiro, as perdas e danos incluem atualização monetária, juros, custas e honorários, sem prejuízo da multa contratual. Se os juros de mora não cobrirem o prejuízo e não houver cláusula penal, o juiz pode conceder indenização suplementar.
+P: Composição das perdas e danos em dinheiro || Cumulação com a pena convencional || Indenização suplementar
+K: perdas e danos; obrigação pecuniária; juros; honorários
+
+@CC 405
+I: Os juros de mora contam-se da citação. A regra vale para a responsabilidade contratual com obrigação ilíquida; na líquida e com termo, contam do vencimento (art. 397) e, no ato ilícito, do evento (Súmula 54 do STJ).
+P: Termo inicial na citação || Exceções: mora ex re e ato ilícito || Integração com arts. 397 e 398
+K: juros de mora; citação; termo inicial
+
+@CC 406
+I: Quando não convencionados, sem taxa ou decorrentes de lei, os juros seguem a taxa legal. Desde a Lei nº 14.905/2024, a taxa legal é a SELIC deduzida do IPCA (índice do art. 389), e, se o resultado for negativo, considera-se zero; a metodologia é definida pelo Conselho Monetário Nacional.
+P: Taxa legal = SELIC menos IPCA || Resultado negativo vale zero || Lei nº 14.905/2024
+K: juros legais; taxa legal; SELIC; IPCA; Lei 14.905/2024
+
+@CC 407
+I: Os juros de mora são devidos mesmo sem prova de prejuízo, nas dívidas em dinheiro e nas prestações de outra natureza desde que tenham valor fixado por sentença, arbitramento ou acordo.
+P: Juros independem de prejuízo || Dívidas em dinheiro e liquidadas || Valor fixado por sentença, arbitramento ou acordo
+K: juros de mora; prejuízo; liquidação
+
+@CC 408
+I: O devedor incorre na cláusula penal de pleno direito se, culposamente, descumprir a obrigação ou se constituir em mora.
+P: Incidência automática || Exige culpa || Inadimplemento ou mora
+K: cláusula penal; multa contratual; inadimplemento
+
+@CC 409
+I: A cláusula penal pode ser estipulada junto com a obrigação ou depois, e pode referir-se ao inadimplemento total (compensatória), a cláusula específica ou à mora (moratória).
+P: Cláusula penal compensatória || Cláusula penal moratória || Momento da estipulação
+K: cláusula penal; compensatória; moratória
+
+@CC 410
+I: Na cláusula penal compensatória (inadimplemento total), o credor escolhe entre exigir a multa ou o cumprimento da obrigação, não ambos.
+P: Alternativa a benefício do credor || Multa ou cumprimento || Vedação de cumulação
+K: cláusula penal compensatória; alternativa
+
+@CC 411
+I: Na cláusula penal moratória ou relativa a cláusula específica, o credor pode exigir a multa junto com o cumprimento da obrigação principal.
+P: Cumulação permitida || Multa moratória || Cumprimento da obrigação
+K: cláusula penal moratória; cumulação
+
+@CC 412
+I: A cláusula penal não pode exceder o valor da obrigação principal. Leis especiais fixam tetos menores, como 2% nas relações de consumo com crédito (CDC, art. 52, § 1º) e no condomínio (art. 1.336, § 1º).
+P: Teto do valor da obrigação principal || Limites especiais menores || Nulidade do excesso
+K: cláusula penal; limite; multa
+
+@CC 413
+I: O juiz deve reduzir equitativamente a multa se a obrigação foi cumprida em parte ou se o valor for manifestamente excessivo, considerando a natureza e a finalidade do negócio. A redução é dever do juiz e pode ocorrer de ofício (Enunciado 356 da IV Jornada).
+P: Redução obrigatória || Cumprimento parcial ou excesso || Norma de ordem pública
+K: cláusula penal; redução equitativa; excesso
+
+@CC 414
+I: Se a obrigação é indivisível, todos os devedores incorrem na pena pela falta de um, mas só o culpado responde pelo todo; os demais respondem pela sua quota e têm regresso contra o culpado.
+P: Indivisibilidade e cláusula penal || Culpado responde pelo todo || Regresso dos não culpados
+K: cláusula penal; obrigação indivisível
+
+@CC 415
+I: Se a obrigação é divisível, só incorre na pena o devedor (ou herdeiro) que a infringir, na proporção de sua parte.
+P: Pena proporcional || Obrigação divisível || Responsabilidade individual
+K: cláusula penal; obrigação divisível
+
+@CC 416
+I: Para exigir a multa, o credor não precisa provar prejuízo. Se o prejuízo for maior, só pode exigir indenização suplementar se houver previsão contratual, valendo a multa como mínimo.
+P: Dispensa prova de prejuízo || Indenização suplementar só se pactuada || Multa como mínimo
+K: cláusula penal; prejuízo; indenização suplementar
+
+@CC 417
+I: Arras (sinal) dadas na conclusão do contrato devem, na execução, ser restituídas ou abatidas da prestação, se do mesmo gênero. As arras confirmatórias comprovam o negócio.
+P: Arras confirmatórias || Restituição ou abatimento || Início de pagamento
+K: arras; sinal; arras confirmatórias
+
+@CC 418
+I: Se quem deu as arras não cumpre, a outra parte pode desfazer o contrato e retê-las; se quem as recebeu não cumpre, quem as deu pode desfazer o contrato e exigir a devolução mais o equivalente, com correção, juros e honorários.
+P: Retenção das arras pelo inocente || Devolução em dobro || Acréscimos legais
+K: arras; inadimplemento; devolução em dobro
+
+@CC 419
+I: A parte inocente pode pedir indenização suplementar provando prejuízo maior, valendo as arras como mínimo, ou exigir a execução do contrato com perdas e danos.
+P: Indenização suplementar || Arras como taxa mínima || Execução específica
+K: arras; indenização suplementar
+
+@CC 420
+I: Se houver direito de arrependimento, as arras têm função só indenizatória (penitenciais): quem as deu as perde e quem as recebeu devolve em dobro, sem indenização suplementar (Súmula 412 do STF).
+P: Arras penitenciais || Perda ou devolução em dobro || Sem indenização suplementar
+K: arras penitenciais; arrependimento; Súmula 412 STF
+
+@CC 421
+I: A liberdade contratual é exercida nos limites da função social do contrato. Nas relações privadas prevalecem a intervenção mínima e a excepcionalidade da revisão contratual (Lei da Liberdade Econômica).
+P: Função social do contrato || Intervenção mínima || Revisão excepcional
+K: função social do contrato; liberdade contratual; intervenção mínima
+
+@CC 421-A
+I: Contratos civis e empresariais presumem-se paritários e simétricos até prova concreta em contrário, ressalvadas leis especiais. As partes podem fixar parâmetros de interpretação e de revisão, a alocação de riscos deve ser respeitada e a revisão só ocorre de modo excepcional e limitado.
+P: Presunção de paridade || Alocação de riscos respeitada || Revisão excepcional e limitada
+K: contrato paritário; alocação de riscos; revisão contratual
+
+@CC 422
+I: As partes devem agir com probidade e boa-fé na conclusão e na execução do contrato. A boa-fé objetiva também se aplica nas fases pré e pós-contratual e gera deveres anexos de informação, cooperação e lealdade (Enunciados 25 e 170 das Jornadas).
+P: Boa-fé objetiva || Deveres anexos || Fases pré e pós-contratual
+K: boa-fé objetiva; probidade; deveres anexos
+
+@CC 423
+I: No contrato de adesão, cláusulas ambíguas ou contraditórias interpretam-se a favor do aderente.
+P: Interpretação pró-aderente || Cláusulas ambíguas || Contratos de adesão
+K: contrato de adesão; interpretação; aderente
+
+@CC 424
+I: No contrato de adesão, é nula a cláusula de renúncia antecipada do aderente a direito resultante da natureza do negócio.
+P: Nulidade da renúncia antecipada || Direitos inerentes ao negócio || Proteção do aderente
+K: contrato de adesão; renúncia; nulidade
+
+@CC 425
+I: As partes podem celebrar contratos atípicos, observadas as normas gerais do Código.
+P: Liberdade de criação contratual || Contratos atípicos || Normas gerais aplicáveis
+K: contratos atípicos; autonomia privada
+
+@CC 426
+I: É proibido contratar sobre herança de pessoa viva (pacta corvina).
+P: Vedação do pacto sucessório || Nulidade || Proteção da vontade do autor da herança
+K: herança de pessoa viva; pacta corvina; nulidade
+
+@CC 427
+I: A proposta obriga o proponente, salvo se o contrário resultar dos seus termos, da natureza do negócio ou das circunstâncias.
+P: Força vinculante da proposta || Exceções || Policitação
+K: proposta; oferta; vinculação
+
+@CC 428
+I: A proposta deixa de obrigar: feita sem prazo a pessoa presente (inclusive por telefone ou meio semelhante), se não aceita de imediato; a ausente, se passou tempo suficiente para a resposta; com prazo, se a resposta não for expedida no prazo; ou se a retratação chegar antes ou junto com a proposta.
+P: Perda da força obrigatória || Presentes e ausentes || Retratação tempestiva
+K: proposta; caducidade; retratação
+
+@CC 429
+I: A oferta ao público vale como proposta quando contém os requisitos essenciais do contrato, salvo circunstâncias ou usos; pode ser revogada pela mesma via, se ressalvada essa faculdade.
+P: Oferta ao público || Requisitos essenciais || Revogação pela mesma via
+K: oferta ao público; proposta; revogação
+
+@CC 430
+I: Se a aceitação chegar tarde por circunstância imprevista, o proponente deve avisar imediatamente o aceitante, sob pena de perdas e danos.
+P: Aceitação tardia || Dever de comunicar || Boa-fé
+K: aceitação tardia; perdas e danos
+
+@CC 431
+I: A aceitação fora do prazo ou com modificações vale como nova proposta (contraproposta).
+P: Contraproposta || Aceitação modificada || Inversão de papéis
+K: aceitação; contraproposta
+
+@CC 432
+I: Se não for costume a aceitação expressa ou o proponente a dispensou, o contrato se considera concluído se a recusa não chegar a tempo.
+P: Aceitação tácita || Usos do negócio || Recusa tempestiva
+K: aceitação tácita; silêncio
+
+@CC 433
+I: Considera-se inexistente a aceitação se a retratação do aceitante chegar antes ou junto com ela.
+P: Retratação da aceitação || Chegada simultânea ou anterior || Inexistência
+K: aceitação; retratação
+
+@CC 434
+I: Entre ausentes, o contrato se forma com a expedição da aceitação (teoria da expedição), salvo retratação, compromisso de aguardar resposta ou atraso além do prazo.
+P: Teoria da expedição || Exceções || Contratos entre ausentes
+K: formação do contrato; teoria da expedição; ausentes
+
+@CC 435
+I: O contrato considera-se celebrado no lugar em que foi proposto.
+P: Lugar da proposta || Relevância para foro e lei aplicável || LINDB, art. 9º, § 2º
+K: lugar do contrato; proposta
+
+@CC 436
+I: Na estipulação em favor de terceiro, tanto o estipulante quanto o terceiro beneficiário podem exigir o cumprimento; o terceiro, se anuir, fica sujeito às condições do contrato.
+P: Legitimidade do estipulante e do terceiro || Anuência do beneficiário || Ex.: seguro de vida
+K: estipulação em favor de terceiro; beneficiário
+
+@CC 437
+I: Se o terceiro tiver direito de exigir a execução, o estipulante não pode exonerar o devedor.
+P: Direito próprio do terceiro || Vedação de exoneração || Proteção do beneficiário
+K: estipulação em favor de terceiro
+
+@CC 438
+I: O estipulante pode reservar-se o direito de substituir o terceiro, sem anuência dele ou do outro contratante, por ato entre vivos ou testamento.
+P: Substituição do beneficiário || Reserva expressa || Ato entre vivos ou de última vontade
+K: estipulação em favor de terceiro; substituição
+
+@CC 439
+I: Quem promete fato de terceiro responde por perdas e danos se este não o executar, salvo se o terceiro for seu cônjuge e o ato depender de anuência deste, com reflexo nos bens do casal.
+P: Promessa de fato de terceiro || Responsabilidade do promitente || Exceção do cônjuge
+K: promessa de fato de terceiro; perdas e danos
+
+@CC 440
+I: Se o terceiro se obrigou e depois descumpre, o promitente não responde.
+P: Liberação do promitente || Terceiro assumiu a obrigação || Fim da responsabilidade
+K: promessa de fato de terceiro; liberação
+
+@CC 441
+I: A coisa recebida em contrato comutativo pode ser rejeitada por vícios ocultos que a tornem imprópria ao uso ou diminuam seu valor; vale também para doações onerosas.
+P: Vícios redibitórios || Contratos comutativos || Ação redibitória
+K: vícios redibitórios; vício oculto; ação redibitória
+
+@CC 442
+I: Em vez de rejeitar a coisa, o adquirente pode pedir abatimento do preço (ação estimatória ou quanti minoris).
+P: Ação estimatória || Abatimento do preço || Opção do adquirente
+K: vícios redibitórios; abatimento; ação quanti minoris
+
+@CC 443
+I: Se o alienante conhecia o vício, restitui o que recebeu com perdas e danos; se não conhecia, restitui o valor e as despesas do contrato.
+P: Alienante de má-fé: perdas e danos || De boa-fé: restituição e despesas || Responsabilidade independe de culpa
+K: vícios redibitórios; má-fé; perdas e danos
+
+@CC 444
+I: O alienante responde mesmo que a coisa pereça com o adquirente, se o perecimento decorrer de vício oculto já existente na tradição.
+P: Perecimento por vício preexistente || Responsabilidade subsiste || Ônus da prova
+K: vícios redibitórios; perecimento
+
+@CC 445
+I: O prazo decadencial para redibição ou abatimento é de 30 dias (móvel) ou 1 ano (imóvel), da entrega; se o adquirente já tinha a posse, conta da alienação e cai pela metade. Se o vício só puder ser conhecido mais tarde, o prazo corre da ciência, até 180 dias (móvel) ou 1 ano (imóvel); para animais, aplicam-se lei especial ou usos.
+P: Decadência de 30 dias ou 1 ano || Vício de conhecimento tardio || Animais: usos locais
+K: vícios redibitórios; decadência; prazos
+
+@CC 446
+I: Os prazos legais não correm durante a garantia contratual, mas o adquirente deve denunciar o defeito em 30 dias da descoberta, sob pena de decadência.
+P: Garantia contratual suspende os prazos legais || Denúncia em 30 dias || Complementaridade das garantias
+K: garantia contratual; vícios redibitórios; decadência
+
+@CC 447
+I: Nos contratos onerosos, o alienante responde pela evicção (perda da coisa por decisão que reconhece direito anterior de terceiro), inclusive em hasta pública.
+P: Garantia contra a evicção || Contratos onerosos || Inclui hasta pública
+K: evicção; garantia; alienante
+
+@CC 448
+I: As partes podem reforçar, reduzir ou excluir por cláusula expressa a responsabilidade pela evicção.
+P: Autonomia sobre a garantia || Cláusula expressa || Reforço, redução ou exclusão
+K: evicção; cláusula de exclusão
+
+@CC 449
+I: Mesmo com cláusula de exclusão, o evicto recebe o preço pago se não sabia do risco ou, sabendo, não o assumiu.
+P: Exclusão não afasta a devolução do preço || Assunção do risco || Proteção do adquirente
+K: evicção; cláusula de exclusão; preço
+
+@CC 450
+I: Salvo estipulação, o evicto tem direito à restituição integral do preço e a indenização dos frutos restituídos, das despesas do contrato e prejuízos diretos e das custas e honorários; o preço é o do valor da coisa na época da evicção.
+P: Restituição integral || Frutos, despesas e honorários || Valor na data da evicção
+K: evicção; indenização; restituição do preço
+
+@CC 451
+I: O alienante responde ainda que a coisa esteja deteriorada, salvo dolo do adquirente.
+P: Deterioração não exonera || Exceção: dolo do adquirente || Garantia integral
+K: evicção; deterioração
+
+@CC 452
+I: Se o adquirente lucrou com as deteriorações e não foi condenado a indenizá-las, o valor é deduzido do que o alienante deve.
+P: Dedução das vantagens || Vedação de enriquecimento || Compensação
+K: evicção; deterioração; dedução
+
+@CC 453
+I: O alienante paga as benfeitorias necessárias ou úteis não ressarcidas ao evicto.
+P: Benfeitorias necessárias e úteis || Pagas pelo alienante || Não abonadas pelo reivindicante
+K: evicção; benfeitorias
+
+@CC 454
+I: Se as benfeitorias pagas ao evicto foram feitas pelo alienante, seu valor é levado em conta na restituição.
+P: Benfeitorias do alienante || Dedução na restituição || Vedação de duplo ganho
+K: evicção; benfeitorias
+
+@CC 455
+I: Na evicção parcial considerável, o evicto escolhe entre rescindir o contrato ou receber a parte do preço correspondente; se não for considerável, só cabe indenização.
+P: Evicção parcial || Rescisão ou abatimento || Parte não considerável: indenização
+K: evicção parcial; rescisão
+
+@CC 457
+I: O adquirente que sabia que a coisa era alheia ou litigiosa não pode demandar pela evicção.
+P: Ciência do risco || Perda da garantia || Má-fé do adquirente
+K: evicção; coisa alheia; coisa litigiosa
+
+@CC 458
+I: No contrato aleatório sobre coisas ou fatos futuros em que uma parte assume o risco de não existirem (emptio spei), a outra recebe tudo o que foi prometido, mesmo que nada venha a existir, desde que sem dolo ou culpa.
+P: Emptio spei || Risco da existência || Preço integral
+K: contrato aleatório; emptio spei; risco
+
+@CC 459
+I: Se o adquirente assume o risco da quantidade (emptio rei speratae), o alienante recebe todo o preço, salvo culpa, mesmo que venha pouco; se nada vier, o contrato se desfaz e o preço é devolvido.
+P: Emptio rei speratae || Risco da quantidade || Nada vindo, devolução do preço
+K: contrato aleatório; emptio rei speratae
+
+@CC 460
+I: No contrato aleatório sobre coisas existentes expostas a risco assumido pelo adquirente, o alienante tem direito a todo o preço, mesmo que a coisa já não existisse no dia do contrato.
+P: Coisas existentes sob risco || Risco do adquirente || Preço integral
+K: contrato aleatório; risco
+
+@CC 461
+I: Essa alienação pode ser anulada por dolo se o prejudicado provar que o outro sabia que o risco já se consumara.
+P: Anulação por dolo || Conhecimento do risco consumado || Proteção da boa-fé
+K: contrato aleatório; dolo; anulação
+
+@CC 462
+I: O contrato preliminar deve conter todos os requisitos essenciais do contrato definitivo, exceto a forma.
+P: Requisitos do preliminar || Forma livre || Promessa de contratar
+K: contrato preliminar; promessa; forma
+
+@CC 463
+I: Sem cláusula de arrependimento, qualquer parte pode exigir a celebração do contrato definitivo, fixando prazo à outra. O preliminar deve ser levado ao registro competente para ter eficácia perante terceiros.
+P: Direito de exigir o definitivo || Cláusula de arrependimento afasta || Registro para eficácia perante terceiros
+K: contrato preliminar; execução; registro
+
+@CC 464
+I: Esgotado o prazo, o juiz pode suprir a vontade do inadimplente e dar caráter definitivo ao preliminar, salvo se a natureza da obrigação impedir (adjudicação compulsória).
+P: Suprimento judicial da vontade || Adjudicação compulsória || Limite da natureza da obrigação
+K: contrato preliminar; adjudicação compulsória
+
+@CC 465
+I: Se o estipulante não cumprir o preliminar, a outra parte pode considerá-lo desfeito e pedir perdas e danos.
+P: Resolução do preliminar || Perdas e danos || Alternativa à execução específica
+K: contrato preliminar; perdas e danos
+
+@CC 466
+I: Na promessa unilateral de contrato (opção), o credor deve manifestar-se no prazo previsto ou no prazo razoável dado pelo devedor, sob pena de perder efeito.
+P: Opção de compra || Prazo para manifestação || Caducidade
+K: promessa unilateral; opção
+
+@CC 467
+I: Ao celebrar o contrato, uma parte pode reservar-se o direito de indicar a pessoa que assumirá os direitos e obrigações (contrato com pessoa a declarar).
+P: Cláusula pro amico eligendo || Indicação posterior || Substituição da parte
+K: contrato com pessoa a declarar
+
+@CC 468
+I: A indicação deve ser comunicada em 5 dias, salvo outro prazo, e a aceitação do nomeado deve ter a mesma forma do contrato.
+P: Prazo de 5 dias || Simetria de forma || Eficácia da aceitação
+K: contrato com pessoa a declarar; prazo
+
+@CC 469
+I: A pessoa nomeada adquire os direitos e assume as obrigações desde a celebração do contrato.
+P: Efeito retroativo || Desde a celebração || Substituição plena
+K: contrato com pessoa a declarar; efeitos
+
+@CC 470
+I: O contrato fica entre os contratantes originais se não houver indicação, se o nomeado recusar ou se for insolvente sem que a outra parte soubesse.
+P: Ineficácia da nomeação || Recusa ou insolvência || Contratantes originais
+K: contrato com pessoa a declarar; insolvência
+
+@CC 471
+I: Se a pessoa a nomear era incapaz ou insolvente na nomeação, o contrato produz efeitos entre os contratantes originários.
+P: Incapacidade ou insolvência do nomeado || Efeitos entre os originários || Proteção da contraparte
+K: contrato com pessoa a declarar; incapacidade
+
+@CC 472
+I: O distrato (resilição bilateral) segue a mesma forma exigida para o contrato.
+P: Simetria de forma || Resilição bilateral || Forma exigida, não a adotada
+K: distrato; resilição bilateral; forma
+
+@CC 473
+I: A resilição unilateral, quando a lei permite, opera por denúncia notificada. Se uma parte fez investimentos consideráveis, a denúncia só produz efeito após prazo compatível com o vulto e a natureza dos investimentos.
+P: Denúncia notificada || Investimentos consideráveis || Prazo mínimo de eficácia
+K: resilição unilateral; denúncia; investimentos
+
+@CC 474
+I: A cláusula resolutiva expressa opera de pleno direito; a tácita depende de interpelação judicial. O STJ tem admitido que a cláusula resolutiva expressa produza efeitos sem necessidade de ação judicial, cabendo ao juiz apenas controlar sua validade e o inadimplemento quando provocado.
+P: Cláusula resolutiva expressa || Cláusula resolutiva tácita || Interpelação judicial
+K: cláusula resolutiva; resolução
+
+@CC 475
+I: A parte lesada pelo inadimplemento pode pedir a resolução do contrato ou exigir o cumprimento, com perdas e danos em ambos os casos. A teoria do adimplemento substancial limita a resolução quando o descumprimento é mínimo.
+P: Resolução ou cumprimento || Perdas e danos || Adimplemento substancial
+K: resolução; inadimplemento; adimplemento substancial
+
+@CC 476
+I: Nos contratos bilaterais, nenhuma parte pode exigir a prestação da outra antes de cumprir a sua (exceção de contrato não cumprido).
+P: Exceptio non adimpleti contractus || Sinalagma || Defesa do contratante
+K: exceção de contrato não cumprido; contrato bilateral
+
+@CC 477
+I: Se após o contrato uma parte sofrer diminuição patrimonial que comprometa sua prestação, a outra pode recusar a sua até que aquela cumpra ou dê garantia suficiente (exceção de inseguridade).
+P: Exceção de inseguridade || Risco de inadimplemento || Garantia suficiente
+K: exceção de inseguridade; garantia; contrato bilateral
+
+@CC 478
+I: Nos contratos de execução continuada ou diferida, se a prestação de uma parte se tornar excessivamente onerosa, com extrema vantagem para a outra, por fatos extraordinários e imprevisíveis, o devedor pode pedir a resolução, com efeitos retroativos à citação.
+P: Onerosidade excessiva || Fato extraordinário e imprevisível || Efeitos desde a citação
+K: onerosidade excessiva; teoria da imprevisão; resolução
+
+@CC 479
+I: O réu pode evitar a resolução oferecendo-se a modificar equitativamente as condições do contrato.
+P: Revisão em vez de resolução || Oferta do réu || Conservação do contrato
+K: onerosidade excessiva; revisão
+
+@CC 480
+I: Se só uma parte tem obrigações, pode pedir a redução da prestação ou a mudança do modo de executá-la, para evitar onerosidade excessiva.
+P: Contratos unilaterais || Redução ou alteração || Revisão
+K: onerosidade excessiva; contrato unilateral
+
+@CC 481
+I: Na compra e venda, o vendedor se obriga a transferir o domínio de coisa certa e o comprador a pagar preço em dinheiro. O contrato gera obrigação; a propriedade se transfere pela tradição (móveis) ou pelo registro (imóveis).
+P: Contrato obrigacional || Coisa e preço em dinheiro || Transferência pela tradição ou registro
+K: compra e venda; domínio; preço
+
+@CC 482
+I: A compra e venda pura é obrigatória e perfeita quando as partes concordam sobre o objeto e o preço (consensualismo).
+P: Consensualidade || Coisa, preço e consentimento || Perfeição do contrato
+K: compra e venda; consensualismo
+
+@CC 483
+I: A compra e venda pode ter por objeto coisa atual ou futura; se a futura não vier a existir, o contrato fica sem efeito, salvo se a intenção era contrato aleatório.
+P: Coisa atual ou futura || Ineficácia se não existir || Ressalva do contrato aleatório
+K: compra e venda; coisa futura
+
+@CC 484
+I: Na venda por amostra, protótipo ou modelo, o vendedor garante que a coisa terá as qualidades correspondentes, prevalecendo a amostra sobre a descrição do contrato.
+P: Venda por amostra || Garantia de qualidade || Prevalência da amostra
+K: compra e venda; amostra; protótipo
+
+@CC 485
+I: O preço pode ser fixado por terceiro designado; se ele não aceitar, o contrato fica sem efeito, salvo se as partes designarem outro.
+P: Preço por arbitramento de terceiro || Recusa do terceiro || Substituição por acordo
+K: compra e venda; preço; terceiro
+
+@CC 486
+I: O preço pode ser fixado pela taxa de mercado ou de bolsa em dia e lugar determinados.
+P: Preço de mercado ou bolsa || Data e lugar certos || Determinabilidade
+K: compra e venda; preço de mercado
+
+@CC 487
+I: O preço pode ser fixado por índices ou parâmetros objetivamente determináveis.
+P: Indexação || Parâmetros objetivos || Determinabilidade
+K: compra e venda; índices; preço
+
+@CC 488
+I: Sem preço nem critério, e sem tabelamento oficial, presume-se o preço corrente nas vendas habituais do vendedor; havendo vários, prevalece o termo médio.
+P: Preço habitual do vendedor || Tabelamento oficial || Termo médio
+K: compra e venda; preço
+
+@CC 489
+I: É nula a compra e venda em que o preço fica ao arbítrio exclusivo de uma das partes.
+P: Vedação de preço potestativo || Nulidade || Equilíbrio contratual
+K: compra e venda; preço potestativo; nulidade
+
+@CC 490
+I: Salvo cláusula, as despesas de escritura e registro são do comprador, e as da tradição, do vendedor.
+P: Escritura e registro: comprador || Tradição: vendedor || Norma dispositiva
+K: compra e venda; despesas
+
+@CC 491
+I: Na venda à vista, o vendedor não é obrigado a entregar a coisa antes de receber o preço.
+P: Venda à vista || Pagamento antes da entrega || Exceção de contrato não cumprido
+K: compra e venda; pagamento; entrega
