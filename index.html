@@ -101,6 +101,10 @@ aside h2{font-family:var(--display);font-variant:small-caps;letter-spacing:.12em
 .lei.ativa{background:var(--papel);box-shadow:inset 3px 0 0 var(--titulo);color:var(--titulo);font-weight:600}
 .lei small{display:block;font-family:var(--ui);font-weight:400;color:var(--tinta2);font-size:12px;margin-top:2px}
 .menu-extra{margin-top:12px;border-top:1px solid var(--fio);padding-top:8px}
+.lema-manual{text-align:center;font-size:14px;margin:6px 0 0}
+.manual-indice{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:14px 0 6px}
+.manual-indice a.chip{text-decoration:none}
+.secao[id^="manual-"]{scroll-margin-top:12px}
 .sumario{margin:2px 0 14px 4px}
 .sumario a{display:block;text-decoration:none;color:var(--tinta);padding:4px 8px;border-radius:5px;font-size:13.5px;line-height:1.3}
 .sumario a:hover{background:var(--papel)}
@@ -364,7 +368,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   <aside id="lateral">
     <h2>Leis</h2>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
-    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button></div>
+    <div class="menu-extra"><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button></div>
     <div id="sumario"></div>
   </aside>
   <main id="main"><div class="folha" id="conteudo"><div class="carregando">Carregando…</div></div></main>
@@ -549,6 +553,7 @@ function desenharMenu() {
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
   $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
+  $('#manualBtn').classList.toggle('ativa', atual === 'manual');
 }
 function desenharSumario(id, d) {
   if (!d) { $('#sumario').innerHTML = ''; return; }
@@ -635,7 +640,7 @@ function abrirSecao(id, sl) {
   return true;
 }
 function rodape() {
-  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto, TST e TRT8) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
+  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto, TST e TRT8) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/manual">Manual de uso</a> · <a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
 }
 function inicio() {
   atual = null; desenharMenu(); desenharSumario();
@@ -644,6 +649,7 @@ function inicio() {
     <p class="assinatura">Lex Vade Mecum <a href="#/sobre">by Carlos A. A. Oliveira</a></p>
     ${dados.perfil.nome ? `<p class="lema">Olá, ${esc(dados.perfil.nome.split(' ')[0])}!</p>` : ''}
     <p class="lema">Leis brasileiras com o texto oficial sempre atualizado e a análise de cada artigo, reunidas para consulta.</p>
+    <p class="lema-manual">Primeira vez aqui? <a href="#/manual">Leia o Manual de uso</a>: para que serve, como estudar, marcar e compartilhar.</p>
     <div class="vinheta">❦</div>
     ${blocoLeituras()}
     ${blocoFavoritas()}
@@ -679,6 +685,27 @@ function sobre() {
     <section class="secao"><h2>Leis disponíveis</h2><div class="md"><ul>${leis.map((l) => `<li><a href="#/${l.id}">${esc(l.nome)}</a> — ${esc(l.numero)}</li>`).join('')}</ul></div></section>
     ${rodape()}`;
   $('#main').scrollTop = 0;
+}
+// Manual de uso: lê docs/manual-de-uso.md; cada seção "## " vira um bloco com âncora no sumário.
+async function manual(alvo) {
+  atual = 'manual'; desenharMenu();
+  let txt;
+  try { txt = await lerArquivo('docs/manual-de-uso.md'); } catch (e) { return erro(e); }
+  const titulo = (txt.match(/^# (.+)$/m) || [, 'Manual de uso'])[1].replace(/\s*—\s*Lex Vade Mecum$/, '');
+  const partes = txt.split(/\n(?=## )/);
+  const intro = partes[0].replace(/^# .+$/m, '').trim();
+  const secoes = partes.slice(1).map((x) => { const nl = x.indexOf('\n'); const t = x.slice(3, nl).trim(); return { t, id: slug(t.replace(/^\d+\.\s*/, '')), corpo: x.slice(nl + 1) }; });
+  $('#sumario').innerHTML = '<h2>Manual de uso</h2><div class="sumario">' + secoes.map((x) => `<a href="#/manual/${x.id}">${esc(x.t)}</a>`).join('') + '</div>';
+  $('#conteudo').innerHTML = `<div class="cabecalho-corrido">Lex Vade Mecum · Manual de uso</div>
+    <h1 class="titulo-obra">${esc(titulo)}</h1>
+    <p class="subtitulo">Finalidades, estudo, marcações e compartilhamento</p>
+    <div class="vinheta">❦</div>
+    <div class="md manual-intro">${md(intro)}</div>
+    <nav class="chips manual-indice">${secoes.map((x) => `<a class="chip" href="#/manual/${x.id}">${esc(x.t)}</a>`).join('')}</nav>
+    ${secoes.map((x) => `<section class="secao" id="manual-${x.id}"><h2>${esc(x.t)}</h2><div class="md">${md(x.corpo)}</div></section>`).join('')}
+    ${rodape()}`;
+  const el = alvo && document.getElementById('manual-' + alvo);
+  if (el) el.scrollIntoView(); else $('#main').scrollTop = 0;
 }
 function erro(e) {
   $('#conteudo').innerHTML = `<div class="dica"><b>Não foi possível carregar os dados.</b><br>${esc(String(e.message || e))}<br><br>Se você abriu este arquivo direto do computador, use a versão on-line: <a href="${SITE}">${SITE.replace('https://', '')}</a>.</div>`;
@@ -967,7 +994,7 @@ async function gerarImagem(pac, formato) {
 function posicionarBarraSel() {
   const bar = $('#barraSel'); const sel = getSelection();
   const ok = sel.rangeCount && !sel.isCollapsed && sel.toString().trim().length > 1 &&
-    $('#conteudo').contains(sel.getRangeAt(0).commonAncestorContainer) && atual && atual !== 'sobre' && atual !== 'marcacoes';
+    $('#conteudo').contains(sel.getRangeAt(0).commonAncestorContainer) && atual && leis.some((l) => l.id === atual);
   if (!ok) { bar.hidden = true; return; }
   bar.querySelector('[data-sel="desmarcar"]').hidden = !marcasNaSelecao().length;
   bar.hidden = false;
@@ -1536,7 +1563,7 @@ function trecho(u, casa, tam = 260) {
 const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
-  return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);
+  return escopo !== 'todas' && atual && leis.some((l) => l.id === atual) ? [atual] : leis.map((l) => l.id);
 }
 const linkResultado = (r, q) => `#/${r.id}/${r.u.id}${q ? '?q=' + encodeURIComponent(q) : ''}`;
 
@@ -1639,6 +1666,7 @@ async function rota() {
   if (!id) return inicio();
   if (id === 'sobre') return sobre();
   if (id === 'marcacoes') return telaMarcacoes();
+  if (id === 'manual') return manual(alvo);
   if (atual === id && $('#conteudo .titulo-obra') && !q) { desenharMenu(); return irPara(id, alvo); }
   esconderSugestoes();
   await mostrarLei(id, alvo, q);
@@ -1658,6 +1686,7 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
   $('#topoBtn').onclick = () => ($('#main').scrollTop = 0);
   $('#sobreBtn').onclick = () => { location.hash = '#/sobre'; fecharMenu(); };
   $('#marcasBtn').onclick = () => { location.hash = '#/marcacoes'; fecharMenu(); };
+  $('#manualBtn').onclick = () => { location.hash = '#/manual'; fecharMenu(); };
   $('#arqBackup').onchange = (e) => { const f = e.target.files[0]; e.target.value = ''; if (f) importarBackup(f); };
   $('#formBusca').onsubmit = (e) => { e.preventDefault(); fecharMenu(); buscar($('#q').value, $('#escopo').value); };
   try { await carregarCatalogo(); } catch (e) { return erro(e); }

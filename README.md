@@ -12,6 +12,8 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 
 <p align="center"><a href="https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/"><strong>📖 Abrir o Lex Vade Mecum on-line</strong></a></p>
 
+<p align="center"><a href="docs/manual-de-uso.md"><strong>📘 Manual de uso</strong></a> — para que serve, como estudar, marcar o progresso e compartilhar</p>
+
 Página de leitura com todas as leis deste repositório, diagramada como um livro e adaptada a computador, tablet e celular:
 
 - **Menu de leis** à esquerda e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
@@ -21,9 +23,10 @@ Página de leitura com todas as leis deste repositório, diagramada como um livr
 - **Progresso de leitura:** toque em **Parei aqui** no artigo onde parar; a lei mostra o **percentual lido** e o botão **Continuar leitura**, e a página inicial lista as leituras em andamento.
 - Ao abrir um resultado da busca, a página vai **direto à expressão encontrada**.
 - **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
+- **Manual de uso** no menu, com as finalidades do site e o passo a passo para estudar, marcar e compartilhar.
 - Página **Sobre**, com o objetivo do projeto e o criador.
 
-A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente. Documentação: [Guia de uso](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).
+A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente. Documentação: [Manual de uso](docs/manual-de-uso.md) · [Guia de uso (referência completa dos recursos)](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).
 
 ## Acesso direto às leis
 
