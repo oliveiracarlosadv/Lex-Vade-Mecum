@@ -1,0 +1,189 @@
+@NR 1.7.1
+I: O empregador deve capacitar e treinar os trabalhadores conforme as NR. A capacitação inclui treinamento inicial (antes de iniciar as funções ou no prazo da NR), periódico (na periodicidade da NR ou, se não houver, fixada pelo empregador) e eventual (mudança de procedimentos que altere riscos, acidente grave ou fatal, ou retorno de afastamento superior a 180 dias). Ao final, emite-se certificado com os dados mínimos exigidos, e a capacitação pode incluir estágio prático, simulados ou habilitação para operar veículos e máquinas.
+P: Treinamentos inicial, periódico e eventual || Retorno após mais de 180 dias de afastamento || Certificado com conteúdo mínimo
+K: capacitação; treinamento; certificado; treinamento eventual; responsável técnico
+
+@NR 1.7.2
+I: O tempo gasto em treinamentos exigidos pelas NR é tempo de trabalho efetivo, devendo ser remunerado e computado na jornada, inclusive como hora extra quando exceder o limite.
+P: Treinamento é tempo de trabalho || Remuneração devida || Cômputo na jornada
+K: tempo de treinamento; jornada; hora extra; trabalho efetivo
+
+@NR 1.7.3
+I: O certificado deve ser entregue ao trabalhador, e uma cópia fica arquivada na organização.
+P: Entrega ao trabalhador || Cópia arquivada || Prova da capacitação
+K: certificado; arquivo; treinamento
+
+@NR 1.7.4
+I: A capacitação deve ser registrada nos documentos funcionais do empregado.
+P: Registro funcional || Histórico do trabalhador || Prova perante a fiscalização
+K: documentos funcionais; registro; capacitação
+
+@NR 1.7.5
+I: Os treinamentos das NR podem ser dados em conjunto com outros treinamentos da organização, desde que respeitados os conteúdos e a carga horária exigidos em cada NR.
+P: Treinamentos integrados || Conteúdo e carga horária preservados || Otimização da capacitação
+K: treinamento integrado; carga horária
+
+@NR 1.7.6
+I: Conteúdos de treinamento dados na mesma organização podem ser aproveitados se estiverem compreendidos no anterior, se ministrados dentro do prazo da NR ou há menos de 2 anos e se validados pelo responsável técnico. O aproveitamento é registrado no certificado, e a validade do novo treinamento conta da data do mais antigo aproveitado.
+P: Aproveitamento interno de conteúdos || Prazo de 2 anos sem periodicidade na NR || Validade conta do treinamento mais antigo
+K: aproveitamento de treinamento; validação; responsável técnico
+
+@NR 1.7.7
+I: Treinamentos feitos em outra organização podem ser avaliados e convalidados ou complementados, considerando atividades anteriores e futuras, conteúdo e carga horária cumpridos e exigidos e a realização dentro do prazo da NR ou há menos de 2 anos.
+P: Convalidação de treinamento externo || Complementação de conteúdo || Prazo de 2 anos
+K: convalidação; treinamento anterior; complementação
+
+@NR 1.7.8
+I: Mesmo aproveitando treinamentos anteriores, a organização deve emitir o certificado, indicando a data dos treinamentos convalidados ou complementados; a periodicidade do próximo treinamento conta do mais antigo.
+P: Certificado sempre obrigatório || Indicação das datas aproveitadas || Periodicidade pelo mais antigo
+K: certificado; convalidação; periodicidade
+
+@NR 1.7.9
+I: Os treinamentos podem ser feitos a distância ou de forma semipresencial, desde que atendidos os requisitos do Anexo II; a parte prática só pode ser a distância se a NR específica permitir.
+P: EaD e semipresencial permitidos || Requisitos do Anexo II || Prática a distância só se a NR prever
+K: ensino a distância; EaD; semipresencial; Anexo II
+
+@NR 1.8.1
+I: O MEI está dispensado de elaborar o PGR, mas a contratante deve incluí-lo em suas ações de prevenção e em seu PGR quando ele atuar em suas dependências ou local combinado.
+P: Dispensa do PGR para o MEI || Contratante inclui o MEI no seu PGR || Proteção mantida
+K: MEI; dispensa do PGR; contratante
+
+@NR 1.8.2
+I: O órgão federal de trabalho deve expedir fichas com orientações de prevenção para o MEI. A referência à SEPRT é histórica; a atribuição hoje é do Ministério do Trabalho e Emprego.
+P: Fichas orientativas || Apoio ao MEI || Órgão hoje no MTE
+K: MEI; fichas de orientação; prevenção
+
+@NR 1.8.3
+I: ME e EPP não obrigadas a ter SESMT podem usar a ferramenta oficial de avaliação de risco e estruturar o PGR com o relatório dessa ferramenta e o plano de ação.
+P: Ferramenta oficial de avaliação || ME e EPP sem SESMT || PGR simplificado
+K: microempresa; empresa de pequeno porte; ferramenta de avaliação de risco; SESMT
+
+@NR 1.8.4
+I: ME e EPP de grau de risco 1 e 2 que, no levantamento preliminar, não identificarem exposição a agentes físicos, químicos e biológicos e declararem as informações digitais ficam dispensadas do PGR, devendo divulgar essas informações aos trabalhadores.
+P: Dispensa do PGR para graus de risco 1 e 2 || Sem exposição a agentes ambientais || Declaração digital e divulgação
+K: microempresa; EPP; grau de risco; dispensa do PGR; informação digital
+
+@NR 1.8.5
+I: A dispensa alcança só a elaboração do PGR; MEI, ME e EPP continuam obrigados a cumprir todas as demais disposições das NR.
+P: Dispensa restrita ao PGR || Demais NR continuam obrigatórias || Tratamento diferenciado limitado
+K: dispensa; MEI; ME; EPP; obrigações das NR
+
+@NR 1.8.6
+I: MEI, ME e EPP de grau de risco 1 e 2 que declararem as informações digitais e não identificarem exposição a agentes físicos, químicos, biológicos e riscos ergonômicos ficam dispensados do PCMSO.
+P: Dispensa do PCMSO || Graus de risco 1 e 2 || Sem exposição a agentes e riscos ergonômicos
+K: PCMSO; dispensa; microempresa; grau de risco
+
+@NR 1.8.7.1
+I: A dispensa do PCMSO não afasta a realização dos exames médicos ocupacionais nem a emissão do ASO. O subitem aparece antes do 1.8.7 no texto oficial, ordem que foi mantida.
+P: Exames médicos continuam obrigatórios || ASO obrigatório || Ordem do texto oficial preservada
+K: ASO; exames médicos; PCMSO
+
+@NR 1.8.7
+I: Os graus de risco 1 e 2 são os da NR-04 (SESMT), que classifica as atividades conforme a CNAE.
+P: Grau de risco pela NR-04 || Classificação por CNAE || Referência para as dispensas
+K: grau de risco; NR-04; SESMT; CNAE
+
+@NR 1.8.8
+I: O empregador responde pela veracidade das informações prestadas para obter as dispensas de PGR e PCMSO.
+P: Responsabilidade do empregador || Veracidade das declarações || Dispensas condicionadas
+K: responsabilidade; declaração; dispensa
+
+@NR 1.9.1
+I: O descumprimento das normas de SST acarreta as penalidades legais, especialmente as multas do art. 201 da CLT, aplicadas conforme a NR-28, sem prejuízo de responsabilidade civil, previdenciária e penal.
+P: Penalidades legais || Multas da CLT e NR-28 || Outras responsabilidades
+K: penalidades; multa; NR-28; art. 201 CLT
+
+@NR 1.9.2
+I: Os casos omissos no cumprimento das NR são decididos pelo órgão federal de trabalho, ouvida a inspeção do trabalho.
+P: Casos omissos || Decisão administrativa || Órgão federal de trabalho
+K: casos omissos; interpretação administrativa
+
+@AI glossario
+I: O Anexo I reúne os termos e definições válidos para todas as NR, como agentes físicos, químicos e biológicos, perigo, risco ocupacional, risco evidente, perigo externo, evento perigoso, GRO, PGR, organização, empregador, trabalhador e estabelecimento. As definições inseridas pela Portaria MTE nº 1.419/2024 trazem a nota "vigência em 26 de maio de 2025", embora a nova redação do item 1.5 tenha passado a valer em 26 de maio de 2026 (Portaria MTE nº 765/2025). A redação anterior da definição de "perigo", válida até 25 de maio de 2025, não foi reproduzida por estar superada.
+P: Glossário aplicável a todas as NR || Conceitos centrais do GRO || Trabalhador abrange vínculos não empregatícios
+K: definições; perigo; risco ocupacional; agente físico; agente químico; agente biológico; PGR; organização; trabalhador
+
+@AII 1.1
+I: O Anexo II fixa os requisitos mínimos pedagógicos, operacionais, tecnológicos e administrativos para capacitações das NR a distância ou semipresenciais.
+P: Objetivo do Anexo II || Requisitos mínimos || EaD nas capacitações das NR
+K: ensino a distância; capacitação; requisitos
+
+@AII 2.1
+I: O empregador pode desenvolver a capacitação a distância ou contratar instituição especializada, e em ambos os casos devem ser cumpridos os requisitos do Anexo e da NR-01; sem isso, os certificados da instituição não são válidos.
+P: Execução própria ou contratada || Requisitos obrigatórios || Validade dos certificados
+K: EaD; instituição especializada; certificado
+
+@AII 2.2
+I: Ao contratar a capacitação, o empregador deve prever no contrato a obrigação do prestador de cumprir os requisitos do Anexo II e das NR.
+P: Cláusula contratual obrigatória || Responsabilidade do prestador || Cumprimento das NR
+K: contrato; prestador de serviço; EaD
+
+@AII 2.3
+I: Capacitações a distância ou semipresenciais devem ter, no mínimo, a mesma duração exigida para a modalidade presencial.
+P: Carga horária mínima igual à presencial || Sem redução por modalidade || Equivalência
+K: carga horária; EaD; presencial
+
+@AII 2.4
+I: O conteúdo programático deve cobrir todos os tópicos exigidos e respeitar a carga horária de cada conteúdo.
+P: Conteúdo completo || Carga horária por conteúdo || Conformidade com a NR
+K: conteúdo programático; carga horária
+
+@AII 2.5
+I: As atividades práticas obrigatórias seguem as orientações das NR e devem estar descritas no projeto pedagógico.
+P: Práticas obrigatórias || Previsão no projeto pedagógico || Orientações das NR
+K: atividade prática; projeto pedagógico
+
+@AII 3.1
+I: O uso de EaD ou semipresencial exige projeto pedagógico com objetivo, princípios de SST, estratégia, responsável técnico, instrutores, infraestrutura, conteúdo, objetivos dos módulos, carga horária, dedicação diária, prazo de conclusão, público-alvo, material, instrumentos de aprendizagem e avaliação. O texto oficial passa do item 3.1 ao 3.3, sem item 3.2.
+P: Projeto pedagógico obrigatório || Conteúdo mínimo em 15 alíneas || Numeração oficial sem item 3.2
+K: projeto pedagógico; EaD; responsável técnico
+
+@AII 3.3
+I: O projeto pedagógico deve ser validado a cada 2 anos ou quando a NR mudar, com revisão se necessário.
+P: Validação a cada 2 anos || Revisão quando a NR mudar || Atualização do curso
+K: projeto pedagógico; validação; periodicidade
+
+@AII 4.1
+I: O projeto pedagógico deve ficar disponível para a Inspeção do Trabalho, o sindicato e a CIPA, e a instituição contratada deve entregá-lo aos contratantes.
+P: Disponibilidade do projeto || Fiscalização, sindicato e CIPA || Entrega pela instituição
+K: projeto pedagógico; CIPA; sindicato; fiscalização
+
+@AII 4.2
+I: Todo o material didático necessário deve ser disponibilizado aos trabalhadores, conforme o projeto pedagógico.
+P: Material didático completo || Acesso do trabalhador || Previsão no projeto
+K: material didático; EaD
+
+@AII 4.3
+I: Devem ser oferecidos recursos e ambiente que favoreçam a concentração e a aprendizagem.
+P: Ambiente adequado || Recursos para o curso || Condições de aprendizagem
+K: ambiente de aprendizagem; EaD
+
+@AII 4.4
+I: O período do curso deve ser usado exclusivamente para a capacitação, sem concomitância com as atividades de trabalho.
+P: Tempo exclusivo para o curso || Vedação de acúmulo com o trabalho || Qualidade da capacitação
+K: dedicação exclusiva; EaD; jornada
+
+@AII 4.5
+I: Deve haver canal de comunicação operante durante o curso para esclarecer dúvidas.
+P: Canal de dúvidas || Funcionamento durante o curso || Suporte ao aluno
+K: tutoria; canal de comunicação; EaD
+
+@AII 4.6
+I: A aprendizagem é verificada conforme a estratégia pedagógica, com conceito satisfatório ou insatisfatório, por prova presencial assinada ou digital com identificação e senha, com rastreabilidade quando online e contemplando situações práticas da rotina do trabalhador.
+P: Avaliação satisfatório ou insatisfatório || Identificação do avaliado || Situações práticas da rotina
+K: avaliação de aprendizagem; prova; rastreabilidade
+
+@AII 4.7
+I: Ao fim do curso, a empresa registra sua realização, os resultados das avaliações e os logs de acesso, que devem ser guardados por no mínimo 2 anos após o fim da validade do curso.
+P: Registro do curso || Guarda dos logs || 2 anos após a validade
+K: logs; registro; guarda de documentos; EaD
+
+@AII 5.1
+I: Só valem capacitações a distância ou semipresenciais feitas em Ambiente Virtual de Aprendizagem apropriado à gestão, transmissão e aprendizagem do conteúdo.
+P: AVA obrigatório || Requisito de validade || Gestão do conteúdo
+K: ambiente virtual de aprendizagem; AVA; EaD
+
+@AII glossario
+I: O glossário do Anexo II define ambiente exclusivo, Ambiente Virtual de Aprendizagem (AVA), avaliação de aprendizagem, EaD (conforme o Decreto nº 9.057/2017), ensino semipresencial, projeto pedagógico, instrumentos de potencialização do aprendizado e log.
+P: Conceitos do ensino a distância || AVA e logs || Referência ao Decreto nº 9.057/2017
+K: glossário; EaD; AVA; ensino semipresencial; log

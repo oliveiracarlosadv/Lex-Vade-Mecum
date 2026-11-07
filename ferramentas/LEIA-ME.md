@@ -94,6 +94,25 @@ Regras de comparação:
 
 Para regenerar após revisar análises: `python3 ferramentas/trt8.py --fonte trt8-precedentes`.
 
+## Normas Regulamentadoras (`fontes/nr-01/`, `"tipo": "pdf-nr"`)
+
+As NR são publicadas pelo Ministério do Trabalho e Emprego em PDF no portal gov.br, que aceita download direto. É preciso ter o `pdftotext` (pacote poppler, `brew install poppler`).
+
+```bash
+python3 ferramentas/nr.py --fonte nr-01 --baixar        # baixa o PDF oficial (url do config.json) e atualiza
+python3 ferramentas/nr.py --fonte nr-01 --pdf nr01.pdf  # usa um PDF já salvo
+python3 ferramentas/nr.py --fonte nr-01                 # só regenera (após revisar análises)
+```
+
+O script extrai o texto do PDF, tira os rodapés "Este texto não substitui o publicado no DOU" e os sumários, junta as linhas quebradas pelo PDF e confere que o resultado, sem espaços, é idêntico ao corpo do PDF. Depois separa os dispositivos:
+- cada subitem com conteúdo normativo é um dispositivo e leva junto seus subitens internos (o 1.4.3 reúne 1.4.3.1 a 1.4.3.3);
+- itens que só nomeiam divisões ("1.5.3 Responsabilidades") e títulos sem número viram a localização;
+- notas soltas antes de um título (ex.: "Redação dada pela Portaria MTE nº 1.419...") ficam no início do primeiro dispositivo da divisão;
+- o glossário de cada anexo é um único dispositivo;
+- redações com vigência encerrada indicadas em `"descartar"` no `config.json` (expressões regulares) não são reproduzidas.
+
+Anotações em `anotacoes-*.txt` com blocos `@NR 1.4.1`, `@AII 2.1` (Anexo II) e `@AI glossario`. Dispositivo alterado ou incluído no PDF → análise marcada como pendente de revisão e registro no `CHANGELOG.md`. O quadro da estrutura é gerado no lugar de `<!-- ESTRUTURA_NR -->` em `abertura.md`.
+
 ## Página de consulta (`index.html`)
 
 A página na raiz do repositório (publicada pelo GitHub Pages em https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/) lê a tabela "Acesso direto às leis" do README e os arquivos `leis/*/*-completa.md`. Uma lei nova aparece na página assim que entra na tabela; não há nada a gerar.

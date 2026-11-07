@@ -1,0 +1,279 @@
+@NR 1.1.1
+I: A NR-01 é a norma de base do sistema de Normas Regulamentadoras: fixa disposições gerais, campo de aplicação, termos e definições comuns e as regras do gerenciamento de riscos ocupacionais (GRO). As demais NR devem ser lidas em conjunto com ela, que funciona como uma "parte geral" da segurança e saúde no trabalho.
+P: Parte geral das NR || Gerenciamento de riscos ocupacionais || Termos comuns a todas as NR
+K: NR-01; objetivo; normas regulamentadoras; segurança e saúde no trabalho
+
+@NR 1.1.2
+I: Os termos e definições do Anexo I valem para a aplicação de todas as NR, salvo definição própria em norma específica. Conceitos como perigo, risco ocupacional, organização e trabalhador devem ser interpretados conforme esse glossário.
+P: Glossário obrigatório || Anexo I || Uniformidade de conceitos
+K: definições; Anexo I; interpretação
+
+@NR 1.2.1
+I: As NR obrigam empregadores e empregados, urbanos e rurais, e também órgãos públicos e Poderes que tenham empregados regidos pela CLT. Podem alcançar outras relações de trabalho quando a lei assim determinar. O fundamento legal é o Capítulo V do Título II da CLT (arts. 154 a 201), especialmente o art. 200, que atribui ao Ministério do Trabalho a edição das normas complementares.
+P: Obrigatoriedade para empregadores e empregados || Alcance de órgãos públicos com celetistas || Extensão a outras relações por lei
+K: campo de aplicação; empregador; empregado; CLT; administração pública
+
+@NR 1.2.2
+I: Cumprir as NR não dispensa o cumprimento de códigos de obras, regulamentos sanitários estaduais e municipais e de convenções e acordos coletivos sobre a matéria. As NR são um patamar mínimo, que pode ser complementado por outras fontes, como prevê o art. 154 da CLT.
+P: NR como patamar mínimo || Normas locais e sanitárias || Negociação coletiva complementar
+K: observância; códigos de obras; convenção coletiva; normas complementares
+
+@NR 1.3.1
+I: Define o órgão nacional competente em SST, a Secretaria de Trabalho por meio da Subsecretaria de Inspeção do Trabalho, para formular diretrizes, promover a CANPAT, coordenar o PAT, fiscalizar e julgar recursos em última instância. As denominações são da época da redação; hoje essas atribuições cabem ao Ministério do Trabalho e Emprego, por sua Secretaria de Inspeção do Trabalho.
+P: Órgão nacional de SST || Fiscalização e recursos || Denominações históricas dos órgãos
+K: competência; Inspeção do Trabalho; CANPAT; PAT; recursos administrativos
+
+@NR 1.3.2
+I: A SIT e os órgãos regionais executam a fiscalização das normas de SST e as atividades da CANPAT e do PAT. Na prática, a fiscalização é feita pelos Auditores-Fiscais do Trabalho nas unidades regionais (Superintendências).
+P: Execução da fiscalização || Órgãos regionais || Auditores-Fiscais do Trabalho
+K: fiscalização; superintendência regional; auditor-fiscal do trabalho
+
+@NR 1.3.3
+I: A autoridade regional competente impõe as penalidades por descumprimento das normas de SST, após o processo administrativo de auto de infração. Os valores e critérios das multas estão no art. 201 da CLT e na NR-28.
+P: Imposição de penalidades || Autoridade regional || Processo administrativo
+K: penalidades; multa administrativa; NR-28; auto de infração
+
+@NR 1.4.1
+I: Lista os deveres do empregador: cumprir as normas de SST, informar riscos, medidas de prevenção e resultados de exames e avaliações, emitir ordens de serviço, permitir o acompanhamento da fiscalização por representantes dos trabalhadores, definir procedimentos para acidentes, fornecer informações à Inspeção e implementar medidas de prevenção em ordem de prioridade. O subitem 1.4.1.1 obriga as organizações com CIPA a adotar medidas contra o assédio sexual e outras violências, como regras de conduta, canal de denúncias com anonimato e capacitação ao menos a cada 12 meses (Portaria MTP nº 4.219/2022, em linha com a Lei nº 14.457/2022).
+P: Hierarquia das medidas: eliminar, proteção coletiva, medidas administrativas e, por último, EPI || Dever de informar e de emitir ordens de serviço || Prevenção ao assédio sexual nas empresas com CIPA
+K: deveres do empregador; ordem de serviço; hierarquia de controles; assédio sexual; CIPA; Lei 14.457/2022
+
+@NR 1.4.2
+I: O trabalhador deve cumprir as normas de SST e as ordens de serviço, submeter-se aos exames médicos, colaborar com a organização e usar o EPI fornecido. A recusa injustificada é ato faltoso (1.4.2.1), o que reproduz o art. 158, parágrafo único, da CLT e pode justificar sanções disciplinares, inclusive a dispensa por justa causa conforme a gravidade.
+P: Deveres do trabalhador || Uso obrigatório do EPI || Recusa injustificada como ato faltoso
+K: deveres do empregado; EPI; exames médicos; ato faltoso; art. 158 CLT
+
+@NR 1.4.3
+I: Garante o direito de recusa: o trabalhador pode interromper a atividade diante de risco grave e iminente à sua vida ou saúde, avisando imediatamente o superior. O empregador não pode exigir o retorno antes das medidas corretivas, e o trabalhador deve ser protegido de consequências injustificadas (Portaria MTE nº 342/2024). O direito tem apoio na Convenção nº 155 da OIT (art. 13).
+P: Direito de recusa diante de risco grave e iminente || Proibição de exigir o retorno sem correção || Proteção contra retaliação
+K: direito de recusa; risco grave e iminente; Convenção 155 OIT; interrupção da atividade
+
+@NR 1.4.4
+I: Na admissão ou na mudança de função que altere o risco, o trabalhador deve receber informações sobre riscos, meios de prevenção, medidas adotadas, procedimentos de emergência e o direito de recusa. A informação pode ser dada em treinamentos, diálogos de segurança ou documento físico ou eletrônico.
+P: Informação na admissão e na mudança de função || Conteúdo mínimo || Formas de transmissão
+K: informação ao trabalhador; admissão; mudança de função; diálogo de segurança
+
+@NR 1.5.1
+I: Abre o capítulo do gerenciamento de riscos ocupacionais (GRO), cuja redação atual foi dada pela Portaria MTE nº 1.419/2024, com vigência a partir de 26 de maio de 2026 (Portaria MTE nº 765/2025). As regras do item 1.5 servem à prevenção e ao gerenciamento dos riscos, e não à caracterização de adicionais.
+P: Finalidade preventiva do GRO || Nova redação em vigor desde 26/05/2026 || Separação entre prevenção e adicionais
+K: gerenciamento de riscos ocupacionais; GRO; Portaria 1.419/2024; vigência
+
+@NR 1.5.2
+I: A caracterização de insalubridade e periculosidade continua regida pela NR-15 e pela NR-16. O inventário do PGR não substitui o laudo técnico para fins de adicional, embora as informações possam se relacionar.
+P: Insalubridade pela NR-15 || Periculosidade pela NR-16 || PGR não caracteriza adicional
+K: insalubridade; periculosidade; NR-15; NR-16; adicional
+
+@NR 1.5.3.1
+I: A organização deve implementar o gerenciamento de riscos em seus estabelecimentos, materializado no Programa de Gerenciamento de Riscos (PGR), que pode ser feito por estabelecimento, unidade, setor ou atividade e pode ser atendido por sistemas de gestão que cumpram a NR. O GRO deve abranger riscos físicos, químicos, biológicos, de acidentes e ergonômicos, incluindo expressamente os fatores de risco psicossociais relacionados ao trabalho.
+P: PGR obrigatório || Integração com outros programas || Inclusão dos riscos psicossociais
+K: PGR; programa de gerenciamento de riscos; riscos psicossociais; sistemas de gestão
+
+@NR 1.5.3.2
+I: Fixa as etapas do gerenciamento: evitar ou eliminar perigos, identificá-los, avaliar e classificar os riscos, implementar medidas de prevenção na ordem de prioridade do subitem 1.4.1, "g", e acompanhar o controle. A organização deve considerar as condições de trabalho da NR-17, inclusive os fatores psicossociais.
+P: Ciclo do gerenciamento de riscos || Hierarquia de medidas || Integração com a NR-17
+K: etapas do GRO; avaliação de riscos; classificação de riscos; NR-17; ergonomia
+
+@NR 1.5.3.3
+I: A organização deve garantir a participação dos trabalhadores no gerenciamento, consultá-los sobre a percepção de riscos (podendo usar a CIPA) e comunicar os riscos do inventário e as medidas do plano de ação.
+P: Participação dos trabalhadores || Consulta e percepção de riscos || Comunicação do inventário e do plano
+K: participação; consulta aos trabalhadores; CIPA; comunicação de riscos
+
+@NR 1.5.3.4
+I: A organização deve avaliar e melhorar continuamente seu desempenho em SST, o que exige indicadores e revisão periódica das medidas.
+P: Melhoria contínua || Avaliação de desempenho || Indicadores de SST
+K: desempenho em SST; melhoria contínua
+
+@NR 1.5.3.5
+I: Quando várias organizações trabalham ao mesmo tempo no mesmo local, devem integrar suas medidas de prevenção para proteger todos os trabalhadores expostos.
+P: Atuação integrada || Local de trabalho compartilhado || Proteção de todos os expostos
+K: atividades simultâneas; integração; terceirização
+
+@NR 1.5.4.1
+I: A identificação de perigos e a avaliação de riscos devem observar o que preveem as NR e a legislação de SST, que funcionam como requisitos mínimos do processo.
+P: Base nas NR e na lei || Requisitos mínimos || Processo estruturado
+K: identificação de perigos; avaliação de riscos; requisitos legais
+
+@NR 1.5.4.2.1
+I: O levantamento preliminar de perigos e riscos é feito antes do funcionamento, para atividades existentes e em mudanças, com o fim de evitar ou eliminar perigos e tratar de imediato os riscos evidentes. Se o perigo não puder ser eliminado, segue-se a identificação e avaliação completas; se não houver medida imediata possível, o risco vai para o inventário e a medida para o plano de ação. A critério da organização, essa etapa pode estar contida na identificação de perigos.
+P: Etapa inicial do GRO || Tratamento imediato do risco evidente || Registro no inventário e no plano de ação
+K: levantamento preliminar; risco ocupacional evidente; plano de ação; inventário de riscos
+
+@NR 1.5.4.3.1
+I: A identificação de perigos deve descrever os perigos e as possíveis lesões, identificar fontes ou circunstâncias e indicar o grupo de trabalhadores sujeitos ao perigo.
+P: Descrição dos perigos || Fontes e circunstâncias || Grupos de exposição
+K: identificação de perigos; grupo de trabalhadores; fontes de risco
+
+@NR 1.5.4.3.2
+I: A identificação deve abranger também os perigos externos previsíveis relacionados ao trabalho, como riscos de trajeto em atividades externas, violência urbana ou eventos climáticos, conforme definidos no Anexo I.
+P: Perigos externos previsíveis || Fora dos limites do estabelecimento || Medidas mitigadoras possíveis
+K: perigo externo; trabalho externo; identificação de perigos
+
+@NR 1.5.4.4.1
+I: A organização deve avaliar os riscos relativos aos perigos identificados em cada estabelecimento, mantendo informações que orientem as medidas de prevenção.
+P: Avaliação obrigatória || Base para as medidas || Registro das informações
+K: avaliação de riscos; estabelecimento
+
+@NR 1.5.4.4.2
+I: O nível de risco resulta da combinação da severidade das lesões com a probabilidade de ocorrência. A organização escolhe ferramentas e técnicas adequadas e deve documentar os critérios de gradação, níveis, classificação e tomada de decisão.
+P: Nível de risco = severidade × probabilidade || Escolha de ferramentas adequadas || Critérios documentados
+K: nível de risco; severidade; probabilidade; matriz de risco
+
+@NR 1.5.4.4.3
+I: Determinados os níveis, os riscos devem ser classificados para definir se são necessárias medidas novas ou a manutenção das existentes e para elaborar o plano de ação.
+P: Classificação dos riscos || Necessidade de medidas || Base do plano de ação
+K: classificação de riscos; plano de ação
+
+@NR 1.5.4.4.4
+I: A severidade mede a magnitude das possíveis consequências das lesões ou agravos; havendo mais de uma consequência possível, considera-se a de maior magnitude.
+P: Severidade pela magnitude || Pior consequência possível || Critério conservador
+K: severidade; consequência; avaliação de riscos
+
+@NR 1.5.4.4.5
+I: A probabilidade considera a chance de ocorrência e o cumprimento dos requisitos legais. Para agentes físicos, químicos e biológicos, compara-se a exposição com valores de referência ou critérios da NR-09; para fatores ergonômicos e psicossociais, consideram-se as exigências da atividade; para acidentes, a exposição ao perigo; sempre levando em conta a eficácia das medidas existentes.
+P: Probabilidade conforme o tipo de perigo || NR-09 para agentes ambientais || Psicossociais pelas exigências da atividade
+K: probabilidade; NR-09; fatores psicossociais; exposição ocupacional
+
+@NR 1.5.4.4.6
+I: A avaliação de riscos é contínua e deve ser revista a cada 2 anos, ou antes, após medidas de prevenção, mudanças tecnológicas ou organizacionais, ineficácia das medidas, acidentes ou doenças, mudança legal ou pedido justificado dos trabalhadores ou da CIPA. Com certificação em sistema de gestão de SST, o prazo pode ser de até 3 anos.
+P: Revisão a cada 2 anos || Gatilhos de revisão antecipada || Até 3 anos com certificação
+K: revisão da avaliação; periodicidade; certificação; CIPA
+
+@NR 1.5.5.1.1
+I: Medidas de prevenção são obrigatórias quando exigidas por NR ou lei, quando a classificação de riscos indicar, quando houver evidência de nexo entre agravos e trabalho e quando as análises de acidentes concluírem pela necessidade.
+P: Hipóteses de adoção obrigatória || Classificação de riscos || Evidências de nexo
+K: medidas de prevenção; controle de riscos
+
+@NR 1.5.5.1.2
+I: Só quando a proteção coletiva for tecnicamente inviável, insuficiente, estiver em implantação ou em caráter complementar ou emergencial é que se adotam medidas administrativas e, depois, o EPI. O EPI é a última barreira, e sua escolha não dispensa a busca por soluções coletivas.
+P: Prioridade da proteção coletiva || Medidas administrativas em seguida || EPI como última opção
+K: hierarquia de controles; EPC; EPI; medidas administrativas
+
+@NR 1.5.5.1.3
+I: A implantação das medidas deve ser acompanhada de informação aos trabalhadores sobre os procedimentos e as limitações das medidas adotadas.
+P: Informação sobre as medidas || Limitações das proteções || Procedimentos a seguir
+K: informação; medidas de prevenção
+
+@NR 1.5.5.2.1
+I: O plano de ação indica as medidas a introduzir, aprimorar ou manter conforme a classificação de riscos, e o número de trabalhadores possivelmente atingidos aumenta a prioridade.
+P: Plano de ação obrigatório || Medidas novas e mantidas || Prioridade pelo número de expostos
+K: plano de ação; prioridade; PGR
+
+@NR 1.5.5.2.2
+I: Cada medida do plano deve ter cronograma, responsáveis, formas de acompanhamento e aferição de resultados.
+P: Cronograma || Responsáveis || Aferição de resultados
+K: plano de ação; cronograma; responsáveis
+
+@NR 1.5.5.3.1
+I: A implementação das medidas de prevenção e seus ajustes devem ser registrados, o que serve de prova perante a fiscalização e em eventual litígio.
+P: Registro obrigatório || Ajustes documentados || Valor probatório
+K: registro; implementação; medidas de prevenção
+
+@NR 1.5.5.3.2
+I: O desempenho das medidas deve ser acompanhado de forma planejada, com verificação da execução, inspeções, monitoramento ambiental e participação dos trabalhadores e da CIPA. Medidas ineficazes devem ser corrigidas.
+P: Acompanhamento planejado || Inspeções e monitoramento || Correção de medidas ineficazes
+K: acompanhamento; inspeção; monitoramento; eficácia
+
+@NR 1.5.5.4.1
+I: As ações de saúde ocupacional devem ser integradas às demais medidas de prevenção e orientadas pelos riscos gerados pelo trabalho.
+P: Integração saúde e segurança || Ações conforme os riscos || PGR e PCMSO articulados
+K: saúde ocupacional; integração; PCMSO
+
+@NR 1.5.5.4.2
+I: O controle da saúde dos empregados é preventivo, planejado, sistemático e continuado, conforme a classificação de riscos e a NR-07, que disciplina o PCMSO.
+P: Controle de saúde preventivo || Vinculado à classificação de riscos || NR-07 e PCMSO
+K: PCMSO; NR-07; exames ocupacionais; controle de saúde
+
+@NR 1.5.5.5.1
+I: A organização deve analisar acidentes e doenças relacionadas ao trabalho e também os eventos perigosos que poderiam ter consequências graves (quase acidentes).
+P: Análise de acidentes e doenças || Eventos perigosos || Prevenção pelo aprendizado
+K: análise de acidentes; quase acidente; evento perigoso
+
+@NR 1.5.5.5.2
+I: As análises devem ser documentadas e considerar o trabalho real, o ambiente, materiais, processo e organização do trabalho, além de dados da empresa, epidemiológicos e relatos dos trabalhadores, gerando evidências para revisar as medidas. Esses registros têm peso relevante em ações acidentárias e regressivas.
+P: Análise documentada || Trabalho real e organização || Revisão das medidas
+K: análise de acidentes; investigação; dados epidemiológicos; documentação
+
+@NR 1.5.6.1
+I: A organização deve estabelecer, implementar e manter procedimentos de resposta a emergências proporcionais aos riscos e às características das atividades.
+P: Plano de resposta a emergências || Proporcionalidade || Manutenção permanente
+K: emergências; plano de emergência
+
+@NR 1.5.6.2
+I: Os procedimentos devem prever meios, responsáveis e recursos para primeiros socorros, encaminhamento de acidentados e abandono de áreas, além de medidas para emergências de grande magnitude, quando aplicável.
+P: Primeiros socorros e abandono || Responsáveis e recursos || Emergências de grande magnitude
+K: primeiros socorros; abandono de área; emergência de grande magnitude
+
+@NR 1.5.6.3
+I: A organização deve realizar exercícios simulados com a periodicidade prevista em seus procedimentos e gerar evidências de cada simulado.
+P: Simulados obrigatórios || Periodicidade definida || Evidências documentadas
+K: exercício simulado; emergência
+
+@NR 1.5.7.1
+I: O PGR deve conter, no mínimo, o inventário de riscos e o plano de ação.
+P: Conteúdo mínimo do PGR || Inventário de riscos || Plano de ação
+K: PGR; documentação; inventário; plano de ação
+
+@NR 1.5.7.2
+I: Os documentos do PGR são de responsabilidade da organização, devem ser datados e assinados e estar sempre disponíveis aos trabalhadores interessados, aos sindicatos e à Inspeção do Trabalho.
+P: Responsabilidade da organização || Datados e assinados || Acesso de trabalhadores, sindicatos e fiscalização
+K: PGR; documentos; acesso; sindicato
+
+@NR 1.5.7.3.1
+I: Os dados da identificação de perigos e da avaliação de riscos devem ser consolidados em um inventário de riscos ocupacionais.
+P: Consolidação dos dados || Inventário de riscos || Base documental do GRO
+K: inventário de riscos ocupacionais
+
+@NR 1.5.7.3.2
+I: O inventário deve conter, no mínimo, a caracterização de processos, ambientes e atividades, a descrição dos perigos e possíveis lesões, os grupos expostos, as medidas implementadas, a caracterização da exposição, os dados de monitoramento e avaliação ergonômica da NR-17 e a avaliação e classificação dos riscos.
+P: Conteúdo mínimo do inventário || Grupos expostos e medidas || Avaliação ergonômica da NR-17
+K: inventário de riscos; conteúdo mínimo; NR-17; exposição
+
+@NR 1.5.7.3.3
+I: O inventário deve ser mantido atualizado, e o histórico das atualizações guardado por no mínimo 20 anos ou pelo prazo de norma específica.
+P: Atualização permanente || Histórico por 20 anos || Prazo maior em norma específica
+K: inventário de riscos; guarda de documentos; 20 anos
+
+@NR 1.5.8.1
+I: O PGR da contratante deve incluir medidas de prevenção para as contratadas que atuem em suas dependências ou em local combinado, ou utilizar os programas delas, que devem fornecer inventário e plano de ação. Se a contratada presta o serviço só pelo titular ou sócios, a contratante estende a ela suas medidas de prevenção.
+P: PGR da contratante abrange terceiros || Uso dos programas da contratada || Contratada sem empregados
+K: terceirização; contratante; contratada; PGR; Lei 6.019/1974
+
+@NR 1.5.8.2
+I: A contratante deve informar às contratadas os riscos sob sua responsabilidade que possam afetar as atividades delas.
+P: Dever de informação da contratante || Riscos compartilhados || Prevenção na terceirização
+K: terceirização; informação de riscos; contratante
+
+@NR 1.5.8.3
+I: A contratada deve informar à contratante os riscos sob sua responsabilidade que possam afetar as atividades da contratante.
+P: Dever de informação da contratada || Reciprocidade || Prevenção na terceirização
+K: terceirização; informação de riscos; contratada
+
+@NR 1.5.8.4
+I: Quando os riscos resultam da interação entre as atividades das organizações, as medidas são definidas em conjunto, sob coordenação da contratante. A regra se soma à responsabilidade da tomadora pelas condições de segurança previstas no art. 5º-A, § 3º, da Lei nº 6.019/1974.
+P: Medidas definidas em conjunto || Coordenação da contratante || Riscos de interação
+K: terceirização; coordenação; contratante; Lei 6.019/1974
+
+@NR 1.6.1
+I: As organizações devem prestar informações de SST em formato digital, conforme modelo oficial, com base na simplificação e desburocratização. Na prática, isso ocorre pelos eventos de SST do eSocial (como CAT, monitoramento da saúde e condições ambientais).
+P: Informação digital obrigatória || Simplificação || Eventos de SST do eSocial
+K: informação digital; eSocial; desburocratização
+
+@NR 1.6.2
+I: Os documentos das NR podem ser emitidos e armazenados digitalmente com certificado digital ICP-Brasil.
+P: Documento nato digital || Certificado ICP-Brasil || Validade jurídica
+K: documento digital; ICP-Brasil; certificado digital
+
+@NR 1.6.3
+I: Documentos físicos assinados à mão podem ser digitalizados e guardados em meio digital pelo prazo legal, com certificado ICP-Brasil que garanta integridade e autenticidade, mantidos os originais quando a lei exigir.
+P: Digitalização permitida || Integridade e autenticidade || Guarda dos originais conforme a lei
+K: digitalização; guarda de documentos; ICP-Brasil
+
+@NR 1.6.4
+I: O empregador deve preservar os documentos digitais de modo que se possa verificar a qualquer tempo sua validade jurídica, autenticidade, integridade, disponibilidade, rastreabilidade, irretratabilidade, privacidade e interoperabilidade.
+P: Preservação digital || Validade verificável || Requisitos técnicos de segurança
+K: preservação de documentos; documento digital; integridade
+
+@NR 1.6.5
+I: A Inspeção do Trabalho tem acesso amplo e irrestrito aos documentos digitais, e a organização deve dar aos trabalhadores e representantes acesso aos documentos que lhes devem estar disponíveis.
+P: Acesso irrestrito da fiscalização || Acesso dos trabalhadores || Meios adequados de consulta
+K: acesso a documentos; fiscalização; trabalhadores
