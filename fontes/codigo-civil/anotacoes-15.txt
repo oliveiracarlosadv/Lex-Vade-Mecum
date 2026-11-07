@@ -1,0 +1,574 @@
+@CC 1350
+I: O síndico convoca anualmente a assembleia para aprovar orçamento, contribuições e contas e, se for o caso, eleger o substituto e alterar o regimento; se não convocar, 1/4 dos condôminos pode fazê-lo, e o juiz decide se a assembleia não se reunir.
+P: Assembleia ordinária anual || Orçamento e contas || Convocação supletiva e judicial
+K: assembleia de condomínio; síndico
+
+@CC 1351
+I: Dependem de 2/3 dos votos dos condôminos a alteração da convenção e a mudança de destinação do edifício ou da unidade.
+P: Quórum de 2/3 || Alteração da convenção || Mudança de destinação
+K: convenção de condomínio; quórum; destinação
+
+@CC 1352
+I: Salvo quórum especial, as deliberações em primeira convocação exigem maioria dos presentes que representem ao menos metade das frações ideais; os votos são proporcionais às frações, salvo disposição da convenção.
+P: Quórum em primeira convocação || Votos proporcionais às frações || Convenção pode dispor
+K: assembleia; quórum; frações ideais
+
+@CC 1353
+I: Em segunda convocação, delibera-se por maioria dos presentes, salvo quórum especial; quando exigido quórum especial, a assembleia pode ser declarada em sessão permanente para atingi-lo, em até 90 dias.
+P: Maioria dos presentes || Sessão permanente || Prazo de 90 dias
+K: assembleia; segunda convocação; sessão permanente
+
+@CC 1354
+I: A assembleia não pode deliberar se todos os condôminos não forem convocados.
+P: Convocação de todos || Nulidade da deliberação || Contraditório
+K: assembleia; convocação
+
+@CC 1354-A
+I: Assembleias podem ser convocadas, realizadas e deliberadas eletronicamente, se a convenção não vedar e forem preservados os direitos de voz, debate e voto; o edital deve informar como acessar e votar.
+P: Assembleia eletrônica || Não vedação na convenção || Garantia de participação
+K: assembleia virtual; condomínio
+
+@CC 1355
+I: Assembleias extraordinárias podem ser convocadas pelo síndico ou por 1/4 dos condôminos.
+P: Assembleia extraordinária || Síndico ou 1/4 || Convocação
+K: assembleia extraordinária
+
+@CC 1356
+I: Pode haver conselho fiscal de 3 membros eleitos por até 2 anos para dar parecer sobre as contas do síndico.
+P: Conselho fiscal facultativo || 3 membros e 2 anos || Parecer sobre contas
+K: conselho fiscal; condomínio
+
+@CC 1357
+I: Se a edificação for destruída ou ameaçar ruína, os condôminos decidem sobre reconstrução ou venda por mais da metade das frações; o dissidente pode alienar sua parte; na venda, o condômino tem preferência e o preço é repartido pelas frações.
+P: Reconstrução ou venda || Maioria das frações || Repartição proporcional
+K: extinção do condomínio; destruição
+
+@CC 1358
+I: Na desapropriação, a indenização é repartida proporcionalmente às unidades.
+P: Desapropriação || Repartição proporcional || Valor das unidades
+K: condomínio; desapropriação
+
+@CC 1358-A
+I: Pode haver condomínio de lotes, com lotes de propriedade exclusiva e partes comuns; a fração ideal pode ser proporcional à área ou ao potencial construtivo, e aplicam-se as regras do condomínio edilício.
+P: Condomínio de lotes || Fração ideal || Regras do edilício
+K: condomínio de lotes
+
+@CC 1358-B
+I: A multipropriedade rege-se por este capítulo e, supletivamente, pelas demais regras do Código e pelas leis de incorporação e do consumidor.
+P: Regência própria || Supletividade || Leis 4.591 e 8.078
+K: multipropriedade; time sharing
+
+@CC 1358-C
+I: Multipropriedade é o condomínio em que cada proprietário tem uma fração de tempo de uso e gozo exclusivo do imóvel inteiro, exercida em alternância; não se extingue se todas as frações forem de uma só pessoa.
+P: Fração de tempo || Uso exclusivo alternado || Subsistência mesmo concentrada
+K: multipropriedade; fração de tempo
+
+@CC 1358-D
+I: O imóvel em multipropriedade é indivisível e inclui instalações, equipamentos e mobiliário.
+P: Indivisibilidade || Sem ação de divisão || Inclui mobiliário
+K: multipropriedade; indivisibilidade
+
+@CC 1358-E
+I: Cada fração de tempo é indivisível e de no mínimo 7 dias, seguidos ou intercalados, fixa, flutuante ou mista; todos têm direito a igual quantidade mínima de dias.
+P: Mínimo de 7 dias || Fixa, flutuante ou mista || Igualdade mínima
+K: multipropriedade; período
+
+@CC 1358-F
+I: A multipropriedade é instituída por ato entre vivos ou testamento registrado, indicando a duração dos períodos.
+P: Instituição registrada || Duração dos períodos || Registro de Imóveis
+K: multipropriedade; instituição
+
+@CC 1358-G
+I: A convenção da multipropriedade define poderes e deveres, número máximo de pessoas, regras de acesso, fundo de reserva, regime de uso, sanções e despesas.
+P: Conteúdo da convenção || Regras de uso e acesso || Sanções e despesas
+K: multipropriedade; convenção
+
+@CC 1358-H
+I: O instrumento pode limitar o número de frações detidas por uma mesma pessoa.
+P: Limite de concentração || Instrumento de instituição || Convenção
+K: multipropriedade; limite
+
+@CC 1358-I
+I: O multiproprietário pode usar e gozar o imóvel no seu período, ceder em locação ou comodato, alienar a fração e participar das assembleias com voto proporcional.
+P: Uso no período || Cessão e alienação || Voto proporcional
+K: multipropriedade; direitos
+
+@CC 1358-J
+I: O multiproprietário deve pagar contribuições (mesmo sem usar), responder por danos, comunicar avarias, não alterar o mobiliário, usar conforme destinação e desocupar ao fim do período, sob pena de multa diária.
+P: Pagamento das despesas || Responsabilidade por danos || Desocupação pontual
+K: multipropriedade; deveres
+
+@CC 1358-K
+I: Equiparam-se a multiproprietários os promitentes compradores e cessionários de frações de tempo.
+P: Equiparação || Promitentes compradores || Cessionários
+K: multipropriedade; promitente comprador
+
+@CC 1358-L
+I: A transferência da fração segue a lei civil e não depende de anuência dos demais; o adquirente responde solidariamente pelas dívidas do alienante se não obtiver declaração de inexistência de débitos.
+P: Livre transferência || Sem preferência legal || Responsabilidade por débitos
+K: multipropriedade; transferência
+
+@CC 1358-M
+I: A administração cabe a quem o instrumento indicar ou a quem a assembleia escolher, com atribuições de coordenar o uso, manter os bens e cobrar as despesas.
+P: Administrador || Coordenação dos períodos || Manutenção
+K: multipropriedade; administração
+
+@CC 1358-N
+I: O instrumento pode prever fração de tempo para reparos indispensáveis, de titularidade do condomínio ou dos multiproprietários.
+P: Fração de manutenção || Reparos indispensáveis || Titularidade
+K: multipropriedade; manutenção
+
+@CC 1358-O
+I: O condomínio edilício pode adotar multipropriedade em parte ou em todas as unidades, por previsão no instrumento ou deliberação da maioria absoluta.
+P: Multipropriedade em edifício || Instituição ou deliberação || Maioria absoluta
+K: multipropriedade; condomínio edilício
+
+@CC 1358-P
+I: A convenção do edilício com multipropriedade deve identificar as unidades, indicar a duração das frações, regras de uso e contribuição, quórum e fundo de reserva, entre outros pontos.
+P: Conteúdo específico da convenção || Identificação das unidades || Regras de custeio
+K: multipropriedade; convenção
+
+@CC 1358-Q
+I: O regimento interno deve prever direitos sobre áreas comuns, rateio, horários de entrada e saída, serviços e regras de convivência.
+P: Regimento interno || Áreas comuns || Convivência
+K: multipropriedade; regimento interno
+
+@CC 1358-R
+I: O edilício com multipropriedade terá necessariamente administrador profissional, que é mandatário dos multiproprietários e pode ter suas atribuições definidas pela convenção.
+P: Administrador profissional obrigatório || Mandato legal || Atribuições
+K: multipropriedade; administrador profissional
+
+@CC 1358-S
+I: Inadimplido o custeio, cabe adjudicação ao condomínio da fração de tempo; o instrumento pode prever que a fração do inadimplente seja usada em pool de locação até a quitação.
+P: Adjudicação da fração || Pool de locação || Inadimplência
+K: multipropriedade; inadimplência
+
+@CC 1358-T
+I: O multiproprietário só pode renunciar translativamente em favor do condomínio, e desde que esteja em dia com as contribuições.
+P: Renúncia em favor do condomínio || Adimplência exigida || Vedação de abandono
+K: multipropriedade; renúncia
+
+@CC 1358-U
+I: Convenções, memoriais e instrumentos de venda de lotes podem limitar ou impedir a multipropriedade, alterável só por maioria absoluta.
+P: Vedação convencional || Loteamentos || Maioria absoluta para mudar
+K: multipropriedade; vedação
+
+@CC 1359
+I: Resolvida a propriedade pela condição ou termo, resolvem-se também os direitos reais concedidos na pendência, e o novo proprietário pode reivindicar a coisa de quem a detenha.
+P: Propriedade resolúvel || Efeito retroativo || Reivindicação
+K: propriedade resolúvel; condição; termo
+
+@CC 1360
+I: Se a propriedade se resolver por causa superveniente, o terceiro que adquiriu antes é proprietário perfeito, e o prejudicado só pode cobrar o valor de quem se beneficiou.
+P: Causa superveniente || Proteção do terceiro || Ação pelo valor
+K: propriedade resolúvel; causa superveniente
+
+@CC 1361
+I: Propriedade fiduciária é a propriedade resolúvel de móvel infungível transferida ao credor em garantia; constitui-se com o registro do contrato (no veículo, no órgão de trânsito), e o devedor fica como possuidor direto.
+P: Garantia por transferência da propriedade || Registro constitutivo || Desdobramento da posse
+K: propriedade fiduciária; alienação fiduciária; garantia
+
+@CC 1362
+I: O contrato de propriedade fiduciária contém total da dívida, prazo, juros e descrição da coisa.
+P: Requisitos do contrato || Valor, prazo e juros || Individualização do bem
+K: alienação fiduciária; requisitos
+
+@CC 1363
+I: Antes do vencimento, o devedor pode usar a coisa à sua custa e risco, como depositário, devendo guardá-la e entregá-la se não pagar.
+P: Uso pelo devedor || Dever de guarda || Entrega no inadimplemento
+K: alienação fiduciária; devedor fiduciante
+
+@CC 1364
+I: Vencida e não paga a dívida, o credor deve vender a coisa, judicial ou extrajudicialmente, pagar seu crédito e despesas e entregar o saldo ao devedor.
+P: Venda obrigatória || Aplicação do preço || Saldo ao devedor
+K: alienação fiduciária; venda; inadimplemento
+
+@CC 1365
+I: É nula a cláusula que permite ao credor ficar com a coisa se a dívida não for paga (pacto comissório); após o vencimento, o devedor pode dar seu direito em pagamento.
+P: Vedação do pacto comissório || Dação após o vencimento || Proteção do devedor
+K: pacto comissório; alienação fiduciária
+
+@CC 1366
+I: Se o produto da venda não bastar, o devedor continua obrigado pelo saldo.
+P: Saldo devedor || Responsabilidade pessoal || Insuficiência da garantia
+K: alienação fiduciária; saldo devedor
+
+@CC 1367
+I: A propriedade fiduciária de móveis ou imóveis segue as regras gerais das garantias reais e, no que for específico, a lei especial, não se equiparando à propriedade plena.
+P: Regras gerais das garantias || Lei especial || Não é propriedade plena
+K: propriedade fiduciária; regime jurídico
+
+@CC 1368
+I: O terceiro, interessado ou não, que pagar a dívida se sub-roga no crédito e na propriedade fiduciária.
+P: Sub-rogação || Terceiro interessado ou não || Garantia transferida
+K: alienação fiduciária; sub-rogação
+
+@CC 1368-A
+I: As demais espécies de propriedade fiduciária seguem suas leis especiais, aplicando-se o Código só no que não for incompatível.
+P: Leis especiais || Aplicação subsidiária || Lei nº 9.514/1997 e DL nº 911/1969
+K: propriedade fiduciária; leis especiais
+
+@CC 1368-B
+I: A alienação fiduciária em garantia confere ao fiduciante direito real de aquisição; o credor que se tornar proprietário pleno responde pelos tributos e despesas desde a imissão na posse.
+P: Direito real de aquisição || Responsabilidade do credor após consolidação || Tributos e condomínio
+K: alienação fiduciária; direito real de aquisição
+
+@CC 1368-C
+I: O fundo de investimento é condomínio de natureza especial para aplicação em ativos, sem as regras do condomínio comum, regulado pela CVM.
+P: Natureza condominial especial || Regulação da CVM || Afastamento do condomínio comum
+K: fundo de investimento; CVM
+
+@CC 1368-D
+I: O regulamento pode limitar a responsabilidade de cada investidor ao valor de suas cotas e dos prestadores de serviço, e criar classes de cotas com patrimônios segregados.
+P: Responsabilidade limitada do cotista || Classes de cotas || Patrimônio segregado
+K: fundo de investimento; responsabilidade limitada
+
+@CC 1368-E
+I: O fundo responde por suas obrigações, e os prestadores de serviço respondem por prejuízos causados por dolo ou má-fé; com responsabilidade limitada e patrimônio insuficiente, aplica-se a insolvência civil.
+P: Responsabilidade do fundo || Prestadores por dolo ou má-fé || Insolvência
+K: fundo de investimento; responsabilidade
+
+@CC 1368-F
+I: Fundos criados por lei específica e regulados pela CVM seguem, no que couber, este capítulo.
+P: Fundos legais || Aplicação no que couber || CVM
+K: fundo de investimento; lei específica
+
+@CC 1369
+I: O proprietário pode conceder a outro o direito de construir ou plantar em seu terreno por tempo determinado, por escritura pública registrada (direito de superfície); não autoriza obra no subsolo, salvo se inerente ao objeto.
+P: Direito de superfície || Escritura e registro || Tempo determinado
+K: direito de superfície
+
+@CC 1370
+I: A superfície pode ser gratuita ou onerosa, com pagamento único ou parcelado.
+P: Gratuita ou onerosa || Cânon superficiário || Forma de pagamento
+K: direito de superfície; remuneração
+
+@CC 1371
+I: O superficiário responde pelos encargos e tributos do imóvel.
+P: Encargos do superficiário || Tributos || IPTU
+K: direito de superfície; tributos
+
+@CC 1372
+I: A superfície pode ser transferida a terceiros e passa aos herdeiros; o concedente não pode cobrar pagamento pela transferência.
+P: Transmissibilidade || Herdeiros || Vedação de laudêmio
+K: direito de superfície; transferência
+
+@CC 1373
+I: Na alienação do imóvel ou da superfície, proprietário e superficiário têm preferência recíproca.
+P: Preferência recíproca || Igualdade de condições || Consolidação
+K: direito de superfície; preferência
+
+@CC 1374
+I: A concessão se resolve antes do prazo se o superficiário der ao terreno destinação diversa.
+P: Desvio de destinação || Resolução antecipada || Sanção
+K: direito de superfície; extinção
+
+@CC 1375
+I: Extinta a concessão, o proprietário recebe a propriedade plena do terreno e das construções ou plantações, sem indenização, salvo estipulação.
+P: Consolidação || Sem indenização || Estipulação em contrário
+K: direito de superfície; extinção
+
+@CC 1376
+I: Na desapropriação, a indenização é dividida entre proprietário e superficiário conforme o valor de cada direito.
+P: Desapropriação || Divisão da indenização || Valor de cada direito
+K: direito de superfície; desapropriação
+
+@CC 1377
+I: A superfície constituída por pessoa jurídica de direito público interno segue o Código, salvo lei especial.
+P: Superfície pública || Aplicação do Código || Lei especial
+K: direito de superfície; ente público
+
+@CC 1378
+I: A servidão dá utilidade ao prédio dominante e grava o serviente, de dono diverso, e constitui-se por declaração expressa ou testamento registrados.
+P: Prédios de donos diversos || Utilidade ao dominante || Registro
+K: servidão predial
+
+@CC 1379
+I: O exercício incontestado e contínuo de servidão aparente por 10 anos permite registrá-la (usucapião de servidão); sem título, o prazo é de 20 anos.
+P: Usucapião de servidão || 10 anos com título || 20 anos sem título
+K: servidão; usucapião
+
+@CC 1380
+I: O dono da servidão pode fazer as obras necessárias à conservação e uso; servindo a vários prédios, as despesas são rateadas.
+P: Obras de conservação || Rateio || Dono do dominante
+K: servidão; obras
+
+@CC 1381
+I: As obras são feitas pelo dono do prédio dominante, salvo disposição no título.
+P: Encargo do dominante || Título em contrário || Despesas
+K: servidão; obras
+
+@CC 1382
+I: Se a obrigação de fazer obras for do serviente, ele pode exonerar-se abandonando a propriedade ao dominante; se este recusar, custeia as obras.
+P: Abandono liberatório || Recusa do dominante || Custeio
+K: servidão; abandono
+
+@CC 1383
+I: O dono do prédio serviente não pode embaraçar o exercício legítimo da servidão.
+P: Dever de não embaraçar || Proteção possessória || Exercício legítimo
+K: servidão; prédio serviente
+
+@CC 1384
+I: A servidão pode ser removida para outro local pelo serviente, à sua custa, sem diminuir as vantagens do dominante, ou pelo dominante, se houver aumento de utilidade sem prejuízo ao serviente.
+P: Remoção da servidão || Sem prejuízo || Custeio de quem remove
+K: servidão; remoção
+
+@CC 1385
+I: O exercício da servidão restringe-se às necessidades do dominante, sem agravar o serviente; a de trânsito maior inclui a menor; se surgir necessidade maior, o serviente deve tolerá-la com indenização.
+P: Restrição às necessidades || Menor gravame || Ampliação com indenização
+K: servidão; extensão
+
+@CC 1386
+I: As servidões são indivisíveis e subsistem em favor de cada porção do dominante e sobre cada porção do serviente, salvo se só aproveitarem a uma parte.
+P: Indivisibilidade || Divisão dos prédios || Subsistência
+K: servidão; indivisibilidade
+
+@CC 1387
+I: Registrada, a servidão só se extingue perante terceiros com o cancelamento, salvo desapropriação; se o dominante estiver hipotecado, exige-se consentimento do credor.
+P: Cancelamento do registro || Desapropriação || Credor hipotecário
+K: servidão; extinção; registro
+
+@CC 1388
+I: O dono do serviente pode pedir o cancelamento judicial se houver renúncia, cessação da utilidade ou resgate da servidão.
+P: Cancelamento judicial || Renúncia, inutilidade ou resgate || Iniciativa do serviente
+K: servidão; cancelamento
+
+@CC 1389
+I: Também se extingue a servidão pela reunião dos prédios no mesmo dono, pela supressão das obras por contrato ou pelo não uso por 10 anos contínuos.
+P: Confusão || Supressão contratual || Não uso por 10 anos
+K: servidão; extinção; não uso
+
+@CC 1390
+I: O usufruto pode recair sobre bens móveis ou imóveis, um patrimônio inteiro ou parte, abrangendo frutos e utilidades.
+P: Objeto amplo || Frutos e utilidades || Direito real de fruição
+K: usufruto
+
+@CC 1391
+I: O usufruto de imóveis, salvo por usucapião, constitui-se com o registro.
+P: Registro constitutivo || Imóveis || Exceção da usucapião
+K: usufruto; registro
+
+@CC 1392
+I: O usufruto abrange acessórios e acrescidos; se houver coisas consumíveis, o usufrutuário restitui equivalentes (quase usufruto); usufruto de florestas e minas segue o que for ajustado.
+P: Acessórios e acrescidos || Quase usufruto || Florestas e minas
+K: usufruto; quase usufruto
+
+@CC 1393
+I: O usufruto não pode ser alienado, mas seu exercício pode ser cedido gratuita ou onerosamente.
+P: Inalienabilidade || Cessão do exercício || Personalíssimo
+K: usufruto; inalienabilidade
+
+@CC 1394
+I: O usufrutuário tem direito à posse, uso, administração e percepção dos frutos.
+P: Posse e uso || Administração || Frutos
+K: usufruto; direitos do usufrutuário
+
+@CC 1395
+I: No usufruto de títulos de crédito, o usufrutuário recebe os frutos e cobra as dívidas, aplicando o valor recebido em títulos semelhantes.
+P: Usufruto de créditos || Cobrança || Reaplicação
+K: usufruto; títulos de crédito
+
+@CC 1396
+I: O usufrutuário fica com os frutos naturais pendentes no início, sem pagar despesas; os pendentes ao fim são do proprietário, também sem reembolso.
+P: Frutos pendentes no início || Frutos pendentes no fim || Sem reembolso de despesas
+K: usufruto; frutos naturais
+
+@CC 1397
+I: As crias dos animais pertencem ao usufrutuário, deduzidas as necessárias para recompor o rebanho inicial.
+P: Crias || Recomposição do rebanho || Frutos naturais
+K: usufruto; animais
+
+@CC 1398
+I: Os frutos civis vencidos na data inicial são do proprietário; os vencidos na data final, do usufrutuário.
+P: Frutos civis || Data inicial e final || Critério do vencimento
+K: usufruto; frutos civis
+
+@CC 1399
+I: O usufrutuário pode usar o prédio pessoalmente ou arrendá-lo, mas não mudar a destinação econômica sem autorização do dono.
+P: Uso pessoal ou arrendamento || Destinação econômica || Autorização do dono
+K: usufruto; arrendamento
+
+@CC 1400
+I: Antes de assumir, o usufrutuário inventaria os bens e dá caução se exigida; o doador que reserva usufruto não precisa dar caução.
+P: Inventário || Caução || Dispensa do doador
+K: usufruto; caução
+
+@CC 1401
+I: Sem caução suficiente, o usufrutuário perde a administração, e o dono administra entregando o rendimento líquido.
+P: Perda da administração || Administração pelo dono || Rendimento líquido
+K: usufruto; caução
+
+@CC 1402
+I: O usufrutuário não paga as deteriorações do uso regular.
+P: Desgaste natural || Uso regular || Sem responsabilidade
+K: usufruto; deterioração
+
+@CC 1403
+I: Cabem ao usufrutuário as despesas ordinárias de conservação e os tributos sobre a posse ou rendimento da coisa.
+P: Despesas ordinárias || Tributos || Conservação
+K: usufruto; despesas; tributos
+
+@CC 1404
+I: As reparações extraordinárias e as não módicas cabem ao dono, mas o usufrutuário paga juros sobre o capital gasto nas necessárias; se o dono não as fizer, o usufrutuário pode fazê-las e cobrar.
+P: Reparações extraordinárias pelo dono || Juros pelo usufrutuário || Realização pelo usufrutuário
+K: usufruto; reparações
+
+@CC 1405
+I: No usufruto sobre patrimônio, o usufrutuário paga os juros das dívidas que o oneram.
+P: Usufruto de patrimônio || Juros das dívidas || Encargo do usufrutuário
+K: usufruto; dívidas
+
+@CC 1406
+I: O usufrutuário deve informar o dono de qualquer lesão à posse ou aos direitos dele.
+P: Dever de informar || Lesão à posse || Proteção do nu-proprietário
+K: usufruto; dever de informação
+
+@CC 1407
+I: Se a coisa estiver segurada, o usufrutuário paga o seguro; se a coisa se perder, o usufruto passa à indenização.
+P: Prêmio do seguro || Sub-rogação na indenização || Direito do dono
+K: usufruto; seguro
+
+@CC 1408
+I: Destruído o edifício sem culpa do dono, este não precisa reconstruí-lo, e o usufruto não se restabelece se ele reconstruir à sua custa; se houver seguro, o usufruto recai na indenização.
+P: Destruição do edifício || Sem dever de reconstruir || Seguro
+K: usufruto; destruição
+
+@CC 1409
+I: A indenização da desapropriação ou do dano ressarcido por terceiro fica sub-rogada no usufruto.
+P: Sub-rogação real || Desapropriação || Dano por terceiro
+K: usufruto; sub-rogação
+
+@CC 1410
+I: O usufruto se extingue pela renúncia ou morte do usufrutuário, termo, extinção da pessoa jurídica (máximo 30 anos), cessação da causa, destruição da coisa, consolidação, culpa do usufrutuário ou não uso.
+P: Causas de extinção || Morte do usufrutuário || Prazo de 30 anos para pessoa jurídica
+K: usufruto; extinção
+
+@CC 1411
+I: No usufruto conjunto, extingue-se a parte de cada usufrutuário que morrer, salvo estipulação de acrescer ao sobrevivente.
+P: Usufruto simultâneo || Extinção parcial || Direito de acrescer convencional
+K: usufruto; pluralidade; acrescer
+
+@CC 1412
+I: O usuário usa a coisa e percebe os frutos na medida das necessidades suas e da família, avaliadas pela condição social e lugar.
+P: Direito de uso || Necessidades pessoais e familiares || Família ampla
+K: direito real de uso
+
+@CC 1413
+I: Aplicam-se ao uso, no que couber, as regras do usufruto.
+P: Supletividade || Usufruto || Natureza do uso
+K: direito real de uso
+
+@CC 1414
+I: A habitação é o direito de habitar gratuitamente casa alheia, só com a família, sem alugar nem emprestar.
+P: Direito de habitação || Gratuidade || Vedação de cessão
+K: direito real de habitação
+
+@CC 1415
+I: Se a habitação for de várias pessoas, a que morar sozinha não paga aluguel às outras, mas não pode impedi-las de exercer o direito.
+P: Habitação conjunta || Sem aluguel || Direito dos demais
+K: direito de habitação; pluralidade
+
+@CC 1416
+I: Aplicam-se à habitação, no que couber, as regras do usufruto.
+P: Supletividade || Usufruto || Natureza da habitação
+K: direito de habitação
+
+@CC 1417
+I: A promessa de compra e venda sem arrependimento, por instrumento público ou particular, registrada, dá ao promitente comprador direito real à aquisição.
+P: Promessa irretratável registrada || Direito real de aquisição || Instrumento público ou particular
+K: promessa de compra e venda; direito do promitente comprador
+
+@CC 1418
+I: O promitente comprador titular de direito real pode exigir a escritura definitiva do vendedor ou de cessionários e, se recusada, pedir a adjudicação compulsória. O STJ admite a adjudicação mesmo sem registro da promessa (Súmula 239).
+P: Exigência da escritura || Adjudicação compulsória || Súmula 239 do STJ
+K: adjudicação compulsória; promessa de compra e venda; Súmula 239 STJ
+
+@CC 1419
+I: Nas dívidas garantidas por penhor, anticrese ou hipoteca, o bem fica sujeito por vínculo real ao cumprimento da obrigação.
+P: Vínculo real || Garantias reais || Sequela e preferência
+K: garantias reais; penhor; hipoteca; anticrese
+
+@CC 1420
+I: Só quem pode alienar pode dar bens em garantia real, e só bens alienáveis podem ser dados; a propriedade superveniente revalida a garantia; coisa comum exige consentimento de todos, salvo a parte ideal.
+P: Poder de disposição || Bens alienáveis || Coisa comum
+K: garantias reais; legitimação
+
+@CC 1421
+I: O pagamento parcial não libera proporcionalmente a garantia, salvo disposição no título ou na quitação (indivisibilidade).
+P: Indivisibilidade da garantia || Pagamento parcial || Disposição em contrário
+K: garantias reais; indivisibilidade
+
+@CC 1422
+I: Os credores hipotecário e pignoratício podem excutir a coisa e têm preferência, observada a prioridade do registro na hipoteca, ressalvados créditos que a lei privilegie.
+P: Excussão || Preferência || Prioridade registral
+K: hipoteca; penhor; preferência
+
+@CC 1423
+I: O credor anticrético pode reter o bem até ser pago, por no máximo 15 anos da constituição.
+P: Direito de retenção || Limite de 15 anos || Anticrese
+K: anticrese; retenção
+
+@CC 1424
+I: Os contratos de garantia real devem declarar, sob pena de ineficácia, o valor do crédito, o prazo, a taxa de juros e a especificação do bem.
+P: Especialização || Requisitos de eficácia || Valor, prazo e juros
+K: garantias reais; especialização
+
+@CC 1425
+I: A dívida vence antecipadamente se o bem se deteriorar sem reforço, se o devedor falir ou ficar insolvente, se as prestações não forem pagas, se o bem perecer sem substituição ou se for desapropriado.
+P: Vencimento antecipado || Desfalque da garantia || Insolvência
+K: garantias reais; vencimento antecipado
+
+@CC 1426
+I: No vencimento antecipado, não se cobram os juros do tempo ainda não decorrido.
+P: Exclusão de juros futuros || Vencimento antecipado || Equidade
+K: vencimento antecipado; juros
+
+@CC 1427
+I: Salvo cláusula expressa, o terceiro garantidor não precisa reforçar ou substituir a garantia que se perder sem culpa sua.
+P: Terceiro garantidor || Sem dever de reforço || Cláusula expressa
+K: garantia real; terceiro
+
+@CC 1428
+I: É nula a cláusula que permite ao credor ficar com o bem dado em garantia se a dívida não for paga (pacto comissório); após o vencimento, o devedor pode dar o bem em pagamento.
+P: Vedação do pacto comissório || Nulidade || Dação após o vencimento
+K: pacto comissório; garantias reais
+
+@CC 1429
+I: Os sucessores do devedor não podem remir parcialmente a garantia pelo seu quinhão, mas qualquer deles pode remi-la toda, sub-rogando-se.
+P: Remição integral || Vedação de remição parcial || Sub-rogação
+K: remição; herdeiros; garantia
+
+@CC 1430
+I: Se o produto da excussão não bastar, o devedor continua pessoalmente obrigado pelo restante.
+P: Saldo devedor || Obrigação pessoal || Insuficiência
+K: garantias reais; saldo
+
+@CC 1431
+I: O penhor constitui-se pela entrega da posse de coisa móvel ao credor; no penhor rural, industrial, mercantil e de veículos, a coisa fica com o devedor.
+P: Tradição da coisa || Penhores especiais sem tradição || Bem móvel
+K: penhor; constituição
+
+@CC 1432
+I: O instrumento do penhor deve ser registrado; o comum, no Cartório de Títulos e Documentos.
+P: Registro || Títulos e Documentos || Publicidade
+K: penhor; registro
+
+@CC 1433
+I: O credor pignoratício tem direito à posse e retenção da coisa, ao ressarcimento de prejuízos por vício dela, à excussão, a apropriar-se dos frutos e a promover a venda antecipada se houver risco de perda.
+P: Posse e retenção || Excussão || Venda antecipada
+K: penhor; direitos do credor
+
+@CC 1434
+I: O credor não é obrigado a devolver a coisa antes de pago integralmente, mas o juiz pode autorizar a venda de parte suficiente a pedido do dono.
+P: Retenção até a quitação || Venda parcial || Autorização judicial
+K: penhor; restituição
+
+@CC 1435
+I: O credor pignoratício deve guardar a coisa como depositário, defender a posse, imputar os frutos, restituí-la paga a dívida e entregar o excedente da venda.
+P: Deveres de depositário || Imputação dos frutos || Restituição e saldo
+K: penhor; deveres do credor
+
+@CC 1436
+I: O penhor se extingue pela extinção da obrigação, perecimento da coisa, renúncia do credor, confusão, adjudicação, remição ou venda.
+P: Causas de extinção || Renúncia e confusão || Averbação do cancelamento
+K: penhor; extinção
