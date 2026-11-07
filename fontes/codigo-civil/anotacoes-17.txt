@@ -1,0 +1,574 @@
+@CC 1550
+I: É anulável o casamento de quem não tinha idade mínima, do menor núbil sem autorização, por vício da vontade, do incapaz de consentir de modo inequívoco, por mandatário com procuração revogada sem ciência do outro e por autoridade incompetente. A pessoa com deficiência pode casar expressando sua vontade diretamente ou por curador.
+P: Hipóteses de anulabilidade || Vício da vontade e incapacidade || Pessoa com deficiência pode casar
+K: anulação do casamento; anulabilidade
+
+@CC 1551
+I: Não se anula por motivo de idade o casamento do qual resultou gravidez.
+P: Gravidez convalida || Idade || Proteção da família
+K: anulação do casamento; idade; gravidez
+
+@CC 1552
+I: A anulação do casamento de menor de 16 anos pode ser pedida pelo próprio cônjuge menor, seus representantes ou ascendentes.
+P: Legitimidade || Menor de 16 anos || Representantes e ascendentes
+K: anulação do casamento; menor
+
+@CC 1553
+I: O menor que casou antes da idade núbil pode confirmar o casamento ao atingi-la, com autorização ou suprimento judicial.
+P: Confirmação do casamento || Após a idade núbil || Autorização ou suprimento
+K: casamento; confirmação; menor
+
+@CC 1554
+I: Subsiste o casamento celebrado por quem exercia publicamente as funções de juiz de casamentos e registrou o ato, ainda que sem competência legal (teoria da aparência).
+P: Autoridade aparente || Registro do ato || Proteção da boa-fé
+K: casamento; autoridade incompetente; aparência
+
+@CC 1555
+I: O casamento de menor núbil sem autorização só pode ser anulado em 180 dias, por iniciativa do incapaz, de seus representantes ou herdeiros necessários; não se anula se os representantes assistiram à celebração ou aprovaram o casamento.
+P: Prazo de 180 dias || Legitimidade restrita || Aprovação dos representantes impede
+K: anulação do casamento; menor; prazo
+
+@CC 1556
+I: O casamento pode ser anulado por erro essencial quanto à pessoa do outro cônjuge.
+P: Erro essencial || Pessoa do outro cônjuge || Vício da vontade
+K: erro essencial; anulação do casamento
+
+@CC 1557
+I: Há erro essencial sobre identidade, honra e boa fama, crime anterior ao casamento que torne insuportável a vida em comum e defeito físico irremediável ou doença grave transmissível que caracterize deficiência ou ponha em risco o cônjuge ou a prole.
+P: Hipóteses de erro essencial || Insuportabilidade da vida em comum || Ignorância anterior ao casamento
+K: erro essencial; anulação do casamento
+
+@CC 1558
+I: É anulável o casamento quando o consentimento foi obtido por fundado temor de mal considerável e iminente à vida, saúde ou honra do nubente ou de seus familiares.
+P: Coação || Temor fundado || Mal iminente
+K: coação; anulação do casamento
+
+@CC 1559
+I: Só o cônjuge que sofreu o erro ou a coação pode pedir a anulação; a coabitação com ciência do vício valida o casamento, salvo em certos casos de erro.
+P: Legitimidade exclusiva || Coabitação convalida || Exceções
+K: anulação do casamento; legitimidade; coabitação
+
+@CC 1560
+I: Os prazos para anular contam da celebração: 180 dias (incapaz de consentir), 2 anos (autoridade incompetente), 3 anos (erro) e 4 anos (coação); para o menor de 16 anos, 180 dias após completar essa idade.
+P: Prazos decadenciais || Variam conforme o vício || Termo inicial na celebração
+K: anulação do casamento; decadência; prazos
+
+@CC 1561
+I: O casamento nulo ou anulável contraído de boa-fé por ambos produz efeitos até a sentença (casamento putativo); se só um estava de boa-fé, os efeitos civis só a ele e aos filhos aproveitam; os efeitos aos filhos subsistem sempre.
+P: Casamento putativo || Boa-fé de um ou de ambos || Filhos sempre protegidos
+K: casamento putativo; boa-fé
+
+@CC 1562
+I: Antes da ação de nulidade, anulação, divórcio ou dissolução de união estável, a parte pode pedir a separação de corpos, concedida pelo juiz com urgência.
+P: Separação de corpos || Medida de urgência || Preparatória
+K: separação de corpos; tutela de urgência
+
+@CC 1563
+I: A sentença de nulidade do casamento retroage à celebração, sem prejudicar terceiros de boa-fé que adquiriram direitos onerosamente nem a coisa julgada.
+P: Efeito retroativo || Proteção de terceiros de boa-fé || Coisa julgada
+K: nulidade do casamento; efeitos
+
+@CC 1564
+I: Anulado o casamento por culpa de um cônjuge, ele perde as vantagens recebidas do inocente e deve cumprir o prometido no pacto antenupcial.
+P: Sanções ao culpado || Perda de vantagens || Cumprimento do pacto
+K: anulação do casamento; culpa
+
+@CC 1565
+I: Pelo casamento, os cônjuges tornam-se consortes, companheiros e responsáveis pelos encargos da família; qualquer deles pode acrescer o sobrenome do outro, e o planejamento familiar é livre.
+P: Encargos da família || Acréscimo do sobrenome || Planejamento familiar livre
+K: casamento; sobrenome; planejamento familiar
+
+@CC 1566
+I: São deveres de ambos os cônjuges fidelidade, vida em comum no domicílio conjugal, mútua assistência, sustento, guarda e educação dos filhos e respeito e consideração mútuos.
+P: Deveres conjugais || Fidelidade e assistência || Criação dos filhos
+K: deveres conjugais; fidelidade; mútua assistência
+
+@CC 1567
+I: A direção da sociedade conjugal é exercida em colaboração pelos cônjuges, no interesse do casal e dos filhos; havendo divergência, qualquer um pode recorrer ao juiz.
+P: Direção conjunta || Interesse do casal e dos filhos || Divergência judicial
+K: sociedade conjugal; direção
+
+@CC 1568
+I: Os cônjuges concorrem para o sustento da família e a educação dos filhos na proporção de seus bens e rendimentos, em qualquer regime.
+P: Contribuição proporcional || Qualquer regime || Sustento da família
+K: cônjuges; sustento; proporcionalidade
+
+@CC 1569
+I: O domicílio do casal é escolhido por ambos, podendo qualquer um ausentar-se por encargos públicos, profissão ou interesses relevantes.
+P: Escolha conjunta || Ausências justificadas || Igualdade
+K: domicílio conjugal
+
+@CC 1570
+I: Se um cônjuge estiver em local remoto, preso por mais de 180 dias, interditado ou privado de consciência, o outro exerce sozinho a direção da família e administra os bens.
+P: Direção exclusiva || Impedimento do outro || Administração dos bens
+K: sociedade conjugal; impedimento
+
+@CC 1571
+I: A sociedade conjugal termina pela morte, nulidade ou anulação, separação judicial ou divórcio; o vínculo só se dissolve pela morte ou divórcio. O STF (Tema 1.053) decidiu que, após a EC nº 66/2010, a separação judicial não é requisito para o divórcio nem subsiste como figura autônoma.
+P: Fim da sociedade conjugal || Dissolução do vínculo || Separação judicial superada (Tema 1.053)
+K: dissolução do casamento; divórcio; separação judicial; Tema 1.053
+
+@CC 1572
+I: Prevê a separação judicial litigiosa por culpa, ruptura da vida em comum ou doença mental. Com a EC nº 66/2010 e o Tema 1.053 do STF, a separação judicial deixou de existir como figura autônoma e a discussão de culpa perdeu relevância para pôr fim ao casamento.
+P: Separação litigiosa (texto histórico) || EC nº 66/2010 || Divórcio direto sem discussão de culpa
+K: separação judicial; culpa; EC 66
+
+@CC 1573
+I: Lista motivos que caracterizariam a impossibilidade da vida em comum (adultério, tentativa de morte, sevícia, abandono, condenação, conduta desonrosa). O dispositivo perdeu aplicação prática com o divórcio direto e o Tema 1.053 do STF.
+P: Causas culposas da separação || Perda de relevância || Divórcio sem motivação
+K: separação judicial; adultério; culpa
+
+@CC 1574
+I: Previa a separação consensual após 1 ano de casamento, com homologação judicial. Com a EC nº 66/2010 e o Tema 1.053, os cônjuges podem divorciar-se diretamente, inclusive em cartório (CPC, art. 733).
+P: Separação consensual (texto histórico) || Divórcio direto || Via extrajudicial
+K: separação consensual; divórcio extrajudicial
+
+@CC 1575
+I: A sentença de separação importava separação de corpos e partilha de bens, que podia ser feita por proposta dos cônjuges homologada pelo juiz; as regras de partilha seguem aplicáveis ao divórcio.
+P: Separação de corpos e partilha || Proposta dos cônjuges || Aplicação ao divórcio
+K: separação judicial; partilha
+
+@CC 1576
+I: A separação judicial punha fim aos deveres de coabitação e fidelidade e ao regime de bens; o procedimento cabia só aos cônjuges.
+P: Fim de deveres e do regime || Legitimidade dos cônjuges || Texto histórico
+K: separação judicial; efeitos
+
+@CC 1577
+I: Permitia o restabelecimento da sociedade conjugal após a separação, sem prejuízo de terceiros.
+P: Restabelecimento || Proteção de terceiros || Texto histórico
+K: separação judicial; reconciliação
+
+@CC 1578
+I: O cônjuge culpado na separação perdia o direito ao sobrenome do outro, se requerido e sem grave prejuízo; hoje o uso do nome após o divórcio é, em regra, opção do próprio cônjuge.
+P: Perda do sobrenome || Exceções de prejuízo || Opção do cônjuge
+K: sobrenome; divórcio
+
+@CC 1579
+I: O divórcio não altera os direitos e deveres dos pais em relação aos filhos, e novo casamento não pode restringi-los.
+P: Parentalidade preservada || Novo casamento sem restrições || Melhor interesse dos filhos
+K: divórcio; filhos; poder familiar
+
+@CC 1580
+I: Previa a conversão da separação em divórcio após 1 ano e o divórcio direto após 2 anos de separação de fato. Desde a EC nº 66/2010, o divórcio não exige prazo nem separação prévia.
+P: Prazos superados || EC nº 66/2010 || Divórcio imediato
+K: divórcio; conversão; EC 66
+
+@CC 1581
+I: O divórcio pode ser concedido sem prévia partilha de bens (Súmula 197 do STJ).
+P: Divórcio sem partilha || Partilha posterior || Súmula 197 do STJ
+K: divórcio; partilha; Súmula 197 STJ
+
+@CC 1582
+I: Só os cônjuges podem pedir o divórcio; se incapaz, por curador, ascendente ou irmão.
+P: Direito personalíssimo || Representação do incapaz || Legitimidade
+K: divórcio; legitimidade
+
+@CC 1583
+I: A guarda é unilateral ou compartilhada; na compartilhada, há responsabilização conjunta e convivência equilibrada com ambos os pais, e a cidade-base é a que melhor atender aos filhos; o genitor sem guarda deve supervisionar os interesses dos filhos.
+P: Guarda unilateral e compartilhada || Convivência equilibrada || Supervisão pelo não guardião
+K: guarda compartilhada; guarda unilateral
+
+@CC 1584
+I: A guarda pode ser consensual ou decretada pelo juiz; sem acordo e estando ambos aptos, aplica-se a compartilhada, salvo se um não a quiser ou houver risco de violência doméstica ou familiar (Lei nº 14.713/2023).
+P: Compartilhada como regra || Exceções: recusa ou violência doméstica || Equipe interdisciplinar
+K: guarda compartilhada; violência doméstica; Lei 14.713/2023
+
+@CC 1585
+I: Em decisões liminares sobre guarda, o juiz deve ouvir ambas as partes antes, salvo se a proteção dos filhos exigir decisão imediata.
+P: Contraditório prévio || Exceção de urgência || Melhor interesse
+K: guarda; liminar; contraditório
+
+@CC 1586
+I: Havendo motivos graves, o juiz pode regular de forma diferente a situação dos filhos com os pais, em benefício deles.
+P: Flexibilidade judicial || Motivos graves || Melhor interesse da criança
+K: guarda; melhor interesse
+
+@CC 1587
+I: Na invalidade do casamento com filhos comuns, aplicam-se as regras de guarda.
+P: Remissão às regras de guarda || Invalidade do casamento || Proteção dos filhos
+K: guarda; invalidade do casamento
+
+@CC 1588
+I: O pai ou a mãe que se casa de novo não perde o direito de ter os filhos consigo, que só podem ser retirados por ordem judicial se maltratados.
+P: Novas núpcias não afetam a guarda || Retirada judicial || Maus-tratos
+K: guarda; novo casamento
+
+@CC 1589
+I: O genitor sem guarda pode visitar os filhos e tê-los em sua companhia conforme acordo ou decisão judicial, e fiscalizar sua manutenção e educação; o direito de visita estende-se aos avós.
+P: Direito de convivência || Fiscalização || Visita dos avós
+K: direito de visita; convivência; avós
+
+@CC 1590
+I: As regras de guarda e alimentos dos filhos menores estendem-se aos maiores incapazes.
+P: Extensão aos incapazes || Guarda e alimentos || Proteção
+K: guarda; alimentos; maior incapaz
+
+@CC 1591
+I: São parentes em linha reta os ascendentes e descendentes.
+P: Linha reta || Sem limite de grau || Ascendentes e descendentes
+K: parentesco; linha reta
+
+@CC 1592
+I: São parentes colaterais, até o quarto grau, as pessoas de um mesmo tronco que não descendem uma da outra.
+P: Linha colateral || Limite do quarto grau || Tronco comum
+K: parentesco colateral
+
+@CC 1593
+I: O parentesco é natural (consanguinidade) ou civil (outra origem, como adoção e socioafetividade). O STF (Tema 622) admite a multiparentalidade.
+P: Parentesco natural e civil || Socioafetividade || Multiparentalidade (Tema 622)
+K: parentesco civil; socioafetividade; multiparentalidade
+
+@CC 1594
+I: Na linha reta, contam-se os graus pelo número de gerações; na colateral, sobe-se até o ascendente comum e desce-se até o outro parente.
+P: Contagem dos graus || Gerações || Ascendente comum
+K: grau de parentesco
+
+@CC 1595
+I: Cada cônjuge ou companheiro é parente por afinidade dos parentes do outro, limitada aos ascendentes, descendentes e irmãos; na linha reta, a afinidade não se extingue com o fim do casamento.
+P: Afinidade || Limites || Perpetuidade na linha reta
+K: afinidade; parentesco
+
+@CC 1596
+I: Os filhos, havidos ou não do casamento ou por adoção, têm os mesmos direitos, proibida qualquer discriminação (CF, art. 227, § 6º).
+P: Igualdade da filiação || Vedação de discriminação || Base constitucional
+K: filiação; igualdade
+
+@CC 1597
+I: Presumem-se do casamento os filhos nascidos 180 dias após o início da convivência ou até 300 dias após sua dissolução, e os havidos por fecundação artificial homóloga (mesmo após a morte do marido), embriões excedentários e inseminação heteróloga autorizada pelo marido.
+P: Presunção pater is est || Reprodução assistida || Inseminação heteróloga autorizada
+K: presunção de paternidade; reprodução assistida
+
+@CC 1598
+I: Se a mulher casar de novo antes de 10 meses e tiver filho, presume-se do primeiro marido se nascer em até 300 dias da dissolução, e do segundo se nascer após esse prazo e após 180 dias do novo casamento.
+P: Conflito de presunções || Prazos de 300 e 180 dias || Prova em contrário
+K: presunção de paternidade; segundas núpcias
+
+@CC 1599
+I: A prova da impotência para gerar na época da concepção afasta a presunção de paternidade.
+P: Impotência generandi || Afasta a presunção || Prova
+K: presunção de paternidade; impotência
+
+@CC 1600
+I: O adultério da mulher, mesmo confessado, não basta para afastar a presunção de paternidade.
+P: Adultério insuficiente || Presunção mantida || Necessidade de prova
+K: presunção de paternidade; adultério
+
+@CC 1601
+I: O marido pode contestar a paternidade dos filhos de sua mulher a qualquer tempo (ação imprescritível); os herdeiros podem prosseguir a ação. O STJ não admite desfazer a paternidade socioafetiva consolidada por mera divergência biológica.
+P: Ação negatória imprescritível || Legitimidade do marido || Paternidade socioafetiva protegida
+K: ação negatória de paternidade; socioafetividade
+
+@CC 1602
+I: A confissão da mãe não basta para excluir a paternidade.
+P: Confissão materna insuficiente || Proteção do filho || Prova técnica
+K: paternidade; confissão materna
+
+@CC 1603
+I: A filiação prova-se pela certidão de nascimento do Registro Civil.
+P: Prova pela certidão || Registro Civil || Presunção de veracidade
+K: filiação; certidão de nascimento
+
+@CC 1604
+I: Ninguém pode reivindicar estado contrário ao do registro de nascimento, salvo prova de erro ou falsidade.
+P: Força do registro || Erro ou falsidade || Ação de estado
+K: filiação; registro; erro
+
+@CC 1605
+I: Na falta ou defeito do registro, a filiação pode ser provada por qualquer meio, havendo começo de prova escrita dos pais ou presunções resultantes de fatos certos (posse do estado de filho).
+P: Prova supletiva || Começo de prova escrita || Posse do estado de filho
+K: filiação; prova; posse do estado de filho
+
+@CC 1606
+I: A ação de prova de filiação cabe ao filho e passa aos herdeiros se ele morrer menor ou incapaz; iniciada pelo filho, os herdeiros podem continuá-la.
+P: Legitimidade do filho || Herdeiros || Continuação
+K: filiação; ação de estado
+
+@CC 1607
+I: O filho havido fora do casamento pode ser reconhecido pelos pais, juntos ou separadamente.
+P: Reconhecimento voluntário || Conjunto ou separado || Filho extramatrimonial
+K: reconhecimento de filho
+
+@CC 1608
+I: Se a maternidade constar do registro, a mãe só pode contestá-la provando falsidade do termo ou das declarações.
+P: Maternidade registrada || Prova de falsidade || Estabilidade
+K: maternidade; contestação
+
+@CC 1609
+I: O reconhecimento de filho fora do casamento é irrevogável e pode ser feito no registro, por escritura ou escrito particular, testamento ou declaração perante o juiz; pode preceder o nascimento ou ser posterior à morte se o filho deixar descendentes.
+P: Irrevogabilidade || Formas de reconhecimento || Antes do nascimento ou após a morte
+K: reconhecimento de filho; irrevogabilidade
+
+@CC 1610
+I: O reconhecimento não pode ser revogado, nem quando feito em testamento.
+P: Irrevogabilidade || Testamento revogado não afeta || Segurança
+K: reconhecimento de filho; testamento
+
+@CC 1611
+I: O filho de fora do casamento, reconhecido por um cônjuge, não pode residir no lar conjugal sem consentimento do outro. A doutrina relativiza a regra diante do melhor interesse da criança.
+P: Consentimento do outro cônjuge || Melhor interesse da criança || Relativização
+K: reconhecimento de filho; lar conjugal
+
+@CC 1612
+I: O filho reconhecido fica sob a guarda de quem o reconheceu; se ambos, sem acordo, sob a de quem melhor atender a seus interesses.
+P: Guarda do reconhecente || Melhor interesse || Desacordo
+K: reconhecimento de filho; guarda
+
+@CC 1613
+I: Condição e termo no reconhecimento de filho são ineficazes.
+P: Ato puro || Ineficácia de condição e termo || Estado da pessoa
+K: reconhecimento de filho; condição
+
+@CC 1614
+I: O filho maior só pode ser reconhecido com seu consentimento, e o menor pode impugnar o reconhecimento em até 4 anos após a maioridade ou emancipação. O STJ admite a investigação de paternidade a qualquer tempo.
+P: Consentimento do maior || Impugnação em 4 anos || Investigação imprescritível
+K: reconhecimento de filho; impugnação
+
+@CC 1615
+I: Qualquer pessoa com justo interesse pode contestar a ação de investigação de paternidade ou maternidade.
+P: Legitimidade passiva ampliada || Justo interesse || Herdeiros
+K: investigação de paternidade; contestação
+
+@CC 1616
+I: A sentença de procedência da investigação tem os efeitos do reconhecimento, podendo o juiz ordenar que o filho seja criado longe dos pais ou de quem contestou.
+P: Efeitos do reconhecimento || Medidas de proteção || Melhor interesse
+K: investigação de paternidade; sentença
+
+@CC 1617
+I: A filiação pode resultar de casamento nulo, mesmo sem putatividade.
+P: Filiação independente da validade do casamento || Proteção dos filhos || Casamento nulo
+K: filiação; casamento nulo
+
+@CC 1618
+I: A adoção de crianças e adolescentes segue o Estatuto da Criança e do Adolescente.
+P: Remissão ao ECA || Adoção de menores || Lei nº 8.069/1990
+K: adoção; ECA
+
+@CC 1619
+I: A adoção de maiores de 18 anos depende de assistência do poder público e sentença constitutiva, aplicando-se no que couber o ECA.
+P: Adoção de maiores || Sentença judicial || Regras do ECA
+K: adoção de maior; sentença
+
+@CC 1630
+I: Os filhos estão sujeitos ao poder familiar enquanto menores.
+P: Poder familiar || Menoridade || Dever-função dos pais
+K: poder familiar
+
+@CC 1631
+I: Durante o casamento e a união estável, o poder familiar cabe aos pais; na falta de um, o outro o exerce sozinho; em divergência, qualquer um recorre ao juiz.
+P: Exercício conjunto || Exclusividade na falta de um || Divergência judicial
+K: poder familiar; exercício conjunto
+
+@CC 1632
+I: A separação, o divórcio e o fim da união estável não alteram as relações entre pais e filhos, salvo quanto ao direito de tê-los em sua companhia.
+P: Manutenção do vínculo parental || Guarda e convivência || Dissolução da união
+K: poder familiar; divórcio
+
+@CC 1633
+I: O filho não reconhecido pelo pai fica sob poder familiar exclusivo da mãe; sem mãe conhecida ou capaz, recebe tutor.
+P: Poder familiar materno || Tutela supletiva || Filho não reconhecido
+K: poder familiar; tutela
+
+@CC 1634
+I: Compete a ambos os pais, qualquer que seja sua situação conjugal, dirigir a criação e educação dos filhos, exercer a guarda, autorizar casamento, viagens e mudança de residência para outro Município, nomear tutor, representá-los e assisti-los, reclamá-los de quem os detenha ilegalmente e exigir obediência e serviços próprios da idade.
+P: Atribuições do poder familiar || Independe da situação conjugal || Autorizações e representação
+K: poder familiar; atribuições
+
+@CC 1635
+I: O poder familiar extingue-se pela morte dos pais ou do filho, emancipação, maioridade, adoção ou decisão judicial de perda.
+P: Causas de extinção || Maioridade e emancipação || Perda judicial
+K: poder familiar; extinção
+
+@CC 1636
+I: O pai ou a mãe que se casa ou forma nova união estável não perde o poder familiar sobre os filhos anteriores, sem interferência do novo cônjuge ou companheiro.
+P: Manutenção do poder familiar || Nova união || Sem interferência
+K: poder familiar; nova união
+
+@CC 1637
+I: Se o pai ou a mãe abusar da autoridade, faltar aos deveres ou arruinar os bens dos filhos, o juiz pode adotar medidas, inclusive suspender o poder familiar; também o suspende a condenação a pena superior a 2 anos.
+P: Suspensão do poder familiar || Abuso de autoridade || Condenação criminal
+K: poder familiar; suspensão
+
+@CC 1638
+I: Perde o poder familiar quem castigar imoderadamente o filho, abandoná-lo, praticar atos contrários à moral, reiterar faltas, entregá-lo irregularmente para adoção ou cometer certos crimes graves contra o outro titular ou contra filho ou descendente.
+P: Perda do poder familiar || Abandono e castigo imoderado || Crimes graves (Lei nº 13.715/2018)
+K: poder familiar; destituição
+
+@CC 1639
+I: Os nubentes podem estipular o que quiserem sobre seus bens; o regime vigora desde o casamento e pode ser alterado por pedido motivado de ambos, com autorização judicial e ressalva de terceiros.
+P: Liberdade de escolha || Vigência desde o casamento || Alteração judicial motivada
+K: regime de bens; mutabilidade
+
+@CC 1640
+I: Sem pacto antenupcial válido, vigora a comunhão parcial; os nubentes podem optar por outro regime, por termo na habilitação (comunhão parcial) ou por pacto em escritura (demais).
+P: Regime legal supletivo: comunhão parcial || Pacto antenupcial || Opção na habilitação
+K: regime de bens; comunhão parcial; pacto antenupcial
+
+@CC 1641
+I: É obrigatória a separação de bens no casamento com causa suspensiva, de maior de 70 anos e de quem dependa de suprimento judicial. O STF (Tema 1.236) admite afastar a separação obrigatória do maior de 70 anos por escritura pública. Comunicam-se os bens adquiridos na constância pelo esforço comum (Súmula 377 do STF, com prova do esforço segundo o STJ).
+P: Separação obrigatória || Maior de 70 anos pode afastar (Tema 1.236) || Súmula 377 do STF
+K: separação obrigatória; maior de 70 anos; Súmula 377 STF; Tema 1.236
+
+@CC 1642
+I: Em qualquer regime, cada cônjuge pode praticar atos de sua profissão, administrar seus bens particulares, desobrigar ou reivindicar imóveis alienados sem seu consentimento, anular fianças e doações não autorizadas e reivindicar bens doados ao concubino.
+P: Atos livres de cada cônjuge || Defesa do patrimônio comum || Reivindicação de doações ao concubino
+K: regime de bens; atos livres
+
+@CC 1643
+I: Os cônjuges podem, sem autorização um do outro, comprar a crédito o necessário à economia doméstica e obter empréstimos para essas compras.
+P: Economia doméstica || Dispensa de autorização || Empréstimos para o lar
+K: economia doméstica; cônjuges
+
+@CC 1644
+I: As dívidas contraídas para a economia doméstica obrigam solidariamente ambos os cônjuges.
+P: Solidariedade legal || Dívidas domésticas || Proteção do credor
+K: solidariedade; economia doméstica
+
+@CC 1645
+I: As ações para desobrigar imóveis, anular fianças e doações e reivindicar bens doados ao concubino cabem ao cônjuge prejudicado e seus herdeiros.
+P: Legitimidade || Cônjuge prejudicado e herdeiros || Ações de proteção
+K: regime de bens; legitimidade
+
+@CC 1646
+I: O terceiro prejudicado pela anulação tem direito de regresso contra o cônjuge que realizou o negócio ou seus herdeiros.
+P: Regresso do terceiro || Cônjuge que contratou || Proteção do terceiro
+K: outorga conjugal; regresso
+
+@CC 1647
+I: Salvo no regime de separação absoluta, nenhum cônjuge pode, sem autorização do outro, alienar ou gravar imóveis, litigar sobre eles, prestar fiança ou aval, nem fazer doação não remuneratória de bens comuns. A fiança sem outorga é totalmente ineficaz (Súmula 332 do STJ).
+P: Outorga conjugal || Imóveis, fiança, aval e doação || Súmula 332 do STJ
+K: outorga conjugal; fiança; aval; Súmula 332 STJ
+
+@CC 1648
+I: O juiz pode suprir a outorga negada sem justo motivo ou impossível de obter.
+P: Suprimento judicial || Recusa injusta || Impossibilidade
+K: outorga conjugal; suprimento
+
+@CC 1649
+I: A falta de outorga não suprida torna o ato anulável, em até 2 anos após o fim da sociedade conjugal; a aprovação posterior valida o ato.
+P: Anulabilidade || Prazo de 2 anos || Convalidação
+K: outorga conjugal; anulabilidade
+
+@CC 1650
+I: A invalidade do ato sem outorga só pode ser pedida pelo cônjuge que deveria concedê-la ou por seus herdeiros.
+P: Legitimidade restrita || Cônjuge preterido || Herdeiros
+K: outorga conjugal; legitimidade
+
+@CC 1651
+I: Se um cônjuge não puder administrar seus bens, o outro gere os bens comuns e os do consorte, aliena os móveis comuns e, com autorização judicial, os imóveis comuns e os móveis ou imóveis do consorte.
+P: Administração pelo outro cônjuge || Autorização judicial para imóveis || Impedimento
+K: administração dos bens; cônjuge
+
+@CC 1652
+I: O cônjuge com a posse dos bens particulares do outro responde como usufrutuário, procurador ou depositário, conforme o caso.
+P: Responsabilidade pelos bens do outro || Usufrutuário, procurador ou depositário || Prestação de contas
+K: bens particulares; responsabilidade
+
+@CC 1653
+I: O pacto antenupcial é nulo se não for por escritura pública, e ineficaz se não houver casamento.
+P: Escritura pública obrigatória || Eficácia condicionada ao casamento || Nulidade
+K: pacto antenupcial; forma
+
+@CC 1654
+I: O pacto de menor depende de aprovação do representante, salvo no regime de separação obrigatória.
+P: Pacto de menor || Aprovação do representante || Exceção
+K: pacto antenupcial; menor
+
+@CC 1655
+I: É nula a cláusula do pacto que contrarie disposição absoluta de lei.
+P: Limites da autonomia || Normas cogentes || Nulidade parcial
+K: pacto antenupcial; nulidade
+
+@CC 1656
+I: No regime de participação final nos aquestos, pode-se pactuar a livre disposição dos imóveis particulares.
+P: Dispensa de outorga || Imóveis particulares || Participação final
+K: participação final nos aquestos; pacto
+
+@CC 1657
+I: O pacto antenupcial só vale perante terceiros após registro no Registro de Imóveis do domicílio dos cônjuges.
+P: Registro || Eficácia perante terceiros || Livro especial
+K: pacto antenupcial; registro
+
+@CC 1658
+I: Na comunhão parcial, comunicam-se os bens adquiridos durante o casamento, com as exceções legais.
+P: Comunicação dos aquestos || Bens onerosos na constância || Exceções
+K: comunhão parcial de bens
+
+@CC 1659
+I: Excluem-se da comunhão parcial os bens anteriores ao casamento e os recebidos por doação ou herança (e sub-rogados), os adquiridos com valores particulares, obrigações anteriores, de ato ilícito, bens de uso pessoal e de profissão, proventos do trabalho pessoal e pensões. O STJ entende que verbas trabalhistas e FGTS adquiridos na constância se comunicam.
+P: Bens excluídos || Herança e doação || Proventos (comunicação dos frutos na constância)
+K: comunhão parcial; bens excluídos
+
+@CC 1660
+I: Entram na comunhão os bens adquiridos onerosamente na constância, por fato eventual, por doação ou herança a ambos, benfeitorias em bens particulares e frutos dos bens comuns e particulares.
+P: Bens comunicáveis || Fato eventual || Frutos e benfeitorias
+K: comunhão parcial; bens comunicáveis
+
+@CC 1661
+I: São incomunicáveis os bens cuja aquisição tenha causa anterior ao casamento.
+P: Causa anterior || Incomunicabilidade || Ex.: bem prometido antes
+K: comunhão parcial; causa anterior
+
+@CC 1662
+I: Na comunhão parcial, presumem-se adquiridos na constância os móveis, salvo prova de aquisição anterior.
+P: Presunção de comunhão dos móveis || Prova em contrário || Ônus da prova
+K: comunhão parcial; presunção
+
+@CC 1663
+I: A administração do patrimônio comum cabe a qualquer dos cônjuges; dívidas da administração obrigam os bens comuns e os particulares do administrador; atos gratuitos com bens comuns exigem anuência de ambos.
+P: Administração por qualquer cônjuge || Responsabilidade pelas dívidas || Anuência para atos gratuitos
+K: comunhão parcial; administração
+
+@CC 1664
+I: Os bens comuns respondem pelas obrigações contraídas para os encargos da família, administração e imposições legais.
+P: Responsabilidade dos bens comuns || Encargos familiares || Despesas legais
+K: comunhão parcial; dívidas
+
+@CC 1665
+I: A administração e a disposição dos bens particulares cabem ao proprietário, salvo pacto.
+P: Bens particulares || Administração própria || Pacto em contrário
+K: comunhão parcial; bens particulares
+
+@CC 1666
+I: Dívidas contraídas na administração e em benefício dos bens particulares não obrigam os bens comuns.
+P: Dívidas particulares || Bens comuns protegidos || Benefício próprio
+K: comunhão parcial; dívidas particulares
+
+@CC 1667
+I: A comunhão universal comunica todos os bens presentes e futuros e as dívidas passivas, com as exceções legais.
+P: Comunicação ampla || Bens presentes e futuros || Dívidas
+K: comunhão universal de bens
+
+@CC 1668
+I: Excluem-se da comunhão universal os bens doados ou herdados com cláusula de incomunicabilidade, os gravados de fideicomisso, dívidas anteriores (salvo em proveito comum), doações antenupciais com incomunicabilidade e os bens do art. 1.659, V a VII.
+P: Bens excluídos || Cláusula de incomunicabilidade || Dívidas anteriores
+K: comunhão universal; exclusões
+
+@CC 1669
+I: A incomunicabilidade não se estende aos frutos percebidos durante o casamento.
+P: Frutos comunicáveis || Incomunicabilidade limitada || Constância do casamento
+K: comunhão universal; frutos
+
+@CC 1670
+I: Aplicam-se à comunhão universal as regras de administração da comunhão parcial.
+P: Remissão || Administração || Regime comum
+K: comunhão universal; administração
+
+@CC 1671
+I: Extinta a comunhão e divididos ativo e passivo, cessa a responsabilidade de cada cônjuge pelos credores do outro.
+P: Fim da responsabilidade || Partilha || Credores
+K: comunhão universal; extinção
+
+@CC 1672
+I: Na participação final nos aquestos, cada cônjuge tem patrimônio próprio e, na dissolução, direito à metade dos bens adquiridos onerosamente pelo casal durante o casamento.
+P: Patrimônios próprios na constância || Meação dos aquestos na dissolução || Regime misto
+K: participação final nos aquestos
+
+@CC 1673
+I: Integram o patrimônio próprio os bens anteriores e os adquiridos durante o casamento a qualquer título; a administração é exclusiva, podendo alienar livremente os móveis.
+P: Patrimônio próprio || Administração exclusiva || Móveis livres
+K: participação final nos aquestos; patrimônio próprio
+
+@CC 1674
+I: Na dissolução, apuram-se os aquestos excluindo bens anteriores e sub-rogados, os recebidos por sucessão ou liberalidade e as dívidas a eles relativas; presumem-se adquiridos durante o casamento os móveis.
+P: Apuração dos aquestos || Exclusões || Presunção quanto aos móveis
+K: participação final nos aquestos; apuração
