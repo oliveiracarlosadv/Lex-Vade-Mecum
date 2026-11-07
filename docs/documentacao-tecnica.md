@@ -174,6 +174,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 06/11/2026 | Ícone e manifesto para atalho na tela inicial (iPhone e Android) |
 | 06/11/2026 | Código Civil publicado; progresso de leitura (Parei aqui, percentual, Continuar leitura) salvo no navegador e no backup |
 | 06/11/2026 | Barra de seleção cabe na tela do celular (ícone sobre rótulo, largura total); botão Desmarcar; story pede o @ quando não há perfil e o destaca no rodapé |
+| 06/11/2026 | Código Tributário Nacional (CTN) publicado, com as alterações das LC nº 214/2025, 227/2026 e 236/2026 |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
