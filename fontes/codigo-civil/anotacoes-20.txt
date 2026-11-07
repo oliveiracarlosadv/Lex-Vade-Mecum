@@ -1,0 +1,584 @@
+@CC 1930
+I: Se a escolha da coisa genérica couber a terceiro, aplica-se o critério do meio-termo; se ele não quiser ou não puder, escolhe o juiz.
+P: Escolha por terceiro || Meio-termo || Suprimento judicial
+K: legado; escolha por terceiro
+
+@CC 1931
+I: Se a escolha couber ao legatário, ele pode pegar a melhor coisa do gênero na herança; se não houver, recebe outra congênere sem ser a melhor nem a pior.
+P: Escolha do legatário || Melhor coisa da herança || Coisa congênere
+K: legado; escolha do legatário
+
+@CC 1932
+I: No legado alternativo, presume-se que a escolha cabe ao herdeiro.
+P: Legado alternativo || Opção do herdeiro || Presunção
+K: legado alternativo
+
+@CC 1933
+I: Se quem tem a escolha morrer antes de exercê-la, o direito passa aos seus herdeiros.
+P: Transmissão do direito de escolha || Herdeiros || Continuidade
+K: legado; escolha
+
+@CC 1934
+I: No silêncio do testamento, os herdeiros cumprem os legados e, sem eles, os legatários, proporcionalmente; o encargo indicado pelo testador recai sobre quem ele designar.
+P: Responsáveis pelo cumprimento || Proporcionalidade || Designação do testador
+K: legado; cumprimento
+
+@CC 1935
+I: Se o legado for coisa de herdeiro ou legatário, só ele o cumpre, com regresso contra os coerdeiros pela quota de cada um, salvo disposição contrária.
+P: Sublegado || Regresso || Quota dos coerdeiros
+K: legado; sublegado
+
+@CC 1936
+I: Despesas e riscos da entrega do legado correm por conta do legatário, salvo disposição do testador.
+P: Encargos do legatário || Entrega || Disposição em contrário
+K: legado; despesas
+
+@CC 1937
+I: A coisa legada é entregue com acessórios, no lugar e estado em que estava na morte, com os encargos que a gravam.
+P: Acessórios || Lugar e estado na morte || Encargos
+K: legado; entrega
+
+@CC 1938
+I: Aos legados com encargo aplicam-se as regras das doações com encargo.
+P: Legado modal || Regras da doação modal || Revogação por inexecução
+K: legado com encargo
+
+@CC 1939
+I: O legado caduca se o testador modificar a coisa a ponto de mudar sua forma e nome, se a alienar, se ela perecer ou for evicta, se o legatário for excluído ou se morrer antes do testador.
+P: Causas de caducidade || Alienação ou modificação || Morte do legatário
+K: legado; caducidade
+
+@CC 1940
+I: No legado alternativo, perecendo algumas coisas, subsiste quanto às restantes; perecendo parte de uma, vale quanto ao restante.
+P: Subsistência parcial || Legado alternativo || Perecimento
+K: legado; perecimento
+
+@CC 1941
+I: Se vários herdeiros forem chamados conjuntamente em quinhões indeterminados e um não puder ou não quiser aceitar, sua parte acresce aos demais, salvo direito do substituto.
+P: Direito de acrescer entre herdeiros || Disposição conjunta || Quinhões indeterminados
+K: direito de acrescer; herdeiros
+
+@CC 1942
+I: Há acrescer entre colegatários nomeados conjuntamente sobre a mesma coisa certa, ou quando ela não possa ser dividida sem risco de desvalorização.
+P: Acrescer entre colegatários || Mesma coisa || Indivisibilidade
+K: direito de acrescer; legatários
+
+@CC 1943
+I: Se um coerdeiro ou colegatário morrer antes do testador, renunciar, for excluído ou faltar a condição, sua parte acresce aos demais, com os encargos.
+P: Hipóteses de acrescer || Morte, renúncia ou exclusão || Encargos transmitidos
+K: direito de acrescer; hipóteses
+
+@CC 1944
+I: Não havendo acrescer, a quota vaga vai aos herdeiros legítimos; entre colegatários, ao herdeiro ou legatário incumbido do legado.
+P: Quota vaga aos legítimos || Falta de conjunção || Onerado
+K: direito de acrescer; quota vaga
+
+@CC 1945
+I: O beneficiado não pode repudiar o acréscimo separadamente, salvo se tiver encargos especiais, caso em que volta a quem eles favorecem.
+P: Indivisibilidade do acréscimo || Encargos especiais || Repúdio excepcional
+K: direito de acrescer; repúdio
+
+@CC 1946
+I: Legado um usufruto conjuntamente a várias pessoas, a parte de quem faltar acresce aos colegatários; sem conjunção, consolida-se na propriedade.
+P: Usufruto conjunto || Acrescimento || Consolidação
+K: direito de acrescer; usufruto
+
+@CC 1947
+I: O testador pode indicar substituto para o caso de o herdeiro ou legatário não querer ou não poder aceitar (substituição vulgar), presumindo-se a abrangência de ambas as hipóteses.
+P: Substituição vulgar || Não querer ou não poder || Presunção de abrangência
+K: substituição vulgar
+
+@CC 1948
+I: O testador pode substituir muitas pessoas por uma, uma por muitas, com ou sem reciprocidade.
+P: Substituição plural || Reciprocidade || Liberdade
+K: substituição recíproca
+
+@CC 1949
+I: O substituto fica sujeito à condição ou encargo do substituído, salvo intenção diversa do testador.
+P: Encargos transmitidos || Vontade do testador || Natureza da condição
+K: substituição; encargos
+
+@CC 1950
+I: Na substituição recíproca entre herdeiros de partes desiguais, mantém-se a proporção original; se incluída outra pessoa, o quinhão vago divide-se em partes iguais.
+P: Proporção mantida || Inclusão de terceiro || Partes iguais
+K: substituição recíproca; proporção
+
+@CC 1951
+I: No fideicomisso, o testador deixa a herança ao fiduciário, cujo direito se resolve por morte, prazo ou condição em favor do fideicomissário.
+P: Substituição fideicomissária || Fiduciário e fideicomissário || Propriedade resolúvel
+K: fideicomisso; fiduciário; fideicomissário
+
+@CC 1952
+I: O fideicomisso só é permitido em favor de não concebidos na morte do testador; se o fideicomissário já tiver nascido, adquire a propriedade e o fiduciário fica com usufruto.
+P: Prole eventual || Conversão em usufruto || Limitação legal
+K: fideicomisso; prole eventual
+
+@CC 1953
+I: O fiduciário tem propriedade restrita e resolúvel e deve inventariar os bens e dar caução se exigida.
+P: Propriedade resolúvel || Inventário || Caução
+K: fideicomisso; fiduciário
+
+@CC 1954
+I: Se o fiduciário renunciar, o fideicomissário pode aceitar, salvo disposição em contrário.
+P: Renúncia do fiduciário || Aceitação pelo fideicomissário || Disposição contrária
+K: fideicomisso; renúncia
+
+@CC 1955
+I: O fideicomissário pode renunciar, e o fideicomisso caduca, consolidando-se a propriedade no fiduciário.
+P: Renúncia do fideicomissário || Caducidade || Consolidação
+K: fideicomisso; caducidade
+
+@CC 1956
+I: Se o fideicomissário aceitar, tem direito ao que acrescer ao fiduciário a qualquer tempo.
+P: Acréscimos || Fideicomissário || Aceitação
+K: fideicomisso; acrescer
+
+@CC 1957
+I: Ao sobrevir a sucessão, o fideicomissário responde pelos encargos da herança que restarem.
+P: Encargos remanescentes || Responsabilidade || Sucessão
+K: fideicomisso; encargos
+
+@CC 1958
+I: O fideicomisso caduca se o fideicomissário morrer antes do fiduciário ou da condição, consolidando-se a propriedade no fiduciário.
+P: Morte do fideicomissário || Caducidade || Consolidação no fiduciário
+K: fideicomisso; caducidade
+
+@CC 1959
+I: São nulos os fideicomissos além do segundo grau.
+P: Limite de grau || Nulidade || Vedação de vinculação perpétua
+K: fideicomisso; limite
+
+@CC 1960
+I: A nulidade da substituição ilegal não prejudica a instituição, que vale sem o encargo resolutório.
+P: Aproveitamento da instituição || Sem o encargo || Conservação
+K: fideicomisso; nulidade
+
+@CC 1961
+I: Os herdeiros necessários podem ser deserdados, perdendo a legítima, nos casos em que podem ser excluídos por indignidade.
+P: Deserdação || Mesmas causas da indignidade || Privação da legítima
+K: deserdação; herdeiros necessários
+
+@CC 1962
+I: Além da indignidade, autorizam a deserdação de descendentes ofensa física, injúria grave, relações ilícitas com madrasta ou padrasto e desamparo do ascendente em alienação mental ou grave enfermidade.
+P: Causas de deserdação de descendentes || Ofensa e injúria || Desamparo
+K: deserdação; descendentes
+
+@CC 1963
+I: Além da indignidade, autorizam a deserdação de ascendentes ofensa física, injúria grave, relações ilícitas com o cônjuge ou companheiro do filho ou neto e desamparo do descendente deficiente mental ou gravemente enfermo.
+P: Causas de deserdação de ascendentes || Ofensa e injúria || Desamparo
+K: deserdação; ascendentes
+
+@CC 1964
+I: A deserdação só pode ser feita em testamento, com declaração expressa da causa.
+P: Forma testamentária || Causa expressa || Requisito formal
+K: deserdação; testamento
+
+@CC 1965
+I: Cabe ao herdeiro instituído ou a quem aproveite a deserdação provar a causa, em 4 anos da abertura do testamento.
+P: Ônus da prova || Prazo de 4 anos || Beneficiado prova
+K: deserdação; prova; prazo
+
+@CC 1966
+I: Se o testador dispuser só de parte da porção disponível, o restante vai aos herdeiros legítimos.
+P: Disponível não esgotada || Remanescente aos legítimos || Sucessão legítima
+K: redução; parte disponível
+
+@CC 1967
+I: As disposições que excederem a parte disponível são reduzidas: primeiro as quotas dos herdeiros instituídos, depois os legados, proporcionalmente; o testador pode fixar ordem diversa.
+P: Redução das disposições || Ordem legal || Proteção da legítima
+K: redução das disposições testamentárias
+
+@CC 1968
+I: A redução de legado de prédio divisível faz-se dividindo-o; se indivisível e o excesso for maior que 1/4 do valor, o legatário deixa o prédio e recebe o restante em dinheiro; se menor, fica com o prédio pagando aos herdeiros.
+P: Divisão do prédio || Regra do quarto || Compensação em dinheiro
+K: redução; legado de imóvel
+
+@CC 1969
+I: O testamento pode ser revogado pelo mesmo modo e forma em que pode ser feito.
+P: Revogação por testamento || Qualquer forma testamentária || Revogabilidade
+K: revogação do testamento
+
+@CC 1970
+I: A revogação pode ser total ou parcial; sem cláusula revogatória expressa, o anterior subsiste no que não for contrário ao posterior.
+P: Revogação total ou parcial || Revogação tácita || Compatibilidade
+K: revogação do testamento
+
+@CC 1971
+I: A revogação vale ainda que o testamento revogatório caduque por exclusão, incapacidade ou renúncia do herdeiro, mas não vale se ele for anulado por omissão ou infração de solenidades ou vícios.
+P: Autonomia da revogação || Caducidade não afeta || Nulidade afeta
+K: revogação do testamento; caducidade
+
+@CC 1972
+I: O testamento cerrado aberto ou dilacerado pelo testador ou com seu consentimento considera-se revogado.
+P: Revogação tácita || Abertura ou dilaceração || Testamento cerrado
+K: revogação; testamento cerrado
+
+@CC 1973
+I: Sobrevindo descendente sucessível que o testador não tinha ou não conhecia ao testar, rompe-se o testamento, se o descendente sobreviver ao testador.
+P: Rompimento do testamento || Descendente superveniente || Sobrevivência
+K: rompimento do testamento
+
+@CC 1974
+I: Rompe-se também o testamento feito na ignorância da existência de outros herdeiros necessários.
+P: Ignorância de herdeiros necessários || Rompimento || Presunção de vontade
+K: rompimento do testamento
+
+@CC 1975
+I: Não se rompe o testamento se o testador dispuser só da metade disponível, sem contemplar ou excluindo herdeiros necessários que conhecia.
+P: Disposição da metade || Herdeiros conhecidos || Validade
+K: rompimento; exceção
+
+@CC 1976
+I: O testador pode nomear um ou mais testamenteiros, conjuntos ou separados, para cumprir suas disposições.
+P: Testamenteiro || Nomeação || Execução testamentária
+K: testamenteiro
+
+@CC 1977
+I: O testador pode dar ao testamenteiro a posse e administração da herança se não houver cônjuge nem herdeiros necessários; qualquer herdeiro pode pedir partilha imediata ou entregar valores ao testamenteiro.
+P: Testamenteiro universal || Ausência de herdeiros necessários || Partilha imediata
+K: testamenteiro; posse da herança
+
+@CC 1978
+I: Com posse e administração, o testamenteiro deve requerer o inventário e cumprir o testamento.
+P: Requerer inventário || Cumprir o testamento || Testamentaria universal
+K: testamenteiro; inventário
+
+@CC 1979
+I: O testamenteiro, interessado ou o juiz de ofício pode exigir que o detentor do testamento o leve a registro.
+P: Apresentação do testamento || Legitimidade ampla || De ofício
+K: testamento; registro
+
+@CC 1980
+I: O testamenteiro deve cumprir as disposições no prazo fixado e prestar contas, respondendo enquanto durar a execução.
+P: Cumprimento no prazo || Prestação de contas || Responsabilidade
+K: testamenteiro; deveres
+
+@CC 1981
+I: Cabe ao testamenteiro defender a validade do testamento, com ou sem o inventariante e herdeiros.
+P: Defesa do testamento || Legitimidade || Autonomia
+K: testamenteiro; validade do testamento
+
+@CC 1982
+I: O testamenteiro tem também as atribuições conferidas pelo testador, nos limites da lei.
+P: Atribuições adicionais || Limites legais || Vontade do testador
+K: testamenteiro; atribuições
+
+@CC 1983
+I: Sem prazo maior, o testamenteiro cumpre o testamento e presta contas em 180 dias da aceitação, prorrogáveis por motivo suficiente.
+P: Prazo de 180 dias || Prorrogação || Prestação de contas
+K: testamenteiro; prazo
+
+@CC 1984
+I: Sem testamenteiro nomeado, a execução cabe a um dos cônjuges e, na falta, a herdeiro nomeado pelo juiz.
+P: Testamenteiro dativo || Cônjuge ou herdeiro || Nomeação judicial
+K: testamenteiro; nomeação
+
+@CC 1985
+I: A testamentaria não se transmite aos herdeiros nem é delegável, mas o testamenteiro pode ter mandatário com poderes especiais.
+P: Encargo personalíssimo || Indelegável || Mandatário especial
+K: testamenteiro; indelegabilidade
+
+@CC 1986
+I: Havendo vários testamenteiros que aceitaram, qualquer um pode agir na falta dos outros, mas todos respondem solidariamente pelos bens, salvo funções distintas.
+P: Pluralidade || Atuação supletiva || Solidariedade
+K: testamenteiros; solidariedade
+
+@CC 1987
+I: Salvo disposição em contrário, o testamenteiro que não é herdeiro ou legatário tem direito a prêmio (vintena) de 1% a 5% da herança líquida, fixado pelo juiz, pago à custa da parte disponível.
+P: Vintena de 1% a 5% || Herança líquida || Parte disponível
+K: testamenteiro; vintena; prêmio
+
+@CC 1988
+I: O herdeiro ou legatário nomeado testamenteiro pode preferir o prêmio à herança ou legado.
+P: Opção pelo prêmio || Herdeiro ou legatário || Escolha
+K: testamenteiro; prêmio
+
+@CC 1989
+I: O prêmio perdido por remoção ou descumprimento reverte à herança.
+P: Perda do prêmio || Reversão à herança || Sanção
+K: testamenteiro; prêmio
+
+@CC 1990
+I: Se toda a herança foi distribuída em legados, o testamenteiro exerce as funções de inventariante.
+P: Testamenteiro inventariante || Herança em legados || Acumulação
+K: testamenteiro; inventariante
+
+@CC 1991
+I: Do compromisso à homologação da partilha, a herança é administrada pelo inventariante.
+P: Administração pelo inventariante || Do compromisso à partilha || Representação do espólio
+K: inventariante; inventário
+
+@CC 1992
+I: O herdeiro que sonegar bens da herança ou omiti-los na colação perde o direito que sobre eles teria (pena de sonegados).
+P: Sonegação || Perda do direito sobre os bens || Ocultação dolosa
+K: sonegados; pena
+
+@CC 1993
+I: Se o sonegador for o inventariante, além da pena, é removido, provada a sonegação ou se negar a existência dos bens indicados.
+P: Remoção do inventariante || Sonegação provada || Negativa de bens
+K: sonegados; inventariante
+
+@CC 1994
+I: A pena de sonegados só se impõe em ação dos herdeiros ou credores da herança, e a sentença aproveita a todos os interessados.
+P: Ação de sonegados || Legitimidade || Efeitos para todos
+K: sonegados; ação
+
+@CC 1995
+I: Se os bens sonegados não puderem ser restituídos, o sonegador paga seu valor mais perdas e danos.
+P: Pagamento do valor || Perdas e danos || Impossibilidade de restituir
+K: sonegados; indenização
+
+@CC 1996
+I: O inventariante só pode ser acusado de sonegação após declarar encerrada a descrição de bens; o herdeiro, após declarar no inventário que não os possui.
+P: Momento da arguição || Declaração final || Herdeiro e inventariante
+K: sonegados; momento
+
+@CC 1997
+I: A herança responde pelas dívidas do falecido; após a partilha, cada herdeiro responde na proporção de seu quinhão. Credores podem pedir reserva de bens no inventário.
+P: Responsabilidade da herança || Proporção do quinhão após partilha || Reserva de bens
+K: dívidas do falecido; herança; partilha
+
+@CC 1998
+I: As despesas funerárias saem do monte; as de sufrágios só se ordenadas em testamento ou codicilo.
+P: Despesas funerárias || Monte da herança || Sufrágios
+K: despesas funerárias; herança
+
+@CC 1999
+I: Havendo regresso entre herdeiros, a parte do insolvente divide-se proporcionalmente entre os demais.
+P: Rateio do insolvente || Regresso entre herdeiros || Proporcionalidade
+K: dívidas; herdeiros; insolvência
+
+@CC 2000
+I: Legatários e credores da herança podem exigir a separação entre o patrimônio do falecido e o do herdeiro, com preferência sobre os credores deste.
+P: Separação de patrimônios || Preferência || Credores da herança
+K: separação de patrimônios; credores
+
+@CC 2001
+I: A dívida do herdeiro com o espólio é partilhada entre todos, salvo se a maioria consentir que seja imputada só no quinhão do devedor.
+P: Dívida do herdeiro || Partilha igualitária || Imputação no quinhão
+K: herdeiro devedor; espólio
+
+@CC 2002
+I: Os descendentes que concorrem à sucessão do ascendente devem conferir as doações recebidas em vida para igualar as legítimas (colação), sob pena de sonegados; o valor é somado à legítima, sem aumentar a disponível.
+P: Dever de colação || Igualdade das legítimas || Pena de sonegados
+K: colação; doação; legítima
+
+@CC 2003
+I: A colação iguala as legítimas dos descendentes e do cônjuge; se os bens já não existirem, confere-se seu valor.
+P: Finalidade da colação || Descendentes e cônjuge || Conferência pelo valor
+K: colação; finalidade
+
+@CC 2004
+I: O valor da colação é o atribuído no ato de doação; sem valor, estima-se pelo da época da liberalidade. O CPC (art. 639, parágrafo único) manda considerar o valor na abertura da sucessão, e a conciliação entre as duas regras é debatida na doutrina e na jurisprudência.
+P: Valor do ato de liberalidade || Benfeitorias do donatário excluídas || Divergência com o CPC
+K: colação; valor
+
+@CC 2005
+I: São dispensadas da colação as doações que o doador mandar sair da parte disponível, sem excedê-la; presume-se assim a doação a descendente que não seria herdeiro necessário na época.
+P: Dispensa de colação || Parte disponível || Presunção
+K: colação; dispensa
+
+@CC 2006
+I: A dispensa da colação pode ser feita no testamento ou no próprio título da doação.
+P: Forma da dispensa || Testamento ou título || Expressa
+K: colação; dispensa
+
+@CC 2007
+I: São reduzidas as doações que excederem o que o doador podia dispor no momento da liberalidade (inoficiosas); o excesso é restituído em espécie ou valor.
+P: Doação inoficiosa || Redução || Momento da liberalidade
+K: doação inoficiosa; redução
+
+@CC 2008
+I: Quem renunciou ou foi excluído da herança deve conferir as doações recebidas para repor o que exceder a disponível.
+P: Renunciante confere || Excluído confere || Proteção da legítima
+K: colação; renúncia; exclusão
+
+@CC 2009
+I: Os netos que herdam representando os pais devem colacionar o que os pais teriam de conferir.
+P: Colação por representação || Netos || Equivalência
+K: colação; representação
+
+@CC 2010
+I: Não se colacionam os gastos ordinários com o descendente menor (educação, sustento, saúde), nem despesas de casamento e de defesa em processo-crime.
+P: Gastos ordinários excluídos || Educação e sustento || Casamento e defesa
+K: colação; exclusões
+
+@CC 2011
+I: As doações remuneratórias de serviços ao ascendente não se sujeitam a colação.
+P: Doação remuneratória || Dispensa de colação || Contraprestação
+K: colação; doação remuneratória
+
+@CC 2012
+I: Doação feita por ambos os cônjuges é conferida pela metade no inventário de cada um.
+P: Doação conjunta || Metade em cada inventário || Colação
+K: colação; doação conjunta
+
+@CC 2013
+I: O herdeiro pode sempre pedir a partilha, ainda que o testador a proíba; também cessionários e credores.
+P: Direito à partilha || Ineficácia da proibição || Cessionários e credores
+K: partilha; direito à partilha
+
+@CC 2014
+I: O testador pode indicar os bens de cada quinhão, fazendo a partilha, que prevalece salvo se não corresponder às quotas.
+P: Partilha pelo testador || Indicação de bens || Correspondência às quotas
+K: partilha; testador
+
+@CC 2015
+I: Herdeiros capazes podem fazer partilha amigável por escritura pública, termo nos autos ou escrito particular homologado.
+P: Partilha amigável || Herdeiros capazes || Escritura ou homologação
+K: partilha amigável
+
+@CC 2016
+I: A partilha é judicial se os herdeiros divergirem ou houver incapaz.
+P: Partilha judicial obrigatória || Divergência || Incapaz
+K: partilha judicial
+
+@CC 2017
+I: Na partilha, observa-se a maior igualdade possível quanto a valor, natureza e qualidade dos bens.
+P: Igualdade na partilha || Valor, natureza e qualidade || Equidade
+K: partilha; igualdade
+
+@CC 2018
+I: É válida a partilha feita pelo ascendente em vida ou por testamento, desde que não prejudique a legítima.
+P: Partilha em vida || Respeito à legítima || Planejamento sucessório
+K: partilha em vida; planejamento sucessório
+
+@CC 2019
+I: Bens indivisíveis que não caibam na meação ou quinhão de um só são vendidos judicialmente, salvo adjudicação a quem repuser a diferença em dinheiro, com licitação se mais de um quiser.
+P: Venda de indivisíveis || Adjudicação com reposição || Licitação
+K: partilha; bens indivisíveis
+
+@CC 2020
+I: Herdeiros na posse, cônjuge e inventariante devem trazer ao acervo os frutos percebidos desde a abertura, com direito ao reembolso de despesas e respondendo pelos danos culposos.
+P: Restituição dos frutos || Reembolso de despesas || Responsabilidade por danos
+K: partilha; frutos
+
+@CC 2021
+I: Se parte da herança for distante, litigiosa ou de liquidação difícil, partilham-se os outros bens, reservando aqueles para sobrepartilha.
+P: Partilha parcial || Reserva para sobrepartilha || Bens litigiosos
+K: partilha; sobrepartilha
+
+@CC 2022
+I: Ficam sujeitos a sobrepartilha os bens sonegados e os descobertos depois da partilha.
+P: Sobrepartilha || Bens sonegados || Bens descobertos
+K: sobrepartilha
+
+@CC 2023
+I: Julgada a partilha, o direito de cada herdeiro restringe-se aos bens de seu quinhão.
+P: Fim da indivisão || Quinhão individual || Efeito da partilha
+K: partilha; efeitos
+
+@CC 2024
+I: Os coerdeiros devem indenizar-se reciprocamente em caso de evicção dos bens partilhados.
+P: Garantia recíproca || Evicção || Igualdade da partilha
+K: partilha; evicção
+
+@CC 2025
+I: Cessa a garantia se houver convenção em contrário ou se a evicção decorrer de culpa do evicto ou de fato posterior à partilha.
+P: Exclusão da garantia || Culpa do evicto || Fato posterior
+K: partilha; evicção; exclusão
+
+@CC 2026
+I: O evicto é indenizado pelos coerdeiros na proporção das quotas; a parte do insolvente é rateada entre os demais, inclusive o evicto.
+P: Indenização proporcional || Insolvente || Rateio
+K: partilha; evicção; indenização
+
+@CC 2027
+I: A partilha é anulável pelos vícios dos negócios jurídicos, e o direito de anular extingue-se em 1 ano. A partilha judicial julgada por sentença é rescindível pela via processual própria.
+P: Anulação por vícios || Prazo de 1 ano || Partilha amigável × judicial
+K: partilha; anulação; prazo
+
+@CC 2028
+I: Os prazos reduzidos pelo Código seguem a lei anterior se, na sua entrada em vigor, já tiver passado mais da metade do prazo antigo.
+P: Direito intertemporal || Metade do prazo || Prescrição
+K: direito intertemporal; prazos
+
+@CC 2029
+I: Por 2 anos após a vigência do Código, os prazos reduzidos da usucapião com moradia ou obras foram acrescidos de 2 anos; regra transitória já exaurida.
+P: Acréscimo transitório || Usucapião || Regra exaurida
+K: direito intertemporal; usucapião
+
+@CC 2030
+I: O acréscimo do artigo anterior aplicou-se também à desapropriação judicial privada (art. 1.228, § 4º); regra exaurida.
+P: Desapropriação judicial privada || Acréscimo || Regra exaurida
+K: direito intertemporal
+
+@CC 2031
+I: Associações, sociedades, fundações e empresários constituídos antes deviam adaptar-se ao Código até 11/1/2007; organizações religiosas e partidos ficam dispensados.
+P: Prazo de adaptação || Pessoas jurídicas anteriores || Exceções
+K: direito intertemporal; pessoas jurídicas
+
+@CC 2032
+I: Fundações anteriores, inclusive com fins diversos dos atuais, subordinam-se ao Código quanto ao funcionamento.
+P: Fundações antigas || Funcionamento pelo Código || Fins preservados
+K: direito intertemporal; fundações
+
+@CC 2033
+I: Salvo lei especial, modificações, transformação, incorporação, cisão ou fusão de pessoas jurídicas anteriores seguem o Código.
+P: Atos posteriores pelo Código || Pessoas jurídicas anteriores || Lei especial
+K: direito intertemporal; pessoas jurídicas
+
+@CC 2034
+I: Dissolução e liquidação iniciadas antes do Código seguem a lei anterior.
+P: Procedimentos iniciados || Lei anterior || Ultratividade
+K: direito intertemporal; liquidação
+
+@CC 2035
+I: A validade dos negócios anteriores segue a lei antiga, mas seus efeitos posteriores seguem o Código; nenhuma convenção prevalece contra preceitos de ordem pública, como a função social da propriedade e dos contratos.
+P: Validade pela lei antiga || Efeitos pela lei nova || Ordem pública e função social
+K: direito intertemporal; função social
+
+@CC 2036
+I: A locação de prédio urbano sujeita a lei especial continua regida por ela (Lei nº 8.245/1991).
+P: Lei do Inquilinato || Especialidade || Locação urbana
+K: locação urbana; Lei 8.245
+
+@CC 2037
+I: Salvo disposição em contrário, aplicam-se aos empresários e sociedades empresárias as leis não revogadas sobre comerciantes e sociedades comerciais.
+P: Remissões ao direito comercial || Empresário || Leis não revogadas
+K: direito empresarial; legislação comercial
+
+@CC 2038
+I: É proibida a constituição de enfiteuses e subenfiteuses; as existentes seguem o Código de 1916, vedada a cobrança de laudêmio sobre construções e plantações e a subenfiteuse; a de terrenos de marinha segue lei especial.
+P: Vedação de novas enfiteuses || Regime das existentes || Terrenos de marinha
+K: enfiteuse; laudêmio; terreno de marinha
+
+@CC 2039
+I: O regime de bens dos casamentos celebrados sob o Código de 1916 é o por ele estabelecido; o STJ admite sua alteração conforme o art. 1.639, § 2º.
+P: Regime anterior preservado || Casamentos sob o CC/1916 || Alteração admitida
+K: direito intertemporal; regime de bens
+
+@CC 2040
+I: A hipoteca legal dos bens de tutor ou curador inscrita sob o Código anterior pode ser cancelada, observado o art. 1.745.
+P: Cancelamento da hipoteca legal || Tutor ou curador || Regra transitória
+K: direito intertemporal; hipoteca legal
+
+@CC 2041
+I: As regras da ordem de vocação hereditária não se aplicam à sucessão aberta antes do Código, que segue a lei anterior.
+P: Lei do óbito || Sucessões antigas || Direito intertemporal
+K: direito intertemporal; sucessão
+
+@CC 2042
+I: A exigência de justa causa para cláusulas restritivas aplicou-se às sucessões abertas no primeiro ano de vigência, com prazo para o testador aditar o testamento; regra exaurida.
+P: Justa causa nas cláusulas || Prazo de adaptação || Regra exaurida
+K: direito intertemporal; cláusulas restritivas
+
+@CC 2043
+I: Continuam em vigor as disposições processuais, administrativas ou penais de leis cujas normas civis foram incorporadas ao Código.
+P: Preservação de normas não civis || Leis incorporadas || Continuidade
+K: direito intertemporal; vigência
+
+@CC 2044
+I: O Código entrou em vigor 1 ano após sua publicação (11 de janeiro de 2003).
+P: Vacatio legis de 1 ano || Vigência em 2003 || Marco temporal
+K: vigência; Código Civil
+
+@CC 2045
+I: Revogaram-se o Código Civil de 1916 e a Parte Primeira do Código Comercial de 1850.
+P: Revogação do CC/1916 || Parte Primeira do Código Comercial || Unificação do direito privado
+K: revogação; Código Civil de 1916; Código Comercial
+
+@CC 2046
+I: As remissões legais aos códigos revogados consideram-se feitas às disposições correspondentes deste Código.
+P: Remissões atualizadas || Correspondência || Continuidade normativa
+K: remissões; Código Civil
