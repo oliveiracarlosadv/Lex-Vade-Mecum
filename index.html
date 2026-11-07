@@ -517,6 +517,8 @@ function classeLinha(x) {
   if (/^(Art\.?|Nós, representantes)/.test(t)) return 'caput';
   if (/^(§|Parágrafo único)/.test(t)) return 'paragrafo';
   if (/^[IVXLC]+(-[A-Z])?\s*[-–—]/.test(t)) return 'inciso';
+  if (/^\d+(\.\d+)+\s/.test(t)) return 'caput';                 // subitens das NR (1.4.1, 1.5.3.2.1)
+  if (/^[IVX]+\.\s/.test(t)) return 'inciso';                    // incisos das NR (I., II.)
   if (/^[a-z]\)/.test(t)) return 'alinea';
   if (/^\d+\\?[.)]\s/.test(t) || /^\d+[ªº]\)/.test(t)) return 'item';
   if (/^\(/.test(t) || /^(Vide|Vigência)/.test(t)) return 'nota';
@@ -1531,7 +1533,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && atual !== 'sobre' ? [atual] : leis.map((l) => l.id);

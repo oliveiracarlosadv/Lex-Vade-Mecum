@@ -1,0 +1,12 @@
+{
+ "nome": "NR-01 — Disposições Gerais e Gerenciamento de Riscos Ocupacionais",
+ "url": "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/nr-01-atualizada-2025-i-3.pdf",
+ "tipo": "pdf-nr",
+ "saida": "leis/nr-01/nr-01-completa.md",
+ "sigla": "NR-01",
+ "parte": "NR",
+ "inicio_apos": "SUMÁRIO",
+ "inicio": "1.1 Objetivo",
+ "descartar": ["vigente até 25 de maio de 2025\\)$"],
+ "minimo": 80
+}
