@@ -1,0 +1,549 @@
+@CC 1240-A
+I: Quem exercer por 2 anos, sem oposição e com exclusividade, posse direta sobre imóvel urbano de até 250 m² que dividia com ex-cônjuge ou ex-companheiro que abandonou o lar, usando-o como moradia e sem outro imóvel, adquire a propriedade integral (usucapião familiar), uma única vez.
+P: Usucapião familiar || Abandono do lar pelo ex-cônjuge || Prazo de 2 anos
+K: usucapião familiar; abandono do lar
+
+@CC 1241
+I: O possuidor pode requerer ao juiz a declaração da usucapião, e a sentença é título para o registro. A usucapião também pode ser reconhecida extrajudicialmente no cartório (Lei nº 6.015/1973, art. 216-A).
+P: Ação de usucapião || Sentença declaratória como título || Via extrajudicial
+K: usucapião; ação declaratória; usucapião extrajudicial
+
+@CC 1242
+I: Quem possuir imóvel por 10 anos, de forma contínua, pacífica, com justo título e boa-fé, adquire a propriedade (usucapião ordinária); o prazo é de 5 anos se o imóvel foi adquirido onerosamente com registro depois cancelado e o possuidor nele morar ou investir.
+P: Usucapião ordinária || Justo título e boa-fé || 5 anos na hipótese tabular
+K: usucapião ordinária; justo título; boa-fé
+
+@CC 1243
+I: O possuidor pode somar à sua a posse dos antecessores, se contínuas e pacíficas e, na ordinária, com justo título e boa-fé.
+P: Soma de posses || Continuidade e paz || Requisitos na ordinária
+K: usucapião; acessão de posses
+
+@CC 1244
+I: Aplicam-se à usucapião as causas que impedem, suspendem ou interrompem a prescrição.
+P: Prescrição aquisitiva || Causas impeditivas e suspensivas || Interrupção
+K: usucapião; prescrição aquisitiva
+
+@CC 1245
+I: A propriedade se transfere entre vivos com o registro do título no Registro de Imóveis; até lá, o alienante continua dono, e, enquanto não cancelado, o registro vale.
+P: Registro constitutivo || Alienante continua dono antes do registro || Presunção registral
+K: registro de imóveis; transferência da propriedade
+
+@CC 1246
+I: O registro é eficaz desde a apresentação do título e sua prenotação no protocolo (prioridade).
+P: Prenotação || Prioridade registral || Eficácia retroativa
+K: registro; prenotação; prioridade
+
+@CC 1247
+I: Se o registro não exprimir a verdade, o interessado pode pedir retificação ou anulação; cancelado o registro, o proprietário pode reivindicar o imóvel, mesmo de terceiro de boa-fé.
+P: Retificação ou anulação || Reivindicação após cancelamento || Presunção relativa do registro
+K: registro; retificação; anulação
+
+@CC 1248
+I: A acessão ocorre por formação de ilhas, aluvião, avulsão, abandono de álveo e plantações ou construções.
+P: Modos de acessão || Naturais e artificiais || Aquisição originária
+K: acessão; aluvião; avulsão
+
+@CC 1249
+I: As ilhas formadas em correntes comuns ou particulares pertencem aos ribeirinhos fronteiros, conforme a posição no rio.
+P: Ilhas aos ribeirinhos || Critério da linha média || Correntes não públicas
+K: acessão; ilhas
+
+@CC 1250
+I: Os acréscimos formados lenta e imperceptivelmente ao longo das margens (aluvião) pertencem aos donos dos terrenos marginais, sem indenização.
+P: Aluvião || Acréscimo imperceptível || Sem indenização
+K: aluvião; acessão natural
+
+@CC 1251
+I: Se força natural violenta destacar terra de um prédio e a juntar a outro (avulsão), o dono deste adquire o acréscimo indenizando o outro ou, sem reclamação em 1 ano, sem indenização.
+P: Avulsão || Indenização || Prazo de 1 ano
+K: avulsão; acessão natural
+
+@CC 1252
+I: O leito abandonado de rio pertence aos ribeirinhos das duas margens, até o meio do álveo, sem indenização aos donos dos terrenos do novo curso.
+P: Álveo abandonado || Ribeirinhos das duas margens || Sem indenização
+K: álveo abandonado; acessão
+
+@CC 1253
+I: Presume-se que construções e plantações foram feitas pelo proprietário e à sua custa, salvo prova em contrário.
+P: Presunção relativa || Proprietário como construtor || Prova em contrário
+K: acessão artificial; construção
+
+@CC 1254
+I: Quem planta ou constrói em terreno próprio com materiais alheios adquire-os, mas paga seu valor e, se de má-fé, perdas e danos.
+P: Materiais alheios em solo próprio || Pagamento do valor || Perdas e danos na má-fé
+K: acessão; materiais alheios
+
+@CC 1255
+I: Quem planta ou constrói em terreno alheio perde a acessão para o dono, com indenização se de boa-fé; se a construção valer muito mais que o terreno, o construtor de boa-fé adquire o solo pagando indenização (acessão inversa).
+P: Acessão em solo alheio || Indenização ao de boa-fé || Acessão inversa
+K: acessão; construção em terreno alheio; acessão inversa
+
+@CC 1256
+I: Havendo má-fé de ambos, o proprietário adquire as acessões, ressarcindo seu valor; presume-se má-fé do dono que viu a obra e não se opôs.
+P: Má-fé recíproca || Indenização das acessões || Presunção de má-fé do dono
+K: acessão; má-fé
+
+@CC 1257
+I: Aplica-se o artigo anterior quando os materiais não forem de quem os empregou de boa-fé em solo alheio; o dono dos materiais pode cobrar do proprietário do solo, subsidiariamente.
+P: Materiais de terceiro || Cobrança subsidiária || Boa-fé
+K: acessão; materiais de terceiro
+
+@CC 1258
+I: Se a construção invadir até 1/20 do solo vizinho, o construtor de boa-fé adquire a parte invadida se a construção valer mais, indenizando; de má-fé, paga dez vezes as perdas e danos, se não puder demolir sem grave prejuízo.
+P: Invasão até 5% || Boa-fé: aquisição com indenização || Má-fé: décuplo
+K: construção invasora; acessão
+
+@CC 1259
+I: Se a invasão exceder 1/20, o construtor de boa-fé adquire a parte invadida pagando perdas e danos ampliadas; o de má-fé deve demolir e pagar em dobro.
+P: Invasão superior a 5% || Boa-fé: indenização ampla || Má-fé: demolição e dobro
+K: construção invasora; demolição
+
+@CC 1260
+I: Quem possuir coisa móvel como sua por 3 anos, contínua e pacificamente, com justo título e boa-fé, adquire a propriedade (usucapião ordinária de móveis).
+P: Usucapião ordinária de móveis || 3 anos || Justo título e boa-fé
+K: usucapião de móveis
+
+@CC 1261
+I: A posse de coisa móvel por 5 anos gera usucapião independentemente de título ou boa-fé (extraordinária).
+P: Usucapião extraordinária de móveis || 5 anos || Dispensa título e boa-fé
+K: usucapião de móveis; extraordinária
+
+@CC 1262
+I: Aplicam-se à usucapião de móveis a soma de posses e as causas que obstam, suspendem ou interrompem a prescrição.
+P: Soma de posses || Causas de prescrição || Remissão aos arts. 1.243 e 1.244
+K: usucapião de móveis
+
+@CC 1263
+I: Quem se apossar de coisa sem dono (res nullius ou abandonada) adquire sua propriedade, se a lei não proibir (ocupação).
+P: Ocupação || Coisa sem dono || Aquisição originária
+K: ocupação; res nullius
+
+@CC 1264
+I: O tesouro (depósito antigo de coisas preciosas, oculto e sem dono conhecido) é dividido igualmente entre o dono do prédio e quem o achou por acaso.
+P: Conceito de tesouro || Divisão igualitária || Achado casual
+K: tesouro; achado
+
+@CC 1265
+I: O tesouro é todo do proprietário se ele o achar, se for achado em pesquisa que ordenou ou por terceiro não autorizado.
+P: Tesouro do proprietário || Pesquisa ordenada || Terceiro não autorizado
+K: tesouro
+
+@CC 1266
+I: Em terreno aforado, o tesouro divide-se entre o descobridor e o enfiteuta, ou é todo deste se ele o achar.
+P: Enfiteuse || Enfiteuta e descobridor || Regra residual
+K: tesouro; enfiteuse
+
+@CC 1267
+I: A propriedade das coisas móveis só se transfere com a tradição, que pode ser presumida no constituto possessório, na cessão do direito à restituição da coisa ou quando o adquirente já a possui.
+P: Tradição || Tradição ficta || Constituto possessório
+K: tradição; constituto possessório
+
+@CC 1268
+I: A tradição por quem não é dono não transfere a propriedade, salvo coisa oferecida ao público em leilão ou estabelecimento comercial, a adquirente de boa-fé, ou se o alienante adquirir depois o domínio. A tradição de título nulo não transfere.
+P: A non domino || Proteção do adquirente de boa-fé || Convalidação posterior
+K: tradição; venda a non domino
+
+@CC 1269
+I: Quem, trabalhando matéria-prima em parte alheia, obtém espécie nova, torna-se dono se não for possível restituir à forma anterior (especificação).
+P: Especificação || Espécie nova || Impossibilidade de retorno
+K: especificação
+
+@CC 1270
+I: Se toda a matéria for alheia e irreversível, a espécie nova é do especificador de boa-fé; se reversível ou de má-fé, é do dono da matéria; prevalece o especificador se o valor do trabalho exceder muito o da matéria.
+P: Boa-fé do especificador || Reversibilidade || Valor do trabalho
+K: especificação; boa-fé
+
+@CC 1271
+I: Os prejudicados são indenizados, salvo o especificador de má-fé na hipótese de irredutibilidade.
+P: Indenização || Exceção do especificador de má-fé || Equilíbrio
+K: especificação; indenização
+
+@CC 1272
+I: Coisas de donos diferentes misturadas sem consentimento continuam de cada um, se separáveis; se não, forma-se condomínio proporcional ou o dono da principal fica com o todo, indenizando.
+P: Confusão, comistão e adjunção || Separação ou condomínio || Coisa principal
+K: confusão; comistão; adjunção
+
+@CC 1273
+I: Se a mistura foi de má-fé, a outra parte escolhe entre adquirir o todo, pagando o que não é seu, ou renunciar à sua parte com indenização.
+P: Má-fé || Opção da parte inocente || Indenização
+K: confusão; má-fé
+
+@CC 1274
+I: Se da união de matérias diversas surgir espécie nova, aplicam-se as regras dos arts. 1.272 e 1.273.
+P: Espécie nova || Remissão || Matérias diversas
+K: confusão; espécie nova
+
+@CC 1275
+I: Perde-se a propriedade por alienação, renúncia, abandono, perecimento ou desapropriação; nos casos de alienação e renúncia de imóvel, os efeitos dependem do registro.
+P: Causas de perda || Registro na alienação e renúncia || Desapropriação
+K: perda da propriedade; abandono; renúncia
+
+@CC 1276
+I: O imóvel urbano abandonado, sem posse de outrem, pode ser arrecadado como vago e passar ao Município ou DF após 3 anos (rural: à União após 3 anos); presume-se o abandono quando cessados os atos de posse e não pagos os tributos.
+P: Arrecadação de imóvel abandonado || Prazo de 3 anos || Presunção pelo não pagamento de tributos
+K: abandono; bem vago; arrecadação
+
+@CC 1277
+I: O proprietário ou possuidor pode fazer cessar interferências prejudiciais à segurança, ao sossego e à saúde causadas pelo uso de propriedade vizinha, considerando a natureza do uso, a localização e os limites de tolerância.
+P: Uso anormal da propriedade || Segurança, sossego e saúde || Critério da tolerância
+K: direito de vizinhança; uso anormal; sossego
+
+@CC 1278
+I: Se as interferências forem justificadas por interesse público, devem ser toleradas, mas o causador indeniza o vizinho.
+P: Interesse público || Tolerância com indenização || Equilíbrio
+K: direito de vizinhança; interesse público
+
+@CC 1279
+I: Mesmo toleradas por decisão judicial, o vizinho pode exigir redução ou eliminação das interferências quando possível.
+P: Redução posterior || Eliminação || Revisão da tolerância
+K: direito de vizinhança
+
+@CC 1280
+I: O vizinho pode exigir demolição ou reparação de prédio que ameace ruína e caução pelo dano iminente (dano infecto).
+P: Ameaça de ruína || Demolição ou reparação || Caução
+K: dano infecto; ruína
+
+@CC 1281
+I: Quem sofre obras de terceiro com direito a fazê-las pode exigir garantias contra prejuízo iminente.
+P: Garantia contra obras || Dano iminente || Caução
+K: direito de vizinhança; obras
+
+@CC 1282
+I: A árvore cujo tronco estiver na linha divisória presume-se comum aos vizinhos.
+P: Árvore limítrofe || Condomínio presumido || Presunção relativa
+K: árvores limítrofes
+
+@CC 1283
+I: Raízes e ramos que ultrapassem a divisa podem ser cortados pelo vizinho invadido até o plano vertical divisório.
+P: Corte de raízes e ramos || Plano vertical || Autotutela
+K: árvores limítrofes; corte
+
+@CC 1284
+I: Os frutos caídos de árvore vizinha pertencem ao dono do solo onde caíram, se particular.
+P: Frutos caídos || Dono do solo || Terreno particular
+K: árvores limítrofes; frutos
+
+@CC 1285
+I: O dono de prédio sem acesso a via pública, nascente ou porto pode exigir do vizinho passagem, mediante indenização cabal, com rumo fixado pelo juiz (passagem forçada); não cabe se o encravamento foi causado pelo próprio dono.
+P: Prédio encravado || Indenização cabal || Rumo judicial
+K: passagem forçada; prédio encravado
+
+@CC 1286
+I: Mediante indenização, inclusive pela desvalorização, o proprietário deve tolerar a passagem de cabos e tubulações de utilidade pública, pelo modo menos gravoso, podendo exigir sua remoção à sua custa.
+P: Cabos e tubulações || Indenização || Menor gravame
+K: passagem de cabos; tubulações
+
+@CC 1287
+I: Se as instalações oferecerem grave risco, o proprietário pode exigir obras de segurança.
+P: Grave risco || Obras de segurança || Proteção do onerado
+K: tubulações; segurança
+
+@CC 1288
+I: O prédio inferior deve receber as águas que correm naturalmente do superior, sem obstruir, mas a condição natural não pode ser agravada por obras do superior.
+P: Escoamento natural || Vedação de obstrução || Vedação de agravamento
+K: águas; escoamento
+
+@CC 1289
+I: Se águas levadas artificialmente ao prédio superior escorrerem para o inferior, o dono deste pode exigir desvio ou indenização, deduzido o benefício obtido.
+P: Águas artificiais || Desvio ou indenização || Dedução do benefício
+K: águas; indenização
+
+@CC 1290
+I: O dono de nascente ou de solo com águas pluviais, satisfeitas suas necessidades, não pode impedir o curso das águas remanescentes aos prédios inferiores.
+P: Sobras das águas || Prédios inferiores || Necessidades próprias
+K: águas; nascente
+
+@CC 1291
+I: O possuidor superior não pode poluir as águas indispensáveis às necessidades vitais dos inferiores; as demais que poluir deve recuperar e indenizar.
+P: Vedação de poluição || Águas de primeira necessidade || Recuperação e indenização
+K: águas; poluição
+
+@CC 1292
+I: O proprietário pode construir barragens e açudes, mas indeniza o vizinho se as águas invadirem seu prédio.
+P: Represamento permitido || Invasão gera indenização || Dedução do benefício
+K: águas; barragem
+
+@CC 1293
+I: Qualquer pessoa pode construir canais por prédios alheios para receber águas indispensáveis à vida, agricultura ou indústria, escoamento ou drenagem, mediante prévia indenização (aqueduto).
+P: Direito de aqueduto || Prévia indenização || Fins vitais e produtivos
+K: aqueduto; águas
+
+@CC 1294
+I: Aplicam-se ao aqueduto as regras da passagem de cabos e tubulações.
+P: Remissão || Indenização e segurança || Menor gravame
+K: aqueduto
+
+@CC 1295
+I: O aqueduto não impede que os donos cerquem e construam sobre ele, sem prejudicá-lo, e permite que usem suas águas para necessidades vitais.
+P: Uso compatível || Cercar e construir || Águas para necessidades
+K: aqueduto; uso
+
+@CC 1296
+I: Havendo águas supérfluas no aqueduto, outros podem canalizá-las, indenizando os prejudicados e o dono do aqueduto, com preferência dos proprietários atravessados.
+P: Águas supérfluas || Indenização || Preferência dos atravessados
+K: aqueduto; águas supérfluas
+
+@CC 1297
+I: O proprietário pode cercar seu prédio e exigir do confinante a demarcação e a renovação de marcos, com despesas divididas; muros e cercas divisórios presumem-se comuns.
+P: Direito de tapagem || Demarcação || Despesas repartidas
+K: demarcação; tapagem; divisa
+
+@CC 1298
+I: Sendo confusos os limites, prevalece a posse justa; sem prova, divide-se o terreno em partes iguais ou adjudica-se a um com indenização.
+P: Limites confusos || Posse justa || Divisão igual
+K: demarcação; limites
+
+@CC 1299
+I: O proprietário pode construir o que quiser em seu terreno, respeitados os direitos dos vizinhos e os regulamentos administrativos.
+P: Liberdade de construir || Direitos de vizinhança || Normas urbanísticas
+K: direito de construir
+
+@CC 1300
+I: O proprietário deve construir de modo que seu prédio não despeje águas diretamente no vizinho (goteira).
+P: Vedação de despejo de águas || Goteira || Proteção do vizinho
+K: direito de construir; águas
+
+@CC 1301
+I: É proibido abrir janelas, eirado, terraço ou varanda a menos de 1,5 m do terreno vizinho; janelas sem visão direta da divisa podem ficar a 75 cm; aberturas de luz pequenas e altas são permitidas.
+P: Distância de 1,5 m || Janelas oblíquas a 75 cm || Aberturas para luz
+K: janelas; distância; direito de construir
+
+@CC 1302
+I: O vizinho pode exigir o desfazimento de janela, sacada ou goteira em até ano e dia da conclusão da obra; depois disso, não pode construir sem respeitar a distância.
+P: Prazo de ano e dia || Decadência || Servidão de luz consolidada
+K: janelas; prazo de ano e dia
+
+@CC 1303
+I: Na zona rural, não se pode construir a menos de 3 m do terreno vizinho.
+P: Distância rural de 3 m || Proteção do vizinho || Zona rural
+K: direito de construir; zona rural
+
+@CC 1304
+I: Nas cidades com alinhamento obrigatório, o dono pode madeirar na parede divisória do vizinho, se ela suportar, pagando metade do valor.
+P: Uso da parede divisória || Alinhamento urbano || Meio valor
+K: parede divisória; madeiramento
+
+@CC 1305
+I: Quem constrói primeiro pode assentar a parede divisória até meia espessura no terreno vizinho, recebendo metade do valor se o vizinho a travejar.
+P: Parede-meia || Meia espessura || Reembolso de metade
+K: parede-meia
+
+@CC 1306
+I: O condômino da parede-meia pode usá-la até o meio da espessura, sem pôr em risco a segurança, avisando o outro das obras.
+P: Uso da parede-meia || Segurança || Aviso prévio
+K: parede-meia; condomínio
+
+@CC 1307
+I: O confinante pode altear a parede divisória, arcando com as despesas, ou metade se o vizinho adquirir meação na parte aumentada.
+P: Alteamento || Despesas || Meação
+K: parede divisória; alteamento
+
+@CC 1308
+I: É proibido encostar à parede divisória chaminés, fogões ou depósitos que causem infiltrações ou interferências; exceção para chaminés comuns de cozinha.
+P: Vedação de aparelhos nocivos || Infiltrações || Exceção das chaminés comuns
+K: parede divisória; infiltrações
+
+@CC 1309
+I: São proibidas construções que poluam ou inutilizem água de poço ou nascente alheia preexistente.
+P: Proteção de poços e nascentes || Poluição || Preexistência
+K: águas; poço; poluição
+
+@CC 1310
+I: Não se pode fazer escavações que retirem do poço ou nascente alheia a água indispensável.
+P: Proteção das águas alheias || Escavações || Necessidades normais
+K: águas; escavação
+
+@CC 1311
+I: Obras que possam causar desmoronamento ou comprometer o prédio vizinho só podem ser feitas após obras acautelatórias, e o vizinho tem direito a indenização mesmo assim.
+P: Obras acautelatórias || Risco de desmoronamento || Indenização
+K: direito de construir; segurança
+
+@CC 1312
+I: Quem violar as proibições desta seção deve demolir as construções e responder por perdas e danos.
+P: Demolição || Perdas e danos || Sanção
+K: direito de construir; demolição
+
+@CC 1313
+I: O ocupante deve tolerar, com aviso prévio, a entrada do vizinho para reparar ou limpar seu prédio, ou retirar coisas suas e animais, com indenização de danos.
+P: Tolerância de entrada || Aviso prévio || Indenização por danos
+K: direito de vizinhança; entrada no prédio
+
+@CC 1314
+I: Cada condômino pode usar a coisa conforme a destinação, exercer direitos compatíveis com a indivisão, reivindicá-la, defender a posse e alienar ou gravar sua parte ideal; não pode alterar a destinação nem dar posse a estranho sem consenso.
+P: Direitos do condômino || Parte ideal alienável || Vedação de alterar a destinação
+K: condomínio geral; direitos do condômino
+
+@CC 1315
+I: O condômino deve contribuir, na proporção de sua parte, para as despesas de conservação ou divisão e suportar os ônus; presumem-se iguais as partes.
+P: Despesas proporcionais || Presunção de igualdade || Ônus da coisa
+K: condomínio; despesas
+
+@CC 1316
+I: O condômino pode eximir-se das despesas renunciando à sua parte ideal, que acresce aos que as assumirem.
+P: Renúncia à parte ideal || Acréscimo aos demais || Liberação das despesas
+K: condomínio; renúncia
+
+@CC 1317
+I: Dívida contraída por todos sem discriminação nem solidariedade obriga cada um proporcionalmente ao seu quinhão.
+P: Responsabilidade proporcional || Ausência de solidariedade || Quinhão
+K: condomínio; dívidas
+
+@CC 1318
+I: Dívida contraída por um condômino em proveito da comunhão obriga o contratante, com regresso contra os demais.
+P: Obrigação do contratante || Proveito comum || Regresso
+K: condomínio; dívidas; regresso
+
+@CC 1319
+I: Cada condômino responde aos outros pelos frutos que recebeu e pelos danos que causou; o uso exclusivo pode gerar aluguel aos demais.
+P: Prestação de frutos || Responsabilidade por danos || Uso exclusivo indenizável
+K: condomínio; frutos; aluguel
+
+@CC 1320
+I: O condômino pode exigir a divisão a qualquer tempo; a indivisão convencional não pode exceder 5 anos, prorrogáveis, e o juiz pode dividir antes por razões graves.
+P: Divisão a qualquer tempo || Indivisão máxima de 5 anos || Divisão antecipada judicial
+K: condomínio; divisão; indivisão
+
+@CC 1321
+I: Aplicam-se à divisão do condomínio as regras da partilha de herança.
+P: Regras da partilha || Remissão || Divisão
+K: condomínio; partilha
+
+@CC 1322
+I: Se a coisa for indivisível e não for adjudicada a um, será vendida, preferindo o condômino ao estranho e, entre condôminos, o que tiver benfeitorias mais valiosas ou maior quinhão.
+P: Alienação judicial || Preferência do condômino || Critérios de desempate
+K: condomínio; extinção; venda
+
+@CC 1323
+I: A maioria escolhe o administrador, que pode ser estranho; se decidir alugar, o condômino tem preferência sobre o estranho.
+P: Administração pela maioria || Administrador estranho || Preferência na locação
+K: condomínio; administração
+
+@CC 1324
+I: O condômino que administra sem oposição presume-se representante comum.
+P: Representação presumida || Ausência de oposição || Administração de fato
+K: condomínio; administração
+
+@CC 1325
+I: A maioria é calculada pelo valor dos quinhões; as deliberações exigem maioria absoluta, e, sem ela, decide o juiz.
+P: Maioria pelos quinhões || Maioria absoluta || Decisão judicial
+K: condomínio; deliberações
+
+@CC 1326
+I: Os frutos da coisa comum são partilhados na proporção dos quinhões, salvo estipulação.
+P: Partilha proporcional dos frutos || Estipulação em contrário || Quinhões
+K: condomínio; frutos
+
+@CC 1327
+I: O condomínio de paredes, cercas, muros e valas divisórios segue as regras de vizinhança.
+P: Condomínio necessário || Paredes e cercas || Remissão
+K: condomínio necessário; meação
+
+@CC 1328
+I: Quem pode murar o imóvel pode adquirir meação na parede ou cerca do vizinho, pagando metade do valor e do terreno.
+P: Aquisição de meação || Meio valor || Direito de tapagem
+K: condomínio necessário; meação
+
+@CC 1329
+I: Sem acordo sobre o preço, ele é arbitrado por peritos, à custa de ambos.
+P: Arbitramento por peritos || Despesas comuns || Preço da meação
+K: meação; arbitramento
+
+@CC 1330
+I: Enquanto não pagar ou depositar o valor da meação, o interessado não pode usar a obra divisória.
+P: Pagamento prévio || Vedação de uso || Meação
+K: meação; pagamento
+
+@CC 1331
+I: No condomínio edilício há unidades autônomas de propriedade exclusiva e partes comuns; as unidades têm fração ideal; abrigos de veículos não podem ser alienados ou alugados a estranhos sem autorização na convenção.
+P: Propriedade exclusiva e comum || Fração ideal || Vagas de garagem a estranhos só com autorização
+K: condomínio edilício; unidade autônoma; fração ideal
+
+@CC 1332
+I: O condomínio edilício institui-se por ato entre vivos ou testamento registrado, com discriminação das unidades, frações ideais e destinação.
+P: Instituição registrada || Discriminação das unidades || Frações ideais
+K: condomínio edilício; instituição
+
+@CC 1333
+I: A convenção deve ser subscrita por 2/3 das frações ideais e obriga os titulares e ocupantes; para valer contra terceiros, deve ser registrada.
+P: Quórum de 2/3 || Obrigatoriedade || Registro para terceiros
+K: convenção de condomínio
+
+@CC 1334
+I: A convenção determina quotas e forma de pagamento das contribuições, administração, competência das assembleias, sanções e regimento interno.
+P: Conteúdo da convenção || Contribuições e administração || Regimento interno
+K: convenção de condomínio; regimento interno
+
+@CC 1335
+I: O condômino pode usar, fruir e dispor de sua unidade, usar as partes comuns sem excluir os demais e votar nas assembleias se quite.
+P: Direitos do condômino || Uso das partes comuns || Voto condicionado à quitação
+K: condomínio edilício; direitos
+
+@CC 1336
+I: O condômino deve contribuir para as despesas na proporção de sua fração, não fazer obras que comprometam a segurança, não alterar a fachada e usar a unidade conforme a destinação, sem prejudicar sossego, salubridade e segurança. O inadimplente paga juros convencionados (ou a taxa legal) e multa de até 2%.
+P: Deveres do condômino || Fachada e destinação || Multa moratória de até 2%
+K: condomínio edilício; deveres; taxa condominial; multa
+
+@CC 1337
+I: O condômino que descumpre reiteradamente seus deveres pode, por 3/4 dos demais, pagar multa de até 5 vezes a contribuição; o de conduta antissocial reiterada, até 10 vezes, até nova deliberação.
+P: Multa por descumprimento reiterado || Condômino antissocial || Quórum de 3/4
+K: condômino antissocial; multa
+
+@CC 1338
+I: Ao alugar vaga na garagem, prefere-se o condômino ao estranho e, entre eles, os possuidores.
+P: Preferência na locação da vaga || Condôminos e possuidores || Garagem
+K: condomínio; garagem; preferência
+
+@CC 1339
+I: Os direitos sobre as partes comuns são inseparáveis da unidade; é permitido alienar parte acessória (como vaga) a outro condômino, e a terceiro só se a convenção permitir e a assembleia não se opuser.
+P: Inseparabilidade || Alienação de acessório || Terceiros com autorização
+K: condomínio edilício; partes comuns
+
+@CC 1340
+I: As despesas de partes comuns de uso exclusivo de alguns condôminos cabem a quem delas se serve.
+P: Uso exclusivo || Despesas próprias || Proporcionalidade
+K: condomínio; despesas
+
+@CC 1341
+I: Obras voluptuárias exigem 2/3 dos condôminos; úteis, maioria; necessárias podem ser feitas pelo síndico ou, em caso de urgência, por qualquer condômino, com reembolso.
+P: Quóruns por espécie de obra || Necessárias pelo síndico || Reembolso
+K: condomínio; obras; quórum
+
+@CC 1342
+I: Obras em partes comuns que facilitem ou aumentem a utilização exigem 2/3 dos votos, vedadas as que prejudiquem o uso das partes próprias ou comuns.
+P: Acréscimos em partes comuns || Quórum de 2/3 || Vedação de prejuízo
+K: condomínio; obras; partes comuns
+
+@CC 1343
+I: Construir novo pavimento ou novo edifício no solo comum exige unanimidade.
+P: Unanimidade || Novas unidades || Direito de propriedade
+K: condomínio; unanimidade; construção
+
+@CC 1344
+I: O dono do terraço de cobertura arca com sua conservação, evitando danos às unidades inferiores.
+P: Cobertura || Conservação || Danos às inferiores
+K: condomínio; cobertura
+
+@CC 1345
+I: O adquirente da unidade responde pelos débitos condominiais do alienante, inclusive multas e juros (obrigação propter rem).
+P: Obrigação propter rem || Responsabilidade do adquirente || Multas e juros
+K: condomínio; propter rem; débitos
+
+@CC 1346
+I: É obrigatório o seguro de toda a edificação contra incêndio ou destruição.
+P: Seguro obrigatório || Incêndio e destruição || Toda a edificação
+K: condomínio; seguro
+
+@CC 1347
+I: A assembleia escolhe o síndico, condômino ou não, por até 2 anos, renováveis.
+P: Escolha do síndico || Mandato de 2 anos || Renovação
+K: síndico; condomínio
+
+@CC 1348
+I: Compete ao síndico convocar assembleia, representar o condomínio em juízo e fora dele, cumprir a convenção, prestar contas, cobrar contribuições e contratar seguro; a assembleia pode delegar funções administrativas.
+P: Atribuições do síndico || Representação || Prestação de contas
+K: síndico; atribuições
+
+@CC 1349
+I: A assembleia especialmente convocada pode destituir, por maioria absoluta, o síndico que pratique irregularidades, não preste contas ou não administre convenientemente.
+P: Destituição do síndico || Maioria absoluta || Justa causa
+K: síndico; destituição
