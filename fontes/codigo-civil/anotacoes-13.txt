@@ -1,0 +1,524 @@
+@CC 1136
+I: A sociedade estrangeira autorizada só inicia atividade após inscrita no registro do lugar onde se estabelecer, com prova da autorização e do capital destinado às operações no Brasil.
+P: Inscrição antes do funcionamento || Documentos exigidos || Capital destacado
+K: sociedade estrangeira; inscrição
+
+@CC 1137
+I: A sociedade estrangeira autorizada fica sujeita às leis e tribunais brasileiros pelos atos praticados no Brasil e funciona com o nome de origem, podendo acrescentar "do Brasil" ou "para o Brasil".
+P: Submissão à lei brasileira || Jurisdição nacional || Nome empresarial
+K: sociedade estrangeira; jurisdição
+
+@CC 1138
+I: A sociedade estrangeira deve manter representante permanente no Brasil com poderes para resolver questões e receber citação.
+P: Representante permanente || Poderes de citação || Averbação
+K: sociedade estrangeira; representante
+
+@CC 1139
+I: Modificações no contrato ou estatuto da sociedade estrangeira só produzem efeitos no Brasil após aprovação do Executivo.
+P: Aprovação prévia || Efeitos no território nacional || Controle
+K: sociedade estrangeira; alteração
+
+@CC 1140
+I: A sociedade estrangeira deve reproduzir no órgão oficial as publicações exigidas por sua lei nacional e publicar balanços de sua filial brasileira, sob pena de cassação.
+P: Publicações obrigatórias || Balanços da filial || Cassação
+K: sociedade estrangeira; publicações
+
+@CC 1141
+I: Com autorização, a sociedade estrangeira pode nacionalizar-se, transferindo sua sede para o Brasil, cumpridas as exigências legais.
+P: Nacionalização || Transferência da sede || Autorização
+K: sociedade estrangeira; nacionalização
+
+@CC 1142
+I: Estabelecimento é o complexo de bens organizado para o exercício da empresa; não se confunde com o local da atividade, que pode ser físico ou virtual, e o local físico deve observar as regras de posturas e licenças.
+P: Complexo de bens organizado || Distinto do local físico || Estabelecimento virtual
+K: estabelecimento empresarial; fundo de comércio
+
+@CC 1143
+I: O estabelecimento pode ser objeto unitário de negócios jurídicos compatíveis com sua natureza (trespasse, arrendamento, usufruto).
+P: Universalidade de fato || Objeto unitário de negócios || Trespasse
+K: estabelecimento; trespasse
+
+@CC 1144
+I: A alienação, usufruto ou arrendamento do estabelecimento só produz efeitos perante terceiros após averbação no registro e publicação.
+P: Averbação e publicação || Eficácia perante terceiros || Publicidade
+K: trespasse; averbação
+
+@CC 1145
+I: Se o alienante não ficar com bens suficientes para pagar o passivo, a eficácia da venda depende do pagamento ou do consentimento dos credores, presumido se não se opuserem em 30 dias da notificação.
+P: Proteção dos credores || Consentimento expresso ou tácito || Notificação em 30 dias
+K: trespasse; credores; ineficácia
+
+@CC 1146
+I: O adquirente responde pelos débitos anteriores regularmente contabilizados, e o alienante fica solidário por 1 ano (da publicação, para os vencidos, ou do vencimento, para os demais).
+P: Sucessão nas dívidas contabilizadas || Solidariedade do alienante por 1 ano || Termo inicial
+K: trespasse; sucessão empresarial; dívidas
+
+@CC 1147
+I: Sem autorização expressa, o alienante não pode fazer concorrência ao adquirente por 5 anos (cláusula de não restabelecimento); no arrendamento e usufruto, a proibição dura o contrato.
+P: Não concorrência por 5 anos || Autorização expressa afasta || Arrendamento e usufruto
+K: não concorrência; trespasse
+
+@CC 1148
+I: A transferência sub-roga o adquirente nos contratos de exploração não pessoais, podendo os terceiros rescindir em 90 dias por justa causa, ressalvada a responsabilidade do alienante.
+P: Sub-rogação nos contratos || Contratos não pessoais || Rescisão por justa causa em 90 dias
+K: trespasse; contratos; sub-rogação
+
+@CC 1149
+I: A cessão dos créditos do estabelecimento vale perante os devedores desde a publicação, mas o devedor de boa-fé que pagar ao alienante se libera.
+P: Cessão dos créditos || Eficácia pela publicação || Pagamento de boa-fé
+K: trespasse; cessão de créditos
+
+@CC 1150
+I: Empresário e sociedade empresária vinculam-se à Junta Comercial; a sociedade simples, ao Registro Civil das Pessoas Jurídicas, que segue as normas da Junta se adotar tipo empresário.
+P: Junta Comercial || Registro Civil das Pessoas Jurídicas || Tipo societário
+K: registro empresarial; Junta Comercial
+
+@CC 1151
+I: O registro é requerido pelo obrigado e, na omissão, por sócio ou interessado; documentos devem ser apresentados em 30 dias da lavratura, com efeitos retroativos à data do ato.
+P: Legitimidade para requerer || Prazo de 30 dias || Retroação
+K: registro empresarial; prazo
+
+@CC 1152
+I: O órgão de registro verifica a regularidade das publicações legais, feitas no órgão oficial e em jornal de grande circulação, salvo exceção.
+P: Verificação das publicações || Órgão oficial || Convocações
+K: registro; publicações
+
+@CC 1153
+I: Antes do registro, a autoridade verifica a autenticidade e legitimidade do signatário e a observância das formalidades, podendo exigir saneamento.
+P: Controle formal || Legitimidade do signatário || Exigências
+K: registro; controle de legalidade
+
+@CC 1154
+I: O ato sujeito a registro não pode ser oposto a terceiro antes de registrado, salvo prova de que o conhecia; o terceiro não pode alegar ignorância após o registro.
+P: Eficácia perante terceiros || Publicidade registral || Conhecimento efetivo
+K: registro; oponibilidade
+
+@CC 1155
+I: Nome empresarial é a firma ou denominação adotada para o exercício da empresa; equipara-se a denominação das sociedades simples, associações e fundações.
+P: Firma ou denominação || Proteção do nome || Equiparação
+K: nome empresarial; firma; denominação
+
+@CC 1156
+I: O empresário individual opera sob firma composta por seu nome, completo ou abreviado, podendo acrescentar designação da pessoa ou da atividade.
+P: Firma individual || Nome civil || Designação da atividade
+K: nome empresarial; empresário individual
+
+@CC 1157
+I: A sociedade com sócios de responsabilidade ilimitada opera sob firma com o nome destes, ou de um com "e companhia"; quem tiver o nome na firma responde ilimitadamente.
+P: Firma social || Sócios ilimitados || Responsabilidade de quem consta da firma
+K: firma social; responsabilidade ilimitada
+
+@CC 1158
+I: A limitada pode usar firma ou denominação, com a palavra "limitada"; a denominação pode indicar o objeto social; a omissão de "limitada" torna ilimitada a responsabilidade dos administradores que usarem o nome.
+P: Firma ou denominação || Palavra limitada obrigatória || Sanção da omissão
+K: sociedade limitada; nome empresarial
+
+@CC 1159
+I: A cooperativa usa denominação com a palavra "cooperativa".
+P: Denominação || Palavra cooperativa || Identificação
+K: cooperativa; nome
+
+@CC 1160
+I: A S.A. usa denominação com "sociedade anônima" ou "companhia", podendo indicar o objeto e o nome do fundador ou de quem contribuiu para o êxito.
+P: Denominação || S.A. ou Cia. || Nome de fundador
+K: sociedade anônima; denominação
+
+@CC 1161
+I: A comandita por ações pode usar denominação com a expressão "comandita por ações" em vez de firma.
+P: Denominação || Comandita por ações || Objeto social
+K: comandita por ações; nome
+
+@CC 1162
+I: A sociedade em conta de participação não pode ter firma nem denominação.
+P: Sociedade oculta || Sem nome empresarial || Sócio ostensivo
+K: conta de participação; nome
+
+@CC 1163
+I: O nome do empresário deve distinguir-se dos já inscritos no mesmo registro; havendo identidade, acrescenta-se designação distintiva.
+P: Princípio da novidade || Distinção || Designação adicional
+K: nome empresarial; novidade
+
+@CC 1164
+I: O nome empresarial não pode ser alienado; o adquirente do estabelecimento pode usar o nome do alienante, precedido do seu, se o contrato permitir.
+P: Inalienabilidade || Uso pelo adquirente || Qualificação de sucessor
+K: nome empresarial; inalienabilidade
+
+@CC 1165
+I: O nome de sócio falecido, excluído ou retirado não pode permanecer na firma.
+P: Veracidade da firma || Retirada do nome || Proteção de terceiros
+K: firma; sócio retirante
+
+@CC 1166
+I: A inscrição assegura o uso exclusivo do nome nos limites do Estado, podendo estender-se ao país por registro especial.
+P: Exclusividade estadual || Extensão nacional || Proteção do nome
+K: nome empresarial; exclusividade
+
+@CC 1167
+I: O prejudicado pode, a qualquer tempo, pedir a anulação da inscrição de nome feita com violação da lei ou do contrato.
+P: Ação de anulação || A qualquer tempo || Violação da lei ou contrato
+K: nome empresarial; anulação
+
+@CC 1168
+I: A inscrição do nome é cancelada a pedido de interessado quando cessar a atividade ou se encerrar a liquidação.
+P: Cancelamento || Cessação da atividade || Fim da liquidação
+K: nome empresarial; cancelamento
+
+@CC 1169
+I: O preposto não pode se fazer substituir sem autorização escrita, sob pena de responder pelos atos do substituto.
+P: Pessoalidade da preposição || Autorização escrita || Responsabilidade
+K: preposto; substituição
+
+@CC 1170
+I: O preposto não pode, sem autorização, negociar por conta própria ou de terceiro em operação do mesmo gênero, sob pena de perdas e danos e retenção dos lucros pelo preponente.
+P: Vedação de concorrência || Perdas e danos || Lucros ao preponente
+K: preposto; concorrência
+
+@CC 1171
+I: A entrega de papéis, bens ou valores ao preposto encarregado é perfeita se ele os recebeu sem protesto, salvo prazo para reclamação.
+P: Recebimento pelo preposto || Sem protesto || Eficácia
+K: preposto; entrega
+
+@CC 1172
+I: Gerente é o preposto permanente no exercício da empresa, na sede ou em filial.
+P: Preposto permanente || Sede ou filial || Conceito
+K: gerente; preposto
+
+@CC 1173
+I: Sem exigência de poderes especiais, o gerente pratica todos os atos necessários aos poderes outorgados; havendo dois ou mais, presumem-se solidários.
+P: Poderes implícitos || Solidariedade entre gerentes || Limites
+K: gerente; poderes
+
+@CC 1174
+I: Limitações aos poderes do gerente só se opõem a terceiros se arquivadas e averbadas na Junta, salvo prova de que as conheciam.
+P: Publicidade das limitações || Averbação || Conhecimento do terceiro
+K: gerente; limitação de poderes
+
+@CC 1175
+I: O preponente responde com o gerente pelos atos que este pratica em nome próprio por conta daquele.
+P: Responsabilidade do preponente || Atos em nome próprio || Solidariedade
+K: gerente; responsabilidade
+
+@CC 1176
+I: O gerente pode estar em juízo em nome do preponente pelas obrigações de sua função.
+P: Capacidade processual || Obrigações da função || Representação
+K: gerente; representação judicial
+
+@CC 1177
+I: Os lançamentos feitos por prepostos nos livros do preponente produzem os mesmos efeitos dos feitos por ele, salvo má-fé; o contabilista responde por culpa perante o preponente e solidariamente por dolo perante terceiros.
+P: Efeitos da escrituração || Responsabilidade do contabilista || Culpa e dolo
+K: contabilista; escrituração; responsabilidade
+
+@CC 1178
+I: O preponente responde pelos atos dos prepostos praticados no estabelecimento e ligados à empresa, mesmo sem autorização escrita; fora do estabelecimento, só nos limites dos poderes escritos.
+P: Responsabilidade por atos no estabelecimento || Teoria da aparência || Atos externos limitados
+K: preponente; preposto; responsabilidade
+
+@CC 1179
+I: Empresário e sociedade empresária devem manter contabilidade uniforme e levantar anualmente balanço patrimonial e de resultado; o pequeno empresário é dispensado (LC nº 123/2006).
+P: Obrigação de escriturar || Balanços anuais || Dispensa do pequeno empresário
+K: escrituração; contabilidade; balanço
+
+@CC 1180
+I: Além de outros exigidos por lei, é indispensável o livro Diário, que pode ser substituído por fichas na escrituração mecanizada ou eletrônica.
+P: Livro Diário obrigatório || Fichas e meio eletrônico || Balanços no livro próprio
+K: livro Diário; escrituração
+
+@CC 1181
+I: Os livros obrigatórios e fichas devem ser autenticados na Junta antes do uso, salvo lei especial.
+P: Autenticação prévia || Junta Comercial || Regularidade
+K: livros empresariais; autenticação
+
+@CC 1182
+I: A escrituração fica a cargo de contabilista habilitado, salvo se não houver nenhum na localidade.
+P: Contabilista habilitado || Exceção local || Responsabilidade técnica
+K: contabilista; escrituração
+
+@CC 1183
+I: A escrituração é feita em português, moeda nacional, forma contábil, ordem cronológica, sem espaços em branco, rasuras ou emendas.
+P: Requisitos formais || Ordem cronológica || Vedação de rasuras
+K: escrituração; formalidades
+
+@CC 1184
+I: No Diário lançam-se, dia a dia, todas as operações da empresa, admitindo-se escrituração resumida mensal com livros auxiliares; nele se registram balanços.
+P: Lançamentos diários || Escrituração resumida || Balanços no Diário
+K: livro Diário; lançamentos
+
+@CC 1185
+I: Quem adotar fichas pode substituir o Diário pelo livro Balancetes Diários e Balanços, com as mesmas formalidades.
+P: Substituição do Diário || Balancetes Diários e Balanços || Formalidades
+K: escrituração; balancetes
+
+@CC 1186
+I: O livro Balancetes Diários e Balanços registra a posição diária das contas e os balanços anuais.
+P: Posição diária || Balanços || Conteúdo do livro
+K: balancetes diários; balanços
+
+@CC 1187
+I: Fixa critérios de avaliação no inventário: bens da atividade pelo custo de aquisição com depreciação, valores mobiliários e créditos pelo custo ou mercado, e outros critérios.
+P: Critérios de avaliação || Custo e depreciação || Ativos intangíveis
+K: inventário; avaliação contábil
+
+@CC 1188
+I: O balanço patrimonial deve exprimir com fidelidade a situação real da empresa, indicando ativo e passivo.
+P: Fidelidade e clareza || Ativo e passivo || Leis especiais
+K: balanço patrimonial
+
+@CC 1189
+I: O balanço de resultado econômico (demonstração de lucros e perdas) acompanha o balanço patrimonial.
+P: Demonstração de resultado || Crédito e débito || Lei especial
+K: balanço de resultado
+
+@CC 1190
+I: Salvo previsão legal, nenhuma autoridade ou juiz pode ordenar diligência para verificar a escrituração (sigilo dos livros).
+P: Sigilo da escrituração || Exceções legais || Proteção empresarial
+K: sigilo contábil; livros
+
+@CC 1191
+I: O juiz só pode determinar exibição integral dos livros em questões de sucessão, comunhão, sociedade, administração por conta de outrem ou falência; a exibição parcial pode ser determinada de ofício.
+P: Exibição integral restrita || Exibição parcial || Proteção do sigilo
+K: exibição de livros; sigilo
+
+@CC 1192
+I: Recusada a apresentação, os livros são apreendidos judicialmente, e na exibição parcial presume-se verdadeiro o alegado pela parte contrária, que pode ser elidido por prova documental.
+P: Apreensão judicial || Presunção de veracidade || Prova em contrário
+K: exibição de livros; recusa
+
+@CC 1193
+I: As restrições ao exame da escrituração não se aplicam às autoridades fazendárias na fiscalização de tributos.
+P: Fiscalização tributária || Exceção ao sigilo || CTN, art. 195
+K: sigilo contábil; fiscalização
+
+@CC 1194
+I: O empresário deve conservar escrituração, correspondência e papéis enquanto não houver prescrição ou decadência dos atos neles consignados.
+P: Dever de guarda || Até prescrição ou decadência || Prova
+K: escrituração; conservação
+
+@CC 1195
+I: As regras de escrituração aplicam-se às filiais no Brasil de empresários estrangeiros.
+P: Filiais estrangeiras || Mesmas regras || Fiscalização
+K: escrituração; sociedade estrangeira
+
+@CC 1196
+I: É possuidor quem tem de fato o exercício, pleno ou não, de algum dos poderes da propriedade (teoria objetiva de Ihering).
+P: Posse como exteriorização da propriedade || Teoria objetiva || Poderes de fato
+K: posse; possuidor; teoria objetiva
+
+@CC 1197
+I: A posse direta de quem tem a coisa temporariamente por direito pessoal ou real não anula a indireta de quem a cedeu; o possuidor direto pode defender sua posse contra o indireto.
+P: Desdobramento da posse || Direta e indireta || Defesa contra o indireto
+K: posse direta; posse indireta
+
+@CC 1198
+I: Detentor é quem conserva a posse em nome de outro, em relação de dependência e cumprindo ordens (fâmulo da posse); presume-se detentor quem começou nessa condição.
+P: Detenção || Relação de dependência || Presunção relativa
+K: detenção; fâmulo da posse
+
+@CC 1199
+I: Coisa indivisa pode ser possuída por várias pessoas, desde que os atos de uma não excluam os das outras (composse).
+P: Composse || Atos possessórios compatíveis || Defesa contra terceiros
+K: composse
+
+@CC 1200
+I: É justa a posse que não for violenta, clandestina ou precária.
+P: Posse justa || Vícios objetivos || Violência, clandestinidade e precariedade
+K: posse justa; posse injusta
+
+@CC 1201
+I: É de boa-fé a posse se o possuidor ignora o vício que impede a aquisição; o justo título faz presumir a boa-fé, salvo prova em contrário.
+P: Boa-fé subjetiva || Justo título || Presunção relativa
+K: posse de boa-fé; justo título
+
+@CC 1202
+I: A posse de boa-fé perde esse caráter quando as circunstâncias fizerem presumir que o possuidor sabe que possui indevidamente, como na citação.
+P: Cessação da boa-fé || Circunstâncias || Citação
+K: posse de boa-fé; cessação
+
+@CC 1203
+I: Presume-se que a posse mantém o caráter com que foi adquirida, salvo prova em contrário (interversão do caráter possível em certos casos).
+P: Continuidade do caráter || Presunção relativa || Interversão
+K: posse; caráter
+
+@CC 1204
+I: Adquire-se a posse quando se torna possível exercer, em nome próprio, qualquer dos poderes da propriedade.
+P: Aquisição da posse || Exercício em nome próprio || Momento
+K: aquisição da posse
+
+@CC 1205
+I: A posse pode ser adquirida pela própria pessoa, por representante ou por terceiro sem mandato, com ratificação.
+P: Aquisição pessoal || Representante || Gestor com ratificação
+K: aquisição da posse; representante
+
+@CC 1206
+I: A posse transmite-se aos herdeiros ou legatários com os mesmos caracteres.
+P: Transmissão causa mortis || Mesmos caracteres || Vícios transmitidos
+K: posse; herdeiros
+
+@CC 1207
+I: O sucessor universal continua a posse do antecessor; o singular pode unir sua posse à anterior (acessão de posses).
+P: Sucessio possessionis || Accessio possessionis || Usucapião
+K: acessão de posse; sucessão
+
+@CC 1208
+I: Atos de mera permissão ou tolerância não geram posse, nem os violentos ou clandestinos enquanto não cessarem.
+P: Mera permissão não gera posse || Violência e clandestinidade || Cessação dos vícios
+K: posse; tolerância; violência
+
+@CC 1209
+I: A posse do imóvel faz presumir a dos móveis que nele estiverem.
+P: Presunção relativa || Móveis no imóvel || Acessoriedade
+K: posse; móveis; presunção
+
+@CC 1210
+I: O possuidor tem direito à manutenção (turbação), reintegração (esbulho) e interdito proibitório (ameaça); pode reagir por desforço imediato e proporcional; a alegação de propriedade não impede a proteção possessória.
+P: Interditos possessórios || Autotutela proporcional || Vedação da exceção de domínio
+K: ações possessórias; turbação; esbulho; desforço imediato
+
+@CC 1211
+I: Havendo disputa entre possuidores, mantém-se provisoriamente quem tem a coisa, salvo se a obteve de modo vicioso.
+P: Posse provisória || Quem detém a coisa || Exceção do vício
+K: posse; disputa
+
+@CC 1212
+I: O possuidor pode propor reintegração ou indenização contra terceiro que recebeu a coisa sabendo do esbulho.
+P: Ação contra terceiro de má-fé || Reintegração ou indenização || Ciência do esbulho
+K: esbulho; terceiro
+
+@CC 1213
+I: A proteção possessória não se aplica às servidões não aparentes, salvo título vindo do possuidor do prédio serviente.
+P: Servidões não aparentes || Exceção do título || Súmula 415 do STF
+K: servidão não aparente; posse
+
+@CC 1214
+I: O possuidor de boa-fé tem direito aos frutos percebidos; os pendentes ao cessar a boa-fé são restituídos, deduzidas as despesas.
+P: Frutos ao possuidor de boa-fé || Restituição dos pendentes || Despesas de produção
+K: frutos; possuidor de boa-fé
+
+@CC 1215
+I: Frutos naturais e industriais consideram-se percebidos quando separados; os civis, dia a dia.
+P: Percepção dos frutos naturais || Frutos civis dia a dia || Momento
+K: frutos; percepção
+
+@CC 1216
+I: O possuidor de má-fé responde por todos os frutos colhidos e pelos que deixou de colher por culpa, desde a má-fé, mas tem direito às despesas de produção e custeio.
+P: Restituição dos frutos || Frutos não colhidos por culpa || Despesas de produção
+K: frutos; possuidor de má-fé
+
+@CC 1217
+I: O possuidor de boa-fé não responde pela perda ou deterioração a que não deu causa.
+P: Sem responsabilidade sem culpa || Boa-fé || Perda ou deterioração
+K: possuidor de boa-fé; deterioração
+
+@CC 1218
+I: O possuidor de má-fé responde pela perda ou deterioração, mesmo acidental, salvo prova de que ocorreria igualmente com o reivindicante.
+P: Responsabilidade agravada || Caso fortuito || Prova em contrário
+K: possuidor de má-fé; deterioração
+
+@CC 1219
+I: O possuidor de boa-fé tem direito à indenização das benfeitorias necessárias e úteis, com direito de retenção, e pode levantar as voluptuárias se não pagas.
+P: Indenização e retenção || Necessárias e úteis || Levantamento das voluptuárias
+K: benfeitorias; possuidor de boa-fé; retenção
+
+@CC 1220
+I: Ao possuidor de má-fé ressarcem-se apenas as benfeitorias necessárias, sem retenção nem levantamento das voluptuárias.
+P: Só benfeitorias necessárias || Sem retenção || Sanção à má-fé
+K: benfeitorias; possuidor de má-fé
+
+@CC 1221
+I: As benfeitorias compensam-se com os danos e só são ressarcidas se ainda existirem na evicção.
+P: Compensação com danos || Existência ao tempo da evicção || Equilíbrio
+K: benfeitorias; compensação
+
+@CC 1222
+I: Ao possuidor de má-fé, o reivindicante paga as benfeitorias pelo valor atual ou pelo custo, à sua escolha; ao de boa-fé, pelo valor atual.
+P: Opção do reivindicante || Valor atual para a boa-fé || Custo ou valor atual
+K: benfeitorias; indenização
+
+@CC 1223
+I: Perde-se a posse quando cessa o poder sobre o bem, ainda que contra a vontade do possuidor.
+P: Perda da posse || Cessação do poder fático || Involuntária
+K: perda da posse
+
+@CC 1224
+I: Quem não presenciou o esbulho só perde a posse se, sabendo dele, não retomar a coisa ou for violentamente repelido.
+P: Posse do ausente || Inércia ou repulsa violenta || Proteção prolongada
+K: perda da posse; esbulho
+
+@CC 1225
+I: Lista os direitos reais (rol taxativo): propriedade, superfície, servidões, usufruto, uso, habitação, direito do promitente comprador, penhor, hipoteca, anticrese, concessão de uso especial para moradia, concessão de direito real de uso, laje e os direitos oriundos da imissão provisória na posse em desapropriação.
+P: Numerus clausus || Direitos reais de gozo e garantia || Laje e imissão provisória
+K: direitos reais; numerus clausus; laje
+
+@CC 1226
+I: Direitos reais sobre móveis constituídos ou transmitidos entre vivos só se adquirem com a tradição.
+P: Tradição || Bens móveis || Atos entre vivos
+K: tradição; direitos reais; móveis
+
+@CC 1227
+I: Direitos reais sobre imóveis constituídos ou transmitidos entre vivos só se adquirem com o registro no Cartório de Registro de Imóveis, salvo exceções legais.
+P: Registro constitutivo || Imóveis || Exceções legais
+K: registro de imóveis; direitos reais; aquisição
+
+@CC 1228
+I: O proprietário pode usar, gozar, dispor e reaver a coisa, mas a propriedade deve cumprir sua função social e ambiental; são proibidos atos emulativos; e o juiz pode privar o dono de área ocupada de boa-fé por considerável número de pessoas por mais de 5 anos, mediante indenização (desapropriação judicial privada).
+P: Faculdades do domínio || Função social e ambiental || Desapropriação judicial privada (§§ 4º e 5º)
+K: propriedade; função social; ação reivindicatória
+
+@CC 1229
+I: A propriedade do solo abrange o espaço aéreo e o subsolo na altura e profundidade úteis, não podendo o dono opor-se a atividades de terceiros que não tenha interesse legítimo em impedir.
+P: Espaço aéreo e subsolo || Utilidade || Interesse legítimo
+K: propriedade; espaço aéreo; subsolo
+
+@CC 1230
+I: A propriedade do solo não abrange jazidas, minas, recursos minerais, potenciais hidráulicos e monumentos arqueológicos (bens da União); o dono pode explorar minerais de emprego imediato na construção civil.
+P: Separação entre solo e subsolo mineral || Bens da União || Exceção da construção civil
+K: propriedade; jazidas; recursos minerais
+
+@CC 1231
+I: A propriedade presume-se plena e exclusiva, até prova em contrário.
+P: Presunção de plenitude || Exclusividade || Prova em contrário
+K: propriedade; presunção
+
+@CC 1232
+I: Frutos e produtos pertencem ao proprietário, mesmo separados, salvo norma especial.
+P: Frutos ao proprietário || Mesmo separados || Exceções legais
+K: propriedade; frutos
+
+@CC 1233
+I: Quem achar coisa alheia perdida deve restituí-la ao dono e, não o encontrando, entregá-la à autoridade competente.
+P: Dever de restituição || Busca do dono || Entrega à autoridade
+K: descoberta; coisa perdida
+
+@CC 1234
+I: Quem restituir a coisa achada tem direito a recompensa de no mínimo 5% do valor e a indenização pelas despesas, se o dono não preferir abandoná-la.
+P: Recompensa mínima de 5% || Despesas de conservação || Opção de abandono
+K: descoberta; achádego; recompensa
+
+@CC 1235
+I: O descobridor responde pelos prejuízos ao dono se agir com dolo.
+P: Responsabilidade por dolo || Prejuízos || Descobridor
+K: descoberta; responsabilidade
+
+@CC 1236
+I: A autoridade divulga a descoberta pela imprensa e outros meios, e só expede edital se o valor justificar.
+P: Divulgação || Edital proporcional ao valor || Publicidade
+K: descoberta; edital
+
+@CC 1237
+I: Passados 60 dias da divulgação sem que o dono apareça, a coisa é vendida em hasta pública; deduzidas despesas e recompensa, o saldo vai ao Município; se de pequeno valor, pode ser abandonada ao descobridor.
+P: Prazo de 60 dias || Hasta pública e saldo ao Município || Pequeno valor ao descobridor
+K: descoberta; hasta pública
+
+@CC 1238
+I: Quem possuir imóvel como seu por 15 anos, sem interrupção nem oposição, adquire a propriedade independentemente de título e boa-fé (usucapião extraordinária); o prazo cai para 10 anos se houver moradia habitual ou obras produtivas.
+P: Usucapião extraordinária || 15 anos ou 10 com moradia/obras || Dispensa título e boa-fé
+K: usucapião extraordinária; prazo
+
+@CC 1239
+I: Quem não é proprietário de imóvel e possui área rural de até 50 hectares por 5 anos, tornando-a produtiva com seu trabalho e morando nela, adquire a propriedade (usucapião especial rural, CF, art. 191).
+P: Usucapião rural || Até 50 hectares e 5 anos || Trabalho e moradia
+K: usucapião especial rural; pro labore
+
+@CC 1240
+I: Quem possuir área urbana de até 250 m² por 5 anos, para moradia, sem ser proprietário de outro imóvel, adquire o domínio, uma única vez (usucapião especial urbana, CF, art. 183).
+P: Usucapião urbana || Até 250 m² e 5 anos || Uma única vez
+K: usucapião especial urbana; moradia
