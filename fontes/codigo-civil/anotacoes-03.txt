@@ -1,0 +1,399 @@
+@CC 144
+I: O erro não invalida o negócio se o destinatário se oferecer para executá-lo conforme a vontade real do declarante.
+P: Convalidação pela execução conforme a vontade real || Princípio da conservação || Afasta a anulação
+K: erro; conservação do negócio
+
+@CC 145
+I: O dolo principal, que foi a causa do negócio, torna-o anulável.
+P: Dolo essencial || Causa do negócio || Anulabilidade
+K: dolo; vício de consentimento; anulabilidade
+
+@CC 146
+I: O dolo acidental, sem o qual o negócio seria feito de outro modo, só gera perdas e danos, sem anular o negócio.
+P: Dolo acidental || Apenas indenização || Negócio subsiste
+K: dolo acidental; perdas e danos
+
+@CC 147
+I: Nos negócios bilaterais, o silêncio intencional sobre fato ou qualidade ignorados pela outra parte é omissão dolosa, se sem ele o negócio não se faria. Concretiza o dever de informação da boa-fé.
+P: Omissão dolosa || Dever de informar || Prova de que o negócio não se faria
+K: omissão dolosa; silêncio; dever de informação
+
+@CC 148
+I: O dolo de terceiro anula o negócio se a parte beneficiada sabia ou devia saber; caso contrário, o negócio subsiste e o terceiro responde por perdas e danos.
+P: Dolo de terceiro || Conhecimento do beneficiado || Indenização pelo terceiro
+K: dolo de terceiro; anulabilidade; perdas e danos
+
+@CC 149
+I: O dolo do representante legal obriga o representado só até o proveito que teve; o do representante convencional gera responsabilidade solidária do representado.
+P: Representante legal: limite do proveito || Representante convencional: solidariedade || Culpa in eligendo
+K: dolo do representante; solidariedade
+
+@CC 150
+I: Se ambas as partes agiram com dolo, nenhuma pode alegá-lo para anular o negócio ou pedir indenização (dolo recíproco).
+P: Dolo bilateral || Vedação de beneficiar-se da própria torpeza || Compensação de dolos
+K: dolo recíproco; torpeza
+
+@CC 151
+I: A coação que vicia o negócio deve causar fundado temor de dano iminente e considerável à pessoa, à família ou aos bens. Se envolver pessoa fora da família, o juiz avalia pelas circunstâncias.
+P: Temor fundado de dano iminente e grave || Pessoa, família ou bens || Terceiros: avaliação judicial
+K: coação; vício de consentimento; temor
+
+@CC 152
+I: Na avaliação da coação consideram-se sexo, idade, condição, saúde, temperamento da vítima e demais circunstâncias.
+P: Critério concreto || Condições pessoais da vítima || Gravidade relativa
+K: coação; avaliação; circunstâncias
+
+@CC 153
+I: Não é coação a ameaça de exercício normal de um direito (como protestar título ou cobrar judicialmente) nem o simples temor reverencial.
+P: Exercício regular de direito || Temor reverencial excluído || Abuso pode configurar coação
+K: coação; exercício de direito; temor reverencial
+
+@CC 154
+I: A coação de terceiro vicia o negócio se o beneficiado sabia ou devia saber, e ele responde solidariamente com o coator.
+P: Coação de terceiro || Conhecimento do beneficiado || Responsabilidade solidária
+K: coação de terceiro; solidariedade
+
+@CC 155
+I: Se o beneficiado não sabia nem devia saber da coação de terceiro, o negócio subsiste e o coator responde pelas perdas e danos.
+P: Negócio subsiste || Boa-fé do beneficiado || Coator indeniza
+K: coação de terceiro; boa-fé
+
+@CC 156
+I: Há estado de perigo quando alguém, para salvar-se ou salvar familiar de grave dano conhecido pela outra parte, assume obrigação excessivamente onerosa. Exemplo clássico: exigência de cheque-caução para atendimento médico de emergência.
+P: Necessidade de salvamento || Dolo de aproveitamento da outra parte || Obrigação excessivamente onerosa
+K: estado de perigo; vício de consentimento; onerosidade excessiva
+
+@CC 157
+I: Há lesão quando alguém, por premente necessidade ou inexperiência, assume prestação manifestamente desproporcional. A desproporção é medida na data do negócio, e a anulação é evitada se houver suplemento suficiente ou redução do proveito.
+P: Necessidade ou inexperiência || Desproporção na data do negócio || Revisão evita a anulação
+K: lesão; desproporção; vício de consentimento
+
+@CC 158
+I: Atos gratuitos de transmissão de bens ou perdão de dívida praticados por devedor insolvente, ou que o tornem insolvente, podem ser anulados pelos credores quirografários, mesmo que o devedor ignore a insolvência. Só credores anteriores ao ato têm legitimidade.
+P: Fraude em ato gratuito || Dispensa a má-fé || Credores anteriores ao ato
+K: fraude contra credores; ação pauliana; insolvência
+
+@CC 159
+I: Também são anuláveis os contratos onerosos do devedor insolvente quando a insolvência for notória ou devesse ser conhecida pelo outro contratante (consilium fraudis).
+P: Fraude em ato oneroso || Insolvência notória ou cognoscível || Exige conluio
+K: fraude contra credores; contrato oneroso; consilium fraudis
+
+@CC 160
+I: O adquirente que ainda não pagou o preço, se próximo ao de mercado, libera-se depositando-o em juízo; se inferior, pode depositar o valor real para conservar os bens.
+P: Depósito do preço em juízo || Complementação até o valor real || Conservação dos bens
+K: fraude contra credores; depósito; adquirente
+
+@CC 161
+I: A ação pauliana pode ser proposta contra o devedor insolvente, quem com ele contratou e terceiros adquirentes de má-fé.
+P: Legitimidade passiva || Litisconsórcio || Terceiro de má-fé
+K: ação pauliana; legitimidade passiva
+
+@CC 162
+I: O credor quirografário que receber do devedor insolvente dívida ainda não vencida deve restituir o valor ao acervo do concurso de credores.
+P: Pagamento antecipado fraudulento || Restituição ao acervo || Igualdade entre credores
+K: fraude contra credores; pagamento antecipado
+
+@CC 163
+I: Presumem-se fraudulentas as garantias dadas pelo devedor insolvente a algum credor.
+P: Presunção de fraude || Garantias reais concedidas || Proteção dos demais credores
+K: fraude contra credores; garantias; presunção
+
+@CC 164
+I: Presumem-se de boa-fé e válidos os negócios ordinários indispensáveis ao funcionamento do estabelecimento ou à subsistência do devedor e de sua família.
+P: Negócios ordinários preservados || Manutenção da atividade || Subsistência familiar
+K: fraude contra credores; boa-fé; subsistência
+
+@CC 165
+I: Anulado o negócio fraudulento, a vantagem volta ao acervo do concurso de credores. Se o negócio só criou preferência por garantia real, anula-se apenas a preferência.
+P: Retorno ao acervo comum || Anulação limitada da preferência || Benefício coletivo
+K: fraude contra credores; efeitos; preferência
+
+@CC 166
+I: É nulo o negócio celebrado por absolutamente incapaz, com objeto ilícito, impossível ou indeterminável, motivo determinante comum ilícito, sem a forma legal, sem solenidade essencial, que vise fraudar lei imperativa ou que a lei declare nulo.
+P: Hipóteses de nulidade absoluta || Fraude à lei imperativa || Nulidade textual e virtual
+K: nulidade; negócio nulo; fraude à lei
+
+@CC 167
+I: O negócio simulado é nulo, mas subsiste o dissimulado se válido na substância e na forma. Há simulação quando o negócio aparenta transmitir direitos a pessoas diversas, contém declaração falsa ou tem data falsa; terceiros de boa-fé são protegidos.
+P: Simulação gera nulidade || Aproveitamento do negócio dissimulado || Proteção de terceiros de boa-fé
+K: simulação; nulidade; negócio dissimulado
+
+@CC 168
+I: As nulidades podem ser alegadas por qualquer interessado ou pelo MP e devem ser declaradas de ofício pelo juiz, que não pode supri-las, nem a pedido das partes.
+P: Legitimidade ampla || Reconhecimento de ofício || Insuprível
+K: nulidade; reconhecimento de ofício; Ministério Público
+
+@CC 169
+I: O negócio nulo não pode ser confirmado nem convalesce com o tempo. A pretensão declaratória de nulidade é imprescritível, embora efeitos patrimoniais possam prescrever.
+P: Inconfirmabilidade || Não convalesce pelo tempo || Imprescritibilidade da declaração
+K: nulidade; confirmação; imprescritibilidade
+
+@CC 170
+I: O negócio nulo que contenha os requisitos de outro subsiste como este, se as partes o teriam querido prevendo a nulidade (conversão substancial).
+P: Conversão do negócio nulo || Vontade hipotética das partes || Conservação
+K: conversão; negócio nulo; conservação
+
+@CC 171
+I: Além dos casos legais, é anulável o negócio por incapacidade relativa ou por erro, dolo, coação, estado de perigo, lesão ou fraude contra credores.
+P: Anulabilidade || Incapacidade relativa || Vícios do consentimento e social
+K: anulabilidade; vícios do consentimento; incapacidade relativa
+
+@CC 172
+I: O negócio anulável pode ser confirmado pelas partes, ressalvados direitos de terceiros.
+P: Confirmação possível || Proteção de terceiros || Convalidação
+K: confirmação; anulabilidade
+
+@CC 173
+I: A confirmação deve conter a substância do negócio e a vontade expressa de mantê-lo.
+P: Requisitos da confirmação || Vontade expressa || Identificação do negócio
+K: confirmação; requisitos
+
+@CC 174
+I: Dispensa-se a confirmação expressa quando o devedor, ciente do vício, cumpre parte do negócio (confirmação tácita).
+P: Confirmação tácita || Cumprimento parcial consciente || Vedação de comportamento contraditório
+K: confirmação tácita; cumprimento
+
+@CC 175
+I: A confirmação ou a execução voluntária do negócio anulável extingue as ações e exceções do devedor contra ele.
+P: Extinção das ações || Renúncia ao direito de anular || Segurança
+K: confirmação; extinção de ações
+
+@CC 176
+I: Se a anulabilidade decorre da falta de autorização de terceiro, o negócio se valida com a autorização posterior.
+P: Autorização posterior || Convalidação || Ex.: outorga conjugal
+K: autorização; convalidação; anulabilidade
+
+@CC 177
+I: A anulabilidade só produz efeitos após sentença, não pode ser declarada de ofício e só aproveita a quem a alegar, salvo solidariedade ou indivisibilidade.
+P: Depende de sentença || Não se declara de ofício || Efeito pessoal
+K: anulabilidade; sentença; legitimidade
+
+@CC 178
+I: O prazo decadencial para anular o negócio é de 4 anos, contado da cessação da coação, da celebração (erro, dolo, fraude, estado de perigo e lesão) ou da cessação da incapacidade.
+P: Decadência de 4 anos || Termos iniciais distintos || Vícios do consentimento
+K: decadência; anulação; prazo de 4 anos
+
+@CC 179
+I: Quando a lei declarar o ato anulável sem fixar prazo, a anulação deve ser pedida em 2 anos da conclusão do ato.
+P: Prazo supletivo de 2 anos || Conclusão do ato || Ex.: venda de ascendente a descendente (art. 496)
+K: decadência; prazo de 2 anos; anulabilidade
+
+@CC 180
+I: O menor entre 16 e 18 anos não pode invocar a idade para fugir da obrigação se a ocultou dolosamente ou se declarou maior.
+P: Malícia do menor || Vedação de beneficiar-se do próprio dolo || Proteção do contratante de boa-fé
+K: menor relativamente incapaz; dolo; malícia
+
+@CC 181
+I: Quem pagou a incapaz em obrigação anulada só recupera o valor se provar que reverteu em proveito dele.
+P: Proteção do incapaz || Prova do proveito || Vedação do enriquecimento sem causa
+K: incapaz; restituição; proveito
+
+@CC 182
+I: Anulado o negócio, as partes voltam ao estado anterior; se impossível, há indenização pelo equivalente.
+P: Retorno ao status quo ante || Indenização pelo equivalente || Efeito da invalidação
+K: anulação; restituição; status quo ante
+
+@CC 183
+I: A invalidade do instrumento não invalida o negócio se este puder ser provado por outro meio.
+P: Distinção entre instrumento e negócio || Prova por outros meios || Conservação
+K: instrumento; prova; invalidade
+
+@CC 184
+I: A invalidade parcial não atinge a parte válida separável, respeitada a intenção das partes. A invalidade da obrigação principal alcança a acessória, mas não o contrário.
+P: Redução do negócio || Separabilidade || Acessório segue o principal
+K: invalidade parcial; redução; obrigação acessória
+
+@CC 185
+I: Aos atos jurídicos lícitos que não são negócios jurídicos (atos em sentido estrito) aplicam-se, no que couber, as regras dos negócios.
+P: Atos jurídicos em sentido estrito || Aplicação subsidiária || Ex.: reconhecimento de filho
+K: ato jurídico em sentido estrito; negócio jurídico
+
+@CC 186
+I: Comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outrem, ainda que só moral. É a base da responsabilidade civil subjetiva, com o art. 927.
+P: Conduta culposa ou dolosa || Dano, inclusive moral || Nexo causal
+K: ato ilícito; culpa; dano moral; responsabilidade civil
+
+@CC 187
+I: Também comete ato ilícito quem exerce um direito excedendo manifestamente os limites do fim econômico ou social, da boa-fé ou dos bons costumes (abuso de direito). A responsabilidade independe de culpa (Enunciado 37 da I Jornada).
+P: Abuso de direito || Critério objetivo || Limites da boa-fé e da função social
+K: abuso de direito; ato ilícito; boa-fé objetiva
+
+@CC 188
+I: Não são ilícitos os atos em legítima defesa, no exercício regular de direito ou em estado de necessidade (para remover perigo iminente), este dentro dos limites indispensáveis. Mesmo lícito, o estado de necessidade pode gerar indenização ao terceiro inocente (arts. 929 e 930).
+P: Excludentes de ilicitude || Estado de necessidade proporcional || Indenização ao terceiro inocente
+K: legítima defesa; estado de necessidade; exercício regular de direito
+
+@CC 189
+I: Violado o direito, nasce a pretensão, que se extingue pela prescrição nos prazos dos arts. 205 e 206. O prazo começa, em regra, da violação; o STJ admite a teoria da actio nata subjetiva em certos casos (ciência da lesão).
+P: Nascimento da pretensão || Prescrição extingue a pretensão || Actio nata
+K: prescrição; pretensão; actio nata
+
+@CC 190
+I: A exceção prescreve no mesmo prazo da pretensão.
+P: Simetria entre pretensão e exceção || Exceções dependentes || Segurança jurídica
+K: prescrição; exceção
+
+@CC 191
+I: A renúncia à prescrição pode ser expressa ou tácita, só depois de consumada e sem prejuízo de terceiros.
+P: Renúncia só após a consumação || Expressa ou tácita || Sem prejudicar terceiros
+K: renúncia à prescrição
+
+@CC 192
+I: Os prazos prescricionais não podem ser alterados por acordo das partes.
+P: Prazos de ordem pública || Vedação de alteração convencional || Diferença da decadência convencional
+K: prescrição; prazos; inalterabilidade
+
+@CC 193
+I: A prescrição pode ser alegada em qualquer grau de jurisdição pela parte beneficiada. Nos tribunais superiores, exige prequestionamento; e o juiz pode reconhecê-la de ofício (CPC, art. 487, II).
+P: Alegação a qualquer tempo nas instâncias ordinárias || Prequestionamento nos tribunais superiores || Reconhecimento de ofício
+K: prescrição; alegação; grau de jurisdição
+
+@CC 195
+I: Relativamente incapazes e pessoas jurídicas têm ação contra assistentes ou representantes que derem causa à prescrição ou não a alegarem.
+P: Responsabilidade do representante || Proteção dos relativamente incapazes || Pessoas jurídicas
+K: prescrição; responsabilidade do representante
+
+@CC 196
+I: A prescrição iniciada contra uma pessoa continua contra seu sucessor.
+P: Continuidade do prazo || Sucessores herdam o prazo em curso || Accessio temporis
+K: prescrição; sucessor
+
+@CC 197
+I: Não corre prescrição entre cônjuges na constância da sociedade conjugal, entre ascendentes e descendentes durante o poder familiar, e entre tutelados ou curatelados e seus tutores ou curadores. O STJ estende a regra aos companheiros.
+P: Causas impeditivas e suspensivas || Relações de confiança || Companheiros incluídos
+K: prescrição; suspensão; cônjuges; poder familiar
+
+@CC 198
+I: Também não corre prescrição contra os absolutamente incapazes (menores de 16), contra ausentes do país em serviço público e contra os que servem às Forças Armadas em tempo de guerra.
+P: Proteção dos absolutamente incapazes || Serviço público no exterior || Forças Armadas em guerra
+K: prescrição; incapaz; suspensão
+
+@CC 199
+I: Não corre prescrição pendente condição suspensiva, antes do vencimento do prazo ou pendente ação de evicção.
+P: Condição suspensiva pendente || Prazo não vencido || Ação de evicção
+K: prescrição; condição suspensiva; evicção
+
+@CC 200
+I: Se a ação civil decorre de fato a ser apurado no juízo criminal, a prescrição não corre antes da sentença penal definitiva. O STJ aplica a regra quando há ação penal ou inquérito efetivamente instaurado.
+P: Dependência do juízo criminal || Prescrição suspensa até a sentença penal || Exige processo penal instaurado
+K: prescrição; juízo criminal; sentença penal
+
+@CC 201
+I: Suspensa a prescrição em favor de um credor solidário, os outros só se beneficiam se a obrigação for indivisível.
+P: Efeito pessoal da suspensão || Exceção: indivisibilidade || Credores solidários
+K: prescrição; solidariedade; suspensão
+
+@CC 202
+I: A prescrição só pode ser interrompida uma vez: pelo despacho que ordena a citação, protesto judicial ou cambial, habilitação do crédito em inventário ou concurso, ato judicial que constitua o devedor em mora ou ato inequívoco de reconhecimento do direito pelo devedor. Interrompida, recomeça do ato interruptivo ou do último ato do processo.
+P: Interrupção única || Hipóteses taxativas || Prazo reinicia por inteiro
+K: interrupção da prescrição; citação; protesto; reconhecimento da dívida
+
+@CC 203
+I: Qualquer interessado pode interromper a prescrição.
+P: Legitimidade ampla || Interesse jurídico || Credores e terceiros
+K: interrupção da prescrição; legitimidade
+
+@CC 204
+I: A interrupção por um credor não beneficia os outros, nem a feita contra um codevedor prejudica os demais, salvo na solidariedade (que alcança todos) e na indivisibilidade. A interrupção contra o devedor principal alcança o fiador.
+P: Efeito pessoal da interrupção || Exceção da solidariedade || Fiador alcançado
+K: interrupção da prescrição; solidariedade; fiador
+
+@CC 205
+I: Quando a lei não fixar prazo menor, a prescrição ocorre em 10 anos. O STJ aplica esse prazo à responsabilidade civil contratual (inadimplemento).
+P: Prazo geral de 10 anos || Aplicação residual || Responsabilidade contratual (STJ)
+K: prescrição; prazo geral; dez anos
+
+@CC 206
+I: Fixa prazos especiais de prescrição: 1 ano (hospedeiros, emolumentos, peritos, credores contra sócios após liquidação); 2 anos (prestações alimentares vencidas); 3 anos (aluguéis, juros, enriquecimento sem causa, reparação civil extracontratual, títulos de crédito, seguro obrigatório de responsabilidade civil); 4 anos (tutela); 5 anos (dívidas líquidas em instrumento, honorários de profissionais liberais e despesas do vencedor). A prescrição do seguro passou à Lei nº 15.040/2024.
+P: Prazos especiais de 1 a 5 anos || Reparação civil extracontratual em 3 anos || Dívidas líquidas e honorários em 5 anos
+K: prescrição; prazos especiais; reparação civil; dívida líquida; aluguéis
+
+@CC 206-A
+I: A prescrição intercorrente segue o mesmo prazo da pretensão, observadas as causas de impedimento, suspensão e interrupção e o art. 921 do CPC.
+P: Prescrição intercorrente || Mesmo prazo da pretensão || Integração com o CPC
+K: prescrição intercorrente; execução; CPC art. 921
+
+@CC 207
+I: Salvo lei em contrário, as causas que impedem, suspendem ou interrompem a prescrição não se aplicam à decadência.
+P: Decadência corre sem interrupção || Exceções legais || Diferença da prescrição
+K: decadência; suspensão; interrupção
+
+@CC 208
+I: Aplicam-se à decadência a ação contra o representante que lhe deu causa e a regra que impede o prazo contra absolutamente incapazes.
+P: Exceções à regra do art. 207 || Proteção do incapaz || Responsabilidade do representante
+K: decadência; incapaz
+
+@CC 209
+I: É nula a renúncia à decadência fixada em lei.
+P: Decadência legal irrenunciável || Ordem pública || Nulidade da renúncia
+K: decadência legal; renúncia
+
+@CC 210
+I: O juiz deve reconhecer de ofício a decadência legal.
+P: Conhecimento de ofício || Decadência legal || Ordem pública
+K: decadência; reconhecimento de ofício
+
+@CC 211
+I: A decadência convencional pode ser alegada em qualquer grau de jurisdição pela parte beneficiada, mas o juiz não pode reconhecê-la de ofício.
+P: Decadência convencional || Alegação da parte || Vedação de reconhecimento de ofício
+K: decadência convencional
+
+@CC 212
+I: Salvo forma especial, o fato jurídico pode ser provado por confissão, documento, testemunha, presunção ou perícia. O CPC admite também outros meios legais e moralmente legítimos (art. 369).
+P: Meios de prova || Forma especial prevalece || Complementação pelo CPC
+K: prova; meios de prova; confissão; documento; perícia
+
+@CC 213
+I: A confissão só é eficaz se feita por quem pode dispor do direito; feita por representante, vale nos limites dos poderes.
+P: Capacidade de dispor || Limites da representação || Direitos indisponíveis
+K: confissão; eficácia; representante
+
+@CC 214
+I: A confissão é irrevogável, mas pode ser anulada por erro de fato ou coação.
+P: Irrevogabilidade || Anulação por erro de fato || Anulação por coação
+K: confissão; irrevogabilidade; anulação
+
+@CC 215
+I: A escritura pública lavrada por tabelião tem fé pública e faz prova plena. Lista seus requisitos: data, local, identidade e capacidade das partes, qualificação, manifestação de vontade, leitura e assinaturas.
+P: Fé pública e prova plena || Requisitos formais da escritura || Presunção relativa de veracidade
+K: escritura pública; fé pública; tabelião
+
+@CC 216
+I: Certidões textuais de peças judiciais e traslados conferidos pelo escrivão fazem a mesma prova que os originais.
+P: Certidões judiciais || Equivalência aos originais || Fé pública do escrivão
+K: certidão; prova documental
+
+@CC 217
+I: Traslados e certidões extraídos por tabelião ou registrador de documentos lançados em suas notas têm a mesma força probante dos originais.
+P: Força probante dos traslados || Tabelião e registrador || Fé pública
+K: traslado; certidão; tabelião
+
+@CC 218
+I: Traslados e certidões são instrumentos públicos se os originais foram produzidos em juízo como prova.
+P: Natureza pública || Originais produzidos em juízo || Valor probatório
+K: traslado; instrumento público
+
+@CC 219
+I: As declarações em documento assinado presumem-se verdadeiras em relação aos signatários; as meramente enunciativas, sem relação direta com as disposições principais, devem ser provadas.
+P: Presunção de veracidade || Declarações dispositivas × enunciativas || Ônus da prova
+K: documento particular; presunção; declarações enunciativas
+
+@CC 220
+I: A anuência ou autorização necessária à validade de um ato prova-se pela mesma forma do ato e, se possível, consta do próprio instrumento.
+P: Simetria de forma || Constar do instrumento || Ex.: outorga conjugal
+K: autorização; anuência; forma
+
+@CC 221
+I: O instrumento particular assinado por quem tem livre disposição dos bens prova obrigações de qualquer valor, mas só produz efeitos perante terceiros após registro. A prova pode ser suprida por outros meios.
+P: Prova de obrigações de qualquer valor || Eficácia perante terceiros exige registro || Suprimento por outras provas
+K: instrumento particular; registro; terceiros
+
+@CC 222
+I: O telegrama contestado faz prova mediante conferência com o original assinado.
+P: Prova por telegrama || Conferência com o original || Autenticidade
+K: telegrama; prova
+
+@CC 223
+I: A cópia fotográfica autenticada por tabelião vale como prova, mas, impugnada, exige-se o original. A cópia não substitui o título de crédito ou o original quando a lei exigir a apresentação deste.
+P: Cópia autenticada || Exibição do original se impugnada || Títulos de crédito exigem original
+K: cópia autenticada; prova; título de crédito

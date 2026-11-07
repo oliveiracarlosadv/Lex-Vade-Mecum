@@ -1,0 +1,499 @@
+@CC 833
+I: O fiador que paga tem direito aos juros do desembolso pela taxa da obrigação principal ou, sem taxa, aos juros legais.
+P: Juros do desembolso || Taxa da obrigação principal || Juros legais supletivos
+K: fiança; juros; reembolso
+
+@CC 834
+I: Se o credor, sem justa causa, retardar a execução contra o devedor, o fiador pode promover seu andamento.
+P: Impulso da execução pelo fiador || Demora injustificada || Proteção do fiador
+K: fiança; execução
+
+@CC 835
+I: O fiador de fiança sem prazo pode exonerar-se quando quiser, por notificação ao credor, respondendo por mais 60 dias. Na locação urbana, a Lei do Inquilinato prevê 120 dias (art. 40, X).
+P: Exoneração na fiança sem prazo || 60 dias após notificação || Regra especial da locação
+K: fiança; exoneração; notificação
+
+@CC 836
+I: A obrigação do fiador passa aos herdeiros, limitada ao tempo até a morte do fiador e às forças da herança.
+P: Transmissão aos herdeiros || Limite temporal || Forças da herança
+K: fiança; herdeiros
+
+@CC 837
+I: O fiador pode opor suas exceções pessoais e as extintivas do devedor principal, salvo as de mera incapacidade pessoal, exceto no mútuo a menor.
+P: Exceções pessoais do fiador || Exceções do devedor || Incapacidade pessoal excluída
+K: fiança; exceções
+
+@CC 838
+I: O fiador, ainda que solidário, se libera se o credor der moratória sem seu consentimento, se tornar impossível a sub-rogação ou se aceitar dação em pagamento e depois perder a coisa por evicção.
+P: Moratória sem anuência || Impossibilidade de sub-rogação || Dação seguida de evicção
+K: fiança; exoneração; moratória
+
+@CC 839
+I: Se o fiador invocou o benefício de ordem e o devedor ficou insolvente pela demora na execução, o fiador se libera provando que os bens indicados eram suficientes.
+P: Benefício de excussão || Demora do credor || Exoneração do fiador
+K: fiança; benefício de ordem; insolvência
+
+@CC 840
+I: Os interessados podem prevenir ou terminar litígio por concessões mútuas (transação).
+P: Concessões recíprocas || Prevenção ou extinção de litígio || Negócio jurídico bilateral
+K: transação; concessões mútuas
+
+@CC 841
+I: Só direitos patrimoniais de caráter privado admitem transação.
+P: Direitos patrimoniais privados || Indisponíveis excluídos || Limite objetivo
+K: transação; direitos patrimoniais
+
+@CC 842
+I: A transação exige escritura pública quando a lei a exigir, e instrumento particular nos demais casos; sobre direitos em juízo, faz-se por escritura ou termo nos autos, homologado pelo juiz.
+P: Forma conforme a lei || Termo nos autos || Homologação judicial
+K: transação; forma; homologação
+
+@CC 843
+I: A transação interpreta-se restritivamente e só declara ou reconhece direitos, sem transmiti-los.
+P: Interpretação restritiva || Natureza declaratória || Não transmite direitos
+K: transação; interpretação
+
+@CC 844
+I: A transação só vincula quem dela participou, ainda que sobre coisa indivisível; entre credor e devedor libera o fiador; com um credor solidário, extingue a dívida perante os outros; com um devedor solidário, libera os codevedores.
+P: Efeito relativo || Liberação do fiador || Efeitos na solidariedade
+K: transação; efeitos; solidariedade
+
+@CC 845
+I: A evicção da coisa transacionada não revive a obrigação extinta, mas dá direito a perdas e danos; direito adquirido depois sobre a coisa não é atingido pela transação.
+P: Evicção não revive a obrigação || Perdas e danos || Direito superveniente preservado
+K: transação; evicção
+
+@CC 846
+I: A transação sobre obrigações de delito não extingue a ação penal pública.
+P: Independência das esferas || Ação penal pública || Efeito só civil
+K: transação; ação penal
+
+@CC 847
+I: É admissível cláusula penal na transação.
+P: Pena convencional || Garantia do cumprimento || Autonomia
+K: transação; cláusula penal
+
+@CC 848
+I: Nula uma cláusula, nula é a transação (indivisibilidade); se tratar de direitos independentes, a nulidade de um não afeta os demais.
+P: Indivisibilidade da transação || Direitos independentes || Nulidade parcial
+K: transação; nulidade
+
+@CC 849
+I: A transação só se anula por dolo, coação ou erro essencial quanto à pessoa ou coisa; não por erro de direito sobre as questões controvertidas.
+P: Anulação restrita || Erro de direito irrelevante || Segurança da transação
+K: transação; anulação; erro
+
+@CC 850
+I: É nula a transação sobre litígio já decidido por sentença transitada, se um dos transatores não sabia, ou se título posterior mostrar que nenhum tinha direito.
+P: Coisa julgada ignorada || Título superveniente || Nulidade
+K: transação; coisa julgada; nulidade
+
+@CC 851
+I: Admite-se compromisso, judicial ou extrajudicial, para resolver litígios entre pessoas capazes de contratar.
+P: Compromisso arbitral || Capacidade de contratar || Judicial ou extrajudicial
+K: compromisso; arbitragem
+
+@CC 852
+I: É vedado compromisso sobre questões de estado, direito pessoal de família e outras não estritamente patrimoniais.
+P: Matérias excluídas || Direitos indisponíveis || Arbitrabilidade objetiva
+K: compromisso; arbitrabilidade
+
+@CC 853
+I: Admite-se cláusula compromissória nos contratos, na forma da lei especial (Lei nº 9.307/1996, Lei de Arbitragem).
+P: Cláusula compromissória || Lei de Arbitragem || Juízo arbitral
+K: cláusula compromissória; arbitragem; Lei 9.307
+
+@CC 853-A
+I: Qualquer garantia pode ser constituída, registrada, gerida e executada por agente de garantia designado pelos credores, que age em nome próprio em benefício deles, com deveres fiduciários e patrimônio separado para os valores recebidos (Marco Legal das Garantias, Lei nº 14.711/2023).
+P: Agente de garantia || Atuação em nome próprio || Patrimônio separado
+K: agente de garantia; administração fiduciária; Lei 14.711/2023
+
+@CC 854
+I: Quem promete publicamente recompensa a quem preencher condição ou prestar serviço obriga-se a cumprir (declaração unilateral de vontade).
+P: Promessa de recompensa || Anúncio público || Vinculação unilateral
+K: promessa de recompensa; declaração unilateral
+
+@CC 855
+I: Quem fizer o serviço ou cumprir a condição pode exigir a recompensa, ainda que não tenha agido pelo interesse nela.
+P: Direito à recompensa || Independente da motivação || Exigibilidade
+K: promessa de recompensa
+
+@CC 856
+I: O promitente pode revogar a promessa antes da execução, com a mesma publicidade; se fixou prazo, renuncia a revogar nesse prazo. O candidato de boa-fé que fez despesas tem reembolso.
+P: Revogação com igual publicidade || Prazo impede revogação || Reembolso de despesas
+K: promessa de recompensa; revogação
+
+@CC 857
+I: Se vários praticarem o ato, a recompensa é de quem o fez primeiro.
+P: Prioridade temporal || Primeiro executor || Critério de atribuição
+K: promessa de recompensa; prioridade
+
+@CC 858
+I: Se a execução for simultânea, divide-se a recompensa; se indivisível, sorteia-se, e quem a obtiver paga ao outro o valor de sua parte.
+P: Divisão igual || Sorteio se indivisível || Compensação ao outro
+K: promessa de recompensa; sorteio
+
+@CC 859
+I: Nos concursos com promessa pública de recompensa, é essencial fixar prazo; a decisão do julgador obriga os interessados e, sem julgador, cabe ao promitente decidir.
+P: Prazo essencial || Decisão do julgador || Mérito igual: regras de divisão
+K: concurso; promessa de recompensa
+
+@CC 860
+I: As obras premiadas só pertencem ao promitente se isso constar da publicação.
+P: Titularidade da obra || Previsão expressa || Proteção do autor
+K: concurso; obra premiada
+
+@CC 861
+I: Quem, sem autorização, administra negócio alheio deve agir conforme o interesse e a vontade presumível do dono, respondendo perante ele e terceiros (gestão de negócios).
+P: Gestão sem mandato || Vontade presumível do dono || Responsabilidade do gestor
+K: gestão de negócios
+
+@CC 862
+I: Se a gestão começou contra a vontade manifesta ou presumível do dono, o gestor responde até por caso fortuito, salvo prova de que ocorreria de qualquer modo.
+P: Gestão contra a vontade || Responsabilidade agravada || Caso fortuito
+K: gestão de negócios; responsabilidade
+
+@CC 863
+I: Nesse caso, se os prejuízos superarem o proveito, o dono pode exigir a restituição ao estado anterior ou indenização da diferença.
+P: Restituição ao estado anterior || Indenização da diferença || Escolha do dono
+K: gestão de negócios; restituição
+
+@CC 864
+I: O gestor deve comunicar a gestão ao dono assim que possível e aguardar resposta, se não houver perigo.
+P: Dever de comunicação || Aguardar instruções || Ressalva do perigo
+K: gestão de negócios; comunicação
+
+@CC 865
+I: Até o dono providenciar, o gestor zela pelo negócio até concluí-lo; se o dono morrer, aguarda os herdeiros sem descuidar das medidas urgentes.
+P: Continuidade da gestão || Morte do dono || Medidas urgentes
+K: gestão de negócios; continuidade
+
+@CC 866
+I: O gestor deve agir com diligência habitual e indenizar o prejuízo por culpa sua.
+P: Diligência habitual || Responsabilidade por culpa || Ressarcimento
+K: gestão de negócios; diligência
+
+@CC 867
+I: O gestor que se faz substituir responde pelas faltas do substituto, ainda que idôneo; havendo vários gestores, são solidários.
+P: Responsabilidade pelo substituto || Solidariedade entre gestores || Ação contra o substituto
+K: gestão de negócios; substituição; solidariedade
+
+@CC 868
+I: O gestor responde por fortuito se fizer operações arriscadas ou preferir seus interesses aos do dono; se o dono quiser aproveitar a gestão, indeniza as despesas e prejuízos.
+P: Operações arriscadas || Conflito de interesses || Aproveitamento pelo dono
+K: gestão de negócios; caso fortuito
+
+@CC 869
+I: Se o negócio foi utilmente administrado, o dono cumpre as obrigações assumidas em seu nome e reembolsa as despesas necessárias ou úteis, com juros, e os prejuízos do gestor; a utilidade se mede pelas circunstâncias da ocasião.
+P: Gestão útil || Reembolso com juros || Utilidade aferida na ocasião
+K: gestão de negócios; reembolso
+
+@CC 870
+I: O mesmo vale para a gestão que acode a prejuízos iminentes ou gera proveito ao dono, mas a indenização não pode exceder as vantagens obtidas.
+P: Gestão de urgência || Proveito do dono || Limite das vantagens
+K: gestão de negócios; urgência
+
+@CC 871
+I: Quem presta alimentos no lugar do devedor ausente pode cobrar dele o valor, mesmo sem ratificação.
+P: Alimentos prestados por terceiro || Reembolso || Dispensa ratificação
+K: gestão de negócios; alimentos
+
+@CC 872
+I: As despesas do enterro, conforme usos e condição do falecido, feitas por terceiro, podem ser cobradas de quem devia alimentá-lo, mesmo sem bens deixados, salvo intenção de beneficiar.
+P: Despesas de funeral || Responsável por alimentos || Exceção da liberalidade
+K: gestão de negócios; funeral
+
+@CC 873
+I: A ratificação pura e simples pelo dono retroage ao início da gestão e produz os efeitos do mandato.
+P: Ratificação retroativa || Efeitos do mandato || Convalidação
+K: gestão de negócios; ratificação
+
+@CC 874
+I: Se o dono desaprovar a gestão como contrária a seus interesses, aplicam-se os arts. 862 e 863, salvo nos casos de gestão útil ou de urgência.
+P: Desaprovação || Responsabilidade do gestor || Exceções da utilidade e urgência
+K: gestão de negócios; desaprovação
+
+@CC 875
+I: Se os negócios alheios forem conexos aos do gestor e inseparáveis, ele é tratado como sócio; o dono só responde pelas vantagens que obtiver.
+P: Negócios conexos || Gestor como sócio || Limite das vantagens
+K: gestão de negócios; negócios conexos
+
+@CC 876
+I: Quem recebe o que não lhe era devido deve restituir, inclusive quem recebe dívida condicional antes da condição.
+P: Repetição do indébito || Dívida condicional antecipada || Vedação do enriquecimento
+K: pagamento indevido; repetição do indébito
+
+@CC 877
+I: Quem pagou voluntariamente o indevido deve provar que o fez por erro. Para o STJ, nas relações bancárias essa prova é dispensada (Súmula 322 do STJ).
+P: Prova do erro || Pagamento voluntário || Súmula 322 do STJ
+K: pagamento indevido; erro; Súmula 322 STJ
+
+@CC 878
+I: Frutos, acessões, benfeitorias e deteriorações da coisa paga indevidamente seguem as regras do possuidor de boa-fé ou de má-fé.
+P: Regras possessórias || Boa-fé ou má-fé || Acessórios da coisa
+K: pagamento indevido; frutos; benfeitorias
+
+@CC 879
+I: Quem recebeu indevidamente imóvel e o vendeu de boa-fé responde só pelo preço; de má-fé, pelo valor e perdas e danos. Se o terceiro adquiriu gratuitamente ou de má-fé, cabe reivindicação.
+P: Alienação de boa-fé: restitui o preço || Má-fé: valor e perdas e danos || Reivindicação contra terceiro
+K: pagamento indevido; imóvel; reivindicação
+
+@CC 880
+I: Fica isento de restituir quem recebeu como parte de dívida verdadeira e inutilizou o título, deixou prescrever ou abriu mão das garantias; quem pagou cobra do verdadeiro devedor.
+P: Isenção de restituir || Perda do título ou garantias || Regresso contra o devedor real
+K: pagamento indevido; isenção
+
+@CC 881
+I: Se o pagamento indevido foi obrigação de fazer ou para fugir de não fazer, quem recebeu indeniza na medida do lucro obtido.
+P: Prestações de fazer || Indenização pelo lucro || Enriquecimento
+K: pagamento indevido; obrigação de fazer
+
+@CC 882
+I: Não se pode repetir o que se pagou de dívida prescrita ou de obrigação judicialmente inexigível (obrigação natural).
+P: Irrepetibilidade || Dívida prescrita || Obrigação natural
+K: pagamento indevido; dívida prescrita; obrigação natural
+
+@CC 883
+I: Quem deu algo para obter fim ilícito, imoral ou proibido não tem direito à repetição; o valor reverte a estabelecimento local de beneficência, a critério do juiz.
+P: Torpeza bilateral || Sem repetição || Destinação à beneficência
+K: pagamento indevido; fim ilícito
+
+@CC 884
+I: Quem se enriquece sem justa causa à custa de outrem deve restituir o indevido, com correção monetária; se for coisa determinada, restitui a coisa ou seu valor.
+P: Enriquecimento sem causa || Restituição corrigida || Coisa ou valor
+K: enriquecimento sem causa; restituição
+
+@CC 885
+I: A restituição é devida quando não houve causa ou quando ela deixou de existir.
+P: Ausência de causa originária || Causa superveniente extinta || Restituição
+K: enriquecimento sem causa; causa
+
+@CC 886
+I: Não cabe ação de enriquecimento se a lei der ao lesado outro meio de ressarcimento (subsidiariedade).
+P: Caráter subsidiário || Outros meios legais || Ação in rem verso
+K: enriquecimento sem causa; subsidiariedade
+
+@CC 887
+I: O título de crédito é documento necessário ao exercício do direito literal e autônomo nele contido e só produz efeitos se cumprir os requisitos legais.
+P: Cartularidade, literalidade e autonomia || Requisitos legais || Conceito de Vivante
+K: título de crédito; cartularidade; literalidade; autonomia
+
+@CC 888
+I: A falta de requisito que invalide o título não invalida o negócio que lhe deu origem.
+P: Independência do negócio subjacente || Título inválido || Cobrança pela relação causal
+K: título de crédito; negócio subjacente
+
+@CC 889
+I: O título deve conter data de emissão, indicação precisa dos direitos e assinatura do emitente; sem vencimento, é à vista; sem lugar, considera-se o domicílio do emitente. Pode ser emitido eletronicamente.
+P: Requisitos mínimos || À vista sem vencimento || Título eletrônico
+K: título de crédito; requisitos; título eletrônico
+
+@CC 890
+I: Consideram-se não escritas no título as cláusulas de juros, proibitiva de endosso, excludente de responsabilidade, dispensa de formalidades e as que limitem obrigações além do previsto em lei.
+P: Cláusulas não escritas || Proteção da circulação || Regime do Código
+K: título de crédito; cláusulas vedadas
+
+@CC 891
+I: O título emitido incompleto deve ser preenchido conforme o ajustado; o descumprimento não pode ser oposto ao portador de boa-fé (Súmula 387 do STF).
+P: Título em branco || Preenchimento conforme ajuste || Proteção do portador de boa-fé
+K: título de crédito; título em branco; Súmula 387 STF
+
+@CC 892
+I: Quem assina título sem poderes ou excedendo-os, como representante, obriga-se pessoalmente e, pagando, tem os direitos do suposto representado.
+P: Representação sem poderes || Responsabilidade pessoal || Direitos ao pagar
+K: título de crédito; representação
+
+@CC 893
+I: A transferência do título implica a de todos os direitos a ele inerentes.
+P: Transmissão integral || Direitos inerentes || Circulação
+K: título de crédito; transferência
+
+@CC 894
+I: O portador de título representativo de mercadoria pode transferi-lo conforme suas regras de circulação ou receber a mercadoria com a entrega do título devidamente quitado.
+P: Títulos representativos || Circulação || Recebimento da mercadoria
+K: título representativo; mercadoria
+
+@CC 895
+I: Enquanto o título circula, só ele pode ser dado em garantia ou sofrer medidas judiciais, não os direitos ou mercadorias que representa.
+P: Incorporação do direito ao título || Garantia e constrição do título || Circulação
+K: título de crédito; penhora; garantia
+
+@CC 896
+I: O título não pode ser reivindicado de quem o adquiriu de boa-fé conforme as regras de circulação.
+P: Proteção do adquirente de boa-fé || Irreivindicabilidade || Segurança da circulação
+K: título de crédito; boa-fé; reivindicação
+
+@CC 897
+I: O pagamento de título com soma determinada pode ser garantido por aval; é vedado o aval parcial (regra aplicável aos títulos sem lei especial).
+P: Aval || Vedação de aval parcial || Supletividade às leis especiais
+K: aval; título de crédito
+
+@CC 898
+I: O aval é dado no verso ou no anverso do título; no anverso basta a assinatura do avalista; o aval cancelado considera-se não escrito.
+P: Lugar do aval || Simples assinatura no anverso || Aval cancelado
+K: aval; forma
+
+@CC 899
+I: O avalista equipara-se ao avalizado indicado ou, sem indicação, ao emitente; pagando, tem regresso contra o avalizado e coobrigados anteriores; sua obrigação subsiste mesmo se nula a do avalizado, salvo vício de forma.
+P: Equiparação ao avalizado || Regresso || Autonomia do aval
+K: aval; avalista; autonomia
+
+@CC 900
+I: O aval dado após o vencimento tem os mesmos efeitos do anterior.
+P: Aval póstumo || Mesmos efeitos || Garantia mantida
+K: aval; vencimento
+
+@CC 901
+I: O devedor que paga ao portador legítimo no vencimento, sem oposição, fica desonerado, salvo má-fé; pode exigir o título quitado ou quitação regular.
+P: Pagamento liberatório || Portador legítimo || Entrega do título
+K: título de crédito; pagamento
+
+@CC 902
+I: O credor não é obrigado a receber antes do vencimento, e quem paga antes responde pela validade do pagamento; no vencimento, não pode recusar pagamento parcial, devendo dar quitação em separado.
+P: Pagamento antecipado por risco do devedor || Pagamento parcial no vencimento || Quitação em separado
+K: título de crédito; pagamento antecipado
+
+@CC 903
+I: Salvo lei especial, os títulos de crédito regem-se por este Código; as leis da letra de câmbio, nota promissória, cheque e duplicata prevalecem.
+P: Aplicação supletiva || Prevalência das leis especiais || Títulos atípicos
+K: título de crédito; lei especial
+
+@CC 904
+I: O título ao portador transfere-se por simples tradição.
+P: Circulação por tradição || Título ao portador || Sem endosso
+K: título ao portador; tradição
+
+@CC 905
+I: O possuidor do título ao portador tem direito à prestação com sua simples apresentação, mesmo que o título tenha circulado contra a vontade do emitente.
+P: Legitimação pela posse || Apresentação || Circulação contra a vontade
+K: título ao portador
+
+@CC 906
+I: O devedor só pode opor ao portador exceção de direito pessoal ou nulidade de sua obrigação.
+P: Inoponibilidade de exceções || Exceções pessoais e nulidade || Proteção do portador
+K: título ao portador; exceções
+
+@CC 907
+I: É nulo o título ao portador emitido sem autorização de lei especial.
+P: Exigência de lei autorizadora || Nulidade || Controle da circulação
+K: título ao portador; nulidade
+
+@CC 908
+I: O possuidor de título dilacerado mas identificável pode obter substituição, devolvendo o antigo e pagando as despesas.
+P: Substituição do título || Identificável || Despesas
+K: título ao portador; substituição
+
+@CC 909
+I: O proprietário que perder o título ou for desapossado pode obter novo em juízo e impedir pagamentos a outro; o pagamento feito antes de ciência da ação libera o devedor, salvo prova de que sabia.
+P: Anulação e substituição judicial || Impedir pagamento || Proteção do devedor de boa-fé
+K: título ao portador; extravio; substituição
+
+@CC 910
+I: O endosso é lançado no verso ou anverso do título; pode indicar o endossatário; no verso basta a assinatura; a transferência completa-se com a tradição; endosso cancelado é não escrito.
+P: Forma do endosso || Endosso em branco ou em preto || Tradição
+K: endosso; título à ordem
+
+@CC 911
+I: É legítimo possuidor o portador de título à ordem com série regular e ininterrupta de endossos; quem paga deve verificar essa regularidade, mas não a autenticidade das assinaturas.
+P: Cadeia regular de endossos || Legitimação || Dever de verificação limitado
+K: endosso; legitimação
+
+@CC 912
+I: Condição posta ao endosso considera-se não escrita, e o endosso parcial é nulo.
+P: Endosso puro || Condição não escrita || Nulidade do parcial
+K: endosso; condição; endosso parcial
+
+@CC 913
+I: O endossatário de endosso em branco pode completá-lo, endossar de novo ou transferir sem novo endosso.
+P: Opções do endossatário || Endosso em branco || Circulação
+K: endosso em branco
+
+@CC 914
+I: Salvo cláusula expressa, o endossante não responde pelo pagamento; assumindo responsabilidade, torna-se devedor solidário com regresso.
+P: Endosso sem garantia como regra || Cláusula de responsabilidade || Solidariedade
+K: endosso; responsabilidade do endossante
+
+@CC 915
+I: O devedor só pode opor ao portador as exceções pessoais que tenha contra ele, as de forma e conteúdo literal, falsidade da própria assinatura, defeito de capacidade ou representação e falta de requisito para a ação.
+P: Exceções oponíveis || Abstração || Inoponibilidade das demais
+K: título de crédito; exceções
+
+@CC 916
+I: Exceções ligadas a portadores anteriores só podem ser opostas ao portador de má-fé.
+P: Inoponibilidade ao terceiro de boa-fé || Exceção da má-fé || Autonomia
+K: título de crédito; exceções; má-fé
+
+@CC 917
+I: O endosso-mandato dá ao endossatário o exercício dos direitos do título, salvo restrição; ele só pode reendossar como procurador, e o mandato não se extingue com a morte ou incapacidade do endossante. O banco que recebe por endosso-mandato só responde se exceder os poderes (Súmula 476 do STJ).
+P: Endosso-mandato || Exercício dos direitos || Súmula 476 do STJ
+K: endosso-mandato; Súmula 476 STJ
+
+@CC 918
+I: O endosso-penhor dá ao endossatário o exercício dos direitos do título; ele só pode reendossar como procurador, e o devedor não pode opor exceções pessoais que tinha contra o endossante, salvo má-fé.
+P: Endosso-penhor || Garantia || Inoponibilidade de exceções
+K: endosso-penhor; garantia
+
+@CC 919
+I: A aquisição de título à ordem por meio diverso do endosso tem efeito de cessão civil.
+P: Efeito de cessão || Exceções oponíveis || Sem autonomia
+K: título à ordem; cessão civil
+
+@CC 920
+I: O endosso posterior ao vencimento tem os mesmos efeitos do anterior.
+P: Endosso póstumo || Mesmos efeitos || Regra do Código
+K: endosso; vencimento
+
+@CC 921
+I: Título nominativo é o emitido em favor de pessoa cujo nome consta do registro do emitente.
+P: Registro do emitente || Nome do titular || Título nominativo
+K: título nominativo
+
+@CC 922
+I: Transfere-se o título nominativo por termo no registro do emitente, assinado pelo proprietário e pelo adquirente.
+P: Transferência por termo || Registro || Assinaturas
+K: título nominativo; transferência
+
+@CC 923
+I: O título nominativo também pode ser transferido por endosso em preto, eficaz perante o emitente após averbação; o endossatário pode pedir averbação ou novo título.
+P: Endosso em preto || Averbação || Novo título
+K: título nominativo; endosso
+
+@CC 924
+I: Salvo proibição legal, o título nominativo pode ser transformado em à ordem ou ao portador, a pedido e à custa do proprietário.
+P: Conversão do título || Proibição legal || Custos do proprietário
+K: título nominativo; conversão
+
+@CC 925
+I: Fica desonerado o emitente que de boa-fé fizer a transferência pelos modos legais.
+P: Proteção do emitente || Boa-fé || Modos legais
+K: título nominativo; emitente
+
+@CC 926
+I: Negócios ou medidas judiciais sobre o título nominativo só produzem efeito perante o emitente ou terceiros após averbação no registro.
+P: Averbação como condição de eficácia || Medidas judiciais || Terceiros
+K: título nominativo; averbação
+
+@CC 927
+I: Quem causar dano por ato ilícito deve repará-lo. Há responsabilidade sem culpa nos casos previstos em lei ou quando a atividade normalmente desenvolvida implicar, por sua natureza, risco aos direitos de outrem (cláusula geral de responsabilidade objetiva).
+P: Responsabilidade subjetiva como regra || Responsabilidade objetiva legal || Risco da atividade
+K: responsabilidade civil; dever de indenizar; responsabilidade objetiva; risco
+
+@CC 928
+I: O incapaz responde pelos prejuízos se seus responsáveis não tiverem obrigação ou meios de pagar; a indenização é equitativa e não pode privar o incapaz ou seus dependentes do necessário (responsabilidade subsidiária e mitigada).
+P: Responsabilidade subsidiária do incapaz || Indenização equitativa || Patrimônio mínimo
+K: incapaz; responsabilidade civil; equidade
+
+@CC 929
+I: No estado de necessidade, a vítima ou o dono da coisa que não causaram o perigo têm direito a indenização, mesmo sendo o ato lícito.
+P: Ato lícito indenizável || Vítima inocente || Estado de necessidade
+K: estado de necessidade; indenização
+
+@CC 930
+I: Se o perigo foi causado por terceiro, o autor do dano tem regresso contra ele; o mesmo vale contra quem foi defendido.
+P: Regresso contra o causador do perigo || Defesa de terceiro || Ressarcimento
+K: estado de necessidade; ação regressiva
+
+@CC 931
+I: Ressalvadas leis especiais, empresários e empresas respondem sem culpa pelos danos causados pelos produtos postos em circulação, mesmo fora das relações de consumo.
+P: Responsabilidade objetiva pelo produto || Fora do CDC || Risco do empreendimento
+K: responsabilidade pelo produto; responsabilidade objetiva; empresa

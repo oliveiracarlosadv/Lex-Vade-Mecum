@@ -1,0 +1,524 @@
+@CC 1032
+I: A retirada, exclusão ou morte do sócio não o libera, nem a seus herdeiros, das obrigações sociais anteriores, por até 2 anos após a averbação; nos casos de retirada ou exclusão, também responde pelas posteriores nesse prazo enquanto não averbada.
+P: Responsabilidade residual de 2 anos || Obrigações anteriores || Exigência de averbação
+K: retirada de sócio; responsabilidade; averbação
+
+@CC 1033
+I: A sociedade se dissolve pelo vencimento do prazo (salvo prorrogação tácita), consenso unânime, deliberação da maioria absoluta na de prazo indeterminado, extinção da autorização para funcionar e outras causas legais. A falta de pluralidade de sócios deixou de ser causa de dissolução (Lei nº 14.195/2021).
+P: Causas de dissolução de pleno direito || Prorrogação tácita || Unipessoalidade não dissolve mais
+K: dissolução; sociedade; causas
+
+@CC 1034
+I: Qualquer sócio pode pedir a dissolução judicial se a constituição for anulada ou se o fim social se exaurir ou se tornar inexequível.
+P: Dissolução judicial || Anulação da constituição || Inexequibilidade do fim
+K: dissolução judicial; sociedade
+
+@CC 1035
+I: O contrato pode prever outras causas de dissolução, verificadas judicialmente se contestadas.
+P: Causas contratuais || Verificação judicial || Autonomia
+K: dissolução; causas contratuais
+
+@CC 1036
+I: Dissolvida a sociedade, os administradores devem investir o liquidante e limitar-se aos negócios inadiáveis, respondendo solidária e ilimitadamente por novas operações; qualquer sócio pode pedir a liquidação judicial.
+P: Nomeação do liquidante || Gestão restrita || Responsabilidade por novas operações
+K: dissolução; liquidante; administradores
+
+@CC 1037
+I: Extinta a autorização para funcionar, o MP promove a liquidação judicial se os administradores não o fizerem em 30 dias; se o MP não agir em 15 dias, a autoridade nomeia interventor.
+P: Liquidação por iniciativa do MP || Prazos de 30 e 15 dias || Interventor
+K: liquidação; Ministério Público; autorização
+
+@CC 1038
+I: Sem previsão no contrato, o liquidante é eleito pelos sócios, podendo ser estranho; pode ser destituído a qualquer tempo pelos sócios ou judicialmente por justa causa.
+P: Eleição do liquidante || Estranho admitido || Destituição
+K: liquidante; eleição; destituição
+
+@CC 1039
+I: Na sociedade em nome coletivo, só pessoas físicas participam, e todos respondem solidária e ilimitadamente pelas obrigações sociais, podendo limitar entre si a responsabilidade.
+P: Sócios pessoas físicas || Responsabilidade ilimitada e solidária || Limitação interna
+K: sociedade em nome coletivo; responsabilidade ilimitada
+
+@CC 1040
+I: A sociedade em nome coletivo rege-se por este capítulo e, nas omissões, pelas regras da sociedade simples.
+P: Regência própria || Supletividade da sociedade simples || Tipo pouco usado
+K: sociedade em nome coletivo
+
+@CC 1041
+I: O contrato deve mencionar, além do art. 997, a firma social.
+P: Firma social obrigatória || Requisitos do art. 997 || Nome empresarial
+K: sociedade em nome coletivo; firma
+
+@CC 1042
+I: A administração cabe exclusivamente a sócios, e o uso da firma é privativo dos que têm poderes.
+P: Administração por sócios || Uso da firma restrito || Exclusividade
+K: sociedade em nome coletivo; administração
+
+@CC 1043
+I: O credor particular do sócio não pode pedir a liquidação da quota antes da dissolução, salvo prorrogação tácita da sociedade ou prorrogação contratual com oposição do credor acolhida.
+P: Proteção da sociedade || Exceções || Prorrogação
+K: sociedade em nome coletivo; credor do sócio
+
+@CC 1044
+I: A sociedade em nome coletivo dissolve-se pelas causas do art. 1.033 e, se empresária, também pela falência.
+P: Causas de dissolução || Falência || Remissão ao art. 1.033
+K: sociedade em nome coletivo; dissolução
+
+@CC 1045
+I: Na comandita simples há comanditados (pessoas físicas, com responsabilidade ilimitada e solidária) e comanditários (respondem só pelo valor de sua quota); o contrato discrimina uns e outros.
+P: Duas categorias de sócios || Comanditados ilimitados || Comanditários limitados
+K: sociedade em comandita simples; comanditado; comanditário
+
+@CC 1046
+I: Aplicam-se à comandita simples as regras da sociedade em nome coletivo, e os comanditados têm os direitos e deveres dos sócios desta.
+P: Supletividade || Comanditados como sócios em nome coletivo || Compatibilidade
+K: comandita simples; regime
+
+@CC 1047
+I: O comanditário pode participar das deliberações e fiscalizar, mas não pode praticar atos de gestão nem ter o nome na firma, sob pena de responder como comanditado; pode ser procurador para negócio determinado.
+P: Vedação de gestão || Nome fora da firma || Sanção de responsabilidade ilimitada
+K: comanditário; gestão
+
+@CC 1048
+I: A redução da quota do comanditário por redução do capital só vale perante terceiros após averbação, sem prejuízo de credores anteriores.
+P: Averbação || Redução de capital || Credores preexistentes
+K: comanditário; redução de capital
+
+@CC 1049
+I: O comanditário não repõe lucros recebidos de boa-fé conforme o balanço; com capital reduzido por perdas, não recebe lucros até a reintegração.
+P: Lucros de boa-fé || Reintegração do capital || Proteção dos credores
+K: comanditário; lucros
+
+@CC 1050
+I: Morrendo o comanditário, a sociedade continua com seus sucessores, salvo disposição contratual.
+P: Continuidade com sucessores || Representante designado || Disposição em contrário
+K: comanditário; morte
+
+@CC 1051
+I: Dissolve-se de pleno direito a comandita simples pelas causas do art. 1.044 ou se faltar uma das categorias de sócio por mais de 180 dias.
+P: Falta de categoria por 180 dias || Causas gerais || Administrador provisório
+K: comandita simples; dissolução
+
+@CC 1052
+I: Na limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas, mas todos respondem solidariamente pela integralização do capital. Pode ser constituída por um ou mais sócios (sociedade limitada unipessoal).
+P: Responsabilidade limitada às quotas || Solidariedade pela integralização || Limitada unipessoal
+K: sociedade limitada; responsabilidade limitada; unipessoal
+
+@CC 1053
+I: A limitada rege-se, nas omissões, pelas regras da sociedade simples, mas o contrato pode prever a regência supletiva pela Lei das S.A.
+P: Supletividade da sociedade simples || Opção pela Lei das S.A. || Contrato social
+K: sociedade limitada; regência supletiva
+
+@CC 1054
+I: O contrato da limitada menciona, no que couber, as indicações do art. 997 e, se for o caso, a firma social.
+P: Requisitos do contrato || Firma ou denominação || Art. 997
+K: sociedade limitada; contrato social
+
+@CC 1055
+I: O capital divide-se em quotas iguais ou desiguais; todos os sócios respondem solidariamente pela estimação dos bens conferidos por 5 anos; é vedada a contribuição em serviços.
+P: Quotas || Responsabilidade pela estimação dos bens || Vedação do sócio de serviço
+K: sociedade limitada; quotas; capital social
+
+@CC 1056
+I: A quota é indivisível perante a sociedade, salvo para transferência; em condomínio, os direitos são exercidos pelo condômino representante ou inventariante.
+P: Indivisibilidade || Condomínio de quota || Representação
+K: quotas; indivisibilidade
+
+@CC 1057
+I: No silêncio do contrato, a quota pode ser cedida a sócio livremente e a estranho se não houver oposição de mais de 1/4 do capital; a cessão vale perante terceiros após averbação.
+P: Cessão entre sócios livre || Estranho: oposição de 1/4 || Averbação
+K: cessão de quotas; sociedade limitada
+
+@CC 1058
+I: Não integralizada a quota do sócio remisso, os demais podem tomá-la ou transferi-la a terceiros, excluindo o remisso e devolvendo o que pagou, com descontos.
+P: Sócio remisso || Tomada ou transferência da quota || Devolução com descontos
+K: sócio remisso; sociedade limitada
+
+@CC 1059
+I: Os sócios devem repor lucros e quantias retiradas, mesmo autorizadas, quando distribuídos com prejuízo do capital.
+P: Intangibilidade do capital || Reposição || Proteção dos credores
+K: lucros; capital social; reposição
+
+@CC 1060
+I: A limitada é administrada por uma ou mais pessoas designadas no contrato ou em ato separado; a administração atribuída a todos os sócios não se estende aos que ingressarem depois.
+P: Administração contratual ou em ato separado || Não se estende a novos sócios || Administrador não sócio
+K: sociedade limitada; administração
+
+@CC 1061
+I: A designação de administrador não sócio depende de 2/3 dos sócios enquanto o capital não estiver integralizado e de mais da metade do capital após a integralização (Lei nº 14.451/2022).
+P: Administrador não sócio || 2/3 antes da integralização || Maioria do capital depois
+K: administrador não sócio; quórum
+
+@CC 1062
+I: O administrador nomeado em ato separado toma posse por termo no livro de atas, em 30 dias, sob pena de a designação perder efeito; deve averbar a nomeação em 10 dias.
+P: Termo de posse || Prazo de 30 dias || Averbação em 10 dias
+K: administrador; posse; averbação
+
+@CC 1063
+I: O cargo cessa pela destituição a qualquer tempo ou fim do prazo sem recondução; a destituição de sócio nomeado no contrato exige mais da metade do capital, salvo previsão diversa; a renúncia é eficaz perante a sociedade com a comunicação.
+P: Destituição a qualquer tempo || Quórum de maioria do capital || Renúncia
+K: administrador; destituição; renúncia
+
+@CC 1064
+I: O uso da firma ou denominação é privativo dos administradores com poderes.
+P: Uso do nome empresarial || Administradores || Poderes
+K: sociedade limitada; firma; denominação
+
+@CC 1065
+I: Ao fim de cada exercício, elaboram-se inventário, balanço patrimonial e de resultado.
+P: Demonstrações anuais || Inventário e balanços || Transparência
+K: sociedade limitada; balanço
+
+@CC 1066
+I: O contrato pode instituir conselho fiscal de 3 ou mais membros e suplentes, residentes no país, eleitos na assembleia anual; não podem integrá-lo administradores, empregados e parentes; minoria de 1/5 do capital elege um membro.
+P: Conselho fiscal facultativo || Impedimentos || Representação da minoria
+K: conselho fiscal; sociedade limitada
+
+@CC 1067
+I: O membro eleito toma posse por termo no livro do conselho e exerce até a assembleia anual seguinte; sem termo em 30 dias, a eleição perde efeito.
+P: Termo de posse || Mandato até a próxima assembleia || Prazo de 30 dias
+K: conselho fiscal; posse
+
+@CC 1068
+I: A remuneração do conselho fiscal é fixada anualmente pela assembleia que o eleger.
+P: Remuneração anual || Assembleia || Fixação
+K: conselho fiscal; remuneração
+
+@CC 1069
+I: Cabe ao conselho fiscal examinar trimestralmente livros, caixa e carteira, lavrar pareceres, denunciar erros e fraudes, convocar assembleia e praticar atos na liquidação.
+P: Fiscalização trimestral || Pareceres e denúncias || Convocação
+K: conselho fiscal; deveres
+
+@CC 1070
+I: As atribuições do conselho fiscal são indelegáveis a outro órgão, e seus membros respondem como os administradores; pode contratar contabilista.
+P: Indelegabilidade || Responsabilidade || Contabilista
+K: conselho fiscal; responsabilidade
+
+@CC 1071
+I: Dependem de deliberação dos sócios a aprovação de contas, designação e destituição de administradores, remuneração, alteração do contrato, incorporação, fusão, dissolução, nomeação de liquidante e pedido de recuperação judicial, entre outras.
+P: Matérias reservadas aos sócios || Contas e administradores || Operações societárias e recuperação
+K: deliberações; sociedade limitada
+
+@CC 1072
+I: As deliberações ocorrem em reunião ou assembleia, conforme o contrato; com mais de 10 sócios, a assembleia é obrigatória; dispensam-se quando todos decidirem por escrito.
+P: Reunião ou assembleia || Assembleia obrigatória acima de 10 sócios || Deliberação escrita unânime
+K: assembleia; reunião; sociedade limitada
+
+@CC 1073
+I: A assembleia pode ser convocada por sócio, se os administradores atrasarem mais de 60 dias, ou por titulares de mais de 1/5 do capital, e pelo conselho fiscal.
+P: Convocação por sócios || Minoria de 1/5 || Conselho fiscal
+K: assembleia; convocação
+
+@CC 1074
+I: A assembleia instala-se com 3/4 do capital em primeira convocação e com qualquer número em segunda; o sócio pode ser representado por outro sócio ou advogado e não vota em matéria de seu interesse direto.
+P: Quórum de instalação || Representação || Impedimento de voto
+K: assembleia; quórum; instalação
+
+@CC 1075
+I: A assembleia é presidida e secretariada por sócios, com ata assinada pela mesa e pelos sócios necessários, arquivada na Junta em 20 dias.
+P: Mesa e ata || Assinaturas || Arquivamento em 20 dias
+K: assembleia; ata
+
+@CC 1076
+I: As deliberações exigem mais da metade do capital para alterar o contrato, incorporação, fusão, dissolução e destituição/designação de administradores, e maioria dos presentes nos demais casos, salvo quórum maior no contrato (Lei nº 14.451/2022).
+P: Maioria do capital para matérias relevantes || Maioria dos presentes nos demais || Quórum de 3/4 revogado
+K: quórum de deliberação; sociedade limitada
+
+@CC 1077
+I: Em caso de modificação do contrato, fusão ou incorporação, o sócio dissidente pode retirar-se em 30 dias, com apuração de haveres.
+P: Direito de recesso || Prazo de 30 dias || Apuração de haveres
+K: direito de recesso; sociedade limitada
+
+@CC 1078
+I: A assembleia deve ocorrer ao menos uma vez por ano, nos 4 meses após o fim do exercício, para aprovar contas, designar administradores e tratar de outros assuntos.
+P: Assembleia anual obrigatória || Aprovação de contas || Prazo de 4 meses
+K: assembleia anual; contas
+
+@CC 1079
+I: Às reuniões aplicam-se, nas omissões do contrato, as regras da assembleia.
+P: Regras supletivas || Reunião de sócios || Assembleia
+K: reunião de sócios
+
+@CC 1080
+I: Deliberações contrárias ao contrato ou à lei tornam ilimitada a responsabilidade dos sócios que expressamente as aprovaram.
+P: Responsabilidade ilimitada || Deliberação ilegal || Sócios que aprovaram
+K: responsabilidade ilimitada; deliberação ilegal
+
+@CC 1080-A
+I: O sócio pode participar e votar a distância em reunião ou assembleia, que também pode ser totalmente digital, nos termos do regulamento federal.
+P: Voto a distância || Assembleia digital || Regulamentação do DREI
+K: assembleia digital; voto a distância
+
+@CC 1081
+I: Integralizadas as quotas, o capital pode ser aumentado, com preferência dos sócios por 30 dias na proporção de suas quotas.
+P: Aumento de capital || Direito de preferência || 30 dias
+K: aumento de capital; preferência
+
+@CC 1082
+I: A sociedade pode reduzir o capital, depois de integralizado, se houver perdas irreparáveis, ou se for excessivo em relação ao objeto.
+P: Redução por perdas || Redução por excesso || Alteração contratual
+K: redução de capital
+
+@CC 1083
+I: Na redução por perdas, diminui-se proporcionalmente o valor nominal das quotas, eficaz após averbação.
+P: Redução proporcional || Valor nominal || Averbação
+K: redução de capital; perdas
+
+@CC 1084
+I: Na redução por excesso, restitui-se parte das quotas ou dispensam-se prestações; credores quirografários anteriores podem se opor em 90 dias.
+P: Restituição aos sócios || Oposição dos credores em 90 dias || Proteção dos credores
+K: redução de capital; credores; oposição
+
+@CC 1085
+I: A maioria do capital pode excluir extrajudicialmente sócios que ponham em risco a continuidade da empresa por atos de inegável gravidade, se o contrato prever exclusão por justa causa, com reunião e direito de defesa; com dois sócios, dispensa-se a reunião.
+P: Exclusão extrajudicial do minoritário || Previsão contratual de justa causa || Direito de defesa
+K: exclusão de sócio; justa causa; sociedade limitada
+
+@CC 1086
+I: Registrada a alteração de exclusão, apuram-se os haveres (art. 1.031) e aplica-se a responsabilidade residual (art. 1.032).
+P: Apuração de haveres || Responsabilidade residual || Registro
+K: exclusão de sócio; haveres
+
+@CC 1087
+I: A limitada dissolve-se de pleno direito pelas causas do art. 1.044.
+P: Causas de dissolução || Remissão || Falência
+K: sociedade limitada; dissolução
+
+@CC 1088
+I: Na sociedade anônima, o capital divide-se em ações, e cada acionista responde só pelo preço de emissão das ações que subscreveu ou adquiriu.
+P: Capital em ações || Responsabilidade pelo preço de emissão || Companhia
+K: sociedade anônima; ações
+
+@CC 1089
+I: A sociedade anônima rege-se por lei especial (Lei nº 6.404/1976), aplicando-se o Código nas omissões.
+P: Lei das S.A. || Código supletivo || Lei especial
+K: sociedade anônima; Lei 6.404
+
+@CC 1090
+I: A comandita por ações tem capital em ações, rege-se pelas regras da S.A. com as modificações deste capítulo e opera sob firma ou denominação.
+P: Capital em ações || Regras da S.A. || Firma ou denominação
+K: comandita por ações
+
+@CC 1091
+I: Só o acionista pode administrar, e como diretor responde subsidiária e ilimitadamente; com vários diretores, são solidários após esgotados os bens sociais; nomeados no estatuto, só se destituem por 2/3.
+P: Administração por acionista || Responsabilidade ilimitada do diretor || Destituição por 2/3
+K: comandita por ações; diretor
+
+@CC 1092
+I: A assembleia não pode, sem consentimento dos diretores, mudar o objeto, prorrogar o prazo, alterar o capital, criar debêntures ou partes beneficiárias.
+P: Veto dos diretores || Matérias protegidas || Proteção dos responsáveis ilimitados
+K: comandita por ações; assembleia
+
+@CC 1093
+I: A cooperativa rege-se por este capítulo, ressalvada a legislação especial (Lei nº 5.764/1971).
+P: Regência do Código || Lei das Cooperativas || Especialidade
+K: cooperativa; Lei 5.764
+
+@CC 1094
+I: São características da cooperativa: capital variável ou dispensado, número mínimo de sócios, limite de quotas por sócio, intransferibilidade das quotas a terceiros, quórum pelo número de sócios, voto por cabeça, distribuição de resultados conforme as operações e indivisibilidade do fundo de reserva.
+P: Características da cooperativa || Voto por cabeça || Retorno proporcional às operações
+K: cooperativa; características
+
+@CC 1095
+I: Na cooperativa, a responsabilidade dos sócios pode ser limitada (ao valor das quotas e prejuízo das operações) ou ilimitada (solidária).
+P: Responsabilidade limitada || Responsabilidade ilimitada || Opção estatutária
+K: cooperativa; responsabilidade
+
+@CC 1096
+I: Nas omissões da lei, aplicam-se à cooperativa as regras da sociedade simples, respeitadas suas características.
+P: Supletividade || Sociedade simples || Características preservadas
+K: cooperativa; regência supletiva
+
+@CC 1097
+I: São coligadas as sociedades controladas, filiadas ou de simples participação, conforme suas relações de capital.
+P: Sociedades coligadas || Relações de capital || Classificação
+K: sociedades coligadas
+
+@CC 1098
+I: É controlada a sociedade em que outra detém a maioria dos votos e o poder de eleger a maioria dos administradores, direta ou indiretamente.
+P: Controle societário || Maioria de votos e administradores || Controle indireto
+K: sociedade controlada; controle
+
+@CC 1099
+I: É coligada ou filiada a sociedade de cujo capital outra participa com 10% ou mais, sem controlá-la.
+P: Participação de 10% ou mais || Sem controle || Coligação
+K: sociedade coligada; filiada
+
+@CC 1100
+I: É de simples participação a sociedade em que outra detém menos de 10% do capital votante.
+P: Menos de 10% || Simples participação || Capital votante
+K: simples participação
+
+@CC 1101
+I: Salvo lei especial, a sociedade não pode participar de sua sócia em montante superior às próprias reservas, excluída a legal; o excesso deve ser alienado em 180 dias.
+P: Limite de participação recíproca || Reservas || Alienação do excesso
+K: participação recíproca; sociedades coligadas
+
+@CC 1102
+I: Dissolvida a sociedade e nomeado o liquidante, procede-se à liquidação conforme este capítulo, ressalvado o ato constitutivo; o liquidante não sócio deve ter a nomeação averbada.
+P: Liquidação || Liquidante || Averbação
+K: liquidação; liquidante
+
+@CC 1103
+I: O liquidante deve averbar a dissolução, arrecadar bens e livros, levantar inventário e balanço, ultimar negócios, pagar o passivo, partilhar o remanescente, exigir integralização, convocar assembleias, confessar falência se insolvente e prestar contas.
+P: Deveres do liquidante || Inventário e balanço || Pagamento e partilha
+K: liquidante; deveres
+
+@CC 1104
+I: Obrigações e responsabilidade do liquidante seguem as dos administradores.
+P: Equiparação ao administrador || Responsabilidade || Deveres fiduciários
+K: liquidante; responsabilidade
+
+@CC 1105
+I: O liquidante representa a sociedade e pratica todos os atos da liquidação; para onerar bens, contrair empréstimos ou prosseguir a atividade, precisa de autorização expressa.
+P: Representação || Atos de liquidação || Autorização para atos extraordinários
+K: liquidante; poderes
+
+@CC 1106
+I: Respeitados os preferenciais, o liquidante paga as dívidas proporcionalmente, vencidas e vincendas (com desconto); se o ativo superar o passivo, pode pagar integralmente as vencidas.
+P: Pagamento proporcional || Desconto das vincendas || Ativo superior ao passivo
+K: liquidação; pagamento de credores
+
+@CC 1107
+I: Pagos os credores, os sócios podem, por maioria, determinar rateios antecipados da partilha.
+P: Rateio antecipado || Após pagar credores || Maioria
+K: liquidação; partilha antecipada
+
+@CC 1108
+I: Pago o passivo e partilhado o remanescente, o liquidante convoca assembleia para a prestação final de contas.
+P: Prestação final de contas || Assembleia || Encerramento
+K: liquidação; prestação de contas
+
+@CC 1109
+I: Aprovadas as contas, a liquidação se encerra e a sociedade se extingue com a averbação da ata; o dissidente tem 30 dias para promover a ação.
+P: Extinção com a averbação || Ação do dissidente em 30 dias || Encerramento
+K: liquidação; extinção da sociedade
+
+@CC 1110
+I: Encerrada a liquidação, o credor não satisfeito só pode cobrar de cada sócio até o que recebeu na partilha e propor ação de perdas e danos contra o liquidante.
+P: Limite do recebido na partilha || Ação contra o liquidante || Credor remanescente
+K: liquidação; credor; responsabilidade dos sócios
+
+@CC 1111
+I: A liquidação judicial segue a lei processual.
+P: Liquidação judicial || CPC || Procedimento
+K: liquidação judicial
+
+@CC 1112
+I: Na liquidação judicial, o juiz convoca e preside reuniões ou assembleias, resolvendo sumariamente as questões; as atas são juntadas aos autos.
+P: Atuação do juiz || Assembleias judiciais || Decisão sumária
+K: liquidação judicial; assembleia
+
+@CC 1113
+I: A transformação independe de dissolução ou liquidação e segue as regras de constituição do novo tipo.
+P: Transformação societária || Sem dissolução || Regras do novo tipo
+K: transformação; tipo societário
+
+@CC 1114
+I: A transformação depende do consentimento de todos os sócios, salvo previsão no ato constitutivo, caso em que o dissidente pode retirar-se.
+P: Unanimidade || Previsão contratual || Recesso do dissidente
+K: transformação; consentimento; recesso
+
+@CC 1115
+I: A transformação não prejudica os credores, e a falência da sociedade transformada só alcança os sócios que, no tipo anterior, estariam sujeitos a ela, se os credores anteriores o pedirem.
+P: Proteção dos credores || Falência || Responsabilidade anterior
+K: transformação; credores
+
+@CC 1116
+I: Na incorporação, uma ou mais sociedades são absorvidas por outra, que as sucede em direitos e obrigações, com aprovação de todas.
+P: Incorporação || Sucessão universal || Aprovação das envolvidas
+K: incorporação; sucessão
+
+@CC 1117
+I: Os sócios da incorporada aprovam as bases da operação e o projeto de reforma; a incorporadora aprova o projeto e nomeia peritos para avaliar o patrimônio.
+P: Aprovação das bases || Avaliação por peritos || Reforma do ato constitutivo
+K: incorporação; avaliação
+
+@CC 1118
+I: Aprovada a incorporação, a incorporadora declara extinta a incorporada e averba a extinção.
+P: Extinção da incorporada || Averbação || Ato da incorporadora
+K: incorporação; extinção
+
+@CC 1119
+I: A fusão extingue as sociedades que se unem para formar uma nova, que as sucede.
+P: Fusão || Nova sociedade || Sucessão
+K: fusão
+
+@CC 1120
+I: A fusão é decidida por cada sociedade conforme seu tipo, com aprovação do projeto e nomeação de peritos, e depois os sócios constituem a nova sociedade.
+P: Deliberação de cada sociedade || Laudos de avaliação || Constituição da nova
+K: fusão; procedimento
+
+@CC 1121
+I: Constituída a nova sociedade, os administradores inscrevem os atos da fusão no registro da sede.
+P: Inscrição da fusão || Registro da sede || Administradores
+K: fusão; registro
+
+@CC 1122
+I: O credor anterior prejudicado pode pedir judicialmente a anulação da incorporação, fusão ou cisão em até 90 dias da publicação; a consignação do valor prejudica a anulação.
+P: Prazo de 90 dias || Anulação pelo credor || Consignação afasta
+K: incorporação; fusão; cisão; credores
+
+@CC 1123
+I: A sociedade que depende de autorização do Executivo para funcionar rege-se por este título e pela lei especial; a competência é sempre federal.
+P: Sociedades dependentes de autorização || Competência federal || Lei especial
+K: autorização para funcionar; sociedade
+
+@CC 1124
+I: Sem prazo legal, a autorização caduca se a sociedade não funcionar em 12 meses da publicação.
+P: Caducidade em 12 meses || Início do funcionamento || Prazo supletivo
+K: autorização; caducidade
+
+@CC 1125
+I: O Executivo pode cassar a autorização de sociedade que infringir a ordem pública ou agir contra seus fins.
+P: Cassação da autorização || Ordem pública || Desvio de finalidade
+K: autorização; cassação
+
+@CC 1126
+I: É nacional a sociedade organizada pela lei brasileira e com sede da administração no país; se a lei exigir sócios brasileiros, as ações devem ser nominativas.
+P: Critério da nacionalidade || Lei brasileira e sede || Ações nominativas
+K: sociedade nacional
+
+@CC 1127
+I: A mudança de nacionalidade da sociedade brasileira exige consentimento unânime.
+P: Unanimidade || Mudança de nacionalidade || Proteção dos sócios
+K: sociedade nacional; nacionalidade
+
+@CC 1128
+I: O pedido de autorização de sociedade nacional vai com cópia do contrato ou estatuto e demais documentos exigidos.
+P: Instrução do pedido || Contrato ou estatuto || Documentos
+K: autorização; sociedade nacional
+
+@CC 1129
+I: O Executivo pode exigir alterações no contrato ou estatuto antes de autorizar.
+P: Exigência de alterações || Formalidades legais || Controle prévio
+K: autorização; alteração
+
+@CC 1130
+I: O Executivo pode recusar a autorização se não forem atendidas as condições econômicas, financeiras ou jurídicas legais.
+P: Recusa motivada || Condições legais || Controle
+K: autorização; recusa
+
+@CC 1131
+I: Expedido o decreto de autorização, a sociedade publica os atos em 30 dias no órgão oficial, servindo de prova para a inscrição.
+P: Publicação em 30 dias || Diário Oficial || Inscrição
+K: autorização; publicação
+
+@CC 1132
+I: A S.A. nacional dependente de autorização não se constitui por subscrição pública sem obtê-la; o pedido inclui projeto do estatuto e prospecto.
+P: Autorização prévia || Subscrição pública || Prospecto
+K: sociedade anônima; autorização
+
+@CC 1133
+I: Dependem de aprovação as modificações do contrato ou estatuto de sociedade autorizada, salvo aumento de capital por reservas ou reavaliação.
+P: Aprovação das alterações || Exceção do aumento por reservas || Controle contínuo
+K: sociedade autorizada; alteração
+
+@CC 1134
+I: A sociedade estrangeira só funciona no Brasil com autorização do Executivo, mas pode ser acionista de S.A. brasileira, salvo exceções legais; o pedido vai com os documentos exigidos.
+P: Autorização para funcionar || Participação acionária permitida || Documentos
+K: sociedade estrangeira; autorização
+
+@CC 1135
+I: Para autorizar a sociedade estrangeira, o Executivo pode impor condições de defesa do interesse nacional; aceitas, expede o decreto.
+P: Condições de interesse nacional || Decreto de autorização || Aceitação
+K: sociedade estrangeira; condições

@@ -1,0 +1,499 @@
+@CC 587
+I: O mútuo transfere a propriedade da coisa ao mutuário, que suporta os riscos desde a entrega.
+P: Transferência do domínio || Riscos do mutuário || Contrato real
+K: mútuo; domínio; riscos
+
+@CC 588
+I: O mútuo feito a menor sem autorização de seu responsável não pode ser cobrado nem dele nem dos fiadores.
+P: Proteção do menor || Inexigibilidade || Fiadores também liberados
+K: mútuo; menor; inexigibilidade
+
+@CC 589
+I: A regra protetiva cessa se o responsável ratificar o empréstimo, se o menor o contraiu para alimentos na ausência do responsável, se tinha bens do trabalho, se o empréstimo reverteu em seu benefício ou se obteve o empréstimo maliciosamente.
+P: Exceções à proteção do menor || Ratificação ou necessidade || Benefício ou malícia
+K: mútuo; menor; exceções
+
+@CC 590
+I: Se o mutuário sofrer notória mudança econômica antes do vencimento, o mutuante pode exigir garantia.
+P: Garantia superveniente || Piora econômica notória || Proteção do mutuante
+K: mútuo; garantia; insolvência
+
+@CC 591
+I: No mútuo para fins econômicos, presumem-se devidos juros; não pactuada a taxa, aplica-se a taxa legal do art. 406 (Lei nº 14.905/2024). Os juros acima da taxa legal entre particulares sujeitam-se à Lei de Usura; instituições financeiras não se submetem a esse limite (Súmula 596 do STF).
+P: Mútuo feneratício || Taxa legal supletiva || Instituições financeiras fora da Lei de Usura
+K: mútuo; juros; taxa legal; Súmula 596 STF
+
+@CC 592
+I: Sem prazo convencionado, o mútuo vai até a próxima colheita (produtos agrícolas), por pelo menos 30 dias (dinheiro) ou pelo prazo que o mutuante declarar (outras coisas fungíveis).
+P: Prazos supletivos || Colheita, 30 dias ou declaração || Integração do contrato
+K: mútuo; prazo
+
+@CC 593
+I: A prestação de serviço não sujeita às leis trabalhistas ou a lei especial rege-se por este capítulo.
+P: Aplicação residual || Fora da CLT || Serviços autônomos
+K: prestação de serviço; trabalho autônomo
+
+@CC 594
+I: Qualquer serviço ou trabalho lícito, material ou imaterial, pode ser contratado mediante retribuição.
+P: Objeto amplo || Licitude || Onerosidade
+K: prestação de serviço; retribuição
+
+@CC 595
+I: Se uma parte não souber ler nem escrever, o contrato pode ser assinado a rogo e subscrito por duas testemunhas.
+P: Assinatura a rogo || Duas testemunhas || Proteção do analfabeto
+K: prestação de serviço; assinatura a rogo
+
+@CC 596
+I: Sem preço ajustado, a retribuição é fixada por arbitramento, conforme o costume local, o tempo e a qualidade do serviço.
+P: Arbitramento || Costume do lugar || Tempo e qualidade
+K: prestação de serviço; arbitramento
+
+@CC 597
+I: A retribuição é paga após o serviço, salvo convenção ou costume de adiantamento ou pagamento em prestações.
+P: Pagamento posterior || Exceções por convenção ou costume || Norma supletiva
+K: prestação de serviço; pagamento
+
+@CC 598
+I: A prestação de serviço não pode ser contratada por mais de 4 anos; findo o prazo, extingue-se, mesmo que a obra não esteja concluída. A regra evita vínculos perpétuos.
+P: Prazo máximo de 4 anos || Vedação de vínculo perpétuo || Extinção automática
+K: prestação de serviço; prazo máximo
+
+@CC 599
+I: Sem prazo, qualquer parte pode resolver o contrato com aviso prévio de 8 dias (salário mensal ou maior), 4 dias (semanal ou quinzenal) ou na véspera (menos de 7 dias).
+P: Resilição com aviso prévio || Prazos conforme a periodicidade || Prazo indeterminado
+K: prestação de serviço; aviso prévio; resilição
+
+@CC 600
+I: Não se conta no prazo do contrato o tempo em que o prestador deixou de servir por culpa sua.
+P: Exclusão do tempo perdido || Culpa do prestador || Contagem do prazo
+K: prestação de serviço; prazo
+
+@CC 601
+I: Sem trabalho determinado, o prestador se obriga a todo serviço compatível com suas forças e condições.
+P: Serviço genérico || Compatibilidade || Limites razoáveis
+K: prestação de serviço; objeto
+
+@CC 602
+I: O prestador contratado por prazo ou obra certa não pode sair sem justa causa antes do fim; se o fizer, recebe pelo que serviu mas responde por perdas e danos.
+P: Vinculação ao prazo ou obra || Saída sem justa causa || Perdas e danos
+K: prestação de serviço; justa causa
+
+@CC 603
+I: Despedido sem justa causa, o prestador recebe a retribuição vencida e metade da que receberia até o fim do contrato.
+P: Dispensa sem justa causa || Indenização pela metade || Proteção do prestador
+K: prestação de serviço; despedida; indenização
+
+@CC 604
+I: Findo o contrato, ou despedido sem justa causa, o prestador pode exigir declaração de que o contrato terminou.
+P: Declaração de término || Direito do prestador || Prova
+K: prestação de serviço; término
+
+@CC 605
+I: Nem o tomador pode transferir o direito aos serviços, nem o prestador pode pôr substituto, sem concordância da outra parte.
+P: Caráter personalíssimo || Vedação de cessão || Concordância necessária
+K: prestação de serviço; intuitu personae
+
+@CC 606
+I: Quem presta serviço sem habilitação legal não pode cobrar a retribuição normal, mas, se agiu de boa-fé e o serviço trouxe benefício, recebe compensação razoável, salvo proibição legal de ordem pública.
+P: Falta de habilitação || Compensação razoável de boa-fé || Proibição de ordem pública
+K: prestação de serviço; habilitação
+
+@CC 607
+I: O contrato acaba pela morte de qualquer parte, fim do prazo, conclusão da obra, rescisão com aviso prévio, inadimplemento ou impossibilidade por força maior.
+P: Causas de extinção || Morte das partes || Força maior
+K: prestação de serviço; extinção
+
+@CC 608
+I: Quem aliciar prestador vinculado por contrato escrito paga ao tomador o que o prestador receberia em 2 anos.
+P: Aliciamento || Indenização de 2 anos || Tutela externa do crédito
+K: aliciamento; prestação de serviço; terceiro ofensor
+
+@CC 609
+I: A venda do imóvel agrícola não rescinde o contrato de serviço; o prestador escolhe continuar com o comprador ou com o contratante original.
+P: Continuidade do contrato || Opção do prestador || Prédio agrícola
+K: prestação de serviço; alienação; prédio agrícola
+
+@CC 610
+I: O empreiteiro pode contribuir só com trabalho (lavor) ou com trabalho e materiais; o fornecimento de materiais não se presume. O contrato de projeto não implica a obrigação de executá-lo.
+P: Empreitada de lavor ou mista || Materiais não se presumem || Projeto distinto da execução
+K: empreitada; materiais; lavor
+
+@CC 611
+I: Fornecendo os materiais, o empreiteiro suporta os riscos até a entrega aceita, salvo mora do dono em receber.
+P: Riscos do empreiteiro || Até a entrega || Mora do dono transfere
+K: empreitada; riscos
+
+@CC 612
+I: Na empreitada só de mão de obra, os riscos sem culpa do empreiteiro correm por conta do dono.
+P: Riscos do dono || Empreitada de lavor || Ausência de culpa
+K: empreitada; riscos; lavor
+
+@CC 613
+I: Na empreitada de lavor, perecendo a coisa antes da entrega sem culpa de ninguém, o empreiteiro perde a retribuição, salvo se provar defeito dos materiais que reclamou a tempo.
+P: Perda da retribuição || Defeito dos materiais || Reclamação oportuna
+K: empreitada; perecimento; retribuição
+
+@CC 614
+I: Se a obra tiver partes distintas ou for por medida, o empreiteiro pode exigir verificação e pagamento proporcional; o que foi pago presume-se verificado, e o recebido presume-se aceito se não denunciados defeitos em 30 dias.
+P: Medição por partes || Pagamento proporcional || Presunção de verificação em 30 dias
+K: empreitada; medição; verificação
+
+@CC 615
+I: Concluída conforme o ajuste, o dono deve receber a obra, podendo rejeitá-la se o empreiteiro se afastou das instruções, planos ou regras técnicas.
+P: Dever de receber || Rejeição por desconformidade || Regras técnicas
+K: empreitada; recebimento; rejeição
+
+@CC 616
+I: Em vez de rejeitar, o dono pode receber a obra com abatimento no preço.
+P: Abatimento do preço || Alternativa à rejeição || Opção do dono
+K: empreitada; abatimento
+
+@CC 617
+I: O empreiteiro paga os materiais que inutilizar por imperícia ou negligência.
+P: Responsabilidade pelos materiais || Imperícia ou negligência || Ressarcimento
+K: empreitada; materiais; culpa
+
+@CC 618
+I: Em edifícios e construções consideráveis, o empreiteiro de materiais e execução responde por 5 anos (prazo de garantia irredutível) pela solidez e segurança da obra. O dono deve propor a ação em 180 dias do aparecimento do vício ou defeito (prazo decadencial).
+P: Garantia de 5 anos || Solidez e segurança || Ação em 180 dias do vício
+K: empreitada; solidez e segurança; garantia; decadência
+
+@CC 619
+I: Salvo estipulação, o empreiteiro que executa plano aceito não pode cobrar acréscimos por modificações, salvo se feitas por instruções escritas do dono, ou se este acompanhava a obra e não protestou.
+P: Preço fixo || Modificações por escrito || Aceitação tácita
+K: empreitada; preço; modificações
+
+@CC 620
+I: Se o custo de materiais ou mão de obra cair mais de 1/10 do preço global, o dono pode pedir revisão para obter a diferença.
+P: Revisão por redução de custos || Mais de 10% || A pedido do dono
+K: empreitada; revisão do preço
+
+@CC 621
+I: O proprietário não pode alterar o projeto aprovado sem anuência do autor, salvo por razões técnicas ou supervenientes que tornem a execução inconveniente ou onerosa; pequenas alterações são permitidas.
+P: Direito autoral do projetista || Exceções técnicas || Pequenas alterações
+K: empreitada; projeto; direito autoral
+
+@CC 622
+I: Se a execução for de terceiros, o autor do projeto que não dirigir nem fiscalizar a obra só responde pelos defeitos de solidez e segurança decorrentes do projeto.
+P: Responsabilidade limitada do projetista || Art. 618 || Sem direção da obra
+K: empreitada; projetista; responsabilidade
+
+@CC 623
+I: O dono pode suspender a obra iniciada pagando ao empreiteiro despesas, lucros dos serviços feitos e indenização razoável pelo que ganharia.
+P: Suspensão pelo dono || Indenização ao empreiteiro || Lucros cessantes razoáveis
+K: empreitada; suspensão; indenização
+
+@CC 624
+I: O empreiteiro que suspende a obra sem justa causa responde por perdas e danos.
+P: Suspensão injustificada || Perdas e danos || Responsabilidade do empreiteiro
+K: empreitada; suspensão
+
+@CC 625
+I: O empreiteiro pode suspender a obra por culpa do dono ou força maior, por dificuldades imprevisíveis (geológicas, hídricas) que tornem a empreitada excessivamente onerosa e o dono recuse reajuste, ou se as modificações exigidas forem desproporcionais ao projeto.
+P: Suspensão justificada || Dificuldades imprevisíveis || Modificações desproporcionais
+K: empreitada; suspensão; onerosidade
+
+@CC 626
+I: A empreitada não se extingue pela morte das partes, salvo se ajustada em razão das qualidades pessoais do empreiteiro.
+P: Transmissão aos herdeiros || Exceção intuitu personae || Continuidade
+K: empreitada; morte
+
+@CC 627
+I: No depósito, o depositário recebe coisa móvel para guardar até que o depositante a reclame.
+P: Guarda de coisa móvel || Restituição a pedido || Contrato real
+K: depósito; guarda
+
+@CC 628
+I: O depósito é gratuito, salvo convenção, atividade negocial ou exercício profissional; se oneroso sem retribuição fixada, ela é determinada por usos ou arbitramento.
+P: Presunção de gratuidade || Exceções || Arbitramento da retribuição
+K: depósito; gratuidade; remuneração
+
+@CC 629
+I: O depositário deve guardar a coisa com o cuidado que tem com o que é seu e restituí-la, com frutos e acréscimos, quando o depositante exigir.
+P: Dever de guarda || Diligência || Restituição com frutos
+K: depósito; deveres do depositário
+
+@CC 630
+I: Depósito entregue fechado, selado ou lacrado deve ser mantido assim.
+P: Inviolabilidade || Depósito fechado || Sigilo
+K: depósito; lacre
+
+@CC 631
+I: A restituição ocorre no lugar da guarda, salvo disposição, e as despesas de restituição são do depositante.
+P: Lugar da restituição || Despesas do depositante || Norma supletiva
+K: depósito; restituição
+
+@CC 632
+I: Se o depósito foi feito no interesse de terceiro e o depositário foi avisado, não se libera devolvendo ao depositante sem consentimento do terceiro.
+P: Depósito em favor de terceiro || Ciência do depositário || Consentimento do terceiro
+K: depósito; terceiro
+
+@CC 633
+I: Mesmo com prazo, o depositário restitui quando exigido, salvo direito de retenção, embargo judicial, execução pendente notificada ou suspeita fundada de que a coisa foi obtida ilicitamente.
+P: Restituição a qualquer tempo || Exceções legais || Prazo em favor do depositante
+K: depósito; restituição; retenção
+
+@CC 634
+I: Havendo suspeita de origem ilícita, o depositário, expondo o fundamento, requer o recolhimento ao Depósito Público.
+P: Suspeita de ilicitude || Depósito Público || Fundamentação
+K: depósito; ilicitude
+
+@CC 635
+I: O depositário pode requerer depósito judicial quando, por motivo plausível, não puder guardar a coisa e o depositante não quiser recebê-la.
+P: Depósito judicial || Impossibilidade de guarda || Recusa do depositante
+K: depósito; depósito judicial
+
+@CC 636
+I: O depositário que perdeu a coisa por força maior e recebeu outra em lugar deve entregá-la ao depositante e ceder-lhe as ações contra o responsável.
+P: Sub-rogação real || Cessão de ações || Força maior
+K: depósito; força maior; sub-rogação
+
+@CC 637
+I: O herdeiro do depositário que vendeu de boa-fé a coisa deve ajudar o depositante na reivindicação e devolver o preço ao comprador.
+P: Venda de boa-fé pelo herdeiro || Assistência na reivindicação || Restituição do preço
+K: depósito; herdeiro; reivindicação
+
+@CC 638
+I: Salvo os casos dos arts. 633 e 634, o depositário não pode recusar a restituição alegando que a coisa não é do depositante nem opor compensação, salvo se fundada em outro depósito.
+P: Vedação de exceções || Sem compensação || Exceção: outro depósito
+K: depósito; compensação; restituição
+
+@CC 639
+I: Com vários depositantes e coisa divisível, o depositário entrega a cada um sua parte, salvo solidariedade.
+P: Restituição proporcional || Coisa divisível || Solidariedade
+K: depósito; pluralidade
+
+@CC 640
+I: O depositário não pode usar a coisa nem depositá-la com outro sem licença expressa, sob pena de perdas e danos; autorizado a confiá-la a terceiro, responde se agiu com culpa na escolha.
+P: Vedação de uso || Subdepósito com autorização || Culpa in eligendo
+K: depósito; uso; subdepósito
+
+@CC 641
+I: Se o depositário ficar incapaz, quem administrar seus bens deve devolver a coisa e, se o depositante não puder receber, recolhê-la ao Depósito Público.
+P: Incapacidade do depositário || Restituição pelo administrador || Depósito Público
+K: depósito; incapacidade
+
+@CC 642
+I: O depositário não responde por força maior, mas deve prová-la.
+P: Excludente de força maior || Ônus da prova do depositário || Responsabilidade
+K: depósito; força maior
+
+@CC 643
+I: O depositante paga as despesas com a coisa e os prejuízos que o depósito causar ao depositário.
+P: Reembolso de despesas || Prejuízos do depósito || Deveres do depositante
+K: depósito; despesas
+
+@CC 644
+I: O depositário pode reter a coisa até receber a retribuição, as despesas ou os prejuízos, provados de imediato; se não forem líquidos, pode exigir caução ou remoção ao Depósito Público.
+P: Direito de retenção || Prova imediata || Caução
+K: depósito; retenção
+
+@CC 645
+I: O depósito de coisas fungíveis com restituição do equivalente (depósito irregular) rege-se pelas regras do mútuo.
+P: Depósito irregular || Regras do mútuo || Ex.: depósito bancário
+K: depósito irregular; mútuo
+
+@CC 646
+I: O depósito voluntário prova-se por escrito.
+P: Prova escrita || Depósito voluntário || Forma ad probationem
+K: depósito voluntário; prova
+
+@CC 647
+I: É necessário o depósito feito por obrigação legal ou em calamidade, como incêndio, inundação, naufrágio ou saque.
+P: Depósito legal || Depósito miserável || Calamidades
+K: depósito necessário; calamidade
+
+@CC 648
+I: O depósito legal segue a respectiva lei e, no silêncio, as regras do voluntário; o depósito em calamidade pode ser provado por qualquer meio.
+P: Regência pela lei específica || Supletividade do voluntário || Prova livre na calamidade
+K: depósito necessário; prova
+
+@CC 649
+I: Equipara-se ao depósito necessário o das bagagens de hóspedes; hospedeiros respondem como depositários, inclusive por furtos e roubos de empregados ou pessoas admitidas.
+P: Bagagens de hóspedes || Responsabilidade do hospedeiro || Furtos e roubos
+K: depósito necessário; hotel; bagagem
+
+@CC 650
+I: O hospedeiro se exime se provar que os fatos não podiam ser evitados.
+P: Excludente || Inevitabilidade || Ônus do hospedeiro
+K: hospedeiro; excludente
+
+@CC 651
+I: O depósito necessário não se presume gratuito; no caso dos hóspedes, a remuneração está no preço da hospedagem.
+P: Onerosidade || Preço da hospedagem || Depósito necessário
+K: depósito necessário; remuneração
+
+@CC 652
+I: Prevê prisão de até 1 ano do depositário infiel, mas o STF declarou ilícita a prisão civil do depositário infiel em qualquer modalidade (Súmula Vinculante 25), restando só o ressarcimento dos prejuízos.
+P: Prisão civil vedada (SV 25) || Pacto de San José da Costa Rica || Ressarcimento dos prejuízos
+K: depositário infiel; prisão civil; Súmula Vinculante 25
+
+@CC 653
+I: Há mandato quando alguém recebe poderes de outro para, em seu nome, praticar atos ou administrar interesses; a procuração é o instrumento.
+P: Representação voluntária || Procuração como instrumento || Atuação em nome alheio
+K: mandato; procuração
+
+@CC 654
+I: Pessoas capazes podem dar procuração por instrumento particular assinado, com lugar, qualificação das partes, data, objetivo e poderes; o terceiro pode exigir firma reconhecida.
+P: Procuração particular || Requisitos || Reconhecimento de firma a pedido
+K: procuração; instrumento particular; requisitos
+
+@CC 655
+I: Mesmo outorgado por instrumento público, o mandato pode ser substabelecido por instrumento particular.
+P: Substabelecimento particular || Ainda que procuração pública || Forma livre
+K: substabelecimento; procuração
+
+@CC 656
+I: O mandato pode ser expresso ou tácito, verbal ou escrito.
+P: Formas do mandato || Tácito ou expresso || Verbal ou escrito
+K: mandato; forma
+
+@CC 657
+I: O mandato segue a forma exigida para o ato a praticar; não vale verbal se o ato exigir forma escrita (atração da forma).
+P: Simetria de forma || Ex.: compra de imóvel exige procuração pública || Vedação de mandato verbal
+K: mandato; forma; atração da forma
+
+@CC 658
+I: O mandato presume-se gratuito, salvo se o objeto for da profissão lucrativa do mandatário; se oneroso sem valor fixado, a remuneração segue lei, usos ou arbitramento.
+P: Presunção de gratuidade || Mandato profissional oneroso || Arbitramento
+K: mandato; remuneração
+
+@CC 659
+I: A aceitação do mandato pode ser tácita, resultando do início da execução.
+P: Aceitação tácita || Começo de execução || Consensualidade
+K: mandato; aceitação
+
+@CC 660
+I: O mandato pode ser especial (para negócios determinados) ou geral (todos os negócios do mandante).
+P: Mandato especial || Mandato geral || Extensão
+K: mandato especial; mandato geral
+
+@CC 661
+I: O mandato em termos gerais só confere poderes de administração; para alienar, hipotecar, transigir e atos extraordinários, exigem-se poderes especiais e expressos. O poder de transigir não abrange o de firmar compromisso arbitral.
+P: Poderes de administração || Poderes especiais e expressos || Transigir não inclui compromisso
+K: mandato; poderes especiais; administração
+
+@CC 662
+I: Atos de quem não tem mandato ou excede os poderes são ineficazes para o representado, salvo ratificação expressa ou por ato inequívoco, com efeito retroativo.
+P: Ineficácia || Ratificação retroativa || Expressa ou inequívoca
+K: mandato; ratificação; excesso de poderes
+
+@CC 663
+I: Se o mandatário contrata em nome do mandante, este é o único responsável; se age em nome próprio, mesmo por conta do mandante, obriga-se pessoalmente.
+P: Contratação em nome do mandante || Mandato sem representação || Responsabilidade pessoal
+K: mandato; responsabilidade
+
+@CC 664
+I: O mandatário pode reter do objeto da operação o necessário para receber o que lhe é devido pelo mandato.
+P: Direito de retenção || Crédito do mandatário || Objeto da operação
+K: mandato; retenção
+
+@CC 665
+I: O mandatário que excede ou contraria os poderes é mero gestor de negócios até a ratificação.
+P: Gestão de negócios || Excesso de poderes || Ratificação
+K: mandato; gestão de negócios
+
+@CC 666
+I: O maior de 16 e menor de 18 anos não emancipado pode ser mandatário, mas o mandante só tem ação contra ele pelas regras das obrigações de menores.
+P: Menor como mandatário || Responsabilidade limitada || Proteção do menor
+K: mandato; menor relativamente incapaz
+
+@CC 667
+I: O mandatário deve agir com diligência e indenizar prejuízos por culpa sua ou de substabelecido sem autorização; com proibição de substabelecer, responde até por fortuito, salvo prova de que ocorreria igual.
+P: Dever de diligência || Substabelecimento sem autorização || Responsabilidade agravada
+K: mandato; substabelecimento; responsabilidade
+
+@CC 668
+I: O mandatário deve prestar contas e transferir ao mandante todas as vantagens do mandato.
+P: Prestação de contas || Transferência das vantagens || Lealdade
+K: mandato; prestação de contas
+
+@CC 669
+I: O mandatário não pode compensar os prejuízos que causou com os proveitos que obteve para o mandante.
+P: Vedação de compensação || Prejuízos × proveitos || Responsabilidade
+K: mandato; compensação
+
+@CC 670
+I: O mandatário que usa em proveito próprio somas do mandante paga juros desde o abuso.
+P: Desvio de valores || Juros desde o abuso || Responsabilidade
+K: mandato; juros; desvio
+
+@CC 671
+I: Se o mandatário, com recursos do mandante, compra em nome próprio o que deveria comprar para ele, o mandante pode exigir a entrega da coisa.
+P: Ação de entrega || Compra em nome próprio || Recursos do mandante
+K: mandato; entrega da coisa
+
+@CC 672
+I: Com vários mandatários no mesmo instrumento, qualquer um pode agir, salvo se os poderes forem conjuntos, especificados ou sucessivos; atos conjuntos sem todos são ineficazes, salvo ratificação.
+P: Mandatários solidários por presunção || Poderes conjuntos || Ratificação
+K: mandato; pluralidade de mandatários
+
+@CC 673
+I: O terceiro que, conhecendo os poderes, contrata ato que os excede não tem ação contra o mandatário, salvo promessa de ratificação ou responsabilidade pessoal deste.
+P: Ciência dos poderes || Sem ação contra o mandatário || Exceções
+K: mandato; terceiro; excesso
+
+@CC 674
+I: Mesmo sabendo da morte, interdição ou mudança de estado do mandante, o mandatário deve concluir o negócio iniciado se houver perigo na demora.
+P: Conclusão do negócio iniciado || Perigo na demora || Sobrevivência excepcional do mandato
+K: mandato; morte do mandante
+
+@CC 675
+I: O mandante deve cumprir as obrigações assumidas pelo mandatário dentro dos poderes e adiantar despesas quando pedido.
+P: Vinculação do mandante || Adiantamento de despesas || Dentro dos poderes
+K: mandato; obrigações do mandante
+
+@CC 676
+I: O mandante paga a remuneração e as despesas mesmo que o negócio não dê o resultado esperado, salvo culpa do mandatário.
+P: Obrigação de meio || Remuneração e despesas || Exceção da culpa
+K: mandato; remuneração
+
+@CC 677
+I: As somas adiantadas pelo mandatário vencem juros desde o desembolso.
+P: Juros desde o desembolso || Adiantamentos || Ressarcimento
+K: mandato; juros
+
+@CC 678
+I: O mandante ressarce as perdas do mandatário na execução, salvo culpa ou excesso de poderes deste.
+P: Ressarcimento de perdas || Execução do mandato || Exceções
+K: mandato; perdas
+
+@CC 679
+I: Mesmo que o mandatário contrarie instruções, se ficar nos limites do mandato o mandante se obriga perante terceiros, com ação de perdas e danos contra o mandatário.
+P: Instruções internas não oponíveis || Limites do mandato || Regresso contra o mandatário
+K: mandato; instruções; terceiros
+
+@CC 680
+I: Mandato outorgado por várias pessoas para negócio comum gera responsabilidade solidária delas perante o mandatário, com regresso entre si.
+P: Solidariedade dos mandantes || Negócio comum || Regresso
+K: mandato; solidariedade
+
+@CC 681
+I: O mandatário tem direito de retenção sobre a coisa que possui pelo mandato até ser reembolsado.
+P: Retenção || Reembolso de despesas || Posse pelo mandato
+K: mandato; retenção
+
+@CC 682
+I: O mandato cessa por revogação ou renúncia, morte ou interdição de uma das partes, mudança de estado que inabilite, término do prazo ou conclusão do negócio.
+P: Causas de extinção || Revogação e renúncia || Morte e prazo
+K: mandato; extinção; revogação
+
+@CC 683
+I: Revogado mandato com cláusula de irrevogabilidade, o mandante paga perdas e danos.
+P: Revogação eficaz || Perdas e danos || Cláusula de irrevogabilidade
+K: mandato; irrevogabilidade
+
+@CC 684
+I: Se a irrevogabilidade for condição de negócio bilateral ou no exclusivo interesse do mandatário, a revogação é ineficaz.
+P: Revogação ineficaz || Negócio bilateral || Interesse do mandatário
+K: mandato; irrevogabilidade
+
+@CC 685
+I: No mandato em causa própria, a revogação é ineficaz, não se extingue pela morte, dispensa contas e permite ao mandatário transferir os bens para si, observadas as formalidades.
+P: Mandato em causa própria || Irrevogável e sobrevive à morte || Transferência para si
+K: mandato em causa própria; irrevogabilidade
+
+@CC 686
+I: A revogação notificada só ao mandatário não se opõe a terceiros de boa-fé que com ele trataram, ressalvadas as ações do mandante contra o procurador; é irrevogável o mandato para cumprir negócio já iniciado.
+P: Proteção de terceiros de boa-fé || Ações contra o procurador || Irrevogabilidade em negócio iniciado
+K: mandato; revogação; terceiros

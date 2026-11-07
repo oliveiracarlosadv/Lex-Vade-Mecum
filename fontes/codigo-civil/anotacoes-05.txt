@@ -1,0 +1,449 @@
+@CC 311
+I: Presume-se autorizado a receber o pagamento quem apresenta a quitação, salvo se as circunstâncias afastarem essa presunção.
+P: Portador da quitação || Presunção relativa || Teoria da aparência
+K: quitação; pagamento; presunção
+
+@CC 312
+I: Se o devedor paga ao credor depois de intimado da penhora do crédito ou de impugnação de terceiros, o pagamento não vale contra estes, que podem obrigá-lo a pagar de novo; resta-lhe o regresso contra o credor.
+P: Quem paga mal paga duas vezes || Ciência da penhora || Regresso contra o credor
+K: penhora de crédito; pagamento indevido
+
+@CC 313
+I: O credor não é obrigado a receber prestação diferente da devida, ainda que mais valiosa (princípio da identidade da prestação).
+P: Identidade da prestação || Nem mesmo mais valiosa || Dação depende de consentimento
+K: objeto do pagamento; identidade; dação em pagamento
+
+@CC 314
+I: Mesmo sendo divisível a prestação, o credor não é obrigado a receber, nem o devedor a pagar, por partes, salvo ajuste (princípio da indivisibilidade do pagamento).
+P: Pagamento integral || Parcelamento só se ajustado || Integralidade
+K: pagamento parcial; indivisibilidade do pagamento
+
+@CC 315
+I: Dívidas em dinheiro são pagas no vencimento, em moeda corrente e pelo valor nominal (nominalismo), salvo as exceções dos artigos seguintes.
+P: Princípio do nominalismo || Moeda corrente || Exceções: correção e revisão
+K: dívida em dinheiro; nominalismo; moeda corrente
+
+@CC 316
+I: É lícito convencionar aumento progressivo de prestações sucessivas (escalonamento).
+P: Prestações escalonadas || Autonomia privada || Limites legais de reajuste
+K: prestações sucessivas; aumento progressivo
+
+@CC 317
+I: Se, por motivo imprevisível, surgir desproporção manifesta entre o valor da prestação e o do momento da execução, o juiz pode corrigi-la a pedido da parte para assegurar seu valor real (teoria da imprevisão).
+P: Revisão por fato imprevisível || Desproporção manifesta || Preservação do valor real
+K: teoria da imprevisão; revisão judicial; desproporção
+
+@CC 318
+I: São nulas as cláusulas de pagamento em ouro ou moeda estrangeira, ou de compensação cambial, salvo exceções da lei especial (hoje Lei nº 14.286/2021). Admite-se fixar o valor em moeda estrangeira desde que o pagamento seja convertido em reais.
+P: Curso forçado da moeda nacional || Nulidade da cláusula-ouro e cambial || Exceções da legislação cambial
+K: moeda estrangeira; cláusula ouro; curso forçado
+
+@CC 319
+I: O devedor que paga tem direito a quitação regular e pode reter o pagamento enquanto não a receber.
+P: Direito à quitação || Retenção legítima do pagamento || Prova do pagamento
+K: quitação; retenção
+
+@CC 320
+I: A quitação pode ser dada por instrumento particular e deve indicar valor, espécie da dívida, devedor, tempo, lugar e assinatura do credor; mesmo sem esses requisitos, vale se os termos ou as circunstâncias provarem o pagamento.
+P: Requisitos da quitação || Instrumento particular basta || Aproveitamento por outras provas
+K: quitação; recibo; prova do pagamento
+
+@CC 321
+I: Se a quitação consistir na devolução do título e este se perder, o devedor pode reter o pagamento até receber declaração que inutilize o título.
+P: Título perdido || Declaração de inutilização || Retenção do pagamento
+K: título; quitação; inutilização
+
+@CC 322
+I: Nas prestações periódicas, a quitação da última faz presumir, até prova em contrário, o pagamento das anteriores.
+P: Presunção relativa || Quotas periódicas || Ex.: aluguéis e condomínio
+K: quitação; presunção; prestações periódicas
+
+@CC 323
+I: Dada quitação do capital sem ressalva dos juros, estes presumem-se pagos.
+P: Presunção de pagamento dos juros || Ausência de ressalva || Presunção relativa
+K: juros; quitação; presunção
+
+@CC 324
+I: A entrega do título ao devedor presume o pagamento, mas a quitação fica sem efeito se o credor provar, em 60 dias, que não houve pagamento.
+P: Presunção pela entrega do título || Prova contrária em 60 dias || Títulos de crédito
+K: título; presunção de pagamento; prazo
+
+@CC 325
+I: As despesas do pagamento e da quitação presumem-se do devedor; o aumento causado pelo credor fica a cargo deste.
+P: Despesas a cargo do devedor || Acréscimo causado pelo credor || Presunção
+K: despesas; pagamento; quitação
+
+@CC 326
+I: No pagamento por medida ou peso, no silêncio das partes, adotam-se os do lugar da execução.
+P: Medidas do lugar da execução || Silêncio das partes || Integração
+K: pagamento; peso; medida
+
+@CC 327
+I: O pagamento é feito no domicílio do devedor (dívida quesível), salvo convenção, lei, natureza da obrigação ou circunstâncias em contrário; com dois ou mais lugares designados, o credor escolhe.
+P: Regra: dívida quesível || Exceções || Escolha do credor entre lugares
+K: lugar do pagamento; quesível; portável
+
+@CC 328
+I: Se o pagamento for a entrega de imóvel ou prestações relativas a imóvel, faz-se no lugar do bem.
+P: Lugar do imóvel || Tradição de imóvel || Prestações relativas ao bem
+K: lugar do pagamento; imóvel
+
+@CC 329
+I: Havendo motivo grave, o devedor pode pagar em outro lugar, desde que não prejudique o credor.
+P: Motivo grave || Lugar diverso || Sem prejuízo ao credor
+K: lugar do pagamento; motivo grave
+
+@CC 330
+I: O pagamento reiteradamente feito em outro local presume renúncia do credor ao lugar previsto no contrato (supressio).
+P: Supressio || Pagamento reiterado || Renúncia presumida
+K: supressio; lugar do pagamento; boa-fé
+
+@CC 331
+I: Sem prazo ajustado e salvo lei em contrário, o credor pode exigir o pagamento imediatamente.
+P: Exigibilidade imediata || Obrigações sem prazo || Interpelação para constituir mora
+K: tempo do pagamento; vencimento
+
+@CC 332
+I: As obrigações condicionais cumprem-se na data do implemento da condição, cabendo ao credor provar que o devedor teve ciência.
+P: Implemento da condição || Ciência do devedor || Ônus do credor
+K: obrigação condicional; vencimento
+
+@CC 333
+I: O credor pode cobrar antes do vencimento se o devedor falir ou houver concurso de credores, se os bens dados em garantia forem penhorados por outro credor, ou se as garantias cessarem ou se tornarem insuficientes e o devedor não as reforçar. Na solidariedade, o vencimento antecipado não atinge os devedores solventes.
+P: Vencimento antecipado || Falência, penhora ou perda de garantias || Devedores solidários solventes preservados
+K: vencimento antecipado; garantias; insolvência
+
+@CC 334
+I: O depósito judicial ou bancário da coisa devida, nos casos e na forma da lei, vale como pagamento e extingue a obrigação.
+P: Consignação como pagamento || Judicial ou bancária || Extinção da obrigação
+K: consignação em pagamento; depósito
+
+@CC 335
+I: A consignação cabe quando o credor não pode ou se recusa a receber ou dar quitação, não vai receber, é incapaz, desconhecido, ausente ou de acesso perigoso, quando há dúvida sobre quem deve receber ou quando o objeto é litigioso.
+P: Hipóteses de consignação || Mora do credor e incerteza || Litígio sobre o objeto
+K: consignação em pagamento; recusa do credor
+
+@CC 336
+I: Para valer como pagamento, a consignação deve atender a todos os requisitos de validade do pagamento quanto a pessoas, objeto, modo e tempo.
+P: Requisitos do pagamento || Integralidade || Tempestividade
+K: consignação; requisitos
+
+@CC 337
+I: O depósito é requerido no lugar do pagamento e, feito, cessam os juros e os riscos para o devedor, salvo se julgado improcedente.
+P: Lugar do depósito || Cessação de juros e riscos || Condição: procedência
+K: consignação; juros; riscos
+
+@CC 338
+I: Enquanto o credor não aceitar nem impugnar o depósito, o devedor pode levantá-lo, pagando as despesas, e a obrigação subsiste.
+P: Levantamento pelo devedor || Antes da aceitação || Subsistência da obrigação
+K: consignação; levantamento
+
+@CC 339
+I: Julgado procedente o depósito, o devedor só pode levantá-lo com a concordância dos outros devedores e fiadores, ainda que o credor consinta.
+P: Proteção dos codevedores e fiadores || Após a procedência || Anuência necessária
+K: consignação; fiadores; levantamento
+
+@CC 340
+I: O credor que, depois de contestar ou aceitar o depósito, concordar com o levantamento perde a preferência e a garantia sobre a coisa, liberando codevedores e fiadores que não anuíram.
+P: Perda da preferência e da garantia || Liberação de codevedores e fiadores || Consequência da anuência
+K: consignação; garantia; fiador
+
+@CC 341
+I: Se a coisa devida for imóvel ou corpo certo a ser entregue onde está, o devedor pode citar o credor para recebê-la, sob pena de depósito.
+P: Coisa certa no local || Citação do credor || Depósito como sanção
+K: consignação; imóvel; corpo certo
+
+@CC 342
+I: Se a escolha da coisa indeterminada couber ao credor, ele é citado para escolher, sob pena de perder o direito e de ser depositada a coisa escolhida pelo devedor.
+P: Citação para escolher || Perda do direito de escolha || Depósito
+K: consignação; escolha; coisa incerta
+
+@CC 343
+I: As despesas do depósito ficam com o credor se julgado procedente e com o devedor se improcedente.
+P: Sucumbência || Procedência: credor paga || Improcedência: devedor paga
+K: consignação; despesas
+
+@CC 344
+I: O devedor de obrigação litigiosa se libera consignando; se pagar a um dos pretendentes sabendo do litígio, assume o risco.
+P: Obrigação litigiosa || Consignação libera || Pagamento a pretendente é risco do devedor
+K: consignação; obrigação litigiosa
+
+@CC 345
+I: Vencida a dívida durante litígio entre credores que se excluem, qualquer deles pode requerer a consignação.
+P: Legitimidade do credor para consignar || Litígio entre credores || Proteção do crédito
+K: consignação; litígio entre credores
+
+@CC 346
+I: A sub-rogação legal ocorre em favor do credor que paga a dívida do devedor comum, do adquirente de imóvel hipotecado ou terceiro que paga para não perder direito sobre imóvel, e do terceiro interessado que paga dívida pela qual podia ser obrigado (como o fiador).
+P: Hipóteses de sub-rogação legal || Independe de acordo || Terceiro interessado
+K: sub-rogação legal; terceiro interessado; fiador
+
+@CC 347
+I: A sub-rogação é convencional quando o credor recebe de terceiro e lhe transfere expressamente seus direitos, ou quando terceiro empresta ao devedor sob condição expressa de ficar sub-rogado.
+P: Sub-rogação convencional || Transferência expressa || Mútuo com sub-rogação
+K: sub-rogação convencional
+
+@CC 348
+I: Na sub-rogação convencional pelo credor (art. 347, I), aplicam-se as regras da cessão de crédito.
+P: Regime da cessão || Notificação do devedor || Garantias
+K: sub-rogação convencional; cessão de crédito
+
+@CC 349
+I: A sub-rogação transfere ao novo credor todos os direitos, ações, privilégios e garantias do primitivo contra o devedor e os fiadores.
+P: Transmissão integral || Garantias e privilégios || Contra devedor e fiadores
+K: sub-rogação; efeitos; garantias
+
+@CC 350
+I: Na sub-rogação legal, o sub-rogado só exerce os direitos do credor até o valor que desembolsou.
+P: Limite do desembolso || Sub-rogação legal || Vedação de especulação
+K: sub-rogação legal; limite
+
+@CC 351
+I: O credor reembolsado em parte tem preferência sobre o sub-rogado na cobrança do restante, se os bens do devedor não bastarem para ambos.
+P: Preferência do credor originário || Sub-rogação parcial || Insuficiência de bens
+K: sub-rogação parcial; preferência
+
+@CC 352
+I: Quem deve várias dívidas líquidas e vencidas da mesma natureza a um só credor pode indicar qual delas está pagando.
+P: Imputação pelo devedor || Dívidas líquidas e vencidas || Mesma natureza e credor
+K: imputação do pagamento
+
+@CC 353
+I: Se o devedor não indicou e aceitou quitação de uma das dívidas, não pode reclamar da imputação feita pelo credor, salvo violência ou dolo.
+P: Imputação pelo credor || Aceitação da quitação || Exceção: violência ou dolo
+K: imputação do pagamento; credor
+
+@CC 354
+I: Havendo capital e juros, o pagamento se imputa primeiro nos juros vencidos e depois no capital, salvo estipulação ou quitação por conta do capital.
+P: Juros antes do capital || Salvo estipulação || Quitação por conta do capital
+K: imputação; juros; capital
+
+@CC 355
+I: Sem indicação do devedor e com quitação omissa, a imputação se faz na dívida líquida e vencida em primeiro lugar; vencidas ao mesmo tempo, na mais onerosa (imputação legal).
+P: Imputação legal || Dívida mais antiga || Dívida mais onerosa
+K: imputação legal; dívida onerosa
+
+@CC 356
+I: O credor pode aceitar prestação diferente da devida (dação em pagamento), extinguindo a obrigação.
+P: Dação em pagamento || Consentimento do credor || Extinção da obrigação
+K: dação em pagamento
+
+@CC 357
+I: Fixado o preço da coisa dada em pagamento, aplicam-se as regras da compra e venda.
+P: Regras da compra e venda || Preço determinado || Vícios e evicção
+K: dação em pagamento; compra e venda
+
+@CC 358
+I: Se a coisa dada em pagamento for título de crédito, a transferência equivale a cessão.
+P: Título de crédito || Regime da cessão || Notificação
+K: dação em pagamento; título de crédito; cessão
+
+@CC 359
+I: Se o credor perder por evicção a coisa recebida em pagamento, restabelece-se a obrigação original, sem efeito a quitação, ressalvados direitos de terceiros.
+P: Evicção da coisa dada || Restabelecimento da obrigação || Terceiros de boa-fé protegidos
+K: dação em pagamento; evicção
+
+@CC 360
+I: Há novação quando o devedor contrai nova dívida para extinguir a anterior (objetiva), quando novo devedor substitui o antigo (subjetiva passiva) ou quando novo credor substitui o antigo (subjetiva ativa).
+P: Novação objetiva || Novação subjetiva passiva || Novação subjetiva ativa
+K: novação; extinção da obrigação
+
+@CC 361
+I: Sem ânimo de novar, expresso ou tácito mas inequívoco, a nova obrigação apenas confirma a primeira. A renegociação de dívida bancária não implica, por si, novação (Súmula 286 do STJ permite rever contratos anteriores).
+P: Animus novandi indispensável || Inequívoco || Renegociação não impede revisão (Súmula 286 STJ)
+K: animus novandi; novação; Súmula 286 STJ
+
+@CC 362
+I: A novação por substituição do devedor pode ocorrer sem o consentimento deste (expromissão).
+P: Expromissão || Dispensa consentimento do devedor || Acordo entre credor e novo devedor
+K: novação subjetiva passiva; expromissão
+
+@CC 363
+I: Se o novo devedor for insolvente, o credor que o aceitou não tem regresso contra o primeiro, salvo má-fé deste.
+P: Risco do credor || Sem regresso || Exceção: má-fé
+K: novação; insolvência
+
+@CC 364
+I: A novação extingue os acessórios e garantias da dívida, salvo estipulação; a ressalva não vale para penhor, hipoteca ou anticrese de terceiro que não participou da novação.
+P: Extinção dos acessórios || Ressalva possível || Garantias de terceiros extintas
+K: novação; garantias; acessórios
+
+@CC 365
+I: Na novação com um devedor solidário, preferências e garantias só subsistem sobre os bens dele, e os outros devedores ficam exonerados.
+P: Exoneração dos demais solidários || Garantias restritas || Efeito extintivo
+K: novação; solidariedade
+
+@CC 366
+I: A novação feita sem consentimento do fiador o exonera. A Súmula 214 do STJ aplica a ideia aos aditamentos da locação sem anuência do fiador.
+P: Exoneração do fiador || Ausência de consentimento || Súmula 214 do STJ
+K: novação; fiador; Súmula 214 STJ
+
+@CC 367
+I: Obrigações nulas ou extintas não podem ser novadas; as anuláveis podem.
+P: Nulas não se novam || Anuláveis podem || Novação confirma a anulável
+K: novação; nulidade; anulabilidade
+
+@CC 368
+I: Quando duas pessoas são credora e devedora uma da outra, as obrigações se extinguem até onde se compensarem.
+P: Reciprocidade de créditos || Extinção até o limite || Compensação legal
+K: compensação; extinção da obrigação
+
+@CC 369
+I: A compensação legal exige dívidas líquidas, vencidas e de coisas fungíveis.
+P: Liquidez || Exigibilidade || Fungibilidade
+K: compensação; requisitos
+
+@CC 370
+I: Coisas fungíveis do mesmo gênero não se compensam se diferirem na qualidade especificada no contrato.
+P: Homogeneidade || Qualidade especificada || Limite à compensação
+K: compensação; fungíveis; qualidade
+
+@CC 371
+I: O devedor só compensa com o que o credor lhe deve, mas o fiador pode compensar sua dívida com o que o credor deve ao afiançado.
+P: Reciprocidade pessoal || Exceção do fiador || Proteção da garantia
+K: compensação; fiador
+
+@CC 372
+I: Prazos de favor, mesmo consagrados pelo uso, não impedem a compensação.
+P: Prazos de favor || Não obstam || Vencimento efetivo
+K: compensação; prazo de favor
+
+@CC 373
+I: A diferença de causa não impede a compensação, salvo se uma dívida vier de esbulho, furto ou roubo, de comodato, depósito ou alimentos, ou de coisa impenhorável.
+P: Causa indiferente || Exceções: ilícito, comodato, depósito, alimentos || Impenhorabilidade
+K: compensação; alimentos; depósito; impenhorável
+
+@CC 375
+I: Não há compensação se as partes a excluírem por acordo ou se uma delas renunciar previamente a ela.
+P: Exclusão convencional || Renúncia prévia || Autonomia privada
+K: compensação; renúncia
+
+@CC 376
+I: Quem se obrigou por terceiro não pode compensar essa dívida com o que o credor lhe deve.
+P: Obrigação por terceiro || Falta de reciprocidade || Vedação
+K: compensação; terceiro
+
+@CC 377
+I: O devedor notificado da cessão que não se opõe a ela não pode opor ao cessionário a compensação que teria contra o cedente; se não foi notificado, pode opor a compensação do crédito anterior à notificação.
+P: Cessão e compensação || Notificação || Silêncio do devedor
+K: compensação; cessão de crédito
+
+@CC 378
+I: Dívidas pagáveis em lugares diferentes só se compensam com dedução das despesas da operação.
+P: Lugares diversos || Dedução de despesas || Compensação possível
+K: compensação; lugar do pagamento
+
+@CC 379
+I: Havendo várias dívidas compensáveis, aplicam-se as regras da imputação do pagamento.
+P: Regras de imputação || Pluralidade de dívidas || Ordem de compensação
+K: compensação; imputação
+
+@CC 380
+I: A compensação não pode prejudicar terceiros: o devedor que se torna credor de seu credor após a penhora do crédito não pode opor a compensação ao exequente.
+P: Proteção de terceiros || Crédito penhorado || Vedação posterior à penhora
+K: compensação; penhora; terceiros
+
+@CC 381
+I: A obrigação se extingue quando, na mesma pessoa, se reúnem as qualidades de credor e devedor (confusão), como na herança do credor pelo devedor.
+P: Reunião de qualidades || Extinção da obrigação || Ex.: sucessão
+K: confusão; extinção da obrigação
+
+@CC 382
+I: A confusão pode abranger toda a dívida ou só parte dela.
+P: Confusão total || Confusão parcial || Extensão
+K: confusão
+
+@CC 383
+I: A confusão na pessoa de credor ou devedor solidário extingue a obrigação só quanto à sua parte, subsistindo a solidariedade no restante.
+P: Efeito limitado na solidariedade || Quota do confundente || Subsistência da solidariedade
+K: confusão; solidariedade
+
+@CC 384
+I: Cessando a confusão, a obrigação anterior se restabelece com todos os acessórios.
+P: Restabelecimento || Acessórios incluídos || Ex.: anulação do testamento
+K: confusão; restabelecimento
+
+@CC 385
+I: A remissão (perdão) da dívida, aceita pelo devedor, extingue a obrigação, sem prejudicar terceiros.
+P: Remissão bilateral || Aceitação do devedor || Proteção de terceiros
+K: remissão; perdão de dívida
+
+@CC 386
+I: A devolução voluntária do título particular prova a liberação do devedor e coobrigados, se o credor puder alienar e o devedor puder adquirir.
+P: Devolução do título || Prova da remissão || Capacidade das partes
+K: remissão; devolução do título
+
+@CC 387
+I: A devolução voluntária do bem empenhado prova a renúncia à garantia, não a extinção da dívida.
+P: Renúncia à garantia real || Dívida subsiste || Penhor
+K: remissão; penhor; renúncia à garantia
+
+@CC 388
+I: O perdão a um codevedor extingue a dívida na parte dele; mesmo reservando a solidariedade, o credor só cobra dos outros com dedução dessa parte.
+P: Remissão parcial || Dedução da quota || Solidariedade remanescente
+K: remissão; solidariedade
+
+@CC 389
+I: Descumprida a obrigação, o devedor responde por perdas e danos, juros, atualização monetária e honorários de advogado. Desde a Lei nº 14.905/2024, se o índice não for convencionado nem previsto em lei, aplica-se o IPCA.
+P: Responsabilidade contratual || Perdas e danos, juros, correção e honorários || IPCA como índice supletivo
+K: inadimplemento; perdas e danos; correção monetária; IPCA; Lei 14.905/2024
+
+@CC 390
+I: Nas obrigações de não fazer, o devedor está inadimplente desde o dia em que praticou o ato proibido.
+P: Inadimplemento imediato || Obrigação negativa || Dispensa interpelação
+K: obrigação de não fazer; inadimplemento
+
+@CC 391
+I: Todos os bens do devedor respondem pelo inadimplemento (responsabilidade patrimonial), ressalvados os impenhoráveis.
+P: Responsabilidade patrimonial || Patrimônio como garantia geral || Exceção: impenhorabilidade
+K: responsabilidade patrimonial; bens do devedor
+
+@CC 392
+I: Nos contratos benéficos, quem se beneficia responde por culpa e quem não se beneficia, só por dolo; nos onerosos, cada parte responde por culpa, salvo exceções legais. A Súmula 145 do STJ aplica a regra ao transporte gratuito (só dolo ou culpa grave).
+P: Contratos gratuitos: dolo para quem não se beneficia || Contratos onerosos: culpa || Transporte de cortesia (Súmula 145 STJ)
+K: contrato benéfico; culpa; dolo; Súmula 145 STJ
+
+@CC 393
+I: O devedor não responde por prejuízos de caso fortuito ou força maior, salvo se assumiu expressamente esse risco. O fortuito é o fato necessário cujos efeitos não era possível evitar ou impedir. O fortuito interno, ligado ao risco da atividade, não exclui a responsabilidade (Súmula 479 do STJ).
+P: Excludente de responsabilidade || Inevitabilidade || Fortuito interno não exclui (Súmula 479 STJ)
+K: caso fortuito; força maior; fortuito interno; Súmula 479 STJ
+
+@CC 394
+I: Está em mora o devedor que não paga e o credor que não recebe no tempo, lugar e forma devidos.
+P: Mora do devedor || Mora do credor || Tempo, lugar e forma
+K: mora; mora do devedor; mora do credor
+
+@CC 395
+I: O devedor em mora responde pelos prejuízos, juros, atualização monetária e honorários. Se a prestação se tornar inútil ao credor, ele pode rejeitá-la e exigir perdas e danos.
+P: Efeitos da mora || Inutilidade da prestação || Conversão em inadimplemento absoluto
+K: mora; perdas e danos; inadimplemento absoluto
+
+@CC 396
+I: Sem fato ou omissão imputável ao devedor, não há mora. A cobrança de encargos abusivos no período de normalidade afasta a mora do devedor (STJ).
+P: Imputabilidade || Mora exige culpa || Encargos abusivos descaracterizam a mora
+K: mora; imputabilidade; culpa
+
+@CC 397
+I: O inadimplemento de obrigação positiva e líquida no vencimento constitui o devedor em mora automaticamente (mora ex re); sem termo, a mora depende de interpelação (mora ex persona).
+P: Mora ex re || Mora ex persona || Interpelação judicial ou extrajudicial
+K: mora ex re; mora ex persona; interpelação
+
+@CC 398
+I: Nas obrigações de ato ilícito, o devedor está em mora desde que o praticou; os juros contam do evento danoso (Súmula 54 do STJ).
+P: Mora desde o ato ilícito || Responsabilidade extracontratual || Juros do evento danoso (Súmula 54 STJ)
+K: mora; ato ilícito; juros; Súmula 54 STJ
+
+@CC 399
+I: O devedor em mora responde pela impossibilidade da prestação, mesmo por caso fortuito durante o atraso, salvo se provar ausência de culpa ou que o dano ocorreria de qualquer forma.
+P: Perpetuação da obrigação || Fortuito durante a mora || Exceções do devedor
+K: mora; caso fortuito; perpetuatio obligationis
+
+@CC 400
+I: A mora do credor libera o devedor sem dolo da conservação da coisa, obriga o credor a ressarcir despesas de conservação e a receber pela estimativa mais favorável ao devedor.
+P: Efeitos da mora do credor || Despesas de conservação || Valor mais favorável ao devedor
+K: mora do credor; conservação
+
+@CC 401
+I: Purga-se a mora: pelo devedor, oferecendo a prestação e os prejuízos até a oferta; pelo credor, oferecendo-se a receber e sujeitando-se aos efeitos da mora até então.
+P: Purgação da mora pelo devedor || Purgação pelo credor || Emenda da mora
+K: purgação da mora; emenda da mora

@@ -1,0 +1,649 @@
+@CC 1801
+I: Não podem ser herdeiros nem legatários quem escreveu o testamento a rogo (e cônjuge, companheiro, ascendentes e irmãos), as testemunhas, o concubino do testador casado (salvo se separado de fato há mais de 5 anos sem culpa dele) e o tabelião ou quem fez ou aprovou o testamento.
+P: Falta de legitimação testamentária || Redator e testemunhas || Concubino do testador casado
+K: sucessão testamentária; ilegitimidade
+
+@CC 1802
+I: São nulas as disposições a favor de não legitimados, mesmo simuladas como contrato oneroso ou por interposta pessoa (presumem-se interpostos os ascendentes, descendentes, irmãos e cônjuge ou companheiro do não legitimado).
+P: Nulidade || Simulação e interposta pessoa || Presunção legal
+K: sucessão testamentária; interposta pessoa; nulidade
+
+@CC 1803
+I: É lícita a deixa ao filho do concubino quando também for filho do testador (Súmula 447 do STF).
+P: Filho comum || Validade da deixa || Igualdade da filiação
+K: testamento; filho do concubino
+
+@CC 1804
+I: Aceita a herança, a transmissão torna-se definitiva desde a abertura da sucessão; renunciada, considera-se não verificada.
+P: Aceitação confirma a saisine || Renúncia retroage || Efeitos ex tunc
+K: aceitação da herança; renúncia
+
+@CC 1805
+I: A aceitação expressa é feita por escrito; a tácita resulta de atos próprios de herdeiro. Atos oficiosos (funeral), meramente conservatórios ou de administração provisória não implicam aceitação, nem a cessão gratuita, pura e simples aos demais coerdeiros.
+P: Aceitação expressa ou tácita || Atos que não importam aceitação || Cessão gratuita aos coerdeiros
+K: aceitação da herança
+
+@CC 1806
+I: A renúncia à herança deve ser expressa, por instrumento público ou termo judicial.
+P: Forma solene || Instrumento público ou termo nos autos || Ato expresso
+K: renúncia à herança; forma
+
+@CC 1807
+I: Interessado pode, 20 dias após a abertura da sucessão, pedir ao juiz prazo de até 30 dias para o herdeiro declarar se aceita; o silêncio vale como aceitação.
+P: Interpelação do herdeiro || Prazo de até 30 dias || Silêncio como aceitação
+K: aceitação da herança; interpelação
+
+@CC 1808
+I: Não se pode aceitar ou renunciar a herança em parte, sob condição ou termo; mas o herdeiro pode aceitar legados e renunciar à herança, ou vice-versa, e aceitar quinhões a títulos diversos separadamente.
+P: Indivisibilidade da aceitação || Ato puro || Títulos sucessórios diversos
+K: aceitação da herança; renúncia parcial
+
+@CC 1809
+I: Morrendo o herdeiro antes de aceitar, o poder de aceitar passa a seus herdeiros, salvo vocação sob condição suspensiva ainda não verificada; estes podem aceitar a primeira herança se aceitarem a segunda.
+P: Direito de deliberar transmissível || Sucessão sucessiva || Condição suspensiva
+K: aceitação da herança; herdeiros do herdeiro
+
+@CC 1810
+I: Na sucessão legítima, a parte do renunciante acresce à dos outros herdeiros da mesma classe; se era o único, passa à classe seguinte.
+P: Acrescimento na mesma classe || Devolução à classe seguinte || Renúncia
+K: renúncia; direito de acrescer
+
+@CC 1811
+I: Não há representação de herdeiro renunciante; mas, se ele for o único da classe ou todos renunciarem, seus filhos herdam por direito próprio e por cabeça.
+P: Sem representação do renunciante || Herança por direito próprio || Por cabeça
+K: renúncia; representação
+
+@CC 1812
+I: A aceitação e a renúncia da herança são irrevogáveis.
+P: Irrevogabilidade || Segurança jurídica || Anulação só por vício
+K: aceitação; renúncia; irrevogabilidade
+
+@CC 1813
+I: Se a renúncia prejudicar credores do herdeiro, eles podem aceitar a herança em seu nome, com autorização judicial, em 30 dias do conhecimento do fato; pago o crédito, o restante vai aos demais herdeiros.
+P: Aceitação pelos credores || Prazo de 30 dias || Remanescente aos herdeiros
+K: renúncia à herança; credores
+
+@CC 1814
+I: São excluídos da sucessão por indignidade os autores, coautores ou partícipes de homicídio doloso ou tentativa contra o autor da herança, seu cônjuge, companheiro, ascendente ou descendente; os que o acusaram caluniosamente ou cometeram crime contra sua honra; e os que, por violência ou fraude, impediram sua livre disposição de bens.
+P: Hipóteses de indignidade || Homicídio e crimes contra a honra || Violência ou fraude contra a liberdade de testar
+K: indignidade; exclusão da sucessão
+
+@CC 1815
+I: A exclusão por indignidade é declarada por sentença, e o direito de pedi-la extingue-se em 4 anos da abertura da sucessão; o MP tem legitimidade no caso de homicídio.
+P: Declaração judicial || Decadência de 4 anos || Legitimidade do MP
+K: indignidade; ação de exclusão; decadência
+
+@CC 1815-A
+I: Nos casos de indignidade, o trânsito em julgado da sentença penal condenatória acarreta a exclusão imediata do herdeiro ou legatário, independentemente da sentença civil (Lei nº 14.661/2023).
+P: Exclusão automática || Sentença penal transitada || Dispensa ação cível
+K: indignidade; sentença penal; Lei 14.661/2023
+
+@CC 1816
+I: A exclusão tem efeitos pessoais: os descendentes do excluído herdam como se ele tivesse morrido antes; o excluído não tem usufruto nem administração desses bens nem os herda.
+P: Efeitos pessoais || Representação pelos descendentes || Sem usufruto nem sucessão
+K: indignidade; efeitos; representação
+
+@CC 1817
+I: Valem as alienações onerosas a terceiros de boa-fé e os atos de administração do excluído antes da sentença, mas os herdeiros podem pedir perdas e danos; o excluído restitui frutos e tem direito às despesas de conservação.
+P: Proteção de terceiros de boa-fé || Perdas e danos || Restituição dos frutos
+K: indignidade; herdeiro aparente
+
+@CC 1818
+I: O indigno pode suceder se o ofendido o reabilitar expressamente em testamento ou ato autêntico; o contemplado em testamento feito sabendo da causa pode suceder no limite da disposição.
+P: Reabilitação expressa || Perdão tácito limitado || Testamento posterior
+K: indignidade; reabilitação; perdão
+
+@CC 1819
+I: Sem testamento nem herdeiro notoriamente conhecido, os bens arrecadados ficam com curador até a entrega ao sucessor habilitado ou a declaração de vacância (herança jacente).
+P: Herança jacente || Arrecadação e curador || Até habilitação ou vacância
+K: herança jacente
+
+@CC 1820
+I: Feitas a arrecadação e o inventário, expedem-se editais; passado 1 ano sem herdeiro habilitado, a herança é declarada vacante.
+P: Editais || Prazo de 1 ano || Declaração de vacância
+K: herança jacente; vacância
+
+@CC 1821
+I: Os credores podem pedir o pagamento das dívidas reconhecidas, nos limites da herança.
+P: Direito dos credores || Forças da herança || Dívidas reconhecidas
+K: herança jacente; credores
+
+@CC 1822
+I: A vacância não prejudica herdeiros que se habilitem, mas, após 5 anos da abertura da sucessão, os bens passam ao Município, DF ou União; colaterais não habilitados até a vacância ficam excluídos.
+P: Prazo de 5 anos || Destino público || Exclusão dos colaterais
+K: herança vacante; Município
+
+@CC 1823
+I: Se todos os chamados renunciarem, a herança é declarada vacante desde logo.
+P: Renúncia geral || Vacância imediata || Sem jacência
+K: herança vacante; renúncia
+
+@CC 1824
+I: O herdeiro pode propor petição de herança para ver reconhecido seu direito e obter a herança de quem a possua como herdeiro ou sem título. Para o STJ, a pretensão prescreve em 10 anos contados da abertura da sucessão, sendo imprescritível apenas o reconhecimento da paternidade.
+P: Ação de petição de herança || Reconhecimento e restituição || Prescrição de 10 anos
+K: petição de herança
+
+@CC 1825
+I: A petição de herança proposta por um só herdeiro pode abranger todos os bens hereditários.
+P: Universalidade || Um herdeiro pelos demais || Defesa da herança
+K: petição de herança; universalidade
+
+@CC 1826
+I: O possuidor da herança deve restituir os bens, respondendo segundo as regras da posse de boa ou má-fé; desde a citação, responde como possuidor de má-fé.
+P: Restituição || Boa ou má-fé || Citação marca a má-fé
+K: petição de herança; possuidor
+
+@CC 1827
+I: O herdeiro pode reivindicar bens da herança de terceiros, sem prejuízo da responsabilidade do possuidor original; valem as alienações onerosas do herdeiro aparente a terceiro de boa-fé.
+P: Reivindicação contra terceiros || Herdeiro aparente || Proteção do terceiro de boa-fé
+K: petição de herança; herdeiro aparente
+
+@CC 1828
+I: O herdeiro aparente que de boa-fé pagou legado não precisa restituir o equivalente ao verdadeiro sucessor, que pode agir contra quem recebeu.
+P: Pagamento de legado de boa-fé || Liberação do herdeiro aparente || Ação contra o legatário
+K: herdeiro aparente; legado
+
+@CC 1829
+I: A ordem da vocação hereditária é: descendentes, em concorrência com o cônjuge (salvo comunhão universal, separação obrigatória ou comunhão parcial sem bens particulares); ascendentes, com o cônjuge; cônjuge sozinho; colaterais. O companheiro tem os mesmos direitos (Tema 809 do STF). Para o STJ, na comunhão parcial, o cônjuge concorre só quanto aos bens particulares.
+P: Ordem de vocação || Concorrência do cônjuge conforme o regime || Companheiro equiparado
+K: ordem da vocação hereditária; concorrência sucessória; cônjuge
+
+@CC 1830
+I: O cônjuge sobrevivente só herda se não estava separado judicialmente nem de fato há mais de 2 anos, salvo prova de que a convivência se tornou impossível sem culpa dele.
+P: Requisito da convivência || Separação de fato por 2 anos || Culpa (crítica doutrinária)
+K: sucessão do cônjuge; separação de fato
+
+@CC 1831
+I: Ao cônjuge sobrevivente, em qualquer regime, assegura-se o direito real de habitação no imóvel da residência da família, se for o único dessa natureza a inventariar. O STJ estende o direito ao companheiro.
+P: Direito real de habitação || Qualquer regime || Companheiro incluído
+K: direito real de habitação; cônjuge sobrevivente
+
+@CC 1832
+I: Concorrendo com descendentes, o cônjuge recebe quinhão igual ao dos que herdam por cabeça, não inferior a 1/4 da herança se for ascendente dos herdeiros com quem concorrer.
+P: Quinhão igual || Reserva de 1/4 || Só se ascendente dos herdeiros
+K: concorrência sucessória; cônjuge; quarta parte
+
+@CC 1833
+I: Entre descendentes, os de grau mais próximo excluem os mais remotos, salvo o direito de representação.
+P: Grau mais próximo || Representação || Descendentes
+K: sucessão dos descendentes
+
+@CC 1834
+I: Descendentes da mesma classe têm iguais direitos na sucessão dos ascendentes.
+P: Igualdade entre descendentes || Mesma classe || Filiação igualitária
+K: sucessão dos descendentes; igualdade
+
+@CC 1835
+I: Os filhos sucedem por cabeça, e os demais descendentes por cabeça ou por estirpe, conforme estejam ou não no mesmo grau.
+P: Por cabeça e por estirpe || Mesmo grau || Representação
+K: sucessão por cabeça; sucessão por estirpe
+
+@CC 1836
+I: Sem descendentes, herdam os ascendentes em concorrência com o cônjuge; o grau mais próximo exclui o mais remoto, sem distinção de linhas, e, em igualdade de grau e diversidade de linhas, metade vai à paterna e metade à materna.
+P: Ascendentes com cônjuge || Grau mais próximo || Divisão entre linhas
+K: sucessão dos ascendentes
+
+@CC 1837
+I: Concorrendo com ascendentes de primeiro grau (pais), o cônjuge recebe 1/3; se houver só um ascendente ou se o grau for maior, recebe metade.
+P: Um terço com ambos os pais || Metade com um só ou avós || Concorrência
+K: concorrência sucessória; cônjuge; ascendentes
+
+@CC 1838
+I: Sem descendentes nem ascendentes, a herança vai inteira ao cônjuge sobrevivente.
+P: Cônjuge herda tudo || Terceira classe || Antes dos colaterais
+K: sucessão do cônjuge
+
+@CC 1839
+I: Sem cônjuge com direito sucessório, herdam os colaterais até o quarto grau.
+P: Colaterais até o 4º grau || Quarta classe || Sucessão legítima
+K: sucessão dos colaterais
+
+@CC 1840
+I: Entre colaterais, os mais próximos excluem os mais remotos, salvo a representação dos filhos de irmãos.
+P: Grau mais próximo || Representação dos sobrinhos || Colaterais
+K: sucessão dos colaterais; representação
+
+@CC 1841
+I: Concorrendo irmãos bilaterais e unilaterais, cada unilateral herda metade do que cabe a cada bilateral.
+P: Irmãos bilaterais e unilaterais || Metade para os unilaterais || Desigualdade legal
+K: sucessão dos colaterais; irmãos
+
+@CC 1842
+I: Sem irmão bilateral, os unilaterais herdam em partes iguais.
+P: Unilaterais iguais || Ausência de bilaterais || Divisão
+K: sucessão dos colaterais; irmãos unilaterais
+
+@CC 1843
+I: Sem irmãos, herdam os sobrinhos e, na falta destes, os tios; sobrinhos herdam por cabeça, aplicando-se a regra de bilateralidade.
+P: Sobrinhos antes dos tios || Por cabeça || Bilateralidade
+K: sucessão dos colaterais; sobrinhos; tios
+
+@CC 1844
+I: Sem cônjuge, companheiro ou parente sucessível, ou se renunciarem, a herança vai ao Município ou DF onde estiver, ou à União se em território federal.
+P: Destino público || Município, DF ou União || Ausência de herdeiros
+K: herança vacante; Município
+
+@CC 1845
+I: São herdeiros necessários os descendentes, ascendentes e o cônjuge ; se o companheiro também é herdeiro necessário após o Tema 809 do STF é questão ainda debatida.
+P: Herdeiros necessários || Descendentes, ascendentes e cônjuge || Companheiro em debate
+K: herdeiros necessários
+
+@CC 1846
+I: Pertence aos herdeiros necessários, de pleno direito, metade dos bens da herança (legítima).
+P: Legítima de 50% || De pleno direito || Indisponível
+K: legítima; herdeiros necessários
+
+@CC 1847
+I: A legítima é calculada sobre os bens existentes na abertura da sucessão, abatidas dívidas e despesas de funeral, somando-se os bens sujeitos a colação.
+P: Base de cálculo || Abatimento de dívidas || Colação
+K: legítima; cálculo; colação
+
+@CC 1848
+I: Salvo justa causa declarada no testamento, o testador não pode impor inalienabilidade, impenhorabilidade ou incomunicabilidade sobre a legítima, nem converter os bens em outros de espécie diversa.
+P: Justa causa para cláusulas restritivas || Proteção da legítima || Vedação de conversão
+K: cláusulas restritivas; legítima; justa causa
+
+@CC 1849
+I: O herdeiro necessário que receber a parte disponível ou legado não perde a legítima.
+P: Cumulação || Legítima preservada || Parte disponível
+K: herdeiro necessário; legítima; legado
+
+@CC 1850
+I: Para excluir os colaterais, basta o testador dispor de seus bens sem contemplá-los.
+P: Colaterais não são necessários || Exclusão por omissão || Liberdade de testar
+K: colaterais; exclusão
+
+@CC 1851
+I: Há direito de representação quando a lei chama certos parentes do falecido a suceder nos direitos em que ele sucederia, se vivo fosse.
+P: Representação || Substituição do pré-morto || Direito derivado
+K: direito de representação
+
+@CC 1852
+I: A representação ocorre na linha reta descendente, nunca na ascendente.
+P: Linha descendente || Vedação na ascendente || Limite
+K: direito de representação; linha reta
+
+@CC 1853
+I: Na linha colateral, só os filhos de irmãos do falecido representam, quando concorrem com irmãos deste.
+P: Sobrinhos representam || Concurso com irmãos || Limite colateral
+K: direito de representação; sobrinhos
+
+@CC 1854
+I: Os representantes só herdam o que herdaria o representado se vivo fosse.
+P: Limite do quinhão || Equivalência || Sucessão por estirpe
+K: direito de representação; quinhão
+
+@CC 1855
+I: O quinhão do representado divide-se igualmente entre os representantes.
+P: Divisão igualitária || Representantes || Estirpe
+K: direito de representação; divisão
+
+@CC 1856
+I: Quem renunciou à herança de uma pessoa pode representá-la na sucessão de outra.
+P: Renúncia não impede representação em outra sucessão || Sucessões distintas || Autonomia
+K: direito de representação; renúncia
+
+@CC 1857
+I: Toda pessoa capaz pode dispor por testamento de todos ou parte de seus bens, mas não da legítima; são válidas disposições não patrimoniais.
+P: Liberdade de testar || Limite da legítima || Disposições não patrimoniais
+K: testamento; liberdade de testar
+
+@CC 1858
+I: O testamento é ato personalíssimo e pode ser mudado a qualquer tempo.
+P: Personalíssimo || Revogável || Unilateral
+K: testamento; revogabilidade
+
+@CC 1859
+I: O direito de impugnar a validade do testamento extingue-se em 5 anos do seu registro.
+P: Prazo de 5 anos || Contado do registro || Impugnação da validade
+K: testamento; impugnação; prazo
+
+@CC 1860
+I: Além dos incapazes, não podem testar os que não tiverem pleno discernimento no ato; os maiores de 16 anos podem testar.
+P: Capacidade testamentária || Discernimento no ato || Maiores de 16
+K: capacidade de testar
+
+@CC 1861
+I: A incapacidade superveniente não invalida o testamento, nem a capacidade posterior valida o feito por incapaz.
+P: Momento da capacidade || Data do testamento || Irrelevância do posterior
+K: capacidade de testar; momento
+
+@CC 1862
+I: São testamentos ordinários o público, o cerrado e o particular.
+P: Formas ordinárias || Público, cerrado e particular || Tipicidade
+K: testamento; formas ordinárias
+
+@CC 1863
+I: É proibido o testamento conjuntivo (de mão comum), simultâneo, recíproco ou correspectivo.
+P: Vedação do testamento conjuntivo || Personalíssimo || Revogabilidade preservada
+K: testamento conjuntivo; vedação
+
+@CC 1864
+I: O testamento público é escrito pelo tabelião conforme as declarações do testador, lido em voz alta a ele e a duas testemunhas, e assinado por todos; pode ser escrito manualmente ou por meio mecânico.
+P: Lavratura pelo tabelião || Leitura e duas testemunhas || Assinaturas
+K: testamento público; requisitos
+
+@CC 1865
+I: Se o testador não souber ou não puder assinar, o tabelião declara e uma testemunha assina a rogo.
+P: Assinatura a rogo || Declaração do tabelião || Testemunha
+K: testamento público; assinatura a rogo
+
+@CC 1866
+I: O surdo que sabe ler lê seu testamento; se não souber, indica quem o leia na presença das testemunhas.
+P: Testador surdo || Leitura própria ou por terceiro || Testemunhas
+K: testamento público; surdo
+
+@CC 1867
+I: Ao cego só se permite o testamento público, lido duas vezes, pelo tabelião e por uma testemunha, com menção no testamento.
+P: Testador cego || Só testamento público || Dupla leitura
+K: testamento público; cego
+
+@CC 1868
+I: O testamento cerrado, escrito pelo testador ou a rogo e por ele assinado, vale se aprovado pelo tabelião, entregue perante duas testemunhas, com auto de aprovação, cerrado e cosido.
+P: Testamento secreto || Auto de aprovação || Duas testemunhas
+K: testamento cerrado; aprovação
+
+@CC 1869
+I: O tabelião inicia o auto de aprovação logo após a última palavra do testamento, declarando sob fé que o recebeu para aprovação; sem espaço, usa folha à parte.
+P: Auto de aprovação || Fé pública || Continuidade
+K: testamento cerrado; auto de aprovação
+
+@CC 1870
+I: O tabelião que escreveu o testamento a rogo pode aprová-lo.
+P: Tabelião redator e aprovador || Permissão legal || Testamento cerrado
+K: testamento cerrado; tabelião
+
+@CC 1871
+I: O testamento cerrado pode ser escrito em português ou língua estrangeira, pelo testador ou a rogo.
+P: Língua estrangeira || Redação própria ou a rogo || Liberdade
+K: testamento cerrado; língua
+
+@CC 1872
+I: Quem não sabe ou não pode ler não pode fazer testamento cerrado.
+P: Vedação ao analfabeto || Necessidade de ler || Segurança
+K: testamento cerrado; analfabeto
+
+@CC 1873
+I: O surdo-mudo pode fazer testamento cerrado se o escrever e assinar e, ao entregá-lo, escrever na face externa que é seu testamento e pede aprovação.
+P: Surdo-mudo || Escrita e assinatura próprias || Declaração na face externa
+K: testamento cerrado; surdo-mudo
+
+@CC 1874
+I: Aprovado e cerrado, o testamento é entregue ao testador, e o tabelião anota no livro a data da aprovação e entrega.
+P: Entrega ao testador || Nota no livro || Registro da aprovação
+K: testamento cerrado; entrega
+
+@CC 1875
+I: Morto o testador, o testamento cerrado é apresentado ao juiz, que o abre, registra e manda cumprir, se não houver vício externo de nulidade ou falsidade.
+P: Abertura judicial || Registro e cumprimento || Vício externo
+K: testamento cerrado; abertura
+
+@CC 1876
+I: O testamento particular pode ser manuscrito ou digitado; deve ser lido e assinado pelo testador perante 3 testemunhas, que também assinam; se digitado, não pode ter rasuras.
+P: Testamento particular || Três testemunhas || Manuscrito ou mecânico
+K: testamento particular; requisitos
+
+@CC 1877
+I: Morto o testador, o testamento particular é publicado em juízo, com citação dos herdeiros legítimos.
+P: Publicação judicial || Citação dos herdeiros || Confirmação
+K: testamento particular; publicação
+
+@CC 1878
+I: Se as testemunhas confirmarem a disposição ou ao menos sua leitura e reconhecerem as assinaturas, o testamento é confirmado; se faltarem testemunhas, basta uma, se o juiz entender haver prova suficiente.
+P: Confirmação pelas testemunhas || Basta uma na falta das demais || Convicção judicial
+K: testamento particular; confirmação
+
+@CC 1879
+I: Em circunstâncias excepcionais declaradas na cédula, o testamento particular manuscrito e assinado sem testemunhas pode ser confirmado pelo juiz (testamento emergencial).
+P: Testamento emergencial || Sem testemunhas || Circunstâncias excepcionais
+K: testamento particular; emergencial
+
+@CC 1880
+I: O testamento particular pode ser escrito em língua estrangeira, se as testemunhas a compreenderem.
+P: Língua estrangeira || Compreensão das testemunhas || Validade
+K: testamento particular; língua
+
+@CC 1881
+I: Pessoa capaz de testar pode, por escrito particular datado e assinado, dispor sobre seu enterro, esmolas de pouca monta e legar móveis, roupas ou joias de pouco valor (codicilo).
+P: Codicilo || Disposições de pequeno valor || Escrito particular
+K: codicilo
+
+@CC 1882
+I: Essas disposições valem como codicilo, com ou sem testamento, ressalvados direitos de terceiro.
+P: Autonomia do codicilo || Com ou sem testamento || Direito de terceiro
+K: codicilo; validade
+
+@CC 1883
+I: Pelo codicilo pode-se nomear ou substituir testamenteiros.
+P: Nomeação de testamenteiro || Codicilo || Substituição
+K: codicilo; testamenteiro
+
+@CC 1884
+I: Os codicilos revogam-se por atos iguais e consideram-se revogados por testamento posterior que não os confirme ou modifique.
+P: Revogação || Testamento posterior || Confirmação
+K: codicilo; revogação
+
+@CC 1885
+I: O codicilo fechado é aberto como o testamento cerrado.
+P: Abertura judicial || Codicilo fechado || Mesmo procedimento
+K: codicilo; abertura
+
+@CC 1886
+I: São testamentos especiais o marítimo, o aeronáutico e o militar.
+P: Formas especiais || Situações excepcionais || Rol taxativo
+K: testamentos especiais
+
+@CC 1887
+I: Não se admitem outros testamentos especiais além dos previstos no Código.
+P: Taxatividade || Vedação de novas formas || Segurança
+K: testamentos especiais; taxatividade
+
+@CC 1888
+I: Em viagem a bordo de navio nacional, pode-se testar perante o comandante e duas testemunhas, em forma semelhante ao público ou cerrado, com registro no diário de bordo.
+P: Testamento marítimo || Comandante e testemunhas || Diário de bordo
+K: testamento marítimo
+
+@CC 1889
+I: Em viagem a bordo de aeronave, pode-se testar perante pessoa designada pelo comandante, nas mesmas condições.
+P: Testamento aeronáutico || Pessoa designada || Mesmas regras
+K: testamento aeronáutico
+
+@CC 1890
+I: O testamento marítimo ou aeronáutico fica com o comandante, que o entrega às autoridades do primeiro porto ou aeroporto nacional, contra recibo.
+P: Guarda pelo comandante || Entrega às autoridades || Recibo no diário
+K: testamento marítimo; guarda
+
+@CC 1891
+I: Caduca o testamento marítimo ou aeronáutico se o testador não morrer na viagem nem nos 90 dias após desembarcar onde possa testar na forma ordinária.
+P: Caducidade em 90 dias || Possibilidade de testar normalmente || Excepcionalidade
+K: testamento marítimo; caducidade
+
+@CC 1892
+I: Não vale o testamento marítimo feito com o navio em porto onde o testador poderia desembarcar e testar normalmente.
+P: Navio em porto || Invalidade || Possibilidade da forma ordinária
+K: testamento marítimo; invalidade
+
+@CC 1893
+I: Militares e pessoas a serviço das Forças Armadas em campanha ou em praça sitiada ou isolada podem testar perante duas testemunhas (ou três, se não souberem assinar).
+P: Testamento militar || Campanha ou sítio || Testemunhas
+K: testamento militar
+
+@CC 1894
+I: O militar que sabe escrever pode fazer o testamento de próprio punho, datado e assinado, e apresentá-lo ao auditor ou oficial com duas testemunhas.
+P: Testamento militar ológrafo || Apresentação ao oficial || Duas testemunhas
+K: testamento militar; ológrafo
+
+@CC 1895
+I: Caduca o testamento militar se o testador ficar 90 dias seguidos em lugar onde possa testar normalmente, salvo se tiver as solenidades do art. 1.894.
+P: Caducidade em 90 dias || Exceção do art. 1.894 || Possibilidade da forma ordinária
+K: testamento militar; caducidade
+
+@CC 1896
+I: Em combate ou feridos, os militares podem testar oralmente perante duas testemunhas (testamento nuncupativo), que perde efeito se o testador não morrer na guerra ou convalescer.
+P: Testamento nuncupativo || Oral perante duas testemunhas || Ineficácia se sobreviver
+K: testamento militar; nuncupativo
+
+@CC 1897
+I: A nomeação de herdeiro ou legatário pode ser pura, condicional, modal (para certo fim) ou por certo motivo.
+P: Modalidades da disposição || Condição, encargo ou motivo || Liberdade do testador
+K: disposições testamentárias; condição; encargo
+
+@CC 1898
+I: A fixação de termo para começar ou cessar o direito do herdeiro considera-se não escrita, salvo no fideicomisso.
+P: Termo não escrito || Exceção do fideicomisso || Herdeiro
+K: disposições testamentárias; termo
+
+@CC 1899
+I: Na dúvida de interpretação, prevalece a que melhor assegure a vontade do testador.
+P: Primado da vontade do testador || Interpretação || Favor testamenti
+K: interpretação do testamento
+
+@CC 1900
+I: É nula a disposição sob condição captatória, a favor de pessoa incerta não determinável, a que deixe a terceiro determinar o beneficiário ou o valor do legado, e a favor das pessoas dos arts. 1.801 e 1.802.
+P: Nulidades testamentárias || Condição captatória || Pessoa incerta
+K: disposições testamentárias; nulidade
+
+@CC 1901
+I: Valem a disposição a pessoa incerta a ser escolhida por terceiro entre pessoas indicadas, e a remuneratória de serviços ao testador na doença de que morreu, ainda que o valor fique a critério de terceiro.
+P: Exceções de validade || Escolha por terceiro entre indicados || Remuneração de serviços na doença
+K: disposições testamentárias; validade
+
+@CC 1902
+I: Disposição geral aos pobres ou a entidades de caridade entende-se feita às do lugar do domicílio do testador, preferindo as particulares.
+P: Disposição aos pobres || Domicílio do testador || Preferência pelas particulares
+K: disposições testamentárias; caridade
+
+@CC 1903
+I: O erro na designação do herdeiro, legatário ou coisa anula a disposição, salvo se for possível identificar a pessoa ou a coisa pelo contexto ou outros elementos.
+P: Erro na designação || Identificação pelo contexto || Conservação
+K: disposições testamentárias; erro
+
+@CC 1904
+I: Nomeados vários herdeiros sem quotas, a parte disponível divide-se igualmente.
+P: Divisão igualitária || Ausência de quotas || Parte disponível
+K: disposições testamentárias; quotas
+
+@CC 1905
+I: Se nomeados herdeiros individualmente e outros coletivamente, a herança divide-se em tantas quotas quantos forem os indivíduos e grupos.
+P: Indivíduos e grupos || Quotas por grupo || Divisão
+K: disposições testamentárias; grupos
+
+@CC 1906
+I: Se as quotas fixadas não absorverem toda a herança, o restante vai aos herdeiros legítimos.
+P: Remanescente aos legítimos || Quotas insuficientes || Sucessão legítima supletiva
+K: disposições testamentárias; remanescente
+
+@CC 1907
+I: Fixados os quinhões de uns e não de outros, estes dividem igualmente o que restar.
+P: Quinhões não determinados || Divisão do restante || Igualdade
+K: disposições testamentárias; quinhões
+
+@CC 1908
+I: Se o testador dispuser que certo objeto não caiba ao herdeiro instituído, ele vai aos herdeiros legítimos.
+P: Exclusão de objeto || Herdeiros legítimos || Vontade do testador
+K: disposições testamentárias; exclusão de bem
+
+@CC 1909
+I: São anuláveis as disposições com erro, dolo ou coação, em 4 anos contados de quando o interessado souber do vício.
+P: Vícios da vontade || Anulabilidade || Prazo de 4 anos da ciência
+K: disposições testamentárias; anulação; vícios
+
+@CC 1910
+I: A ineficácia de uma disposição acarreta a das outras que dela dependiam.
+P: Ineficácia em cadeia || Dependência || Vontade do testador
+K: disposições testamentárias; ineficácia
+
+@CC 1911
+I: A cláusula de inalienabilidade imposta em liberalidade implica impenhorabilidade e incomunicabilidade (Súmula 49 do STF); em desapropriação ou alienação autorizada, o produto se sub-roga em outros bens com os mesmos ônus.
+P: Inalienabilidade abrange impenhorabilidade e incomunicabilidade || Sub-rogação || Autorização judicial
+K: cláusula de inalienabilidade; impenhorabilidade; incomunicabilidade
+
+@CC 1912
+I: É ineficaz o legado de coisa certa que não pertença ao testador na abertura da sucessão.
+P: Legado de coisa alheia || Ineficácia || Momento da sucessão
+K: legado; coisa alheia
+
+@CC 1913
+I: Se o testador ordenar que herdeiro ou legatário entregue coisa sua a outrem e ele não o fizer, entende-se que renunciou à herança ou ao legado (sublegado).
+P: Sublegado || Renúncia presumida || Coisa do herdeiro
+K: legado; sublegado
+
+@CC 1914
+I: Se a coisa legada pertencer só em parte ao testador ou ao onerado, o legado vale só quanto a essa parte.
+P: Validade parcial || Coisa em parte alheia || Limite
+K: legado; coisa parcialmente alheia
+
+@CC 1915
+I: O legado de coisa determinada pelo gênero cumpre-se mesmo que ela não exista entre os bens deixados.
+P: Legado de gênero || Gênero não perece || Cumprimento
+K: legado; coisa genérica
+
+@CC 1916
+I: O legado de coisa singularizada só vale se ela estiver na herança na morte do testador; se existir em quantidade menor, vale quanto ao que houver.
+P: Coisa singularizada || Existência no acervo || Redução proporcional
+K: legado; coisa certa
+
+@CC 1917
+I: O legado de coisa que deva estar em certo lugar só vale se lá for achada, salvo remoção transitória.
+P: Legado de coisa localizada || Remoção transitória || Eficácia
+K: legado; lugar
+
+@CC 1918
+I: O legado de crédito ou de quitação vale até o valor da dívida na morte do testador; cumpre-se entregando o título; não abrange dívidas posteriores ao testamento.
+P: Legado de crédito || Limite na data da morte || Dívidas posteriores excluídas
+K: legado de crédito; quitação
+
+@CC 1919
+I: Sem declaração expressa, o legado ao credor não compensa a dívida do testador, e subsiste integralmente se a dívida foi paga depois.
+P: Sem compensação presumida || Subsistência || Declaração expressa
+K: legado; credor
+
+@CC 1920
+I: O legado de alimentos abrange sustento, saúde, vestuário e moradia por toda a vida do legatário, e educação se menor.
+P: Conteúdo do legado de alimentos || Vitalício || Educação
+K: legado de alimentos
+
+@CC 1921
+I: O legado de usufruto sem prazo dura toda a vida do legatário.
+P: Usufruto vitalício presumido || Sem fixação de tempo || Legado
+K: legado de usufruto
+
+@CC 1922
+I: Novas aquisições ao imóvel legado, mesmo contíguas, não se incluem no legado, salvo declaração; incluem-se as benfeitorias.
+P: Aquisições posteriores excluídas || Benfeitorias incluídas || Declaração expressa
+K: legado de imóvel; acréscimos
+
+@CC 1923
+I: Desde a abertura da sucessão, a coisa certa legada pertence ao legatário, salvo condição suspensiva, mas a posse não é imediata nem pode ser tomada por autoridade própria; os frutos lhe pertencem desde a morte.
+P: Propriedade desde a morte || Posse pedida aos herdeiros || Frutos
+K: legado; efeitos; posse
+
+@CC 1924
+I: O legado não pode ser pedido enquanto se discute a validade do testamento, ou pendente condição ou prazo.
+P: Suspensão da exigibilidade || Litígio sobre o testamento || Condição ou prazo
+K: legado; exigibilidade
+
+@CC 1925
+I: O legado em dinheiro só vence juros desde a mora de quem deve prestá-lo.
+P: Juros desde a mora || Legado pecuniário || Constituição em mora
+K: legado em dinheiro; juros
+
+@CC 1926
+I: O legado de renda vitalícia ou pensão corre desde a morte do testador.
+P: Termo inicial na morte || Renda vitalícia || Pensão periódica
+K: legado; renda vitalícia
+
+@CC 1927
+I: No legado de quantias periódicas, o primeiro período começa na morte do testador, e o legatário tem direito a cada prestação iniciado o período, ainda que morra antes do fim.
+P: Prestações periódicas || Início na morte || Direito à prestação iniciada
+K: legado; prestações periódicas
+
+@CC 1928
+I: As prestações periódicas só se exigem ao fim de cada período, salvo as de alimentos, pagas no início.
+P: Exigibilidade ao final || Alimentos no início || Periodicidade
+K: legado; alimentos
+
+@CC 1929
+I: No legado de coisa genérica, o herdeiro escolhe, observando o meio-termo entre a melhor e a pior.
+P: Escolha pelo herdeiro || Qualidade média || Coisa genérica
+K: legado; escolha

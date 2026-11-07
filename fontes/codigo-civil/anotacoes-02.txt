@@ -1,0 +1,374 @@
+@CC 69
+I: Se o fim da fundação se tornar ilícito, impossível ou inútil, ou vencer seu prazo, o MP ou interessado promove a extinção, e o patrimônio vai para outra fundação de fim igual ou semelhante, designada pelo juiz, salvo disposição em contrário.
+P: Causas de extinção da fundação || Legitimidade do MP e interessados || Destinação do patrimônio a fundação congênere
+K: fundação; extinção; patrimônio
+
+@CC 70
+I: O domicílio da pessoa natural é o lugar onde ela reside com ânimo definitivo. Une o elemento objetivo (residência) ao subjetivo (intenção de permanecer).
+P: Residência com ânimo definitivo || Elementos objetivo e subjetivo || Base para competência e cumprimento de obrigações
+K: domicílio; residência; ânimo definitivo
+
+@CC 71
+I: Quem tem várias residências onde vive alternadamente pode ter qualquer delas considerada seu domicílio (pluralidade de domicílios).
+P: Pluralidade de domicílios || Residências alternadas || Qualquer delas vale
+K: domicílio; pluralidade; residências
+
+@CC 72
+I: Para as relações profissionais, também é domicílio o lugar onde a profissão é exercida; exercida em vários lugares, cada um é domicílio para as relações correspondentes.
+P: Domicílio profissional || Vários locais de trabalho || Relações correspondentes
+K: domicílio profissional; profissão
+
+@CC 73
+I: Quem não tem residência habitual tem por domicílio o lugar onde for encontrado (domicílio aparente).
+P: Pessoa sem residência habitual || Lugar onde for encontrada || Domicílio ocasional
+K: domicílio; residência habitual
+
+@CC 74
+I: Muda-se o domicílio transferindo a residência com intenção manifesta, provada pelas declarações às prefeituras ou pelas circunstâncias da mudança.
+P: Mudança com intenção || Prova pelas declarações || Circunstâncias da mudança
+K: mudança de domicílio; intenção
+
+@CC 75
+I: Define o domicílio das pessoas jurídicas: União no DF, Estados e Territórios nas capitais, Municípios onde funciona a administração e demais no lugar das diretorias ou no eleito no estatuto. Com vários estabelecimentos, cada um é domicílio para os atos nele praticados (Súmula 363 do STF).
+P: Domicílio dos entes públicos || Sede ou domicílio especial das pessoas jurídicas privadas || Cada estabelecimento para seus atos
+K: domicílio da pessoa jurídica; sede; estabelecimento
+
+@CC 76
+I: Têm domicílio necessário o incapaz (o do representante ou assistente), o servidor público (onde exerce permanentemente as funções), o militar (onde serve), o marítimo (onde o navio está matriculado) e o preso (onde cumpre a sentença).
+P: Domicílio legal ou necessário || Hipóteses taxativas || Fixado pela lei, não pela vontade
+K: domicílio necessário; incapaz; servidor; militar; preso
+
+@CC 77
+I: O diplomata brasileiro citado no exterior que alegar extraterritorialidade sem indicar domicílio no Brasil pode ser demandado no DF ou no último lugar onde teve domicílio no país.
+P: Diplomata no exterior || Extraterritorialidade || Foro no DF ou no último domicílio
+K: domicílio; agente diplomático
+
+@CC 78
+I: Nos contratos escritos, as partes podem eleger domicílio para o exercício e cumprimento das obrigações (foro de eleição). Em contratos de consumo e de adesão, a cláusula abusiva pode ser afastada.
+P: Domicílio de eleição || Contrato escrito || Controle de abusividade
+K: foro de eleição; domicílio contratual
+
+@CC 79
+I: São imóveis o solo e tudo o que a ele se incorpora natural ou artificialmente, como construções e plantações.
+P: Solo e acessões || Incorporação natural ou artificial || Conceito de bem imóvel
+K: bens imóveis; solo; acessões
+
+@CC 80
+I: São imóveis por determinação legal os direitos reais sobre imóveis e as ações que os asseguram, e o direito à sucessão aberta. Por isso a cessão de herança exige escritura pública e outorga conjugal.
+P: Imóveis por força de lei || Direitos reais sobre imóveis || Herança é imóvel até a partilha
+K: imóveis por determinação legal; sucessão aberta; direitos reais
+
+@CC 81
+I: Não perdem o caráter de imóveis as edificações removidas sem perder a unidade nem os materiais separados provisoriamente para reemprego.
+P: Edificações removidas inteiras || Materiais separados provisoriamente || Manutenção da natureza imóvel
+K: bens imóveis; edificações; materiais
+
+@CC 82
+I: São móveis os bens que se movem por si (semoventes) ou podem ser removidos sem alteração da substância ou da destinação econômico-social.
+P: Movimento próprio ou remoção || Sem alteração da substância || Semoventes
+K: bens móveis; semoventes
+
+@CC 83
+I: São móveis por determinação legal as energias com valor econômico, os direitos reais sobre móveis e respectivas ações e os direitos pessoais patrimoniais (como créditos e quotas).
+P: Energias com valor econômico || Direitos reais sobre móveis || Direitos pessoais patrimoniais
+K: bens móveis por determinação legal; energia; créditos
+
+@CC 84
+I: Materiais de construção ainda não empregados são móveis; os provenientes de demolição voltam a ser móveis.
+P: Materiais não empregados são móveis || Demolição devolve a qualidade de móvel || Destinação do material
+K: bens móveis; materiais de construção; demolição
+
+@CC 85
+I: Fungíveis são os móveis que podem ser substituídos por outros da mesma espécie, qualidade e quantidade, como o dinheiro.
+P: Substituibilidade || Mesma espécie, qualidade e quantidade || Importância no mútuo e no comodato
+K: bens fungíveis; infungíveis
+
+@CC 86
+I: Consumíveis são os móveis cujo uso destrói imediatamente a substância, e também os destinados à venda.
+P: Consumo imediato da substância || Bens destinados à alienação || Consuntibilidade jurídica
+K: bens consumíveis; alienação
+
+@CC 87
+I: Divisíveis são os bens que se podem fracionar sem alterar a substância, perder valor considerável ou prejudicar seu uso.
+P: Fracionamento sem prejuízo || Substância, valor e uso preservados || Conceito de divisibilidade
+K: bens divisíveis; indivisíveis
+
+@CC 88
+I: Bens naturalmente divisíveis podem tornar-se indivisíveis por lei ou por vontade das partes.
+P: Indivisibilidade legal || Indivisibilidade convencional || Exceção à natureza do bem
+K: indivisibilidade; bens divisíveis
+
+@CC 89
+I: Bens singulares são os considerados individualmente, mesmo quando reunidos a outros.
+P: Consideração individual || Mesmo se reunidos || Oposição aos coletivos
+K: bens singulares; coletivos
+
+@CC 90
+I: Universalidade de fato é o conjunto de bens singulares de uma pessoa com destinação unitária, como um rebanho ou uma biblioteca; cada bem pode ser objeto de relações próprias.
+P: Pluralidade com destinação unitária || Mesmo titular || Bens podem ser negociados isoladamente
+K: universalidade de fato; bens coletivos
+
+@CC 91
+I: Universalidade de direito é o complexo de relações jurídicas de uma pessoa com valor econômico, como o patrimônio e a herança.
+P: Complexo de relações jurídicas || Valor econômico || Exemplos: herança e patrimônio
+K: universalidade de direito; patrimônio; herança
+
+@CC 92
+I: Principal é o bem que existe por si; acessório, o que depende da existência do principal. Em regra, o acessório segue o principal.
+P: Bem principal e acessório || Dependência do acessório || Gravitação jurídica
+K: bem principal; bem acessório; gravitação jurídica
+
+@CC 93
+I: Pertenças são bens que, sem integrar o principal, destinam-se de modo duradouro ao seu uso, serviço ou embelezamento, como máquinas de uma fábrica ou móveis de uma casa.
+P: Não são partes integrantes || Destinação duradoura || Uso, serviço ou aformoseamento
+K: pertenças; bens acessórios
+
+@CC 94
+I: Os negócios sobre o bem principal não abrangem as pertenças, salvo se o contrário resultar da lei, da vontade das partes ou das circunstâncias. É exceção ao princípio de que o acessório segue o principal.
+P: Pertenças não seguem o principal || Exceções: lei, vontade, circunstâncias || Exceção à gravitação jurídica
+K: pertenças; negócio jurídico; bem principal
+
+@CC 95
+I: Frutos e produtos podem ser objeto de negócio mesmo antes de separados do bem principal, como a venda de safra futura.
+P: Negócio sobre frutos pendentes || Produtos ainda não separados || Bens móveis por antecipação
+K: frutos; produtos; negócio jurídico
+
+@CC 96
+I: As benfeitorias são voluptuárias (mero deleite), úteis (aumentam ou facilitam o uso) ou necessárias (conservam o bem). A classificação define o direito à indenização e à retenção (arts. 1.219 e 1.220).
+P: Três espécies de benfeitorias || Critério da finalidade || Efeitos na indenização do possuidor
+K: benfeitorias; necessárias; úteis; voluptuárias
+
+@CC 97
+I: Não são benfeitorias os acréscimos sobrevindos ao bem sem intervenção do proprietário, possuidor ou detentor, como a aluvião.
+P: Acréscimos naturais || Sem intervenção humana || Não geram indenização como benfeitoria
+K: benfeitorias; acessões naturais
+
+@CC 98
+I: São públicos os bens pertencentes às pessoas jurídicas de direito público interno; todos os outros são particulares. Bens de empresas públicas e sociedades de economia mista são privados, embora possam ter regime especial quando afetados a serviço público.
+P: Critério da titularidade || Bens públicos × particulares || Estatais têm bens privados
+K: bens públicos; bens particulares; titularidade
+
+@CC 99
+I: Classifica os bens públicos em de uso comum do povo (rios, mares, ruas, praças), de uso especial (destinados a serviço público) e dominicais (patrimônio disponível do ente público).
+P: Uso comum do povo || Uso especial || Dominicais
+K: bens públicos; uso comum; uso especial; dominicais
+
+@CC 100
+I: Bens de uso comum e de uso especial são inalienáveis enquanto mantiverem essa destinação (afetação); desafetados, podem ser alienados na forma da lei.
+P: Inalienabilidade dos bens afetados || Desafetação permite alienação || Forma legal
+K: inalienabilidade; afetação; bens públicos
+
+@CC 101
+I: Bens dominicais podem ser alienados, observadas as exigências legais (autorização, avaliação, licitação).
+P: Alienabilidade dos dominicais || Exigências legais || Patrimônio disponível
+K: bens dominicais; alienação; licitação
+
+@CC 102
+I: Bens públicos não podem ser adquiridos por usucapião, inclusive os dominicais (CF, arts. 183, § 3º, e 191, parágrafo único; Súmula 340 do STF).
+P: Imprescritibilidade dos bens públicos || Inclui os dominicais || Base constitucional
+K: usucapião; bens públicos; imprescritibilidade; Súmula 340 STF
+
+@CC 103
+I: O uso comum dos bens públicos pode ser gratuito ou remunerado, conforme a lei do ente que os administra, como pedágios e zona azul.
+P: Uso gratuito ou retribuído || Definição pelo ente público || Exemplos: pedágio, estacionamento rotativo
+K: bens públicos; uso comum; remuneração
+
+@CC 104
+I: O negócio jurídico é válido quando há agente capaz, objeto lícito, possível e determinado ou determinável, e forma prescrita ou não proibida em lei.
+P: Requisitos de validade || Agente, objeto e forma || Ausência gera nulidade ou anulabilidade
+K: negócio jurídico; validade; capacidade; objeto lícito; forma
+
+@CC 105
+I: A incapacidade relativa de uma parte não pode ser alegada pela outra em benefício próprio nem aproveita aos cointeressados capazes, salvo se o objeto for indivisível.
+P: Incapacidade relativa é exceção pessoal || Não beneficia a outra parte || Exceção da indivisibilidade
+K: incapacidade relativa; anulabilidade; cointeressados
+
+@CC 106
+I: A impossibilidade inicial do objeto não invalida o negócio se for relativa ou se cessar antes de implementada a condição.
+P: Impossibilidade relativa não invalida || Cessação antes da condição || Aproveitamento do negócio
+K: objeto impossível; validade; condição
+
+@CC 107
+I: A declaração de vontade não depende de forma especial, salvo quando a lei exigir (princípio da liberdade das formas).
+P: Liberdade de forma || Forma especial só por lei || Consensualismo
+K: forma; liberdade das formas; declaração de vontade
+
+@CC 108
+I: A escritura pública é essencial nos negócios que constituem, transferem, modificam ou renunciam direitos reais sobre imóveis de valor superior a 30 salários mínimos, salvo lei em contrário.
+P: Escritura pública obrigatória || Limite de 30 salários mínimos || Exceções legais (ex.: SFH, alienação fiduciária)
+K: escritura pública; imóveis; forma; direitos reais
+
+@CC 109
+I: Se as partes pactuaram que o negócio só vale com instrumento público, este passa a ser da substância do ato.
+P: Forma convencional || Instrumento público essencial || Autonomia da vontade
+K: instrumento público; forma convencional
+
+@CC 110
+I: A manifestação de vontade vale mesmo com reserva mental do autor, salvo se o destinatário a conhecia.
+P: Reserva mental irrelevante || Exceção: conhecimento do destinatário || Segurança das relações
+K: reserva mental; declaração de vontade
+
+@CC 111
+I: O silêncio vale como concordância quando as circunstâncias ou os usos o autorizarem e não for exigida declaração expressa.
+P: Silêncio circunstanciado || Usos e circunstâncias || Exceção: exigência de declaração expressa
+K: silêncio; anuência; manifestação tácita
+
+@CC 112
+I: Na interpretação das declarações de vontade, prevalece a intenção sobre o sentido literal das palavras.
+P: Primado da intenção || Interpretação subjetiva || Limite do texto
+K: interpretação; intenção; declaração de vontade
+
+@CC 113
+I: Os negócios devem ser interpretados conforme a boa-fé e os usos do lugar. A Lei da Liberdade Econômica acrescentou critérios: comportamento posterior das partes, usos do mercado, boa-fé, interpretação contra quem redigiu a cláusula e a racionalidade econômica, permitindo às partes pactuar regras próprias de interpretação.
+P: Boa-fé objetiva interpretativa || Critérios do § 1º || Liberdade para pactuar regras de interpretação
+K: interpretação; boa-fé objetiva; usos; Lei da Liberdade Econômica
+
+@CC 114
+I: Negócios benéficos (gratuitos) e a renúncia interpretam-se restritivamente.
+P: Interpretação estrita || Negócios gratuitos e renúncia || Proteção de quem dá ou renuncia
+K: interpretação restritiva; renúncia; negócio gratuito
+
+@CC 115
+I: Os poderes de representação decorrem da lei (pais, tutores, curadores) ou da vontade do interessado (mandato).
+P: Representação legal || Representação voluntária || Fontes dos poderes
+K: representação; poderes; mandato
+
+@CC 116
+I: O que o representante declara dentro de seus poderes produz efeitos para o representado.
+P: Vinculação do representado || Limites dos poderes || Efeitos diretos
+K: representação; efeitos; representado
+
+@CC 117
+I: É anulável o contrato consigo mesmo (autocontrato), salvo se a lei ou o representado permitir; vale também para o substabelecido. Pela Súmula 60 do STJ, é nula a obrigação cambial assumida por procurador do mutuário vinculado ao mutuante, no exclusivo interesse deste.
+P: Autocontratação anulável || Exceção por lei ou autorização || Alcança o substabelecido
+K: contrato consigo mesmo; autocontrato; representação
+
+@CC 118
+I: O representante deve provar sua qualidade e a extensão dos poderes a quem contrata, sob pena de responder pelos atos excedentes.
+P: Dever de provar os poderes || Responsabilidade pelo excesso || Proteção do terceiro
+K: representação; prova de poderes; excesso
+
+@CC 119
+I: É anulável o negócio celebrado pelo representante em conflito de interesses com o representado, se o terceiro sabia ou devia saber. O prazo decadencial é de 180 dias.
+P: Conflito de interesses || Conhecimento do terceiro || Decadência de 180 dias
+K: conflito de interesses; anulabilidade; decadência
+
+@CC 120
+I: A representação legal segue as normas próprias (poder familiar, tutela, curatela); a voluntária, as regras do mandato na Parte Especial.
+P: Regras próprias da representação legal || Voluntária segue o mandato || Remissão normativa
+K: representação legal; representação voluntária; mandato
+
+@CC 121
+I: Condição é a cláusula, derivada só da vontade das partes, que subordina os efeitos do negócio a evento futuro e incerto.
+P: Evento futuro e incerto || Origem voluntária || Elemento acidental do negócio
+K: condição; evento futuro e incerto; elemento acidental
+
+@CC 122
+I: São lícitas as condições que não contrariam a lei, a ordem pública ou os bons costumes. São proibidas as perplexas (que privam o negócio de efeito) e as puramente potestativas (arbítrio de uma parte).
+P: Licitude das condições || Vedação da condição puramente potestativa || Vedação da condição perplexa
+K: condição potestativa; condição ilícita; condição perplexa
+
+@CC 123
+I: Invalidam o negócio as condições física ou juridicamente impossíveis, quando suspensivas, as ilícitas e as incompreensíveis ou contraditórias.
+P: Impossível suspensiva invalida || Ilícita invalida || Incompreensível invalida
+K: condição impossível; nulidade; condição ilícita
+
+@CC 124
+I: Consideram-se inexistentes as condições impossíveis resolutivas e as de não fazer coisa impossível; o negócio vale sem elas.
+P: Condição tida por não escrita || Resolutiva impossível || Aproveitamento do negócio
+K: condição impossível; condição resolutiva
+
+@CC 125
+I: Sob condição suspensiva, o direito não é adquirido enquanto a condição não se verificar.
+P: Aquisição suspensa || Direito eventual || Efeitos após o implemento
+K: condição suspensiva; direito eventual
+
+@CC 126
+I: Disposições feitas sobre a coisa durante a pendência da condição suspensiva perdem valor, se incompatíveis, quando a condição se realizar.
+P: Ineficácia de disposições incompatíveis || Retroatividade da condição || Proteção do adquirente condicional
+K: condição suspensiva; disposição; retroatividade
+
+@CC 127
+I: Sob condição resolutiva, o negócio vigora e o direito pode ser exercido desde a celebração, até que a condição se realize.
+P: Eficácia imediata || Direito exercido desde logo || Extinção futura possível
+K: condição resolutiva; eficácia
+
+@CC 128
+I: Realizada a condição resolutiva, extingue-se o direito; nos contratos de execução continuada, os atos já praticados permanecem, se compatíveis e de boa-fé.
+P: Extinção do direito || Preservação dos atos já praticados || Boa-fé
+K: condição resolutiva; execução continuada
+
+@CC 129
+I: Considera-se verificada a condição maliciosamente impedida por quem seria prejudicado, e não verificada a maliciosamente provocada por quem seria beneficiado.
+P: Ficção de implemento || Vedação da malícia || Boa-fé
+K: condição; malícia; implemento ficto
+
+@CC 130
+I: O titular de direito eventual, sob condição suspensiva ou resolutiva, pode praticar atos para conservá-lo.
+P: Atos conservatórios || Direito eventual protegido || Ambas as condições
+K: direito eventual; atos conservatórios
+
+@CC 131
+I: O termo inicial suspende o exercício do direito, mas não sua aquisição, que ocorre desde logo.
+P: Direito já adquirido || Exercício diferido || Diferença para a condição suspensiva
+K: termo inicial; direito adquirido
+
+@CC 132
+I: Na contagem dos prazos, exclui-se o dia do começo e inclui-se o do vencimento; vencendo em feriado, prorroga-se ao dia útil seguinte. Meado é o dia 15; prazos em meses e anos vencem no dia de igual número, e em horas, minuto a minuto.
+P: Exclui o início e inclui o fim || Prorrogação para dia útil || Regras para meses, anos e horas
+K: contagem de prazos; termo; vencimento
+
+@CC 133
+I: Presume-se o prazo a favor do herdeiro nos testamentos e do devedor nos contratos, salvo se o contrato indicar que beneficia o credor ou ambos.
+P: Prazo em favor do devedor || Prazo em favor do herdeiro || Presunção relativa
+K: prazo; devedor; herdeiro
+
+@CC 134
+I: Negócios entre vivos sem prazo podem ser exigidos de imediato, salvo se a execução depender de lugar diverso ou de tempo.
+P: Exigibilidade imediata || Exceções por lugar ou tempo || Obrigações sem prazo
+K: prazo; exigibilidade; obrigação
+
+@CC 135
+I: Aos termos inicial e final aplicam-se, no que couber, as regras das condições suspensiva e resolutiva.
+P: Aplicação analógica || Termo inicial ≈ condição suspensiva || Termo final ≈ condição resolutiva
+K: termo; condição
+
+@CC 136
+I: O encargo (modo) não suspende a aquisição nem o exercício do direito, salvo quando imposto expressamente como condição suspensiva.
+P: Encargo não suspende || Exceção expressa || Típico de liberalidades
+K: encargo; modo; doação modal
+
+@CC 137
+I: O encargo ilícito ou impossível considera-se não escrito, salvo se for o motivo determinante da liberalidade, caso em que invalida o negócio.
+P: Encargo ilícito tido por não escrito || Exceção do motivo determinante || Invalidade do negócio
+K: encargo ilícito; motivo determinante
+
+@CC 138
+I: São anuláveis os negócios com erro substancial que pudesse ser percebido por pessoa de diligência normal. O Enunciado 12 da I Jornada entende que a cognoscibilidade é irrelevante para a anulação, prevalecendo a confiança.
+P: Erro substancial anula || Critério da pessoa de diligência normal || Anulabilidade, não nulidade
+K: erro; vício de consentimento; anulabilidade
+
+@CC 139
+I: O erro é substancial quando recai sobre a natureza do negócio, o objeto principal ou suas qualidades essenciais, a identidade ou qualidade essencial da pessoa, ou é erro de direito que foi o motivo único ou principal, sem implicar recusa à aplicação da lei.
+P: Erro sobre negócio, objeto ou pessoa || Erro de direito admitido || Sem recusa de aplicar a lei
+K: erro substancial; erro de direito; error in persona
+
+@CC 140
+I: O falso motivo só vicia o negócio quando expresso como razão determinante.
+P: Motivo em regra irrelevante || Exceção: razão determinante expressa || Segurança jurídica
+K: falso motivo; erro
+
+@CC 141
+I: A transmissão errônea da vontade por intermediário (mensageiro, meio eletrônico) é anulável nos mesmos casos da declaração direta.
+P: Erro na transmissão || Meios interpostos || Mesmo regime do erro
+K: erro na transmissão; núncio
+
+@CC 142
+I: O erro de indicação da pessoa ou coisa não vicia o negócio se, pelo contexto, for possível identificá-las.
+P: Erro acidental || Identificação pelo contexto || Conservação do negócio
+K: erro acidental; indicação
+
+@CC 143
+I: O erro de cálculo apenas autoriza a retificação da declaração, sem anular o negócio.
+P: Erro material || Retificação || Conservação do negócio
+K: erro de cálculo; retificação
