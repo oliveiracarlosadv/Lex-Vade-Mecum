@@ -1,0 +1,474 @@
+@CC 492
+I: Até a tradição, os riscos da coisa são do vendedor e os do preço, do comprador. Correm por conta do comprador os casos fortuitos no ato de contar, pesar ou medir coisas postas à sua disposição, e os riscos se ele estiver em mora de recebê-las.
+P: Riscos até a tradição || Coisa posta à disposição do comprador || Mora do comprador transfere o risco
+K: compra e venda; riscos; tradição
+
+@CC 493
+I: Sem estipulação, a tradição ocorre no lugar onde a coisa estava no momento da venda.
+P: Lugar da tradição || Onde a coisa se encontrava || Norma supletiva
+K: compra e venda; tradição; lugar
+
+@CC 494
+I: Se a coisa for expedida a outro lugar por ordem do comprador, os riscos passam a ele com a entrega ao transportador, salvo se o vendedor descumprir as instruções.
+P: Riscos com a entrega ao transportador || Ordem do comprador || Desvio das instruções
+K: compra e venda; transporte; riscos
+
+@CC 495
+I: Se antes da tradição o comprador ficar insolvente, o vendedor pode suspender a entrega até receber caução, mesmo havendo prazo para pagamento.
+P: Insolvência do comprador || Suspensão da entrega || Caução
+K: compra e venda; insolvência; caução
+
+@CC 496
+I: É anulável a venda de ascendente a descendente sem o consentimento expresso dos outros descendentes e do cônjuge do vendedor; dispensa-se o do cônjuge no regime de separação obrigatória. O prazo para anular é de 2 anos (art. 179), e o STJ exige prova de prejuízo ou simulação.
+P: Consentimento dos demais descendentes e do cônjuge || Anulabilidade em 2 anos || Proteção da legítima
+K: venda de ascendente a descendente; anulabilidade; consentimento
+
+@CC 497
+I: É nula, mesmo em hasta pública, a compra por tutores, curadores, testamenteiros e administradores dos bens sob sua guarda; por servidores públicos, dos bens da entidade que servem; por juízes e auxiliares da justiça, dos bens em litígio no seu juízo; e por leiloeiros e prepostos, dos bens que vendem. A proibição vale para cessão de crédito.
+P: Impedimentos à compra || Conflito de interesses || Nulidade absoluta
+K: compra e venda; impedimento; nulidade
+
+@CC 498
+I: A proibição a juízes e auxiliares não abrange compra ou cessão entre coerdeiros, em pagamento de dívida ou para garantia de bens já pertencentes a eles.
+P: Exceções à proibição || Coerdeiros || Pagamento de dívida ou garantia
+K: compra e venda; impedimento; exceções
+
+@CC 499
+I: É lícita a compra e venda entre cônjuges quanto a bens excluídos da comunhão.
+P: Venda entre cônjuges || Bens particulares || Proteção contra fraude
+K: compra e venda; cônjuges; bens excluídos
+
+@CC 500
+I: Na venda ad mensuram (preço por medida ou área determinada), se a área não corresponder, o comprador pode exigir o complemento, a resolução ou o abatimento. Presume-se meramente enunciativa a diferença de até 1/20, e não há complemento na venda ad corpus (coisa certa e discriminada).
+P: Venda ad mensuram || Complemento, resolução ou abatimento || Tolerância de 1/20 e venda ad corpus
+K: venda ad mensuram; venda ad corpus; área
+
+@CC 501
+I: As ações do art. 500 decaem em 1 ano do registro do título; se houver atraso na imissão de posse imputável ao vendedor, o prazo corre da imissão.
+P: Decadência de 1 ano || Contado do registro || Atraso na posse
+K: venda ad mensuram; decadência
+
+@CC 502
+I: Salvo convenção, o vendedor responde pelos débitos que gravam a coisa até a tradição.
+P: Débitos anteriores à tradição || Responsabilidade do vendedor || Ex.: tributos e condomínio
+K: compra e venda; débitos; tradição
+
+@CC 503
+I: Nas coisas vendidas em conjunto, o vício oculto de uma não autoriza rejeitar todas.
+P: Vício isolado || Rejeição só da coisa viciada || Conservação do negócio
+K: vícios redibitórios; venda conjunta
+
+@CC 504
+I: O condômino de coisa indivisível não pode vender sua parte a estranho se outro condômino a quiser pelo mesmo preço. Preterido, pode depositar o preço e haver a parte em 180 dias (prazo decadencial), com preferência para quem tiver benfeitorias de maior valor ou maior quinhão.
+P: Direito de preferência do condômino || Depósito do preço em 180 dias || Critérios entre condôminos
+K: condomínio; preferência; coisa indivisível
+
+@CC 505
+I: O vendedor de imóvel pode reservar-se o direito de recomprá-lo em até 3 anos (retrovenda), restituindo o preço e as despesas do comprador.
+P: Retrovenda || Prazo decadencial de 3 anos || Restituição do preço e despesas
+K: retrovenda; direito de resgate; imóvel
+
+@CC 506
+I: Se o comprador recusar as quantias, o vendedor as deposita judicialmente; sendo insuficiente o depósito, só recupera o domínio após o pagamento integral.
+P: Depósito judicial || Insuficiência impede o resgate || Pagamento integral
+K: retrovenda; depósito judicial
+
+@CC 507
+I: O direito de retrato é cessível, transmissível a herdeiros e legatários e pode ser exercido contra terceiro adquirente.
+P: Cessibilidade || Transmissão hereditária || Eficácia contra terceiros
+K: retrovenda; direito de retrato
+
+@CC 508
+I: Se várias pessoas tiverem o direito de retrato e só uma exercê-lo, o comprador pode intimar as demais; prevalece quem fizer o depósito integral.
+P: Pluralidade de titulares || Intimação dos demais || Depósito integral prevalece
+K: retrovenda; pluralidade
+
+@CC 509
+I: A venda a contento do comprador é feita sob condição suspensiva, mesmo com a coisa entregue, e só se aperfeiçoa quando o comprador manifesta seu agrado.
+P: Venda a contento || Condição suspensiva || Agrado do comprador
+K: venda a contento; condição suspensiva
+
+@CC 510
+I: A venda sujeita a prova presume-se sob condição suspensiva de que a coisa tenha as qualidades prometidas e sirva ao fim destinado.
+P: Venda sujeita a prova || Qualidades asseguradas || Condição suspensiva
+K: venda sujeita a prova
+
+@CC 511
+I: Enquanto não aceita a coisa, o comprador tem as obrigações de mero comodatário.
+P: Comprador como comodatário || Dever de conservação || Antes da aceitação
+K: venda a contento; comodatário
+
+@CC 512
+I: Sem prazo para a manifestação do comprador, o vendedor pode intimá-lo para fazê-la em prazo improrrogável.
+P: Intimação do comprador || Prazo improrrogável || Segurança da relação
+K: venda a contento; intimação
+
+@CC 513
+I: Pela preempção, o comprador deve oferecer a coisa ao vendedor antes de vendê-la ou dá-la em pagamento, para que este exerça a preferência pelo mesmo preço. O prazo não pode exceder 180 dias (móveis) ou 2 anos (imóveis).
+P: Pacto de preferência || Tanto por tanto || Prazos máximos
+K: preempção; preferência; prelação
+
+@CC 514
+I: O vendedor pode exercer a preferência intimando o comprador quando souber que este vai vender.
+P: Iniciativa do vendedor || Intimação || Exercício antecipado
+K: preempção; intimação
+
+@CC 515
+I: Quem exerce a preferência deve pagar o preço encontrado ou ajustado, em condições iguais, sob pena de perdê-la.
+P: Condições iguais || Pagamento do preço || Perda da preferência
+K: preempção; preço
+
+@CC 516
+I: Sem prazo estipulado, a preferência caduca em 3 dias (móveis) ou 60 dias (imóveis) após a notificação do vendedor.
+P: Caducidade || 3 dias ou 60 dias || Notificação
+K: preempção; caducidade
+
+@CC 517
+I: Estipulada a favor de várias pessoas, a preferência só se exerce sobre a coisa inteira; se alguma não a exercer, as demais podem fazê-lo.
+P: Exercício sobre o todo || Pluralidade de titulares || Acréscimo entre eles
+K: preempção; pluralidade
+
+@CC 518
+I: O comprador que vende sem dar ciência ao vendedor responde por perdas e danos, e o adquirente de má-fé responde solidariamente. A preferência convencional tem eficácia só obrigacional.
+P: Perdas e danos || Solidariedade do adquirente de má-fé || Eficácia obrigacional
+K: preempção; perdas e danos
+
+@CC 519
+I: Se o bem desapropriado não tiver a destinação pública prevista, o expropriado tem preferência pelo preço atual (retrocessão).
+P: Retrocessão || Desvio de finalidade || Preço atual
+K: retrocessão; desapropriação; preferência
+
+@CC 520
+I: O direito de preferência não pode ser cedido nem passa aos herdeiros.
+P: Personalíssimo || Intransmissível || Incessível
+K: preempção; intransmissibilidade
+
+@CC 521
+I: Na venda de móvel, o vendedor pode reservar a propriedade até o pagamento integral do preço (reserva de domínio).
+P: Reserva de domínio || Bens móveis || Garantia do vendedor
+K: reserva de domínio; venda a prazo
+
+@CC 522
+I: A cláusula de reserva de domínio deve ser escrita e, para valer contra terceiros, registrada no domicílio do comprador.
+P: Forma escrita || Registro para eficácia perante terceiros || Domicílio do comprador
+K: reserva de domínio; registro
+
+@CC 523
+I: Não pode ser vendida com reserva de domínio a coisa que não possa ser perfeitamente individualizada; na dúvida, protege-se o terceiro de boa-fé.
+P: Individualização da coisa || Proteção do terceiro de boa-fé || Bens infungíveis
+K: reserva de domínio; individualização
+
+@CC 524
+I: A propriedade passa ao comprador com o pagamento integral, mas os riscos são dele desde a entrega.
+P: Transferência no pagamento final || Riscos desde a entrega || Exceção ao res perit domino
+K: reserva de domínio; riscos
+
+@CC 525
+I: O vendedor só executa a cláusula após constituir o comprador em mora por protesto do título ou interpelação judicial.
+P: Constituição em mora || Protesto ou interpelação || Requisito da execução
+K: reserva de domínio; mora; protesto
+
+@CC 526
+I: Em mora o comprador, o vendedor pode cobrar as prestações vencidas e vincendas ou recuperar a posse da coisa.
+P: Cobrança ou recuperação || Opção do vendedor || Busca e apreensão
+K: reserva de domínio; cobrança; recuperação da coisa
+
+@CC 527
+I: Recuperando a coisa, o vendedor retém das prestações pagas o necessário para cobrir depreciação e despesas, devolvendo o excedente; o que faltar pode ser cobrado.
+P: Retenção proporcional || Devolução do excedente || Cobrança do saldo
+K: reserva de domínio; retenção; devolução
+
+@CC 528
+I: Se a venda for financiada por instituição do mercado de capitais, esta exerce os direitos e ações do contrato; a operação deve constar do registro.
+P: Sub-rogação da financeira || Exercício dos direitos || Registro
+K: reserva de domínio; financiamento
+
+@CC 529
+I: Na venda sobre documentos, a entrega da coisa é substituída pela do título representativo e demais documentos; estando em ordem, o comprador não pode recusar o pagamento alegando defeito da coisa, salvo se já comprovado.
+P: Tradição simbólica || Documentos representativos || Pagamento contra documentos
+K: venda sobre documentos; título representativo
+
+@CC 530
+I: Salvo estipulação, o pagamento é feito na data e no lugar da entrega dos documentos.
+P: Pagamento na entrega dos documentos || Lugar e data || Norma supletiva
+K: venda sobre documentos; pagamento
+
+@CC 531
+I: Se houver apólice de seguro do transporte entre os documentos, os riscos são do comprador, salvo se o vendedor sabia da perda ou avaria ao contratar.
+P: Seguro do transporte || Riscos do comprador || Má-fé do vendedor
+K: venda sobre documentos; seguro; riscos
+
+@CC 532
+I: Se o pagamento for por banco, este paga contra os documentos sem verificar a coisa; só após a recusa do banco o vendedor pode cobrar diretamente o comprador.
+P: Crédito documentário || Banco não verifica a coisa || Cobrança após recusa
+K: venda sobre documentos; banco; crédito documentário
+
+@CC 533
+I: Aplicam-se à troca as regras da compra e venda, mas cada parte paga metade das despesas do instrumento, e é anulável a troca de valores desiguais entre ascendente e descendente sem consentimento dos outros descendentes e do cônjuge.
+P: Regras da compra e venda || Despesas divididas || Troca desigual com descendente
+K: troca; permuta
+
+@CC 534
+I: No contrato estimatório (consignação), o consignante entrega móveis ao consignatário, que pode vendê-los pagando o preço ajustado ou restituí-los no prazo.
+P: Consignação mercantil || Venda ou restituição || Preço estimado
+K: contrato estimatório; consignação
+
+@CC 535
+I: O consignatário continua obrigado a pagar o preço se a restituição integral se tornar impossível, mesmo sem culpa.
+P: Risco do consignatário || Impossibilidade de restituir || Pagamento do preço
+K: contrato estimatório; risco
+
+@CC 536
+I: A coisa consignada não pode ser penhorada ou sequestrada por credores do consignatário enquanto o preço não for pago.
+P: Proteção do consignante || Impenhorabilidade relativa || Propriedade do consignante
+K: contrato estimatório; penhora
+
+@CC 537
+I: O consignante não pode dispor da coisa antes de restituída ou comunicada a restituição.
+P: Indisponibilidade temporária || Direito do consignatário || Prazo do contrato
+K: contrato estimatório; disposição
+
+@CC 538
+I: Doação é o contrato pelo qual alguém, por liberalidade, transfere bens ou vantagens de seu patrimônio a outra pessoa.
+P: Liberalidade || Transferência patrimonial || Contrato gratuito
+K: doação; liberalidade
+
+@CC 539
+I: O doador pode fixar prazo para o donatário aceitar; ciente do prazo e silenciando, presume-se a aceitação, se a doação for pura.
+P: Prazo para aceitação || Silêncio como aceitação || Só doação sem encargo
+K: doação; aceitação; silêncio
+
+@CC 540
+I: A doação por merecimento continua liberalidade, assim como a remuneratória ou com encargo, no que exceder o valor dos serviços ou do encargo.
+P: Doação contemplativa || Doação remuneratória || Doação com encargo
+K: doação remuneratória; doação modal
+
+@CC 541
+I: A doação é feita por escritura pública ou instrumento particular; a verbal vale para móveis de pequeno valor com tradição imediata (doação manual).
+P: Forma escrita || Doação manual || Pequeno valor e tradição imediata
+K: doação; forma; doação verbal
+
+@CC 542
+I: A doação ao nascituro vale se aceita por seu representante legal.
+P: Doação ao nascituro || Aceitação pelo representante || Proteção do nascituro
+K: doação; nascituro
+
+@CC 543
+I: Dispensa-se a aceitação na doação pura a absolutamente incapaz.
+P: Doação pura || Absolutamente incapaz || Aceitação presumida
+K: doação; incapaz; aceitação
+
+@CC 544
+I: A doação de ascendente a descendente, ou de um cônjuge ao outro, é adiantamento da herança e deve ser colacionada no inventário.
+P: Adiantamento da legítima || Colação || Igualdade entre herdeiros
+K: doação; adiantamento de legítima; colação
+
+@CC 545
+I: A doação em subvenção periódica extingue-se com a morte do doador, salvo disposição, e não pode ultrapassar a vida do donatário.
+P: Doação periódica || Extinção com a morte || Limite da vida do donatário
+K: doação; subvenção periódica
+
+@CC 546
+I: A doação em contemplação de casamento futuro com pessoa determinada não pode ser impugnada por falta de aceitação, mas fica sem efeito se o casamento não ocorrer.
+P: Doação propter nuptias || Dispensa aceitação || Condição do casamento
+K: doação; casamento; propter nuptias
+
+@CC 547
+I: O doador pode estipular que os bens voltem ao seu patrimônio se sobreviver ao donatário; não vale a reversão em favor de terceiro.
+P: Cláusula de reversão || Só em favor do doador || Vedação a terceiros
+K: doação; cláusula de reversão
+
+@CC 548
+I: É nula a doação de todos os bens sem reserva de parte ou renda suficiente para a subsistência do doador (doação universal).
+P: Nulidade da doação universal || Patrimônio mínimo || Subsistência do doador
+K: doação universal; nulidade; patrimônio mínimo
+
+@CC 549
+I: É nula a doação na parte que exceder a que o doador poderia dispor em testamento no momento da liberalidade (doação inoficiosa).
+P: Doação inoficiosa || Proteção da legítima || Nulidade do excesso
+K: doação inoficiosa; legítima; nulidade
+
+@CC 550
+I: A doação do cônjuge adúltero ao cúmplice pode ser anulada pelo outro cônjuge ou herdeiros necessários até 2 anos após a dissolução da sociedade conjugal. A jurisprudência afasta a regra quando já havia separação de fato.
+P: Anulação da doação ao cúmplice || Prazo de 2 anos || Separação de fato afasta
+K: doação; adultério; anulação
+
+@CC 551
+I: A doação conjunta a várias pessoas divide-se igualmente, salvo declaração; se os donatários forem cônjuges, o sobrevivente recebe a totalidade (direito de acrescer).
+P: Divisão igualitária || Direito de acrescer entre cônjuges || Declaração em contrário
+K: doação conjuntiva; direito de acrescer
+
+@CC 552
+I: O doador não paga juros de mora nem responde por evicção ou vício redibitório, salvo nas doações para casamento com pessoa determinada, em que responde pela evicção.
+P: Responsabilidade atenuada do doador || Sem evicção e sem vícios || Exceção da doação para casamento
+K: doação; evicção; vício redibitório
+
+@CC 553
+I: O donatário deve cumprir os encargos em benefício do doador, de terceiro ou do interesse geral; neste último caso, o MP pode exigir o cumprimento após a morte do doador.
+P: Cumprimento do encargo || Legitimidade do MP || Interesse geral
+K: doação modal; encargo; Ministério Público
+
+@CC 554
+I: A doação a entidade futura caduca se ela não for regularmente constituída em 2 anos.
+P: Doação a entidade futura || Prazo de 2 anos || Caducidade
+K: doação; entidade futura
+
+@CC 555
+I: A doação pode ser revogada por ingratidão do donatário ou por inexecução do encargo.
+P: Hipóteses de revogação || Ingratidão || Inexecução do encargo
+K: revogação da doação; ingratidão; encargo
+
+@CC 556
+I: Não se pode renunciar antecipadamente ao direito de revogar a doação por ingratidão.
+P: Irrenunciabilidade antecipada || Ordem pública || Ingratidão
+K: revogação da doação; renúncia
+
+@CC 557
+I: Revoga-se a doação por ingratidão se o donatário atentou contra a vida do doador, praticou homicídio doloso, ofensa física, injúria grave ou calúnia, ou recusou alimentos que podia prestar. O rol é exemplificativo (Enunciado 33 da I Jornada).
+P: Atos de ingratidão || Recusa de alimentos || Rol exemplificativo
+K: ingratidão; revogação da doação
+
+@CC 558
+I: A revogação também cabe se a ofensa for contra cônjuge, ascendente, descendente ou irmão do doador.
+P: Ofensa a familiares || Extensão da ingratidão || Parentes próximos
+K: ingratidão; familiares
+
+@CC 559
+I: A revogação por ingratidão deve ser pedida em 1 ano contado da ciência do fato e de sua autoria.
+P: Decadência de 1 ano || Ciência do fato e do autor || Prazo
+K: revogação da doação; decadência
+
+@CC 560
+I: O direito de revogar não se transmite aos herdeiros do doador nem atinge os do donatário, mas os herdeiros podem prosseguir a ação já iniciada.
+P: Direito personalíssimo || Continuidade da ação iniciada || Herdeiros
+K: revogação da doação; herdeiros
+
+@CC 561
+I: No homicídio doloso do doador, a ação cabe aos herdeiros, salvo perdão do doador.
+P: Legitimidade dos herdeiros || Homicídio doloso || Perdão
+K: revogação da doação; homicídio
+
+@CC 562
+I: A doação com encargo pode ser revogada se o donatário estiver em mora; sem prazo, o doador o notifica fixando prazo razoável.
+P: Mora no encargo || Notificação || Revogação
+K: doação modal; revogação; mora
+
+@CC 563
+I: A revogação por ingratidão não prejudica terceiros nem obriga a devolver frutos anteriores à citação, mas sujeita aos posteriores e ao pagamento do valor médio se não puder restituir em espécie.
+P: Proteção de terceiros || Frutos após a citação || Valor médio
+K: revogação da doação; efeitos; frutos
+
+@CC 564
+I: Não se revogam por ingratidão as doações puramente remuneratórias, as com encargo cumprido, as feitas em cumprimento de obrigação natural e as feitas para determinado casamento.
+P: Doações irrevogáveis por ingratidão || Remuneratórias e com encargo cumprido || Obrigação natural e casamento
+K: revogação da doação; exceções
+
+@CC 565
+I: Na locação de coisas, o locador cede o uso e gozo de coisa infungível por tempo determinado ou não, mediante retribuição. A locação de imóveis urbanos segue a Lei nº 8.245/1991.
+P: Uso e gozo de coisa infungível || Retribuição || Lei do Inquilinato para imóveis urbanos
+K: locação de coisas; aluguel; Lei 8.245
+
+@CC 566
+I: O locador deve entregar a coisa em condições de uso e mantê-la assim, e garantir o uso pacífico durante a locação.
+P: Entrega em bom estado || Manutenção || Garantia do uso pacífico
+K: locação; deveres do locador
+
+@CC 567
+I: Deteriorada a coisa sem culpa do locatário, ele pode pedir redução do aluguel ou resolver o contrato, se a coisa não servir mais.
+P: Redução proporcional || Resolução || Deterioração sem culpa
+K: locação; deterioração; redução do aluguel
+
+@CC 568
+I: O locador protege o locatário contra turbações de terceiros com pretensões sobre a coisa e responde por vícios anteriores à locação.
+P: Garantia contra terceiros || Vícios anteriores || Responsabilidade do locador
+K: locação; turbação; vícios
+
+@CC 569
+I: O locatário deve usar a coisa conforme o ajustado e cuidar dela como sua, pagar pontualmente o aluguel, levar ao locador as turbações de terceiros e restituí-la no estado em que recebeu, salvo deterioração natural.
+P: Uso adequado || Pagamento pontual || Restituição no estado recebido
+K: locação; deveres do locatário
+
+@CC 570
+I: Se o locatário der à coisa uso diverso ou a danificar por abuso, o locador pode rescindir e exigir perdas e danos.
+P: Desvio de uso || Abuso || Rescisão e perdas e danos
+K: locação; uso abusivo
+
+@CC 571
+I: Na locação com prazo, o locador só retoma antes do fim indenizando o locatário, e este só devolve antes pagando proporcionalmente a multa; o locatário tem direito de retenção até ser indenizado.
+P: Respeito ao prazo || Multa proporcional || Retenção pelo locatário
+K: locação; prazo; multa
+
+@CC 572
+I: Se a obrigação de pagar os aluguéis restantes for indenização excessiva, o juiz pode fixá-la em bases razoáveis.
+P: Redução da indenização || Equidade || Controle judicial
+K: locação; multa; redução
+
+@CC 573
+I: A locação por prazo determinado cessa de pleno direito no fim do prazo, sem notificação.
+P: Cessação automática || Fim do prazo || Dispensa notificação
+K: locação; prazo determinado
+
+@CC 574
+I: Se o locatário permanecer na coisa após o prazo sem oposição do locador, a locação se prorroga pelo mesmo aluguel, por prazo indeterminado.
+P: Prorrogação tácita || Mesmo aluguel || Prazo indeterminado
+K: locação; prorrogação
+
+@CC 575
+I: Notificado e não restituindo a coisa, o locatário paga o aluguel arbitrado pelo locador e responde por danos, mesmo fortuitos. O juiz pode reduzir o aluguel-pena manifestamente excessivo.
+P: Aluguel-pena || Responsabilidade por caso fortuito || Redução judicial
+K: locação; aluguel-pena; mora
+
+@CC 576
+I: Alienada a coisa, o adquirente não precisa respeitar a locação se não houver cláusula de vigência registrada (Registro de Imóveis, para imóveis; de Títulos e Documentos, para móveis); para imóveis, deve dar 90 dias para a desocupação.
+P: Cláusula de vigência registrada || Denúncia pelo adquirente || Prazo de 90 dias
+K: locação; alienação; cláusula de vigência
+
+@CC 577
+I: Morrendo o locador ou o locatário, a locação por prazo determinado transfere-se aos herdeiros.
+P: Transmissão aos herdeiros || Prazo determinado || Continuidade
+K: locação; morte; herdeiros
+
+@CC 578
+I: Salvo disposição em contrário, o locatário tem direito de retenção pelas benfeitorias necessárias e pelas úteis feitas com consentimento expresso do locador.
+P: Retenção por benfeitorias || Necessárias e úteis autorizadas || Cláusula em contrário
+K: locação; benfeitorias; retenção
+
+@CC 579
+I: Comodato é o empréstimo gratuito de coisa infungível; completa-se com a entrega (contrato real).
+P: Empréstimo de uso || Gratuidade || Contrato real
+K: comodato; empréstimo
+
+@CC 580
+I: Tutores, curadores e administradores de bens alheios não podem dar em comodato os bens sob sua guarda sem autorização especial.
+P: Restrição a administradores || Autorização especial || Proteção do patrimônio alheio
+K: comodato; administradores
+
+@CC 581
+I: Sem prazo, presume-se o necessário ao uso; o comodante só retoma antes por necessidade imprevista e urgente reconhecida pelo juiz.
+P: Prazo presumido || Retomada antecipada excepcional || Controle judicial
+K: comodato; prazo; retomada
+
+@CC 582
+I: O comodatário conserva a coisa como sua e usa conforme o contrato; em mora, paga aluguel arbitrado pelo comodante até restituí-la.
+P: Dever de conservação || Uso conforme o contrato || Aluguel-pena na mora
+K: comodato; mora; aluguel
+
+@CC 583
+I: Se, em risco a coisa emprestada junto com bens próprios, o comodatário salvar os seus e abandonar a do comodante, responde mesmo por fortuito.
+P: Preferência pelos bens próprios || Responsabilidade agravada || Caso fortuito
+K: comodato; risco; responsabilidade
+
+@CC 584
+I: O comodatário não pode cobrar do comodante as despesas de uso e gozo da coisa.
+P: Despesas ordinárias do comodatário || Sem reembolso || Benfeitorias necessárias à parte
+K: comodato; despesas
+
+@CC 585
+I: Comodatários simultâneos respondem solidariamente perante o comodante.
+P: Solidariedade legal || Pluralidade de comodatários || Garantia do comodante
+K: comodato; solidariedade
+
+@CC 586
+I: Mútuo é o empréstimo de coisa fungível; o mutuário restitui coisa do mesmo gênero, qualidade e quantidade.
+P: Empréstimo de consumo || Restituição do equivalente || Transferência da propriedade
+K: mútuo; empréstimo; fungível
