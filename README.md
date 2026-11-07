@@ -24,6 +24,7 @@ Página de leitura com todas as leis deste repositório, diagramada como um livr
 - Ao abrir um resultado da busca, a página vai **direto à expressão encontrada**.
 - **Imprimir lei**, ocultar ou mostrar as análises, tema claro ou escuro, link direto para cada artigo (`#/cpc/art-1-035`).
 - **Manual de uso** no menu, com as finalidades do site e o passo a passo para estudar, marcar e compartilhar.
+- **Instalar como aplicativo:** botão no menu que salva o Lex Vade Mecum na tela inicial do celular ou na área de trabalho do computador, abrindo em janela própria, como um app.
 - Página **Sobre**, com o objetivo do projeto e o criador.
 
 A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente. Documentação: [Manual de uso](docs/manual-de-uso.md) · [Guia de uso (referência completa dos recursos)](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).

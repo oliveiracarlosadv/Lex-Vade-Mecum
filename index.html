@@ -101,6 +101,7 @@ aside h2{font-family:var(--display);font-variant:small-caps;letter-spacing:.12em
 .lei.ativa{background:var(--papel);box-shadow:inset 3px 0 0 var(--titulo);color:var(--titulo);font-weight:600}
 .lei small{display:block;font-family:var(--ui);font-weight:400;color:var(--tinta2);font-size:12px;margin-top:2px}
 .menu-extra{margin-top:12px;border-top:1px solid var(--fio);padding-top:8px}
+.passos-instalar{padding-left:1.4em;margin:10px 0}.passos-instalar li{margin:6px 0}
 .lema-manual{text-align:center;font-size:14px;margin:6px 0 0}
 .manual-indice{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin:14px 0 6px}
 .manual-indice a.chip{text-decoration:none}
@@ -368,7 +369,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   <aside id="lateral">
     <h2>Leis</h2>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
-    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button></div>
+    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="instalarBtn">📲 Instalar como aplicativo<small>Salvar na tela inicial ou na área de trabalho</small></button></div>
     <div id="sumario"></div>
   </aside>
   <main id="main"><div class="folha" id="conteudo"><div class="carregando">Carregando…</div></div></main>
@@ -1658,6 +1659,70 @@ function preCarregarBusca() {
   });
 }
 
+/* ---------- Instalar como aplicativo (web app) ---------- */
+let pedidoInstalacao = null;
+const emApp = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+function ligarInstalacao() {
+  const b = $('#instalarBtn');
+  if (emApp()) { b.hidden = true; return; }
+  if ('serviceWorker' in navigator && window.isSecureContext && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(() => {});
+  addEventListener('beforeinstallprompt', (e) => { e.preventDefault(); pedidoInstalacao = e; });
+  addEventListener('appinstalled', () => { pedidoInstalacao = null; aviso('Lex Vade Mecum instalado como aplicativo'); });
+  b.onclick = async () => {
+    fecharMenu();
+    if (pedidoInstalacao) {
+      const p = pedidoInstalacao; pedidoInstalacao = null;
+      p.prompt();
+      const r = await p.userChoice.catch(() => null);
+      if (r && r.outcome === 'accepted') return;
+    }
+    instrucoesInstalacao();
+  };
+}
+function instrucoesInstalacao() {
+  const ua = navigator.userAgent;
+  const ios = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+  const android = /Android/.test(ua);
+  const samsung = /SamsungBrowser/.test(ua), edge = /Edg\//.test(ua), firefox = /Firefox|FxiOS/.test(ua);
+  const safariMac = !ios && /Macintosh/.test(ua) && /Safari/.test(ua) && !/Chrome|Chromium|Edg\//.test(ua);
+  let passos, titulo;
+  if (location.protocol === 'file:') {
+    titulo = 'Use a versão on-line';
+    passos = [`Esta é a cópia para uso sem internet. Para instalar o aplicativo, abra <a href="${SITE}" target="_blank" rel="noopener">${SITE.replace('https://', '')}</a> e toque de novo em <b>Instalar como aplicativo</b>.`];
+  } else if (ios) {
+    titulo = 'No iPhone ou iPad';
+    passos = ['Toque no botão <b>Compartilhar</b> (quadrado com uma seta para cima), na barra do navegador.', 'Role a lista e toque em <b>Adicionar à Tela de Início</b>.', 'Confirme em <b>Adicionar</b>. O ícone do Lex Vade Mecum aparece na tela inicial.'];
+  } else if (android && samsung) {
+    titulo = 'No Samsung Internet';
+    passos = ['Toque no menu <b>☰</b> (canto inferior direito).', 'Toque em <b>Adicionar página a</b> e depois em <b>Tela inicial</b>.', 'Confirme em <b>Adicionar</b>.'];
+  } else if (android && firefox) {
+    titulo = 'No Firefox para Android';
+    passos = ['Toque no menu <b>⋮</b>.', 'Toque em <b>Instalar</b> ou <b>Adicionar à tela inicial</b>.', 'Confirme em <b>Adicionar</b>.'];
+  } else if (android) {
+    titulo = 'No Android';
+    passos = ['Toque no menu <b>⋮</b> do navegador (canto superior direito).', 'Toque em <b>Instalar app</b> ou <b>Adicionar à tela inicial</b>.', 'Confirme em <b>Instalar</b>. O ícone do Lex Vade Mecum aparece na tela inicial e na lista de apps.'];
+  } else if (safariMac) {
+    titulo = 'No Safari do Mac';
+    passos = ['No menu <b>Arquivo</b>, escolha <b>Adicionar ao Dock</b>.', 'Confirme em <b>Adicionar</b>. O Lex Vade Mecum passa a abrir como aplicativo, pelo Dock ou pela pasta Aplicativos.'];
+  } else if (edge) {
+    titulo = 'No Microsoft Edge';
+    passos = ['Clique no ícone <b>Instalar</b> na barra de endereço ou abra o menu <b>…</b>.', 'Escolha <b>Aplicativos</b> e depois <b>Instalar este site como aplicativo</b>.', 'Confirme em <b>Instalar</b>. Marque a opção de criar atalho na área de trabalho, se aparecer.'];
+  } else if (firefox) {
+    titulo = 'No Firefox';
+    passos = ['O Firefox para computador não instala sites como aplicativo.', 'Para criar um atalho, arraste o cadeado ao lado do endereço até a área de trabalho.', 'Para ter o aplicativo completo, abra o site no Chrome, no Edge ou no Safari.'];
+  } else {
+    titulo = 'No Chrome do computador';
+    passos = ['Clique no ícone <b>Instalar</b> (monitor com seta) no lado direito da barra de endereço.', 'Ou abra o menu <b>⋮</b>, escolha <b>Transmitir, salvar e compartilhar</b> e depois <b>Instalar página como app</b>.', 'Confirme em <b>Instalar</b>. O Lex Vade Mecum ganha janela própria e atalho na área de trabalho ou no menu de aplicativos.'];
+  }
+  $('#painelConteudo').innerHTML = `<div class="cabecalho-corrido">Lex Vade Mecum · Instalar como aplicativo</div>
+    <section class="secao"><h2>${esc(titulo)}</h2><div class="md">
+      <p>Instalado, o Lex Vade Mecum abre com o próprio ícone, em tela cheia e sem a barra do navegador, como um aplicativo. O texto das leis continua vindo sempre da versão atualizada.</p>
+      <ol class="passos-instalar">${passos.map((x) => `<li>${x}</li>`).join('')}</ol>
+      <p class="aviso-busca">Se a opção não aparecer, o aplicativo talvez já esteja instalado neste aparelho: procure o ícone do Lex Vade Mecum na tela inicial ou na lista de aplicativos.</p>
+    </div></section>`;
+  const dlg = $('#painel'); if (!dlg.open) dlg.showModal(); $('#painel .painel-folha').scrollTop = 0;
+}
+
 /* ---------- Rotas ---------- */
 async function rota() {
   const [cam, qs = ''] = location.hash.replace(/^#\/?/, '').split('?');
@@ -1687,6 +1752,7 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
   $('#sobreBtn').onclick = () => { location.hash = '#/sobre'; fecharMenu(); };
   $('#marcasBtn').onclick = () => { location.hash = '#/marcacoes'; fecharMenu(); };
   $('#manualBtn').onclick = () => { location.hash = '#/manual'; fecharMenu(); };
+  ligarInstalacao();
   $('#arqBackup').onchange = (e) => { const f = e.target.files[0]; e.target.value = ''; if (f) importarBackup(f); };
   $('#formBusca').onsubmit = (e) => { e.preventDefault(); fecharMenu(); buscar($('#q').value, $('#escopo').value); };
   try { await carregarCatalogo(); } catch (e) { return erro(e); }
