@@ -1,0 +1,399 @@
+@CTN 1
+I: O CTN regula o sistema tributário nacional e as normas gerais de direito tributário aplicáveis à União, Estados, DF e Municípios. Editado como lei ordinária, foi recepcionado pela Constituição de 1988 com status de lei complementar (CF, art. 146, III).
+P: Normas gerais de direito tributário || Recepção como lei complementar || Aplicação a todos os entes
+K: Código Tributário Nacional; normas gerais; lei complementar
+
+@CTN 2
+I: O sistema tributário é regido pela Constituição (originalmente a EC nº 18/1965), leis complementares, resoluções do Senado e leis de cada ente nos limites de suas competências. Hoje a referência é a Constituição de 1988, arts. 145 a 162.
+P: Fontes do sistema tributário || Hierarquia normativa || Constituição de 1988 como base atual
+K: sistema tributário nacional; fontes
+
+@CTN 3
+I: Tributo é toda prestação pecuniária compulsória, em moeda ou valor nela exprimível, que não seja sanção de ato ilícito, instituída em lei e cobrada por atividade administrativa plenamente vinculada.
+P: Conceito legal de tributo || Não é sanção por ilícito || Legalidade e vinculação
+K: tributo; conceito; prestação compulsória
+
+@CTN 4
+I: A natureza jurídica do tributo é definida pelo fato gerador, sendo irrelevantes o nome dado e a destinação da arrecadação. Para as contribuições e empréstimos compulsórios, a CF dá relevância à destinação.
+P: Fato gerador define a espécie || Nome irrelevante || Destinação relevante para contribuições (CF)
+K: natureza jurídica do tributo; fato gerador
+
+@CTN 5
+I: O CTN lista três espécies: impostos, taxas e contribuições de melhoria. O STF adota a teoria pentapartida, incluindo empréstimos compulsórios e contribuições especiais (CF, arts. 148 e 149).
+P: Teoria tripartida do CTN || Teoria pentapartida do STF || Espécies tributárias
+K: espécies tributárias; impostos; taxas; contribuição de melhoria
+
+@CTN 6
+I: A competência tributária inclui a competência legislativa plena, respeitadas as limitações constitucionais; tributos repartidos pertencem à competência de quem os institui.
+P: Competência legislativa plena || Limites constitucionais || Repartição não transfere competência
+K: competência tributária
+
+@CTN 7
+I: A competência tributária é indelegável, mas as funções de arrecadar e fiscalizar (capacidade tributária ativa) podem ser atribuídas a outra pessoa jurídica de direito público, com garantias e privilégios, e revogadas a qualquer tempo; atribuir a pessoa privada a função de arrecadar não é delegação.
+P: Indelegabilidade da competência || Delegação da capacidade ativa || Revogabilidade
+K: competência tributária; capacidade tributária ativa; parafiscalidade
+
+@CTN 8
+I: O não exercício da competência tributária não a transfere a outro ente.
+P: Incaducabilidade || Intransferibilidade || Facultatividade do exercício
+K: competência tributária; não exercício
+
+@CTN 9
+I: É vedado aos entes instituir ou majorar tributo sem lei, cobrar imposto sobre patrimônio e renda com lei posterior ao início do exercício, limitar o tráfego por tributos e cobrar impostos e a CBS (CF, art. 195, V) sobre patrimônio, renda ou serviços uns dos outros, templos e entidades religiosas, partidos, sindicatos de trabalhadores, entidades de educação e assistência sem fins lucrativos e papel para livros e jornais (imunidades). As imunidades não dispensam a retenção na fonte nem os deveres instrumentais.
+P: Legalidade e anterioridade || Imunidades, inclusive da CBS (LC nº 214/2025) || Deveres de responsável preservados
+K: limitações ao poder de tributar; imunidade; CBS
+
+@CTN 10
+I: A União não pode instituir tributo não uniforme no território nacional nem que privilegie Estado ou Município (uniformidade geográfica), ressalvados os incentivos regionais (CF, art. 151, I).
+P: Uniformidade geográfica || Vedação de preferências || Incentivos regionais
+K: uniformidade tributária
+
+@CTN 11
+I: Estados, DF e Municípios não podem diferenciar a tributação de bens por sua procedência ou destino (não discriminação).
+P: Não discriminação || Procedência ou destino || Mercado nacional
+K: não discriminação; procedência
+
+@CTN 12
+I: A imunidade recíproca estende-se às autarquias quanto a patrimônio, renda e serviços vinculados a suas finalidades essenciais. O STF estende a regra a empresas públicas prestadoras de serviço público em regime não concorrencial, como os Correios.
+P: Imunidade das autarquias || Finalidades essenciais || Extensão a estatais de serviço público (STF)
+K: imunidade recíproca; autarquias
+
+@CTN 13
+I: A imunidade recíproca não se aplica aos serviços públicos concedidos, cuja tributação é definida pelo poder concedente; a União pode, por lei especial, conceder isenção aos serviços que conceder.
+P: Concessionárias não imunes || Tratamento pelo poder concedente || Isenção por lei especial
+K: imunidade; serviço concedido
+
+@CTN 14
+I: A imunidade das entidades do art. 9º, IV, c, depende de não distribuírem patrimônio ou renda, aplicarem os recursos no país em seus objetivos e manterem escrituração regular; descumprindo, o benefício pode ser suspenso. O STF exige lei complementar para esses requisitos (Tema 32).
+P: Requisitos da imunidade || Suspensão do benefício || Reserva de lei complementar (Tema 32)
+K: imunidade; entidades sem fins lucrativos; requisitos
+
+@CTN 15
+I: Só a União pode instituir empréstimos compulsórios; a Constituição de 1988 admite-os apenas para calamidade pública, guerra externa e investimento público urgente e relevante (art. 148), não recepcionando a hipótese de absorção de poder aquisitivo.
+P: Competência exclusiva da União || Hipóteses constitucionais || Prazo e resgate fixados em lei
+K: empréstimo compulsório
+
+@CTN 16
+I: Imposto é o tributo cujo fato gerador independe de atividade estatal específica relativa ao contribuinte (tributo não vinculado).
+P: Tributo não vinculado || Capacidade contributiva || Conceito de imposto
+K: imposto; tributo não vinculado
+
+@CTN 17
+I: Os impostos do sistema são exclusivamente os deste Título, com suas competências e limitações; hoje a lista de impostos está na Constituição, inclusive com a competência residual da União (art. 154, I) e os novos IBS e Imposto Seletivo.
+P: Rol de impostos || Hoje definido pela CF || Competência residual
+K: impostos; competência
+
+@CTN 18
+I: A União institui, nos Territórios, os impostos estaduais e, se não divididos em Municípios, também os municipais; o DF e Estados não divididos em Municípios instituem impostos estaduais e municipais (competência cumulativa).
+P: Competência cumulativa || Territórios federais || Distrito Federal
+K: competência cumulativa; Distrito Federal
+
+@CTN 18-A
+I: Para o ICMS, combustíveis, gás natural, energia elétrica, comunicações e transporte coletivo são bens e serviços essenciais e não podem ser tratados como supérfluos: é vedada alíquota superior à das operações em geral, e permitida alíquota reduzida (LC nº 194/2022).
+P: Essencialidade para o ICMS || Vedação de alíquota majorada || Alíquotas reduzidas facultadas
+K: ICMS; essencialidade; combustíveis; energia elétrica
+
+@CTN 19
+I: O imposto de importação, da União, tem como fato gerador a entrada de produto estrangeiro no território nacional, considerada ocorrida no registro da declaração de importação.
+P: Fato gerador: entrada no território || Competência da União || Registro da DI
+K: imposto de importação; fato gerador
+
+@CTN 20
+I: A base de cálculo do imposto de importação é a unidade de medida (alíquota específica), o preço normal de venda em livre concorrência no porto de entrada (ad valorem), ou o preço de arrematação, para produto apreendido ou abandonado.
+P: Alíquota específica ou ad valorem || Valor aduaneiro || Arrematação
+K: imposto de importação; base de cálculo
+
+@CTN 21
+I: O Executivo pode alterar alíquotas ou bases do imposto de importação para ajustá-lo à política cambial e de comércio exterior, nos limites legais (extrafiscalidade; CF, art. 153, § 1º).
+P: Extrafiscalidade || Alteração por ato do Executivo || Exceção à anterioridade
+K: imposto de importação; extrafiscalidade
+
+@CTN 22
+I: Contribuinte do imposto de importação é o importador ou equiparado e o arrematante de produtos apreendidos ou abandonados.
+P: Importador || Equiparados || Arrematante
+K: imposto de importação; contribuinte
+
+@CTN 23
+I: O imposto de exportação, da União, tem como fato gerador a saída de produto nacional ou nacionalizado para o exterior.
+P: Saída do território || Competência da União || Extrafiscalidade
+K: imposto de exportação; fato gerador
+
+@CTN 24
+I: A base de cálculo do imposto de exportação é a unidade de medida (alíquota específica) ou o preço normal em livre concorrência (ad valorem), considerada a entrega no porto de saída.
+P: Específica ou ad valorem || Preço normal || Deduções de tributos
+K: imposto de exportação; base de cálculo
+
+@CTN 25
+I: A lei pode adotar como base de cálculo a parcela do valor que exceder um valor básico.
+P: Base sobre o excedente || Valor básico || Critério legal
+K: imposto de exportação; base de cálculo
+
+@CTN 26
+I: O Executivo pode alterar alíquotas ou bases do imposto de exportação conforme a política cambial e de comércio exterior.
+P: Extrafiscalidade || Ato do Executivo || Limites legais
+K: imposto de exportação; extrafiscalidade
+
+@CTN 27
+I: Contribuinte do imposto de exportação é o exportador ou quem a lei equiparar.
+P: Exportador || Equiparados || Sujeito passivo
+K: imposto de exportação; contribuinte
+
+@CTN 28
+I: A receita líquida do imposto de exportação se destinaria a reservas monetárias; a regra não foi recepcionada pela CF/1988, que veda vincular receita de impostos (art. 167, IV).
+P: Vinculação histórica || Não recepção || Vedação de vinculação
+K: imposto de exportação; vinculação de receita
+
+@CTN 29
+I: O ITR, da União, tem como fato gerador a propriedade, domínio útil ou posse de imóvel por natureza localizado fora da zona urbana. O STJ adota o critério da destinação do imóvel (DL nº 57/1966) para afastar o IPTU em áreas de exploração rural.
+P: Fato gerador do ITR || Imóvel rural || Critério da destinação
+K: ITR; imposto territorial rural
+
+@CTN 30
+I: A base de cálculo do ITR é o valor fundiário (valor da terra nua).
+P: Valor fundiário || Terra nua || Exclusão de benfeitorias
+K: ITR; base de cálculo
+
+@CTN 31
+I: Contribuinte do ITR é o proprietário, o titular do domínio útil ou o possuidor a qualquer título.
+P: Proprietário, enfiteuta ou possuidor || Sujeição passiva || Posse com animus domini
+K: ITR; contribuinte
+
+@CTN 32
+I: O IPTU, municipal, incide sobre a propriedade, domínio útil ou posse de imóvel urbano; a zona urbana é definida em lei municipal com ao menos dois melhoramentos públicos (meio-fio, água, esgoto, iluminação, escola ou posto de saúde próximos), podendo incluir áreas urbanizáveis.
+P: Fato gerador do IPTU || Zona urbana com dois melhoramentos || Áreas de expansão urbana
+K: IPTU; zona urbana; fato gerador
+
+@CTN 33
+I: A base de cálculo do IPTU é o valor venal do imóvel, sem incluir os móveis nele mantidos. A atualização acima da inflação exige lei (Súmula 160 do STJ).
+P: Valor venal || Exclusão dos móveis || Atualização por lei
+K: IPTU; base de cálculo; valor venal; Súmula 160 STJ
+
+@CTN 34
+I: Contribuinte do IPTU é o proprietário, o titular do domínio útil ou o possuidor a qualquer título; o promitente comprador também pode ser contribuinte (Súmula 399 do STJ: a lei municipal define o sujeito passivo).
+P: Proprietário ou possuidor || Promitente comprador || Súmula 399 do STJ
+K: IPTU; contribuinte; Súmula 399 STJ
+
+@CTN 35
+I: O ITBI, dos Municípios e do DF, incide sobre a transmissão inter vivos onerosa da propriedade ou domínio útil de imóveis, de direitos reais (exceto de garantia) e a cessão desses direitos (redação da LC nº 227/2026). O STF entende que o fato gerador só ocorre com o registro da transferência (Tema 1.124).
+P: Fato gerador do ITBI || Transmissão onerosa e cessões || Momento do registro (Tema 1.124)
+K: ITBI; transmissão de imóveis; fato gerador
+
+@CTN 36
+I: O ITBI não incide na incorporação de imóvel ao capital de pessoa jurídica nem na incorporação ou fusão de pessoas jurídicas, nem no retorno ao alienante na desincorporação.
+P: Não incidência na integralização de capital || Fusão e incorporação || Desincorporação
+K: ITBI; integralização de capital; imunidade
+
+@CTN 37
+I: A não incidência não se aplica se a pessoa jurídica adquirente tiver como atividade preponderante (mais de 50% da receita) a venda, locação ou cessão de imóveis, apurada nos 2 anos anteriores e posteriores.
+P: Atividade imobiliária preponderante || Critério dos 50% da receita || Apuração em 2 anos
+K: ITBI; atividade preponderante
+
+@CTN 38
+I: A base de cálculo do ITBI é o valor venal, entendido como o valor de mercado à vista, estimado por critérios técnicos divulgados pela administração, podendo o contribuinte contestá-lo por avaliação contraditória; cartórios devem compartilhar informações das operações (LC nº 227/2026). O STJ afasta a base presumida unilateral (Tema 1.113).
+P: Valor venal de mercado || Critérios técnicos e contestação || Tema 1.113 do STJ
+K: ITBI; base de cálculo; valor venal
+
+@CTN 40
+I: O ITBI pago é dedutível do imposto de renda devido sobre o ganho da mesma transmissão.
+P: Dedução no IR || Mesma transmissão || Evita bitributação
+K: ITBI; imposto de renda
+
+@CTN 41
+I: O ITBI compete ao Município da situação do bem, ou ao DF.
+P: Município da situação || Distrito Federal || Critério territorial
+K: ITBI; competência
+
+@CTN 42
+I: Contribuinte do ITBI é qualquer das partes, conforme a lei municipal.
+P: Comprador ou vendedor || Definição legal || Usualmente o adquirente
+K: ITBI; contribuinte
+
+@CTN 43
+I: O imposto de renda incide sobre a aquisição de disponibilidade econômica ou jurídica de renda (produto do capital, do trabalho ou de ambos) e de proventos (acréscimos patrimoniais), independentemente de denominação ou origem; a lei define o momento da disponibilidade da renda do exterior. Indenizações não são renda (Súmula 498 do STJ, dano moral).
+P: Renda e proventos || Acréscimo patrimonial || Indenizações não tributáveis
+K: imposto de renda; fato gerador; disponibilidade
+
+@CTN 44
+I: A base de cálculo do imposto de renda é o montante real, arbitrado ou presumido da renda ou proventos.
+P: Lucro real, presumido ou arbitrado || Montante tributável || Base de cálculo
+K: imposto de renda; base de cálculo
+
+@CTN 45
+I: Contribuinte do IR é o titular da disponibilidade, podendo a lei atribuir essa condição ao possuidor dos bens produtores de renda e à fonte pagadora a responsabilidade pela retenção.
+P: Titular da renda || Possuidor dos bens || Retenção na fonte
+K: imposto de renda; contribuinte; fonte pagadora
+
+@CTN 46
+I: O IPI, da União, incide no desembaraço aduaneiro, na saída do estabelecimento industrial ou equiparado e na arrematação; industrializado é o produto que sofre operação que modifique natureza, finalidade ou o aperfeiçoe para consumo.
+P: Fatos geradores do IPI || Conceito de industrialização || Desembaraço e saída
+K: IPI; fato gerador; industrialização
+
+@CTN 47
+I: A base de cálculo do IPI é o valor aduaneiro acrescido de tributos e encargos (importação), o valor da operação de saída (ou preço de mercado) ou o preço da arrematação.
+P: Base na importação || Valor da operação || Arrematação
+K: IPI; base de cálculo
+
+@CTN 48
+I: O IPI é seletivo em função da essencialidade dos produtos.
+P: Seletividade || Essencialidade || Alíquotas diferenciadas
+K: IPI; seletividade
+
+@CTN 49
+I: O IPI é não cumulativo: paga-se a diferença entre o imposto das saídas e o das entradas, transferindo-se o saldo credor para períodos seguintes.
+P: Não cumulatividade || Crédito das entradas || Saldo transferível
+K: IPI; não cumulatividade
+
+@CTN 50
+I: Produtos sujeitos ao IPI remetidos entre Estados devem ser acompanhados de nota fiscal de modelo especial.
+P: Nota fiscal || Operações interestaduais || Controle fiscal
+K: IPI; nota fiscal
+
+@CTN 51
+I: Contribuinte do IPI é o importador, o industrial, o comerciante que forneça a industriais e o arrematante; cada estabelecimento é contribuinte autônomo.
+P: Sujeitos passivos || Equiparados || Autonomia dos estabelecimentos
+K: IPI; contribuinte
+
+@CTN 63
+I: O IOF, da União, incide sobre operações de crédito, câmbio, seguro e com títulos e valores mobiliários, nos momentos de entrega, liquidação ou emissão definidos em cada inciso; a regra evita dupla incidência sobre a mesma operação.
+P: Quatro hipóteses de incidência || Momento da efetivação || IOF-ouro excluído
+K: IOF; fato gerador
+
+@CTN 64
+I: A base do IOF é o montante da obrigação (crédito), o valor em moeda nacional (câmbio), o prêmio (seguro) ou o valor de emissão, transmissão ou resgate (títulos).
+P: Base por modalidade || Prêmio no seguro || Valor dos títulos
+K: IOF; base de cálculo
+
+@CTN 65
+I: O Executivo pode alterar alíquotas ou bases do IOF para ajustá-lo à política monetária.
+P: Extrafiscalidade || Política monetária || Ato do Executivo
+K: IOF; extrafiscalidade
+
+@CTN 66
+I: Contribuinte do IOF é qualquer das partes, conforme a lei.
+P: Definição legal || Partes da operação || Sujeição passiva
+K: IOF; contribuinte
+
+@CTN 67
+I: Destinava a receita do IOF a reservas monetárias; vinculação não recepcionada pela CF/1988.
+P: Vinculação histórica || Não recepção || Art. 167, IV, da CF
+K: IOF; vinculação
+
+@CTN 68
+I: Previa imposto federal sobre transportes e comunicações não estritamente municipais; hoje esses serviços estão no campo do ICMS (e, com a reforma, do IBS e CBS).
+P: Imposto histórico || Absorvido pelo ICMS || Reforma tributária
+K: transporte; comunicação; ICMS
+
+@CTN 69
+I: A base de cálculo do imposto sobre transportes e comunicações era o preço do serviço.
+P: Preço do serviço || Regra histórica || ICMS atual
+K: transporte; base de cálculo
+
+@CTN 70
+I: Contribuinte do imposto sobre transportes e comunicações era o prestador do serviço.
+P: Prestador || Regra histórica || ICMS atual
+K: transporte; contribuinte
+
+@CTN 74
+I: Previa o imposto único federal sobre combustíveis, lubrificantes, energia elétrica e minerais, com incidência única; extinto pela CF/1988, que levou essas operações ao ICMS.
+P: Imposto único histórico || Incidência única || Absorção pelo ICMS
+K: imposto único; combustíveis; energia elétrica
+
+@CTN 75
+I: Mandava aplicar ao imposto único as regras do IPI, II e ICM conforme a etapa tributada; dispositivo histórico.
+P: Remissão a outros impostos || Regra histórica || Sem aplicação atual
+K: imposto único
+
+@CTN 76
+I: Na iminência ou em caso de guerra externa, a União pode instituir impostos extraordinários, suprimidos gradualmente em até 5 anos da paz (CF, art. 154, II).
+P: Imposto extraordinário de guerra || Temporário || Supressão em 5 anos
+K: imposto extraordinário; guerra
+
+@CTN 77
+I: Taxas têm como fato gerador o exercício regular do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível; não podem ter base de cálculo ou fato gerador de imposto nem ser calculadas pelo capital das empresas (Súmula Vinculante 29 admite elementos da base de imposto sem identidade integral).
+P: Taxa de polícia e de serviço || Especificidade e divisibilidade || Vedação de base de imposto
+K: taxa; poder de polícia; serviço público; Súmula Vinculante 29
+
+@CTN 78
+I: Poder de polícia é a atividade administrativa que limita direitos em favor do interesse público (segurança, higiene, ordem, mercado etc.); é regular quando exercido pelo órgão competente, nos limites da lei e com devido processo. O STF admite a presunção do exercício quando há órgão estruturado.
+P: Conceito de poder de polícia || Exercício regular || Órgão estruturado
+K: poder de polícia; taxa
+
+@CTN 79
+I: Os serviços públicos são utilizados efetiva ou potencialmente (se compulsórios e disponíveis), específicos (destacáveis em unidades) e divisíveis (fruíveis individualmente). Serviços indivisíveis, como iluminação pública e segurança, não podem ser custeados por taxa (Súmulas Vinculantes 19 e 41).
+P: Utilização efetiva ou potencial || Especificidade e divisibilidade || Serviços indivisíveis excluídos
+K: taxa de serviço; divisibilidade; Súmula Vinculante 41
+
+@CTN 80
+I: Cada ente só pode cobrar taxas relativas às atribuições que a Constituição e as leis lhe conferem.
+P: Competência comum ligada às atribuições || Repartição constitucional || Limite de cada ente
+K: taxa; competência
+
+@CTN 81
+I: A contribuição de melhoria custeia obras públicas que valorizem imóveis, com limite total no custo da obra e limite individual na valorização de cada imóvel.
+P: Obra pública e valorização || Limite total e individual || Tributo vinculado
+K: contribuição de melhoria
+
+@CTN 82
+I: A lei da contribuição de melhoria exige publicação prévia de memorial, orçamento, parcela financiada, zona beneficiada e fator de absorção, prazo mínimo de 30 dias para impugnação e regulamentação do processo; o contribuinte é notificado do valor e dos cálculos.
+P: Publicação prévia || Impugnação em 30 dias || Notificação individual
+K: contribuição de melhoria; requisitos
+
+@CTN 82-A
+I: Municípios e DF podem instituir contribuição para custeio, expansão e melhoria da iluminação pública e de sistemas de monitoramento de segurança em logradouros, respeitando legalidade e anterioridade, com cobrança facultativa na fatura de energia (LC nº 227/2026; CF, art. 149-A).
+P: COSIP ampliada ao monitoramento || Legalidade e anterioridade || Cobrança na conta de luz
+K: contribuição de iluminação pública; COSIP; monitoramento
+
+@CTN 83
+I: Previa participação de Estados e Municípios conveniados em até 10% da arrecadação do IR de pessoas físicas e do IPI; regra superada pelas transferências constitucionais.
+P: Participação conveniada || Regra histórica || Repartição constitucional atual
+K: repartição de receitas
+
+@CTN 84
+I: A lei federal pode atribuir a Estados, DF e Municípios a arrecadação de impostos federais cujo produto lhes seja distribuído, e o mesmo vale para Estados em relação aos Municípios.
+P: Delegação da arrecadação || Impostos repartidos || Cooperação federativa
+K: arrecadação; delegação
+
+@CTN 85
+I: A União distribui aos Municípios o produto do ITR dos imóveis neles situados e aos entes o IR retido na fonte sobre rendimentos de sua dívida e servidores; o § 3º teve a execução suspensa pelo Senado. Hoje vigoram as regras da CF (arts. 157 e 158).
+P: ITR aos Municípios || IR retido pelos entes || Regras constitucionais atuais
+K: repartição de receitas; ITR; imposto de renda retido
+
+@CTN 90
+I: Fixa a tabela do fator representativo do inverso da renda per capita usada na distribuição do Fundo de Participação dos Estados; hoje os critérios do FPE são definidos pela LC nº 62/1989, com alterações.
+P: Critério da renda per capita || Tabela de fatores || FPE
+K: Fundo de Participação dos Estados; critérios
+
+@CTN 91
+I: Do Fundo de Participação dos Municípios, 10% vão às capitais e 90% aos demais Municípios, por coeficientes de população e renda; a reserva do interior e os coeficientes seguem também leis complementares posteriores.
+P: Divisão capitais × interior || Coeficientes populacionais || FPM
+K: Fundo de Participação dos Municípios; coeficientes
+
+@CTN 92
+I: O TCU comunica ao Banco do Brasil os coeficientes dos fundos de participação: até o fim de março para Estados e DF e até o fim do exercício para Municípios, refazendo-os se surgir novo ente.
+P: Coeficientes fixados pelo TCU || Prazos de comunicação || Novos entes
+K: fundos de participação; TCU
+
+@CTN 96
+I: Legislação tributária compreende leis, tratados e convenções internacionais, decretos e normas complementares sobre tributos e relações correlatas.
+P: Conceito amplo de legislação tributária || Leis, tratados e decretos || Normas complementares
+K: legislação tributária
+
+@CTN 97
+I: Só a lei pode instituir, extinguir, majorar ou reduzir tributos, definir fato gerador e sujeito passivo, fixar alíquota e base, cominar penalidades e prever exclusão, suspensão e extinção do crédito; atualização monetária da base não é majoração.
+P: Reserva legal tributária || Matérias reservadas || Atualização não é majoração
+K: legalidade tributária; reserva de lei
+
+@CTN 98
+I: Tratados internacionais revogam ou modificam a legislação tributária interna e devem ser observados pela posterior. O STF considera constitucional a isenção heterônoma por tratado firmado pela República (RE 229.096).
+P: Prevalência dos tratados || Especialidade || Isenção por tratado
+K: tratados internacionais; legislação tributária
+
+@CTN 99
+I: Os decretos restringem-se ao conteúdo e alcance das leis que regulamentam.
+P: Decreto regulamentar || Limite da lei || Hierarquia
+K: decreto; regulamento
+
+@CTN 100
+I: São normas complementares os atos normativos administrativos, decisões administrativas com eficácia normativa, práticas reiteradas das autoridades e convênios entre entes; quem as observa não sofre penalidade, juros de mora nem correção da base.
+P: Normas complementares || Proteção da confiança || Exclusão de penalidades e juros
+K: normas complementares; práticas reiteradas; boa-fé
