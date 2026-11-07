@@ -1,0 +1,349 @@
+@CC 1
+I: Toda pessoa, natural ou jurídica, tem capacidade de direito, ou seja, aptidão genérica para ser titular de direitos e deveres na ordem civil. É a personalidade jurídica em sua dimensão de capacidade de gozo, distinta da capacidade de exercício (arts. 3º a 5º).
+P: Capacidade de direito é universal || Distinção entre capacidade de direito e de fato || Fundamento da personalidade jurídica
+K: personalidade; capacidade de direito; pessoa natural; sujeito de direitos
+
+@CC 2
+I: A personalidade civil começa com o nascimento com vida, mas a lei protege os direitos do nascituro desde a concepção. A doutrina e o STJ reconhecem ao nascituro direitos da personalidade, como a indenização por dano moral e os alimentos gravídicos (Lei nº 11.804/2008).
+P: Nascimento com vida marca o início da personalidade || Nascituro tem direitos protegidos desde a concepção || Tutela de direitos da personalidade do nascituro
+K: nascituro; personalidade; nascimento com vida; concepção
+
+@CC 3
+I: Desde o Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015), só os menores de 16 anos são absolutamente incapazes. Pessoas com deficiência mental ou intelectual deixaram de ser consideradas absolutamente incapazes, e os antigos incisos foram revogados.
+P: Única hipótese: menores de 16 anos || Deficiência não gera incapacidade absoluta || Atos praticados exigem representação
+K: incapacidade absoluta; menor de 16 anos; Estatuto da Pessoa com Deficiência; representação
+
+@CC 4
+I: São relativamente incapazes os maiores de 16 e menores de 18 anos, os ébrios habituais e viciados em tóxicos, os que não puderem exprimir a vontade por causa transitória ou permanente e os pródigos. Seus atos exigem assistência e são anuláveis sem ela (art. 171, I). A capacidade dos indígenas é regulada por lei especial.
+P: Rol de relativamente incapazes || Atos dependem de assistência || Indígenas regidos por legislação especial
+K: incapacidade relativa; assistência; pródigo; ébrio habitual
+
+@CC 5
+I: A menoridade cessa aos 18 anos. A incapacidade do menor também cessa pela emancipação voluntária (pelos pais, por instrumento público, a partir dos 16 anos), judicial (ouvido o tutor), pelo casamento, pelo emprego público efetivo, pela colação de grau em curso superior ou pelo estabelecimento civil ou comercial, ou relação de emprego, que dê economia própria ao maior de 16 anos.
+P: Maioridade civil aos 18 anos || Hipóteses de emancipação || Emancipação voluntária dispensa homologação judicial
+K: maioridade; emancipação; capacidade civil; menor
+
+@CC 6
+I: A existência da pessoa natural termina com a morte. A morte é presumida quanto aos ausentes quando a lei autoriza a abertura da sucessão definitiva (arts. 37 e 38).
+P: Morte põe fim à personalidade || Morte presumida do ausente || Vínculo com a sucessão definitiva
+K: morte; fim da personalidade; ausência; morte presumida
+
+@CC 7
+I: Permite declarar a morte presumida sem decretação de ausência quando for extremamente provável a morte de quem estava em perigo de vida, ou quando o desaparecido em campanha ou prisioneiro não for encontrado até 2 anos após a guerra. Exige o esgotamento das buscas, e a sentença fixa a data provável do falecimento.
+P: Morte presumida sem ausência || Perigo de vida ou guerra || Sentença fixa a data provável da morte
+K: morte presumida; desaparecimento; justificação; sentença
+
+@CC 8
+I: Se duas ou mais pessoas morrem na mesma ocasião e não se pode apurar quem morreu primeiro, presume-se que morreram simultaneamente (comoriência). Com isso, uma não herda da outra.
+P: Presunção de morte simultânea || Comorientes não herdam entre si || Presunção relativa
+K: comoriência; morte simultânea; sucessão
+
+@CC 9
+I: Devem ser registrados em registro público os nascimentos, casamentos e óbitos, a emancipação, a interdição (hoje, a curatela) e a sentença de ausência e de morte presumida.
+P: Atos sujeitos a registro || Publicidade do estado da pessoa || Lei de Registros Públicos
+K: registro civil; nascimento; casamento; óbito; emancipação
+
+@CC 10
+I: Exige averbação em registro público das sentenças de nulidade ou anulação do casamento, divórcio, separação e restabelecimento da sociedade conjugal, e dos atos que reconhecem a filiação.
+P: Averbação de alterações do estado civil || Divórcio e separação || Reconhecimento de filiação
+K: averbação; registro civil; divórcio; filiação
+
+@CC 11
+I: Os direitos da personalidade são intransmissíveis e irrenunciáveis, e seu exercício não pode sofrer limitação voluntária, salvo casos previstos em lei. A doutrina admite limitações voluntárias pontuais que não sejam permanentes nem gerais (Enunciado 4 da I Jornada de Direito Civil).
+P: Intransmissibilidade e irrenunciabilidade || Limitação voluntária só nos casos legais || Proteção da dignidade humana
+K: direitos da personalidade; intransmissibilidade; irrenunciabilidade; dignidade
+
+@CC 12
+I: Diante de ameaça ou lesão a direito da personalidade, pode-se pedir a cessação e perdas e danos. Se a vítima tiver morrido, têm legitimidade o cônjuge sobrevivente e os parentes em linha reta ou colaterais até o quarto grau (lesados indiretos).
+P: Tutela inibitória e reparatória || Legitimidade dos parentes do morto || Proteção post mortem
+K: direitos da personalidade; tutela inibitória; dano moral; legitimidade
+
+@CC 13
+I: Salvo exigência médica, é proibido dispor do próprio corpo quando houver diminuição permanente da integridade física ou ofensa aos bons costumes, admitida a disposição para transplante na forma da lei. A doutrina entende que a cirurgia de redesignação sexual se enquadra na exigência médica.
+P: Integridade física protegida || Exceção por exigência médica || Transplante na forma da Lei nº 9.434/1997
+K: disposição do corpo; integridade física; transplante; exigência médica
+
+@CC 14
+I: É válida a disposição gratuita do próprio corpo, no todo ou em parte, para depois da morte, com objetivo científico ou altruístico, podendo ser revogada a qualquer tempo.
+P: Disposição post mortem gratuita || Fins científicos ou altruísticos || Revogabilidade a qualquer tempo
+K: doação de órgãos; disposição do corpo; post mortem
+
+@CC 15
+I: Ninguém pode ser obrigado a submeter-se, com risco de vida, a tratamento médico ou cirurgia. Fundamenta o consentimento informado e a autonomia do paciente.
+P: Autonomia do paciente || Consentimento informado || Recusa de tratamento de risco
+K: consentimento informado; autonomia; tratamento médico
+
+@CC 16
+I: Toda pessoa tem direito ao nome, composto de prenome e sobrenome. O nome identifica a pessoa e é direito da personalidade; suas alterações seguem a Lei de Registros Públicos.
+P: Direito ao nome || Prenome e sobrenome || Alteração conforme a Lei nº 6.015/1973
+K: nome; prenome; sobrenome; direito da personalidade
+
+@CC 17
+I: O nome não pode ser usado por terceiros em publicações ou representações que exponham a pessoa ao desprezo público, mesmo sem intenção difamatória.
+P: Proteção do nome contra exposição || Dispensa intenção de difamar || Gera dever de indenizar
+K: nome; desprezo público; publicações
+
+@CC 18
+I: É proibido usar nome alheio em propaganda comercial sem autorização.
+P: Exigência de autorização || Uso comercial do nome || Indenização pelo uso indevido
+K: nome; propaganda comercial; autorização
+
+@CC 19
+I: O pseudônimo adotado para atividades lícitas recebe a mesma proteção dada ao nome.
+P: Proteção do pseudônimo || Atividades lícitas || Equiparação ao nome
+K: pseudônimo; nome; proteção
+
+@CC 20
+I: A divulgação de escritos, palavras ou imagem de uma pessoa pode ser proibida, a pedido dela, se atingir a honra, a boa fama ou a respeitabilidade, ou se tiver fins comerciais, salvo autorização ou necessidade da justiça ou da ordem pública. O STF (ADI 4.815) afastou a exigência de autorização para biografias. Para o uso comercial da imagem, o dano é presumido (Súmula 403 do STJ).
+P: Proteção da imagem e da honra || Biografias não autorizadas permitidas (ADI 4.815) || Uso comercial sem autorização gera dano presumido (Súmula 403 do STJ)
+K: direito à imagem; honra; biografias; Súmula 403 STJ; ADI 4815
+
+@CC 21
+I: A vida privada da pessoa natural é inviolável, e o juiz deve adotar as providências necessárias para impedir ou fazer cessar atos que a violem.
+P: Inviolabilidade da vida privada || Tutela judicial preventiva || Proteção da intimidade
+K: privacidade; vida privada; intimidade
+
+@CC 22
+I: Quando uma pessoa desaparece do domicílio sem deixar notícias nem representante, o juiz, a pedido de interessado ou do MP, declara a ausência e nomeia curador para os bens.
+P: Declaração de ausência || Nomeação de curador || Proteção do patrimônio do desaparecido
+K: ausência; curador; desaparecimento
+
+@CC 23
+I: Também há declaração de ausência e nomeação de curador se o ausente deixou mandatário que não queira ou não possa agir, ou com poderes insuficientes.
+P: Ausência com mandatário inapto || Nomeação de curador || Insuficiência de poderes
+K: ausência; mandatário; curador
+
+@CC 24
+I: O juiz fixa os poderes e deveres do curador do ausente, aplicando no que couber as regras de tutela e curatela.
+P: Poderes fixados pelo juiz || Aplicação das regras de tutela e curatela || Administração dos bens
+K: curador; ausente; poderes
+
+@CC 25
+I: O cônjuge do ausente, não separado judicialmente ou de fato há mais de 2 anos, é seu curador legítimo. Na falta, os pais, depois os descendentes (os mais próximos primeiro) e, por último, curador escolhido pelo juiz. A doutrina estende a regra ao companheiro.
+P: Ordem legal de curadores || Cônjuge em primeiro lugar || Companheiro equiparado pela doutrina
+K: curador; cônjuge; ausência; ordem legal
+
+@CC 26
+I: Passado 1 ano da arrecadação dos bens (ou 3 anos, se o ausente deixou representante), os interessados podem pedir a abertura da sucessão provisória.
+P: Prazo de 1 ou 3 anos || Sucessão provisória || Requerimento dos interessados
+K: sucessão provisória; ausência; prazo
+
+@CC 27
+I: São interessados na sucessão provisória o cônjuge não separado judicialmente, os herdeiros presumidos, quem tenha direito dependente da morte do ausente e os credores de dívidas vencidas.
+P: Rol de interessados || Herdeiros e credores || Cônjuge não separado
+K: sucessão provisória; legitimidade; herdeiros
+
+@CC 28
+I: A sentença de sucessão provisória só produz efeitos 180 dias após publicada, mas, transitada em julgado, já se abrem testamento, inventário e partilha. Sem interessados, o MP deve requerê-la; sem herdeiros, aplica-se a herança jacente.
+P: Eficácia após 180 dias || Inventário como se o ausente fosse falecido || Atuação do MP
+K: sucessão provisória; sentença; inventário
+
+@CC 29
+I: Antes da partilha, o juiz pode mandar converter móveis sujeitos a deterioração em imóveis ou títulos garantidos pela União.
+P: Conversão de bens perecíveis || Preservação do patrimônio || Decisão judicial
+K: sucessão provisória; conversão de bens
+
+@CC 30
+I: Os herdeiros só entram na posse provisória dos bens dando garantia de restituição (penhor ou hipoteca). Quem não puder dar a garantia é excluído, mas ascendentes, descendentes e cônjuge, provada a qualidade de herdeiros, estão dispensados.
+P: Garantia para a imissão na posse || Exclusão de quem não garante || Dispensa para ascendentes, descendentes e cônjuge
+K: sucessão provisória; garantia; posse
+
+@CC 31
+I: Os imóveis do ausente só podem ser alienados ou hipotecados por ordem judicial, para evitar a ruína, salvo desapropriação.
+P: Restrição à alienação || Autorização judicial || Conservação do patrimônio
+K: ausente; imóveis; alienação
+
+@CC 32
+I: Os sucessores provisórios representam o ausente ativa e passivamente, respondendo às ações pendentes e futuras.
+P: Representação do ausente || Legitimidade processual || Ações pendentes e futuras
+K: sucessão provisória; representação
+
+@CC 33
+I: Descendentes, ascendentes e cônjuge sucessores provisórios ficam com todos os frutos e rendimentos; os demais capitalizam metade e prestam contas. Se a ausência foi voluntária e injustificada, o ausente perde a parte dos frutos em favor do sucessor.
+P: Frutos integrais para parentes próximos || Capitalização de metade pelos demais || Perda pelo ausente voluntário
+K: frutos; rendimentos; sucessão provisória
+
+@CC 34
+I: O herdeiro excluído da posse provisória por não dar garantia pode, justificando falta de meios, pedir metade dos rendimentos de seu quinhão.
+P: Metade dos rendimentos ao excluído || Justificação de falta de meios || Proteção do herdeiro
+K: sucessão provisória; excluído; rendimentos
+
+@CC 35
+I: Se durante a posse provisória se provar a data exata da morte, a sucessão considera-se aberta nessa data em favor dos herdeiros daquele momento.
+P: Prova da data da morte || Abertura retroativa da sucessão || Herdeiros da época
+K: sucessão; data do óbito; ausente
+
+@CC 36
+I: Se o ausente aparecer depois da posse provisória, cessam as vantagens dos sucessores, que devem conservar os bens até a entrega ao dono.
+P: Retorno do ausente || Cessação das vantagens || Dever de conservação
+K: ausente; retorno; sucessão provisória
+
+@CC 37
+I: Dez anos após o trânsito em julgado da sentença de sucessão provisória, os interessados podem requerer a sucessão definitiva e o levantamento das cauções.
+P: Prazo de 10 anos || Sucessão definitiva || Levantamento das garantias
+K: sucessão definitiva; prazo; ausência
+
+@CC 38
+I: A sucessão definitiva também pode ser pedida se o ausente tiver 80 anos de idade e as últimas notícias dele datarem de 5 anos.
+P: Ausente com 80 anos || Últimas notícias há 5 anos || Hipótese especial de sucessão definitiva
+K: sucessão definitiva; idade; ausente
+
+@CC 39
+I: Se o ausente, ou descendente ou ascendente seu, regressar nos 10 anos seguintes à sucessão definitiva, recebe só os bens existentes no estado em que estiverem, os sub-rogados ou o preço obtido. Depois disso, sem retorno nem interessados, os bens passam ao Município, ao Distrito Federal ou à União.
+P: Retorno em até 10 anos || Recebe bens no estado em que se acham || Destino público após o prazo
+K: sucessão definitiva; retorno do ausente; bens vagos
+
+@CC 40
+I: As pessoas jurídicas são de direito público, interno ou externo, ou de direito privado.
+P: Classificação das pessoas jurídicas || Público interno e externo || Privado
+K: pessoa jurídica; direito público; direito privado
+
+@CC 41
+I: São pessoas jurídicas de direito público interno a União, os Estados, o DF, os Territórios, os Municípios, as autarquias (inclusive associações públicas) e outras entidades públicas criadas por lei. As que tiverem estrutura de direito privado seguem, no que couber, as normas deste Código.
+P: Entes federativos e autarquias || Associações públicas (consórcios) || Entidades com estrutura privada
+K: direito público interno; autarquia; associações públicas
+
+@CC 42
+I: São pessoas jurídicas de direito público externo os Estados estrangeiros e as pessoas regidas pelo direito internacional público, como organizações internacionais.
+P: Estados estrangeiros || Organismos internacionais || Direito internacional público
+K: direito público externo; Estado estrangeiro; organizações internacionais
+
+@CC 43
+I: As pessoas jurídicas de direito público respondem civilmente pelos danos causados por seus agentes, com direito de regresso contra o agente culpado. A responsabilidade é objetiva, conforme o art. 37, § 6º, da CF.
+P: Responsabilidade civil do Estado || Regresso contra o agente com culpa ou dolo || Harmonia com o art. 37, § 6º, da CF
+K: responsabilidade do Estado; responsabilidade objetiva; direito de regresso
+
+@CC 44
+I: São pessoas jurídicas de direito privado as associações, sociedades, fundações, organizações religiosas, partidos políticos e empreendimentos de economia solidária (o inciso da EIRELI foi revogado). As organizações religiosas têm liberdade de criação e funcionamento, e os partidos seguem lei específica.
+P: Rol das pessoas jurídicas de direito privado || Liberdade das organizações religiosas || EIRELI extinta
+K: pessoa jurídica de direito privado; associação; fundação; organização religiosa
+
+@CC 45
+I: A existência legal da pessoa jurídica de direito privado começa com a inscrição do ato constitutivo no registro, precedida de autorização quando exigida. O direito de anular a constituição por defeito decai em 3 anos da publicação da inscrição.
+P: Registro como início da existência legal || Autorização prévia quando necessária || Decadência de 3 anos
+K: registro; ato constitutivo; personalidade jurídica; decadência
+
+@CC 46
+I: Lista o que o registro da pessoa jurídica deve conter: denominação, fins, sede, duração, fundo social, fundadores, diretores, forma de administração e representação, reforma do ato constitutivo, responsabilidade subsidiária dos membros e destino do patrimônio na extinção.
+P: Conteúdo obrigatório do registro || Publicidade perante terceiros || Responsabilidade dos membros
+K: registro; ato constitutivo; pessoa jurídica
+
+@CC 47
+I: A pessoa jurídica se obriga pelos atos dos administradores praticados dentro dos poderes definidos no ato constitutivo.
+P: Vinculação pelos atos dos administradores || Limites do ato constitutivo || Teoria do órgão
+K: administradores; representação; pessoa jurídica
+
+@CC 48
+I: Na administração coletiva, as decisões são tomadas pela maioria dos presentes, salvo disposição diversa. O direito de anular decisões ilegais ou viciadas decai em 3 anos.
+P: Maioria dos presentes || Estatuto pode dispor diferente || Decadência de 3 anos
+K: administração coletiva; deliberações; decadência
+
+@CC 48-A
+I: As pessoas jurídicas de direito privado podem realizar assembleias gerais por meio eletrônico, inclusive para destituir administradores e alterar o estatuto, respeitados os direitos de participação e manifestação.
+P: Assembleias eletrônicas || Inclusive as do art. 59 || Garantia de participação
+K: assembleia eletrônica; pessoa jurídica; participação
+
+@CC 49
+I: Faltando administração à pessoa jurídica, o juiz, a pedido de interessado, nomeia administrador provisório.
+P: Administrador provisório || Nomeação judicial || Continuidade da pessoa jurídica
+K: administrador provisório; pessoa jurídica
+
+@CC 49-A
+I: A pessoa jurídica não se confunde com seus sócios, associados, instituidores ou administradores. A autonomia patrimonial é instrumento lícito de alocação e segregação de riscos, para estimular empreendimentos (Lei da Liberdade Econômica).
+P: Autonomia patrimonial || Separação entre pessoa jurídica e membros || Função econômica da separação
+K: autonomia patrimonial; pessoa jurídica; Lei da Liberdade Econômica
+
+@CC 50
+I: Em caso de abuso da personalidade jurídica, por desvio de finalidade ou confusão patrimonial, o juiz, a pedido da parte ou do MP, pode desconsiderar a personalidade para atingir bens de administradores ou sócios beneficiados pelo abuso (teoria maior). Os parágrafos definem desvio de finalidade e confusão patrimonial e admitem a desconsideração inversa; a mera existência de grupo econômico não basta.
+P: Teoria maior da desconsideração || Desvio de finalidade e confusão patrimonial || Desconsideração inversa admitida
+K: desconsideração da personalidade jurídica; confusão patrimonial; desvio de finalidade; abuso
+
+@CC 51
+I: Dissolvida a pessoa jurídica ou cassada sua autorização, ela subsiste para fins de liquidação; averba-se a dissolução e, encerrada a liquidação, cancela-se a inscrição.
+P: Subsistência para liquidação || Averbação da dissolução || Cancelamento ao final
+K: dissolução; liquidação; pessoa jurídica
+
+@CC 52
+I: Aplica-se às pessoas jurídicas, no que couber, a proteção dos direitos da personalidade. A pessoa jurídica pode sofrer dano moral (Súmula 227 do STJ).
+P: Proteção da honra objetiva || Dano moral à pessoa jurídica (Súmula 227) || Aplicação no que couber
+K: pessoa jurídica; direitos da personalidade; dano moral; Súmula 227 STJ
+
+@CC 53
+I: Associações são uniões de pessoas para fins não econômicos, sem direitos e obrigações recíprocos entre os associados.
+P: Fins não econômicos || Ausência de vínculos recíprocos || Distinção de sociedade
+K: associação; fins não econômicos
+
+@CC 54
+I: Lista, sob pena de nulidade, o conteúdo obrigatório do estatuto das associações: denominação, fins, sede, regras de admissão e exclusão, direitos e deveres, fontes de recursos, funcionamento dos órgãos, alteração e dissolução, e prestação de contas.
+P: Conteúdo obrigatório do estatuto || Nulidade se ausente || Governança associativa
+K: associação; estatuto; requisitos
+
+@CC 55
+I: Os associados devem ter iguais direitos, mas o estatuto pode criar categorias com vantagens especiais.
+P: Igualdade entre associados || Categorias especiais permitidas || Previsão estatutária
+K: associados; igualdade; categorias
+
+@CC 56
+I: A qualidade de associado é intransmissível, salvo disposição estatutária. A transferência de quota patrimonial não faz do adquirente ou herdeiro associado, salvo previsão no estatuto.
+P: Intransmissibilidade da qualidade de associado || Quota não transfere a condição || Estatuto pode dispor diferente
+K: associado; intransmissibilidade; quota
+
+@CC 57
+I: A exclusão do associado exige justa causa reconhecida em procedimento com direito de defesa e de recurso, conforme o estatuto. Aplica a eficácia horizontal dos direitos fundamentais (devido processo nas relações privadas).
+P: Justa causa para exclusão || Contraditório e ampla defesa || Previsão estatutária
+K: exclusão de associado; justa causa; ampla defesa
+
+@CC 58
+I: Nenhum associado pode ser impedido de exercer direito ou função legitimamente conferidos, salvo nos casos previstos em lei ou no estatuto.
+P: Proteção dos direitos do associado || Restrição só por lei ou estatuto || Segurança associativa
+K: associado; direitos; estatuto
+
+@CC 59
+I: Compete privativamente à assembleia geral destituir administradores e alterar o estatuto, em assembleia especialmente convocada, com quórum fixado no estatuto.
+P: Competência privativa da assembleia || Destituição e alteração do estatuto || Quórum estatutário
+K: assembleia geral; associação; estatuto; destituição
+
+@CC 60
+I: A convocação dos órgãos deliberativos segue o estatuto, garantido a 1/5 dos associados o direito de promovê-la.
+P: Convocação estatutária || Direito de 1/5 dos associados || Proteção da minoria
+K: convocação; assembleia; associados
+
+@CC 61
+I: Dissolvida a associação, o patrimônio remanescente vai à entidade sem fins econômicos indicada no estatuto ou escolhida pelos associados, ou a instituição pública de fins semelhantes. Os associados podem receber de volta o que contribuíram, atualizado, se o estatuto ou a assembleia permitir.
+P: Destinação do patrimônio a fins não econômicos || Restituição de contribuições permitida || Instituição pública subsidiária
+K: dissolução; associação; patrimônio remanescente
+
+@CC 62
+I: A fundação é criada por escritura pública ou testamento, com dotação de bens livres e indicação do fim. Só pode ter fins de assistência social, cultura, educação, saúde, segurança alimentar, meio ambiente, pesquisa científica, promoção da ética, cidadania e direitos humanos, e atividades religiosas.
+P: Criação por escritura ou testamento || Dotação de bens livres || Rol de fins permitidos
+K: fundação; dotação; instituidor; fins
+
+@CC 63
+I: Se os bens forem insuficientes para constituir a fundação, serão incorporados a outra fundação de fim igual ou semelhante, salvo disposição do instituidor.
+P: Insuficiência dos bens || Incorporação a outra fundação || Vontade do instituidor
+K: fundação; insuficiência de bens; incorporação
+
+@CC 64
+I: Criada a fundação por ato entre vivos, o instituidor deve transferir-lhe os bens; se não o fizer, o registro é feito por mandado judicial.
+P: Obrigação de transferir os bens || Registro por mandado judicial || Irrevogabilidade da dotação
+K: fundação; instituidor; transferência de bens
+
+@CC 65
+I: Os encarregados elaboram o estatuto da fundação e o submetem à autoridade competente, com recurso ao juiz. Se não o fizerem no prazo (ou em 180 dias), a tarefa passa ao MP.
+P: Elaboração do estatuto || Aprovação e recurso ao juiz || Prazo de 180 dias e atuação do MP
+K: fundação; estatuto; Ministério Público
+
+@CC 66
+I: O Ministério Público do Estado onde a fundação está situada vela por ela; no DF e Territórios, o MPDFT; se atuar em vários Estados, cada MP estadual. O STF (ADI 2.794) afastou a atribuição do MPF prevista na redação original.
+P: Fiscalização pelo MP estadual || MPDFT no DF e Territórios || Atuação em vários Estados
+K: fundação; Ministério Público; velamento
+
+@CC 67
+I: A alteração do estatuto da fundação exige deliberação de 2/3 dos gestores, respeito ao fim e aprovação do MP em até 45 dias, podendo o juiz suprir a recusa ou a omissão.
+P: Quórum de 2/3 || Fidelidade ao fim original || Aprovação do MP em 45 dias ou suprimento judicial
+K: fundação; alteração do estatuto; Ministério Público
+
+@CC 68
+I: Se a alteração não for unânime, deve-se dar ciência à minoria vencida, que pode impugná-la em 10 dias.
+P: Ciência à minoria || Impugnação em 10 dias || Proteção da minoria
+K: fundação; minoria; impugnação
