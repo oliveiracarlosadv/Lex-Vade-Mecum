@@ -20,7 +20,7 @@ Endereço: [oliveiracarlosadv.github.io/Lex-Vade-Mecum](https://oliveiracarlosad
 - **Navegue pela lei:** o **Sumário**, no menu, leva direto a cada Título, Capítulo ou Seção.
 - **Ajuste a leitura:** o botão **◐**, no canto superior direito, alterna entre tema claro e escuro.
 - **Cadastre seu perfil (opcional):** em **★ Perfil, favoritos e marcações**, informe seu nome e seu @. Eles aparecem nas imagens e stories que você gerar.
-- **Instale no celular:** salve o site como aplicativo na tela inicial (veja o item 9).
+- **Instale como aplicativo:** no menu, toque em **📲 Instalar como aplicativo** para salvar o Lex Vade Mecum na tela inicial ou na área de trabalho (veja o item 9).
 
 ## 3. Como ler uma lei
 
@@ -133,10 +133,14 @@ Recomendação: faça um backup sempre que terminar uma etapa importante de estu
 
 ## 9. No celular e sem internet
 
-- **iPhone e iPad (Safari):** toque em **Compartilhar** e depois em **Adicionar à Tela de Início**.
-- **Android (Chrome):** toque no menu **⋮** e depois em **Adicionar à tela inicial** ou **Instalar app**.
+No menu do site, toque em **📲 Instalar como aplicativo** (logo abaixo do Manual de uso). No Chrome e no Edge, a instalação começa na hora; nos demais navegadores, aparece o passo a passo para o seu aparelho. Em resumo:
 
-Pelo atalho, o Lex Vade Mecum abre em tela cheia, como um aplicativo, sempre com o texto atualizado.
+- **iPhone e iPad (Safari):** toque em **Compartilhar** e depois em **Adicionar à Tela de Início**.
+- **Android (Chrome):** toque no menu **⋮** e depois em **Instalar app** ou **Adicionar à tela inicial**.
+- **Computador (Chrome ou Edge):** clique no ícone **Instalar** na barra de endereço; o app ganha atalho na área de trabalho ou no menu de aplicativos.
+- **Mac (Safari):** menu **Arquivo** › **Adicionar ao Dock**.
+
+Instalado, o Lex Vade Mecum abre com o próprio ícone, em tela cheia e sem a barra do navegador, como um aplicativo, sempre com o texto atualizado.
 
 Há também uma cópia para uso sem internet na pasta do projeto: basta abrir o arquivo `index.html`. Ela reflete o conteúdo da data da última sincronização, e a geração de imagens só funciona na versão on-line.
 

@@ -115,9 +115,11 @@ Tudo o que você marca fica salvo **neste navegador**, sem cadastro e sem envio 
 
 Se o texto de um artigo mudar numa atualização, a marcação é reposicionada pelo próprio trecho; se o trecho deixar de existir, ela continua na lista, mas não aparece colorida no texto.
 
-## 7. Atalho na tela inicial do celular
+## 7. Instalar como aplicativo (tela inicial ou área de trabalho)
 
 A página pode ser salva como um aplicativo, com o ícone do Lex Vade Mecum (livro aberto com ramo de oliveira) e o nome "Lex Vade Mecum":
+
+- **Botão no menu:** **📲 Instalar como aplicativo**, abaixo do Manual de uso. No Chrome e no Edge (Android e computador), abre a instalação direto; nos outros navegadores, mostra o passo a passo do aparelho. O botão some quando o site já está aberto como aplicativo.
 
 - **iPhone e iPad (Safari):** abra o site, toque em **Compartilhar** (quadrado com seta) → **Adicionar à Tela de Início** → **Adicionar**.
 - **Android (Chrome):** abra o site, toque no menu **⋮** → **Adicionar à tela inicial** (ou **Instalar app**).

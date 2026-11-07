@@ -177,6 +177,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 06/11/2026 | Código Tributário Nacional (CTN) publicado, com as alterações das LC nº 214/2025, 227/2026 e 236/2026 |
 | 07/11/2026 | NR-01 publicada a partir do PDF oficial do MTE (`ferramentas/nr.py`); subitens das NR diagramados como dispositivos |
 | 07/11/2026 | Manual de uso (`docs/manual-de-uso.md`) no menu do site (`#/manual`), na página inicial, no rodapé e no README |
+| 07/11/2026 | Botão "Instalar como aplicativo" no menu: usa o pedido de instalação do navegador (Chrome/Edge) ou mostra o passo a passo por aparelho; `sw.js` mínimo, sem cache, só para habilitar a instalação |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
