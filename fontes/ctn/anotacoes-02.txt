@@ -1,0 +1,399 @@
+@CTN 101
+I: A vigência da legislação tributária no espaço e no tempo segue as regras gerais das normas jurídicas (LINDB), salvo as especiais deste capítulo.
+P: Aplicação da LINDB || Regras especiais tributárias || Vigência no espaço e no tempo
+K: vigência; legislação tributária; LINDB
+
+@CTN 102
+I: A legislação tributária estadual, distrital e municipal só vale fora do território do ente nos limites dos convênios ou de leis de normas gerais da União (extraterritorialidade).
+P: Territorialidade || Extraterritorialidade por convênio || Normas gerais da União
+K: vigência; extraterritorialidade; convênios
+
+@CTN 103
+I: Salvo disposição em contrário, atos normativos vigoram na publicação, decisões administrativas normativas 30 dias depois e convênios na data neles prevista.
+P: Vigência dos atos normativos || 30 dias para decisões normativas || Convênios
+K: vigência; normas complementares
+
+@CTN 104
+I: Leis que instituem ou majoram impostos sobre patrimônio ou renda, criam novas incidências ou reduzem isenções entram em vigor no primeiro dia do exercício seguinte. Hoje vale a anterioridade constitucional anual e nonagesimal para todos os tributos (CF, art. 150, III, b e c), com exceções.
+P: Anterioridade do CTN || Anterioridade anual e nonagesimal da CF || Revogação de isenção
+K: anterioridade; vigência; isenção
+
+@CTN 105
+I: A legislação tributária aplica-se de imediato aos fatos geradores futuros e aos pendentes (iniciados e não concluídos).
+P: Aplicação imediata || Fatos geradores pendentes || Irretroatividade
+K: aplicação da lei tributária; fato gerador pendente
+
+@CTN 106
+I: A lei aplica-se a fatos passados quando for expressamente interpretativa (sem penalidade) e, nos atos não definitivamente julgados, quando deixar de considerar o fato infração ou cominar pena menos severa (retroatividade benigna em matéria de penalidades).
+P: Lei interpretativa || Retroatividade benigna || Ato não definitivamente julgado
+K: retroatividade benigna; lei interpretativa; penalidades
+
+@CTN 107
+I: A interpretação da legislação tributária segue este capítulo; dúvidas são resolvidas por solução de consulta ou pareceres jurídicos, com efeito vinculante no âmbito do órgão emissor, e a solução de consulta produz efeitos só para o consulente, mantida a vinculação da interpretação no órgão.
+P: Regras de interpretação || Solução de consulta e pareceres || Efeitos vinculantes no órgão
+K: interpretação; solução de consulta; pareceres
+
+@CTN 108
+I: Na falta de disposição expressa, aplicam-se sucessivamente analogia, princípios de direito tributário, princípios de direito público e equidade; a analogia não pode criar tributo e a equidade não pode dispensar tributo devido.
+P: Ordem de integração || Analogia sem criar tributo || Equidade sem dispensar tributo
+K: integração; analogia; equidade
+
+@CTN 109
+I: Os princípios de direito privado servem para definir institutos, conceitos e formas, mas não seus efeitos tributários.
+P: Conceitos de direito privado || Efeitos tributários próprios || Autonomia do direito tributário
+K: interpretação; direito privado
+
+@CTN 110
+I: A lei tributária não pode alterar a definição, o conteúdo e o alcance de institutos de direito privado usados pela Constituição para definir competências tributárias.
+P: Limite à lei tributária || Conceitos constitucionais || Proteção da repartição de competências
+K: competência tributária; conceitos de direito privado
+
+@CTN 111
+I: Interpreta-se literalmente a legislação sobre suspensão ou exclusão do crédito, isenção e dispensa de obrigações acessórias. O STJ admite interpretação teleológica que não amplie o benefício.
+P: Interpretação literal || Isenções e benefícios || Vedação de ampliação
+K: interpretação literal; isenção
+
+@CTN 112
+I: Na dúvida sobre infrações e penalidades (capitulação, fato, autoria ou graduação), interpreta-se a lei a favor do acusado (in dubio pro contribuinte).
+P: In dubio pro reo tributário || Penalidades || Dúvida razoável
+K: interpretação benigna; infrações; penalidades
+
+@CTN 113
+I: A obrigação tributária é principal (pagar tributo ou multa, surgindo com o fato gerador) ou acessória (deveres instrumentais previstos na legislação); a acessória descumprida converte-se em principal quanto à multa.
+P: Obrigação principal e acessória || Origem das obrigações || Conversão em multa
+K: obrigação tributária; obrigação acessória
+
+@CTN 113-A
+I: As multas devem observar razoabilidade e proporcionalidade com a infração e, salvo as isoladas sem base no tributo, não podem exceder 75% do tributo ou crédito afetado; 100% em caso de fraude, sonegação ou conluio dolosos; e 150% na reincidência.
+P: Razoabilidade e proporcionalidade || Teto de 75% || 100% por fraude e 150% por reincidência
+K: multa tributária; limite; proporcionalidade
+
+@CTN 114
+I: Fato gerador da obrigação principal é a situação definida em lei como necessária e suficiente à sua ocorrência.
+P: Definição legal || Necessária e suficiente || Tipicidade
+K: fato gerador; obrigação principal
+
+@CTN 115
+I: Fato gerador da obrigação acessória é qualquer situação que, pela legislação, imponha fazer ou deixar de fazer algo que não seja obrigação principal.
+P: Deveres instrumentais || Legislação tributária || Não é pagamento
+K: fato gerador; obrigação acessória
+
+@CTN 116
+I: Considera-se ocorrido o fato gerador, quando situação de fato, ao se verificarem suas circunstâncias materiais; quando situação jurídica, ao estar definitivamente constituída. A autoridade pode desconsiderar atos praticados para dissimular o fato gerador (norma antielisiva), conforme procedimentos de lei ordinária; o STF validou a regra (ADI 2.446).
+P: Momento do fato gerador || Situação de fato e jurídica || Desconsideração de atos dissimulados (ADI 2.446)
+K: fato gerador; norma antielisiva; planejamento tributário
+
+@CTN 117
+I: Negócios condicionais consideram-se perfeitos, na condição suspensiva, com seu implemento, e, na resolutória, desde a celebração.
+P: Condição suspensiva || Condição resolutória || Momento do fato gerador
+K: fato gerador; condição
+
+@CTN 118
+I: A definição do fato gerador abstrai a validade jurídica dos atos e os efeitos dos fatos ocorridos; atividade ilícita também é tributável (pecunia non olet).
+P: Irrelevância da validade || Pecunia non olet || Abstração dos efeitos
+K: fato gerador; pecunia non olet
+
+@CTN 119
+I: Sujeito ativo é a pessoa jurídica de direito público titular da competência para exigir o tributo. O STJ admite a parafiscalidade em favor de entidades com capacidade delegada.
+P: Pessoa jurídica de direito público || Titularidade || Capacidade delegada
+K: sujeito ativo
+
+@CTN 120
+I: O ente criado por desmembramento sub-roga-se nos direitos do anterior e aplica sua legislação até editar a própria.
+P: Desmembramento territorial || Sub-rogação || Aplicação provisória da lei anterior
+K: sujeito ativo; desmembramento
+
+@CTN 121
+I: Sujeito passivo da obrigação principal é quem deve pagar tributo ou multa: contribuinte (relação pessoal e direta com o fato gerador) ou responsável (por disposição expressa de lei).
+P: Contribuinte || Responsável || Previsão legal
+K: sujeito passivo; contribuinte; responsável
+
+@CTN 122
+I: Sujeito passivo da obrigação acessória é quem deve cumprir as prestações nela previstas.
+P: Deveres instrumentais || Qualquer pessoa obrigada || Obrigação acessória
+K: sujeito passivo; obrigação acessória
+
+@CTN 123
+I: Salvo lei em contrário, acordos privados sobre quem paga o tributo não podem ser opostos ao Fisco (ex.: contrato de locação que transfere o IPTU ao inquilino).
+P: Convenções particulares inoponíveis || Sujeito passivo legal || Efeitos entre as partes
+K: sujeito passivo; convenção particular
+
+@CTN 124
+I: São solidárias as pessoas com interesse comum no fato gerador e as designadas por lei, sem benefício de ordem. O STJ exige interesse jurídico, não apenas econômico, para a solidariedade do inciso I.
+P: Interesse comum || Solidariedade legal || Sem benefício de ordem
+K: solidariedade tributária; interesse comum
+
+@CTN 125
+I: Na solidariedade, o pagamento de um aproveita aos demais; isenção ou remissão exonera todos, salvo se pessoal; a interrupção da prescrição alcança todos.
+P: Efeitos da solidariedade || Benefícios pessoais || Interrupção da prescrição
+K: solidariedade tributária; efeitos
+
+@CTN 126
+I: A capacidade tributária passiva independe da capacidade civil, de restrições ao exercício de atividades e da regular constituição da pessoa jurídica, bastando a unidade econômica.
+P: Capacidade tributária ampla || Incapazes e entes irregulares || Unidade econômica
+K: capacidade tributária passiva
+
+@CTN 127
+I: Sem eleição de domicílio, considera-se domicílio tributário a residência habitual (pessoa natural), a sede ou estabelecimento (pessoa jurídica) e as repartições (entes públicos); subsidiariamente, o lugar dos bens ou fatos. O Fisco pode recusar o domicílio eleito que dificulte a fiscalização.
+P: Domicílio de eleição || Regras supletivas || Recusa pelo Fisco
+K: domicílio tributário
+
+@CTN 127-A
+I: As intimações do processo administrativo tributário podem ser feitas pelo Domicílio Tributário Eletrônico (DTE), inclusive ao procurador.
+P: Domicílio Tributário Eletrônico || Intimação eletrônica || Processo administrativo
+K: domicílio tributário eletrônico; DTE; intimação
+
+@CTN 128
+I: A lei pode atribuir expressamente a responsabilidade a terceiro vinculado ao fato gerador, excluindo o contribuinte ou mantendo-o em caráter supletivo.
+P: Responsabilidade de terceiro || Vínculo com o fato gerador || Exclusão ou supletividade
+K: responsabilidade tributária; substituição
+
+@CTN 129
+I: As regras de responsabilidade dos sucessores aplicam-se aos créditos já constituídos, em constituição ou constituídos depois, desde que relativos a fatos geradores até a sucessão.
+P: Créditos alcançados || Fatos geradores anteriores || Lançamento posterior
+K: responsabilidade dos sucessores
+
+@CTN 130
+I: Os tributos sobre a propriedade de imóveis, taxas de serviços a eles relativas e contribuições de melhoria sub-rogam-se no adquirente, salvo prova de quitação no título; na arrematação, a sub-rogação recai sobre o preço, e o arrematante recebe o bem livre.
+P: Obrigação propter rem || Certidão de quitação || Arrematação livre de ônus
+K: sucessão imobiliária; IPTU; arrematação
+
+@CTN 131
+I: Respondem pessoalmente o adquirente ou remitente pelos tributos dos bens; o sucessor e o meeiro pelos tributos do falecido até a partilha, limitados ao quinhão ou meação; e o espólio pelos tributos até a abertura da sucessão.
+P: Adquirente de bens || Herdeiros limitados ao quinhão || Espólio
+K: responsabilidade dos sucessores; espólio; herdeiros
+
+@CTN 132
+I: A pessoa jurídica resultante de fusão, transformação ou incorporação responde pelos tributos das sucedidas; também quem continuar a atividade da extinta. O STJ entende que a responsabilidade inclui as multas (Súmula 554).
+P: Sucessão empresarial || Continuação da atividade || Multas incluídas (Súmula 554 do STJ)
+K: sucessão empresarial; incorporação; Súmula 554 STJ
+
+@CTN 133
+I: Quem adquire fundo de comércio ou estabelecimento e continua a exploração responde pelos tributos anteriores integralmente, se o alienante cessar a atividade, ou subsidiariamente, se ele prosseguir em 6 meses. Não há sucessão na alienação judicial em falência ou de unidade produtiva isolada em recuperação judicial, salvo adquirente ligado ao devedor ou em fraude.
+P: Trespasse e sucessão tributária || Integral ou subsidiária || Exceção da falência e recuperação
+K: responsabilidade por aquisição de estabelecimento; falência; recuperação judicial
+
+@CTN 134
+I: Quando não for possível cobrar do contribuinte, respondem solidariamente, pelos atos em que intervierem ou omissões, pais, tutores, curadores, administradores, inventariante, síndico, tabeliães e sócios na liquidação de sociedade de pessoas; quanto a multas, só as moratórias.
+P: Responsabilidade de terceiros || Subsidiária na prática || Só multas moratórias
+K: responsabilidade de terceiros; inventariante; tabelião
+
+@CTN 135
+I: Respondem pessoalmente pelos créditos decorrentes de atos com excesso de poderes ou infração de lei, contrato ou estatuto os terceiros do art. 134, mandatários, prepostos e diretores, gerentes ou representantes de pessoas jurídicas. O mero inadimplemento não gera responsabilidade do sócio (Súmula 430 do STJ), mas a dissolução irregular sim (Súmula 435 do STJ).
+P: Excesso de poderes ou infração de lei || Inadimplemento não basta (Súmula 430) || Dissolução irregular (Súmula 435)
+K: responsabilidade do administrador; redirecionamento; Súmula 430 STJ; Súmula 435 STJ
+
+@CTN 136
+I: Salvo lei em contrário, a responsabilidade por infrações tributárias independe da intenção do agente e da extensão dos efeitos (responsabilidade objetiva).
+P: Responsabilidade objetiva || Independe de dolo || Exceções legais
+K: infrações tributárias; responsabilidade objetiva
+
+@CTN 137
+I: A responsabilidade é pessoal do agente nas infrações que sejam crimes ou contravenções (salvo no exercício regular de função), nas de dolo específico e nas praticadas dolosamente por representantes contra os representados.
+P: Responsabilidade pessoal do agente || Crimes e dolo específico || Atos contra o representado
+K: responsabilidade pessoal; infrações
+
+@CTN 138
+I: A denúncia espontânea, com pagamento do tributo e juros, exclui a responsabilidade pela infração, inclusive a multa de mora, se feita antes de qualquer procedimento fiscal. Não se aplica a tributo declarado e pago fora do prazo (Súmula 360 do STJ) nem ao parcelamento.
+P: Exclusão de multas || Antes de procedimento fiscal || Tributo declarado não admite (Súmula 360)
+K: denúncia espontânea; multa de mora; Súmula 360 STJ
+
+@CTN 139
+I: O crédito tributário decorre da obrigação principal e tem a mesma natureza dela.
+P: Crédito e obrigação || Mesma natureza || Lançamento como constituição
+K: crédito tributário
+
+@CTN 140
+I: Alterações no crédito, suas garantias ou exigibilidade não afetam a obrigação que lhe deu origem.
+P: Autonomia do crédito || Obrigação preservada || Vícios do lançamento
+K: crédito tributário; obrigação
+
+@CTN 141
+I: O crédito regularmente constituído só se modifica, extingue ou tem exigibilidade suspensa ou excluída nos casos do CTN, sob pena de responsabilidade funcional.
+P: Indisponibilidade do crédito || Hipóteses legais || Responsabilidade funcional
+K: crédito tributário; indisponibilidade
+
+@CTN 142
+I: O lançamento, privativo da autoridade administrativa, verifica o fato gerador, a matéria tributável, o valor, o sujeito passivo e a penalidade; é vinculado e obrigatório. O lançamento para prevenir decadência de crédito suspenso por depósito ou liminar não leva multa. As multas de ofício podem ser reduzidas em 50%, 40%, 30% ou 20% conforme o pagamento ou parcelamento antes da impugnação ou da inscrição em dívida ativa (percentuais maiores para quem está em programa de conformidade e com atenuantes), sem redução ao devedor contumaz; a penalidade exige conduta individualizada.
+P: Lançamento vinculado e privativo || Lançamento sem multa para prevenir decadência || Reduções de multa, agravantes e atenuantes
+K: lançamento; multa de ofício; redução de multa; devedor contumaz
+
+@CTN 143
+I: Valor expresso em moeda estrangeira é convertido ao câmbio do dia do fato gerador, salvo lei em contrário.
+P: Conversão cambial || Data do fato gerador || Salvo lei
+K: lançamento; câmbio
+
+@CTN 144
+I: O lançamento rege-se pela lei vigente no fato gerador (tempus regit actum), mas aplicam-se as leis posteriores sobre critérios de apuração, fiscalização e garantias, salvo para criar responsabilidade de terceiros. O STJ admite a aplicação imediata da LC nº 105/2001 (acesso a dados bancários).
+P: Lei do fato gerador || Normas procedimentais imediatas || Exceção da responsabilidade de terceiros
+K: lançamento; lei aplicável; tempus regit actum
+
+@CTN 145
+I: O lançamento notificado só pode ser alterado por impugnação, recurso de ofício ou revisão de ofício nos casos do art. 149.
+P: Estabilidade do lançamento || Hipóteses de alteração || Notificação
+K: lançamento; alteração
+
+@CTN 146
+I: Mudança de critério jurídico do lançamento, de ofício ou por decisão administrativa, judicial ou arbitral, só se aplica ao mesmo sujeito passivo para fatos geradores posteriores.
+P: Vedação de mudança retroativa de critério || Proteção da confiança || Inclui sentença arbitral
+K: lançamento; critério jurídico; segurança jurídica
+
+@CTN 147
+I: O lançamento por declaração é feito com base nas informações prestadas pelo sujeito passivo ou terceiro; a retificação para reduzir tributo exige prova do erro e deve ocorrer antes da notificação.
+P: Lançamento por declaração || Retificação antes da notificação || Correção de ofício de erros
+K: lançamento por declaração
+
+@CTN 148
+I: Quando as declarações forem omissas ou não merecerem fé, a autoridade arbitra o valor por processo regular, admitida avaliação contraditória.
+P: Arbitramento || Processo regular || Contraditório
+K: arbitramento; lançamento
+
+@CTN 149
+I: O lançamento é feito ou revisto de ofício quando a lei determinar, na falta ou falha de declaração, falsidade, omissão, dolo, fraude, simulação, fato novo ou falta funcional da autoridade; a revisão só ocorre enquanto não extinto o direito da Fazenda.
+P: Lançamento de ofício || Hipóteses de revisão || Limite da decadência
+K: lançamento de ofício; revisão
+
+@CTN 150
+I: No lançamento por homologação, o sujeito passivo antecipa o pagamento e a autoridade o homologa; sem prazo legal, a homologação tácita ocorre em 5 anos do fato gerador. Com dolo, fraude ou simulação, conta-se pela regra do art. 173, I; com pagamento parcial, do fato gerador (Súmula 555 do STJ para os casos sem pagamento).
+P: Autolançamento || Homologação tácita em 5 anos || Dolo e pagamento parcial
+K: lançamento por homologação; decadência
+
+@CTN 151
+I: Suspendem a exigibilidade do crédito: moratória, depósito integral, impugnações e recursos administrativos, liminar em mandado de segurança, liminar ou tutela em outras ações, parcelamento, arbitragem tributária, transação aceita, acordo de mediação e seguro-garantia ou fiança aceitos em execução fiscal. É vedado exigir garantia para recorrer administrativamente (Súmula Vinculante 21), e as obrigações acessórias continuam devidas.
+P: Hipóteses de suspensão || Novas formas: arbitragem, transação, mediação e garantias || Vedação de depósito recursal
+K: suspensão da exigibilidade; parcelamento; seguro-garantia; Súmula Vinculante 21
+
+@CTN 152
+I: A moratória pode ser geral (por lei do ente competente ou, excepcionalmente, da União) ou individual (por despacho autorizado em lei), podendo ser restrita a região ou categoria.
+P: Moratória geral ou individual || Competência || Delimitação territorial
+K: moratória
+
+@CTN 153
+I: A lei de moratória especifica prazo, condições, tributos, prestações e garantias.
+P: Requisitos da lei || Prazo e prestações || Garantias
+K: moratória; requisitos
+
+@CTN 154
+I: A moratória abrange só créditos constituídos ou com lançamento iniciado até a lei ou despacho, e não aproveita casos de dolo, fraude ou simulação.
+P: Créditos alcançados || Exclusão de fraude || Marco temporal
+K: moratória; alcance
+
+@CTN 155
+I: A moratória individual não gera direito adquirido e é revogada de ofício se descumpridas as condições, cobrando-se o crédito com juros e, havendo dolo, com penalidade.
+P: Revogabilidade || Sem direito adquirido || Penalidade se dolo
+K: moratória; revogação
+
+@CTN 155-A
+I: O parcelamento segue lei específica, não exclui juros e multas salvo previsão, aplica-se subsidiariamente o regime da moratória e há regras próprias para empresas em recuperação judicial.
+P: Lei específica || Juros e multas mantidos || Devedor em recuperação judicial
+K: parcelamento; recuperação judicial
+
+@CTN 156
+I: Extinguem o crédito: pagamento, compensação, transação, remissão, prescrição e decadência, conversão de depósito em renda, pagamento antecipado homologado, consignação, decisão administrativa irreformável, decisão judicial transitada, dação de imóveis, sentença arbitral favorável e cumprimento de acordo de mediação.
+P: Causas de extinção || Novidades: arbitragem e mediação || Dação em imóveis
+K: extinção do crédito tributário
+
+@CTN 157
+I: A imposição de penalidade não dispensa o pagamento integral do tributo.
+P: Multa não substitui tributo || Cumulação || Pagamento integral
+K: pagamento; penalidade
+
+@CTN 158
+I: O pagamento de um crédito não presume pagas as demais parcelas nem outros créditos.
+P: Sem presunção de pagamento || Parcelas e outros tributos || Diferença do direito civil
+K: pagamento; presunção
+
+@CTN 159
+I: Sem regra específica, paga-se na repartição do domicílio do sujeito passivo.
+P: Lugar do pagamento || Domicílio do sujeito passivo || Regra supletiva
+K: pagamento; lugar
+
+@CTN 160
+I: Sem prazo fixado, o vencimento ocorre 30 dias após a notificação do lançamento; a lei pode dar desconto por antecipação. O STF admite fixação do prazo por decreto.
+P: Prazo supletivo de 30 dias || Desconto por antecipação || Prazo não é reserva de lei
+K: vencimento; pagamento
+
+@CTN 161
+I: O crédito não pago no vencimento acresce juros de mora (1% ao mês, salvo lei diversa — na União, SELIC), sem prejuízo das penalidades; não corre na pendência de consulta; a ação com liminar ou tutela interrompe a multa de mora até 30 dias após a decisão que considerar o tributo devido.
+P: Juros de mora || Consulta suspende || Liminar interrompe a multa de mora
+K: juros de mora; multa de mora; SELIC
+
+@CTN 162
+I: O pagamento é feito em moeda, cheque ou vale postal e, em certos casos, por estampilha ou processo mecânico; o pagamento por cheque só extingue o crédito com sua compensação.
+P: Meios de pagamento || Cheque extingue na compensação || Estampilha
+K: pagamento; meios
+
+@CTN 163
+I: Havendo vários débitos vencidos, a autoridade imputa o pagamento: primeiro obrigações próprias, depois de responsabilidade; contribuições de melhoria, taxas e impostos; na ordem crescente dos prazos de prescrição; e na decrescente dos montantes.
+P: Imputação pelo Fisco || Ordem legal || Critérios sucessivos
+K: imputação do pagamento
+
+@CTN 164
+I: O sujeito passivo pode consignar judicialmente o tributo em caso de recusa, exigências sem base legal ou cobrança do mesmo tributo por mais de um ente; procedente, o pagamento extingue o crédito.
+P: Consignação em pagamento || Bitributação || Efeito extintivo
+K: consignação em pagamento; tributo
+
+@CTN 165
+I: O sujeito passivo tem direito à restituição do tributo pago indevidamente, sem protesto prévio, por pagamento indevido ou a maior, erro de cálculo ou reforma da decisão condenatória.
+P: Repetição de indébito || Dispensa de protesto || Hipóteses
+K: repetição de indébito; restituição
+
+@CTN 165-A
+I: Os indébitos tributários são atualizados pelos mesmos índices usados para os créditos tributários de cada ente (simetria).
+P: Simetria na atualização || Mesmos índices || Isonomia
+K: repetição de indébito; atualização monetária
+
+@CTN 166
+I: Tributos indiretos só são restituídos a quem provar que assumiu o encargo ou estar autorizado por quem o suportou (Súmula 546 do STF). O STJ reconhece a legitimidade do consumidor em concessões de energia (Tema 537).
+P: Tributos indiretos || Prova do encargo || Contribuinte de fato
+K: repetição de indébito; tributo indireto; Súmula 546 STF
+
+@CTN 167
+I: A restituição do tributo implica a dos juros e penalidades na mesma proporção, salvo infrações formais; vence juros a partir do trânsito em julgado (Súmula 188 do STJ).
+P: Restituição proporcional || Juros após o trânsito (Súmula 188) || Infrações formais
+K: repetição de indébito; juros
+
+@CTN 168
+I: O direito de pedir restituição extingue-se em 5 anos da extinção do crédito (no lançamento por homologação, do pagamento antecipado, conforme a LC nº 118/2005) ou da decisão que reformou a condenação; o prazo também vale para a habilitação do indébito, contado do trânsito em julgado.
+P: Prazo de 5 anos || Termo inicial || Habilitação do crédito
+K: repetição de indébito; prescrição; LC 118/2005
+
+@CTN 169
+I: Prescreve em 2 anos a ação anulatória da decisão administrativa que negar a restituição; interrompido, o prazo recomeça pela metade.
+P: Prazo de 2 anos || Interrupção pela ação || Recomeça pela metade
+K: repetição de indébito; ação anulatória
+
+@CTN 170
+I: A lei pode autorizar a compensação de créditos tributários com créditos líquidos e certos do sujeito passivo contra a Fazenda; para créditos vincendos, o desconto não pode exceder 1% ao mês.
+P: Compensação exige lei || Créditos líquidos e certos || Limite do deságio
+K: compensação tributária
+
+@CTN 170-A
+I: É vedada a compensação com tributo contestado judicialmente antes do trânsito em julgado.
+P: Trânsito em julgado || Vedação de compensação provisória || Segurança
+K: compensação; trânsito em julgado
+
+@CTN 171
+I: A lei pode autorizar transação com concessões mútuas para terminar litígio e extinguir o crédito, indicando a autoridade competente (na União, Lei nº 13.988/2020).
+P: Transação tributária || Concessões mútuas || Lei autorizadora
+K: transação tributária
+
+@CTN 171-A
+I: Lei especial autorizará a arbitragem especial tributária e aduaneira para resolver o contencioso administrativo e judicial; a sentença arbitral é vinculante e tem efeitos de decisão judicial.
+P: Arbitragem tributária || Sentença vinculante || Lei especial
+K: arbitragem tributária
+
+@CTN 171-B
+I: Lei estabelecerá critérios para a mediação de controvérsias tributárias e aduaneiras, conduzida por terceiro sem poder decisório.
+P: Mediação tributária || Terceiro imparcial || Solução consensual
+K: mediação tributária
+
+@CTN 171-C
+I: Transação, mediação e arbitragem tributárias não configuram renúncia de receita para a Lei de Responsabilidade Fiscal.
+P: Não é renúncia de receita || LRF, art. 14 || Segurança fiscal
+K: transação; arbitragem; renúncia de receita
+
+@CTN 172
+I: A lei pode autorizar remissão total ou parcial por despacho fundamentado, considerando situação econômica, erro escusável, pequeno valor, equidade ou condições regionais; o despacho não gera direito adquirido.
+P: Remissão (perdão) || Critérios legais || Sem direito adquirido
+K: remissão tributária
