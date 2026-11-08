@@ -1,0 +1,189 @@
+@CP 347
+I: Fraude processual é alterar artificiosamente, durante processo civil ou administrativo, o estado de lugar, coisa ou pessoa para enganar o juiz ou o perito. A pena dobra se a alteração visa a processo penal, ainda que não iniciado, como limpar a cena de um crime.
+P: Inovação artificiosa para enganar juiz ou perito || Pena em dobro no processo penal, mesmo antes de iniciado
+K: fraude processual; cena do crime; administração da justiça
+
+@CP 348
+I: Favorecimento pessoal é ajudar autor de crime a escapar da ação da autoridade. A pena é menor se o crime não tem pena de reclusão. Ascendente, descendente, cônjuge ou irmão do criminoso que presta o auxílio fica isento de pena.
+P: Auxílio para fugir da autoridade || Pena conforme o crime anterior || Isenção para parentes próximos
+K: favorecimento pessoal; escusa absolutória; administração da justiça
+
+@CP 349
+I: Favorecimento real é prestar a criminoso auxílio para tornar seguro o proveito do crime, fora dos casos de coautoria ou receptação, como guardar o dinheiro de um roubo.
+P: Auxílio para assegurar o proveito do crime || Distinção da receptação e da coautoria
+K: favorecimento real; proveito do crime; administração da justiça
+
+@CP 349-A
+I: Incluído pela Lei nº 12.012/2009, o artigo pune quem ingressa, promove, intermedeia, auxilia ou facilita a entrada de celular, rádio ou aparelho similar em estabelecimento prisional sem autorização legal.
+P: Entrada de celular em presídio || Qualquer forma de facilitação
+K: celular em presídio; sistema prisional; Lei nº 12.012/2009
+
+@CP 350
+I: Dispositivo revogado pela Lei nº 13.869/2019 (Lei de Abuso de Autoridade). Tratava do exercício arbitrário ou abuso de poder, hoje tratado naquela lei. A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 13.869/2019 || Matéria hoje na Lei de Abuso de Autoridade
+K: dispositivo revogado; abuso de autoridade; Lei nº 13.869/2019
+
+@CP 351
+I: É crime promover ou facilitar a fuga de pessoa legalmente presa ou submetida a medida de segurança detentiva. A pena é maior se há arma, mais de uma pessoa ou arrombamento, e se o autor é o responsável pela custódia. O guarda que permite a fuga por culpa também responde.
+P: Promoção ou facilitação de fuga || Formas qualificadas || Forma culposa do guarda
+K: fuga de preso; custódia; administração da justiça
+
+@CP 352
+I: É crime o preso evadir-se ou tentar evadir-se usando violência contra a pessoa. A fuga sem violência não é crime, embora seja falta grave na execução penal.
+P: Fuga com violência contra a pessoa || Tentativa equiparada || Fuga sem violência não é crime
+K: evasão; fuga; violência; preso
+
+@CP 353
+I: É crime arrebatar preso de quem tem sua custódia, para maltratá-lo, como no linchamento.
+P: Arrebatamento de preso para maltratá-lo
+K: arrebatamento de preso; linchamento; custódia
+
+@CP 354
+I: É crime os presos se amotinarem, perturbando a ordem ou a disciplina da prisão (crime coletivo).
+P: Motim de presos || Crime de concurso necessário
+K: motim; rebelião; preso; disciplina prisional
+
+@CP 355
+I: Patrocínio infiel é o advogado ou procurador trair o dever profissional e prejudicar interesse que lhe foi confiado em juízo. Também responde quem defende na mesma causa, ao mesmo tempo ou sucessivamente, partes contrárias (tergiversação).
+P: Traição do dever profissional do advogado || Patrocínio simultâneo ou tergiversação
+K: patrocínio infiel; advogado; tergiversação
+
+@CP 356
+I: É crime o advogado ou procurador inutilizar ou deixar de devolver autos, documento ou objeto de valor probatório que recebeu nessa qualidade.
+P: Sonegação de autos ou documentos pelo advogado
+K: sonegação de autos; advogado; prova
+
+@CP 357
+I: Exploração de prestígio é pedir ou receber dinheiro ou vantagem a pretexto de influir em juiz, jurado, promotor, servidor da justiça, perito, tradutor, intérprete ou testemunha. A pena aumenta de um terço se o agente diz que parte do dinheiro é para essas pessoas.
+P: Venda de suposta influência sobre a Justiça || Aumento pela alegação de repasse
+K: exploração de prestígio; tráfico de influência; administração da justiça
+
+@CP 358
+I: É crime impedir, perturbar ou fraudar arrematação judicial, ou afastar concorrente por violência, grave ameaça, fraude ou oferta de vantagem.
+P: Fraude ou violência em leilão judicial
+K: arrematação judicial; leilão; fraude
+
+@CP 359
+I: É crime exercer função, atividade, direito, autoridade ou múnus do qual se foi suspenso ou privado por decisão judicial.
+P: Descumprimento de decisão que suspende ou priva direito
+K: desobediência a decisão judicial; suspensão de direito
+
+@CP 359-A
+I: Incluído pela Lei nº 10.028/2000, que acrescentou os crimes contra as finanças públicas ligados à Lei de Responsabilidade Fiscal, o artigo pune quem ordena, autoriza ou realiza operação de crédito sem autorização legislativa, além dos limites legais ou do Senado, ou quando a dívida passa do limite.
+P: Operação de crédito sem autorização || Desrespeito aos limites de endividamento
+K: finanças públicas; operação de crédito; responsabilidade fiscal; Lei nº 10.028/2000
+
+@CP 359-B
+I: É crime ordenar ou autorizar a inscrição em restos a pagar de despesa não empenhada ou acima do limite legal.
+P: Restos a pagar sem empenho || Limites legais
+K: restos a pagar; empenho; finanças públicas
+
+@CP 359-C
+I: É crime ordenar ou autorizar, nos últimos oito meses do mandato ou legislatura, obrigação de despesa que não possa ser paga no mesmo exercício ou sem dinheiro em caixa para a parcela seguinte. Reproduz a regra do art. 42 da Lei de Responsabilidade Fiscal.
+P: Despesa no fim do mandato sem caixa || Art. 42 da LRF
+K: fim de mandato; responsabilidade fiscal; finanças públicas
+
+@CP 359-D
+I: É crime ordenar despesa não autorizada por lei.
+P: Ordenação de despesa sem autorização legal
+K: despesa pública; ordenador de despesa; finanças públicas
+
+@CP 359-E
+I: É crime prestar garantia em operação de crédito sem exigir contragarantia de valor igual ou superior.
+P: Garantia sem contragarantia
+K: garantia; operação de crédito; finanças públicas
+
+@CP 359-F
+I: É crime deixar de cancelar restos a pagar inscritos acima do permitido em lei.
+P: Omissão no cancelamento de restos a pagar
+K: restos a pagar; finanças públicas
+
+@CP 359-G
+I: É crime ordenar, autorizar ou executar ato que aumente a despesa com pessoal nos 180 dias anteriores ao fim do mandato ou da legislatura.
+P: Aumento de despesa com pessoal no fim do mandato || 180 dias antes do término
+K: despesa com pessoal; fim de mandato; responsabilidade fiscal
+
+@CP 359-H
+I: É crime ordenar, autorizar ou promover a oferta de títulos da dívida pública não criados por lei ou não registrados em sistema centralizado de liquidação e custódia.
+P: Títulos da dívida pública irregulares
+K: títulos públicos; dívida pública; finanças públicas
+
+@CP 359-I
+I: Incluído pela Lei nº 14.197/2021, que substituiu a Lei de Segurança Nacional, o artigo pune quem negocia com governo ou grupo estrangeiro para provocar atos de guerra contra o país ou invadi-lo. A pena aumenta se a guerra é declarada e é maior para quem participa de operação bélica para submeter o território a outro país.
+P: Atentado à soberania || Negociação com estrangeiros para guerra ou invasão || Lei nº 14.197/2021
+K: soberania nacional; Estado Democrático de Direito; Lei nº 14.197/2021
+
+@CP 359-J
+I: É crime praticar violência ou grave ameaça para desmembrar parte do território nacional e formar país independente.
+P: Atentado à integridade territorial || Separatismo violento
+K: integridade nacional; separatismo; soberania
+
+@CP 359-K
+I: Espionagem é entregar a governo estrangeiro, seus agentes ou organização criminosa estrangeira documento ou informação classificados como secretos ou ultrassecretos cuja revelação ponha em perigo a ordem constitucional ou a soberania. A pena é maior com violação do dever de sigilo. Não é crime divulgar informações para expor crime ou violação de direitos humanos.
+P: Entrega de informação secreta a estrangeiros || Auxílio a espião || Exceção para denúncia de crimes e violações de direitos humanos
+K: espionagem; informação classificada; soberania
+
+@CP 359-L
+I: É crime tentar, com violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais. É crime de atentado: basta a tentativa. Pena: 4 a 8 anos.
+P: Abolição violenta do Estado Democrático de Direito || Crime de atentado || Reclusão de 4 a 8 anos
+K: Estado Democrático de Direito; abolição violenta; poderes constitucionais
+
+@CP 359-M
+I: Golpe de Estado é tentar depor, por violência ou grave ameaça, o governo legitimamente constituído. Também é crime de atentado. Pena: 4 a 12 anos.
+P: Tentativa de depor o governo legítimo || Crime de atentado || Reclusão de 4 a 12 anos
+K: golpe de Estado; governo legítimo; Estado Democrático de Direito
+
+@CP 359-M-A
+I: Incluído pela Lei nº 15.402/2026, o artigo determina que, quando os crimes contra as instituições democráticas ocorrem no mesmo contexto, a pena seja aplicada pelo concurso formal próprio (a mais grave, aumentada de um sexto até metade), mesmo com desígnios autônomos, vedada a soma das penas (arts. 69 e 70, segunda parte).
+P: Concurso formal próprio obrigatório no mesmo contexto || Vedação da soma das penas || Lei nº 15.402/2026
+K: concurso formal; Estado Democrático de Direito; dosimetria; Lei nº 15.402/2026
+
+@CP 359-M-B
+I: Incluído pela Lei nº 15.402/2026, o artigo reduz de um terço a dois terços a pena dos crimes contra as instituições democráticas praticados em contexto de multidão, desde que o agente não tenha financiado os atos nem exercido liderança.
+P: Redução de 1/3 a 2/3 em contexto de multidão || Exclusão de financiadores e líderes || Lei nº 15.402/2026
+K: multidão; redução de pena; Estado Democrático de Direito; Lei nº 15.402/2026
+
+@CP 359-N
+I: É crime impedir ou perturbar a eleição ou a apuração de seu resultado violando indevidamente mecanismos de segurança do sistema eletrônico de votação da Justiça Eleitoral. Pena: 3 a 6 anos e multa.
+P: Ataque ao sistema eletrônico de votação || Interrupção do processo eleitoral
+K: processo eleitoral; urna eletrônica; segurança do sistema de votação
+
+@CP 359-O
+I: Dispositivo vetado. O artigo foi aprovado pelo Congresso na Lei nº 14.197/2021, mas vetado pelo Presidente da República, e não tem conteúdo normativo.
+P: Sem conteúdo normativo || Veto presidencial
+K: dispositivo vetado; veto; Lei nº 14.197/2021
+
+@CP 359-P
+I: Violência política é restringir, impedir ou dificultar, com violência física, sexual ou psicológica, o exercício de direitos políticos de alguém por causa de sexo, raça, cor, etnia, religião ou procedência nacional. Pena: 3 a 6 anos e multa.
+P: Violência para impedir o exercício de direitos políticos || Motivação discriminatória
+K: violência política; direitos políticos; discriminação
+
+@CP 359-Q
+I: Dispositivo vetado. O artigo foi aprovado pelo Congresso na Lei nº 14.197/2021, mas vetado pelo Presidente da República, e não tem conteúdo normativo.
+P: Sem conteúdo normativo || Veto presidencial
+K: dispositivo vetado; veto; Lei nº 14.197/2021
+
+@CP 359-R
+I: Sabotagem é destruir ou inutilizar meios de comunicação ao público, estabelecimentos, instalações ou serviços destinados à defesa nacional para abolir o Estado Democrático de Direito.
+P: Sabotagem com fim de abolir o Estado Democrático || Serviços essenciais e de defesa
+K: sabotagem; defesa nacional; Estado Democrático de Direito
+
+@CP 359-T
+I: Não é crime contra o Estado Democrático de Direito a manifestação crítica aos poderes constitucionais, a atividade jornalística nem a reivindicação de direitos por passeatas, reuniões, greves, aglomerações ou outras formas de manifestação política com propósitos sociais. A regra protege a liberdade de expressão e de reunião.
+P: Exclusão da crítica, do jornalismo e das manifestações || Liberdade de expressão e de reunião
+K: liberdade de expressão; manifestação; jornalismo; Estado Democrático de Direito
+
+@CP 359-U
+I: Dispositivo vetado. O artigo foi aprovado pelo Congresso na Lei nº 14.197/2021, mas vetado pelo Presidente da República, e não tem conteúdo normativo.
+P: Sem conteúdo normativo || Veto presidencial
+K: dispositivo vetado; veto; Lei nº 14.197/2021
+
+@CP 360
+I: É a cláusula de revogação do Código: ficam revogadas as disposições em contrário, ressalvada a legislação especial sobre crimes contra a segurança do Estado e a economia popular, crimes de imprensa e de falência, crimes de responsabilidade do Presidente e dos Governadores e crimes militares, que continuaram regidos por suas próprias leis.
+P: Revogação das disposições em contrário || Ressalva da legislação especial || Crimes militares e de responsabilidade
+K: legislação especial; crimes militares; crimes de responsabilidade
+
+@CP 361
+I: O Código Penal entrou em vigor em 1º de janeiro de 1942. A Parte Geral foi reformada pela Lei nº 7.209/1984, e a Parte Especial recebeu muitas alterações desde então.
+P: Vigência desde 1º de janeiro de 1942 || Reforma da Parte Geral em 1984
+K: vigência; Código Penal; Lei nº 7.209/1984

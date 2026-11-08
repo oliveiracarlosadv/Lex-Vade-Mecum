@@ -31,7 +31,7 @@ HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|Capítulo|SEÇÃO|Seção|SUB
 # Aceita "Arts. 52 a 58 (Revogados...)" (intervalo revogado, CTN) como uma unidade.
 # Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
-ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú]))')
+ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z](?:-[A-Z])?|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú]))')
 SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓRIAS|DISPOSIÇÕES FINAIS|Disposições Finais e Transitórias)$')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'Capítulo': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
