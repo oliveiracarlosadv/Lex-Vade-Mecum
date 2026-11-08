@@ -4,6 +4,7 @@ Uso: python3 -I lexbuild.py config.json
 config: {
   "text": arquivo .txt extraído do Planalto,
   "parts": [{"id": "L", "start": "Art. 1o", "end": "Rio de Janeiro, 4", "label_prefix": "", "self_name": "desta Lei"}],
+  (uma parte com "unidade" e "rotulo" vira um único dispositivo, sem artigos: anexos de definições)
   "ann": [arquivos de anotação], "front": md antes do Texto Estruturado,
   "back": md depois do Texto Estruturado, "out": arquivo .md final,
   "units_out": json com as unidades (para validação)
@@ -46,6 +47,13 @@ for p in cfg['parts']:
     a = find(p['start'], pos)
     b = find(p['end'], a + 1)
     pos = b
+    # Parte sem artigos (ex.: Anexo I do CTB, com conceitos e definições): vira um único
+    # dispositivo, identificado por "unidade" (número interno) e "rotulo" (título exibido).
+    if p.get('unidade'):
+        linhas = [x for x in L[a:b] if x]
+        units.append({'part': p['id'], 'num': p['unidade'], 'path': [p.get('root_name', p['rotulo'])], 'lines': linhas})
+        structure.append({'part': p['id'], 'level': 0, 'label': p['rotulo'], 'name': '', 'notes': []})
+        continue
     path = [None] * 7
     cur = None
     i = a
@@ -158,6 +166,7 @@ def esc(l):
 
 def label(u, pc):
     if u['num'] == 'preambulo': return 'Preâmbulo'
+    if pc.get('unidade'): return pc['rotulo']
     n = u['num']; base = int(re.match(r'\d+', n).group())
     n = n if '-' in n else (n + 'º' if base <= 9 else n)
     n = re.sub(r'^(\d)(\d{3})', r'\1.\2', n)
