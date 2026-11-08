@@ -20,7 +20,7 @@ import argparse, json, os, re, subprocess, sys, datetime
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FERR = os.path.join(RAIZ, 'ferramentas')
 
-LAB = r'(?:Art\. ?\d+(?:\.\d{3})?(?:º|o|°)?(?:-[A-Z])?\.?|§ ?\d+(?:º|o|°)?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? ?[-–]|[a-z]\))'
+LAB = r'(?:Art\.[ \xa0]?\d+(?:\.\d{3})?(?:º|o|°)?(?:-[A-Z])?\.?|§ ?\d+(?:º|o|°)?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? ?[-–]|[a-z]\))'
 
 
 def converter_tachados(t):

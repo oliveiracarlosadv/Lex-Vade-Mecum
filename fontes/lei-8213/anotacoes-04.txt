@@ -1,0 +1,274 @@
+@LBPS 103-A
+I: O INSS tem 10 anos para anular atos que favoreçam os beneficiários, contados da prática do ato ou, nos efeitos contínuos, do primeiro pagamento, salvo má-fé comprovada. Qualquer medida que impugne a validade do ato interrompe o prazo.
+P: Decadência administrativa de 10 anos || Exceção da má-fé || Contagem desde o primeiro pagamento
+K: decadência administrativa; autotutela; revisão de ofício; má-fé
+
+@LBPS 104
+I: As ações sobre prestações por acidente do trabalho prescrevem em 5 anos, contados do acidente (morte ou incapacidade temporária) ou do reconhecimento, pelo INSS, da incapacidade permanente ou do agravamento.
+P: Prescrição quinquenal acidentária || Termos iniciais distintos || Observância do art. 103
+K: prescrição; acidente do trabalho; ação acidentária
+
+@LBPS 105
+I: Documentação incompleta não autoriza o INSS a recusar o requerimento de benefício; cabe-lhe protocolar o pedido e exigir os documentos faltantes.
+P: Direito de protocolar o requerimento || Vedação de recusa || Exigência posterior de documentos
+K: requerimento administrativo; documentação; direito de petição
+
+@LBPS 106
+I: Lista documentos que complementam a autodeclaração e o cadastro do segurado especial para provar a atividade rural, como contratos de arrendamento ou parceria, DAP do Pronaf, bloco de notas do produtor, notas fiscais de venda, comprovantes de contribuição sobre a comercialização, declaração de IR e licença do Incra. O rol é exemplificativo ("entre outros"), e a declaração de sindicato deixou de valer como prova (Lei nº 13.846/2019). O inciso I (contrato de trabalho ou CTPS) aparece tachado no Planalto, sem nota de revogação.
+P: Rol exemplificativo de documentos || Complementa a autodeclaração e o cadastro || Declaração sindical retirada
+K: prova da atividade rural; segurado especial; documentos; início de prova material
+
+@LBPS 107
+I: O tempo de serviço do art. 55 é considerado no cálculo da renda mensal de qualquer benefício.
+P: Tempo computável no cálculo || Aplicação geral || Remissão ao art. 55
+K: tempo de serviço; renda mensal
+
+@LBPS 108
+I: A justificação administrativa perante o INSS pode suprir falta de documento ou provar fato de interesse do beneficiário ou da empresa, exceto registro público, desde que baseada em início de prova material.
+P: Justificação administrativa || Exige início de prova material || Não supre registro público
+K: justificação administrativa; prova; INSS
+
+@LBPS 109
+I: O benefício é pago diretamente ao beneficiário, salvo ausência, moléstia contagiosa ou impossibilidade de locomoção, quando pode ser pago a procurador com mandato de até 12 meses, renovável. A digital do beneficiário que não sabe assinar, aposta perante servidor, vale como quitação.
+P: Pagamento pessoal || Procurador com mandato de até 12 meses || Impressão digital como assinatura
+K: pagamento de benefício; procurador; procuração
+
+@LBPS 110
+I: O benefício do incapaz é pago ao cônjuge, pais, tutor ou curador e, na falta deles, por até 6 meses a herdeiro necessário mediante termo de compromisso. O juiz pode usar o laudo do INSS na curatela, e o dependente excluído ou suspenso não pode representar outros dependentes.
+P: Pagamento ao representante legal || Herdeiro necessário por até 6 meses || Laudo do INSS na curatela
+K: beneficiário incapaz; curatela; representação
+
+@LBPS 110-A
+I: O INSS não pode exigir termo de curatela de titular ou beneficiário com deficiência ao requerer benefícios, em harmonia com o Estatuto da Pessoa com Deficiência.
+P: Dispensa do termo de curatela || Pessoa com deficiência || Estatuto da Pessoa com Deficiência
+K: pessoa com deficiência; curatela; requerimento
+
+@LBPS 111
+I: O segurado menor pode assinar recibo de benefício sem a presença dos pais ou tutor, conforme o regulamento.
+P: Capacidade para dar quitação || Segurado menor || Regulamentação
+K: segurado menor; recibo; quitação
+
+@LBPS 112
+I: Os valores não recebidos em vida pelo segurado são pagos aos dependentes habilitados à pensão ou, na falta deles, aos sucessores civis, sem necessidade de inventário ou arrolamento.
+P: Resíduos pagos aos dependentes || Sucessores na falta de dependentes || Dispensa de inventário
+K: valores residuais; sucessores; dependentes; inventário
+
+@LBPS 113
+I: O benefício pode ser pago por depósito em conta ou autorização de pagamento, conforme regulamento.
+P: Formas de pagamento || Depósito em conta || Regulamentação
+K: pagamento de benefício; conta bancária
+
+@LBPS 114
+I: O benefício é impenhorável e não pode ser vendido, cedido ou onerado, nem objeto de procuração irrevogável, salvo débitos com a Previdência, descontos autorizados em lei e pensão alimentícia judicial.
+P: Impenhorabilidade || Nulidade de cessão ou ônus || Exceções legais, como alimentos
+K: impenhorabilidade; benefício previdenciário; cessão; alimentos
+
+@LBPS 115
+I: Podem ser descontados do benefício contribuições devidas, valores pagos indevidamente (até 30% por mês, inclusive após revogação de decisão judicial), imposto de renda, pensão alimentícia e empréstimos consignados até 45% (35% para empréstimos, 5% para cartão de crédito consignado e 5% para cartão consignado de benefício). A Lei nº 15.327/2026 revogou o desconto de mensalidades de associações de aposentados. Os créditos por pagamento indevido são inscritos em dívida ativa, inclusive contra terceiros que sabiam da fraude.
+P: Descontos permitidos || Consignado até 45% || Fim do desconto associativo (Lei nº 15.327/2026)
+K: descontos em benefício; consignado; devolução de valores; descontos associativos
+
+@LBPS 116
+I: O beneficiário tem direito a demonstrativo detalhado dos pagamentos, com mensalidade, diferenças e descontos.
+P: Transparência dos pagamentos || Discriminação de descontos || Direito à informação
+K: demonstrativo de pagamento; extrato
+
+@LBPS 117
+I: Empresas, sindicatos e entidades fechadas de previdência complementar podem, por acordo de cooperação técnica com o INSS, requerer benefícios por meio eletrônico em nome de seus empregados, associados ou beneficiários.
+P: Requerimento por entidades conveniadas || Acordo de cooperação técnica || Meio eletrônico
+K: acordo de cooperação técnica; requerimento de benefício; sindicato
+
+@LBPS 117-A
+I: Empresas, sindicatos e entidades fechadas de previdência complementar podem, mediante contrato com o INSS e sem licitação, pagar integralmente os benefícios de seus beneficiários, nas mesmas condições das instituições financeiras.
+P: Pagamento de benefícios por entidades || Dispensa de licitação || Mesmas condições dos bancos
+K: pagamento de benefício; contrato com o INSS
+
+@LBPS 118
+I: O segurado que sofreu acidente do trabalho tem garantido o emprego por no mínimo 12 meses após a cessação do auxílio-doença acidentário, independentemente de auxílio-acidente. O TST exige afastamento superior a 15 dias e recebimento do benefício, salvo doença ocupacional constatada após a dispensa (Súmula 378).
+P: Estabilidade acidentária de 12 meses || Após o fim do auxílio-doença acidentário || Súmula 378 do TST
+K: estabilidade acidentária; garantia de emprego; acidente do trabalho; Súmula 378 TST
+
+@LBPS 119
+I: Prevê ações regulares de instrução e formação em prevenção de acidentes, por meio de escolas, sindicatos, associações, Fundacentro e órgãos públicos.
+P: Educação prevencionista || Fundacentro || Cultura de prevenção
+K: prevenção de acidentes; Fundacentro; educação
+
+@LBPS 120
+I: O INSS deve ajuizar ação regressiva contra os responsáveis por negligência às normas de segurança e higiene do trabalho e por violência doméstica e familiar contra a mulher, para recuperar o que pagou em benefícios.
+P: Ação regressiva acidentária || Violência doméstica || Ressarcimento ao INSS
+K: ação regressiva; negligência; violência doméstica; Lei Maria da Penha
+
+@LBPS 121
+I: O pagamento de benefícios pelo INSS não exclui a responsabilidade civil da empresa (acidente) ou do autor da violência doméstica perante a vítima.
+P: Cumulação com responsabilidade civil || Empresa e agressor respondem || Independência das esferas
+K: responsabilidade civil; acidente do trabalho; violência doméstica
+
+@LBPS 122
+I: Assegura ao segurado que completou 35 anos (homem) ou 30 (mulher) de serviço e continuou trabalhando o direito à aposentadoria pelas regras vigentes quando cumpriu os requisitos, se mais vantajoso. O STF reconhece o direito ao melhor benefício (Tema 334).
+P: Direito adquirido ao melhor benefício || Requisitos na data do cumprimento || Tema 334 do STF
+K: direito adquirido; melhor benefício; aposentadoria
+
+@LBPS 124
+I: Proíbe acumular aposentadoria e auxílio-doença, mais de uma aposentadoria, salário-maternidade e auxílio-doença, mais de um auxílio-acidente e mais de uma pensão de cônjuge ou companheiro (com opção pela mais vantajosa), salvo direito adquirido. O seguro-desemprego só acumula com pensão por morte ou auxílio-acidente. A EC nº 103/2019 (art. 24) limitou ainda o valor na acumulação de pensão com aposentadoria.
+P: Acumulações vedadas || Seguro-desemprego só com pensão ou auxílio-acidente || Redutor da EC nº 103/2019
+K: acumulação de benefícios; pensão; aposentadoria; seguro-desemprego
+
+@LBPS 124-A
+I: O INSS deve manter processo administrativo eletrônico e canais remotos de atendimento, com controles contra fraude; as ligações telefônicas para esses serviços são gratuitas.
+P: Processo eletrônico || Atendimento remoto e Meu INSS || Ligações gratuitas
+K: processo eletrônico; atendimento remoto; INSS digital
+
+@LBPS 124-B
+I: O INSS pode acessar dados necessários para conceder e revisar benefícios, como prontuários do SUS, documentos médicos e movimentação do FGTS, respeitados o sigilo e a LGPD; os dados de saúde só podem ser vistos por peritos médicos.
+P: Acesso a bases de dados || Sigilo e LGPD || Dados médicos restritos aos peritos
+K: acesso a dados; LGPD; prontuário; perícia médica
+
+@LBPS 124-C
+I: O servidor que analisa benefícios deve motivar suas decisões e só responde pessoalmente por dolo ou erro grosseiro, em linha com o art. 28 da LINDB.
+P: Dever de motivação || Responsabilidade só por dolo ou erro grosseiro || Segurança do servidor
+K: motivação; responsabilidade do servidor; erro grosseiro
+
+@LBPS 124-D
+I: A administração federal deve investir em segurança da informação e integração de bases de dados, inclusive com Estados e Municípios, para reduzir riscos e irregularidades em pagamentos de benefícios.
+P: Segurança cibernética || Integração de bases || Prevenção de pagamentos indevidos
+K: segurança da informação; bases de dados; fraude
+
+@LBPS 124-E
+I: Dispositivo incluído pela Lei nº 13.846/2019 e vetado, sem conteúdo normativo.
+P: Veto presidencial || Sem eficácia || Numeração preservada
+K: veto; dispositivo vetado
+
+@LBPS 124-F
+I: Dispositivo incluído pela Lei nº 13.846/2019 e vetado, sem conteúdo normativo.
+P: Veto presidencial || Sem eficácia || Numeração preservada
+K: veto; dispositivo vetado
+
+@LBPS 124-G
+I: O tratamento de dados pessoais pelo INSS deve seguir a LGPD, inclusive quanto a sanções, segurança e proibição de compartilhamento não autorizado dos dados dos beneficiários, sem prejuízo das responsabilidades penal e civil (Lei nº 15.327/2026).
+P: LGPD aplicada ao INSS || Vedação de compartilhamento não autorizado || Responsabilidade penal e civil
+K: LGPD; proteção de dados; INSS; Lei 15.327/2026
+
+@LBPS 125
+I: Nenhum benefício ou serviço pode ser criado, aumentado ou estendido sem a correspondente fonte de custeio total, regra que reproduz o art. 195, § 5º, da Constituição.
+P: Regra da contrapartida || Fonte de custeio prévia || Equilíbrio financeiro
+K: fonte de custeio; equilíbrio atuarial; art. 195 CF
+
+@LBPS 125-A
+I: O INSS fiscaliza, por agentes designados, as obrigações não tributárias da legislação previdenciária e aplica multas, podendo exigir das empresas documentos de vínculo e remuneração, sem invadir as competências privativas da Receita Federal.
+P: Fiscalização de obrigações não tributárias || Exigência de documentos || Limite das competências da Receita Federal
+K: fiscalização; INSS; multa; obrigações acessórias
+
+@LBPS 126
+I: O Conselho de Recursos da Previdência Social (CRPS) julga recursos contra decisões do INSS sobre benefícios, contestações do Fator Acidentário de Prevenção, prova da atividade rural e CNIS, e compensação entre regimes. Entrar com ação judicial sobre o mesmo pedido implica renúncia ao recurso administrativo, e o recurso pode ser interposto direto no CRPS, que manda o INSS reanalisar em até 30 dias.
+P: Competência do CRPS || Ação judicial importa renúncia ao recurso || Reanálise pelo INSS em 30 dias
+K: CRPS; recurso administrativo; Fator Acidentário de Prevenção
+
+@LBPS 126-A
+I: Atribuía à Perícia Médica Federal o julgamento de recursos sobre incapacidade, regra da Medida Provisória nº 1.113/2022 que não foi convertida nesse ponto. Por isso aparece tachado e não está em vigor.
+P: Regra de MP não convertida || Sem eficácia atual || Recursos seguem no CRPS
+K: perícia médica federal; recurso; Medida Provisória 1.113/2022
+
+@LBPS 128
+I: Execuções contra o INSS de valor pequeno podem ser pagas em até 60 dias sem precatório, vedado o fracionamento; o valor de referência da lei foi superado pela disciplina das requisições de pequeno valor (RPV) de até 60 salários mínimos (Lei nº 10.259/2001), e o exequente pode renunciar ao excedente.
+P: Pagamento sem precatório || Vedação de fracionamento || Renúncia ao excedente e RPV
+K: RPV; precatório; execução contra o INSS
+
+@LBPS 129
+I: Litígios de acidente do trabalho correm na esfera administrativa com prioridade e, na judicial, na Justiça Estadual, com petição instruída pela CAT e isenção de custas e sucumbência (CF, art. 109, I; Súmula 15 do STJ).
+P: Competência da Justiça Estadual || CAT como documento da inicial || Isenção de custas e sucumbência
+K: ação acidentária; Justiça Estadual; Súmula 15 STJ; CAT
+
+@LBPS 129-A
+I: Nas ações de benefício por incapacidade, a petição inicial deve descrever a doença, as limitações e a atividade, apontar inconsistências da perícia administrativa e juntar indeferimento e documentação médica. O perito judicial que divergir do laudo administrativo deve fundamentar tecnicamente, e o juiz pode julgar improcedente se a perícia judicial confirmar a administrativa.
+P: Requisitos da inicial || Documentos obrigatórios || Fundamentação da divergência pericial
+K: ação previdenciária; benefício por incapacidade; perícia judicial; petição inicial
+
+@LBPS 130
+I: Na execução contra o INSS, o prazo para embargos era de 30 dias; hoje a impugnação da Fazenda Pública segue o CPC de 2015 (art. 535), com prazo de 30 dias.
+P: Prazo de 30 dias || Regra hoje no art. 535 do CPC || Execução contra o INSS
+K: execução contra a Fazenda Pública; impugnação; prazo
+
+@LBPS 131
+I: Autoriza o INSS a desistir ou não propor ações e recursos quando houver declaração de inconstitucionalidade, súmula ou jurisprudência consolidada do STF ou dos tribunais superiores, e a deixar de constituir ou cobrar créditos baseados em norma declarada inconstitucional.
+P: Desistência diante de jurisprudência consolidada || Créditos baseados em norma inconstitucional || Redução de litigiosidade
+K: desistência; jurisprudência consolidada; INSS
+
+@LBPS 132
+I: Desistências e transações judiciais acima dos valores fixados pelo CNPS exigem anuência prévia do Procurador-Geral ou do presidente do INSS.
+P: Anuência para valores elevados || Limites definidos pelo CNPS || Controle de transações
+K: transação judicial; desistência; procuradoria
+
+@LBPS 133
+I: Infrações a esta lei sem penalidade específica sujeitam o responsável a multa variável conforme a gravidade, com valores atualizados por atos infralegais.
+P: Multa genérica || Gradação pela gravidade || Valores atualizados por portaria
+K: multa; infração; penalidade
+
+@LBPS 134
+I: Os valores em moeda previstos nesta lei são reajustados nas mesmas épocas e índices dos benefícios.
+P: Atualização monetária || Mesmo índice dos benefícios || Aplicação a multas e limites
+K: reajuste; valores monetários
+
+@LBPS 135
+I: Os salários de contribuição usados no cálculo respeitam os limites mínimo e máximo vigentes em cada mês a que se referem.
+P: Piso e teto da época || Cálculo mês a mês || Segurança no cálculo
+K: salário de contribuição; teto; piso
+
+@LBPS 135-A
+I: Para quem se filiou até julho de 1994, nas aposentadorias (exceto por incapacidade permanente) o divisor da média dos salários de contribuição não pode ser inferior a 108 meses (Lei nº 14.331/2022).
+P: Divisor mínimo de 108 meses || Filiados até julho de 1994 || Exceção da incapacidade permanente
+K: divisor mínimo; salário de benefício; regra de transição
+
+@LBPS 136
+I: Eliminou o menor e o maior valor-teto que existiam no cálculo do salário de benefício na legislação anterior.
+P: Fim dos valores-teto antigos || Simplificação do cálculo || Regra transitória
+K: valor-teto; salário de benefício
+
+@LBPS 137
+I: Extinguiu o Programa de Previdência Social aos Estudantes (Lei nº 7.004/1982), mantendo os benefícios já iniciados.
+P: Extinção do programa estudantil || Manutenção dos benefícios concedidos || Regra transitória
+K: previdência dos estudantes; extinção
+
+@LBPS 138
+I: Extinguiu os antigos regimes rurais (Prorural/Funrural, LC nº 11/1971) e o do empregador rural (Lei nº 6.260/1975), mantendo os benefícios com piso de um salário mínimo e contando o tempo de contribuição para o RGPS.
+P: Unificação no RGPS || Benefícios mantidos com piso || Contagem do tempo anterior
+K: Funrural; previdência rural; unificação
+
+@LBPS 142
+I: Tabela de transição da carência para quem se inscreveu na Previdência urbana até 24/7/1991 e para trabalhadores e empregadores rurais, de 60 meses em 1991 a 180 em 2011, conforme o ano em que se completaram os requisitos.
+P: Carência progressiva de transição || Inscritos até 24/7/1991 || Considera o ano de implemento das condições
+K: tabela progressiva; carência; regra de transição
+
+@LBPS 143
+I: Permitiu ao trabalhador rural requerer aposentadoria por idade de um salário mínimo durante 15 anos a partir da lei, comprovando atividade rural no período anterior ao requerimento igual à carência. Prazo prorrogado por leis posteriores e hoje superado pelas regras permanentes do art. 48 e do art. 39.
+P: Aposentadoria rural transitória || Prazo de 15 anos prorrogado || Substituída pelas regras permanentes
+K: aposentadoria rural; regra transitória; trabalhador rural
+
+@LBPS 149
+I: Os benefícios de ex-combatentes e de ferroviários servidores federais não optantes pela CLT, e de seus dependentes, são regidos por legislação específica.
+P: Regimes especiais || Ex-combatentes e ferroviários || Legislação própria
+K: ex-combatente; ferroviário; legislação especial
+
+@LBPS 151
+I: Até a lista ministerial de doenças, dispensam carência o auxílio-doença e a aposentadoria por invalidez do segurado acometido, após a filiação, de tuberculose ativa, hanseníase, alienação mental, esclerose múltipla, hepatopatia grave, neoplasia maligna, cegueira, paralisia irreversível, cardiopatia grave, Parkinson, espondiloartrose anquilosante, nefropatia grave, Paget avançado, AIDS ou contaminação por radiação.
+P: Doenças graves sem carência || Doença após a filiação || Lista provisória
+K: isenção de carência; doenças graves; neoplasia; auxílio-doença
+
+@LBPS 153
+I: Previa lei especial para o regime facultativo complementar; a previdência complementar é hoje regida pelas LC nº 108 e nº 109/2001.
+P: Previdência complementar || Lei especial || LC 108 e 109/2001
+K: previdência complementar; regime facultativo
+
+@LBPS 154
+I: Fixou 60 dias para a regulamentação da lei pelo Executivo; o regulamento vigente é o Decreto nº 3.048/1999.
+P: Prazo de regulamentação || Decreto nº 3.048/1999 || Regulamento da Previdência Social
+K: regulamentação; Decreto 3.048/1999
+
+@LBPS 155
+I: A lei entrou em vigor na data de sua publicação, em 25 de julho de 1991.
+P: Vigência imediata || Publicação em 25/7/1991 || Republicações posteriores
+K: vigência; publicação
+
+@LBPS 156
+I: Cláusula geral de revogação das disposições em contrário.
+P: Revogação genérica || Cláusula de estilo || Sem revogação expressa
+K: revogação; disposições em contrário

@@ -1,0 +1,154 @@
+@LBPS 39
+I: O segurado especial tem garantidos aposentadoria por idade ou invalidez, auxílio-doença, auxílio-reclusão e pensão no valor de um salário mínimo, além do auxílio-acidente, desde que comprove atividade rural, ainda que descontínua, no período imediatamente anterior ao requerimento igual à carência. Se contribuir facultativamente, tem acesso aos demais benefícios pelo cálculo comum. A segurada especial recebe salário-maternidade de um salário mínimo comprovando 12 meses de atividade rural.
+P: Benefícios mínimos sem contribuição direta || Prova da atividade rural pelo período de carência || Contribuição facultativa amplia os benefícios
+K: segurado especial; trabalhador rural; aposentadoria rural; salário-maternidade rural
+
+@LBPS 40
+I: O abono anual (13º do benefício) é devido a quem recebeu no ano auxílio-doença, auxílio-acidente, aposentadoria, pensão por morte ou auxílio-reclusão, calculado como a gratificação natalina, com base na renda de dezembro. Decretos anuais costumam antecipar seu pagamento.
+P: Décimo terceiro dos benefícios || Base na renda de dezembro || Benefícios que dão direito
+K: abono anual; décimo terceiro; gratificação natalina
+
+@LBPS 41-A
+I: Os benefícios em manutenção são reajustados anualmente, na data do reajuste do salário mínimo, pelo INPC, de forma proporcional à data de início. Nenhum benefício pode superar o teto. Fixa ainda os prazos de pagamento (até o 5º dia útil do mês seguinte, conforme a faixa) e o primeiro pagamento em até 45 dias da apresentação dos documentos.
+P: Reajuste anual pelo INPC || Respeito ao teto || Calendário e primeiro pagamento em até 45 dias
+K: reajuste de benefícios; INPC; irredutibilidade; pagamento de benefícios
+
+@LBPS 42
+I: A aposentadoria por invalidez, hoje chamada aposentadoria por incapacidade permanente (EC nº 103/2019), é devida ao segurado incapaz e insuscetível de reabilitação para atividade que lhe garanta a subsistência, enquanto durar a incapacidade. Depende de perícia, que pode ser feita por telemedicina ou análise documental (Lei nº 14.724/2023). Doença anterior à filiação não dá direito, salvo agravamento posterior.
+P: Incapacidade total e permanente || Perícia, inclusive por telemedicina || Doença preexistente só com agravamento
+K: aposentadoria por invalidez; incapacidade permanente; perícia médica; telemedicina
+
+@LBPS 43
+I: A aposentadoria por invalidez começa no dia seguinte à cessação do auxílio-doença ou, se concedida de início, no 16º dia de afastamento para o empregado (ou na data do requerimento, se passados mais de 30 dias) e na data da incapacidade para os demais. O aposentado pode ser convocado para reavaliação, salvo os portadores de AIDS, Alzheimer, Parkinson e ELA e quando a perícia constatar incapacidade permanente e irreversível, exceto suspeita de fraude ou erro (Lei nº 15.157/2025).
+P: Data de início do benefício || Reavaliação periódica || Dispensas de reavaliação (Lei nº 15.157/2025)
+K: aposentadoria por invalidez; data de início; reavaliação; pente-fino
+
+@LBPS 44
+I: A aposentadoria por invalidez corresponde a 100% do salário de benefício. Para benefícios posteriores à EC nº 103/2019, o valor segue o art. 26 da emenda: 60% da média, mais 2% por ano acima do tempo mínimo, mantidos 100% quando decorrente de acidente do trabalho, doença profissional ou do trabalho.
+P: 100% do salário de benefício pela lei || Regra de cálculo da EC nº 103/2019 || 100% em caso acidentário
+K: renda mensal; aposentadoria por invalidez; EC 103/2019
+
+@LBPS 45
+I: O aposentado por invalidez que precisa de assistência permanente de outra pessoa tem acréscimo de 25%, devido mesmo acima do teto e não incorporado à pensão. O STF limitou o acréscimo à aposentadoria por invalidez, afastando a extensão às demais (Tema 1.095).
+P: Acréscimo de 25% || Pode ultrapassar o teto || Restrito à aposentadoria por invalidez (Tema 1.095 do STF)
+K: grande invalidez; acréscimo de 25%; assistência permanente
+
+@LBPS 46
+I: O aposentado por invalidez que volta voluntariamente ao trabalho tem a aposentadoria cancelada desde o retorno.
+P: Cancelamento pelo retorno voluntário || Incompatibilidade com atividade || Efeito desde o retorno
+K: aposentadoria por invalidez; retorno ao trabalho; cancelamento
+
+@LBPS 47
+I: Recuperada a capacidade, a aposentadoria cessa de forma escalonada: imediatamente para o empregado que pode voltar à função, se a recuperação ocorrer em até 5 anos; nos demais casos, há pagamento integral por 6 meses, com redução de 50% e depois de 75% em semestres seguintes (mensalidade de recuperação).
+P: Cessação escalonada || Mensalidade de recuperação em 18 meses || Retorno imediato do empregado com direito à função
+K: mensalidade de recuperação; cessação da aposentadoria; recuperação da capacidade
+
+@LBPS 48
+I: Pela lei, a aposentadoria por idade exige carência e 65 anos (homem) ou 60 (mulher), reduzidos em 5 anos para trabalhadores rurais, que comprovam atividade rural pelo período de carência; a aposentadoria híbrida soma períodos rurais e urbanos aos 65/60 anos, e o STJ admite o rural remoto (Tema 1.007). Para os urbanos, a EC nº 103/2019 fixou a aposentadoria programada aos 65 anos (homem) e 62 (mulher), com regras de transição.
+P: Idade e carência || Rural com 5 anos a menos || Aposentadoria híbrida e regras da EC nº 103/2019
+K: aposentadoria por idade; aposentadoria rural; aposentadoria híbrida; EC 103/2019
+
+@LBPS 49
+I: A aposentadoria por idade do empregado começa no desligamento, se requerida em até 90 dias dele, ou na data do requerimento; para os demais segurados, na data do requerimento.
+P: Data de início pelo desligamento || Prazo de 90 dias || Requerimento para os demais
+K: data de início; aposentadoria por idade; requerimento
+
+@LBPS 50
+I: Pela lei, a renda é de 70% do salário de benefício mais 1% por grupo de 12 contribuições, até 100%. Para benefícios posteriores à EC nº 103/2019, aplica-se 60% da média mais 2% por ano acima de 20 anos (homem) ou 15 anos (mulher) de contribuição.
+P: 70% + 1% por ano pela lei || Regra de cálculo da EC nº 103/2019 || Limite de 100%
+K: renda mensal; aposentadoria por idade; coeficiente
+
+@LBPS 52
+I: A aposentadoria por tempo de serviço (depois, por tempo de contribuição) exigia 25 anos (mulher) ou 30 (homem) para a proporcional. A EC nº 20/1998 extinguiu a proporcional, salvo transição, e a EC nº 103/2019 extinguiu a aposentadoria por tempo de contribuição para quem não tinha direito adquirido até 13/11/2019, criando regras de transição.
+P: Regra original de 25/30 anos || Fim da proporcional (EC nº 20/1998) || Extinção pela EC nº 103/2019, com transição
+K: aposentadoria por tempo de contribuição; aposentadoria proporcional; EC 103/2019; regras de transição
+
+@LBPS 53
+I: Fixava a renda da aposentadoria por tempo de serviço entre 70% e 100% do salário de benefício conforme os anos de serviço. Regra aplicável hoje apenas a direitos adquiridos sob as normas anteriores às reformas.
+P: Coeficiente progressivo || Regra histórica || Direito adquirido
+K: aposentadoria por tempo de serviço; renda mensal
+
+@LBPS 54
+I: A data de início da aposentadoria por tempo de serviço segue a regra da aposentadoria por idade (art. 49).
+P: Mesma regra do art. 49 || Desligamento ou requerimento || Prazo de 90 dias
+K: data de início; aposentadoria por tempo de contribuição
+
+@LBPS 55
+I: Define o que conta como tempo de serviço, inclusive serviço militar, períodos intercalados de benefício por incapacidade, contribuições facultativas e mandato eletivo. O tempo rural anterior a 1991 conta sem contribuição, exceto para carência, e a comprovação exige início de prova material contemporânea, não bastando prova só testemunhal (Súmula 149 do STJ). O tempo de benefício por incapacidade intercalado conta também para carência (Tema 1.125 do STF).
+P: Períodos computáveis || Rural anterior a 1991 sem contribuição || Início de prova material obrigatório (Súmula 149 do STJ)
+K: tempo de contribuição; averbação; prova material; tempo rural
+
+@LBPS 56
+I: Professores com 30 anos (homem) ou 25 (mulher) de efetivo exercício no magistério podiam aposentar-se com 100% do salário de benefício. Após a EC nº 103/2019, o professor da educação básica tem idade mínima própria (60/57 anos) e regras de transição; o STF considera funções de direção, coordenação e assessoramento como magistério (ADI 3.772).
+P: Aposentadoria do professor || Tempo reduzido de magistério || Idade mínima após a EC nº 103/2019
+K: aposentadoria do professor; magistério; EC 103/2019
+
+@LBPS 57
+I: A aposentadoria especial é devida a quem trabalhou exposto a agentes nocivos à saúde, de forma permanente, por 15, 20 ou 25 anos, com renda de 100% pela lei e financiamento por adicional da contribuição da empresa. O aposentado que continuar exposto perde o benefício (art. 46), regra validada pelo STF (Tema 709). A EC nº 103/2019 passou a exigir idade mínima e vedou a conversão de tempo especial em comum para períodos posteriores a 13/11/2019.
+P: Exposição permanente a agentes nocivos || Proibição de continuar exposto (Tema 709 do STF) || Idade mínima e fim da conversão após a EC nº 103/2019
+K: aposentadoria especial; agentes nocivos; conversão de tempo especial; Tema 709
+
+@LBPS 58
+I: O Poder Executivo define a lista de agentes nocivos, e a exposição é comprovada por formulário (PPP) baseado em laudo técnico (LTCAT). O STF decidiu que o EPI eficaz afasta a especialidade, exceto para o ruído acima do limite (Tema 555). A empresa deve manter laudo atualizado e entregar o PPP na rescisão.
+P: Lista de agentes nocivos pelo Executivo || PPP e LTCAT || EPI eficaz e exceção do ruído (Tema 555 do STF)
+K: PPP; LTCAT; agentes nocivos; EPI; ruído
+
+@LBPS 59
+I: O auxílio-doença, hoje auxílio por incapacidade temporária (EC nº 103/2019), é devido ao segurado incapaz para seu trabalho ou atividade habitual por mais de 15 dias, cumprida a carência quando exigida. Não é devido por doença preexistente à filiação, salvo agravamento, nem ao preso em regime fechado; o benefício é suspenso com a prisão e cessa após 60 dias.
+P: Incapacidade por mais de 15 dias || Doença preexistente só com agravamento || Restrições ao segurado preso
+K: auxílio-doença; incapacidade temporária; doença preexistente
+
+@LBPS 60
+I: O auxílio-doença começa no 16º dia de afastamento para o empregado (a empresa paga os 15 primeiros dias) e na data da incapacidade para os demais, ou no requerimento se passados mais de 30 dias. O ato deve fixar prazo estimado (alta programada) e, sem ele, o benefício cessa em 120 dias, salvo pedido de prorrogação. A perícia pode ser por telemedicina ou análise documental, mas o benefício documental dura no máximo 30 dias (Lei nº 15.265/2025). Portadores de AIDS, Alzheimer, Parkinson e ELA ficam dispensados de reavaliação (Lei nº 15.157/2025).
+P: 15 primeiros dias pagos pela empresa || Alta programada e 120 dias sem prazo fixado || Análise documental limitada a 30 dias (Lei nº 15.265/2025)
+K: auxílio-doença; data de início; alta programada; Atestmed; análise documental
+
+@LBPS 61
+I: Pela lei, o auxílio-doença corresponde a 91% do salário de benefício, limitado à média dos últimos 12 salários de contribuição (art. 29, § 10).
+P: 91% do salário de benefício || Teto pela média dos últimos 12 meses || Inclui o acidentário
+K: auxílio-doença; renda mensal; 91%
+
+@LBPS 62
+I: O segurado sem recuperação para a atividade habitual deve passar por reabilitação profissional, mantido o benefício até ser reabilitado ou, se não recuperável, aposentado por invalidez. A adaptação de funções compatíveis com a limitação não configura desvio de função.
+P: Reabilitação profissional obrigatória || Benefício mantido até a reabilitação || Adaptação sem desvio de função
+K: reabilitação profissional; auxílio-doença; readaptação
+
+@LBPS 63
+I: O empregado em gozo de auxílio-doença é considerado licenciado (contrato suspenso). Se a empresa garantir licença remunerada, paga a diferença entre o benefício e o valor garantido.
+P: Suspensão do contrato || Licença remunerada complementar || Empregado doméstico incluído
+K: auxílio-doença; licença; suspensão do contrato de trabalho
+
+@LBPS 65
+I: O salário-família é devido ao empregado, doméstico e avulso de baixa renda, por filho ou equiparado, e também aos aposentados por invalidez, por idade ou com 65/60 anos. A restrição à baixa renda decorre da EC nº 20/1998 e foi mantida pela EC nº 103/2019.
+P: Benefício por filho ou equiparado || Restrito a segurados de baixa renda || Aposentados também têm direito
+K: salário-família; baixa renda; dependentes
+
+@LBPS 66
+I: Fixa a cota do salário-família por filho de até 14 anos ou inválido. Os valores em cruzeiros foram substituídos por atualizações anuais em portarias, com cota e limite de renda definidos a cada ano.
+P: Cota por filho até 14 anos || Valores atualizados por portaria || Filho inválido de qualquer idade
+K: salário-família; cota; valor do benefício
+
+@LBPS 67
+I: O pagamento depende da certidão de nascimento e da apresentação anual do atestado de vacinação e da comprovação de frequência escolar; o empregado doméstico só apresenta a certidão.
+P: Documentos exigidos || Vacinação e frequência escolar || Regra simplificada para o doméstico
+K: salário-família; vacinação; frequência escolar
+
+@LBPS 68
+I: A empresa ou o empregador doméstico paga as cotas com o salário e compensa no recolhimento das contribuições, guardando os comprovantes por 10 anos.
+P: Pagamento pelo empregador || Compensação nas contribuições || Guarda de documentos por 10 anos
+K: salário-família; compensação; empregador
+
+@LBPS 69
+I: O salário-família do trabalhador avulso pode ser recebido pelo sindicato, que elabora as folhas e faz a distribuição.
+P: Avulso || Intermediação do sindicato || Distribuição das cotas
+K: trabalhador avulso; sindicato; salário-família
+
+@LBPS 70
+I: A cota do salário-família não se incorpora ao salário nem ao benefício para nenhum efeito.
+P: Natureza não salarial || Não incorporação || Sem reflexos
+K: salário-família; natureza jurídica
+
+@LBPS 71
+I: O salário-maternidade é devido à segurada por 120 dias, a partir de até 28 dias antes do parto. É prorrogado por 60 dias no caso de criança com deficiência permanente decorrente da síndrome congênita do Zika (Lei nº 15.156/2025) e, se a internação da mãe ou do bebê por complicações do parto superar 2 semanas, é devido durante a internação e por mais 120 dias após a alta (Lei nº 15.222/2025), em linha com a ADI 6.327 do STF.
+P: 120 dias a partir de até 28 dias antes do parto || Prorrogação de 60 dias (Zika) || Contagem após a alta em internações longas
+K: salário-maternidade; licença-maternidade; internação; ADI 6327

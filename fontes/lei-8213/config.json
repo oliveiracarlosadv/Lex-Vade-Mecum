@@ -1,0 +1,15 @@
+{
+ "nome": "Lei de Benefícios da Previdência Social (Lei nº 8.213/1991)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+ "saida": "leis/lei-8213/lei-8213-completa.md",
+ "minimo_artigos": 180,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "LBPS",
+   "start": "TÍTULO I",
+   "end": "Brasília, em 24 de julho de 1991",
+   "self_name": "desta Lei"
+  }
+ ]
+}

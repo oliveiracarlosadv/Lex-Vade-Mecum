@@ -1,0 +1,124 @@
+@LBPS 7
+I: Dispositivo revogado pela Medida Provisória nº 2.216-37, de 31.8.01. Tratava dos Conselhos Estaduais e Municipais de Previdência Social (CEPS e CMPS). A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.216-37, de 31.8.01 || Matéria: os Conselhos Estaduais e Municipais de Previdência Social (CEPS e CMPS)
+K: dispositivo revogado; Medida Provisória nº 2.216-37, de 31.8.01; histórico legislativo
+
+@LBPS 8
+I: Dispositivo revogado pela Medida Provisória nº 2.216-37, de 31.8.01. Tratava das competências dos CEPS e CMPS. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.216-37, de 31.8.01 || Matéria: as competências dos CEPS e CMPS
+K: dispositivo revogado; Medida Provisória nº 2.216-37, de 31.8.01; histórico legislativo
+
+@LBPS 30
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava do cálculo do benefício em caso de remuneração variável. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: o cálculo do benefício em caso de remuneração variável
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 41
+I: Dispositivo revogado pela Lei nº 11.430, de 2006. Tratava do reajustamento dos benefícios, hoje disciplinado no art. 41-A. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 11.430, de 2006 || Matéria: o reajustamento dos benefícios, hoje disciplinado no art. 41-A
+K: dispositivo revogado; Lei nº 11.430, de 2006; histórico legislativo
+
+@LBPS 64
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava do auxílio-doença acidentário em caso de agravamento de sequela. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: o auxílio-doença acidentário em caso de agravamento de sequela
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 79
+I: Dispositivo revogado pela Medida Provisória nº 871, de 2019. Tratava da não aplicação do prazo do art. 103 ao pensionista menor, incapaz ou ausente. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 871, de 2019 || Matéria: a não aplicação do prazo do art. 103 ao pensionista menor, incapaz ou ausente
+K: dispositivo revogado; Medida Provisória nº 871, de 2019; histórico legislativo
+
+@LBPS 81
+I: Dispositivo revogado pela Lei nº 9.129, de 1995. Tratava dos pecúlios. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.129, de 1995 || Matéria: os pecúlios
+K: dispositivo revogado; Lei nº 9.129, de 1995; histórico legislativo
+
+@LBPS 82
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava do valor do pecúlio. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: o valor do pecúlio
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 83
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava do pecúlio por invalidez ou morte decorrente de acidente do trabalho. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: o pecúlio por invalidez ou morte decorrente de acidente do trabalho
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 84
+I: Dispositivo revogado pela Lei nº 8.870, de 1994. Tratava do pecúlio do aposentado que voltava a trabalhar. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 8.870, de 1994 || Matéria: o pecúlio do aposentado que voltava a trabalhar
+K: dispositivo revogado; Lei nº 8.870, de 1994; histórico legislativo
+
+@LBPS 85
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava da vigência das regras do pecúlio. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: a vigência das regras do pecúlio
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 87
+I: Dispositivo revogado pela Lei nº 8.870, de 1994. Tratava do abono de permanência em serviço. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 8.870, de 1994 || Matéria: o abono de permanência em serviço
+K: dispositivo revogado; Lei nº 8.870, de 1994; histórico legislativo
+
+@LBPS 95
+I: Dispositivo revogado pela Medida Provisória nº 2.187-13, de 2001. Tratava da carência para a contagem recíproca de tempo de serviço. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.187-13, de 2001 || Matéria: a carência para a contagem recíproca de tempo de serviço
+K: dispositivo revogado; Medida Provisória nº 2.187-13, de 2001; histórico legislativo
+
+@LBPS 123
+I: Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava do benefício do aposentado acometido de doença profissional ou do trabalho. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.032, de 1995 || Matéria: o benefício do aposentado acometido de doença profissional ou do trabalho
+K: dispositivo revogado; Lei nº 9.032, de 1995; histórico legislativo
+
+@LBPS 127
+I: Dispositivo revogado pela Lei nº 9.711, de 20.11.98. Tratava da aplicação subsidiária do Código de Processo Civil. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.711, de 20.11.98 || Matéria: a aplicação subsidiária do Código de Processo Civil
+K: dispositivo revogado; Lei nº 9.711, de 20.11.98; histórico legislativo
+
+@LBPS 139
+I: Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava da renda mensal vitalícia. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.528, de 1997 || Matéria: a renda mensal vitalícia
+K: dispositivo revogado; Lei nº 9.528, de 1997; histórico legislativo
+
+@LBPS 140
+I: Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava do auxílio-natalidade. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.528, de 1997 || Matéria: o auxílio-natalidade
+K: dispositivo revogado; Lei nº 9.528, de 1997; histórico legislativo
+
+@LBPS 141
+I: Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava do auxílio-funeral. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.528, de 1997 || Matéria: o auxílio-funeral
+K: dispositivo revogado; Lei nº 9.528, de 1997; histórico legislativo
+
+@LBPS 144
+I: Dispositivo revogado pela Medida Provisória nº 2.187-13, de 2001. Tratava do recálculo dos benefícios concedidos entre 5 de outubro de 1988 e 5 de abril de 1991. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.187-13, de 2001 || Matéria: o recálculo dos benefícios concedidos entre 5 de outubro de 1988 e 5 de abril de 1991
+K: dispositivo revogado; Medida Provisória nº 2.187-13, de 2001; histórico legislativo
+
+@LBPS 145
+I: Dispositivo revogado pela Medida Provisória nº 2.187-13, de 2001. Tratava da retroação dos efeitos da lei a 5 de abril de 1991. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.187-13, de 2001 || Matéria: a retroação dos efeitos da lei a 5 de abril de 1991
+K: dispositivo revogado; Medida Provisória nº 2.187-13, de 2001; histórico legislativo
+
+@LBPS 146
+I: Dispositivo revogado pela Medida Provisória nº 2.187-13, de 2001. Tratava da incorporação de abono às rendas mensais dos benefícios. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.187-13, de 2001 || Matéria: a incorporação de abono às rendas mensais dos benefícios
+K: dispositivo revogado; Medida Provisória nº 2.187-13, de 2001; histórico legislativo
+
+@LBPS 147
+I: Dispositivo revogado pela Medida Provisória nº 2.187-13, de 2001. Tratava das bases de cálculo das aposentadorias especiais já deferidas. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Medida Provisória nº 2.187-13, de 2001 || Matéria: as bases de cálculo das aposentadorias especiais já deferidas
+K: dispositivo revogado; Medida Provisória nº 2.187-13, de 2001; histórico legislativo
+
+@LBPS 148
+I: Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava das aposentadorias de aeronautas, jornalistas, ex-combatentes e jogadores de futebol. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.528, de 1997 || Matéria: as aposentadorias de aeronautas, jornalistas, ex-combatentes e jogadores de futebol
+K: dispositivo revogado; Lei nº 9.528, de 1997; histórico legislativo
+
+@LBPS 150
+I: Dispositivo revogado pela Lei nº 10.559, de 13.11.2002. Tratava da aposentadoria excepcional dos anistiados, hoje regida pela Lei nº 10.559/2002. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 10.559, de 13.11.2002 || Matéria: a aposentadoria excepcional dos anistiados, hoje regida pela Lei nº 10.559/2002
+K: dispositivo revogado; Lei nº 10.559, de 13.11.2002; histórico legislativo
+
+@LBPS 152
+I: Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava da relação de atividades prejudiciais à saúde para aposentadoria especial. A numeração é mantida para preservar as remissões e o histórico da lei.
+P: Sem eficácia atual || Revogado pela Lei nº 9.528, de 1997 || Matéria: a relação de atividades prejudiciais à saúde para aposentadoria especial
+K: dispositivo revogado; Lei nº 9.528, de 1997; histórico legislativo
