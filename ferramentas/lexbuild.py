@@ -61,9 +61,10 @@ pos = 0
 # com "rubricas": true na parte, a linha solta logo antes de um artigo passa a ser a primeira
 # linha desse artigo, e não a última do artigo anterior nem parte do nome do Título/Capítulo.
 RUB_NAO = re.compile(r'^(Arts?\.|Ar\.|At\.|§|Parágrafo|Pena\s*[-–—]|[IVXLC]+(-[A-Z])?\s*[-–]|[a-z]\)|\(|⟦|~~)')
-def rubrica(k, fim):
-    # Nomes de Título/Capítulo vêm em maiúsculas; rubricas, em caixa normal.
-    if not L[k] or RUB_NAO.match(L[k]) or HEAD.match(L[k]) or len(L[k]) > 160 or L[k] == L[k].upper(): return False
+def rubrica(k, fim, maiusc=False):
+    # Logo depois de um Título/Capítulo, a linha em maiúsculas é o nome da divisão; entre artigos,
+    # é rubrica (ex.: art. 281 do CP). Rubricas com nota de alteração podem passar de 160 caracteres.
+    if not L[k] or RUB_NAO.match(L[k]) or HEAD.match(L[k]) or len(L[k]) > 260 or (L[k] == L[k].upper() and not maiusc): return False
     j = k + 1
     while j < fim and not L[j]: j += 1
     return j < fim and bool(ART.match(L[j]))
@@ -122,7 +123,7 @@ for p in cfg['parts']:
             units.append(cur)
             structure.append({'part': p['id'], 'level': 9, 'art': num})
             i += 1; continue
-        if rub and rubrica(i, b):
+        if rub and rubrica(i, b, maiusc=True):
             pend.append(l); i += 1; continue
         if cur: cur['lines'].append(l)
         elif p.get('preamble') and not units:
