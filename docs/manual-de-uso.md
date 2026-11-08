@@ -17,6 +17,7 @@ Endereço: [oliveiracarlosadv.github.io/Lex-Vade-Mecum](https://oliveiracarlosad
 ## 2. Primeiros passos
 
 - **Escolha uma lei:** na página inicial, em **Leis disponíveis**, ou no menu à esquerda. No celular, o menu abre pelo botão **☰**, no canto superior esquerdo.
+- **Ordene a lista de leis:** no alto do menu, escolha **A–Z** (ordem alfabética) ou **Data** (pela data de publicação, da mais antiga à mais recente). A escolha vale também para a página inicial e fica salva no seu navegador.
 - **Navegue pela lei:** o **Sumário**, no menu, leva direto a cada Título, Capítulo ou Seção.
 - **Ajuste a leitura:** o botão **◐**, no canto superior direito, alterna entre tema claro e escuro.
 - **Cadastre seu perfil (opcional):** em **★ Perfil, favoritos e marcações**, informe seu nome e seu @. Eles aparecem nas imagens e stories que você gerar.
