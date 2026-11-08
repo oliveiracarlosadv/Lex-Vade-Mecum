@@ -203,6 +203,7 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .campos b{color:var(--tinta);font-weight:600}
 .oficial p{margin:0 0 .4em}
 .oficial p.caput{text-indent:1.6em}
+.oficial p.rubrica{text-align:center;font-style:italic;margin-bottom:2px}
 .oficial p.paragrafo{text-indent:1.6em}
 .oficial p.inciso{padding-left:2.2em;text-indent:-1.2em}
 .oficial p.alinea{padding-left:3.4em;text-indent:-1.2em}
@@ -535,7 +536,7 @@ function classeLinha(x) {
 }
 function blocoDispositivo(id, u, casa) {
   const realce = (html) => (casa ? realcar(html, casa) : html);
-  const texto = u.texto.map((x) => `<p class="${classeLinha(x)}">${realce(inline(x))}</p>`).join('');
+  const texto = u.texto.map((x, i) => `<p class="${classeLinha(x) || (i === 0 ? 'rubrica' : '')}">${realce(inline(x))}</p>`).join('');
   const campos = u.campos.length ? `<div class="campos">${u.campos.map((x) => inline(x)).join('<br>')}</div>` : '';
   const alt = u.alt ? `<div class="alt">${inline(u.alt.replace(/^>\s*/, ''))}</div>` : '';
   return `<article class="dispositivo" id="${id}--${u.id}">

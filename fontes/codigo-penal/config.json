@@ -1,0 +1,16 @@
+{
+ "nome": "Código Penal (Decreto-Lei nº 2.848/1940)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+ "saida": "leis/codigo-penal/codigo-penal-completa.md",
+ "minimo_artigos": 400,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CP",
+   "start": "PARTE GERAL",
+   "end": "Rio de Janeiro, 7 de dezembro de 1940",
+   "self_name": "deste Código",
+   "rubricas": true
+  }
+ ]
+}
