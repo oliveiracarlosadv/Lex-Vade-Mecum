@@ -180,6 +180,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 07/11/2026 | Botão "Instalar como aplicativo" no menu: usa o pedido de instalação do navegador (Chrome/Edge) ou mostra o passo a passo por aparelho; `sw.js` mínimo, sem cache, só para habilitar a instalação |
 | 07/11/2026 | Conferência a cada 12 horas: NR na nuvem (`.github/workflows/conferencia-nr.yml`); Planalto, TST e TRT8 pela tarefa agendada no computador do curador (7h e 19h), pois bloqueiam servidores de nuvem |
 | 08/11/2026 | Lei de Benefícios da Previdência Social (Lei nº 8.213/1991) publicada; foto do criador na página Sobre |
+| 08/11/2026 | Código de Defesa do Consumidor (CDC) publicado, com o superendividamento (Lei nº 14.181/2021) e a MP nº 1.393/2026 |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |
