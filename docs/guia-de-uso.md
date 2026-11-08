@@ -4,7 +4,7 @@
 
 Endereço: **https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/**
 
-A página reúne todas as leis do repositório para leitura e consulta, no computador, no tablet ou no celular. O texto de cada artigo é o texto oficial vigente, conferido toda semana com o Planalto (leis), com o TST e com o TRT8 (precedentes). Não é preciso instalar nada nem criar conta.
+A página reúne todas as leis do repositório para leitura e consulta, no computador, no tablet ou no celular. O texto de cada artigo é o texto oficial vigente, conferido duas vezes por dia, de forma automática, com o Planalto (leis), com o TST e com o TRT8 (precedentes) e com o Ministério do Trabalho (NR). Não é preciso instalar nada nem criar conta.
 
 ## 1. Página inicial
 
