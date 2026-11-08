@@ -13,10 +13,10 @@ Este documento descreve como a página de consulta é construída, publicada e m
 | Dependências externas | Google Fonts (Literata e Cormorant Garamond) e, só ao gerar imagem, `html2canvas` 1.4.1 do cdnjs |
 | Cópia sem internet | Pasta do projeto no Google Drive, com `dados-offline.js` |
 
-A página **não tem conteúdo próprio**: ela lê os mesmos arquivos que a conferência semanal atualiza. Assim, quando o Planalto ou o TST mudam um texto e a rotina publica a correção, a página passa a exibir o texto novo sem nenhuma outra ação.
+A página **não tem conteúdo próprio**: ela lê os mesmos arquivos que a conferência automática atualiza a cada 12 horas. Assim, quando o Planalto, o TST, o TRT8 ou o MTE mudam um texto e a rotina publica a correção, a página passa a exibir o texto novo sem nenhuma outra ação.
 
 ```
-Planalto / TST ──(conferência semanal: extração + validação)──▶ leis/*.md + README.md (GitHub)
+Fontes oficiais ──(conferência a cada 12 h: extração + validação)──▶ leis/*.md + README.md (GitHub)
                                                                      │
                                                     GitHub Pages ────┤──▶ index.html lê via fetch
                                                                      │
@@ -178,6 +178,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 07/11/2026 | NR-01 publicada a partir do PDF oficial do MTE (`ferramentas/nr.py`); subitens das NR diagramados como dispositivos |
 | 07/11/2026 | Manual de uso (`docs/manual-de-uso.md`) no menu do site (`#/manual`), na página inicial, no rodapé e no README |
 | 07/11/2026 | Botão "Instalar como aplicativo" no menu: usa o pedido de instalação do navegador (Chrome/Edge) ou mostra o passo a passo por aparelho; `sw.js` mínimo, sem cache, só para habilitar a instalação |
+| 07/11/2026 | Conferência a cada 12 horas: NR na nuvem (`.github/workflows/conferencia-nr.yml`); Planalto, TST e TRT8 pela tarefa agendada no computador do curador (7h e 19h), pois bloqueiam servidores de nuvem |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |

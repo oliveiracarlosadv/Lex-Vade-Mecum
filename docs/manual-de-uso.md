@@ -1,6 +1,6 @@
 # Manual de uso — Lex Vade Mecum
 
-O Lex Vade Mecum é um vade-mécum digital e gratuito: reúne leis brasileiras com o **texto oficial vigente**, conferido toda semana com a fonte oficial, e uma **análise de cada artigo**. Funciona no computador, no tablet e no celular, sem instalar nada e sem criar conta. Este manual explica para que ele serve e como aproveitar cada recurso para estudar, pesquisar e compartilhar.
+O Lex Vade Mecum é um vade-mécum digital e gratuito: reúne leis brasileiras com o **texto oficial vigente**, conferido automaticamente com a fonte oficial a cada 12 horas, e uma **análise de cada artigo**. Funciona no computador, no tablet e no celular, sem instalar nada e sem criar conta. Este manual explica para que ele serve e como aproveitar cada recurso para estudar, pesquisar e compartilhar.
 
 Endereço: [oliveiracarlosadv.github.io/Lex-Vade-Mecum](https://oliveiracarlosadv.github.io/Lex-Vade-Mecum/)
 
@@ -8,7 +8,7 @@ Endereço: [oliveiracarlosadv.github.io/Lex-Vade-Mecum](https://oliveiracarlosad
 
 | Finalidade | Como o Lex Vade Mecum ajuda |
 | --- | --- |
-| **Consultar a lei vigente** | Texto idêntico ao da fonte oficial (Planalto, TST, TRT8 e Ministério do Trabalho), com a data da última conferência no início de cada lei. Trechos revogados aparecem ~~tachados~~, como no Planalto. |
+| **Consultar a lei vigente** | Texto idêntico ao da fonte oficial (Planalto, TST, TRT8 e Ministério do Trabalho), conferido a cada 12 horas, com a data da última conferência no início de cada lei. Trechos revogados aparecem ~~tachados~~, como no Planalto. |
 | **Estudar** (faculdade, OAB, concursos) | Cada artigo traz interpretação, pontos importantes e palavras-chave. Você marca trechos com cores, registra onde parou e acompanha o percentual lido de cada lei. |
 | **Trabalhar no dia a dia jurídico** | Busca rápida por artigo, palavra ou expressão; cópia do trecho já com a fonte e o link, pronta para petições, pareceres e e-mails; impressão ou PDF de um artigo ou da lei inteira. |
 | **Ensinar e divulgar** | Gera imagens e stories com o trecho escolhido, a fonte e o seu nome e @ nas redes sociais. |
@@ -157,7 +157,7 @@ Repositório: [github.com/oliveiracarlosadv/Lex-Vade-Mecum](https://github.com/o
 ## 11. Perguntas frequentes
 
 **O texto é confiável?**
-O texto dos artigos é extraído da fonte oficial, nunca digitado à mão, e é conferido toda semana. A data da última conferência aparece no início de cada lei.
+O texto dos artigos é extraído da fonte oficial, nunca digitado à mão, e é conferido automaticamente a cada 12 horas. A data da última conferência aparece no início de cada lei.
 
 **Preciso pagar ou criar conta?**
 Não. O uso é livre e não há cadastro.

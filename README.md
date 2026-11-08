@@ -27,7 +27,7 @@ Página de leitura com todas as leis deste repositório, diagramada como um livr
 - **Instalar como aplicativo:** botão no menu que salva o Lex Vade Mecum na tela inicial do celular ou na área de trabalho do computador, abrindo em janela própria, como um app.
 - Página **Sobre**, com o objetivo do projeto e o criador.
 
-A página lê os mesmos arquivos atualizados pela conferência semanal, então mostra sempre o texto vigente. Documentação: [Manual de uso](docs/manual-de-uso.md) · [Guia de uso (referência completa dos recursos)](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).
+A página lê os mesmos arquivos atualizados pela conferência automática (a cada 12 horas), então mostra sempre o texto vigente. Documentação: [Manual de uso](docs/manual-de-uso.md) · [Guia de uso (referência completa dos recursos)](docs/guia-de-uso.md) · [Documentação técnica](docs/documentacao-tecnica.md).
 
 ## Acesso direto às leis
 
@@ -70,7 +70,7 @@ Cada norma é publicada em um único arquivo `leis/<norma>/<norma>-completa.md`,
 2. **Estrutura por script:** Títulos, Capítulos, Seções e artigos são separados automaticamente, preservando as notas "Redação dada pela", "Incluído pela", "Revogado pela" e "Vide".
 3. **Análise jurídica:** cada artigo recebe interpretação, pontos importantes e palavras-chave, sem contrariar o texto legal.
 4. **Validação:** um script confere, artigo por artigo, que o texto publicado é idêntico ao oficial antes de qualquer publicação.
-5. **Conferência semanal:** toda semana o texto de cada norma é extraído de novo do Planalto e comparado com o publicado. Se algum artigo mudar, o texto é atualizado no mesmo dia, a análise do artigo recebe o aviso "pendente de revisão" e a mudança entra no `CHANGELOG.md` da norma. A data da última conferência aparece na tabela acima.
+5. **Conferência a cada 12 horas:** duas vezes por dia o texto de cada norma é extraído de novo da fonte oficial e comparado com o publicado (as NR do MTE na nuvem do GitHub; as leis do Planalto e os precedentes do TST e do TRT8 pela tarefa agendada no computador do curador, pois esses sites bloqueiam acesso a partir de servidores de nuvem). Se algum artigo mudar, o texto é atualizado no mesmo dia, a análise do artigo recebe o aviso "pendente de revisão" e a mudança entra no `CHANGELOG.md` da norma. A data da última conferência aparece na tabela acima.
 
 Detalhes técnicos em [`ferramentas/LEIA-ME.md`](ferramentas/LEIA-ME.md).
 

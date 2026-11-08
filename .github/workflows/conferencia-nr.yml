@@ -1,0 +1,71 @@
+# Conferência automática das Normas Regulamentadoras (fontes com "tipo": "pdf-nr"),
+# a cada 12 horas, na nuvem do GitHub. O portal gov.br aceita download direto do PDF.
+# As leis do Planalto e os precedentes do TST e do TRT8 bloqueiam acesso a partir de
+# servidores de nuvem; eles são conferidos pela tarefa agendada no computador do curador.
+name: Conferência das NR (a cada 12 horas)
+on:
+  schedule:
+    - cron: '17 9,21 * * *'   # 6h17 e 18h17 em Brasília
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: conferencia-nr
+  cancel-in-progress: false
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils > /dev/null
+      - name: Conferir cada NR com o PDF oficial
+        id: conferir
+        run: |
+          resumo=""
+          falhou=0
+          for cfg in fontes/*/config.json; do
+            fonte=$(basename "$(dirname "$cfg")")
+            tipo=$(python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('tipo',''))" "$cfg")
+            [ "$tipo" = "pdf-nr" ] || continue
+            if saida=$(python3 -I ferramentas/nr.py --fonte "$fonte" --baixar --data "$(TZ=America/Sao_Paulo date +%F)" 2>&1); then
+              echo "$saida"
+            else
+              echo "$saida"; falhou=1
+            fi
+            resumo="$resumo$(echo "$saida" | tail -1)"$'\n'
+          done
+          {
+            echo 'resumo<<FIM'
+            printf '%s' "$resumo"
+            echo 'FIM'
+          } >> "$GITHUB_OUTPUT"
+          echo "### Resultado" >> "$GITHUB_STEP_SUMMARY"
+          printf '```\n%s```\n' "$resumo" >> "$GITHUB_STEP_SUMMARY"
+          exit $falhou
+      - name: Publicar se algo mudou
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RESUMO: ${{ steps.conferir.outputs.resumo }}
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "Sem mudanças."; exit 0; fi
+          git config user.name "Lex Vade Mecum (conferência automática)"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if echo "$RESUMO" | grep -q '"status": "alterado"'; then
+            titulo="NR: texto oficial alterado no PDF do MTE"
+          else
+            titulo="NR: conferido com o PDF do MTE, sem alterações"
+          fi
+          git commit -q -m "$titulo" -m "Conferência automática na nuvem ($(TZ=America/Sao_Paulo date '+%d/%m/%Y %H:%M')).
+
+          $RESUMO"
+          git pull -q --rebase origin main
+          git push -q origin HEAD:main
+          gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" > /dev/null || echo "Aviso: não foi possível pedir a atualização do site."

@@ -6,7 +6,12 @@ Objetivo: os artigos publicados em `leis/` devem espelhar sempre o texto vigente
 
 O Planalto recusa conexões automatizadas (downloads por linha de comando ou de servidores em nuvem). Por isso, o texto é extraído de uma página aberta em um navegador comum, com `extrair-planalto.js`, e copiado pela área de transferência.
 
-## Rotina semanal (executada por tarefa agendada no computador do curador)
+## Conferência automática a cada 12 horas
+
+- **NR do MTE (`"tipo": "pdf-nr"`):** na nuvem do GitHub, pelo workflow `.github/workflows/conferencia-nr.yml` (6h17 e 18h17, horário de Brasília). Ele roda `nr.py --baixar` para cada NR, publica direto no `main` se algo mudar (inclusive só a data de conferência) e pede a atualização do GitHub Pages. Pode ser disparado à mão na aba Actions ("Run workflow"). Se o PDF não puder ser baixado ou validado, a execução falha e o GitHub avisa o dono do repositório por e-mail.
+- **Planalto, TST e TRT8:** esses sites bloqueiam acesso a partir de servidores de nuvem (testado em 07/11/2026: o Planalto recusa a conexão, o TST devolve página vazia de proteção contra robôs e o TRT8 responde 403). Eles são conferidos pela tarefa agendada no computador do curador, às 7h e às 19h, seguindo os passos abaixo. O acesso não é disfarçado nem contornado.
+
+### Passos da tarefa agendada (leis do Planalto)
 
 Para cada norma em `fontes/<lei>/config.json`:
 

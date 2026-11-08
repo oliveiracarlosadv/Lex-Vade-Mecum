@@ -404,7 +404,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 /* =========================================================================
    Lex Vade Mecum — página de consulta.
    Lê as leis diretamente de leis/<lei>/<lei>-completa.md (os mesmos arquivos
-   atualizados pela conferência semanal com o Planalto e o TST) e a lista de
+   atualizados pela conferência automática com as fontes oficiais) e a lista de
    leis da tabela "Acesso direto às leis" do README. Aberta como arquivo local,
    usa dados-offline.js, se existir.
    ========================================================================= */
@@ -641,7 +641,7 @@ function abrirSecao(id, sl) {
   return true;
 }
 function rodape() {
-  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto, TST e TRT8) e conferido semanalmente. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/manual">Manual de uso</a> · <a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
+  return `<div class="rodape"><b>Lex Vade Mecum</b> by <a href="#/sobre">Carlos A. A. Oliveira</a> — texto oficial reproduzido das fontes oficiais (Planalto, TST, TRT8 e MTE) e conferido automaticamente a cada 12 horas. As análises têm finalidade informativa e não constituem parecer jurídico.<br><a href="#/manual">Manual de uso</a> · <a href="#/sobre">Sobre o Lex Vade Mecum</a> · <a href="https://github.com/oliveiracarlosadv/Lex-Vade-Mecum" target="_blank" rel="noopener">Repositório no GitHub</a></div>`;
 }
 function inicio() {
   atual = null; desenharMenu(); desenharSumario();
@@ -673,7 +673,7 @@ function sobre() {
       <p>O conteúdo foi pensado também para ferramentas de inteligência artificial (Claude, GPT e similares): cada artigo traz sua localização na lei, as alterações legislativas e a análise, o que permite buscas precisas e respostas fundamentadas no texto vigente.</p>
     </div></section>
     <section class="secao"><h2>Como o texto se mantém atual</h2><div class="md">
-      <p>O texto oficial nunca é digitado à mão: ele é extraído das páginas do Planalto, do Tribunal Superior do Trabalho e do TRT da 8ª Região e conferido, artigo por artigo, antes de cada publicação. Toda semana uma rotina compara o texto publicado com o da fonte oficial. Quando um artigo muda, o texto é atualizado no mesmo dia, a análise daquele artigo recebe o aviso de revisão pendente e a mudança fica registrada no histórico da lei. A data da última conferência aparece no início de cada lei.</p>
+      <p>O texto oficial nunca é digitado à mão: ele é extraído das páginas do Planalto, do Tribunal Superior do Trabalho, do TRT da 8ª Região e do Ministério do Trabalho e Emprego e conferido, artigo por artigo, antes de cada publicação. A cada 12 horas uma rotina automática compara o texto publicado com o da fonte oficial. Quando um artigo muda, o texto é atualizado no mesmo dia, a análise daquele artigo recebe o aviso de revisão pendente e a mudança fica registrada no histórico da lei. A data da última conferência aparece no início de cada lei.</p>
       <p>As análises têm finalidade informativa e didática e não substituem a consulta ao texto oficial nem a orientação de um profissional habilitado.</p>
     </div></section>
     <section class="secao"><h2>O criador</h2>
