@@ -84,8 +84,8 @@ P: Fornecimento de remédio diferente da receita || Forma culposa
 K: receita médica; farmácia; medicamento
 
 @CP 282
-I: É crime exercer, mesmo gratuitamente, a profissão de médico, veterinário, dentista ou farmacêutico sem autorização legal ou além de seus limites. Com fim de lucro, aplica-se multa, e o agente responde também pela lesão grave ou morte que causar.
-P: Exercício ilegal da medicina e profissões correlatas || Multa se houver lucro || Responsabilidade por lesão ou morte
+I: É crime exercer, mesmo gratuitamente, a profissão de médico, veterinário, dentista ou farmacêutico sem autorização legal ou além de seus limites. Com fim de lucro, aplica-se multa. A Lei nº 15.425/2026 determinou que o agente responda também por lesão grave, homicídio ou crime contra animal que causar, e estendeu o crime a quem exerce a profissão com o registro suspenso ou cancelado.
+P: Exercício ilegal da medicina e profissões correlatas || Multa se houver lucro || Responsabilidade por lesão, morte ou dano a animal (Lei nº 15.425/2026) || Profissional com registro suspenso ou cancelado
 K: exercício ilegal da medicina; profissão regulamentada; saúde pública
 
 @CP 283

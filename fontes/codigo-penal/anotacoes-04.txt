@@ -9,7 +9,7 @@ P: Perigo concreto, direto e iminente || Subsidiariedade expressa || Aumento no 
 K: perigo para a vida; crime de perigo concreto; subsidiariedade
 
 @CP 133
-I: É crime abandonar pessoa sob seu cuidado, guarda, vigilância ou autoridade, incapaz de se defender dos riscos do abandono. A pena aumenta se resulta lesão grave ou morte, e em um terço se o abandono ocorre em lugar ermo, se o agente é parente, tutor ou curador, ou se a vítima tem mais de 60 anos.
+I: É crime abandonar pessoa sob seu cuidado, guarda, vigilância ou autoridade, incapaz de se defender dos riscos do abandono. As penas, elevadas pela Lei nº 15.163/2025, são de 2 a 5 anos, de 3 a 7 se resulta lesão grave e de 8 a 14 se resulta morte, com aumento de um terço se o abandono ocorre em lugar ermo, se o agente é parente, tutor ou curador, ou se a vítima tem mais de 60 anos.
 P: Dever de cuidado do agente || Incapacidade da vítima de se defender || Formas qualificadas e causas de aumento
 K: abandono de incapaz; dever de cuidado; crime de perigo
 
@@ -29,7 +29,7 @@ P: Proibição de exigir garantia no atendimento de emergência || Aumento por l
 K: cheque-caução; atendimento emergencial; hospital; Lei nº 12.653/2012
 
 @CP 136
-I: Maus-tratos é expor a perigo a vida ou a saúde de pessoa sob autoridade, guarda ou vigilância, para fins de educação, ensino, tratamento ou custódia, privando-a de alimentos ou cuidados, sujeitando-a a trabalho excessivo ou abusando dos meios de correção. A pena aumenta se resulta lesão grave ou morte e em um terço se a vítima tem menos de 14 anos.
+I: Maus-tratos é expor a perigo a vida ou a saúde de pessoa sob autoridade, guarda ou vigilância, para fins de educação, ensino, tratamento ou custódia, privando-a de alimentos ou cuidados, sujeitando-a a trabalho excessivo ou abusando dos meios de correção. As penas, elevadas pela Lei nº 15.163/2025, são de 2 a 5 anos, de 3 a 7 se resulta lesão grave e de 8 a 14 se resulta morte, com aumento de um terço se a vítima tem menos de 14 anos.
 P: Relação de autoridade, guarda ou vigilância || Abuso dos meios de correção ou disciplina || Aumento para vítima menor de 14 anos
 K: maus-tratos; abuso de correção; criança; dever de cuidado
 
