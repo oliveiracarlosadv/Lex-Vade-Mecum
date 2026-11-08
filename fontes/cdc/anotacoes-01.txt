@@ -1,0 +1,199 @@
+@CDC 1
+I: O CDC estabelece normas de proteção e defesa do consumidor de ordem pública e interesse social, cumprindo os arts. 5º, XXXII, e 170, V, da Constituição e o art. 48 do ADCT. Por serem de ordem pública, suas normas não podem ser afastadas por contrato e podem ser aplicadas pelo juiz de ofício, ressalvada a vedação de conhecer de ofício a abusividade em contratos bancários (Súmula 381 do STJ).
+P: Normas de ordem pública || Fundamento constitucional || Limite da Súmula 381 do STJ
+K: Código de Defesa do Consumidor; ordem pública; defesa do consumidor; Constituição
+
+@CDC 2
+I: Consumidor é a pessoa física ou jurídica que adquire ou usa produto ou serviço como destinatário final. O STJ adota a teoria finalista mitigada: em regra, só é consumidor quem retira o bem do mercado, mas admite pessoa jurídica ou profissional quando demonstrada vulnerabilidade técnica, jurídica ou econômica. A coletividade que intervém nas relações de consumo equipara-se a consumidor.
+P: Destinatário final || Teoria finalista mitigada (STJ) || Coletividade equiparada
+K: consumidor; destinatário final; teoria finalista; vulnerabilidade
+
+@CDC 3
+I: Fornecedor é toda pessoa física ou jurídica, pública ou privada, nacional ou estrangeira, ou ente despersonalizado que desenvolve atividade de produção, comercialização ou prestação de serviços no mercado. Produto é qualquer bem, e serviço é atividade remunerada no mercado, inclusive bancária, financeira, de crédito e securitária, exceto as trabalhistas. O STF confirmou a aplicação do CDC aos bancos (ADI 2.591) e o STJ editou a Súmula 297.
+P: Conceito amplo de fornecedor || Serviços bancários incluídos (ADI 2.591 e Súmula 297 do STJ) || Exclusão das relações trabalhistas
+K: fornecedor; produto; serviço; bancos; Súmula 297 STJ
+
+@CDC 4
+I: A Política Nacional das Relações de Consumo busca atender às necessidades dos consumidores com respeito à dignidade, saúde, segurança e interesses econômicos. Seus princípios incluem o reconhecimento da vulnerabilidade do consumidor, a ação governamental de proteção, a harmonização com boa-fé, a educação, o controle de qualidade, a repressão de abusos, a melhoria dos serviços públicos e, desde 2021, a educação financeira e a prevenção do superendividamento (Lei nº 14.181/2021).
+P: Vulnerabilidade presumida do consumidor || Boa-fé e harmonização || Prevenção do superendividamento
+K: política nacional de consumo; vulnerabilidade; boa-fé; superendividamento
+
+@CDC 5
+I: Para executar a política de consumo, o poder público conta com assistência jurídica gratuita, promotorias especializadas, delegacias de consumo, juizados e varas especializados, estímulo às associações e, desde 2021, mecanismos de tratamento do superendividamento e núcleos de conciliação.
+P: Instrumentos estatais de proteção || Juizados e promotorias especializados || Núcleos de conciliação do superendividamento
+K: Procon; promotoria do consumidor; juizados; superendividamento
+
+@CDC 6
+I: Lista os direitos básicos do consumidor: proteção da vida e da saúde, educação, informação clara (inclusive tributos e preço por unidade de medida), proteção contra publicidade enganosa e práticas abusivas, revisão de cláusulas desproporcionais ou excessivamente onerosas, reparação integral de danos materiais e morais, acesso à justiça, facilitação da defesa com inversão do ônus da prova e serviços públicos eficazes. A Lei nº 14.181/2021 incluiu crédito responsável e preservação do mínimo existencial. O STJ entende que a inversão do ônus da prova é regra de instrução, a ser decidida antes da sentença.
+P: Rol de direitos básicos || Inversão do ônus da prova por verossimilhança ou hipossuficiência || Mínimo existencial e crédito responsável
+K: direitos básicos; informação; inversão do ônus da prova; dano moral; mínimo existencial
+
+@CDC 7
+I: Os direitos do CDC não excluem outros previstos em tratados, leis, regulamentos e princípios gerais (diálogo das fontes). Havendo mais de um autor do dano, todos respondem solidariamente.
+P: Abertura a outras fontes || Diálogo das fontes || Solidariedade dos causadores do dano
+K: diálogo das fontes; solidariedade; responsabilidade
+
+@CDC 8
+I: Produtos e serviços não podem oferecer riscos à saúde ou segurança além dos normais e previsíveis, e o fornecedor deve informar adequadamente sobre eles; o fabricante presta essas informações em impressos que acompanham o produto, e o fornecedor deve higienizar equipamentos e utensílios e avisar sobre risco de contaminação (Lei nº 13.486/2017).
+P: Riscos normais e previsíveis || Dever de informar || Higienização de equipamentos
+K: segurança do consumidor; dever de informação; saúde
+
+@CDC 9
+I: Fornecedor de produtos ou serviços potencialmente nocivos ou perigosos deve informar de forma ostensiva e adequada sobre a nocividade ou periculosidade, sem prejuízo de outras medidas.
+P: Informação ostensiva || Produtos perigosos || Medidas adicionais de segurança
+K: produtos perigosos; informação ostensiva; periculosidade
+
+@CDC 10
+I: É proibido colocar no mercado produto ou serviço de alto grau de nocividade ou periculosidade. Descoberto o risco depois, o fornecedor deve comunicá-lo imediatamente às autoridades e aos consumidores por anúncios na imprensa, rádio e TV às suas custas (recall), e o poder público também deve informar.
+P: Proibição de produto de alto risco || Recall às custas do fornecedor || Dever de informação do poder público
+K: recall; periculosidade; comunicação de risco
+
+@CDC 12
+I: Fabricante, produtor, construtor e importador respondem objetivamente pelos danos causados por defeitos do produto (acidentes de consumo) e por informações insuficientes. Produto defeituoso é o que não oferece a segurança legitimamente esperada. Só se exoneram provando que não puseram o produto no mercado, que o defeito não existe ou culpa exclusiva do consumidor ou de terceiro.
+P: Responsabilidade objetiva pelo fato do produto || Conceito de defeito || Excludentes taxativas
+K: fato do produto; responsabilidade objetiva; defeito; acidente de consumo
+
+@CDC 13
+I: O comerciante responde pelo fato do produto apenas quando o fabricante não puder ser identificado, o produto não tiver identificação clara ou ele não conservar adequadamente perecíveis. Quem indenizar pode cobrar dos demais, mas o STJ veda a denunciação da lide nas relações de consumo (art. 88).
+P: Responsabilidade subsidiária do comerciante || Hipóteses legais || Direito de regresso
+K: comerciante; fato do produto; direito de regresso
+
+@CDC 14
+I: O fornecedor de serviços responde objetivamente pelos danos de serviços defeituosos e por informações inadequadas, salvo prova de inexistência do defeito ou culpa exclusiva do consumidor ou de terceiro. Profissionais liberais respondem mediante culpa. O STJ aplica o fortuito interno: fraudes e delitos praticados por terceiros em operações bancárias não afastam a responsabilidade da instituição (Súmula 479).
+P: Responsabilidade objetiva pelo fato do serviço || Profissional liberal responde por culpa || Fortuito interno (Súmula 479 do STJ)
+K: fato do serviço; responsabilidade objetiva; profissional liberal; fortuito interno; Súmula 479 STJ
+
+@CDC 17
+I: Para a responsabilidade pelo fato do produto e do serviço, todas as vítimas do evento equiparam-se a consumidores (bystander), mesmo sem relação contratual com o fornecedor.
+P: Consumidor por equiparação || Vítimas do acidente de consumo || Sem necessidade de contrato
+K: bystander; consumidor equiparado; vítima do evento
+
+@CDC 18
+I: Todos os fornecedores da cadeia respondem solidariamente pelos vícios de qualidade ou quantidade dos produtos. Não sanado o vício em 30 dias (prazo ajustável entre 7 e 180), o consumidor escolhe entre substituição, devolução do valor atualizado ou abatimento do preço, podendo exigi-los de imediato em produto essencial ou quando o reparo comprometer o bem. Define produtos impróprios ao consumo, como vencidos, deteriorados ou fora das normas.
+P: Solidariedade da cadeia || Prazo de 30 dias para sanar o vício || Escolha do consumidor e uso imediato em produto essencial
+K: vício do produto; solidariedade; troca; devolução do dinheiro; produto essencial
+
+@CDC 19
+I: Nos vícios de quantidade (conteúdo inferior ao indicado), o consumidor escolhe entre abatimento, complementação, substituição ou restituição; o fornecedor imediato responde se pesou ou mediu com instrumento não aferido.
+P: Vício de quantidade || Alternativas à escolha do consumidor || Responsabilidade por pesagem
+K: vício de quantidade; abatimento; complementação
+
+@CDC 20
+I: O fornecedor de serviços responde pelos vícios de qualidade, e o consumidor escolhe entre reexecução sem custo (inclusive por terceiro, por conta do fornecedor), restituição do valor ou abatimento do preço.
+P: Vício do serviço || Reexecução, devolução ou abatimento || Serviços impróprios
+K: vício do serviço; reexecução; abatimento
+
+@CDC 21
+I: No conserto de produtos, é implícita a obrigação de usar peças de reposição originais, adequadas e novas, ou que mantenham as especificações do fabricante, salvo autorização do consumidor.
+P: Peças originais e novas || Autorização para peças diversas || Serviços de reparo
+K: peças de reposição; conserto; assistência técnica
+
+@CDC 22
+I: Órgãos públicos, concessionárias e permissionárias devem prestar serviços adequados, eficientes, seguros e, os essenciais, contínuos, respondendo pelos danos. O STJ admite o corte de serviço essencial por inadimplemento atual, com aviso prévio, mas não por débitos antigos.
+P: Serviço público adequado || Continuidade dos essenciais || Corte só por débito atual e com aviso (STJ)
+K: serviço público; concessionária; continuidade; corte de energia
+
+@CDC 23
+I: A ignorância do fornecedor sobre os vícios de qualidade não o isenta de responsabilidade.
+P: Irrelevância do desconhecimento || Responsabilidade objetiva || Proteção do consumidor
+K: vício do produto; responsabilidade
+
+@CDC 24
+I: A garantia legal de adequação independe de termo escrito e não pode ser excluída por contrato.
+P: Garantia legal automática || Vedada a exoneração || Independe de termo
+K: garantia legal; vício; exoneração
+
+@CDC 25
+I: É nula a cláusula que impeça, exonere ou atenue a obrigação de indenizar. Havendo mais de um responsável, todos respondem solidariamente, inclusive o fabricante da peça e quem a incorporou.
+P: Vedação de cláusula de não indenizar || Solidariedade dos responsáveis || Peças incorporadas
+K: cláusula de não indenizar; solidariedade; responsabilidade
+
+@CDC 26
+I: O direito de reclamar de vícios caduca em 30 dias (serviços e produtos não duráveis) ou 90 dias (duráveis), contados da entrega ou do fim do serviço; no vício oculto, contam do momento em que o defeito aparece. A reclamação ao fornecedor até a resposta negativa e o inquérito civil obstam a decadência. O STJ considera, no vício oculto, o critério da vida útil do bem.
+P: 30 ou 90 dias para reclamar || Vício oculto conta da descoberta || Reclamação obsta o prazo
+K: decadência; vício aparente; vício oculto; prazo para reclamar
+
+@CDC 27
+I: A pretensão de reparação de danos por fato do produto ou do serviço prescreve em 5 anos, contados do conhecimento do dano e de sua autoria.
+P: Prescrição quinquenal || Termo inicial pelo conhecimento || Acidentes de consumo
+K: prescrição; fato do produto; acidente de consumo
+
+@CDC 28
+I: O juiz pode desconsiderar a personalidade jurídica em caso de abuso, excesso de poder, infração legal, ilícito, violação do contrato social ou insolvência por má administração, e sempre que a personalidade for obstáculo ao ressarcimento do consumidor (teoria menor, adotada pelo STJ). Sociedades de grupos e controladas respondem subsidiariamente, consorciadas solidariamente e coligadas por culpa.
+P: Teoria menor da desconsideração || Obstáculo ao ressarcimento basta || Responsabilidade dos grupos societários
+K: desconsideração da personalidade jurídica; teoria menor; grupo econômico
+
+@CDC 29
+I: Para as práticas comerciais e a proteção contratual, equiparam-se a consumidores todas as pessoas expostas a essas práticas, determináveis ou não.
+P: Consumidor exposto às práticas || Proteção preventiva || Aplicação aos Capítulos V e VI
+K: consumidor equiparado; práticas comerciais
+
+@CDC 30
+I: Informação ou publicidade suficientemente precisa vincula o fornecedor e integra o contrato (princípio da vinculação da oferta).
+P: Vinculação da oferta || Publicidade integra o contrato || Informação precisa
+K: oferta; vinculação; publicidade
+
+@CDC 31
+I: A oferta deve trazer informações corretas, claras, precisas, ostensivas e em português sobre características, preço, garantia, validade, origem e riscos; em produtos refrigerados, as informações devem ser gravadas de forma indelével.
+P: Informação completa e em português || Riscos à saúde || Produtos refrigerados
+K: oferta; informação; rotulagem
+
+@CDC 32
+I: Fabricantes e importadores devem garantir peças de reposição enquanto fabricarem ou importarem o produto e, depois, por período razoável.
+P: Peças de reposição || Período razoável após o fim da fabricação || Fabricantes e importadores
+K: peças de reposição; pós-venda
+
+@CDC 33
+I: Na venda por telefone ou reembolso postal, nome e endereço do fabricante devem constar da embalagem, publicidade e impressos; é proibida a publicidade por telefone quando a ligação for paga pelo consumidor.
+P: Identificação do fabricante || Venda a distância || Vedação de publicidade em ligação onerosa
+K: venda a distância; telemarketing; identificação do fornecedor
+
+@CDC 34
+I: O fornecedor responde solidariamente pelos atos de seus prepostos ou representantes autônomos.
+P: Responsabilidade por prepostos || Representantes autônomos || Solidariedade
+K: preposto; representante; solidariedade
+
+@CDC 35
+I: Se o fornecedor recusar cumprir a oferta, o consumidor escolhe entre exigir o cumprimento forçado, aceitar produto ou serviço equivalente ou desfazer o contrato com devolução do valor e perdas e danos.
+P: Cumprimento forçado da oferta || Produto equivalente || Rescisão com perdas e danos
+K: oferta; descumprimento; cumprimento forçado
+
+@CDC 36
+I: A publicidade deve ser identificada fácil e imediatamente como tal (vedação da publicidade disfarçada), e o fornecedor deve manter os dados que sustentam a mensagem.
+P: Identificação da publicidade || Vedação de publicidade oculta || Dados de sustentação
+K: publicidade; publicidade disfarçada; merchandising
+
+@CDC 37
+I: Proíbe a publicidade enganosa (falsa ou capaz de induzir em erro, inclusive por omissão de dado essencial) e a abusiva (discriminatória, que incite violência, explore medo, se aproveite da criança, desrespeite o meio ambiente ou induza a comportamento perigoso).
+P: Publicidade enganosa por ação ou omissão || Publicidade abusiva || Proteção da criança
+K: publicidade enganosa; publicidade abusiva; publicidade infantil
+
+@CDC 38
+I: O ônus de provar a veracidade e correção da publicidade é de quem a patrocina (inversão legal, independente de decisão do juiz).
+P: Ônus da prova do anunciante || Inversão legal || Veracidade da publicidade
+K: ônus da prova; publicidade
+
+@CDC 39
+I: Lista práticas abusivas (rol exemplificativo): venda casada, recusa de atendimento, envio de produto sem pedido (equiparado a amostra grátis), aproveitar-se da fraqueza do consumidor, vantagem excessiva, serviço sem orçamento, aumento de preço sem justa causa, falta de prazo para cumprir a obrigação, reajuste diverso do legal e lotação acima do permitido. O STJ considera prática abusiva o envio de cartão de crédito não solicitado (Súmula 532).
+P: Rol exemplificativo de práticas abusivas || Venda casada e envio sem pedido || Súmula 532 do STJ
+K: práticas abusivas; venda casada; amostra grátis; cartão não solicitado
+
+@CDC 40
+I: O fornecedor de serviço deve entregar orçamento prévio detalhado, válido por 10 dias salvo estipulação diversa; aprovado, obriga as partes, e o consumidor não paga acréscimos de serviços de terceiros não previstos.
+P: Orçamento prévio obrigatório || Validade de 10 dias || Vinculação após aprovação
+K: orçamento; prestação de serviços
+
+@CDC 41
+I: Em produtos ou serviços com preços controlados ou tabelados, o fornecedor deve respeitar os limites oficiais, restituindo o excesso corrigido, podendo o consumidor desfazer o negócio.
+P: Preços tabelados || Restituição do excesso || Desfazimento do negócio
+K: tabelamento de preços; restituição
+
+@CDC 42
+I: Na cobrança de dívidas, o consumidor não pode ser exposto ao ridículo, constrangido ou ameaçado. Quem pagar quantia indevida tem direito à devolução em dobro do excesso, salvo engano justificável. O STJ fixou que a devolução em dobro não depende de má-fé, bastando conduta contrária à boa-fé objetiva (EAREsp 676.608), com modulação de efeitos.
+P: Cobrança sem constrangimento || Repetição do indébito em dobro || Dispensa de prova de má-fé (STJ)
+K: cobrança de dívidas; repetição em dobro; indébito; constrangimento
+
+@CDC 42-A
+I: Todo documento de cobrança deve conter nome, endereço e CPF ou CNPJ do fornecedor.
+P: Identificação do credor || Documentos de cobrança || Transparência
+K: cobrança; identificação do fornecedor; CNPJ

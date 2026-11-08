@@ -1,0 +1,15 @@
+{
+ "nome": "Código de Defesa do Consumidor — CDC (Lei nº 8.078/1990)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+ "saida": "leis/cdc/cdc-completa.md",
+ "minimo_artigos": 110,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CDC",
+   "start": "TÍTULO I",
+   "end": "Brasília, 11 de setembro de 1990",
+   "self_name": "deste código"
+  }
+ ]
+}
