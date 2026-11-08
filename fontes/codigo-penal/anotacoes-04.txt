@@ -1,0 +1,224 @@
+@CP 131
+I: É crime praticar, com intenção de transmitir doença grave de que está contaminado, ato capaz de produzir o contágio. É crime formal: basta o ato com essa finalidade, ainda que a doença não seja transmitida.
+P: Dolo específico de transmitir a doença || Crime formal || Reclusão de 1 a 4 anos
+K: perigo de contágio; moléstia grave; crime de perigo
+
+@CP 132
+I: É crime expor a vida ou a saúde de outrem a perigo direto e iminente, se o fato não constitui crime mais grave (crime subsidiário). A pena aumenta se o perigo decorre do transporte de trabalhadores em desacordo com as normas legais, como no transporte irregular de boias-frias.
+P: Perigo concreto, direto e iminente || Subsidiariedade expressa || Aumento no transporte irregular de trabalhadores
+K: perigo para a vida; crime de perigo concreto; subsidiariedade
+
+@CP 133
+I: É crime abandonar pessoa sob seu cuidado, guarda, vigilância ou autoridade, incapaz de se defender dos riscos do abandono. A pena aumenta se resulta lesão grave ou morte, e em um terço se o abandono ocorre em lugar ermo, se o agente é parente, tutor ou curador, ou se a vítima tem mais de 60 anos.
+P: Dever de cuidado do agente || Incapacidade da vítima de se defender || Formas qualificadas e causas de aumento
+K: abandono de incapaz; dever de cuidado; crime de perigo
+
+@CP 134
+I: É crime expor ou abandonar recém-nascido para ocultar desonra própria. A pena é menor que a do abandono de incapaz por causa dessa motivação, e aumenta se resulta lesão grave ou morte.
+P: Finalidade de ocultar desonra própria || Formas qualificadas pelo resultado
+K: abandono de recém-nascido; exposição; desonra
+
+@CP 135
+I: É crime deixar de prestar assistência, quando possível sem risco pessoal, a criança abandonada ou extraviada, a pessoa inválida ou ferida, desamparada ou em grave perigo, ou deixar de pedir socorro à autoridade. A pena aumenta de metade se resulta lesão grave e é triplicada se resulta morte.
+P: Dever geral de solidariedade || Ausência de risco pessoal || Pedir socorro à autoridade também cumpre o dever
+K: omissão de socorro; crime omissivo próprio; dever de assistência
+
+@CP 135-A
+I: Incluído pela Lei nº 12.653/2012, o artigo pune quem exige cheque-caução, nota promissória, qualquer garantia ou o preenchimento prévio de formulários como condição para atendimento médico-hospitalar de emergência. A pena aumenta até o dobro se resulta lesão grave e até o triplo se resulta morte.
+P: Proibição de exigir garantia no atendimento de emergência || Aumento por lesão grave ou morte
+K: cheque-caução; atendimento emergencial; hospital; Lei nº 12.653/2012
+
+@CP 136
+I: Maus-tratos é expor a perigo a vida ou a saúde de pessoa sob autoridade, guarda ou vigilância, para fins de educação, ensino, tratamento ou custódia, privando-a de alimentos ou cuidados, sujeitando-a a trabalho excessivo ou abusando dos meios de correção. A pena aumenta se resulta lesão grave ou morte e em um terço se a vítima tem menos de 14 anos.
+P: Relação de autoridade, guarda ou vigilância || Abuso dos meios de correção ou disciplina || Aumento para vítima menor de 14 anos
+K: maus-tratos; abuso de correção; criança; dever de cuidado
+
+@CP 137
+I: É crime participar de rixa (briga tumultuada entre três ou mais pessoas), salvo para separar os brigões. Se resultar morte ou lesão grave, todos os participantes respondem pela forma qualificada, além de eventual responsabilidade pela lesão ou morte que causaram.
+P: Briga com pelo menos três participantes || Exceção para quem separa os contendores || Rixa qualificada por morte ou lesão grave
+K: rixa; briga; crime de perigo
+
+@CP 138
+I: Calúnia é atribuir falsamente a alguém fato definido como crime. Também responde quem propaga a imputação sabendo que é falsa, e é punível a calúnia contra os mortos. Admite-se a prova da verdade (exceção da verdade), salvo nas hipóteses do § 3º.
+P: Imputação falsa de fato criminoso || Quem divulga também responde || Calúnia contra os mortos || Exceção da verdade com restrições
+K: calúnia; crimes contra a honra; exceção da verdade; honra objetiva
+
+@CP 139
+I: Difamação é atribuir a alguém fato ofensivo à sua reputação, verdadeiro ou não. A exceção da verdade só é admitida se o ofendido é funcionário público e a ofensa se refere às suas funções.
+P: Fato ofensivo à reputação || Irrelevância da veracidade, como regra || Exceção da verdade só para funcionário público
+K: difamação; reputação; honra objetiva; crimes contra a honra
+
+@CP 140
+I: Injúria é ofender a dignidade ou o decoro de alguém, atingindo a honra subjetiva. O juiz pode deixar de aplicar a pena se houve provocação ou retorsão imediata. A injúria real (com violência ou vias de fato aviltantes) tem pena maior. A injúria que usa elementos de religião ou da condição de pessoa idosa ou com deficiência tem pena de reclusão de 1 a 3 anos. Desde a Lei nº 14.532/2023, a injúria racial passou para a Lei do Racismo (Lei nº 7.716/1989, art. 2º-A).
+P: Ofensa à dignidade ou ao decoro || Perdão judicial por provocação ou retorsão || Injúria real || Injúria por religião, idade ou deficiência || Injúria racial na Lei nº 7.716/1989
+K: injúria; honra subjetiva; injúria racial; injúria qualificada
+
+@CP 141
+I: As penas dos crimes contra a honra aumentam de um terço se cometidos contra o Presidente ou chefe de governo estrangeiro, contra funcionário público em razão da função ou contra os Presidentes do Senado, da Câmara ou do STF, na presença de várias pessoas ou por meio que facilite a divulgação, ou contra criança, adolescente, idoso ou pessoa com deficiência. A pena é dobrada se há paga ou promessa de recompensa, triplicada se o crime é cometido ou divulgado em redes sociais e dobrada se praticado contra a mulher por razões de gênero.
+P: Aumento de 1/3 pelas qualidades da vítima e pela publicidade || Pena em dobro por paga ou contra a mulher || Pena em triplo pelas redes sociais
+K: crimes contra a honra; causas de aumento; redes sociais; funcionário público
+
+@CP 142
+I: Não constituem injúria ou difamação punível a ofensa feita em juízo, na discussão da causa, pela parte ou seu procurador; a crítica literária, artística ou científica, salvo intenção inequívoca de ofender; e o conceito desfavorável dado por funcionário público no cumprimento do dever. Quem dá publicidade às ofensas dos incisos I e III responde por elas. O Estatuto da OAB também garante imunidade ao advogado (art. 7º, § 2º).
+P: Imunidade judiciária || Crítica literária, artística ou científica || Conceito emitido por funcionário no dever do ofício
+K: exclusão do crime; imunidade judiciária; crítica; crimes contra a honra
+
+@CP 143
+I: O querelado que, antes da sentença, se retrata por completo da calúnia ou da difamação fica isento de pena. Se a ofensa foi feita por meio de comunicação, a retratação pode ser feita pelos mesmos meios, se o ofendido quiser. A retratação não vale para a injúria.
+P: Retratação antes da sentença isenta de pena || Só na calúnia e na difamação || Retratação pelo mesmo meio de comunicação
+K: retratação; calúnia; difamação; extinção da punibilidade
+
+@CP 144
+I: Se, de referências, alusões ou frases ambíguas, se pode inferir calúnia, difamação ou injúria, o ofendido pode pedir explicações em juízo. Quem se recusa a dá-las ou as dá de forma insatisfatória responde pela ofensa.
+P: Pedido de explicações em juízo || Ofensa ambígua || Recusa leva à responsabilização
+K: pedido de explicações; interpelação judicial; crimes contra a honra
+
+@CP 145
+I: Nos crimes contra a honra, a ação penal é privada (queixa), salvo na injúria real com lesão corporal. É pública condicionada à requisição do Ministro da Justiça na ofensa ao Presidente ou chefe de governo estrangeiro, e à representação do ofendido na ofensa ao funcionário público em razão da função e na injúria do art. 140, § 3º. Pela Súmula 714 do STF, o funcionário ofendido pode escolher entre queixa e representação.
+P: Ação privada como regra || Ação pública condicionada em casos específicos || Legitimidade concorrente do funcionário público (Súmula 714 do STF)
+K: ação penal; crimes contra a honra; queixa; representação; Súmula 714
+
+@CP 146
+I: Constrangimento ilegal é forçar alguém, por violência, grave ameaça ou redução da capacidade de resistência, a não fazer o que a lei permite ou a fazer o que ela não manda. As penas são cumuladas e dobradas se participam mais de três pessoas ou há uso de armas. Não é crime a intervenção médica sem consentimento em iminente perigo de vida nem a coação para impedir suicídio.
+P: Constrangimento por violência ou grave ameaça || Aumento por mais de três pessoas ou armas || Exceções da intervenção médica urgente e do impedimento de suicídio
+K: constrangimento ilegal; liberdade individual; coação
+
+@CP 146-A
+I: Incluído pela Lei nº 14.811/2024, o artigo pune a intimidação sistemática (bullying): intimidar de forma intencional e repetitiva, sozinho ou em grupo, por violência física ou psicológica, com humilhação ou discriminação, sem motivação evidente. A pena é de multa, se não houver crime mais grave. Na forma virtual (cyberbullying), por internet, redes sociais, aplicativos ou jogos on-line, a pena é de reclusão de 2 a 4 anos e multa.
+P: Bullying punido com multa || Cyberbullying com reclusão de 2 a 4 anos || Subsidiariedade expressa
+K: bullying; cyberbullying; intimidação sistemática; Lei nº 14.811/2024
+
+@CP 147
+I: Ameaça é prometer a alguém, por palavra, escrito, gesto ou outro meio, mal injusto e grave. A ação depende de representação, salvo quando o crime é cometido contra a mulher por razões de gênero, caso em que a pena é dobrada e a ação é incondicionada (Lei nº 14.994/2024).
+P: Promessa de mal injusto e grave || Ação condicionada à representação, em regra || Pena em dobro e ação incondicionada contra a mulher por razões de gênero
+K: ameaça; liberdade individual; violência contra a mulher; representação
+
+@CP 147-A
+I: Incluído pela Lei nº 14.132/2021, o crime de perseguição (stalking) é perseguir alguém repetidamente, por qualquer meio, ameaçando sua integridade física ou psicológica, restringindo sua locomoção ou invadindo sua liberdade ou privacidade. A pena aumenta de metade contra criança, adolescente, idoso ou mulher por razões de gênero, ou com concurso de pessoas ou uso de arma. A ação depende de representação.
+P: Perseguição reiterada (stalking) || Aumento de metade em casos específicos || Ação condicionada à representação
+K: perseguição; stalking; Lei nº 14.132/2021; violência contra a mulher
+
+@CP 147-B
+I: Incluído pela Lei nº 14.188/2021, o crime de violência psicológica contra a mulher é causar-lhe dano emocional que prejudique seu desenvolvimento ou vise degradar ou controlar suas ações, por ameaça, humilhação, manipulação, isolamento, chantagem, ridicularização ou outro meio. A pena aumenta de metade se usada inteligência artificial ou recurso que altere imagem ou som da vítima (Lei nº 15.123/2025).
+P: Dano emocional à mulher || Controle e degradação || Aumento pelo uso de inteligência artificial (Lei nº 15.123/2025)
+K: violência psicológica; violência contra a mulher; inteligência artificial; Lei nº 14.188/2021
+
+@CP 147-C
+I: Incluído pela Lei nº 15.358/2026, o artigo pune com reclusão de 1 a 3 anos a ameaça feita no contexto da atuação, ou para a consecução das condutas, das organizações criminosas previstas na lei do marco legal do combate ao crime organizado. É forma muito mais grave que a ameaça comum do art. 147.
+P: Ameaça ligada ao crime organizado || Reclusão de 1 a 3 anos || Remissão ao marco legal do combate ao crime organizado
+K: ameaça; crime organizado; Lei nº 15.358/2026
+
+@CP 148
+I: Sequestro e cárcere privado é privar alguém da liberdade (reclusão de 1 a 3 anos). A pena é de 2 a 5 anos se a vítima é parente, cônjuge ou maior de 60 anos, se há internação em casa de saúde, se dura mais de 15 dias, se a vítima é menor de 18 anos ou se há fins libidinosos, e de 2 a 8 anos se causa grave sofrimento. Se cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia, a pena é de 12 a 20 anos (Lei nº 15.358/2026).
+P: Privação da liberdade || Formas qualificadas || Grave sofrimento físico ou moral || Forma ligada ao crime organizado (Lei nº 15.358/2026)
+K: sequestro; cárcere privado; liberdade de locomoção; crime permanente
+
+@CP 149
+I: É crime reduzir alguém a condição análoga à de escravo, por trabalhos forçados, jornada exaustiva, condições degradantes ou restrição de locomoção por dívida. Também responde quem retém o trabalhador cerceando transporte, mantendo vigilância ostensiva ou retendo documentos. A pena aumenta de metade contra criança ou adolescente ou por preconceito.
+P: Trabalho escravo contemporâneo || Jornada exaustiva e condições degradantes || Servidão por dívida || Aumento por preconceito e contra crianças
+K: trabalho escravo; condição análoga à de escravo; jornada exaustiva; condições degradantes
+
+@CP 149-A
+I: Incluído pela Lei nº 13.344/2016, o tráfico de pessoas é agenciar, recrutar, transportar, comprar ou alojar pessoa mediante grave ameaça, violência, coação, fraude ou abuso, para remover órgãos, submeter a trabalho escravo ou servidão, adoção ilegal ou exploração sexual. A pena é de 4 a 8 anos, aumentada de um terço se o agente é funcionário público, se a vítima é criança, idoso ou pessoa com deficiência, se há abuso de relação de confiança ou se a vítima é levada para o exterior. Reduz-se para o primário que não integre organização criminosa.
+P: Tráfico de pessoas e suas finalidades || Meios: violência, fraude, coação ou abuso || Aumento de 1/3 || Redução para o primário não integrante de organização criminosa
+K: tráfico de pessoas; exploração sexual; trabalho escravo; Lei nº 13.344/2016
+
+@CP 150
+I: Violação de domicílio é entrar ou permanecer em casa alheia sem consentimento, clandestina ou astuciosamente. A pena é maior à noite, em lugar ermo, com violência, arma ou duas ou mais pessoas. Não é crime entrar de dia para cumprir prisão ou diligência com as formalidades legais, ou a qualquer hora em caso de crime em andamento. "Casa" inclui o local de trabalho não aberto ao público e o quarto de habitação coletiva, mas não a hospedaria aberta nem a taverna. A garantia está no art. 5º, XI, da Constituição.
+P: Proteção do domicílio (CF, art. 5º, XI) || Formas qualificadas || Exceções do flagrante e das diligências legais || Conceito penal de casa
+K: violação de domicílio; inviolabilidade do domicílio; casa; flagrante
+
+@CP 151
+I: É crime devassar correspondência fechada dirigida a outra pessoa, apossar-se dela, sonegá-la ou destruí-la, e divulgar ou impedir comunicações telegráficas, radioelétricas ou telefônicas alheias. A pena aumenta se há dano ou abuso de função. A violação de correspondência postal hoje é tratada também na Lei nº 6.538/1978, e a interceptação telefônica, na Lei nº 9.296/1996.
+P: Sigilo da correspondência (CF, art. 5º, XII) || Sonegação e destruição || Comunicações telefônicas e radioelétricas
+K: violação de correspondência; sigilo; comunicação telefônica
+
+@CP 152
+I: É crime o sócio ou empregado de estabelecimento comercial ou industrial abusar de sua condição para desviar, sonegar, subtrair ou suprimir correspondência da empresa, ou revelar seu conteúdo a estranhos. A ação depende de representação.
+P: Abuso da condição de sócio ou empregado || Correspondência comercial || Ação condicionada à representação
+K: correspondência comercial; sigilo empresarial; representação
+
+@CP 153
+I: É crime divulgar, sem justa causa, documento particular ou correspondência confidencial capaz de causar dano a outra pessoa, e divulgar informações sigilosas ou reservadas da Administração Pública. A ação depende de representação, salvo se houver prejuízo para a Administração.
+P: Divulgação de segredo || Informações sigilosas da Administração Pública || Ação incondicionada se houver prejuízo para a Administração
+K: divulgação de segredo; sigilo; informação sigilosa
+
+@CP 154
+I: É crime revelar, sem justa causa, segredo conhecido em razão de função, ministério, ofício ou profissão, cuja revelação possa causar dano. Abrange médicos, advogados, psicólogos e religiosos, entre outros. A ação depende de representação.
+P: Segredo profissional || Ausência de justa causa || Ação condicionada à representação
+K: segredo profissional; sigilo; violação do segredo profissional
+
+@CP 154-A
+I: Incluído pela Lei nº 12.737/2012 (Lei Carolina Dieckmann), o artigo pune quem invade dispositivo informático alheio para obter, adulterar ou destruir dados sem autorização, ou para instalar vulnerabilidades. A pena (1 a 4 anos, desde a Lei nº 14.155/2021) aumenta se há prejuízo econômico, é maior (2 a 5 anos) se obtém comunicações privadas, segredos ou controle remoto, e aumenta se os dados forem divulgados ou se a vítima for alta autoridade.
+P: Invasão de dispositivo informático || Produção e venda de programas para invasão || Obtenção de comunicações privadas e controle remoto || Aumento contra altas autoridades
+K: invasão de dispositivo informático; crime cibernético; Lei Carolina Dieckmann; Lei nº 14.155/2021
+
+@CP 154-B
+I: Nos crimes de invasão de dispositivo informático, a ação depende de representação, salvo se praticados contra a administração pública direta ou indireta de qualquer Poder ou ente federativo, ou contra concessionárias de serviços públicos.
+P: Ação condicionada à representação || Ação incondicionada contra a Administração e concessionárias
+K: ação penal; invasão de dispositivo; representação
+
+@CP 155
+I: Furto é subtrair coisa alheia móvel, com pena de 1 a 6 anos desde a Lei nº 15.397/2026. Aumenta de metade no repouso noturno, e o furto privilegiado (primário e coisa de pequeno valor) permite reduzir a pena ou aplicar só multa. A energia elétrica equipara-se a coisa móvel. O furto qualificado (2 a 8 anos) inclui rompimento de obstáculo, abuso de confiança, fraude, escalada, destreza, chave falsa, concurso de pessoas e bens que afetem serviços essenciais. Há penas de 4 a 10 anos para furto com explosivo, fraude eletrônica, veículo levado a outro Estado, celulares e computadores, animais, explosivos, armas de fogo, combustíveis e furto por integrante de organização criminosa, e de 2 a 8 anos para cabos e equipamentos de energia, telefonia e dados.
+P: Furto simples e furto noturno || Furto privilegiado || Furto qualificado (§ 4º) || Novas formas qualificadas das Leis nº 15.397/2026, 15.517/2026 e 15.358/2026 || Furto mediante fraude eletrônica
+K: furto; furto qualificado; furto privilegiado; furto de celular; fraude eletrônica
+
+@CP 156
+I: É crime o condômino, coerdeiro ou sócio subtrair a coisa comum de quem a detém legitimamente. A ação depende de representação, e não é punível a subtração de coisa fungível cujo valor não exceda a cota do agente.
+P: Subtração de coisa comum || Ação condicionada à representação || Atipicidade dentro da cota-parte fungível
+K: furto de coisa comum; condomínio; representação
+
+@CP 157
+I: Roubo é subtrair coisa móvel alheia com violência ou grave ameaça, com pena de 6 a 10 anos desde a Lei nº 15.397/2026. O roubo impróprio ocorre quando a violência é usada logo depois da subtração. A pena aumenta de um terço até metade em hipóteses como concurso de pessoas, transporte de valores, restrição da liberdade da vítima, arma branca e subtração de celulares, armas, cabos ou combustíveis, e de dois terços com arma de fogo ou explosivo. Com arma de uso restrito, a pena dobra. O latrocínio (roubo com morte) tem pena de 24 a 30 anos. Se praticado por organização criminosa ultraviolenta ou milícia, a pena é triplicada, e o latrocínio vai a 20 a 40 anos.
+P: Roubo próprio e impróprio || Causas de aumento de 1/3 até metade e de 2/3 || Arma de fogo de uso restrito dobra a pena || Latrocínio: 24 a 30 anos || Roubo por organização criminosa (Lei nº 15.358/2026)
+K: roubo; latrocínio; arma de fogo; roubo majorado; crime hediondo
+
+@CP 158
+I: Extorsão é constranger alguém, por violência ou grave ameaça, a fazer, tolerar ou deixar de fazer algo para obter vantagem econômica indevida. A pena aumenta com concurso de pessoas ou arma. Com restrição da liberdade da vítima necessária à obtenção da vantagem (sequestro relâmpago), a pena é de 6 a 12 anos. Se praticada por organização criminosa ou milícia, a pena é triplicada (Lei nº 15.358/2026).
+P: Constrangimento para obter vantagem econômica || Sequestro relâmpago (§ 3º) || Pena triplicada no crime organizado
+K: extorsão; sequestro relâmpago; vantagem econômica; milícia
+
+@CP 159
+I: Extorsão mediante sequestro é sequestrar pessoa para obter vantagem como condição ou preço do resgate, com pena de 8 a 15 anos, maior se o sequestro dura mais de 24 horas, se a vítima é menor de 18 ou maior de 60 anos, se praticado por associação criminosa, se resulta lesão grave ou morte (até 30 anos). O concorrente que denuncia o crime e facilita a libertação tem a pena reduzida (delação premiada). É crime hediondo.
+P: Sequestro para obter resgate || Formas qualificadas || Delação premiada com redução de 1/3 a 2/3 || Crime hediondo
+K: extorsão mediante sequestro; resgate; delação premiada; crime hediondo
+
+@CP 160
+I: Extorsão indireta é exigir ou receber, como garantia de dívida e abusando da situação de alguém, documento que possa dar causa a processo criminal contra a vítima ou terceiro, como um cheque sem fundos dado em garantia.
+P: Garantia de dívida com documento comprometedor || Abuso da situação da vítima
+K: extorsão indireta; garantia de dívida; agiotagem
+
+@CP 161
+I: O artigo pune a alteração de limites (mover marcos para se apropriar de imóvel alheio), a usurpação de águas alheias e o esbulho possessório (invadir terreno ou edifício alheio com violência, grave ameaça ou mais de duas pessoas). Se a propriedade é particular e não há violência, a ação é privada.
+P: Alteração de limites || Usurpação de águas || Esbulho possessório || Ação privada se não há violência em propriedade particular
+K: usurpação; esbulho possessório; alteração de limites; águas
+
+@CP 162
+I: É crime suprimir ou alterar, sem direito, marca ou sinal de propriedade em gado ou rebanho alheio.
+P: Supressão ou alteração de marca em animais || Proteção da propriedade rural
+K: marca em animais; gado; usurpação
+
+@CP 163
+I: Dano é destruir, inutilizar ou deteriorar coisa alheia. É qualificado se há violência ou grave ameaça, uso de inflamável ou explosivo, se atinge patrimônio público ou de concessionária, ou se há motivo egoístico ou prejuízo considerável. A ação é privada no dano simples e no qualificado por motivo egoístico (art. 167).
+P: Destruir, inutilizar ou deteriorar coisa alheia || Dano qualificado || Dano ao patrimônio público
+K: dano; dano qualificado; patrimônio público
+
+@CP 164
+I: É crime introduzir ou deixar animais em propriedade alheia, sem consentimento, se disso resultar prejuízo. A ação é privada.
+P: Introdução de animais em propriedade alheia || Exige prejuízo || Ação privada
+K: animais; propriedade alheia; dano
+
+@CP 165
+I: É crime destruir, inutilizar ou deteriorar coisa tombada por valor artístico, arqueológico ou histórico. O tema também é tratado pela Lei de Crimes Ambientais (Lei nº 9.605/1998, art. 62), que em grande parte absorveu o dispositivo.
+P: Proteção do patrimônio cultural tombado || Relação com a Lei nº 9.605/1998
+K: patrimônio histórico; tombamento; dano; patrimônio cultural
+
+@CP 166
+I: É crime alterar, sem licença, o aspecto de local especialmente protegido por lei. A Lei de Crimes Ambientais (Lei nº 9.605/1998, art. 63) trata de conduta semelhante.
+P: Alteração de local protegido || Exigência de licença || Relação com a Lei nº 9.605/1998
+K: local protegido; patrimônio; crimes ambientais
+
+@CP 167
+I: No dano simples, no dano qualificado por motivo egoístico ou prejuízo considerável e na introdução de animais em propriedade alheia, a ação é privada, dependendo de queixa.
+P: Ação privada nos crimes de dano menos graves
+K: ação penal privada; dano; queixa
