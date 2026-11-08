@@ -32063,7 +32063,7 @@ A limitada dissolve-se de pleno direito pelas causas do art. 1.044.
 
 ### Art. 1.088
 
-**Localização:** PARTE ESPECIAL › LIVRO II — DO DIREITO DE EMPRESA › TÍTULO II — DA SOCIEDADE › SUBTÍTULO II — DA SOCIEDADE PERSONIFICADA › CAPÍTULO V — DA SOCIEDADE ANÔNIMA Seção Única Da Caracterização
+**Localização:** PARTE ESPECIAL › LIVRO II — DO DIREITO DE EMPRESA › TÍTULO II — DA SOCIEDADE › SUBTÍTULO II — DA SOCIEDADE PERSONIFICADA › CAPÍTULO V — DA SOCIEDADE ANÔNIMA › SEÇÃO Única — Da Caracterização
 
 Art. 1.088. Na sociedade anônima ou companhia, o capital divide-se em ações, obrigando-se cada sócio ou acionista somente pelo preço de emissão das ações que subscrever ou adquirir.
 
@@ -32090,7 +32090,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 ### Art. 1.089
 
-**Localização:** PARTE ESPECIAL › LIVRO II — DO DIREITO DE EMPRESA › TÍTULO II — DA SOCIEDADE › SUBTÍTULO II — DA SOCIEDADE PERSONIFICADA › CAPÍTULO V — DA SOCIEDADE ANÔNIMA Seção Única Da Caracterização
+**Localização:** PARTE ESPECIAL › LIVRO II — DO DIREITO DE EMPRESA › TÍTULO II — DA SOCIEDADE › SUBTÍTULO II — DA SOCIEDADE PERSONIFICADA › CAPÍTULO V — DA SOCIEDADE ANÔNIMA › SEÇÃO Única — Da Caracterização
 
 Art. 1.089. A sociedade anônima rege-se por lei especial, aplicando-se-lhe, nos casos omissos, as disposições deste Código.
 
