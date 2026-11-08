@@ -1,0 +1,274 @@
+@CTB 59
+I: A circulação de bicicletas nas calçadas só é permitida quando autorizada e sinalizada pelo órgão com circunscrição sobre a via.
+P: Bicicleta na calçada só com autorização || Sinalização obrigatória || Proteção do pedestre
+K: bicicleta; calçada; passeio
+
+@CTB 60
+I: Classifica as vias urbanas em de trânsito rápido, arterial, coletora e local, e as rurais em rodovias (pavimentadas) e estradas (não pavimentadas), classificação que define os limites de velocidade sem sinalização.
+P: Vias urbanas em quatro tipos || Rodovias e estradas || Base para os limites de velocidade
+K: classificação das vias; via arterial; via local; rodovia
+
+@CTB 61
+I: A velocidade máxima é a indicada pela sinalização; sem ela, vale: 80 km/h nas vias de trânsito rápido, 60 nas arteriais, 40 nas coletoras e 30 nas locais; nas rodovias de pista dupla, 110 km/h para automóveis, camionetas e motos e 90 para os demais; nas de pista simples, 100 e 90; nas estradas, 60 km/h (Lei nº 14.440/2022). O órgão pode fixar limites diferentes por sinalização.
+P: Limites urbanos de 30 a 80 km/h || Rodovias: 110/90 (pista dupla) e 100/90 (pista simples) || Sinalização prevalece
+K: limite de velocidade; velocidade máxima; rodovia; Lei 14.440/2022
+
+@CTB 62
+I: A velocidade mínima não pode ser inferior à metade da máxima da via, respeitadas as condições do trânsito.
+P: Velocidade mínima de metade da máxima || Condições operacionais || Evitar obstrução do fluxo
+K: velocidade mínima
+
+@CTB 64
+I: Crianças menores de 10 anos que não alcançaram 1,45 m devem ser transportadas no banco traseiro, em dispositivo de retenção adequado à idade, peso e altura (cadeirinha, assento de elevação), salvo exceções do CONTRAN (Lei nº 14.071/2020).
+P: Banco traseiro até 10 anos e 1,45 m || Cadeirinha adequada || Exceções regulamentadas
+K: cadeirinha; criança; dispositivo de retenção; banco traseiro
+
+@CTB 65
+I: O cinto de segurança é obrigatório para condutor e todos os passageiros em todas as vias do país, salvo situações regulamentadas pelo CONTRAN.
+P: Cinto obrigatório para todos || Todas as vias || Exceções do CONTRAN
+K: cinto de segurança
+
+@CTB 67
+I: Provas ou competições esportivas em vias abertas exigem permissão da autoridade de trânsito, autorização da confederação esportiva, caução, seguro em favor de terceiros e pagamento dos custos operacionais.
+P: Permissão prévia || Caução e seguro || Custos operacionais
+K: competição esportiva; evento na via; autorização
+
+@CTB 67-A
+I: O capítulo sobre condução por motoristas profissionais aplica-se aos condutores de transporte rodoviário coletivo de passageiros e de cargas (Lei nº 13.103/2015, Lei do Motorista).
+P: Motoristas profissionais de passageiros e cargas || Lei nº 13.103/2015 || Segurança rodoviária
+K: motorista profissional; Lei do Motorista; transporte rodoviário
+
+@CTB 67-C
+I: O motorista profissional não pode dirigir mais de 5h30 ininterruptas; deve descansar 30 minutos a cada 6 horas (carga) ou a cada 4 horas (passageiros) e cumprir 11 horas de descanso a cada 24 horas, com 8 horas ininterruptas no primeiro período. Admite-se prorrogação em situação excepcional justificada até local seguro. Pontos da Lei nº 13.103/2015 sobre descanso foram examinados pelo STF na ADI 5.322.
+P: Limite de 5h30 contínuas ao volante || Descanso de 11 horas por dia || Exceção para chegar a local seguro
+K: tempo de direção; descanso do motorista; ADI 5322; Lei 13.103/2015
+
+@CTB 67-E
+I: O motorista profissional controla e registra o tempo de condução, por tacógrafo, diário de bordo, ficha ou meio eletrônico, e responde pelas penalidades se descumprir os descansos, salvo a situação excepcional prevista em lei para cargas (Lei nº 14.440/2022).
+P: Registro do tempo de direção || Tacógrafo e diário de bordo || Responsabilidade do motorista
+K: tacógrafo; diário de bordo; tempo de direção
+
+@CTB 68
+I: O pedestre tem direito de usar calçadas, passagens e acostamentos; sem calçada, circula na pista com prioridade, pelos bordos e em fila única (em sentido contrário aos veículos nas rodovias). O ciclista desmontado empurrando a bicicleta equipara-se ao pedestre, e o órgão deve sinalizar e proteger passagens obstruídas.
+P: Direito de usar calçadas || Prioridade do pedestre na pista sem calçada || Ciclista desmontado é pedestre
+K: pedestre; calçada; prioridade
+
+@CTB 69
+I: Para atravessar, o pedestre deve usar a faixa ou passagem se houver uma a até 50 metros, obedecer ao semáforo de pedestres ou aguardar a interrupção do fluxo e, sem faixa, cruzar perpendicularmente e sem demora.
+P: Uso da faixa a até 50 metros || Respeito ao semáforo || Travessia perpendicular
+K: travessia; faixa de pedestres; pedestre
+
+@CTB 70
+I: O pedestre na faixa tem prioridade de passagem; nos semáforos, tem preferência para concluir a travessia mesmo que o sinal abra para os veículos.
+P: Prioridade na faixa de pedestres || Preferência para concluir a travessia || Semáforos
+K: faixa de pedestres; prioridade; travessia
+
+@CTB 71
+I: O órgão com circunscrição sobre a via deve manter as faixas e passagens de pedestres visíveis, limpas, seguras e sinalizadas.
+P: Manutenção das faixas || Visibilidade e segurança || Dever do poder público
+K: faixa de pedestres; manutenção; sinalização
+
+@CTB 72
+I: Todo cidadão ou entidade pode pedir por escrito aos órgãos de trânsito sinalização, fiscalização e equipamentos de segurança, e sugerir mudanças nas normas.
+P: Direito de petição em trânsito || Pedido de sinalização e fiscalização || Participação cidadã
+K: cidadão; solicitação; participação
+
+@CTB 73
+I: Os órgãos de trânsito devem analisar e responder por escrito às solicitações, justificando e informando quando serão atendidas, e as campanhas devem explicar como fazê-las.
+P: Dever de resposta escrita || Justificativa || Divulgação nas campanhas
+K: resposta ao cidadão; órgão de trânsito
+
+@CTB 74
+I: A educação para o trânsito é direito de todos e dever prioritário do SNT, que deve ter coordenação educacional em cada órgão e manter Escolas Públicas de Trânsito.
+P: Educação como direito e dever prioritário || Coordenação educacional obrigatória || Escolas Públicas de Trânsito
+K: educação para o trânsito; escola pública de trânsito
+
+@CTB 75
+I: O CONTRAN fixa anualmente temas e cronogramas das campanhas nacionais, especialmente nas férias, feriados e na Semana Nacional de Trânsito; rádios e TVs públicas devem divulgá-las gratuitamente.
+P: Campanhas nacionais anuais || Semana Nacional de Trânsito || Divulgação gratuita nas emissoras públicas
+K: campanhas educativas; Semana Nacional de Trânsito
+
+@CTB 76
+I: A educação para o trânsito deve estar presente da pré-escola ao ensino superior, com currículo interdisciplinar, formação de professores, estudos estatísticos e planos de redução de sinistros com universidades (Lei nº 14.599/2023).
+P: Educação de trânsito em todos os níveis || Formação de professores || Planos de redução de sinistros
+K: educação para o trânsito; escolas; currículo
+
+@CTB 77
+I: O Ministério da Saúde, por proposta do CONTRAN, mantém campanha permanente pelo SUS sobre primeiros socorros em sinistros de trânsito.
+P: Campanha de primeiros socorros || SUS || Caráter permanente
+K: primeiros socorros; Ministério da Saúde; SUS
+
+@CTB 77-A
+I: Garante aos órgãos do SNT os mecanismos dos arts. 77-B a 77-E para veicular mensagens educativas, de forma suplementar às campanhas oficiais.
+P: Mensagens educativas suplementares || Publicidade da indústria automobilística || Base dos arts. 77-B a 77-E
+K: mensagem educativa; publicidade
+
+@CTB 77-B
+I: Toda publicidade de veículos, peças e acessórios em rádio, TV, jornal, revista ou outdoor deve incluir mensagem educativa de trânsito, obrigação do fabricante e equiparados (montador, importador, revendedor autorizado).
+P: Mensagem educativa obrigatória na publicidade de veículos || Meios abrangidos || Fabricante e equiparados responsáveis
+K: publicidade automotiva; mensagem educativa
+
+@CTB 77-C
+I: Em outdoors à margem de rodovias, a mensagem educativa é obrigatória em qualquer publicidade, inclusive institucional ou eleitoral.
+P: Outdoors em rodovias || Qualquer anunciante || Inclui propaganda eleitoral
+K: outdoor; rodovia; mensagem educativa
+
+@CTB 77-D
+I: O CONTRAN especifica o conteúdo, o padrão e os procedimentos de veiculação das mensagens educativas.
+P: Padronização pelo CONTRAN || Conteúdo das mensagens || Alinhamento com as campanhas
+K: CONTRAN; mensagem educativa
+
+@CTB 77-E
+I: A publicidade sem a mensagem educativa sujeita a advertência, suspensão de outras propagandas do produto por até 60 dias e multa de R$ 1.627 a R$ 8.135 (dobrada até quintuplicada na reincidência), além da suspensão imediata da peça.
+P: Sanções pela falta de mensagem educativa || Multa e suspensão || Reincidência agrava
+K: publicidade; multa; sanção
+
+@CTB 78
+I: Os Ministérios da Saúde, Educação, Trabalho, Transportes e Justiça, via CONTRAN, desenvolvem programas de prevenção de sinistros, financiados por até 5% da parcela do SPVAT (seguro obrigatório que substituiu o DPVAT) destinada à Seguridade Social (LC nº 207/2024).
+P: Programas interministeriais de prevenção || Financiamento pelo SPVAT || LC nº 207/2024
+K: SPVAT; DPVAT; prevenção de sinistros; seguro obrigatório
+
+@CTB 79
+I: Os órgãos de trânsito podem firmar convênios com os órgãos de educação de todos os entes para cumprir as obrigações educativas do Código.
+P: Convênios com a educação || Cooperação federativa || Educação para o trânsito
+K: convênio; educação
+
+@CTB 80
+I: Só se usa a sinalização prevista no CTB e normas complementares, colocada de forma visível e legível dia e noite; a Senatran pode autorizar sinalização experimental. Em condomínios e estacionamentos privados de uso coletivo, a sinalização cabe ao proprietário.
+P: Sinalização oficial padronizada || Visibilidade dia e noite || Responsabilidade privada em condomínios
+K: sinalização; condomínio; Senatran
+
+@CTB 81
+I: É proibido colocar nas vias e imóveis luzes, publicidade, vegetação ou mobiliário que confundam ou prejudiquem a visibilidade da sinalização.
+P: Proteção da visibilidade da sinalização || Publicidade e vegetação || Segurança do trânsito
+K: sinalização; publicidade; visibilidade
+
+@CTB 82
+I: É proibido afixar publicidade ou símbolos sobre ou junto à sinalização e seus suportes.
+P: Sinalização livre de publicidade || Suportes protegidos || Clareza da mensagem
+K: placas; publicidade; sinalização
+
+@CTB 83
+I: Publicidade ao longo das vias depende de aprovação prévia do órgão com circunscrição.
+P: Aprovação prévia || Publicidade nas vias || Controle do órgão de trânsito
+K: publicidade; outdoor; autorização
+
+@CTB 84
+I: O órgão pode retirar ou mandar retirar qualquer elemento que prejudique a visibilidade da sinalização, às custas de quem o colocou.
+P: Remoção de obstáculos visuais || Custos para o responsável || Poder de polícia
+K: remoção; sinalização; visibilidade
+
+@CTB 85
+I: Os locais de travessia de pedestres definidos pelo órgão devem ser sinalizados com faixas pintadas ou demarcadas no leito da via.
+P: Faixas de pedestres demarcadas || Dever do órgão || Segurança da travessia
+K: faixa de pedestres; sinalização horizontal
+
+@CTB 86
+I: Postos de combustível, oficinas, estacionamentos e garagens coletivas devem ter entradas e saídas identificadas conforme o CONTRAN.
+P: Identificação de acessos || Postos e garagens || Regulamentação do CONTRAN
+K: acesso de veículos; garagem; posto de combustível
+
+@CTB 86-A
+I: As vagas reservadas a idosos e pessoas com deficiência devem ter placas indicando a destinação e informando a infração por estacionamento indevido (Lei nº 13.146/2015).
+P: Sinalização das vagas reservadas || Informação sobre a infração || Idosos e pessoas com deficiência
+K: vaga de deficiente; vaga de idoso; sinalização
+
+@CTB 87
+I: Os sinais de trânsito classificam-se em verticais, horizontais, dispositivos auxiliares, luminosos, sonoros e gestos do agente e do condutor.
+P: Classificação dos sinais || Sinalização vertical e horizontal || Gestos do agente
+K: sinais de trânsito; classificação
+
+@CTB 88
+I: Nenhuma via pavimentada pode ser entregue ou reaberta sem sinalização vertical e horizontal adequada, e as obras devem ter sinalização específica.
+P: Via só aberta sinalizada || Sinalização de obras || Segurança na circulação
+K: sinalização; obras; via pavimentada
+
+@CTB 89
+I: A ordem de prevalência é: ordens do agente sobre normas e sinais; semáforo sobre os demais sinais; sinais sobre as demais normas.
+P: Agente prevalece sobre tudo || Semáforo sobre placas || Sinalização sobre normas gerais
+K: prevalência da sinalização; agente de trânsito; semáforo
+
+@CTB 90
+I: Não se aplicam sanções por desobediência à sinalização insuficiente ou incorreta, e o órgão com circunscrição responde pela falta ou má colocação da sinalização.
+P: Sinalização deficiente afasta a sanção || Responsabilidade do órgão || Fundamento comum de defesa em multas
+K: sinalização insuficiente; defesa de multa; responsabilidade do órgão
+
+@CTB 91
+I: O CONTRAN fixa normas e padrões nacionais para as soluções de engenharia de tráfego adotadas pelos órgãos do SNT.
+P: Padronização da engenharia de tráfego || Normas nacionais || CONTRAN
+K: engenharia de tráfego; CONTRAN
+
+@CTB 93
+I: Projetos de edificações que atraiam grande fluxo (polos geradores de tráfego) só podem ser aprovados com anuência do órgão de trânsito e previsão de estacionamento e acessos adequados.
+P: Polo gerador de tráfego || Anuência do órgão de trânsito || Estacionamento e acessos
+K: polo gerador de tráfego; aprovação de projeto; estacionamento
+
+@CTB 94
+I: Obstáculos na via ou calçada que não possam ser retirados devem ser sinalizados imediatamente; lombadas e sonorizadores só são permitidos nos casos e padrões do CONTRAN.
+P: Sinalização de obstáculos || Lombadas só nos padrões do CONTRAN || Segurança de veículos e pedestres
+K: lombada; ondulação transversal; obstáculo
+
+@CTB 95
+I: Obras ou eventos que perturbem a circulação dependem de permissão prévia, sinalização a cargo do responsável e aviso à comunidade com 48 horas de antecedência, sob pena de multa de R$ 81,35 a R$ 488,10, diária até a regularização; o servidor omisso sofre multa diária sobre sua remuneração.
+P: Permissão prévia para obras e eventos || Aviso com 48 horas || Multa ao responsável e ao servidor
+K: obras na via; evento; interdição; multa
+
+@CTB 96
+I: Classifica os veículos quanto à tração (automotor, propulsão humana, tração animal, reboque), à espécie (passageiros, carga, misto, competição, tração, especial e coleção) e à categoria (oficial, diplomático, particular, aluguel e aprendizagem).
+P: Classificação por tração, espécie e categoria || Veículos especiais (Lei nº 14.599/2023) || Base para registro e habilitação
+K: classificação de veículos; categoria; espécie
+
+@CTB 97
+I: O CONTRAN define características, especificações e condições para registro, licenciamento e circulação dos veículos.
+P: Especificações pelo CONTRAN || Registro e licenciamento || Circulação
+K: características do veículo; CONTRAN
+
+@CTB 98
+I: Modificar as características de fábrica do veículo exige autorização prévia, e veículos alterados devem cumprir os limites de emissão; jipes utilitários podem alterar o conjunto roda e pneu dentro das restrições do fabricante e do CONTRAN.
+P: Modificação só com autorização || Limites de emissão mantidos || Exceção para jipes
+K: modificação de veículo; rebaixamento; autorização
+
+@CTB 99
+I: Só circulam veículos dentro dos limites de peso e dimensões do CONTRAN, aferidos por balança ou nota fiscal, com tolerância regulamentada; só há autuação na pesagem se ultrapassado o limite somado à tolerância (Lei nº 14.229/2021).
+P: Limites de peso e dimensões || Tolerância na pesagem || Autuação só acima da tolerância
+K: excesso de peso; balança; pesagem
+
+@CTB 100
+I: Nenhum veículo pode circular com lotação ou peso acima do fixado pelo fabricante nem exceder a capacidade de tração; ônibus podem usar pneus extralargos.
+P: Respeito à lotação e ao peso de fábrica || Capacidade de tração || Pneus extralargos
+K: lotação; peso bruto total; excesso de carga
+
+@CTB 101
+I: Veículos de carga fora dos limites podem receber autorização especial de trânsito, com prazo, rota e medidas de segurança, sem afastar a responsabilidade por danos à via e a terceiros.
+P: Autorização especial de trânsito (AET) || Prazo e percurso definidos || Responsabilidade por danos
+K: AET; carga indivisível; autorização especial
+
+@CTB 102
+I: O veículo de carga deve estar equipado para evitar o derramamento da carga na via, conforme requisitos do CONTRAN.
+P: Proteção da carga || Evitar derramamento || Requisitos por tipo de carga
+K: carga; derramamento; amarração
+
+@CTB 103
+I: Só circula o veículo que atenda aos requisitos de segurança; fabricantes e importadores emitem certificado de segurança para o RENAVAM e comprovam periodicamente o atendimento, e o CONTRAN pode autorizar circulação experimental.
+P: Requisitos de segurança veicular || Certificado para o RENAVAM || Circulação experimental
+K: segurança veicular; certificado; RENAVAM
+
+@CTB 104
+I: Prevê inspeção obrigatória de segurança e emissões nos prazos do CONTRAN e do CONAMA, com retenção do veículo reprovado; veículos novos particulares de até 7 passageiros ficam isentos por 3 anos e os demais por 2, se mantidas as características e sem sinistro de média ou grande monta.
+P: Inspeção veicular obrigatória || Retenção do reprovado || Isenção inicial de 2 ou 3 anos
+K: inspeção veicular; emissão de poluentes; vistoria
+
+@CTB 105
+I: São equipamentos obrigatórios, entre outros do CONTRAN: cinto de segurança, tacógrafo em escolares, ônibus e caminhões pesados, encosto de cabeça, controle de emissões, itens da bicicleta (campainha, sinalização e retrovisor), air bag frontal e luzes de rodagem diurna. É proibido circular com equipamento proibido.
+P: Rol de equipamentos obrigatórios || Air bag e luz de rodagem diurna || Equipamentos da bicicleta
+K: equipamentos obrigatórios; air bag; tacógrafo; bicicleta
+
+@CTB 106
+I: Veículos artesanais, modificados ou com troca de equipamento de segurança exigem certificado de segurança de instituição credenciada para registro e licenciamento; a blindagem não exige outro documento (Lei nº 14.071/2020).
+P: Certificado de segurança veicular (CSV) || Veículos modificados e artesanais || Blindagem dispensada
+K: certificado de segurança veicular; modificação; blindagem
+
+@CTB 107
+I: Veículos de aluguel de transporte de passageiros (táxis, ônibus) devem cumprir também os requisitos de segurança, higiene e conforto do poder concedente.
+P: Requisitos adicionais para aluguel || Poder concedente || Segurança e conforto
+K: táxi; veículo de aluguel; transporte de passageiros
