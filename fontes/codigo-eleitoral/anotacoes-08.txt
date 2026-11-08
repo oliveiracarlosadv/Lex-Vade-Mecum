@@ -1,0 +1,189 @@
+@CE 315
+I: É crime alterar nos mapas ou boletins de apuração a votação de candidato, ou lançar votos que não correspondem às cédulas apuradas. Pena: reclusão de até 5 anos e multa.
+P: Fraude nos mapas e boletins de apuração || Reclusão até 5 anos
+K: fraude na apuração; boletim de urna; mapa; crime eleitoral
+
+@CE 316
+I: É crime não receber ou não registrar nas atas os protestos formulados corretamente, ou deixar de enviá-los à instância superior. Pena: reclusão de até 5 anos e multa.
+P: Omissão de protestos nas atas || Não remessa à instância superior
+K: protesto; ata; fiscalização; crime eleitoral
+
+@CE 317
+I: É crime violar ou tentar violar o sigilo da urna ou dos invólucros. A tentativa é punida como o crime consumado. Pena: reclusão de 3 a 5 anos.
+P: Violação da urna ou dos invólucros || Tentativa equiparada || Reclusão de 3 a 5 anos
+K: violação de urna; sigilo; crime eleitoral
+
+@CE 318
+I: É crime a mesa receptora contar os votos da urna quando algum eleitor votou sob impugnação, contrariando o art. 190. Pena: detenção de até 1 mês ou multa.
+P: Contagem indevida pela mesa receptora || Voto sob impugnação
+K: contagem de votos; mesa receptora; impugnação; crime eleitoral
+
+@CE 319
+I: É crime o eleitor assinar mais de uma ficha de apoio ao registro de um ou mais partidos. Pena: detenção de até 1 mês ou multa.
+P: Assinatura em mais de uma ficha de registro partidário
+K: registro de partido; ficha de apoiamento; crime eleitoral
+
+@CE 320
+I: É crime o eleitor se inscrever ao mesmo tempo em dois ou mais partidos. Pena: multa. Na esfera partidária, a Lei nº 9.096/1995 (art. 22, parágrafo único) manda manter a filiação mais recente e cancelar as demais.
+P: Filiação simultânea a partidos || Pena de multa || Prevalência da filiação mais recente (Lei nº 9.096/1995)
+K: dupla filiação; filiação partidária; crime eleitoral
+
+@CE 321
+I: É crime colher a assinatura do eleitor em mais de uma ficha de registro de partido. Pena: detenção de até 2 meses ou multa.
+P: Coleta de assinatura em várias fichas de registro partidário
+K: registro de partido; ficha de apoiamento; crime eleitoral
+
+@CE 323
+I: É crime divulgar, na propaganda ou durante a campanha, fatos que se sabe falsos sobre partidos ou candidatos e capazes de influenciar o eleitorado. A Lei nº 14.192/2021 incluiu quem produz, oferece ou vende vídeo com conteúdo falso e aumentou a pena quando o crime é cometido pela imprensa, rádio, televisão, internet ou redes sociais, ou envolve discriminação contra a mulher. Pena: detenção de 2 meses a 1 ano ou multa.
+P: Divulgação de fato sabidamente falso na campanha || Desinformação eleitoral || Vídeos com conteúdo falso || Aumento de pena pela internet e redes sociais
+K: desinformação; fake news; fatos inverídicos; propaganda eleitoral; redes sociais
+
+@CE 324
+I: É crime caluniar alguém na propaganda eleitoral ou para fins de propaganda, atribuindo falsamente fato definido como crime. Também responde quem divulga a imputação sabendo que é falsa. Admite-se a prova da verdade, salvo nas hipóteses do § 2º. Pena: detenção de 6 meses a 2 anos e multa.
+P: Calúnia eleitoral || Quem divulga também responde || Exceção da verdade com restrições
+K: calúnia eleitoral; propaganda; crimes contra a honra; exceção da verdade
+
+@CE 325
+I: É crime difamar alguém na propaganda eleitoral ou para fins de propaganda, atribuindo fato ofensivo à sua reputação. A prova da verdade só é admitida se o ofendido é funcionário público e a ofensa se refere às suas funções. Pena: detenção de 3 meses a 1 ano e multa.
+P: Difamação eleitoral || Exceção da verdade só para funcionário público
+K: difamação eleitoral; propaganda; crimes contra a honra
+
+@CE 326
+I: É crime injuriar alguém na propaganda eleitoral ou para fins de propaganda, ofendendo sua dignidade ou decoro. O juiz pode deixar de aplicar a pena se houve provocação ou retorsão imediata. A injúria com violência ou vias de fato aviltantes tem pena maior.
+P: Injúria eleitoral || Perdão judicial em caso de provocação ou retorsão || Injúria real com pena maior
+K: injúria eleitoral; propaganda; crimes contra a honra
+
+@CE 326-A
+I: Incluído pela Lei nº 13.834/2019, é o crime de denunciação caluniosa com finalidade eleitoral: dar causa a investigação, processo ou ação de improbidade contra alguém que se sabe inocente. Também responde quem divulga o fato sabendo da inocência. Pena: reclusão de 2 a 8 anos e multa, aumentada se houver anonimato e reduzida se a imputação for de contravenção.
+P: Denunciação caluniosa eleitoral || Quem divulga também responde || Reclusão de 2 a 8 anos
+K: denunciação caluniosa; finalidade eleitoral; Lei nº 13.834/2019; crime eleitoral
+
+@CE 326-B
+I: Incluído pela Lei nº 14.192/2021, é o crime de violência política de gênero: assediar, constranger, humilhar, perseguir ou ameaçar candidata ou mulher com mandato, com menosprezo ou discriminação à condição de mulher, cor, raça ou etnia, para dificultar sua campanha ou mandato. Pena: reclusão de 1 a 4 anos e multa, aumentada em um terço se a vítima for gestante, maior de 60 anos ou pessoa com deficiência.
+P: Violência política contra a mulher || Proteção de candidatas e mandatárias || Aumento de pena para gestante, idosa ou pessoa com deficiência
+K: violência política de gênero; candidata; mandato; Lei nº 14.192/2021; crime eleitoral
+
+@CE 327
+I: As penas da calúnia, difamação e injúria eleitorais aumentam de um terço até a metade se o crime for cometido contra o Presidente ou chefe de governo estrangeiro, contra funcionário público em razão das funções, na presença de várias pessoas, com discriminação contra a mulher ou por cor, raça ou etnia, ou pela internet, redes sociais ou transmissão ao vivo.
+P: Causas de aumento nos crimes contra a honra || Discriminação contra a mulher || Internet e redes sociais
+K: aumento de pena; crimes contra a honra; redes sociais; violência política
+
+@CE 330
+I: Nos crimes dos arts. 328 e 329, hoje revogados, o juiz podia reduzir a pena se o agente reparasse o dano antes da sentença. Com a revogação desses artigos, a regra perdeu aplicação.
+P: Redução de pena por reparação do dano || Remissão a artigos revogados
+K: reparação do dano; redução de pena; artigo sem aplicação
+
+@CE 331
+I: É crime inutilizar, alterar ou perturbar meio de propaganda usado regularmente, como cartazes e materiais de campanha lícitos. Pena: detenção de até 6 meses ou multa.
+P: Proteção da propaganda lícita || Inutilizar ou perturbar propaganda
+K: propaganda eleitoral; dano; crime eleitoral
+
+@CE 332
+I: É crime impedir o exercício de propaganda eleitoral. Pena: detenção de até 6 meses e multa.
+P: Impedimento da propaganda
+K: propaganda eleitoral; liberdade de propaganda; crime eleitoral
+
+@CE 334
+I: É crime usar organização comercial de vendas, distribuição de mercadorias, prêmios e sorteios para propaganda ou aliciamento de eleitores. Se o responsável for candidato, além da detenção de 6 meses a 1 ano, há cassação do registro.
+P: Uso de estrutura comercial e sorteios para aliciar eleitores || Cassação do registro do candidato
+K: aliciamento de eleitores; sorteio; brindes; crime eleitoral
+
+@CE 335
+I: É crime fazer propaganda eleitoral em língua estrangeira, com apreensão e perda do material. A Constituição reconhece às comunidades indígenas suas línguas (art. 231), e o tema deve ser lido com essa garantia.
+P: Propaganda em língua estrangeira || Apreensão do material
+K: língua estrangeira; propaganda eleitoral; crime eleitoral
+
+@CE 336
+I: Na sentença sobre certos crimes de propaganda e contra a honra, o juiz verifica se o diretório local do partido concorreu para o crime ou se beneficiou dele de forma consciente. Nesse caso, suspende a atividade eleitoral do diretório por 6 a 12 meses, em dobro na reincidência.
+P: Responsabilização do diretório partidário || Suspensão da atividade eleitoral de 6 a 12 meses
+K: diretório partidário; suspensão; responsabilidade do partido
+
+@CE 337
+I: É crime o estrangeiro ou o brasileiro sem direitos políticos participar de atividades partidárias, comícios e atos de propaganda. Também respondem os responsáveis por emissoras e jornais que divulgarem essa participação. A regra deve ser lida com a liberdade de expressão garantida pela Constituição. No Planalto, o artigo aparece grafado como "Ar. 337", erro de digitação mantido para preservar o texto oficial.
+P: Atividade partidária de estrangeiro ou de quem não tem direitos políticos || Responsabilidade de emissoras e jornais || Grafia "Ar." mantida como no Planalto
+K: estrangeiro; direitos políticos; atividade partidária; crime eleitoral
+
+@CE 338
+I: É crime o funcionário postal não garantir a prioridade postal aos partidos prevista no art. 239. Pena: multa.
+P: Descumprimento da prioridade postal
+K: prioridade postal; serviço postal; crime eleitoral
+
+@CE 339
+I: É crime destruir, suprimir ou ocultar urna com votos ou documentos da eleição. A pena é de reclusão de 2 a 6 anos e multa, agravada se o agente for membro ou servidor da Justiça Eleitoral.
+P: Destruição ou ocultação de urna e documentos || Agravação para servidor da Justiça Eleitoral
+K: urna; destruição; crime eleitoral
+
+@CE 340
+I: É crime fabricar, adquirir, fornecer, subtrair ou guardar urnas, cédulas, mapas e outros materiais de uso exclusivo da Justiça Eleitoral. Pena: reclusão de até 3 anos e multa, agravada para membro ou servidor da Justiça Eleitoral.
+P: Fabricação ou posse de material eleitoral exclusivo || Agravação para servidor da Justiça Eleitoral
+K: material eleitoral; urna; cédula; crime eleitoral
+
+@CE 341
+I: É crime o diretor ou servidor de órgão oficial retardar ou não publicar decisões, citações ou intimações da Justiça Eleitoral. Pena: detenção de até 1 mês ou multa.
+P: Atraso na publicação de atos da Justiça Eleitoral
+K: publicação oficial; intimação; crime eleitoral
+
+@CE 342
+I: É crime o membro do Ministério Público não oferecer denúncia no prazo legal ou não promover a execução da sentença condenatória. Pena: detenção de até 2 meses ou multa.
+P: Omissão do Ministério Público || Denúncia fora do prazo || Execução da sentença
+K: Ministério Público; denúncia; omissão; crime eleitoral
+
+@CE 343
+I: É crime o juiz não cumprir o § 3º do art. 357, que manda representar contra o promotor que não oferece a denúncia no prazo. Pena: detenção de até 2 meses ou multa.
+P: Omissão do juiz em comunicar a inércia do Ministério Público
+K: juiz eleitoral; Ministério Público; omissão; crime eleitoral
+
+@CE 344
+I: É crime recusar ou abandonar o serviço eleitoral sem justa causa, como no caso de quem é convocado para trabalhar na eleição. Para o mesário que falta, o Código prevê também a multa administrativa do art. 124, e discute-se se a simples ausência basta para o crime. Pena: detenção de até 2 meses ou multa.
+P: Recusa ou abandono do serviço eleitoral || Relação com a multa do mesário faltoso (art. 124)
+K: serviço eleitoral; mesário; recusa; crime eleitoral
+
+@CE 345
+I: É crime a autoridade judiciária ou o servidor da Justiça Eleitoral descumprir, nos prazos legais, os deveres do Código, quando não houver outra penalidade prevista. Pena: multa.
+P: Descumprimento de prazos e deveres || Norma penal subsidiária
+K: prazos; servidor da Justiça Eleitoral; omissão; crime eleitoral
+
+@CE 346
+I: É crime violar o art. 377, que proíbe usar serviços, prédios ou veículos públicos e de entidades mantidas pelo poder público em benefício de partido ou candidato. Respondem a autoridade responsável, os servidores e os candidatos ou dirigentes partidários que derem causa.
+P: Uso da máquina pública em benefício de partido || Responsabilidade de servidores e candidatos
+K: uso da máquina pública; conduta vedada; crime eleitoral
+
+@CE 347
+I: É crime recusar cumprimento ou obediência a ordens, diligências ou instruções da Justiça Eleitoral, ou dificultar sua execução. Pena: detenção de 3 meses a 1 ano e multa.
+P: Desobediência eleitoral || Embaraço a ordens da Justiça Eleitoral
+K: desobediência; ordem judicial; crime eleitoral
+
+@CE 348
+I: É crime falsificar documento público, ou alterar documento público verdadeiro, para fins eleitorais. A pena é de reclusão de 2 a 6 anos e multa, agravada se o agente for funcionário público. Documentos de entidades paraestatais e fundações públicas são equiparados a documento público.
+P: Falsificação de documento público eleitoral || Agravação para funcionário público
+K: falsificação; documento público; crime eleitoral
+
+@CE 349
+I: É crime falsificar documento particular, ou alterar documento particular verdadeiro, para fins eleitorais. Pena: reclusão de até 5 anos e multa.
+P: Falsificação de documento particular para fins eleitorais
+K: falsificação; documento particular; crime eleitoral
+
+@CE 350
+I: É o crime de falsidade ideológica eleitoral: omitir em documento declaração obrigatória ou inserir declaração falsa, para fins eleitorais. A pena é maior se o documento for público. É o tipo usado para punir o "caixa dois", isto é, a omissão de receitas e despesas na prestação de contas de campanha.
+P: Falsidade ideológica eleitoral || Omissão de receitas na prestação de contas (caixa dois) || Pena maior para documento público
+K: falsidade ideológica eleitoral; caixa dois; prestação de contas; crime eleitoral
+
+@CE 351
+I: Para os crimes de falsidade dos arts. 348 a 350, equiparam-se a documento fotografias, filmes, discos e gravações que contenham declaração ou imagem destinada a provar fato juridicamente relevante.
+P: Equiparação de fotos, filmes e gravações a documento
+K: documento; gravação; prova; falsidade
+
+@CE 352
+I: É crime reconhecer como verdadeira, no exercício de função pública, firma ou letra falsa, para fins eleitorais. A pena varia conforme o documento seja público ou particular. No Planalto, o artigo aparece grafado como "Ar. 352", erro de digitação mantido para preservar o texto oficial.
+P: Falso reconhecimento de firma para fins eleitorais || Grafia "Ar." mantida como no Planalto
+K: reconhecimento de firma; falsidade; crime eleitoral
+
+@CE 353
+I: É crime usar qualquer dos documentos falsificados ou alterados dos arts. 348 a 352, com a mesma pena da falsificação.
+P: Uso de documento falso para fins eleitorais || Mesma pena da falsificação
+K: uso de documento falso; crime eleitoral
+
+@CE 354
+I: É crime obter, para si ou para outra pessoa, documento público ou particular falso, material ou ideologicamente, para fins eleitorais, com a mesma pena da falsificação.
+P: Obtenção de documento falso para fins eleitorais || Mesma pena da falsificação
+K: documento falso; obtenção; crime eleitoral

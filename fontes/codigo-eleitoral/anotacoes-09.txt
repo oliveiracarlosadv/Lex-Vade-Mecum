@@ -1,0 +1,154 @@
+@CE 354-A
+I: Incluído pela Lei nº 13.488/2017, é o crime de apropriação de recursos de campanha: o candidato, o administrador financeiro ou quem exerça essa função de fato se apropria de bens ou valores destinados ao financiamento eleitoral, em proveito próprio ou alheio. Pena: reclusão de 2 a 6 anos e multa. Protege o uso correto dos recursos de campanha, inclusive os públicos (fundo eleitoral e fundo partidário).
+P: Apropriação de recursos de campanha || Candidato e administrador financeiro como autores || Reclusão de 2 a 6 anos
+K: apropriação indébita eleitoral; recursos de campanha; fundo eleitoral; crime eleitoral
+
+@CE 355
+I: Todos os crimes eleitorais são de ação penal pública, promovida pelo Ministério Público Eleitoral. Admite-se a ação penal privada subsidiária se o Ministério Público ficar inerte (CF, art. 5º, LIX).
+P: Ação penal pública || Ministério Público Eleitoral como titular || Ação privada subsidiária
+K: ação penal pública; crimes eleitorais; Ministério Público Eleitoral
+
+@CE 356
+I: Quem souber de crime eleitoral deve comunicá-lo ao juiz eleitoral da zona onde ocorreu. A comunicação verbal é reduzida a termo e enviada ao Ministério Público, que pode requisitar diretamente informações e documentos de autoridades. Na prática, a investigação também é feita pela Polícia Federal, por requisição do Ministério Público ou da Justiça Eleitoral.
+P: Notícia de crime eleitoral ao juiz da zona || Redução a termo || Requisições do Ministério Público
+K: notícia-crime; crime eleitoral; Ministério Público; investigação
+
+@CE 357
+I: Verificada a infração, o Ministério Público oferece denúncia em 10 dias. Se pedir arquivamento e o juiz discordar, os autos vão ao Procurador Regional, que denuncia, designa outro promotor ou insiste no arquivamento. A denúncia deve descrever o fato, qualificar o acusado e classificar o crime. Se o promotor perder o prazo, o juiz representa contra ele e pede a designação de outro, e qualquer eleitor pode provocar essa representação.
+P: Denúncia em 10 dias || Controle do arquivamento pelo Procurador Regional || Requisitos da denúncia || Representação contra o promotor inerte
+K: denúncia; arquivamento; Ministério Público Eleitoral; prazo
+
+@CE 358
+I: A denúncia é rejeitada se o fato evidentemente não for crime, se a punibilidade estiver extinta ou se faltar legitimidade ou condição da ação. No último caso, a ação pode ser proposta de novo, corrigido o defeito.
+P: Hipóteses de rejeição da denúncia || Nova propositura se faltar condição da ação
+K: rejeição da denúncia; processo penal eleitoral; punibilidade
+
+@CE 359
+I: Recebida a denúncia, o juiz cita o acusado e marca seu depoimento, e a defesa tem 10 dias para alegações escritas e rol de testemunhas. O STF (HC 127.900) firmou que o interrogatório deve ser o último ato da instrução também nos procedimentos especiais, o que alcança o processo penal eleitoral.
+P: Citação e depoimento do acusado || Defesa escrita em 10 dias || Interrogatório ao final (STF, HC 127.900)
+K: processo penal eleitoral; interrogatório; defesa; citação
+
+@CE 360
+I: Ouvidas as testemunhas e feitas as diligências, acusação e defesa têm 5 dias cada para alegações finais.
+P: Alegações finais em 5 dias para cada parte
+K: alegações finais; processo penal eleitoral; prazo
+
+@CE 361
+I: Após as alegações finais, os autos vão ao juiz em 48 horas, e ele tem 10 dias para sentenciar.
+P: Sentença em 10 dias
+K: sentença; processo penal eleitoral; prazo
+
+@CE 362
+I: Da sentença que condena ou absolve cabe recurso ao TRE em 10 dias, prazo maior que o geral de 3 dias do art. 258.
+P: Recurso criminal ao TRE || Prazo de 10 dias
+K: recurso criminal eleitoral; apelação; TRE; prazo
+
+@CE 363
+I: Se o TRE condenar, os autos voltam à primeira instância para a execução da pena em 5 dias, contados da vista ao Ministério Público. Se o promotor não promover a execução, aplicam-se as medidas do art. 357, §§ 3º a 5º. A execução da pena observa o entendimento do STF sobre a presunção de inocência, que exige o trânsito em julgado da condenação (ADCs 43, 44 e 54).
+P: Execução da sentença condenatória || Medidas contra a inércia do Ministério Público || Execução após o trânsito em julgado (ADCs 43, 44 e 54)
+K: execução penal; presunção de inocência; trânsito em julgado; crime eleitoral
+
+@CE 364
+I: O Código de Processo Penal se aplica de forma subsidiária ao processo dos crimes eleitorais e dos comuns conexos, nos recursos e na execução. Também se aplicam institutos como a transação penal e a suspensão condicional do processo (Lei nº 9.099/1995) e o acordo de não persecução penal, quando cabíveis.
+P: Aplicação subsidiária do CPP || Crimes comuns conexos || Institutos despenalizadores
+K: Código de Processo Penal; aplicação subsidiária; crimes conexos; transação penal
+
+@CE 365
+I: O serviço eleitoral tem prioridade sobre qualquer outro, é obrigatório e não interrompe a contagem de tempo para a promoção dos servidores requisitados.
+P: Prioridade e obrigatoriedade do serviço eleitoral || Preservação do tempo para promoção
+K: serviço eleitoral; requisição; servidor público
+
+@CE 366
+I: Os servidores da Justiça Eleitoral não podem integrar diretório de partido nem exercer atividade partidária, sob pena de demissão. A regra garante a imparcialidade da Justiça Eleitoral.
+P: Vedação de atividade partidária aos servidores eleitorais || Pena de demissão || Imparcialidade
+K: servidor da Justiça Eleitoral; atividade partidária; imparcialidade
+
+@CE 367
+I: As multas eleitorais não criminais são fixadas conforme a condição econômica do eleitor. Não pagas em 30 dias, tornam-se dívida ativa e são cobradas por execução fiscal perante o juízo eleitoral, com atuação do Ministério Público ou da Fazenda Nacional. O texto menciona o pagamento por selos federais, hoje substituído por guias.
+P: Fixação conforme a condição econômica || Inscrição como dívida após 30 dias || Execução fiscal na Justiça Eleitoral
+K: multa eleitoral; dívida ativa; execução fiscal; cobrança
+
+@CE 368
+I: Os atos pedidos ou propostos a tempo não prejudicam os interessados, ainda que não sejam apreciados no prazo legal. Quem age no prazo não sofre os efeitos da demora da Justiça.
+P: Proteção de quem age no prazo || Demora da Justiça não prejudica o interessado
+K: prazo; tempestividade; segurança jurídica
+
+@CE 368-A
+I: Incluído pela Lei nº 13.165/2015, o artigo proíbe que um único depoimento testemunhal, como prova exclusiva, fundamente a perda de mandato. A regra exige prova mais robusta nas ações de cassação.
+P: Testemunho único não basta para cassar mandato || Exigência de prova robusta
+K: prova testemunhal; cassação de mandato; testemunha única; Lei nº 13.165/2015
+
+@CE 369
+I: A União fornece, por meio dos TREs, todo o material destinado ao alistamento e às eleições.
+P: Material eleitoral fornecido pela União || Distribuição pelos TREs
+K: material eleitoral; União; TRE
+
+@CE 370
+I: As comunicações eleitorais feitas por autoridades e órgãos competentes têm franquia (gratuidade) postal, telegráfica e telefônica nas linhas oficiais.
+P: Franquia postal e telefônica para comunicações eleitorais
+K: franquia postal; comunicação oficial; Justiça Eleitoral
+
+@CE 371
+I: Os órgãos públicos devem fornecer, em até 10 dias, informações e certidões sobre matéria eleitoral pedidas por autoridades, partidos ou alistandos, desde que expliquem as razões e os fins do pedido.
+P: Certidões em até 10 dias || Exigência de motivação do pedido
+K: certidão; informação; repartição pública; matéria eleitoral
+
+@CE 372
+I: Os tabeliães não podem recusar o reconhecimento de firma em documentos para requerimentos e recursos eleitorais de pessoas que conhecem ou que tragam dois abonadores conhecidos.
+P: Dever do tabelião de reconhecer firma para fins eleitorais
+K: tabelião; reconhecimento de firma; documentos eleitorais
+
+@CE 373
+I: Requerimentos e papéis para fins eleitorais são isentos de selo, e o reconhecimento de firma para esses fins é gratuito. Nos processos criminais e nas execuções fiscais de multas, pagam-se custas. No Planalto, o artigo aparece grafado como "Ar. 373", erro de digitação mantido para preservar o texto oficial.
+P: Gratuidade dos atos eleitorais || Custas nos processos criminais e execuções fiscais || Grafia "Ar." mantida como no Planalto
+K: gratuidade; isenção; reconhecimento de firma; custas
+
+@CE 374
+I: Membros dos tribunais eleitorais, juízes eleitorais e servidores requisitados que não puderem tirar férias por causa do serviço eleitoral podem gozá-las no ano seguinte, acumuladas ou não.
+P: Férias adiadas pelo serviço eleitoral || Gozo no ano seguinte
+K: férias; serviço eleitoral; juízes; servidores requisitados
+
+@CE 375
+I: Em áreas de limites contestados entre Estados, as eleições são feitas sob a jurisdição do TRE do Estado ao qual a área pertence para fins de administração judiciária.
+P: Áreas de limites contestados || Critério da administração judiciária estadual
+K: limites interestaduais; jurisdição; TRE
+
+@CE 376
+I: O TSE elabora anualmente a proposta orçamentária da Justiça Eleitoral, com base nas propostas dos TREs, e encaminha os pedidos de créditos adicionais. Hoje o tema segue o art. 99 da Constituição, que garante autonomia financeira ao Judiciário.
+P: Proposta orçamentária pelo TSE || Créditos adicionais || Autonomia financeira (CF, art. 99)
+K: orçamento; Justiça Eleitoral; TSE; créditos adicionais
+
+@CE 377
+I: É proibido usar serviços, prédios e dependências de órgãos públicos, autarquias, fundações, empresas estatais e entidades mantidas pelo poder público ou contratadas por ele para beneficiar partido ou organização de caráter político. Qualquer partido ou eleitor pode representar à Justiça Eleitoral. A violação é crime (art. 346), e a Lei nº 9.504/1997 (art. 73) detalha as condutas vedadas aos agentes públicos.
+P: Proibição de uso da máquina pública para fins partidários || Representação por partido ou eleitor || Crime do art. 346 e condutas vedadas (Lei nº 9.504/1997, art. 73)
+K: uso da máquina pública; condutas vedadas; agente público; abuso de poder
+
+@CE 378
+I: O TSE organiza os serviços da Corregedoria-Geral, por proposta do Corregedor, com servidores efetivos do seu quadro. É regra administrativa da época de criação do Código.
+P: Organização da Corregedoria-Geral Eleitoral || Regra administrativa
+K: Corregedoria-Geral Eleitoral; TSE; organização administrativa
+
+@CE 379
+I: Os serviços de mesários e membros das juntas são considerados relevantes. Para servidores públicos, servem como critério de desempate em promoções, com preferência para quem serviu mais vezes. A regra não vale para membros e servidores da Justiça Eleitoral. A Lei nº 9.504/1997 (art. 98) também concede dois dias de folga por dia trabalhado na eleição.
+P: Serviço eleitoral relevante || Desempate em promoções || Folga em dobro (Lei nº 9.504/1997, art. 98)
+K: mesário; serviço relevante; promoção; folga eleitoral
+
+@CE 380
+I: O dia das eleições com data fixada pela Constituição é feriado nacional. Nas demais, a eleição é marcada para domingo ou feriado já existente. Na prática, as eleições ocorrem aos domingos.
+P: Feriado nacional no dia da eleição || Eleições em domingo ou feriado
+K: feriado; dia da eleição; calendário eleitoral
+
+@CE 381
+I: Norma de transição de 1965: o Código não afetou as candidaturas a Presidente, Vice, Governador e Vice já registradas ou em registro, exigindo apenas que as chapas fossem completadas conforme o Código. Hoje não tem aplicação prática.
+P: Regra de transição para candidaturas de 1965 || Sem aplicação atual
+K: disposição transitória; candidaturas; chapa
+
+@CE 382
+I: O Código entrou em vigor 30 dias após sua publicação, ocorrida no Diário Oficial de 19 de julho de 1965.
+P: Vacância de 30 dias || Publicação em 19.7.1965
+K: vigência; vacatio legis; Código Eleitoral
+
+@CE 383
+I: Cláusula geral de revogação: ficam revogadas as disposições em contrário. A técnica é desaconselhada pela Lei Complementar nº 95/1998, que exige indicar expressamente as normas revogadas.
+P: Revogação genérica || Técnica superada pela LC nº 95/1998
+K: revogação; cláusula revogatória; técnica legislativa

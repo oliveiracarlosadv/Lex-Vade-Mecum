@@ -182,6 +182,8 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 08/11/2026 | Lei de Benefícios da Previdência Social (Lei nº 8.213/1991) publicada; foto do criador na página Sobre |
 | 08/11/2026 | Código de Defesa do Consumidor (CDC) publicado, com o superendividamento (Lei nº 14.181/2021) e a MP nº 1.393/2026 |
 | 08/11/2026 | Código de Trânsito Brasileiro (CTB) publicado, com o Anexo I como dispositivo único |
+| 08/11/2026 | Menu: ordenar as leis em ordem alfabética (A–Z) ou pela data de publicação (Data), com a escolha salva no navegador (`lex-ordem`) |
+| 08/11/2026 | Código Eleitoral (Lei nº 4.737/1965) publicado; leitor reconhece PARTE PRIMEIRA a QUINTA e os rótulos "Ar."/"At." grafados assim no Planalto |
 | 06/11/2026 | CLT publicada; marca-texto nos artigos, leis favoritas, perfil (nome e @ nos stories e imagens) e backup/importação, tudo salvo no navegador |
 | 06/11/2026 | Assinatura "Lex Vade Mecum por Carlos A. A. Oliveira" no Story e nas imagens |
 | 06/11/2026 | Story desenhado direto em canvas: justificado idêntico em qualquer aparelho |

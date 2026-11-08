@@ -1,0 +1,224 @@
+@CE 214
+I: O artigo fixava a posse do Presidente e do Vice em 15 de março. A regra não vale mais: a Constituição de 1988, com a Emenda Constitucional nº 111/2021, fixa a posse do Presidente em 5 de janeiro, a partir do mandato iniciado em 2027 (art. 82).
+P: Data de posse superada pela Constituição || Posse presidencial em 5 de janeiro (CF, art. 82, com a EC nº 111/2021)
+K: posse presidencial; mandato; Emenda Constitucional nº 111/2021; Presidente da República
+
+@CE 215
+I: Eleitos e suplentes recebem diploma assinado pelo presidente do TRE ou da junta eleitoral, com nome, partido, cargo ou classificação de suplente. A diplomação encerra o processo eleitoral e habilita o eleito à posse, abrindo prazo para ações como o recurso contra a expedição de diploma (art. 262) e a ação de impugnação de mandato eletivo (CF, art. 14, § 10).
+P: Diploma dos eleitos e suplentes || Conteúdo do diploma || Marco para RCED e AIME
+K: diplomação; diploma; eleitos; suplentes; AIME
+
+@CE 216
+I: Enquanto o TSE não julga o recurso contra a expedição do diploma, o diplomado exerce o mandato plenamente. A regra prestigia o resultado das urnas até decisão definitiva do tribunal superior.
+P: Exercício pleno do mandato durante o recurso || Prestígio do resultado eleitoral
+K: diplomação; recurso contra expedição de diploma; mandato; efeito suspensivo
+
+@CE 217
+I: Depois das eleições suplementares, ou do provimento de recurso contra registro ou parcial após a diplomação, o juiz ou o tribunal revê a apuração e confirma ou invalida os diplomas expedidos.
+P: Revisão da apuração após eleições suplementares || Confirmação ou invalidação de diplomas
+K: diplomação; eleição suplementar; recurso; revisão da apuração
+
+@CE 218
+I: Quem diploma militar eleito deve comunicar o fato imediatamente à autoridade militar, para as providências do art. 98 e do art. 14, § 8º, da Constituição, como a passagem para a inatividade.
+P: Comunicação da diplomação de militar || Passagem para a inatividade
+K: militar eleito; diplomação; comunicação; inatividade
+
+@CE 219
+I: O juiz eleitoral deve interpretar a lei pelos seus fins e não pode declarar nulidade sem prejuízo demonstrado. Quem deu causa à nulidade não pode pedi-la nem se beneficiar dela. São princípios centrais do processo eleitoral: aproveitamento dos atos e preservação da vontade do eleitor.
+P: Sem prejuízo não há nulidade || Interpretação pelos fins da lei || Vedação de alegar a própria torpeza
+K: nulidade; prejuízo; pas de nullité sans grief; interpretação teleológica
+
+@CE 220
+I: A votação é nula quando feita por mesa irregular, em folhas falsas, em dia, hora ou local diferentes, encerrada antes das 17 horas, sem sigilo do voto ou em local proibido pelo art. 135. Provada a nulidade, o órgão apurador deve declará-la, e nem o acordo das partes a supre.
+P: Hipóteses de nulidade da votação || Declaração obrigatória quando provada || Impossibilidade de suprir por acordo
+K: nulidade da votação; sigilo do voto; mesa receptora; apuração
+
+@CE 221
+I: A votação é anulável quando há extravio de documento essencial, restrição ao direito de fiscalização registrada em ata ou protesto, ou voto sem as cautelas do art. 147, § 2º, de eleitor excluído, de outra seção ou com falsa identidade. Diferente da nulidade, a anulabilidade depende de alegação oportuna.
+P: Hipóteses de anulabilidade || Restrição à fiscalização || Voto de quem não podia votar
+K: anulabilidade; votação; fiscalização; falsa identidade
+
+@CE 222
+I: A votação também é anulável quando viciada por falsidade, fraude, coação, abuso do poder econômico ou de autoridade (art. 237) ou propaganda e captação de votos proibidas. É a base para anular votos obtidos de forma ilícita, ao lado da Lei Complementar nº 64/1990 e da Lei nº 9.504/1997 (art. 41-A).
+P: Anulação por fraude, coação ou abuso de poder || Captação ilícita de sufrágio || Relação com a LC nº 64/1990
+K: fraude eleitoral; coação; abuso de poder; captação ilícita de sufrágio
+
+@CE 223
+I: A nulidade não declarada de ofício pela junta deve ser alegada no momento do ato, sob pena de preclusão, salvo motivo superveniente ou de ordem constitucional. Se não puder ser alegada no ato, deve sê-lo na primeira oportunidade. A matéria constitucional também deve ser alegada em recurso no prazo, ainda que possa ser levada à fase seguinte.
+P: Alegação no momento do ato || Exceções: motivo superveniente e matéria constitucional || Primeira oportunidade
+K: preclusão; nulidade; matéria constitucional; recurso
+
+@CE 224
+I: Se a nulidade atingir mais da metade dos votos, as demais votações ficam prejudicadas e marca-se nova eleição em 20 a 40 dias. O § 3º, incluído pela Lei nº 13.165/2015, determina novas eleições quando o eleito em pleito majoritário tem o registro indeferido, o diploma cassado ou perde o mandato, qualquer que seja o número de votos anulados. O STF (ADI 5.525) declarou inconstitucional a exigência de trânsito em julgado prevista no § 3º, por isso a expressão aparece tachada. Também decidiu que o § 4º não se aplica a Presidente, Vice-Presidente e Senador, cujas vagas seguem a Constituição (arts. 56 e 81).
+P: Nulidade de mais da metade dos votos gera nova eleição || Novas eleições após cassação de eleito majoritário || ADI 5.525: sem exigência de trânsito em julgado || Regras do § 4º não valem para Presidente e Senador
+K: novas eleições; nulidade; cassação; ADI 5.525; eleição suplementar
+
+@CE 225
+I: Na eleição presidencial, o eleitor que está no exterior pode votar em seções instaladas em embaixadas e consulados, ou em outros locais do governo brasileiro se forem necessárias mais seções.
+P: Voto no exterior só para Presidente e Vice || Seções em embaixadas e consulados
+K: voto no exterior; eleição presidencial; consulado; embaixada
+
+@CE 226
+I: Para instalar seção no exterior, é preciso ao menos 30 eleitores inscritos na jurisdição da missão diplomática ou consulado. Com menos, os eleitores votam na seção mais próxima no mesmo país.
+P: Mínimo de 30 eleitores por seção no exterior || Voto na seção mais próxima do mesmo país
+K: voto no exterior; seção eleitoral; consulado
+
+@CE 227
+I: As mesas receptoras no exterior são organizadas pelo TRE do Distrito Federal, por proposta dos chefes de missão e cônsules, que exercem funções administrativas de juiz eleitoral. Aplicam-se as regras de composição e fiscalização do território nacional.
+P: Organização pelo TRE-DF || Cônsules com funções administrativas de juiz eleitoral || Mesmas regras de fiscalização
+K: voto no exterior; TRE-DF; cônsul; mesa receptora
+
+@CE 228
+I: Até 30 dias antes da eleição, os eleitores no exterior comunicam ao consulado sua condição de eleitor e residência, para organizar as folhas de votação. No dia da eleição votam os que constam da folha e tripulantes e passageiros de navios e aviões que estejam no local. Hoje o eleitor no exterior tem inscrição própria na zona eleitoral do exterior, vinculada ao TRE-DF.
+P: Comunicação prévia ao consulado || Folhas de votação no exterior || Tripulantes e passageiros podem votar
+K: voto no exterior; consulado; folha de votação; eleitor no exterior
+
+@CE 229
+I: Encerrada a votação, as urnas eram enviadas pela mala diplomática ao Ministério das Relações Exteriores e entregues ao TRE-DF, que apura os votos e julga dúvidas e recursos. Com as urnas eletrônicas, os resultados são transmitidos para totalização.
+P: Remessa das urnas pela mala diplomática || Apuração pelo TRE-DF || Transporte aéreo do material
+K: voto no exterior; apuração; TRE-DF; mala diplomática
+
+@CE 230
+I: O eleitor que vota no exterior recebia comprovante para comunicar o voto ao juiz de sua zona, e o título ficava retido pela mesa receptora. Essa sistemática foi substituída pelo cadastro próprio do eleitor no exterior.
+P: Comprovante de votação no exterior || Retenção do título
+K: voto no exterior; comprovante; título eleitoral
+
+@CE 231
+I: O eleitor obrigado a votar que não vota no exterior sofre as mesmas sanções de quem não vota no Brasil e não pode obter documentos na repartição diplomática até se justificar. O art. 7º, § 4º, ressalva o passaporte para retorno ao Brasil.
+P: Sanções ao eleitor no exterior que não vota || Proibição de obter documentos no consulado || Ressalva do passaporte para retorno
+K: voto no exterior; justificativa; sanções; consulado
+
+@CE 232
+I: Todo o processo eleitoral no exterior fica subordinado diretamente ao TRE do Distrito Federal.
+P: Competência do TRE-DF para o voto no exterior
+K: TRE-DF; voto no exterior; competência
+
+@CE 233
+I: O TSE e o Ministério das Relações Exteriores editam as instruções e adotam as medidas necessárias para o voto no exterior.
+P: Instruções conjuntas do TSE e do Itamaraty
+K: voto no exterior; TSE; Ministério das Relações Exteriores
+
+@CE 233-A
+I: O eleitor em trânsito no Brasil pode votar para Presidente, Governador, Senador e Deputados em urnas instaladas nas capitais e nos municípios com mais de 100 mil eleitores. Deve se habilitar até 45 dias antes da eleição, indicando onde vai votar. Fora do seu Estado, só pode votar para Presidente. Militares, integrantes da segurança pública e guardas municipais em serviço também podem votar em trânsito, com listagem enviada pelos comandos.
+P: Voto em trânsito nas eleições gerais || Habilitação até 45 dias antes || Fora do Estado, só para Presidente || Voto em trânsito de agentes de segurança em serviço
+K: voto em trânsito; eleições gerais; habilitação; segurança pública
+
+@CE 234
+I: Ninguém pode impedir ou dificultar o exercício do voto. É a garantia básica da liberdade do sufrágio, protegida também pelos crimes eleitorais (como os arts. 297 e 301).
+P: Liberdade do sufrágio || Proibição de impedir ou embaraçar o voto
+K: liberdade de voto; garantias eleitorais; sufrágio
+
+@CE 235
+I: O juiz eleitoral ou o presidente da mesa pode expedir salvo-conduto ao eleitor que sofra violência física ou moral por votar ou para não votar, sob pena de prisão de até 5 dias por desobediência. A medida vale de 72 horas antes até 48 horas depois da eleição.
+P: Salvo-conduto ao eleitor ameaçado || Prisão por desobediência de até 5 dias || Validade de 72 horas antes a 48 horas depois
+K: salvo-conduto; liberdade de voto; violência; garantia eleitoral
+
+@CE 236
+I: Desde 5 dias antes até 48 horas depois da eleição, nenhum eleitor pode ser preso, salvo em flagrante, por sentença condenatória por crime inafiançável ou por desrespeito a salvo-conduto. Mesários e fiscais em serviço só podem ser presos em flagrante, e os candidatos têm essa garantia desde 15 dias antes da eleição. O preso deve ser levado ao juiz, que relaxa a prisão ilegal.
+P: Imunidade temporária do eleitor contra a prisão || Exceções: flagrante, sentença por crime inafiançável e salvo-conduto || Garantia de mesários, fiscais e candidatos (15 dias)
+K: prisão de eleitor; garantia eleitoral; flagrante; candidatos; 5 dias antes
+
+@CE 237
+I: A interferência do poder econômico e o abuso de autoridade contra a liberdade do voto devem ser coibidos e punidos. Qualquer eleitor ou partido pode pedir ao Corregedor a abertura de investigação. Hoje a ação de investigação judicial eleitoral (AIJE) por abuso de poder segue o art. 22 da Lei Complementar nº 64/1990.
+P: Combate ao abuso do poder econômico e de autoridade || Legitimidade do eleitor para denunciar || Investigação pela Corregedoria || AIJE (LC nº 64/1990, art. 22)
+K: abuso de poder econômico; abuso de autoridade; AIJE; corregedoria; liberdade do voto
+
+@CE 238
+I: É proibida a presença de força pública no prédio da votação ou nas imediações durante a eleição, salvo quando chamada pelo presidente da mesa (art. 141).
+P: Vedação de força pública no local de votação || Exceção por ordem do presidente da mesa
+K: força pública; local de votação; liberdade do voto
+
+@CE 239
+I: Os partidos têm prioridade postal nos 60 dias anteriores à eleição para enviar o material de propaganda de seus candidatos registrados.
+P: Prioridade postal aos partidos || 60 dias antes da eleição
+K: prioridade postal; propaganda eleitoral; partidos
+
+@CE 240
+I: A propaganda eleitoral só é permitida após 15 de agosto do ano da eleição (regra igual à do art. 36 da Lei nº 9.504/1997). Antes disso, a propaganda é antecipada e pode gerar multa. Nas 48 horas antes até 24 horas depois da eleição, é proibida a propaganda por rádio, televisão, comícios ou reuniões públicas.
+P: Início da propaganda após 15 de agosto || Propaganda antecipada || Vedação nas 48 horas anteriores e 24 horas posteriores
+K: propaganda eleitoral; propaganda antecipada; 15 de agosto; comício
+
+@CE 241
+I: A propaganda eleitoral é feita sob responsabilidade dos partidos, que a pagam e respondem solidariamente pelos excessos de seus candidatos e apoiadores. A solidariedade se limita ao candidato e ao seu partido, sem alcançar outros partidos da mesma coligação.
+P: Responsabilidade dos partidos pela propaganda || Solidariedade pelos excessos || Limite da solidariedade na coligação
+K: propaganda eleitoral; responsabilidade solidária; partidos; coligação
+
+@CE 242
+I: A propaganda deve sempre mencionar a legenda partidária, ser feita em português e não pode usar recursos publicitários para criar artificialmente estados emocionais ou passionais no eleitor. A Justiça Eleitoral deve impedir ou fazer cessar a propaganda irregular, sem prejuízo das penas.
+P: Menção obrigatória à legenda || Língua nacional || Vedação de manipulação emocional || Poder de polícia da Justiça Eleitoral
+K: propaganda eleitoral; legenda; poder de polícia; manipulação
+
+@CE 243
+I: O artigo lista a propaganda proibida: de guerra, violência ou preconceito; contra as Forças Armadas; de incitação a crimes; de compra de votos; que perturbe o sossego; que imite dinheiro; que suje a cidade; e que calunie, difame ou injurie. A Lei nº 14.192/2021 incluiu a proibição da propaganda que deprecie a condição de mulher ou estimule sua discriminação. O ofendido pode pedir indenização por dano moral e tem direito de resposta.
+P: Propaganda proibida || Vedação de propaganda que discrimine a mulher (Lei nº 14.192/2021) || Indenização por dano moral || Direito de resposta
+K: propaganda proibida; violência política de gênero; calúnia; direito de resposta; compra de votos
+
+@CE 244
+I: Os partidos registrados podem, sem licença nem taxa, identificar suas sedes e usar alto-falantes nas sedes e em veículos, das 14 às 22 horas, nos três meses antes da eleição, observada a lei. O uso é proibido a menos de 500 metros de sedes de governo, casas legislativas, tribunais, quartéis, hospitais, escolas e igrejas, entre outros. A Lei nº 9.504/1997 (art. 39) hoje regula os alto-falantes em detalhe, com limites de distância e horário.
+P: Identificação das sedes partidárias || Alto-falantes das 14 às 22 horas || Distância mínima de 500 metros de prédios públicos e similares
+K: alto-falante; propaganda eleitoral; sede partidária; 500 metros
+
+@CE 245
+I: Atos de propaganda em local aberto não dependem de licença da polícia. Basta comunicar a autoridade policial com 24 horas de antecedência, ou 72 horas quando não houver local fixado para comícios, para garantir o uso do espaço e a ordem. A Lei nº 9.504/1997 (art. 39) contém regra semelhante.
+P: Propaganda em local aberto sem licença || Comunicação prévia de 24 ou 72 horas || Garantia do uso do local
+K: comício; propaganda eleitoral; comunicação à polícia; reunião pública
+
+@CE 248
+I: Ninguém pode impedir a propaganda eleitoral nem inutilizar, alterar ou perturbar os meios lícitos usados nela. A conduta também é crime (art. 331). No Planalto, o artigo aparece grafado como "At. 248", erro de digitação mantido para preservar o texto oficial.
+P: Proteção da propaganda lícita || Crime de inutilizar propaganda (art. 331) || Grafia "At." mantida como no Planalto
+K: propaganda eleitoral; proteção; crime eleitoral; inutilização
+
+@CE 249
+I: O direito de propaganda não afasta o poder de polícia quando necessário para manter a ordem pública. O poder de polícia sobre a propaganda é exercido pelos juízes eleitorais, sem censura prévia (Lei nº 9.504/1997, art. 41).
+P: Poder de polícia em benefício da ordem pública || Vedação de censura prévia
+K: poder de polícia; propaganda eleitoral; ordem pública
+
+@CE 251
+I: No período da propaganda eleitoral gratuita, contratos das emissoras que impeçam ou fraudem as regras do Código ou das instruções do TSE não têm efeito. Hoje o horário eleitoral gratuito é regulado pelos arts. 44 a 57 da Lei nº 9.504/1997.
+P: Prevalência do horário eleitoral gratuito sobre contratos || Regras atuais na Lei nº 9.504/1997
+K: horário eleitoral gratuito; propaganda; emissoras; rádio e televisão
+
+@CE 255
+I: O artigo proíbe divulgar pesquisas e testes pré-eleitorais nos 15 dias anteriores à eleição. Hoje as pesquisas são reguladas pelo art. 33 da Lei nº 9.504/1997, que exige registro prévio e permite a divulgação até o dia da eleição. O STF, na ADI 3.741, declarou inconstitucional proibição semelhante criada em 2006, por violar a liberdade de informação.
+P: Proibição de 15 dias superada || Registro prévio das pesquisas (Lei nº 9.504/1997, art. 33) || ADI 3.741: liberdade de informação
+K: pesquisa eleitoral; divulgação; liberdade de informação; ADI 3.741
+
+@CE 256
+I: As autoridades federais, estaduais e municipais devem dar aos partidos, em igualdade de condições, as facilidades permitidas para a propaganda. O texto prevê ainda a instalação de telefones nas sedes partidárias durante a campanha, regra ligada à época.
+P: Igualdade de condições entre os partidos || Facilidades administrativas para a propaganda
+K: igualdade de oportunidades; propaganda; partidos; administração pública
+
+@CE 257
+I: Os recursos eleitorais em regra não têm efeito suspensivo, e os acórdãos são cumpridos de imediato. Há exceção: o recurso ordinário contra decisão que cassa registro, afasta o titular ou leva à perda do mandato é recebido com efeito suspensivo (§ 2º, incluído pela Lei nº 13.165/2015). O tribunal dá preferência a esses recursos.
+P: Recursos sem efeito suspensivo, em regra || Execução imediata dos acórdãos || Efeito suspensivo no recurso contra cassação ou perda de mandato || Preferência no julgamento
+K: efeito suspensivo; recurso eleitoral; cassação; execução imediata
+
+@CE 258
+I: Quando a lei não fixa prazo especial, o recurso eleitoral é interposto em 3 dias da publicação do ato. A brevidade dos prazos é marca do processo eleitoral.
+P: Prazo geral de 3 dias para recorrer || Celeridade do processo eleitoral
+K: prazo recursal; recurso eleitoral; 3 dias; celeridade
+
+@CE 259
+I: Os prazos para recorrer são preclusivos, salvo quando o recurso discute matéria constitucional. Mesmo assim, o recurso constitucional deve ser interposto no prazo, e quem o perde numa fase só pode alegar a matéria na fase seguinte.
+P: Prazos preclusivos || Exceção da matéria constitucional || Alegação na fase seguinte
+K: preclusão; prazo; matéria constitucional; recurso
+
+@CE 260
+I: O primeiro recurso distribuído no TRE ou no TSE sobre uma eleição torna o relator prevento para todos os demais recursos do mesmo município ou Estado, o que garante coerência nas decisões.
+P: Prevenção do relator || Mesmo município ou Estado || Coerência das decisões
+K: prevenção; relator; distribuição; recurso eleitoral
+
+@CE 261
+I: Os recursos parciais da apuração (exceto os de registro) são julgados à medida que chegam ao tribunal, e os do mesmo município ou Estado podem ser julgados em sequência. As decisões são comunicadas de uma vez para que a apuração seja revista.
+P: Julgamento dos recursos parciais à medida que chegam || Julgamento conjunto || Comunicação única das decisões
+K: recurso parcial; apuração; julgamento; tribunal
+
+@CE 262
+I: O recurso contra expedição de diploma (RCED) cabe apenas em casos de inelegibilidade superveniente ou constitucional e de falta de condição de elegibilidade. A inelegibilidade superveniente deve surgir até a data final do pedido de registro e não pode ter sido discutida no processo de registro. O RCED é interposto em 3 dias após o último dia para a diplomação, com prazo suspenso de 20 de dezembro a 20 de janeiro.
+P: Hipóteses restritas do RCED || Inelegibilidade superveniente até o prazo de registro || Prazo de 3 dias após a diplomação || Suspensão entre 20 de dezembro e 20 de janeiro
+K: recurso contra expedição de diploma; RCED; inelegibilidade superveniente; condição de elegibilidade
+
+@CE 263
+I: No julgamento de uma mesma eleição, as decisões anteriores sobre questões de direito valem como precedentes para os demais casos, salvo se dois terços do tribunal votarem contra a tese. A regra busca coerência nas decisões de um mesmo pleito.
+P: Prejulgado em questões de direito || Superação por dois terços do tribunal || Coerência no mesmo pleito
+K: prejulgado; precedente; uniformidade; tribunal eleitoral

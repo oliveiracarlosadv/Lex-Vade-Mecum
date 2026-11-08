@@ -1,0 +1,224 @@
+@CE 169
+I: Durante a apuração, fiscais, delegados e candidatos podem apresentar impugnações, que a junta decide na hora, por maioria. Cabe recurso imediato, verbal ou escrito, que deve ser fundamentado em 48 horas para seguir adiante. Em eleições simultâneas, o recurso indica a eleição a que se refere e é instruído de ofício com certidão da decisão.
+P: Impugnações durante a apuração || Decisão imediata da junta por maioria || Recurso imediato, fundamentado em 48 horas
+K: impugnação; apuração; recurso eleitoral; junta eleitoral
+
+@CE 170
+I: A impugnação da identidade do eleitor feita na votação é resolvida pela comparação das assinaturas na folha individual de votação. No voto em separado, a junta segue os critérios do artigo para decidir se o voto vale.
+P: Comparação de assinaturas || Decisão sobre o voto em separado
+K: identidade do eleitor; impugnação; voto em separado; assinatura
+
+@CE 171
+I: Não cabe recurso contra a apuração por nulidade que não tenha sido impugnada perante a junta no momento da apuração. Como no art. 149, o vício deve ser apontado na hora, sob pena de preclusão.
+P: Impugnação imediata perante a junta || Preclusão das nulidades não arguidas
+K: preclusão; apuração; impugnação; recurso
+
+@CE 172
+I: Se o recurso tratar de erro na contagem ou vício nas cédulas e sobrecartas, as cédulas são guardadas em invólucro lacrado e rubricado, que acompanha o recurso, para permitir nova verificação pelo tribunal.
+P: Preservação das cédulas em invólucro lacrado || Prova para o julgamento do recurso
+K: recurso; cédulas; contagem de votos; prova
+
+@CE 173
+I: Resolvidas as impugnações, a junta apura os votos. O parágrafo único, incluído em 1982, permite usar sistema eletrônico na apuração, conforme o TSE. Foi um passo anterior à urna eletrônica.
+P: Apuração após resolver as impugnações || Sistema eletrônico autorizado pelo TSE
+K: apuração; sistema eletrônico; contagem de votos
+
+@CE 174
+I: Na apuração com cédulas, cada cédula é aberta e lida em voz alta. Votos em branco e nulos recebem carimbo e rubrica para evitar preenchimento posterior, e a apuração da urna seguinte só começa depois de registrados os brancos da anterior, sob as penas do art. 345.
+P: Leitura em voz alta das cédulas || Carimbo em votos brancos e nulos || Proteção contra fraude
+K: apuração; voto em branco; voto nulo; cédula
+
+@CE 175
+I: São nulas as cédulas fora do modelo oficial, sem autenticação ou com sinais que identifiquem o eleitor. Nas eleições majoritárias, é nulo o voto em mais de um candidato ou com marcação duvidosa. Nas proporcionais, o artigo indica quando o voto é nulo, por exemplo, quando não é possível identificar o candidato nem o partido.
+P: Nulidade da cédula || Nulidade do voto majoritário || Nulidade do voto proporcional || Proteção do sigilo
+K: voto nulo; cédula; apuração; sigilo do voto
+
+@CE 176
+I: Na eleição proporcional, conta-se o voto só para o partido (voto de legenda) quando o eleitor escreve apenas a sigla, indica mais de um candidato do mesmo partido ou não identifica com clareza o candidato, entre outros casos. A regra aproveita a vontade do eleitor de votar no partido.
+P: Voto de legenda || Indicação de mais de um candidato do mesmo partido || Aproveitamento da vontade do eleitor
+K: voto de legenda; sistema proporcional; apuração; partido
+
+@CE 177
+I: Na contagem dos votos proporcionais, erros de grafia não anulam o voto se o candidato for identificável. Se o eleitor escrever o nome de um candidato e o número de outro, vale o nome. O artigo traz outras regras para aproveitar o voto quando a intenção do eleitor é clara.
+P: Erro de grafia não anula o voto || Prevalência do nome sobre o número || Aproveitamento do voto
+K: apuração; voto proporcional; nome do candidato; número
+
+@CE 178
+I: O voto no candidato a Presidente vale também para o seu Vice, e o mesmo ocorre com Governador, Prefeito e Senador em relação ao vice ou aos suplentes, pois a chapa é única e indivisível.
+P: Voto na chapa inteira || Vice e suplentes acompanham o titular
+K: vice; suplente; chapa; eleição majoritária
+
+@CE 179
+I: Concluída a contagem, a junta registra os votos nos mapas e expede o boletim de apuração da seção, com votantes, votos por candidato e legenda, brancos, nulos e recursos. Mapas e boletins são assinados pela junta e pelos fiscais que quiserem. Os parágrafos seguintes regulam cópias aos partidos e correção de erros.
+P: Mapas e boletim de apuração || Dados que o boletim deve conter || Assinatura da junta e dos fiscais
+K: boletim de apuração; mapa; apuração; fiscalização
+
+@CE 180
+I: As regras do art. 179 valem também para as eleições municipais, com prazo de até três dias para apresentar o boletim à junta, e a recontagem é feita pela própria junta.
+P: Aplicação às eleições municipais || Prazo de três dias || Recontagem pela junta
+K: eleições municipais; boletim; recontagem
+
+@CE 181
+I: Fora dos casos previstos, a recontagem de votos só pode ser deferida pelo TRE, em recurso interposto logo após a apuração de cada urna. A junta não pode reabrir urnas já apuradas.
+P: Recontagem só pelo TRE || Recurso imediato após a apuração da urna || Vedação de reabertura pela junta
+K: recontagem; urna; TRE; apuração
+
+@CE 182
+I: Os títulos de eleitores de outras seções são enviados aos juízes das zonas de origem para anotar o voto. Se houver indício de fraude no confronto, o juiz autua os documentos e toma as providências.
+P: Anotação do voto dado em outra seção || Apuração de indícios de fraude
+K: voto em outra seção; anotação; fraude
+
+@CE 183
+I: Concluída a apuração de uma urna, as cédulas voltam a ela, que é lacrada e só pode ser reaberta após o trânsito em julgado da diplomação, salvo recontagem. Descumprir a regra é o crime do art. 314.
+P: Lacração da urna após a apuração || Reabertura só após a diplomação definitiva || Crime do art. 314
+K: urna; lacração; diplomação; crime eleitoral
+
+@CE 184
+I: Terminada a apuração, a junta envia ao TRE em 24 horas os papéis das eleições estaduais e federais, com a ata geral, em invólucro lacrado e rubricado.
+P: Remessa ao TRE em 24 horas || Ata geral da junta || Invólucro lacrado
+K: junta eleitoral; remessa; TRE; ata geral
+
+@CE 185
+I: Sessenta dias após o trânsito em julgado da diplomação, as cédulas são retiradas das urnas e incineradas, após edital, na presença do juiz. A Justiça Eleitoral pode autorizar a reciclagem das cédulas em favor do ensino público ou de entidades beneficentes, garantido o sigilo.
+P: Incineração das cédulas || Prazo de 60 dias após a diplomação || Reciclagem com garantia de sigilo
+K: cédulas; incineração; reciclagem; sigilo
+
+@CE 186
+I: Nas eleições municipais, terminada a apuração, a junta resolve as dúvidas pendentes, totaliza os votos, calcula os quocientes, proclama os eleitos e lavra a ata geral, com as seções apuradas e anuladas, as impugnações, a votação de cada partido e candidato, os eleitos e os suplentes.
+P: Totalização municipal pela junta || Cálculo dos quocientes || Proclamação dos eleitos || Ata geral
+K: eleições municipais; totalização; proclamação; ata geral
+
+@CE 187
+I: Se a junta verificar que os votos das seções anuladas ou impedidas podem mudar o resultado municipal, comunica o TRE para que se realizem eleições suplementares nessas seções, com novas mesas, e depois confirma ou altera o resultado.
+P: Seções anuladas com influência no resultado || Eleições suplementares || Confirmação ou revisão do resultado
+K: eleição suplementar; seção anulada; junta eleitoral; resultado
+
+@CE 188
+I: O TSE pode autorizar a contagem dos votos pelas próprias mesas receptoras nas zonas ou seções indicadas pelo TRE. Era uma forma de acelerar a apuração antes da urna eletrônica.
+P: Contagem pela mesa receptora || Autorização do TSE e indicação do TRE
+K: contagem de votos; mesa receptora; apuração
+
+@CE 189
+I: Nas seções em que a mesa conta os votos, os mesários são nomeados escrutinadores da junta.
+P: Mesários atuam como escrutinadores
+K: escrutinador; mesário; contagem de votos
+
+@CE 190
+I: A mesa não faz a contagem se não se sentir segura ou se algum eleitor tiver votado sob impugnação. Nesses casos, segue o procedimento das seções sem contagem pela mesa.
+P: Contagem suspensa por falta de segurança || Voto sob impugnação impede a contagem
+K: contagem de votos; mesa receptora; impugnação
+
+@CE 191
+I: Terminada a votação, o presidente da mesa adota as providências de encerramento do art. 154 antes de iniciar a contagem.
+P: Providências de encerramento do art. 154
+K: encerramento da votação; mesa receptora
+
+@CE 192
+I: Lavrada a ata, o presidente abre a urna diante dos fiscais e confere se o número de cédulas coincide com o de votantes. Se não coincidir, a mesa não conta os votos, relacra a urna e a envia à junta.
+P: Conferência entre cédulas e votantes || Divergência impede a contagem pela mesa
+K: contagem de votos; urna; cédulas; votantes
+
+@CE 193
+I: Se o número de cédulas e de votantes coincidir, a mesa mistura as cédulas, conta os votos segundo as regras dos arts. 169 e seguintes e lavra ata resumida, com boletim de resultados cuja cópia é entregue aos fiscais.
+P: Mistura das cédulas para o sigilo || Contagem pelas regras da junta || Ata resumida e cópia do boletim aos fiscais
+K: contagem de votos; boletim; ata; fiscais
+
+@CE 194
+I: Após a ata, as cédulas voltam à urna, que é lacrada e entregue ao juiz eleitoral mediante recibo. O juiz pode recolher as urnas nos próprios locais, e fiscais e delegados podem acompanhá-las até a junta.
+P: Lacração e entrega da urna ao juiz || Recolhimento nos locais de votação || Acompanhamento pelos fiscais
+K: urna; entrega; fiscalização; junta
+
+@CE 195
+I: Recebida a urna, a junta examina sua regularidade, revisa a conta do boletim da mesa e só abre a urna para conferir os votos se o resultado não fechar ou se houver impugnação. Também resolve as impugnações da ata.
+P: Revisão do boletim da mesa || Abertura da urna só quando necessário || Decisão das impugnações
+K: junta eleitoral; boletim; revisão; apuração
+
+@CE 196
+I: A junta pode reunir os membros das mesas e seus próprios integrantes em local amplo no dia seguinte à eleição para apurar em conjunto, com um fiscal por partido em cada urna e decisões dos incidentes pela junta.
+P: Apuração conjunta no dia seguinte || Fiscalização partidária || Decisão pela junta
+K: apuração; junta eleitoral; mesas receptoras; fiscais
+
+@CE 197
+I: Na apuração, o TRE resolve as dúvidas e recursos das eleições federais e estaduais, totaliza os votos, calcula os quocientes e as sobras, proclama os eleitos e expede os diplomas, além de fazer a apuração parcial da eleição presidencial no Estado.
+P: Totalização estadual pelo TRE || Quocientes e sobras || Proclamação e diplomação || Apuração parcial da eleição presidencial
+K: TRE; apuração; diplomação; quociente eleitoral
+
+@CE 198
+I: A apuração no TRE começa no dia seguinte ao recebimento dos primeiros resultados das juntas, segue sem interrupção, inclusive nos fins de semana, e deve terminar em até 30 dias, prorrogáveis uma vez por 15 dias pelo TSE. Os membros do TRE que descumprirem o prazo sofrem multa.
+P: Prazo de 30 dias para a apuração no TRE || Prorrogação única de 15 dias || Multa por descumprimento
+K: TRE; apuração; prazo; prorrogação
+
+@CE 199
+I: Antes da apuração, o TRE forma uma Comissão Apuradora de três membros, que publica boletins diários e elabora relatório com os resultados. Os delegados dos partidos podem acompanhar os trabalhos, sem intervir.
+P: Comissão Apuradora de três membros || Boletim diário dos trabalhos || Acompanhamento pelos partidos
+K: comissão apuradora; TRE; apuração; relatório
+
+@CE 200
+I: O relatório da Comissão Apuradora fica três dias à disposição dos partidos e candidatos. Depois, os partidos têm dois dias para reclamar, e a Comissão responde em três dias com aditamento. O TRE examina as reclamações antes de aprovar o relatório.
+P: Vista do relatório por três dias || Reclamações em dois dias || Aditamento da Comissão
+K: relatório; reclamação; comissão apuradora; partidos
+
+@CE 201
+I: Com o relatório, o TRE se reúne para conhecer o total dos votos. Se as seções anuladas ou impedidas puderem alterar o resultado, ordena novas eleições nelas, entre 15 e 30 dias, e o parágrafo único fixa as regras dessas eleições, como a votação apenas pelos eleitores da seção.
+P: Total dos votos apurados || Eleições suplementares nas seções anuladas || Prazo de 15 a 30 dias
+K: eleição suplementar; TRE; seções anuladas; apuração
+
+@CE 202
+I: Da reunião do TRE lavra-se ata geral com as seções apuradas e anuladas, as impugnações, a votação dos partidos, os quocientes, os votados em ordem decrescente, os eleitos e os suplentes.
+P: Ata geral da apuração estadual || Conteúdo obrigatório da ata
+K: ata geral; TRE; eleitos; suplentes
+
+@CE 203
+I: Quando as eleições estaduais coincidem com a presidencial, o TRE separa a apuração e faz atas e relatórios distintos, enviando ao TSE os resultados parciais da eleição presidencial.
+P: Apuração separada da eleição presidencial || Remessa dos resultados ao TSE
+K: eleição presidencial; TRE; apuração; ata
+
+@CE 204
+I: O TRE pode determinar que a Comissão Apuradora faça a totalização dos resultados de cada urna, comunicando a decisão até 30 dias antes da eleição. Os juízes enviam diariamente os mapas das urnas apuradas.
+P: Totalização pela Comissão Apuradora || Comunicação prévia de 30 dias || Envio diário dos mapas
+K: totalização; comissão apuradora; mapas; TRE
+
+@CE 205
+I: O TSE faz a apuração geral da eleição presidencial com base nos resultados verificados pelos TREs em cada Estado.
+P: Apuração geral pelo TSE || Base nos resultados dos TREs
+K: TSE; eleição presidencial; apuração geral
+
+@CE 206
+I: Antes da eleição, o Presidente do TSE sorteia um relator para cada grupo de Estados, que receberá os recursos e documentos da eleição presidencial desse grupo.
+P: Sorteio de relatores por grupo de Estados
+K: TSE; relator; eleição presidencial
+
+@CE 207
+I: Recebidos os resultados de cada Estado e julgados os recursos, o relator apresenta em 5 dias relatório com os votos válidos e nulos, as correções necessárias, a votação de cada candidato e o resumo das decisões e recursos.
+P: Relatório por Estado em 5 dias || Conteúdo do relatório
+K: TSE; relatório; eleição presidencial; apuração
+
+@CE 208
+I: O relatório de cada Estado fica dois dias à disposição dos partidos e candidatos, que podem apresentar alegações em dois dias. Depois, o relator leva o caso a julgamento em dois dias.
+P: Vista do relatório por dois dias || Alegações dos interessados || Julgamento em dois dias
+K: TSE; relatório; impugnação; eleição presidencial
+
+@CE 209
+I: O julgamento do relatório tem preferência sobre outros processos. Havendo impugnação, os partidos podem sustentar oralmente por 15 minutos. Se houver alterações, a Secretaria refaz as folhas e o mapa da circunscrição.
+P: Preferência no julgamento || Sustentação oral de 15 minutos || Correção dos mapas
+K: TSE; julgamento; sustentação oral; apuração
+
+@CE 210
+I: Os mapas de todas as circunscrições e a folha de apuração final são distribuídos a um relator geral, que, ouvido o Procurador-Geral, corrige erros de cálculo em 48 horas e apresenta o relatório final.
+P: Relator geral da eleição presidencial || Correção de erros de cálculo || Relatório final
+K: TSE; relator geral; apuração final
+
+@CE 211
+I: Aprovada a apuração geral, o Presidente do TSE proclama eleito Presidente o candidato com maioria absoluta dos votos, excluídos brancos e nulos. A regra está em sintonia com o art. 77, § 2º, da Constituição.
+P: Proclamação do Presidente eleito || Maioria absoluta dos votos válidos (CF, art. 77)
+K: eleição presidencial; maioria absoluta; votos válidos; proclamação
+
+@CE 212
+I: Se os votos das seções anuladas ou impedidas puderem alterar a classificação na eleição presidencial, o TSE determina novas eleições nessas seções, no primeiro domingo ou feriado após 15 dias. Os eleitos só são diplomados depois dessas eleições suplementares.
+P: Eleições suplementares na eleição presidencial || Prazo de 15 dias || Diplomação após as suplementares
+K: eleição suplementar; eleição presidencial; TSE; diplomação
+
+@CE 213
+I: O artigo previa que, sem maioria absoluta, o Congresso Nacional escolheria o Presidente ou haveria nova eleição entre os dois mais votados. A Constituição de 1988 adotou o segundo turno direto: se ninguém alcança a maioria absoluta, faz-se nova eleição no último domingo de outubro entre os dois mais votados (art. 77, § 3º). A escolha pelo Congresso não foi recebida.
+P: Escolha pelo Congresso não recebida pela CF/88 || Segundo turno entre os dois mais votados (CF, art. 77, §§ 3º a 5º) || Substituição em caso de morte ou desistência
+K: segundo turno; maioria absoluta; eleição presidencial; Congresso Nacional

@@ -1,0 +1,249 @@
+@CE 264
+I: Contra atos, resoluções ou despachos dos presidentes dos TREs e do TSE cabe recurso ao respectivo tribunal, em 3 dias.
+P: Recurso contra atos do presidente do tribunal || Prazo de 3 dias
+K: recurso; presidente do tribunal; agravo regimental; prazo
+
+@CE 265
+I: Contra atos e decisões dos juízes e das juntas eleitorais cabe recurso ao TRE. Os recursos contra decisões das juntas seguem o rito dos arts. 169 e seguintes.
+P: Recurso eleitoral ao TRE || Rito próprio para decisões das juntas
+K: recurso eleitoral; juiz eleitoral; junta eleitoral; TRE
+
+@CE 266
+I: O recurso é interposto por petição fundamentada dirigida ao juiz eleitoral, sem necessidade de termo, podendo vir com novos documentos. Se alegar coação, fraude, abuso de poder ou captação ilícita de votos que dependam de prova, basta indicar os meios de prova.
+P: Petição fundamentada ao juiz || Possibilidade de novos documentos || Indicação de provas em casos de fraude ou abuso
+K: recurso eleitoral; petição; prova; fraude
+
+@CE 267
+I: Recebido o recurso, o juiz intima o recorrido para apresentar contrarrazões no mesmo prazo, com ou sem documentos. A intimação é feita por publicação no jornal oficial ou pessoalmente, e por edital se o recorrido não for encontrado em 48 horas. Depois, o juiz pode manter ou reformar a decisão e envia os autos ao TRE.
+P: Contrarrazões no mesmo prazo do recurso || Formas de intimação || Juízo de retratação e remessa ao TRE
+K: contrarrazões; intimação; recurso eleitoral; edital
+
+@CE 268
+I: No TRE, as partes não podem apresentar novas alegações escritas nem documentos, salvo no caso do art. 270, que trata de provas sobre fraude, coação e abuso.
+P: Vedação de novas alegações e documentos no TRE || Exceção do art. 270
+K: recurso eleitoral; TRE; documentos; prova
+
+@CE 269
+I: Os recursos são distribuídos a um relator em 24 horas, na ordem rigorosa de antiguidade, sob pena de nulidade. A Procuradoria Regional Eleitoral dá parecer em 5 dias; se não o fizer, a parte pode pedir a inclusão em pauta, e o parecer é dado oralmente.
+P: Distribuição em 24 horas por antiguidade || Parecer do Ministério Público em 5 dias || Parecer oral se houver atraso
+K: distribuição; relator; parecer; Ministério Público Eleitoral
+
+@CE 270
+I: Se o recurso tratar de coação, fraude, abuso de poder ou captação ilícita de votos dependente de prova indicada pelas partes, o relator a defere em 24 horas, e ela é produzida em prazo curto. Valem como prova justificações e perícias feitas perante o juiz da zona, com citação dos partidos e do Ministério Público.
+P: Produção de provas no TRE em casos de fraude ou abuso || Prazo curto || Justificações e perícias
+K: prova; fraude; abuso de poder; recurso; TRE
+
+@CE 271
+I: O relator devolve os autos em 8 dias improrrogáveis para inclusão em pauta. No recurso contra expedição de diploma, há revisor, que devolve os autos em 4 dias. As pautas seguem a ordem de devolução dos processos.
+P: Prazo de 8 dias para o relator || Revisor no RCED || Ordem das pautas
+K: relator; pauta; revisor; RCED
+
+@CE 272
+I: No julgamento, após o relatório, cada parte pode sustentar oralmente por 10 minutos, ou 20 minutos no recurso contra expedição de diploma.
+P: Sustentação oral de 10 minutos || 20 minutos no RCED
+K: sustentação oral; julgamento; recurso eleitoral
+
+@CE 273
+I: O relator vencedor, ou o designado, apresenta o acórdão em até 5 dias, com síntese das questões decididas. Se houver taquigrafia, as notas são juntadas ao processo.
+P: Acórdão em 5 dias || Síntese das questões || Notas taquigráficas
+K: acórdão; relator; julgamento
+
+@CE 274
+I: O acórdão é publicado no órgão oficial, valendo a publicação da conclusão. Se não for publicado em 3 dias, as partes são intimadas pessoalmente e, não encontradas em 48 horas, por edital. Hoje as publicações são feitas no Diário da Justiça Eletrônico e, no período eleitoral, também em sessão.
+P: Publicação do acórdão || Intimação pessoal ou por edital || Publicação em sessão no período eleitoral
+K: publicação; acórdão; intimação; edital
+
+@CE 275
+I: Cabem embargos de declaração nas hipóteses do CPC (obscuridade, contradição, omissão ou erro material), em 3 dias da publicação, sem preparo. Com a redação dada pelo CPC de 2015, os embargos interrompem o prazo para outros recursos, e os protelatórios geram multa.
+P: Embargos de declaração nas hipóteses do CPC || Prazo de 3 dias || Interrupção do prazo de outros recursos || Multa por embargos protelatórios
+K: embargos de declaração; CPC; prazo; recurso eleitoral
+
+@CE 276
+I: As decisões dos TREs são finais, salvo os casos de recurso ao TSE. Cabe recurso especial quando a decisão contraria expressa disposição de lei ou diverge de outro tribunal eleitoral, e recurso ordinário quando trata de diplomação nas eleições federais e estaduais ou nega habeas corpus ou mandado de segurança. O prazo é de 3 dias. A Constituição (art. 121, § 4º) também prevê essas hipóteses e inclui inelegibilidade e perda de mandato.
+P: Recurso especial eleitoral || Recurso ordinário || Prazo de 3 dias || Hipóteses constitucionais (CF, art. 121, § 4º)
+K: recurso especial eleitoral; recurso ordinário; TSE; prazo
+
+@CE 277
+I: Interposto recurso ordinário contra decisão do TRE, o presidente pode abrir vista ao recorrido para contrarrazões no mesmo prazo, e os autos seguem ao TSE.
+P: Contrarrazões ao recurso ordinário || Remessa ao TSE
+K: recurso ordinário; contrarrazões; TSE
+
+@CE 278
+I: No recurso especial, a petição é juntada em 48 horas e o presidente do TRE decide em 48 horas, de forma fundamentada, se o admite. Admitido, abre-se vista ao recorrido e os autos seguem ao TSE.
+P: Juízo de admissibilidade pelo presidente do TRE || Prazos de 48 horas || Contrarrazões e remessa ao TSE
+K: recurso especial eleitoral; admissibilidade; presidente do TRE
+
+@CE 279
+I: Se o recurso especial não for admitido, cabe agravo em 3 dias, com exposição do fato e do direito e as razões para reformar a decisão. O presidente do TRE não pode negar seguimento ao agravo. Hoje, por orientação do TSE, o agravo é processado nos próprios autos, sem formação de instrumento.
+P: Agravo contra a inadmissão do recurso especial || Prazo de 3 dias || Presidente não pode barrar o agravo || Processamento nos próprios autos
+K: agravo; recurso especial; inadmissão; TSE
+
+@CE 280
+I: Aplicam-se ao TSE as regras dos TREs sobre vedação de novos documentos, distribuição, provas, prazo do relator, sustentação oral, acórdão, publicação e embargos de declaração.
+P: Regras dos TREs aplicáveis ao TSE
+K: TSE; procedimento recursal; remissão
+
+@CE 281
+I: As decisões do TSE são irrecorríveis, salvo as que declaram a invalidade de lei ou ato por contrariar a Constituição e as que negam habeas corpus ou mandado de segurança, das quais cabe recurso ao STF em 3 dias. Pela Constituição (art. 121, § 3º), cabe recurso extraordinário quando a decisão do TSE contraria a Constituição, e o STF fixou o prazo de 3 dias (Súmula 728).
+P: Irrecorribilidade das decisões do TSE || Exceções constitucionais || Recurso ao STF em 3 dias (Súmula 728)
+K: recurso extraordinário; TSE; STF; Súmula 728; irrecorribilidade
+
+@CE 282
+I: Se o recurso ao STF não for admitido, cabe agravo em 3 dias, nos moldes do art. 279.
+P: Agravo contra a inadmissão do recurso ao STF || Prazo de 3 dias
+K: agravo; recurso extraordinário; STF
+
+@CE 283
+I: Para fins penais, são membros e funcionários da Justiça Eleitoral os magistrados que presidem juntas ou atuam por designação, os cidadãos que integram órgãos eleitorais, os mesários e membros de juntas e os servidores requisitados. O conceito de funcionário público inclui quem exerce função pública, mesmo transitória ou sem remuneração, e quem atua em entidade paraestatal ou sociedade de economia mista.
+P: Mesários e membros de juntas são funcionários para fins penais || Conceito amplo de funcionário público
+K: funcionário público; mesário; crimes eleitorais; Justiça Eleitoral
+
+@CE 284
+I: Quando o Código não indica a pena mínima, ela é de 15 dias para a detenção e de um ano para a reclusão. Muitos crimes eleitorais trazem apenas a pena máxima ("até").
+P: Pena mínima de 15 dias de detenção || Pena mínima de 1 ano de reclusão
+K: pena mínima; detenção; reclusão; crimes eleitorais
+
+@CE 285
+I: Quando a lei manda agravar ou atenuar a pena sem dizer quanto, o juiz fixa o aumento ou a redução entre um quinto e um terço, respeitados os limites da pena do crime.
+P: Agravação ou atenuação entre 1/5 e 1/3 || Limites da pena cominada
+K: dosimetria; agravante; atenuante; crimes eleitorais
+
+@CE 286
+I: A multa penal eleitoral é fixada em dias-multa, de 1 a 300. Cada dia-multa vale de um salário-mínimo diário a um salário-mínimo mensal, conforme a situação econômica do condenado, e pode ser triplicada se for ineficaz.
+P: Dias-multa de 1 a 300 || Valor do dia-multa conforme a situação econômica || Aumento até o triplo
+K: dia-multa; pena de multa; crimes eleitorais
+
+@CE 287
+I: Aplicam-se aos crimes eleitorais as regras gerais do Código Penal, como as de tentativa, concurso de crimes, prescrição e extinção da punibilidade.
+P: Aplicação subsidiária da Parte Geral do Código Penal
+K: Código Penal; parte geral; crimes eleitorais
+
+@CE 288
+I: Nos crimes eleitorais cometidos pela imprensa, rádio ou televisão, aplicam-se só as normas do Código Eleitoral e as leis a que ele remete.
+P: Crimes eleitorais pelos meios de comunicação || Aplicação exclusiva do Código Eleitoral
+K: imprensa; rádio; televisão; crimes eleitorais
+
+@CE 289
+I: É crime inscrever-se como eleitor de forma fraudulenta, por exemplo, com documento falso ou declarando residência falsa para transferir o domicílio eleitoral. Pena: reclusão de até 5 anos e multa.
+P: Inscrição fraudulenta || Transferência com domicílio falso || Reclusão até 5 anos
+K: inscrição fraudulenta; crime eleitoral; domicílio falso; alistamento
+
+@CE 290
+I: É crime induzir alguém a se inscrever como eleitor com infração ao Código, como nos casos de transferência irregular de eleitores. Pena: reclusão de até 2 anos e multa.
+P: Induzimento à inscrição irregular || Reclusão até 2 anos
+K: induzimento; inscrição irregular; crime eleitoral
+
+@CE 291
+I: É crime o juiz fazer fraudulentamente a inscrição de um alistando. Pena: reclusão de até 5 anos e multa.
+P: Inscrição fraudulenta pelo juiz || Crime próprio
+K: juiz eleitoral; inscrição fraudulenta; crime eleitoral
+
+@CE 292
+I: É crime a autoridade judiciária negar ou retardar sem fundamento legal a inscrição requerida. Pena: 30 a 60 dias-multa.
+P: Negar ou retardar a inscrição sem fundamento || Pena de multa
+K: inscrição; autoridade judiciária; crime eleitoral
+
+@CE 293
+I: É crime perturbar ou impedir o alistamento de qualquer forma. Pena: detenção de 15 dias a 6 meses ou multa.
+P: Perturbação ou impedimento do alistamento
+K: alistamento; perturbação; crime eleitoral
+
+@CE 295
+I: É crime reter o título eleitoral contra a vontade do eleitor, prática usada para controlar votos. Pena: detenção de até 2 meses ou multa.
+P: Retenção do título eleitoral || Proteção da liberdade do eleitor
+K: título eleitoral; retenção; crime eleitoral
+
+@CE 296
+I: É crime promover desordem que prejudique os trabalhos eleitorais. Pena: detenção de até 2 meses e multa.
+P: Desordem nos trabalhos eleitorais
+K: desordem; trabalhos eleitorais; crime eleitoral
+
+@CE 297
+I: É crime impedir ou dificultar o exercício do voto. O tipo protege a liberdade do sufrágio garantida no art. 234. Pena: detenção de até 6 meses e multa.
+P: Impedir ou embaraçar o voto || Proteção da liberdade do sufrágio
+K: sufrágio; liberdade do voto; crime eleitoral
+
+@CE 298
+I: É crime prender ou deter eleitor, mesário, fiscal, delegado ou candidato em violação ao art. 236. Pena: reclusão de até 4 anos.
+P: Prisão ilegal no período eleitoral || Violação da garantia do art. 236 || Reclusão até 4 anos
+K: prisão ilegal; garantia eleitoral; crime eleitoral
+
+@CE 299
+I: É o crime de corrupção eleitoral: dar, oferecer, prometer, pedir ou receber dinheiro, presente ou qualquer vantagem para obter ou dar voto ou para conseguir abstenção, ainda que a oferta não seja aceita. Pune tanto quem compra quanto quem vende o voto. Pena: reclusão de até 4 anos e multa. Na esfera civil eleitoral, a captação ilícita de sufrágio (Lei nº 9.504/1997, art. 41-A) leva à cassação do registro ou diploma.
+P: Corrupção eleitoral ativa e passiva || Crime formal: basta a oferta || Relação com a captação ilícita de sufrágio (art. 41-A)
+K: compra de votos; corrupção eleitoral; captação ilícita de sufrágio; crime eleitoral
+
+@CE 300
+I: É crime o servidor público usar sua autoridade para coagir alguém a votar ou não votar em determinado candidato ou partido. A pena é agravada se o agente for membro ou servidor da Justiça Eleitoral.
+P: Coação eleitoral por servidor público || Agravação para membros da Justiça Eleitoral
+K: coação eleitoral; servidor público; abuso de autoridade; crime eleitoral
+
+@CE 301
+I: É crime usar violência ou grave ameaça para coagir alguém a votar ou não votar em determinado candidato ou partido, mesmo que o objetivo não seja alcançado. Pena: reclusão de até 4 anos e multa. Abrange, por exemplo, a coação de empregados pelo empregador.
+P: Coação eleitoral com violência ou grave ameaça || Crime formal || Reclusão até 4 anos
+K: coação eleitoral; grave ameaça; assédio eleitoral; crime eleitoral
+
+@CE 302
+I: É crime promover, no dia da eleição, a concentração de eleitores para impedir, embaraçar ou fraudar o voto, inclusive com fornecimento gratuito de alimento e transporte coletivo. Pena: reclusão de 4 a 6 anos e multa. A Lei nº 6.091/1974 regula o transporte de eleitores em zonas rurais pela Justiça Eleitoral.
+P: Concentração de eleitores no dia da eleição || Transporte e alimentação gratuitos || Reclusão de 4 a 6 anos
+K: transporte de eleitores; curral eleitoral; crime eleitoral; dia da eleição
+
+@CE 303
+I: É crime aumentar os preços de bens e serviços necessários à eleição, como transporte, alimentação de eleitores, impressão e publicidade. Pena: multa.
+P: Majoração de preços ligados à eleição || Pena de multa
+K: majoração de preços; crime eleitoral; serviços eleitorais
+
+@CE 304
+I: É crime ocultar, sonegar, monopolizar ou recusar, no dia da eleição, o fornecimento normal de bens, alimentação e transporte, ou dar exclusividade deles a partido ou candidato. Pena: multa.
+P: Sonegação de bens e transporte no dia da eleição || Exclusividade a partido ou candidato
+K: sonegação; transporte; crime eleitoral; dia da eleição
+
+@CE 305
+I: É crime a autoridade estranha à mesa receptora intervir em seu funcionamento, salvo o juiz eleitoral. Pena: detenção de até 6 meses e multa.
+P: Intervenção indevida na mesa receptora || Exceção do juiz eleitoral
+K: mesa receptora; intervenção; autoridade; crime eleitoral
+
+@CE 306
+I: É crime não observar a ordem em que os eleitores devem ser chamados a votar. Pena: multa.
+P: Desrespeito à ordem de votação
+K: ordem de votação; mesa receptora; crime eleitoral
+
+@CE 307
+I: É crime entregar ao eleitor cédula oficial já marcada. Pena: reclusão de até 5 anos e multa. O tipo tem pouca aplicação com a urna eletrônica, mas vale nas votações por cédula.
+P: Cédula já marcada || Reclusão até 5 anos
+K: cédula; fraude; crime eleitoral
+
+@CE 308
+I: É crime rubricar e fornecer a cédula oficial em momento diferente da entrega ao eleitor. Pena: reclusão de até 5 anos e multa.
+P: Rubrica e fornecimento irregular da cédula
+K: cédula; rubrica; crime eleitoral
+
+@CE 309
+I: É crime votar ou tentar votar mais de uma vez, ou no lugar de outra pessoa. A tentativa é punida como o crime consumado. Pena: reclusão de até 3 anos. A identificação biométrica reduziu esse tipo de fraude.
+P: Voto duplo ou no lugar de outro || Tentativa equiparada à consumação || Reclusão até 3 anos
+K: voto duplo; falsa identidade; fraude eleitoral; biometria
+
+@CE 310
+I: É crime praticar, ou o mesário permitir, irregularidade que leve à anulação da votação, salvo o caso do art. 311. Pena: detenção de até 6 meses ou multa.
+P: Irregularidade que anula a votação || Responsabilidade do mesário
+K: mesário; nulidade; irregularidade; crime eleitoral
+
+@CE 311
+I: É crime votar em seção em que não está inscrito, fora dos casos permitidos, e é crime o presidente da mesa admitir esse voto. Pena: detenção de até 1 mês ou multa para o eleitor, e multa maior para o presidente da mesa.
+P: Voto em seção errada || Responsabilidade do presidente da mesa
+K: seção eleitoral; voto irregular; presidente da mesa; crime eleitoral
+
+@CE 312
+I: É crime violar ou tentar violar o sigilo do voto. Pena: detenção de até 2 anos. A tentativa é punida como o crime consumado. A jurisprudência discute se fotografar o próprio voto se enquadra no tipo; o porte de celular na cabine é proibido pelas normas do TSE.
+P: Violação do sigilo do voto || Tentativa equiparada || Proibição de celular na cabine
+K: sigilo do voto; voto secreto; crime eleitoral; cabine
+
+@CE 313
+I: É crime o juiz e os membros da junta deixarem de expedir o boletim de apuração logo após apurar cada urna, mesmo que os fiscais dispensem. A mesma pena vale para a mesa que conta os votos e não expede o boletim. Pena: multa.
+P: Dever de expedir o boletim de cada urna || Irrelevância da dispensa pelos fiscais
+K: boletim de apuração; junta eleitoral; crime eleitoral
+
+@CE 314
+I: É crime o juiz e os membros da junta não recolherem as cédulas, fecharem e lacrarem a urna logo após a apuração de cada seção, mesmo que os fiscais dispensem. A regra também alcança a mesa que conta os votos. Pena: detenção de até 2 meses ou multa.
+P: Dever de lacrar a urna após a apuração || Irrelevância da dispensa pelos fiscais
+K: urna; lacração; apuração; crime eleitoral

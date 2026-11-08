@@ -1,0 +1,224 @@
+@CE 122
+I: Os juízes eleitorais devem treinar os mesários sobre o processo de votação, em reuniões convocadas com antecedência. Hoje o treinamento também é feito a distância, por plataformas da Justiça Eleitoral.
+P: Treinamento obrigatório dos mesários || Reuniões convocadas pelo juiz
+K: mesários; treinamento; juiz eleitoral; preparação da eleição
+
+@CE 123
+I: Os mesários substituem o presidente para que sempre haja um responsável pela ordem da votação, e todos assinam a ata. O presidente deve estar na abertura e no encerramento, salvo força maior comunicada com 24 horas de antecedência. Se ele não chegar até as 7h30, assume o primeiro mesário e, sucessivamente, os demais membros. Na falta de membros, o presidente pode nomear eleitores presentes para completar a mesa.
+P: Substituição do presidente pelos mesários || Presença na abertura e no encerramento || Substituição se o presidente não chegar até 7h30 || Nomeação de eleitores ad hoc
+K: mesa receptora; presidente da mesa; substituição; ata da eleição
+
+@CE 124
+I: O mesário que falta sem justa causa, apresentada ao juiz em até 30 dias, paga multa de 50% a um salário-mínimo. Se for servidor público, a pena é suspensão de até 15 dias. As penas dobram se a mesa deixar de funcionar por culpa dos faltosos. O texto também pune o mesário que abandona os trabalhos.
+P: Multa ao mesário faltoso || Justificativa em 30 dias || Suspensão do servidor público || Pena em dobro se a mesa não funcionar
+K: mesário faltoso; multa; justificativa; servidor público
+
+@CE 125
+I: Se a mesa receptora não se reunir, os eleitores da seção votam na seção mais próxima do mesmo juiz, e seus votos vão para a urna de sua própria seção, que é levada até lá com as folhas de votação, acompanhada dos fiscais que quiserem.
+P: Mesa que não se instala || Voto em seção próxima com a urna original || Transporte acompanhado por fiscais
+K: mesa receptora; seção eleitoral; votação; urna
+
+@CE 126
+I: Se nenhuma mesa de um município funcionar no dia da eleição, o presidente do TRE marca nova data, entre 15 e 30 dias, e determina inquérito para apurar as causas e punir os responsáveis.
+P: Nova eleição se nenhuma mesa funcionar || Prazo entre 15 e 30 dias || Inquérito para apurar responsabilidades
+K: falha na eleição; nova data; inquérito; município
+
+@CE 127
+I: O presidente da mesa recebe os votos, resolve as dúvidas na hora, mantém a ordem com auxílio da força pública, comunica ao juiz as ocorrências, envia o material à junta, rubrica as cédulas e assina as observações dos fiscais, entre outras tarefas.
+P: Atribuições do presidente da mesa || Decisão imediata das dúvidas || Manutenção da ordem
+K: presidente da mesa; atribuições; mesa receptora; votação
+
+@CE 128
+I: Os secretários distribuem as senhas aos eleitores na ordem numérica, lavram a ata da eleição e cumprem outras tarefas das instruções, divididas entre os dois.
+P: Distribuição das senhas || Lavratura da ata || Divisão de tarefas entre os secretários
+K: secretário da mesa; ata; senhas; mesa receptora
+
+@CE 129
+I: Nas eleições proporcionais, o presidente da mesa deve preservar as listas de candidatos afixadas nas cabines e repô-las se forem danificadas. O eleitor que inutilizar ou arrancar essas listas comete o crime do art. 297.
+P: Preservação das listas de candidatos || Reposição imediata || Crime do art. 297
+K: lista de candidatos; cabine; crime eleitoral
+
+@CE 130
+I: Em estabelecimentos de internação coletiva de pessoas com hanseníase, os mesários devem ser escolhidos preferencialmente entre médicos e funcionários do próprio local. O texto usa a linguagem da época e reflete política de isolamento já superada.
+P: Mesas em locais de internação coletiva || Preferência por médicos e funcionários || Linguagem e política da época
+K: hanseníase; internação coletiva; mesa receptora
+
+@CE 131
+I: Cada partido pode nomear dois delegados por município (ou por zona, se houver várias) e dois fiscais por mesa, atuando um de cada vez. Fiscais e delegados não podem ser membros da mesa, e suas credenciais são visadas pelo juiz. A Lei nº 9.504/1997 (art. 65) também regula a fiscalização.
+P: Delegados e fiscais partidários || Um fiscal por vez na mesa || Credenciais visadas pelo juiz
+K: fiscal de partido; delegado de partido; credencial; fiscalização
+
+@CE 132
+I: Candidatos registrados, delegados e fiscais podem fiscalizar a votação, protestar e impugnar perante a mesa, inclusive quanto à identidade do eleitor.
+P: Fiscalização da votação || Protestos e impugnações || Impugnação da identidade do eleitor
+K: fiscalização; impugnação; identidade do eleitor; candidatos
+
+@CE 133
+I: Até 72 horas antes da eleição, o juiz envia a cada mesa o material da votação: lista de eleitores, relação de candidatos, folhas de votação, cédulas, urna, sobrecartas e outros itens. Com a urna eletrônica, o material é definido pelas instruções do TSE.
+P: Envio do material até 72 horas antes || Lista de eleitores e candidatos || Material definido pelo TSE
+K: material de votação; urna; mesa receptora; preparação
+
+@CE 134
+I: Nos estabelecimentos de internação coletiva de pessoas com hanseníase, o Código previa urnas de lona. A regra é da época da votação em cédula e do isolamento sanitário, hoje superados.
+P: Urnas de lona em locais de internação || Regra da época da cédula de papel
+K: urna; hanseníase; internação coletiva
+
+@CE 135
+I: Os locais de votação são designados pelo juiz 60 dias antes da eleição, com publicação que facilite ao eleitor encontrá-los. Preferem-se prédios públicos, e o particular deve ceder gratuitamente seu imóvel quando necessário. É proibido usar imóvel de candidato, de dirigente ou delegado partidário, de autoridade policial ou de seus parentes, e também instalar seções em fazendas, sítios e outras propriedades rurais privadas. Os TREs devem orientar a escolha de locais acessíveis a pessoas com deficiência ou mobilidade reduzida. Os partidos podem reclamar da designação em 3 dias, com recurso ao TRE, e depois disso a vedação das propriedades rurais não pode mais ser alegada.
+P: Designação dos locais 60 dias antes || Preferência por prédios públicos || Cessão gratuita obrigatória do imóvel particular || Vedações de locais ligados a candidatos e de propriedades rurais privadas || Acessibilidade dos locais de votação || Reclamação partidária em 3 dias
+K: local de votação; seção eleitoral; prédio público; cessão de imóvel
+
+@CE 136
+I: Devem ser instaladas seções em vilas e povoados e em estabelecimentos de internação coletiva com pelo menos 50 eleitores. Hoje a Justiça Eleitoral também instala seções em presídios e unidades de internação de adolescentes, conforme suas resoluções.
+P: Seções em vilas, povoados e internações coletivas || Mínimo de 50 eleitores
+K: seção eleitoral; internação coletiva; acessibilidade ao voto
+
+@CE 137
+I: Até 10 dias antes da eleição, o juiz comunica aos responsáveis pelos prédios públicos e particulares que os imóveis serão usados como locais de votação.
+P: Comunicação aos responsáveis pelos imóveis || Prazo de 10 dias antes da eleição
+K: local de votação; comunicação; imóvel
+
+@CE 138
+I: No local de votação, a mesa fica separada do público, e ao lado há uma cabine indevassável para o eleitor votar em sigilo. O juiz providencia as adaptações necessárias nos prédios.
+P: Mesa separada do público || Cabine indevassável || Adaptações dos prédios
+K: cabine de votação; sigilo do voto; local de votação
+
+@CE 139
+I: A polícia dos trabalhos eleitorais, isto é, o poder de manter a ordem no local de votação, cabe ao presidente da mesa e ao juiz eleitoral.
+P: Poder de polícia do presidente da mesa e do juiz
+K: poder de polícia; ordem; presidente da mesa; juiz eleitoral
+
+@CE 140
+I: No recinto da mesa só podem ficar os mesários, os candidatos, um fiscal e um delegado por partido e o eleitor durante o voto. O presidente da mesa é a autoridade superior durante os trabalhos e pode retirar quem perturbar a ordem ou atentar contra a liberdade do voto. Nenhuma autoridade estranha à mesa pode intervir, salvo o juiz eleitoral.
+P: Quem pode permanecer no recinto || Presidente da mesa como autoridade superior || Vedação de interferência de outras autoridades
+K: recinto de votação; presidente da mesa; liberdade do voto; ordem
+
+@CE 141
+I: A força armada deve ficar a 100 metros da seção eleitoral e só pode se aproximar ou entrar no local com ordem do presidente da mesa. A regra protege o eleitor contra intimidação.
+P: Distância de 100 metros || Aproximação só com ordem do presidente da mesa || Proteção contra intimidação
+K: força armada; seção eleitoral; liberdade do voto; 100 metros
+
+@CE 142
+I: No dia da eleição, às 7 horas, os membros da mesa verificam se o material e a urna estão em ordem e se os fiscais estão presentes.
+P: Instalação da mesa às 7 horas || Conferência do material e da urna
+K: instalação da seção; mesa receptora; urna; dia da eleição
+
+@CE 143
+I: Às 8 horas, o presidente declara iniciados os trabalhos, e a votação começa. Mesários e fiscais votam depois dos eleitores presentes na abertura ou no encerramento. Têm preferência para votar candidatos, o juiz eleitoral e seus auxiliares, pessoas idosas, enfermos e gestantes. Leis posteriores ampliaram as prioridades, como a Lei nº 10.048/2000 e o Estatuto da Pessoa com Deficiência.
+P: Início da votação às 8 horas || Voto dos mesários e fiscais || Preferência de idosos, enfermos e gestantes
+K: início da votação; prioridade; idosos; gestantes; horário
+
+@CE 144
+I: O recebimento dos votos vai das 8 às 17 horas, salvo a situação do art. 153, em que os eleitores presentes às 17 horas ainda votam. Desde 2022, a Justiça Eleitoral adota o horário de Brasília em todo o país para a votação.
+P: Votação das 8 às 17 horas || Eleitores presentes às 17 horas ainda votam (art. 153)
+K: horário de votação; encerramento; dia da eleição
+
+@CE 145
+I: Mesários, delegados e fiscais votam na mesa onde servem. Se forem eleitores de outras seções, votam em separado. Os parágrafos revogados tratavam de outros casos de voto fora da seção. O parágrafo único permite que outros eleitores votem fora de sua seção, com as cautelas do art. 147, § 2º. Com o voto eletrônico, essas exceções são reguladas pelo TSE.
+P: Voto dos membros da mesa e fiscais na seção em que servem || Voto em separado para eleitores de outras seções
+K: voto em separado; mesário; fiscal; seção eleitoral
+
+@CE 146
+I: O artigo descreve o rito da votação com cédula: senha numerada, apresentação do título, conferência na folha de votação, assinatura do eleitor, entrega da cédula rubricada, voto na cabine e depósito na urna. Na votação eletrônica, o eleitor se identifica com documento oficial com foto, e o voto é registrado na urna eletrônica (Lei nº 9.504/1997, art. 91-A).
+P: Rito da votação com cédula || Identificação do eleitor || Votação na cabine e depósito na urna
+K: ato de votar; identificação do eleitor; senha; título eleitoral
+
+@CE 147
+I: O presidente da mesa deve verificar a identidade de cada eleitor e, havendo dúvida, pedir documento e conferir a assinatura. A identidade pode ser impugnada por mesários, fiscais, candidatos ou eleitores antes do voto. Mantida a dúvida, o eleitor vota em separado, em sobrecarta identificada, para posterior decisão da junta.
+P: Verificação da identidade do eleitor || Impugnação antes do voto || Voto em separado em caso de dúvida
+K: identidade do eleitor; impugnação; voto em separado; biometria
+
+@CE 148
+I: O eleitor só pode votar na seção em que está inscrito, salvo as exceções do art. 145. Nesses casos, exige-se o título e o registro na folha própria. O presidente verifica se o candidato consta da relação e se a credencial do fiscal está visada. A Lei nº 9.504/1997 também prevê o voto em trânsito em certas eleições.
+P: Voto na seção de inscrição || Exceções do art. 145 || Voto em trânsito (Lei nº 9.504/1997)
+K: seção eleitoral; voto em trânsito; exceções; título
+
+@CE 149
+I: Não cabe recurso contra a votação por nulidade que não tenha sido impugnada perante a mesa no momento da votação. É a preclusão: o vício deve ser apontado na hora.
+P: Impugnação imediata perante a mesa || Preclusão das nulidades não arguidas
+K: preclusão; impugnação; nulidade; recurso eleitoral
+
+@CE 150
+I: O eleitor cego pode assinar a folha em letras comuns ou em Braille, marcar a cédula por qualquer sistema e usar instrumento que leve ou receba da mesa para votar. Hoje as urnas eletrônicas têm teclado em Braille e áudio, e a pessoa com deficiência pode ser auxiliada por pessoa de sua confiança.
+P: Voto da pessoa cega || Assinatura em Braille || Recursos de acessibilidade
+K: pessoa cega; acessibilidade; Braille; voto assistido
+
+@CE 152
+I: O TSE pode autorizar e regulamentar o uso de máquinas de votar. Esse dispositivo, de 1965, foi a base legal inicial da votação eletrônica, adotada a partir de 1996 e hoje regulada pelos arts. 59 a 62 da Lei nº 9.504/1997.
+P: Autorização para máquinas de votar || Regulamentação pelo TSE || Base da urna eletrônica
+K: urna eletrônica; máquina de votar; votação eletrônica; TSE
+
+@CE 153
+I: Às 17 horas, o presidente entrega senhas a todos os eleitores presentes, que votarão na ordem das senhas, ainda que depois desse horário.
+P: Encerramento às 17 horas com senhas aos presentes || Eleitores presentes garantem o voto
+K: encerramento da votação; senha; horário
+
+@CE 154
+I: Encerrada a votação, o presidente lacra a urna, separa as folhas dos faltosos, assina a folha de votação, manda lavrar a ata e envia o material à junta. Na votação eletrônica, o encerramento gera o boletim de urna, que é impresso, afixado na seção e transmitido para a totalização.
+P: Lacração da urna || Ata da eleição || Remessa do material à junta || Boletim de urna na votação eletrônica
+K: encerramento da votação; ata; boletim de urna; urna
+
+@CE 155
+I: O presidente da junta e os Correios recebem as urnas e documentos. Fiscais e delegados podem acompanhar a urna desde a seção até a entrega à junta, e ela fica sempre à vista dos interessados, sob guarda designada pelo presidente da junta.
+P: Recebimento das urnas || Direito dos fiscais de acompanhar a urna || Urna sempre à vista
+K: transporte de urna; fiscalização; junta eleitoral
+
+@CE 156
+I: Até as 12 horas do dia seguinte à eleição, o juiz eleitoral comunica ao TRE e aos delegados de partido o número de eleitores que votaram em cada seção, sob pena de multa. Candidatos, delegados e fiscais podem pedir certidão desse dado.
+P: Comunicação do comparecimento até o meio-dia seguinte || Multa ao juiz que descumprir || Certidão aos interessados
+K: comparecimento; juiz eleitoral; comunicação; transparência
+
+@CE 158
+I: A apuração cabe às juntas eleitorais quanto às eleições de sua zona; aos TREs nas eleições de Governador, Vice, Senador e Deputados; e ao TSE na eleição de Presidente e Vice, sempre a partir dos resultados parciais das instâncias inferiores.
+P: Juntas, TREs e TSE como órgãos apuradores || Apuração por etapas a partir dos resultados parciais
+K: apuração; totalização; junta eleitoral; TRE; TSE
+
+@CE 159
+I: A apuração começa no dia seguinte à eleição e deve terminar em 10 dias, com trabalho também em fins de semana e feriados. Se não for possível, a junta justifica ao TRE e pode obter até 5 dias a mais. Esgotado o prazo, perde a competência, e o TRE assume a apuração.
+P: Apuração em 10 dias || Trabalho contínuo, inclusive em feriados || Prorrogação de até 5 dias || Perda de competência da junta
+K: apuração; prazo; junta eleitoral; prorrogação
+
+@CE 160
+I: Se houver muitas urnas, a junta pode dividir-se em até cinco turmas, cada uma presidida por um de seus membros. As dúvidas das turmas são decididas pela maioria da junta.
+P: Divisão da junta em turmas || Até cinco turmas || Dúvidas decididas pela junta
+K: junta eleitoral; turmas; apuração
+
+@CE 161
+I: Cada partido pode credenciar até três fiscais perante a junta ou cada turma, que se revezam, atuando só um de cada vez.
+P: Até três fiscais por partido || Um fiscal por vez em cada junta ou turma
+K: fiscal de partido; apuração; junta eleitoral
+
+@CE 162
+I: Cada partido pode credenciar vários delegados perante a junta, mas só um atua por vez durante a apuração.
+P: Vários delegados credenciados || Um delegado em atuação por vez
+K: delegado de partido; apuração; junta eleitoral
+
+@CE 163
+I: Iniciada a apuração de uma urna, ela deve ser concluída sem interrupção. Em caso de força maior, cédulas e folhas voltam à urna, que é lacrada, com registro em ata.
+P: Apuração contínua da urna || Lacração em caso de força maior
+K: apuração; urna; força maior; ata
+
+@CE 164
+I: As juntas não podem divulgar expressões, frases ou desenhos estranhos à eleição escritos nas cédulas. Quem descumprir paga multa de 1 a 2 salários-mínimos, cobrada como dívida ativa.
+P: Proibição de divulgar inscrições nas cédulas || Multa aos membros da junta
+K: cédula; sigilo; junta eleitoral; multa
+
+@CE 165
+I: Antes de abrir cada urna, a junta verifica indícios de violação, a regularidade da mesa, a autenticidade das folhas, o horário e local da votação, o sigilo do voto, a fiscalização dos partidos e se votaram eleitores que não podiam, entre outros pontos. As irregularidades podem levar à anulação ou à apuração em separado da urna.
+P: Verificações prévias à abertura da urna || Violação, sigilo e regularidade da mesa || Possível anulação da votação
+K: abertura da urna; apuração; nulidade; violação da urna
+
+@CE 166
+I: Aberta a urna, a junta confere se o número de cédulas corresponde ao de votantes. A diferença só anula a votação se resultar de fraude comprovada. Nesse caso, a junta anula, apura em separado e recorre de ofício ao TRE.
+P: Conferência entre cédulas e votantes || Nulidade só com fraude comprovada || Recurso de ofício ao TRE
+K: apuração; cédulas; fraude; nulidade; recurso de ofício
+
+@CE 167
+I: A junta examina as sobrecartas dos votos em separado, anula os votos de quem não podia votar e mistura as cédulas válidas às demais, preservando o sigilo.
+P: Exame dos votos em separado || Anulação dos votos irregulares || Mistura das cédulas para o sigilo
+K: voto em separado; apuração; sigilo; sobrecarta
+
+@CE 168
+I: Rasuras, emendas e entrelinhas nas folhas de votação e na ata só podem ser alegadas na fase de abertura das urnas, sob pena de preclusão.
+P: Alegação de rasuras só na abertura da urna || Preclusão
+K: rasuras; ata; folha de votação; preclusão

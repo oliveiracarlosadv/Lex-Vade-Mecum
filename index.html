@@ -523,7 +523,7 @@ async function abrirLei(id) {
 /* ---------- Diagramação dos dispositivos ---------- */
 function classeLinha(x) {
   const t = x.replace(/^\\/, '');
-  if (/^(Art\.?|Nós, representantes)/.test(t)) return 'caput';
+  if (/^(Art\.?|Ar\.|At\.|Nós, representantes)/.test(t)) return 'caput';
   if (/^(§|Parágrafo único)/.test(t)) return 'paragrafo';
   if (/^[IVXLC]+(-[A-Z])?\s*[-–—]/.test(t)) return 'inciso';
   if (/^\d+(\.\d+)+\s/.test(t)) return 'caput';                 // subitens das NR (1.4.1, 1.5.3.2.1)
@@ -758,7 +758,7 @@ async function copiar(txt) {
 // Texto vigente para envio: trechos tachados (revogados) não são enviados como se valessem.
 function linhaPlana(x) {
   return x.replace(/~~([^~]+)~~/g, (m, t) => {
-    const r = t.match(/^(Art\.\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
+    const r = t.match(/^((?:Art|Ar|At)\.\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
     return r ? r[1] + ' [revogado]' : '[trecho revogado]';
   }).replace(/\*\*/g, '').replace(/\\([\\.()#>|*+\-_~`[\]])/g, '$1').replace(/\s+\(Revogad[^)]*\)\s*\[revogado\]/, ' [revogado]').trim();
 }
@@ -1580,7 +1580,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'codigo-eleitoral': 'CE', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && leis.some((l) => l.id === atual) ? [atual] : leis.map((l) => l.id);
