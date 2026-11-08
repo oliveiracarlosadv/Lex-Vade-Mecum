@@ -99,8 +99,8 @@ P: Situação econômica do réu || Aumento até o triplo || Multa substitutiva 
 K: multa; situação econômica; multa substitutiva
 
 @CP 61
-I: O artigo lista as agravantes genéricas, aplicadas na segunda fase da dosimetria quando não forem elementares ou qualificadoras: reincidência, motivo fútil ou torpe, traição ou emboscada, uso de veneno, fogo ou meio cruel, crime contra ascendente, descendente, irmão ou cônjuge, abuso de autoridade, violência contra a mulher, crime contra criança, idoso, enfermo ou gestante, durante calamidade, entre outras.
-P: Agravantes genéricas || Segunda fase da dosimetria || Não se aplicam quando são elementares ou qualificadoras
+I: O artigo lista as agravantes genéricas, aplicadas na segunda fase da dosimetria quando não forem elementares ou qualificadoras: reincidência, motivo fútil ou torpe, traição ou emboscada, uso de veneno, fogo ou meio cruel, crime contra ascendente, descendente, irmão ou cônjuge, abuso de autoridade ou de poder, violência contra a mulher, crime contra criança, maior de 60 anos, enfermo ou gestante, durante calamidade, em embriaguez preordenada e, desde a Lei nº 15.159/2025, nas dependências de instituição de ensino.
+P: Agravantes genéricas || Segunda fase da dosimetria || Não se aplicam quando são elementares ou qualificadoras || Crime em instituição de ensino (Lei nº 15.159/2025)
 K: agravantes; reincidência; motivo fútil; motivo torpe; dosimetria
 
 @CP 62

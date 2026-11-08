@@ -1,0 +1,199 @@
+@CP 93
+I: A reabilitação alcança quaisquer penas aplicadas em sentença definitiva e garante o sigilo dos registros do processo e da condenação. Pode também atingir os efeitos do art. 92, mas não permite reintegrar o reabilitado no cargo perdido nem restabelecer o poder familiar.
+P: Sigilo dos registros criminais || Alcance sobre os efeitos da condenação || Vedação de reintegração no cargo e no poder familiar
+K: reabilitação; sigilo; efeitos da condenação
+
+@CP 94
+I: A reabilitação pode ser pedida dois anos após a extinção ou o fim do cumprimento da pena, contado o período de prova do sursis e do livramento, se o condenado teve domicílio no país, mostrou bom comportamento e reparou o dano (ou provou a impossibilidade, a renúncia da vítima ou a novação da dívida). Negada, pode ser renovada com novas provas.
+P: Prazo de dois anos após a extinção da pena || Domicílio, bom comportamento e reparação do dano || Renovação do pedido com novos elementos
+K: reabilitação; requisitos; reparação do dano
+
+@CP 95
+I: A reabilitação é revogada, de ofício ou a pedido do Ministério Público, se o reabilitado for condenado definitivamente, como reincidente, a pena que não seja só de multa.
+P: Revogação por nova condenação como reincidente || Exceção da pena de multa
+K: revogação da reabilitação; reincidência
+
+@CP 96
+I: As medidas de segurança são a internação em hospital de custódia e tratamento psiquiátrico e o tratamento ambulatorial. Extinta a punibilidade, não se impõe nem subsiste medida de segurança. Elas se aplicam aos inimputáveis e, em substituição à pena, aos semi-imputáveis que precisem de tratamento.
+P: Internação e tratamento ambulatorial || Extinção da punibilidade impede a medida
+K: medida de segurança; internação; tratamento ambulatorial; inimputável
+
+@CP 97
+I: Ao inimputável, o juiz impõe internação ou, se o crime for punido com detenção, pode impor tratamento ambulatorial. A medida dura enquanto não cessar a periculosidade, verificada por perícia médica, com prazo mínimo de um a três anos e perícias anuais. A liberação é condicional. A jurisprudência impede que a medida seja perpétua: o STF a vincula ao limite máximo do art. 75, e o STJ a limita ao máximo da pena cominada ao crime (Súmula 527).
+P: Internação ou tratamento ambulatorial || Prazo mínimo de 1 a 3 anos || Perícia anual da periculosidade || Limite máximo da medida (Súmula 527 do STJ)
+K: medida de segurança; periculosidade; perícia médica; desinternação; Súmula 527
+
+@CP 98
+I: Ao semi-imputável que necessite de tratamento curativo, a pena de prisão pode ser substituída por internação ou tratamento ambulatorial, pelo prazo mínimo de um a três anos (sistema vicariante: pena ou medida, nunca as duas).
+P: Substituição da pena por medida de segurança || Sistema vicariante || Prazo mínimo de 1 a 3 anos
+K: semi-imputável; medida de segurança; sistema vicariante
+
+@CP 99
+I: O internado deve ficar em estabelecimento com características hospitalares e receber tratamento, e não ser mantido em prisão comum.
+P: Estabelecimento com características hospitalares || Direito ao tratamento
+K: internado; hospital de custódia; tratamento
+
+@CP 100
+I: A ação penal é pública, salvo quando a lei a declara privada. A pública é promovida pelo Ministério Público, às vezes condicionada à representação do ofendido ou à requisição do Ministro da Justiça. A privada se inicia por queixa do ofendido ou de seu representante. Se o Ministério Público não denunciar no prazo, cabe ação privada subsidiária. Morto ou ausente o ofendido, o direito passa ao cônjuge, ascendente, descendente ou irmão.
+P: Ação pública como regra || Ação pública condicionada || Ação privada por queixa || Ação privada subsidiária da pública
+K: ação penal; ação penal pública; ação penal privada; representação; queixa
+
+@CP 101
+I: No crime complexo (formado por fatos que, sozinhos, também são crimes), cabe ação pública se qualquer dos crimes componentes for de ação pública. É o caso do roubo, que reúne furto e violência ou ameaça.
+P: Crime complexo || Prevalência da ação pública
+K: crime complexo; ação penal pública
+
+@CP 102
+I: A representação pode ser retirada até o oferecimento da denúncia. Depois disso, é irretratável. Na Lei Maria da Penha, a renúncia à representação só é admitida em audiência perante o juiz, antes do recebimento da denúncia (Lei nº 11.340/2006, art. 16).
+P: Retratação até a denúncia || Irretratabilidade após a denúncia
+K: representação; retratação; irretratabilidade
+
+@CP 103
+I: Salvo regra especial, o ofendido perde o direito de queixa ou representação (decadência) se não o exercer em seis meses, contados de quando soube quem é o autor do crime. Nos crimes de violência doméstica e familiar contra a mulher, o prazo é de 12 meses (Lei nº 15.438/2026). Na ação privada subsidiária, o prazo conta do fim do prazo do Ministério Público.
+P: Decadência em seis meses || Contagem a partir do conhecimento da autoria || Prazo de 12 meses na violência doméstica contra a mulher (Lei nº 15.438/2026)
+K: decadência; prazo decadencial; queixa; representação; violência doméstica
+
+@CP 104
+I: O direito de queixa não pode ser exercido se o ofendido renunciou a ele, expressa ou tacitamente. A renúncia tácita resulta de ato incompatível com a vontade de processar, mas receber indenização do dano não a caracteriza (salvo nos Juizados Especiais, onde a composição civil gera renúncia).
+P: Renúncia expressa ou tácita || Recebimento de indenização não é renúncia
+K: renúncia; direito de queixa; ação penal privada
+
+@CP 105
+I: Nos crimes de ação exclusivamente privada, o perdão do ofendido impede o prosseguimento da ação.
+P: Perdão do ofendido na ação privada || Obsta o prosseguimento
+K: perdão do ofendido; ação penal privada
+
+@CP 106
+I: O perdão, expresso ou tácito, concedido a um dos querelados a todos aproveita, mas o perdão de um dos ofendidos não prejudica os outros. O perdão depende de aceitação: se o querelado recusa, não produz efeito. Não cabe perdão após a sentença condenatória definitiva.
+P: Extensão a todos os querelados || Bilateralidade: depende de aceitação || Vedação após o trânsito em julgado
+K: perdão do ofendido; aceitação; querelado
+
+@CP 107
+I: O artigo lista as causas de extinção da punibilidade: morte do agente, anistia, graça ou indulto, abolitio criminis, prescrição, decadência ou perempção, renúncia ou perdão aceito nos crimes de ação privada, retratação nos casos admitidos e perdão judicial. Os incisos VII e VIII, sobre o casamento da vítima com o agente, foram revogados em 2005. O rol não é taxativo.
+P: Causas de extinção da punibilidade || Morte, anistia, graça e indulto || Prescrição, decadência e perempção || Perdão judicial
+K: extinção da punibilidade; prescrição; anistia; indulto; perdão judicial
+
+@CP 108
+I: A extinção da punibilidade de um crime que é pressuposto, elemento ou agravante de outro não se estende a este. Nos crimes conexos, a extinção quanto a um deles não impede a agravação da pena dos outros pela conexão.
+P: Autonomia da extinção nos crimes acessórios e complexos || Conexão mantém a agravação
+K: extinção da punibilidade; crimes conexos; crime acessório
+
+@CP 109
+I: Antes do trânsito em julgado, a prescrição regula-se pela pena máxima cominada (prescrição da pretensão punitiva em abstrato): 20 anos se superior a 12; 16 se entre 8 e 12; 12 se entre 4 e 8; 8 se entre 2 e 4; 4 se de 1 a 2; e 3 anos se inferior a 1 ano. As penas restritivas de direitos prescrevem nos mesmos prazos.
+P: Tabela de prazos prescricionais || Pena máxima em abstrato || Prazo mínimo de 3 anos || Restritivas com os mesmos prazos
+K: prescrição; prescrição em abstrato; pretensão punitiva; prazos prescricionais
+
+@CP 110
+I: Após o trânsito em julgado, a prescrição regula-se pela pena aplicada, com os prazos do art. 109, aumentados de um terço para o reincidente (prescrição da pretensão executória). Com trânsito em julgado para a acusação, a prescrição também se regula pela pena aplicada (retroativa e intercorrente), mas não pode ter termo inicial anterior à denúncia ou queixa, regra da Lei nº 12.234/2010.
+P: Prescrição executória pela pena aplicada || Aumento de 1/3 para o reincidente || Prescrição retroativa e intercorrente || Vedação de termo inicial anterior à denúncia
+K: prescrição executória; prescrição retroativa; prescrição intercorrente; reincidência
+
+@CP 111
+I: Antes do trânsito em julgado, a prescrição começa a correr da consumação do crime; na tentativa, de quando cessou a atividade; nos crimes permanentes, de quando cessou a permanência; na bigamia e na falsificação de registro civil, de quando o fato se tornou conhecido. Nos crimes contra a dignidade sexual ou com violência contra criança e adolescente, corre da data em que a vítima completa 18 anos, salvo se a ação já tiver sido proposta.
+P: Termo inicial na consumação || Crime permanente e tentativa || Bigamia e falsidade de registro civil || Crimes sexuais e violência contra crianças: a partir dos 18 anos da vítima
+K: termo inicial da prescrição; crime permanente; dignidade sexual; criança e adolescente
+
+@CP 112
+I: Após a condenação definitiva, a prescrição da pena começa a correr do trânsito em julgado para a acusação, ou da decisão que revoga o sursis ou o livramento, e do dia em que se interrompe a execução, salvo se esse tempo for computado na pena. No Tema 788, o STF entendeu que o prazo da prescrição executória começa com o trânsito em julgado para ambas as partes, com modulação de efeitos.
+P: Termo inicial da prescrição executória || Revogação do sursis ou do livramento || Interrupção da execução || Tema 788 do STF
+K: prescrição executória; termo inicial; Tema 788
+
+@CP 113
+I: Em caso de fuga do condenado ou de revogação do livramento, a prescrição regula-se pelo tempo que resta da pena.
+P: Prescrição pelo restante da pena || Fuga e revogação do livramento
+K: prescrição; evasão; livramento condicional; pena restante
+
+@CP 114
+I: A multa prescreve em dois anos quando for a única pena cominada ou aplicada. Quando alternativa ou cumulativa com a prisão, prescreve no mesmo prazo da pena privativa de liberdade.
+P: Dois anos se for a única pena || Mesmo prazo da prisão quando alternativa ou cumulativa
+K: prescrição da multa; pena de multa
+
+@CP 115
+I: Os prazos de prescrição caem pela metade se o agente era menor de 21 anos na data do crime ou maior de 70 na data da sentença. A Lei nº 15.160/2025 afastou a redução quando o crime envolve violência sexual contra a mulher.
+P: Redução pela metade pela idade || Menor de 21 no crime ou maior de 70 na sentença || Exceção na violência sexual contra a mulher (Lei nº 15.160/2025)
+K: redução da prescrição; menoridade relativa; idoso; violência sexual
+
+@CP 116
+I: Antes do trânsito em julgado, a prescrição não corre enquanto se resolve em outro processo questão prejudicial à existência do crime, enquanto o agente cumpre pena no exterior, na pendência de embargos de declaração ou recursos inadmissíveis aos tribunais superiores e enquanto não cumprido ou rescindido o acordo de não persecução penal (as duas últimas incluídas pela Lei nº 13.964/2019). Após a condenação definitiva, não corre enquanto o condenado está preso por outro motivo.
+P: Causas suspensivas da prescrição || Recursos inadmissíveis aos tribunais superiores || Acordo de não persecução penal || Prisão por outro motivo
+K: suspensão da prescrição; causas impeditivas; ANPP; Lei nº 13.964/2019
+
+@CP 117
+I: A prescrição é interrompida pelo recebimento da denúncia ou queixa, pela pronúncia, pela decisão que a confirma, pela publicação de sentença ou acórdão condenatório recorrível, pelo início ou continuação do cumprimento da pena e pela reincidência. Interrompida, o prazo recomeça do zero. Salvo nos dois últimos casos, a interrupção vale para todos os autores e se estende aos crimes conexos do mesmo processo.
+P: Causas interruptivas da prescrição || Reinício da contagem || Extensão aos coautores e aos crimes conexos
+K: interrupção da prescrição; recebimento da denúncia; pronúncia; acórdão condenatório
+
+@CP 118
+I: As penas mais leves, como a multa cumulada, prescrevem junto com as mais graves.
+P: Prescrição conjunta das penas mais leves
+K: prescrição; penas cumulativas
+
+@CP 119
+I: No concurso de crimes, a extinção da punibilidade incide sobre a pena de cada crime isoladamente. Pela Súmula 497 do STF, no crime continuado a prescrição considera a pena sem o acréscimo da continuação.
+P: Prescrição de cada crime isoladamente || Súmula 497 do STF
+K: concurso de crimes; prescrição; crime continuado
+
+@CP 120
+I: A sentença que concede perdão judicial não gera reincidência. Pela Súmula 18 do STJ, ela é declaratória da extinção da punibilidade e não produz efeitos condenatórios.
+P: Perdão judicial não gera reincidência || Natureza declaratória (Súmula 18 do STJ)
+K: perdão judicial; reincidência; extinção da punibilidade
+
+@CP 121
+I: Homicídio é matar alguém, com pena de 6 a 20 anos. A pena pode ser reduzida de um sexto a um terço no homicídio privilegiado (relevante valor social ou moral ou violenta emoção após injusta provocação). As qualificadoras (pena de 12 a 30 anos) incluem motivo torpe ou fútil, meio cruel, traição ou emboscada, conexão com outro crime, vítimas agentes de segurança e membros do sistema de justiça e seus parentes, arma de fogo de uso restrito, vítima menor de 14 anos e crime em instituição de ensino. O feminicídio deixou de ser qualificadora e virou crime autônomo (art. 121-A). Há aumentos de pena específicos e, desde a Lei nº 15.358/2026, pena de 20 a 40 anos para homicídio de integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia. O homicídio culposo tem pena de 1 a 3 anos, com aumento e possibilidade de perdão judicial.
+P: Homicídio simples, privilegiado e qualificado || Qualificadoras dos incisos I a X || Feminicídio transferido para o art. 121-A || Homicídio por organização criminosa ultraviolenta ou milícia (Lei nº 15.358/2026) || Homicídio culposo e perdão judicial
+K: homicídio; homicídio qualificado; homicídio privilegiado; homicídio culposo; milícia; tribunal do júri
+
+@CP 121-A
+I: Incluído pela Lei nº 14.994/2024, o feminicídio é crime autônomo: matar mulher por razões da condição do sexo feminino, isto é, em contexto de violência doméstica e familiar ou por menosprezo ou discriminação à condição de mulher. A pena é de 20 a 40 anos, a maior do Código. Ela aumenta de um terço até metade se o crime ocorre na gestação ou até três meses após o parto, contra mãe responsável por criança ou pessoa com deficiência, contra vítima menor de 14 ou maior de 60, na presença de descendente ou ascendente, em descumprimento de medida protetiva ou com certas qualificadoras do homicídio. As circunstâncias do § 1º se comunicam aos coautores.
+P: Feminicídio como crime autônomo (Lei nº 14.994/2024) || Pena de 20 a 40 anos || Causas de aumento de 1/3 até metade || Comunicação das circunstâncias aos coautores
+K: feminicídio; violência contra a mulher; Lei nº 14.994/2024; Lei Maria da Penha; crime hediondo
+
+@CP 121-B
+I: Incluído pela Lei nº 15.384/2026, o vicaricídio é matar descendente, ascendente, dependente, enteado ou pessoa sob guarda ou responsabilidade da mulher para causar sofrimento, punição ou controle sobre ela, no contexto de violência doméstica e familiar. A pena é de 20 a 40 anos, aumentada de um terço até metade se o crime ocorre na presença da mulher, contra criança, adolescente, pessoa idosa ou com deficiência, ou em descumprimento de medida protetiva.
+P: Violência vicária: matar pessoa próxima para atingir a mulher || Pena de 20 a 40 anos || Causas de aumento de 1/3 até metade
+K: vicaricídio; violência vicária; violência doméstica; Lei nº 15.384/2026
+
+@CP 122
+I: É crime induzir, instigar ou auxiliar alguém a se suicidar ou a se automutilar, com pena de 6 meses a 2 anos, mais grave se resultar lesão grave (1 a 3 anos) ou morte (2 a 6 anos). A pena é duplicada por motivo egoístico, torpe ou fútil ou se a vítima é menor ou tem resistência reduzida, aumentada até o dobro se feita pela internet ou ao vivo, e em dobro para o líder de grupo virtual. Se a vítima é menor de 14 anos ou sem discernimento, o agente responde por lesão gravíssima ou homicídio.
+P: Induzimento, instigação ou auxílio ao suicídio ou à automutilação || Aumentos por meio virtual e por liderança de grupo || Vítima menor de 14: lesão gravíssima ou homicídio
+K: induzimento ao suicídio; automutilação; internet; Lei nº 13.968/2019
+
+@CP 123
+I: Infanticídio é a mãe matar o próprio filho, sob a influência do estado puerperal, durante o parto ou logo após. A pena (detenção de 2 a 6 anos) é bem menor que a do homicídio, pela perturbação psíquica do puerpério. É crime doloso contra a vida, julgado pelo júri.
+P: Crime próprio da mãe || Influência do estado puerperal || Durante o parto ou logo após
+K: infanticídio; estado puerperal; crime contra a vida
+
+@CP 124
+I: É crime a gestante provocar aborto em si mesma ou consentir que outro o provoque. Pena: detenção de 1 a 3 anos. O STF (ADPF 54) decidiu que a interrupção da gravidez de feto anencéfalo não é crime de aborto.
+P: Autoaborto e consentimento || Detenção de 1 a 3 anos || Anencefalia não configura aborto (ADPF 54)
+K: aborto; autoaborto; ADPF 54; anencefalia
+
+@CP 125
+I: É crime provocar aborto sem o consentimento da gestante. É a forma mais grave do aborto, com pena de reclusão de 3 a 10 anos.
+P: Aborto sem consentimento || Reclusão de 3 a 10 anos
+K: aborto; aborto sem consentimento; crime contra a vida
+
+@CP 126
+I: É crime provocar aborto com o consentimento da gestante, com pena de reclusão de 1 a 4 anos. Aplica-se a pena do aborto sem consentimento se a gestante tem até 14 anos, é pessoa com deficiência mental ou se o consentimento foi obtido por fraude, ameaça ou violência.
+P: Aborto consentido praticado por terceiro || Consentimento inválido equivale à falta de consentimento
+K: aborto consentido; consentimento; crime contra a vida
+
+@CP 127
+I: As penas do aborto praticado por terceiro aumentam de um terço se a gestante sofre lesão grave e são duplicadas se ela morre, em consequência do aborto ou dos meios usados.
+P: Aumento de 1/3 por lesão grave || Pena duplicada pela morte da gestante
+K: aborto qualificado; lesão grave; morte da gestante
+
+@CP 128
+I: Não se pune o aborto praticado por médico quando não há outro meio de salvar a vida da gestante (aborto necessário) ou quando a gravidez resulta de estupro e há consentimento da gestante ou de seu representante (aborto humanitário). O STF, na ADPF 54, acrescentou a hipótese do feto anencéfalo.
+P: Aborto necessário || Aborto em gravidez resultante de estupro || Feto anencéfalo (ADPF 54)
+K: aborto legal; aborto necessário; aborto humanitário; estupro
+
+@CP 129
+I: Lesão corporal é ofender a integridade corporal ou a saúde de outrem (detenção de 3 meses a 1 ano). É grave (1 a 5 anos) se causa incapacidade por mais de 30 dias, perigo de vida, debilidade permanente ou aceleração de parto, e gravíssima (2 a 8 anos) se causa incapacidade permanente, enfermidade incurável, perda de membro ou função, deformidade permanente ou aborto. A lesão seguida de morte tem pena de 4 a 12 anos, e de 20 a 40 anos se ligada a organização criminosa (Lei nº 15.358/2026). Há formas privilegiada e culposa, e penas maiores na violência doméstica, contra agentes de segurança e do sistema de justiça, em escolas e contra a mulher por razões de gênero.
+P: Lesão leve, grave, gravíssima e seguida de morte || Lesão no contexto de organização criminosa (Lei nº 15.358/2026) || Violência doméstica (§ 9º) e contra a mulher (§ 13) || Aumentos em escolas e contra agentes públicos
+K: lesão corporal; lesão grave; lesão gravíssima; violência doméstica; lesão seguida de morte
+
+@CP 130
+I: É crime expor alguém, por relações sexuais ou ato libidinoso, a contágio de doença venérea que o agente sabe ou deve saber que tem. Se há intenção de transmitir, a pena é maior. A ação depende de representação.
+P: Crime de perigo de contágio venéreo || Forma qualificada pela intenção de transmitir || Ação condicionada à representação
+K: perigo de contágio venéreo; crime de perigo; representação
