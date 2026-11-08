@@ -300,6 +300,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 .res .l{font-family:var(--ui);font-size:12px;color:var(--tinta2)}
 .res .s{margin-top:4px;font-size:.95em;text-align:justify}
 .sobre-autor{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:start}
+.sobre-autor .foto-autor{width:132px;height:132px;border-radius:50%;object-fit:cover;object-position:50% 30%;border:2px solid var(--fio);box-shadow:0 2px 10px rgba(0,0,0,.12)}
 .sobre-autor .inicial{font-family:var(--display);font-size:64px;line-height:1;color:var(--titulo);border:1px solid var(--fio);border-radius:50%;width:96px;height:96px;display:grid;place-items:center;background:var(--papel2)}
 .capitular::first-letter{font-family:var(--display);float:left;font-size:3.4em;line-height:.85;padding:.06em .08em 0 0;color:var(--titulo);font-weight:600}
 .carregando{font-family:var(--ui);color:var(--tinta2);text-align:center;padding:40px 0}
@@ -324,6 +325,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   .oficial p.inciso{padding-left:1.6em}
   .oficial p.alinea{padding-left:2.4em}
   .sobre-autor{grid-template-columns:1fr}
+  .sobre-autor .foto-autor{justify-self:center}
   .painel{width:100vw;height:100%;max-height:100%;margin:0}
   .painel .painel-folha{max-height:100%;height:100%;border-radius:0}
   .chip{font-size:14.5px;padding:6px 12px}
@@ -662,7 +664,7 @@ function inicio() {
 }
 function sobre() {
   atual = 'sobre'; desenharMenu(); desenharSumario();
-  const bio = ((readmeTexto.split('## Sobre o criador')[1] || '').split('### Contato')[0] || '').trim();
+  const bio = ((readmeTexto.split('## Sobre o criador')[1] || '').split('### Contato')[0] || '').replace(/^<p[^>]*>.*<\/p>\s*$/gm, '').trim();
   const contato = ((readmeTexto.split('### Contato')[1] || '').split('\n## ')[0] || '').trim();
   $('#conteudo').innerHTML = `<div class="cabecalho-corrido">Lex Vade Mecum · Sobre</div>
     <h1 class="titulo-obra">Sobre o Lex Vade Mecum</h1>
@@ -677,7 +679,7 @@ function sobre() {
       <p>As análises têm finalidade informativa e didática e não substituem a consulta ao texto oficial nem a orientação de um profissional habilitado.</p>
     </div></section>
     <section class="secao"><h2>O criador</h2>
-      <div class="sobre-autor"><div class="inicial">C</div><div class="md">
+      <div class="sobre-autor"><img class="foto-autor" src="assets/carlos-oliveira.jpg" alt="Carlos Alexandre Albuquerque Oliveira" width="132" height="132"><div class="md">
         <h3>Carlos Alexandre Albuquerque Oliveira</h3>
         ${md(bio)}
         ${contato ? `<h4>Contato</h4>${md(contato)}` : ''}
