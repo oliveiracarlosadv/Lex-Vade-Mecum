@@ -1,0 +1,194 @@
+@CP 168
+I: Apropriação indébita é apropriar-se de coisa alheia móvel de que já se tem a posse ou detenção, invertendo-a como se fosse dono. Difere do furto porque o agente recebeu a coisa licitamente. A pena aumenta de um terço se a coisa foi recebida em depósito necessário, como tutor, curador, inventariante ou depositário judicial, ou em razão de ofício, emprego ou profissão.
+P: Posse ou detenção anterior lícita || Inversão do ânimo da posse || Aumento de 1/3 por depósito necessário, função ou profissão
+K: apropriação indébita; posse; abuso de confiança
+
+@CP 168-A
+I: Apropriação indébita previdenciária é deixar de repassar à previdência as contribuições descontadas dos segurados ou arrecadadas do público, no prazo legal. A punibilidade se extingue se o agente confessa e paga antes do início da ação fiscal, salvo se declarado devedor contumaz (LC nº 225/2026). O juiz pode deixar de aplicar a pena ao primário que paga antes da denúncia ou cujo débito é inferior ao mínimo para execução fiscal. O pagamento integral do débito, a qualquer tempo, também extingue a punibilidade, segundo a legislação tributária.
+P: Desconto sem repasse das contribuições || Extinção pelo pagamento espontâneo || Exceção do devedor contumaz (LC nº 225/2026) || Perdão judicial e pena só de multa
+K: apropriação indébita previdenciária; contribuição previdenciária; devedor contumaz; extinção da punibilidade
+
+@CP 169
+I: É crime apropriar-se de coisa alheia que chegou ao seu poder por erro, caso fortuito ou força da natureza. Na mesma pena incorre quem acha tesouro em prédio alheio e fica com a parte do proprietário, e quem acha coisa perdida e não a devolve ao dono nem a entrega à autoridade em 15 dias.
+P: Coisa recebida por erro ou acaso || Apropriação de tesouro || Coisa achada não devolvida em 15 dias
+K: apropriação de coisa achada; tesouro; erro; caso fortuito
+
+@CP 170
+I: Nos crimes de apropriação indébita, aplica-se o privilégio do furto (art. 155, § 2º): se o agente é primário e a coisa de pequeno valor, a pena pode ser reduzida ou substituída por multa.
+P: Apropriação indébita privilegiada || Remissão ao art. 155, § 2º
+K: privilégio; pequeno valor; apropriação indébita
+
+@CP 171
+I: Estelionato é obter vantagem ilícita em prejuízo alheio, induzindo ou mantendo alguém em erro por meio fraudulento. Há formas equiparadas, como vender coisa alheia como própria, fraudar seguro, emitir cheque sem fundos e, desde a Lei nº 15.397/2026, ceder conta bancária para movimentar recursos de atividade criminosa ("conta laranja"). A fraude eletrônica, com dados obtidos por redes sociais, telefone, e-mail falso ou meios análogos, tem pena de 4 a 8 anos. A pena aumenta contra entes públicos e de um terço ao dobro contra idoso ou vulnerável. Com a revogação do § 5º pela Lei nº 15.397/2026, o estelionato deixou de depender de representação.
+P: Fraude que induz ou mantém a vítima em erro || Formas equiparadas, incluindo a conta laranja || Fraude eletrônica (4 a 8 anos) || Aumento contra idoso ou vulnerável || Fim da exigência de representação (Lei nº 15.397/2026)
+K: estelionato; fraude eletrônica; golpe; conta laranja; cheque sem fundos
+
+@CP 171-A
+I: Incluído pela Lei nº 14.478/2022, o artigo pune a fraude com ativos virtuais, valores mobiliários ou ativos financeiros: organizar, gerir, ofertar ou distribuir carteiras ou intermediar operações para obter vantagem ilícita, induzindo ou mantendo alguém em erro. A pena é de reclusão de 4 a 8 anos e multa. Alcança, por exemplo, pirâmides com criptoativos.
+P: Fraude com criptoativos e ativos financeiros || Reclusão de 4 a 8 anos || Lei nº 14.478/2022
+K: fraude com ativos virtuais; criptomoedas; pirâmide financeira; estelionato
+
+@CP 172
+I: É crime emitir fatura, duplicata ou nota de venda que não corresponda à mercadoria vendida ou ao serviço prestado (duplicata simulada), ou falsificar a escrituração do Livro de Registro de Duplicatas.
+P: Duplicata simulada || Falsificação do livro de duplicatas
+K: duplicata simulada; fatura; fraude comercial
+
+@CP 173
+I: É crime abusar da necessidade, paixão ou inexperiência de menor, ou da deficiência mental de alguém, para induzi-lo a praticar ato jurídico que cause prejuízo a ele ou a terceiro.
+P: Abuso da vulnerabilidade da vítima || Ato jurídico prejudicial
+K: abuso de incapazes; vulnerabilidade; fraude
+
+@CP 174
+I: É crime abusar da inexperiência, simplicidade ou inferioridade mental de alguém para induzi-lo a jogo, aposta ou especulação com títulos ou mercadorias, sabendo ou devendo saber que a operação é ruinosa.
+P: Indução a especulação ruinosa || Abuso da inexperiência
+K: induzimento à especulação; jogo; aposta; fraude
+
+@CP 175
+I: É crime enganar o consumidor no comércio vendendo mercadoria falsificada ou deteriorada como perfeita ou entregando uma mercadoria por outra. É mais grave alterar a qualidade de metal ou pedra preciosa em obra encomendada ou vender pedra falsa como verdadeira. Aplica-se o privilégio do furto. O Código de Defesa do Consumidor e a Lei nº 8.137/1990 também tratam de condutas próximas.
+P: Fraude contra o adquirente no comércio || Fraude com metais e pedras preciosas || Relação com o CDC e a Lei nº 8.137/1990
+K: fraude no comércio; consumidor; mercadoria falsificada
+
+@CP 176
+I: É crime tomar refeição em restaurante, hospedar-se em hotel ou usar transporte sem ter recursos para pagar. A ação depende de representação, e o juiz pode deixar de aplicar a pena conforme as circunstâncias.
+P: Fraude em restaurante, hotel ou transporte || Ação condicionada à representação || Perdão judicial
+K: outras fraudes; calote; perdão judicial
+
+@CP 177
+I: O artigo pune fraudes na fundação e administração de sociedades por ações, como afirmações falsas em prospectos e balanços, distribuição de lucros fictícios e operações irregulares com ações da própria companhia, se o fato não constituir crime contra a economia popular.
+P: Fraudes societárias || Afirmações falsas sobre a companhia || Subsidiariedade em relação aos crimes contra a economia popular
+K: sociedade por ações; fraude societária; balanço falso
+
+@CP 178
+I: É crime emitir conhecimento de depósito ou warrant (títulos de armazéns gerais) em desacordo com a lei.
+P: Emissão irregular de títulos de armazém geral
+K: warrant; conhecimento de depósito; título de crédito
+
+@CP 179
+I: É crime fraudar execução alienando, desviando, destruindo ou danificando bens, ou simulando dívidas, para frustrar o credor. A ação é privada.
+P: Fraude à execução || Ação penal privada
+K: fraude à execução; credor; execução civil
+
+@CP 180
+I: Receptação é adquirir, receber, transportar, conduzir ou ocultar coisa que se sabe ser produto de crime, ou influir para que terceiro de boa-fé a adquira (pena de 2 a 6 anos). A receptação qualificada, no exercício de atividade comercial ou industrial, tem pena de 3 a 8 anos, e a culposa, quando as circunstâncias indicam a origem ilícita, pena menor. A receptação é punível mesmo se desconhecido ou isento de pena o autor do crime anterior. A pena dobra para bens públicos e para cabos, fios e equipamentos de energia, telefonia e dados. Há regra própria para integrantes de organização criminosa, e a Lei nº 15.358/2026 permite suspender o CNPJ do estabelecimento usado (art. 92, IV).
+P: Receptação dolosa, qualificada e culposa || Autonomia em relação ao crime anterior || Pena em dobro para bens públicos e cabos || Suspensão do CNPJ do estabelecimento (art. 92, IV)
+K: receptação; receptação qualificada; receptação culposa; produto de crime
+
+@CP 180-A
+I: Receptação de animal é adquirir, receber, transportar, ocultar, ter em depósito ou vender, para produção ou comércio, animal de produção (ainda que abatido ou em partes) ou animal doméstico que se sabe ou deve saber ser produto de crime. A pena, aumentada pela Lei nº 15.397/2026, é de 3 a 8 anos.
+P: Receptação de gado e de animais domésticos || Finalidade de produção ou comércio || Reclusão de 3 a 8 anos
+K: receptação de animal; abigeato; semovente
+
+@CP 181
+I: É isento de pena quem comete crime patrimonial contra o cônjuge, durante a sociedade conjugal, ou contra ascendente ou descendente (escusa absolutória ou imunidade absoluta). A regra não vale nos casos do art. 183.
+P: Imunidade nos crimes patrimoniais em família || Cônjuge, ascendente e descendente || Exceções do art. 183
+K: escusa absolutória; imunidade penal; crimes patrimoniais; família
+
+@CP 182
+I: Nos crimes patrimoniais contra cônjuge separado judicialmente, irmão, ou tio ou sobrinho com quem o agente coabita, a ação depende de representação (imunidade relativa).
+P: Imunidade relativa || Ação condicionada à representação
+K: imunidade relativa; representação; crimes patrimoniais
+
+@CP 183
+I: As imunidades dos arts. 181 e 182 não se aplicam ao roubo, à extorsão e aos crimes com violência ou grave ameaça, ao estranho que participa do crime e quando a vítima tem 60 anos ou mais, por força do Estatuto da Pessoa Idosa.
+P: Exclusão das imunidades em crimes violentos || Não alcança o coautor estranho || Vítima com 60 anos ou mais
+K: imunidade; crimes patrimoniais; idoso; violência
+
+@CP 183-A
+I: Nos crimes contra o patrimônio cometidos contra instituições financeiras e prestadores de segurança privada, regidos pelo Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, as penas aumentam de um terço até o dobro.
+P: Aumento de 1/3 até o dobro || Instituições financeiras e segurança privada
+K: instituições financeiras; segurança privada; crimes patrimoniais; causa de aumento
+
+@CP 184
+I: É crime violar direitos de autor e conexos (pena de 3 meses a 1 ano ou multa). A reprodução com intuito de lucro sem autorização, a venda ou distribuição de cópias piratas e a oferta não autorizada ao público por cabo, satélite ou internet têm pena de 2 a 4 anos. Não há crime nas limitações legais ao direito autoral nem na cópia única para uso privado sem lucro. Pela Súmula 502 do STJ, vender CDs e DVDs piratas é crime, sem aplicação do princípio da adequação social.
+P: Violação de direito autoral || Pirataria com intuito de lucro || Exceção da cópia privada sem lucro || Súmula 502 do STJ
+K: direito autoral; pirataria; propriedade intelectual; Súmula 502
+
+@CP 186
+I: Na violação de direito autoral, a ação é privada no caput do art. 184, pública incondicionada nos §§ 1º e 2º e nos crimes contra entes públicos, e pública condicionada à representação no § 3º.
+P: Ação penal conforme a modalidade do crime autoral
+K: ação penal; direito autoral; queixa; representação
+
+@CP 197
+I: É crime constranger alguém, por violência ou grave ameaça, a exercer ou não uma atividade ou trabalhar ou não em certos períodos, ou a abrir ou fechar seu estabelecimento ou participar de paralisação. Protege-se a liberdade de trabalho (CF, art. 5º, XIII).
+P: Liberdade de trabalho || Constrangimento por violência ou grave ameaça
+K: liberdade de trabalho; constrangimento; crimes contra a organização do trabalho
+
+@CP 198
+I: É crime constranger alguém, por violência ou grave ameaça, a celebrar contrato de trabalho ou a não fornecer ou não comprar produtos de outrem (boicote violento).
+P: Liberdade de contratar || Boicotagem violenta
+K: contrato de trabalho; boicote; organização do trabalho
+
+@CP 199
+I: É crime constranger alguém, por violência ou grave ameaça, a participar ou deixar de participar de sindicato ou associação profissional, protegendo a liberdade sindical (CF, art. 8º, V).
+P: Liberdade de associação sindical || Constrangimento violento
+K: liberdade sindical; sindicato; associação profissional
+
+@CP 200
+I: É crime participar de greve ou abandono coletivo de trabalho praticando violência contra pessoa ou coisa. Exige-se o concurso de pelo menos três empregados. A greve pacífica é direito constitucional (CF, art. 9º).
+P: Greve com violência || Mínimo de três empregados || Greve pacífica é direito
+K: greve; paralisação; violência; direito de greve
+
+@CP 201
+I: O artigo pune a participação em paralisação que interrompa obra pública ou serviço de interesse coletivo. Deve ser lido com o direito de greve (CF, art. 9º) e a Lei nº 7.783/1989, que regula a greve em serviços essenciais.
+P: Paralisação de obra pública ou serviço coletivo || Leitura conforme o direito de greve
+K: greve; serviço essencial; obra pública
+
+@CP 202
+I: É crime invadir ou ocupar estabelecimento industrial, comercial ou agrícola para impedir ou atrapalhar o trabalho, ou danificar o estabelecimento ou dispor de seus bens com esse fim (sabotagem).
+P: Invasão de estabelecimento || Sabotagem
+K: sabotagem; invasão; estabelecimento
+
+@CP 203
+I: É crime frustrar, por fraude ou violência, direito trabalhista. Também responde quem obriga alguém a comprar em determinado estabelecimento para prendê-lo por dívida (truck system) ou impede o desligamento do trabalhador por coação ou retenção de documentos. A pena aumenta se a vítima é menor, idosa, gestante, indígena ou pessoa com deficiência.
+P: Frustração de direito trabalhista || Servidão por dívida || Retenção de documentos || Aumento conforme a vítima
+K: direito trabalhista; fraude; servidão por dívida; retenção de documentos
+
+@CP 204
+I: É crime frustrar, por fraude ou violência, obrigação legal relativa à nacionalização do trabalho, como as regras de proporção de empregados brasileiros.
+P: Nacionalização do trabalho || Fraude ou violência
+K: nacionalização do trabalho; organização do trabalho
+
+@CP 205
+I: É crime exercer atividade da qual se está impedido por decisão administrativa, como o profissional suspenso por conselho de classe.
+P: Exercício de atividade vedada por decisão administrativa
+K: exercício ilegal; decisão administrativa; impedimento
+
+@CP 206
+I: É crime recrutar trabalhadores mediante fraude para levá-los ao exterior. Pena: detenção de 1 a 3 anos e multa.
+P: Aliciamento fraudulento para emigração
+K: aliciamento; emigração; tráfico de trabalhadores
+
+@CP 207
+I: É crime aliciar trabalhadores para levá-los de uma localidade a outra do país. Também responde quem os recruta fora do local de trabalho mediante fraude ou cobrança, ou não garante o retorno. A pena aumenta se a vítima é menor, idosa, gestante, indígena ou pessoa com deficiência.
+P: Aliciamento de trabalhadores no território nacional || Recrutamento com fraude ou cobrança || Aumento conforme a vítima
+K: aliciamento de trabalhadores; migração interna; trabalho escravo
+
+@CP 208
+I: É crime escarnecer publicamente de alguém por motivo religioso, impedir ou perturbar culto e vilipendiar publicamente objeto ou ato de culto. A pena aumenta se há violência. Protege-se a liberdade religiosa (CF, art. 5º, VI).
+P: Ultraje a culto || Liberdade religiosa || Aumento por violência
+K: liberdade religiosa; culto; sentimento religioso
+
+@CP 209
+I: É crime impedir ou perturbar enterro ou cerimônia funerária, com aumento se houver violência.
+P: Proteção das cerimônias fúnebres || Aumento por violência
+K: cerimônia funerária; respeito aos mortos
+
+@CP 210
+I: É crime violar ou profanar sepultura ou urna funerária.
+P: Violação de sepultura || Respeito aos mortos
+K: violação de sepultura; profanação; respeito aos mortos
+
+@CP 211
+I: É crime destruir, subtrair ou ocultar cadáver ou parte dele, conduta comum para esconder outro crime, como o homicídio.
+P: Destruição, subtração ou ocultação de cadáver
+K: ocultação de cadáver; cadáver; respeito aos mortos
+
+@CP 212
+I: É crime vilipendiar (desrespeitar, aviltar) cadáver ou suas cinzas.
+P: Vilipêndio a cadáver
+K: vilipêndio; cadáver; respeito aos mortos
+
+@CP 213
+I: Estupro é constranger alguém, por violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir outro ato libidinoso. Desde a Lei nº 12.015/2009, abrange o antigo atentado violento ao pudor, e qualquer pessoa pode ser vítima. A pena é de 6 a 10 anos, de 8 a 12 se resulta lesão grave ou a vítima tem entre 14 e 18 anos, e de 12 a 30 se resulta morte. É crime hediondo. Se a vítima tem menos de 14 anos, aplica-se o estupro de vulnerável (art. 217-A).
+P: Conjunção carnal ou outro ato libidinoso || Violência ou grave ameaça || Formas qualificadas || Crime hediondo
+K: estupro; dignidade sexual; ato libidinoso; crime hediondo; Lei nº 12.015/2009
