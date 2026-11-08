@@ -1,0 +1,209 @@
+@LBPS 1
+I: Define a finalidade da Previdência Social: mediante contribuição, garantir meios de manutenção diante de incapacidade, desemprego involuntário, idade avançada, tempo de serviço, encargos familiares, prisão ou morte. O caráter contributivo a distingue da assistência social, e a cobertura concretiza o art. 201 da Constituição.
+P: Caráter contributivo || Riscos sociais cobertos || Base constitucional no art. 201 da CF
+K: Previdência Social; finalidade; riscos sociais; caráter contributivo
+
+@LBPS 2
+I: Lista os princípios da Previdência Social: universalidade de participação, uniformidade entre urbanos e rurais, seletividade e distributividade, correção dos salários de contribuição, irredutibilidade, piso de um salário mínimo para benefícios substitutivos, previdência complementar facultativa e gestão democrática e descentralizada. Reproduz e detalha os objetivos do art. 194 da Constituição.
+P: Irredutibilidade do valor dos benefícios || Piso de um salário mínimo || Gestão quadripartite e democrática
+K: princípios da previdência; universalidade; irredutibilidade; salário mínimo
+
+@LBPS 3
+I: Institui o Conselho Nacional de Previdência Social (CNPS), órgão colegiado com 6 representantes do Governo e 9 da sociedade civil (aposentados, trabalhadores e empregadores), com mandato de 2 anos. Os representantes dos trabalhadores têm abono das faltas e estabilidade da nomeação até um ano após o mandato, salvo falta grave apurada judicialmente.
+P: Composição paritária com sociedade civil || Mandato de 2 anos || Estabilidade dos representantes dos trabalhadores
+K: CNPS; conselho; estabilidade; gestão democrática
+
+@LBPS 4
+I: Atribui ao CNPS estabelecer diretrizes, acompanhar a gestão previdenciária, aprovar planos, programas e propostas orçamentárias, apreciar a prestação de contas e fixar valores mínimos para desistências e transações judiciais do INSS.
+P: Diretrizes e controle da gestão || Aprovação orçamentária || Limites para transações judiciais
+K: CNPS; competências; orçamento da previdência
+
+@LBPS 5
+I: Os órgãos governamentais devem prestar ao CNPS as informações e estudos técnicos necessários e enviar-lhe a proposta orçamentária da Previdência com 2 meses de antecedência do envio ao Congresso.
+P: Dever de informar o CNPS || Antecedência de 2 meses || Transparência orçamentária
+K: CNPS; órgãos governamentais; informação
+
+@LBPS 6
+I: Cria a Ouvidoria-Geral da Previdência Social, com atribuições definidas em regulamento, canal para reclamações, sugestões e denúncias dos segurados.
+P: Ouvidoria-Geral || Atribuições por regulamento || Canal com o cidadão
+K: ouvidoria; Previdência Social
+
+@LBPS 9
+I: A Previdência Social compreende o Regime Geral (RGPS) e o regime facultativo complementar. O RGPS cobre os riscos do art. 1º, exceto o desemprego involuntário (seguro-desemprego, lei própria) e a aposentadoria por tempo de contribuição de quem contribui pelo plano simplificado do art. 21, § 2º, da Lei nº 8.212/1991.
+P: RGPS e previdência complementar || Desemprego por lei específica || Exclusão no plano simplificado
+K: RGPS; previdência complementar; plano simplificado
+
+@LBPS 10
+I: Os beneficiários do RGPS dividem-se em segurados, que contribuem ou trabalham, e dependentes, que recebem prestações em razão do vínculo com o segurado.
+P: Segurados e dependentes || Classificação dos beneficiários || Base dos arts. 11 a 16
+K: beneficiários; segurados; dependentes
+
+@LBPS 11
+I: Enumera os segurados obrigatórios: empregado, empregado doméstico, contribuinte individual, trabalhador avulso e segurado especial (pequeno produtor rural, pescador artesanal e assemelhados em regime de economia familiar). Quem exerce mais de uma atividade filia-se por cada uma, e o aposentado que volta a trabalhar contribui. Define em detalhe o regime de economia familiar e o que descaracteriza o segurado especial, com as regras da Lei nº 15.072/2024 sobre cooperativas e mandato de vereador.
+P: Categorias de segurados obrigatórios || Segurado especial e economia familiar || Filiação por atividade e aposentado que trabalha
+K: segurados obrigatórios; empregado; contribuinte individual; segurado especial; trabalhador avulso
+
+@LBPS 12
+I: Servidores efetivos e militares amparados por regime próprio ficam fora do RGPS, salvo se exercerem paralelamente atividade abrangida por ele, quando se tornam segurados obrigatórios nessa atividade. Cedidos a órgão sem filiação continuam no regime de origem.
+P: Exclusão de quem tem regime próprio || Filiação na atividade concomitante || Cessão mantém o regime de origem
+K: regime próprio; servidor público; militar; RGPS
+
+@LBPS 13
+I: Segurado facultativo é quem, sem atividade que o torne obrigatório, se filia ao RGPS mediante contribuição, como donas de casa e estudantes. A lei fala em maior de 14 anos, mas a idade mínima de trabalho passou a 16 anos com a EC nº 20/1998, e o regulamento exige 16 anos.
+P: Filiação voluntária || Sem atividade obrigatória || Idade mínima de 16 anos na regra atual
+K: segurado facultativo; filiação voluntária
+
+@LBPS 14
+I: Define empresa e empregador doméstico para fins previdenciários e equipara a empresa o contribuinte individual, o dono de obra de construção civil, cooperativas, associações e missões diplomáticas em relação a quem lhes presta serviço.
+P: Conceito previdenciário de empresa || Empregador doméstico || Equiparações legais
+K: empresa; empregador doméstico; equiparação
+
+@LBPS 15
+I: Trata do período de graça, em que se mantém a qualidade de segurado sem contribuir: sem limite para quem recebe benefício (exceto auxílio-acidente); 12 meses após cessar as contribuições, prorrogáveis para 24 com mais de 120 contribuições e acrescidos de 12 para o desempregado; 12 meses após segregação ou livramento; 3 meses após o serviço militar; 6 meses para o facultativo. A jurisprudência admite outros meios de prova do desemprego além do registro oficial.
+P: Período de graça de 12 a 36 meses || Benefício mantém a qualidade sem limite || Perda no dia seguinte ao prazo de recolhimento
+K: qualidade de segurado; período de graça; desemprego; perda da qualidade
+
+@LBPS 16
+I: Define os dependentes em três classes: (I) cônjuge, companheiro e filho menor de 21 anos, inválido ou com deficiência intelectual, mental ou grave; (II) pais; (III) irmão nas mesmas condições do filho. A primeira classe exclui as seguintes, e só nela a dependência econômica é presumida. Enteado, menor sob tutela e menor sob guarda judicial equiparam-se a filho (Lei nº 15.108/2025). União estável e dependência exigem início de prova material dos 24 meses anteriores ao óbito ou à prisão, e o autor de homicídio doloso contra o segurado é excluído.
+P: Três classes de dependentes || Dependência presumida só na classe I || Menor sob guarda equiparado a filho (Lei nº 15.108/2025)
+K: dependentes; pensão por morte; união estável; menor sob guarda; dependência econômica
+
+@LBPS 17
+I: O regulamento disciplina a inscrição de segurados e dependentes; o dependente se inscreve ao requerer o benefício. A inscrição do segurado especial vincula-o ao grupo familiar e ao imóvel rural, e é vedada a inscrição após a morte de contribuinte individual ou facultativo.
+P: Inscrição pelo regulamento || Segurado especial vinculado ao grupo familiar || Vedação de inscrição post mortem
+K: inscrição; segurado especial; inscrição post mortem
+
+@LBPS 18
+I: Lista as prestações do RGPS: para o segurado, aposentadorias (invalidez, idade, tempo de contribuição e especial), auxílio-doença, salário-família, salário-maternidade e auxílio-acidente; para o dependente, pensão por morte e auxílio-reclusão; para ambos, serviço social e reabilitação profissional. O aposentado que continua trabalhando só tem direito a salário-família e reabilitação, e a desaposentação foi afastada pelo STF (Tema 503). Após a EC nº 103/2019, aposentadoria por invalidez e auxílio-doença passaram a ser chamados de aposentadoria por incapacidade permanente e auxílio por incapacidade temporária, e a aposentadoria por tempo de contribuição só existe pelas regras de transição.
+P: Rol de benefícios e serviços || Aposentado que trabalha e desaposentação (Tema 503 do STF) || Mudanças da EC nº 103/2019
+K: prestações; benefícios previdenciários; aposentadoria; desaposentação; EC 103/2019
+
+@LBPS 19
+I: Acidente do trabalho é o ocorrido pelo exercício do trabalho a serviço da empresa ou do empregador doméstico, ou do segurado especial, que cause morte ou perda ou redução da capacidade laboral. A empresa responde pelas medidas de proteção, deve informar os riscos e o descumprimento das normas de segurança é contravenção penal.
+P: Conceito de acidente do trabalho || Dever de prevenção da empresa || Contravenção pelo descumprimento das normas de segurança
+K: acidente do trabalho; segurança do trabalho; responsabilidade da empresa
+
+@LBPS 20
+I: Equipara ao acidente do trabalho a doença profissional (própria de certa atividade) e a doença do trabalho (adquirida pelas condições em que o trabalho é feito). Não são doenças do trabalho a degenerativa, a inerente à idade, a que não incapacita e a endêmica, salvo exposição pelo trabalho; doenças fora da lista podem ser reconhecidas em caso excepcional.
+P: Doença profissional e doença do trabalho || Exclusões legais || Reconhecimento excepcional fora da lista
+K: doença ocupacional; doença profissional; doença do trabalho
+
+@LBPS 21
+I: Equipara ao acidente do trabalho as concausas, as agressões e eventos ocorridos no local e horário de trabalho, a contaminação acidental e os acidentes fora do local em serviço, em viagem a serviço e no trajeto entre residência e trabalho. Intervalos para refeição e necessidades fisiológicas contam como exercício do trabalho.
+P: Concausa || Acidente de trajeto || Eventos no local e horário de trabalho
+K: acidente de trajeto; concausa; equiparação a acidente do trabalho
+
+@LBPS 21-A
+I: O INSS presume a natureza acidentária da incapacidade quando há nexo técnico epidemiológico (NTEP) entre a atividade da empresa e a doença (CID). A empresa pode pedir o afastamento do nexo, com recurso com efeito suspensivo ao Conselho de Recursos da Previdência Social.
+P: Presunção pelo NTEP || Prova contrária pela empresa || Recurso ao CRPS
+K: NTEP; nexo técnico epidemiológico; benefício acidentário; CID
+
+@LBPS 22
+I: A empresa ou o empregador doméstico deve emitir a CAT até o primeiro dia útil seguinte ao acidente e, em caso de morte, imediatamente, sob pena de multa. Na omissão, podem emiti-la o acidentado, dependentes, sindicato, médico ou autoridade pública, sem prazo; a multa não se aplica quando o nexo decorre do NTEP.
+P: CAT até o primeiro dia útil || Emissão por terceiros na omissão || Multa pela falta de comunicação
+K: CAT; comunicação de acidente do trabalho; multa
+
+@LBPS 23
+I: Nas doenças ocupacionais, considera-se dia do acidente o que ocorrer primeiro: início da incapacidade para a atividade habitual, segregação compulsória ou diagnóstico.
+P: Data do acidente na doença ocupacional || Critério do evento mais antigo || Relevância para prazos e estabilidade
+K: data do acidente; doença ocupacional
+
+@LBPS 24
+I: Carência é o número mínimo de contribuições mensais para ter direito a um benefício, contadas a partir do primeiro dia dos meses de competência.
+P: Conceito de carência || Contribuições mensais mínimas || Contagem por competência
+K: carência; contribuições mensais
+
+@LBPS 25
+I: Fixa as carências: 12 contribuições para auxílio-doença e aposentadoria por invalidez; 180 para aposentadorias por idade, tempo e especial; 10 para salário-maternidade de contribuinte individual, especial e facultativa; e 24 para auxílio-reclusão. O STF julgou inconstitucional a carência do salário-maternidade (ADIs 2110 e 2111).
+P: Carências por benefício || 24 meses para auxílio-reclusão || Carência do salário-maternidade afastada pelo STF
+K: carência; aposentadoria; salário-maternidade; auxílio-reclusão; ADI 2110
+
+@LBPS 26
+I: Dispensam carência: pensão por morte, salário-família, auxílio-acidente, benefícios por incapacidade decorrentes de acidente de qualquer natureza, doença ocupacional ou doenças graves da lista ministerial, benefícios do segurado especial no valor mínimo, serviço social, reabilitação e salário-maternidade da empregada, avulsa e doméstica.
+P: Benefícios sem carência || Acidente de qualquer natureza e doenças graves || Salário-maternidade de empregadas
+K: dispensa de carência; doenças graves; acidente de qualquer natureza
+
+@LBPS 27
+I: Para empregados, domésticos e avulsos, contam para carência as contribuições desde a filiação, ainda que não recolhidas pelo empregador. Para contribuinte individual, especial e facultativo, contam só a partir do primeiro pagamento sem atraso, desconsiderados recolhimentos atrasados de competências anteriores.
+P: Empregados: desde a filiação || Individuais: desde o primeiro pagamento em dia || Atrasos anteriores não contam para carência
+K: carência; contribuições em atraso; contribuinte individual
+
+@LBPS 27-A
+I: Após perder a qualidade de segurado, para recuperar o direito a auxílio-doença, aposentadoria por invalidez, salário-maternidade e auxílio-reclusão, o segurado precisa cumprir metade da carência desde a nova filiação.
+P: Metade da carência após refiliação || Benefícios abrangidos || Regra da Lei nº 13.846/2019
+K: perda da qualidade de segurado; refiliação; carência
+
+@LBPS 28
+I: Os benefícios de prestação continuada, inclusive os acidentários, são calculados sobre o salário de benefício, exceto salário-família e salário-maternidade.
+P: Base de cálculo dos benefícios || Inclui benefícios acidentários || Exceções
+K: salário de benefício; cálculo do benefício
+
+@LBPS 29
+I: Pela lei, o salário de benefício é a média dos 80% maiores salários de contribuição, com fator previdenciário nas aposentadorias por idade e por tempo de contribuição. Para benefícios concedidos após a EC nº 103/2019, o cálculo segue o art. 26 da emenda: média de todos os salários desde julho de 1994. O STF validou a regra de transição da Lei nº 9.876/1999 como obrigatória (ADIs 2110 e 2111, 2024), afastando a "revisão da vida toda". O auxílio-doença não pode superar a média dos últimos 12 salários de contribuição.
+P: Média dos salários e fator previdenciário || Cálculo da EC nº 103/2019 para novos benefícios || Revisão da vida toda afastada pelo STF
+K: salário de benefício; fator previdenciário; revisão da vida toda; EC 103/2019
+
+@LBPS 29-A
+I: O INSS usa o CNIS para calcular benefícios e comprovar filiação, vínculos e remunerações. O segurado pode pedir inclusão ou correção de dados com documentos, e dados extemporâneos dependem de comprovação.
+P: CNIS como base de dados || Correção a pedido do segurado || Dados extemporâneos exigem prova
+K: CNIS; vínculos; remunerações; retificação
+
+@LBPS 29-B
+I: Os salários de contribuição usados no cálculo são corrigidos mês a mês pelo INPC.
+P: Correção pelo INPC || Mês a mês || Preservação do valor real
+K: correção monetária; INPC; salário de contribuição
+
+@LBPS 29-C
+I: Regra 85/95 progressiva: permitia afastar o fator previdenciário quando a soma de idade e tempo de contribuição atingisse os pontos exigidos, com acréscimos periódicos até 2026. Após a EC nº 103/2019, vale para quem completou os requisitos até 13/11/2019 (direito adquirido); a emenda criou regra de transição própria por pontos.
+P: Pontuação 85/95 progressiva || Exclusão do fator previdenciário || Aplicação a direito adquirido após a EC nº 103/2019
+K: regra 85/95; fator previdenciário; pontos; direito adquirido
+
+@LBPS 31
+I: O valor do auxílio-acidente integra o salário de contribuição para calcular a aposentadoria, já que, desde 1997, não se acumula com ela.
+P: Auxílio-acidente no cálculo da aposentadoria || Não acumulação || Restabelecido pela Lei nº 9.528/1997
+K: auxílio-acidente; salário de contribuição; aposentadoria
+
+@LBPS 32
+I: Nas atividades concomitantes, o salário de benefício considera a soma dos salários de contribuição de todas as atividades, respeitado o teto (Lei nº 13.846/2019), superando a antiga divisão em atividade principal e secundária.
+P: Soma dos salários das atividades concomitantes || Teto do salário de contribuição || Fim da regra de atividade principal
+K: atividades concomitantes; salário de benefício
+
+@LBPS 33
+I: A renda mensal do benefício substitutivo não pode ser inferior ao salário mínimo nem superior ao teto, ressalvado o acréscimo de 25% da aposentadoria por invalidez (art. 45).
+P: Piso de um salário mínimo || Teto do RGPS || Exceção do acréscimo de 25%
+K: renda mensal; salário mínimo; teto previdenciário
+
+@LBPS 34
+I: No cálculo da renda mensal, para empregados, domésticos e avulsos computam-se os salários de contribuição devidos ainda que não recolhidos pelo empregador; para os demais, só os efetivamente recolhidos. O auxílio-acidente integra o salário de contribuição.
+P: Contribuições devidas pelo empregador contam || Demais segurados: só recolhidas || Auxílio-acidente no cálculo
+K: renda mensal; contribuições não recolhidas; empregado
+
+@LBPS 35
+I: Empregado, doméstico e avulso que cumpram os requisitos mas não comprovem os salários de contribuição recebem benefício mínimo, recalculado quando apresentada a prova.
+P: Benefício mínimo provisório || Recálculo com prova dos salários || Proteção do empregado
+K: benefício mínimo; prova de salário; recálculo
+
+@LBPS 36
+I: O empregado doméstico que não comprovar o recolhimento das contribuições recebe benefício mínimo, recalculado com a prova. Após a LC nº 150/2015, a responsabilidade pelo recolhimento é do empregador doméstico, que não pode prejudicar o empregado.
+P: Benefício mínimo ao doméstico || Recálculo com prova || Recolhimento a cargo do empregador
+K: empregado doméstico; benefício mínimo; LC 150/2015
+
+@LBPS 37
+I: A renda recalculada é reajustada como a dos benefícios com mesma data de início e substitui a anterior a partir do pedido de revisão.
+P: Reajuste da renda recalculada || Efeitos desde o pedido de revisão || Igualdade com benefícios da mesma data
+K: revisão; renda mensal inicial; recálculo
+
+@LBPS 38
+I: A Previdência Social deve manter cadastro dos segurados com as informações necessárias ao cálculo dos benefícios.
+P: Dever de manter cadastro || Base para o cálculo || Integração com o CNIS
+K: cadastro; CNIS
+
+@LBPS 38-A
+I: Cria o cadastro dos segurados especiais no CNIS, atualizado anualmente até 30 de junho do ano seguinte, sem ônus ao segurado. Após 5 anos do prazo, não se admite atualização, e o período rural só conta com comercialização e recolhimento em época própria.
+P: Cadastro do segurado especial no CNIS || Atualização anual até 30 de junho || Limite de 5 anos para atualizar
+K: segurado especial; cadastro; CNIS; atividade rural
+
+@LBPS 38-B
+I: O INSS comprova a atividade do segurado especial pelo cadastro do art. 38-A: a partir de 2023, exclusivamente por ele; para períodos anteriores, por autodeclaração ratificada por entidades credenciadas e órgãos públicos. Havendo divergência, pode exigir os documentos do art. 106.
+P: Cadastro como prova exclusiva desde 2023 || Autodeclaração para períodos anteriores || Documentos do art. 106 em caso de divergência
+K: segurado especial; autodeclaração; prova da atividade rural

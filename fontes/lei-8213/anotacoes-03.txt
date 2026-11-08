@@ -1,0 +1,149 @@
+@LBPS 51
+I: Permite à empresa requerer a aposentadoria por idade do empregado que cumpriu a carência e completou 70 anos (homem) ou 65 (mulher), de forma compulsória, garantida a indenização trabalhista como se o contrato fosse rescindido na véspera da aposentadoria.
+P: Aposentadoria compulsória a pedido da empresa || 70 anos (homem) e 65 (mulher) || Indenização trabalhista garantida
+K: aposentadoria compulsória; aposentadoria por idade; indenização
+
+@LBPS 71-A
+I: Quem adotar ou obtiver guarda judicial para adoção de criança tem direito a 120 dias de salário-maternidade, pago diretamente pelo INSS, a um único segurado por processo de adoção. Há prorrogação de 60 dias na adoção de criança com deficiência decorrente da síndrome congênita do Zika (Lei nº 15.156/2025).
+P: 120 dias na adoção ou guarda para adoção || Um único beneficiário por processo || Prorrogação de 60 dias (Zika)
+K: salário-maternidade; adoção; guarda judicial; adotante
+
+@LBPS 71-B
+I: Se morrer o segurado com direito ao salário-maternidade, o benefício é pago pelo tempo restante ao cônjuge ou companheiro sobrevivente que seja segurado, salvo morte ou abandono do filho. Deve ser requerido até o fim do prazo original e é calculado conforme a categoria do sobrevivente.
+P: Transferência ao cônjuge sobrevivente || Requerimento até o fim do prazo original || Cálculo pela categoria do beneficiário
+K: salário-maternidade; morte do segurado; cônjuge sobrevivente
+
+@LBPS 71-C
+I: O salário-maternidade depende do afastamento do trabalho ou da atividade, sob pena de suspensão do benefício.
+P: Afastamento obrigatório || Suspensão em caso de trabalho || Proteção da convivência com a criança
+K: salário-maternidade; afastamento
+
+@LBPS 71-D
+I: Prazo decadencial de 180 dias para requerer o salário-maternidade, criado pela Medida Provisória nº 871/2019 e não mantido na Lei nº 13.846/2019, que a converteu. Por isso aparece tachado e não está em vigor.
+P: Regra da MP nº 871/2019 sem conversão || Sem eficácia atual || Não há prazo decadencial específico
+K: salário-maternidade; decadência; Medida Provisória 871/2019
+
+@LBPS 72
+I: O salário-maternidade da empregada e da avulsa corresponde à remuneração integral. A empresa paga à empregada e compensa nas contribuições; o INSS paga diretamente à avulsa e à empregada do MEI.
+P: Remuneração integral || Pagamento pela empresa com compensação || Pagamento direto à avulsa e à empregada do MEI
+K: salário-maternidade; empregada; remuneração integral; compensação
+
+@LBPS 73
+I: Para as demais seguradas, o salário-maternidade é pago pelo INSS, com piso de um salário mínimo: último salário de contribuição para a doméstica, 1/12 da contribuição anual para a especial e média dos 12 últimos salários de contribuição para as demais, inclusive a desempregada que mantém a qualidade de segurada.
+P: Pagamento direto pelo INSS || Piso de um salário mínimo || Cálculo por categoria, inclusive desempregada
+K: salário-maternidade; contribuinte individual; segurada desempregada
+
+@LBPS 73-A
+I: O INSS deve conceder o salário-maternidade pago diretamente em até 30 dias do requerimento. Passado o prazo, a concessão é provisória e automática, depois confirmada ou cessada após análise, e os valores recebidos não precisam ser devolvidos, salvo má-fé (Lei nº 15.415/2026).
+P: Prazo de 30 dias para concessão || Concessão provisória e automática || Valores irrepetíveis salvo má-fé
+K: salário-maternidade; prazo de análise; concessão automática; Lei 15.415/2026
+
+@LBPS 74
+I: A pensão por morte é devida aos dependentes desde o óbito, se requerida em até 180 dias (filhos menores de 16 anos) ou 90 dias (demais), ou desde o requerimento depois disso, e desde a decisão judicial na morte presumida. Perde o direito o autor de homicídio doloso contra o segurado e o cônjuge ou companheiro em casamento ou união simulados. Quem busca judicialmente a condição de dependente pode habilitar-se provisoriamente para rateio, sem receber até o trânsito em julgado.
+P: Data de início conforme o prazo do requerimento || Perda por homicídio doloso ou fraude || Habilitação provisória para rateio
+K: pensão por morte; data de início; habilitação de dependente
+
+@LBPS 75
+I: Pela lei, a pensão corresponde a 100% da aposentadoria do segurado ou daquela por invalidez a que teria direito. Para óbitos a partir de 13/11/2019, aplica-se o art. 23 da EC nº 103/2019: cota familiar de 50% mais 10% por dependente, até 100%, com regra própria para dependente inválido ou com deficiência grave.
+P: 100% pela regra legal || Cotas da EC nº 103/2019 para óbitos posteriores || Proteção ao dependente com deficiência
+K: pensão por morte; valor da pensão; cota familiar; EC 103/2019
+
+@LBPS 76
+I: A falta de habilitação de outro dependente não atrasa a pensão; habilitações posteriores só produzem efeitos a partir delas. O companheiro concorre com o cônjuge ausente, e o ex-cônjuge que recebia alimentos concorre em igualdade com os dependentes da classe I; se os alimentos eram temporários, a pensão dura o prazo remanescente.
+P: Habilitação tardia produz efeitos dali em diante || Ex-cônjuge com alimentos concorre em igualdade || Alimentos temporários limitam a pensão
+K: pensão por morte; ex-cônjuge; alimentos; habilitação
+
+@LBPS 77
+I: A pensão é rateada em partes iguais e a cota de quem perde o direito reverte aos demais. A cota cessa com a morte, aos 21 anos para filho e irmão (salvo invalidez ou deficiência) e, para cônjuge ou companheiro, em 4 meses se o segurado tinha menos de 18 contribuições ou a união menos de 2 anos, ou após prazos de 3 a 20 anos conforme a idade do pensionista, sendo vitalícia a partir dos 44 anos. Em óbito por acidente ou doença do trabalho, dispensam-se as 18 contribuições e os 2 anos de união.
+P: Rateio e reversão de cotas || Duração conforme idade do cônjuge e vitalícia a partir de 44 anos || Regra dos 4 meses e exceção acidentária
+K: pensão por morte; duração da pensão; cônjuge; reversão de cota
+
+@LBPS 78
+I: Declarada judicialmente a morte presumida após 6 meses de ausência, concede-se pensão provisória; em desaparecimento por acidente, desastre ou catástrofe, independe da declaração e do prazo. Se o segurado reaparecer, a pensão cessa, sem devolução, salvo má-fé.
+P: Pensão provisória por morte presumida || Desaparecimento em catástrofe dispensa declaração || Reaparecimento sem devolução
+K: morte presumida; ausência; pensão provisória
+
+@LBPS 80
+I: O auxílio-reclusão é devido, nas condições da pensão por morte, aos dependentes do segurado de baixa renda preso em regime fechado, cumprida a carência de 24 meses e sem remuneração ou outros benefícios. A baixa renda é aferida pela média dos salários de contribuição dos 12 meses anteriores à prisão, e o benefício exige certidão de recolhimento e prova periódica de permanência na prisão. O STF fixou que a renda considerada é a do segurado preso (Tema 89).
+P: Somente regime fechado || Baixa renda pela média de 12 meses || Carência de 24 contribuições
+K: auxílio-reclusão; baixa renda; regime fechado; dependentes
+
+@LBPS 86
+I: O auxílio-acidente é indenização de 50% do salário de benefício ao segurado que, após consolidadas as lesões de acidente de qualquer natureza, ficar com sequela que reduza a capacidade para o trabalho habitual. Começa no dia seguinte à cessação do auxílio-doença, acumula-se com salário e outros benefícios, mas não com aposentadoria, e cessa na véspera dela. A perda auditiva só gera o benefício se reduzir a capacidade de trabalho. O STJ dispensa grau mínimo de redução (Tema 416).
+P: Indenização de 50% || Acumula com salário, não com aposentadoria || Qualquer grau de redução da capacidade (Tema 416 do STJ)
+K: auxílio-acidente; sequela; indenização; redução da capacidade
+
+@LBPS 88
+I: O Serviço Social esclarece os beneficiários sobre seus direitos e ajuda a resolver problemas na relação com a Previdência, com prioridade para quem está em benefício por incapacidade e atenção aos aposentados e pensionistas. Nos hospitais públicos onde atua, deve orientar os segurados sobre benefícios por incapacidade (Lei nº 15.288/2025).
+P: Orientação sobre direitos || Prioridade aos segurados incapacitados || Atuação em hospitais públicos (Lei nº 15.288/2025)
+K: serviço social; orientação previdenciária; benefício por incapacidade
+
+@LBPS 89
+I: A habilitação e a reabilitação profissional e social oferecem aos incapacitados e às pessoas com deficiência meios de (re)educação e (re)adaptação para o mercado de trabalho, incluindo próteses, órteses, sua reparação e transporte do acidentado.
+P: Reinserção no trabalho || Fornecimento de próteses e órteses || Transporte do acidentado
+K: reabilitação profissional; habilitação; prótese; pessoa com deficiência
+
+@LBPS 90
+I: A reabilitação é obrigatória para os segurados, inclusive aposentados, e oferecida aos dependentes conforme as possibilidades do INSS.
+P: Obrigatória aos segurados || Inclui aposentados || Dependentes conforme possibilidades
+K: reabilitação profissional; dependentes
+
+@LBPS 91
+I: Durante a habilitação ou reabilitação, é concedido auxílio para tratamento ou exame fora do domicílio do beneficiário, conforme o regulamento.
+P: Auxílio para deslocamento || Tratamento fora do domicílio || Regulamentação
+K: reabilitação profissional; tratamento fora do domicílio
+
+@LBPS 92
+I: Concluída a reabilitação, o INSS emite certificado indicando as atividades que o beneficiário pode exercer, sem impedir outras para as quais se capacite.
+P: Certificado de reabilitação || Atividades indicadas || Liberdade para outras atividades
+K: certificado de reabilitação; reabilitação profissional
+
+@LBPS 93
+I: Cota de contratação: empresas com 100 ou mais empregados devem preencher de 2% a 5% dos cargos com reabilitados ou pessoas com deficiência habilitadas. A dispensa sem justa causa dessas pessoas só pode ocorrer após contratar substituto em condição semelhante, e o aprendiz com deficiência não conta para a cota.
+P: Cota de 2% a 5% || Dispensa condicionada à contratação de substituto || Fiscalização pelo Ministério do Trabalho
+K: cota de pessoas com deficiência; reabilitados; lei de cotas; dispensa
+
+@LBPS 94
+I: Garante a contagem recíproca do tempo de contribuição entre a atividade privada (rural e urbana) e o serviço público, com compensação financeira entre os regimes. Contribuições pelo plano simplificado só contam para o regime próprio se complementadas.
+P: Contagem recíproca entre RGPS e regimes próprios || Compensação financeira || Plano simplificado exige complementação
+K: contagem recíproca; compensação previdenciária; regime próprio; CTC
+
+@LBPS 96
+I: Na contagem recíproca, não se admite tempo em dobro ou fictício, nem contagem de períodos concomitantes ou já usados em outro regime. O tempo sem filiação obrigatória exige indenização com juros, mas sem multa para o período anterior à obrigatoriedade de filiação (Lei nº 15.363/2026). A CTC exige contribuição efetiva, salvo para empregados e certos casos, e é vedada a desaverbação que gerou vantagens ao servidor.
+P: Vedação de tempo fictício e concomitante || Indenização sem multa para período anterior à filiação obrigatória (Lei nº 15.363/2026) || Regras da CTC
+K: contagem recíproca; CTC; indenização de tempo; desaverbação
+
+@LBPS 97
+I: Previa a aposentadoria por tempo de serviço com contagem recíproca a partir de 25 anos (mulher) e 30 (homem). Regra superada pelas EC nº 20/1998 e nº 103/2019, aplicável apenas a direitos adquiridos.
+P: Regra histórica || Superada pelas reformas || Direito adquirido
+K: contagem recíproca; aposentadoria por tempo de serviço
+
+@LBPS 98
+I: O tempo que exceder 30 anos (mulher) ou 35 (homem) na soma da contagem recíproca não é considerado para nenhum efeito.
+P: Limite do tempo computável || Excesso desconsiderado || Contagem recíproca
+K: contagem recíproca; tempo excedente
+
+@LBPS 99
+I: O benefício com contagem recíproca é concedido e pago pelo regime a que o interessado estiver vinculado ao requerer, conforme as regras desse regime.
+P: Regime de vinculação paga o benefício || Cálculo pela legislação própria || Compensação entre regimes
+K: contagem recíproca; regime instituidor
+
+@LBPS 100
+I: Dispositivo vetado na sanção da lei, sem conteúdo normativo.
+P: Veto presidencial || Sem eficácia || Numeração preservada
+K: veto; dispositivo vetado
+
+@LBPS 101
+I: Os beneficiários de auxílio por incapacidade temporária, auxílio-acidente, aposentadoria por incapacidade permanente e o pensionista inválido devem, sob pena de suspensão, submeter-se a exame médico, reabilitação e tratamento gratuito (exceto cirurgia e transfusão, que são facultativas). Ficam isentos do exame os aposentados e pensionistas com 55 anos e 15 de benefício ou com 60 anos, salvo para acréscimo de 25%, recuperação a pedido ou curatela. A perícia pode ser domiciliar, por telemedicina ou documental.
+P: Dever de submeter-se a exame e reabilitação || Isenção aos 55 anos com 15 de benefício ou aos 60 anos || Cirurgia e transfusão facultativas
+K: perícia médica; revisão de benefício por incapacidade; isenção de perícia; telemedicina
+
+@LBPS 102
+I: A perda da qualidade de segurado faz caducar os direitos dela decorrentes, mas não prejudica a aposentadoria cujos requisitos já estavam preenchidos, nem a pensão dos dependentes nesse caso. Na aposentadoria por idade, o STJ admite o preenchimento não simultâneo de idade e carência.
+P: Caducidade com a perda da qualidade || Direito adquirido à aposentadoria || Pensão quando o falecido já tinha direito a aposentar-se
+K: perda da qualidade de segurado; direito adquirido; pensão por morte
+
+@LBPS 103
+I: O prazo decadencial para revisar o ato de concessão de benefício é de 10 anos, contado do mês seguinte ao primeiro pagamento. O STF julgou inconstitucional a extensão da decadência ao indeferimento, cancelamento e cessação de benefícios (ADI 6.096), permitindo novo pedido a qualquer tempo nesses casos. As prestações vencidas prescrevem em 5 anos, salvo para menores, incapazes e ausentes.
+P: Decadência de 10 anos para revisão || Indeferimento não sujeito a decadência (ADI 6.096) || Prescrição quinquenal das parcelas
+K: decadência; prescrição; revisão de benefício; ADI 6096
