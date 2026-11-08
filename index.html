@@ -95,6 +95,8 @@ button,input,select{font:inherit;color:inherit}
 /* ---------- Estrutura ---------- */
 .corpo{flex:1;display:flex;min-height:0;min-width:0;max-width:100vw}
 aside{width:290px;flex:none;background:var(--papel2);border-right:1px solid var(--fio);overflow:auto;padding:18px 12px 40px}
+.cab-leis{display:flex;align-items:flex-end;justify-content:space-between;gap:8px;margin:6px 10px 8px;border-bottom:1px solid var(--fio);padding-bottom:4px}.cab-leis h2{margin:0;border:0;padding:0}
+.ordem{display:flex;border:1px solid var(--fio);border-radius:6px;overflow:hidden;flex:none}.ordem button{border:0;background:none;font-family:var(--ui);font-size:12px;padding:3px 8px;cursor:pointer;color:var(--tinta2)}.ordem button+button{border-left:1px solid var(--fio)}.ordem button.ativo{background:var(--papel);color:var(--titulo);font-weight:600}
 aside h2{font-family:var(--display);font-variant:small-caps;letter-spacing:.12em;font-size:17px;font-weight:600;color:var(--titulo);margin:6px 10px 8px;border-bottom:1px solid var(--fio);padding-bottom:4px}
 .lei{display:block;width:100%;text-align:left;border:0;background:none;padding:9px 10px;border-radius:6px;cursor:pointer;line-height:1.3;font-family:var(--serif);font-size:15px;color:var(--tinta)}
 .lei:hover{background:var(--papel)}
@@ -369,7 +371,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 </header>
 <div class="corpo">
   <aside id="lateral">
-    <h2>Leis</h2>
+    <div class="cab-leis"><h2>Leis</h2><div class="ordem" role="group" aria-label="Ordenar as leis"><button type="button" data-ordem="alfa" title="Ordem alfabética">A–Z</button><button type="button" data-ordem="data" title="Pela data de publicação, da mais antiga à mais recente">Data</button></div></div>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
     <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="instalarBtn">📲 Instalar como aplicativo<small>Salvar na tela inicial ou na área de trabalho</small></button></div>
     <div id="sumario"></div>
@@ -551,8 +553,23 @@ function blocoDispositivo(id, u, casa) {
 }
 /* ---------- Telas ---------- */
 let atual = null;
+/* Ordem das leis no menu e na página inicial: alfabética ou pela data de publicação.
+   A escolha fica salva neste navegador (chave "lex-ordem"). */
+let ordemLeis = 'alfa';
+try { ordemLeis = localStorage.getItem('lex-ordem') === 'data' ? 'data' : 'alfa'; } catch (e) {}
+const MESES = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
+function dataPublicacao(txt) {
+  const m = String(txt || '').match(/(\d{1,2})º?\s+de\s+([a-zç]+)\s+de\s+(\d{4})/i);
+  const mes = m ? MESES.indexOf(m[2].toLowerCase()) : -1;
+  return mes < 0 ? Infinity : Number(m[3]) * 10000 + (mes + 1) * 100 + Number(m[1]); // sem data (precedentes) vai para o fim
+}
+function leisOrdenadas() {
+  const alfa = (a, b) => a.nome.localeCompare(b.nome, 'pt-BR', { sensitivity: 'base' });
+  return [...leis].sort(ordemLeis === 'data' ? (a, b) => (dataPublicacao(a.data) - dataPublicacao(b.data)) || alfa(a, b) : alfa);
+}
 function desenharMenu() {
-  $('#listaLeis').innerHTML = leis.map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`).join('');
+  document.querySelectorAll('.ordem button').forEach((b) => { b.classList.toggle('ativo', b.dataset.ordem === ordemLeis); b.setAttribute('aria-pressed', b.dataset.ordem === ordemLeis); });
+  $('#listaLeis').innerHTML = leisOrdenadas().map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`).join('');
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
   $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
@@ -657,7 +674,7 @@ function inicio() {
     ${blocoLeituras()}
     ${blocoFavoritas()}
     <h2 class="titulo-indice">Leis disponíveis</h2>
-    <ol class="indice">${leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
+    <ol class="indice">${leisOrdenadas().map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
     <div class="dica"><b>Como buscar:</b> digite uma palavra ou trecho (<code>dano moral</code>, <code>"direito adquirido"</code>), um artigo (<code>art. 5º</code>, <code>art 1.035-A</code>, <code>adct 10</code>) um tema do TST (<code>tema 75</code>) ou um precedente do TRT8 (<code>irdr 7</code>, <code>iac 5</code>) e escolha buscar <b>nesta lei</b> ou <b>em todas</b>. Palavras soltas são procuradas juntas, em qualquer ordem; entre aspas, a expressão exata.</div>
     </div>${rodape()}`;
   $('#main').scrollTop = 0;
@@ -1749,6 +1766,10 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
     document.documentElement.dataset.theme = novo; try { localStorage.setItem('lex-tema', novo); } catch (e) {}
   };
   $('#menuBtn').onclick = () => document.body.classList.toggle('menu-aberto');
+  document.querySelectorAll('.ordem button').forEach((b) => (b.onclick = () => {
+    ordemLeis = b.dataset.ordem; try { localStorage.setItem('lex-ordem', ordemLeis); } catch (e) {}
+    if (atual === null && leis.length) inicio(); else desenharMenu();
+  }));
   ligarAcoes();
   $('#topoBtn').onclick = () => ($('#main').scrollTop = 0);
   $('#sobreBtn').onclick = () => { location.hash = '#/sobre'; fecharMenu(); };
