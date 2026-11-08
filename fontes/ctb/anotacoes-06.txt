@@ -1,0 +1,349 @@
+@CTB 278-A
+I: O condutor condenado em definitivo por receptação, descaminho ou contrabando praticados com uso de veículo tem a CNH cassada ou fica proibido de obtê-la por 5 anos, podendo depois reabilitar-se; preso em flagrante, o juiz pode suspender cautelarmente a habilitação para garantir a ordem pública (Lei nº 13.804/2019).
+P: Cassação por crimes com uso de veículo || Proibição por 5 anos || Suspensão cautelar
+K: cassação; contrabando; receptação; descaminho
+
+@CTB 279
+I: Em sinistro com vítima envolvendo veículo com tacógrafo, só o perito oficial pode retirar o disco ou a unidade de registro.
+P: Preservação da prova || Tacógrafo || Perito oficial
+K: tacógrafo; perícia; sinistro
+
+@CTB 279-A
+I: Veículos abandonados ou sinistrados podem ser removidos ao depósito mesmo sem infração, conforme o CONTRAN; o sinistrado é removido quando não houver responsável no local, e aplicam-se as regras do art. 328 sobre leilão.
+P: Remoção de veículo abandonado || Sinistrado sem responsável || Regras de leilão
+K: veículo abandonado; remoção; sinistrado
+
+@CTB 280
+I: Toda infração gera auto de infração com tipificação, local, data e hora, placa e identificação do veículo, prontuário do condutor, identificação do agente ou equipamento e, se possível, assinatura do infrator, que vale como notificação. A prova pode ser declaração do agente ou meio eletrônico regulamentado, e viaturas e ambulâncias em serviço não cometem infração de circulação, parada ou estacionamento, ainda que descaracterizadas (Lei nº 14.599/2023).
+P: Requisitos do auto de infração || Meios de prova da infração || Isenção de viaturas em serviço
+K: auto de infração; AIT; fé pública do agente
+
+@CTB 281
+I: A autoridade julga a consistência do auto e aplica a penalidade; o auto é arquivado se inconsistente ou se a notificação da autuação não for expedida em 30 dias, regra frequentemente usada na defesa. Para suspensão e cassação, o prazo conta da instauração do processo.
+P: Julgamento da consistência || Notificação da autuação em 30 dias || Arquivamento por vício
+K: notificação da autuação; prazo de 30 dias; defesa de multa
+
+@CTB 281-A
+I: A notificação da autuação deve indicar prazo de defesa prévia de no mínimo 30 dias da expedição (Lei nº 14.071/2020).
+P: Defesa prévia || Prazo mínimo de 30 dias || Indicação obrigatória na notificação
+K: defesa prévia; prazo
+
+@CTB 282
+I: Indeferida ou não apresentada a defesa prévia, aplica-se a penalidade e notifica-se o proprietário ou o infrator por correio ou meio eletrônico; notificação devolvida por endereço desatualizado ou recusa é válida. O prazo de recurso é de no mínimo 30 dias, coincidente com o vencimento da multa, e a notificação da penalidade deve ser expedida em 180 dias, ou 360 com defesa prévia (Lei nº 14.229/2021).
+P: Notificação da penalidade || Endereço desatualizado não protege o infrator || Prazos de 180 ou 360 dias
+K: notificação da penalidade; prazo de recurso; vencimento da multa
+
+@CTB 282-A
+I: Os órgãos autuadores devem oferecer notificação eletrônica (Sistema de Notificação Eletrônica, SNE), considerando-se notificado o usuário 30 dias após a inclusão no sistema; o cadastro deve ser mantido atualizado.
+P: Notificação eletrônica (SNE) || Ciência presumida em 30 dias || Cadastro atualizado
+K: notificação eletrônica; SNE; CNH digital
+
+@CTB 284
+I: A multa pode ser paga com 20% de desconto até o vencimento e com 40% de desconto se o infrator aderir à notificação eletrônica antes da autuação e renunciar à defesa e ao recurso. O pagamento não impede recorrer (salvo na opção de 40%), não há juros nem restrição ao licenciamento ou transferência enquanto o processo administrativo estiver aberto, e após seu fim incide Selic.
+P: Desconto de 20% ou 40% || Pagar não impede recorrer || Sem restrição durante o processo
+K: desconto na multa; pagamento de multa; SNE
+
+@CTB 285
+I: O recurso contra a penalidade é interposto perante a autoridade que a impôs, com efeito suspensivo, e remetido à JARI em 10 dias; recurso intempestivo é arquivado, não se exigem documentos do próprio órgão e o julgamento deve ocorrer em 24 meses.
+P: Recurso à JARI com efeito suspensivo || Julgamento em 24 meses || Dispensa de documentos do órgão
+K: recurso de multa; JARI; efeito suspensivo
+
+@CTB 286
+I: O recurso não exige pagamento prévio da multa; se o infrator pagou e o recurso for provido, recebe o valor corrigido.
+P: Recurso sem depósito prévio || Restituição corrigida || Acesso à defesa
+K: recurso; restituição da multa
+
+@CTB 287
+I: Se a infração ocorreu fora do local de licenciamento, o recurso pode ser apresentado no órgão do domicílio do infrator, que o remete à autoridade competente.
+P: Recurso no domicílio do infrator || Remessa ao órgão autuador || Facilidade de defesa
+K: recurso; domicílio
+
+@CTB 288
+I: Da decisão da JARI cabe recurso em 30 dias da publicação ou notificação, pelo infrator (se negado) ou pela autoridade (se provido). O depósito prévio antes exigido foi revogado, e o STF o considerou inconstitucional (ADI 2.998).
+P: Recurso de segunda instância em 30 dias || Recurso da autoridade || Sem depósito prévio (ADI 2.998)
+K: recurso ao CETRAN; segunda instância; depósito prévio
+
+@CTB 289
+I: O recurso de segunda instância é julgado em 24 meses pelo CETRAN ou CONTRANDIFE (penalidades estaduais e municipais) ou por colegiado especial de presidentes de JARI (penalidades da União).
+P: Julgamento pelo CETRAN || Colegiado especial federal || Prazo de 24 meses
+K: CETRAN; segunda instância; julgamento
+
+@CTB 289-A
+I: O não julgamento dos recursos em 24 meses, em primeira ou segunda instância, gera a prescrição da pretensão punitiva (Lei nº 14.229/2021).
+P: Prescrição por demora no julgamento || Prazo de 24 meses || Garantia do infrator
+K: prescrição; demora no julgamento; recurso de multa
+
+@CTB 290
+I: Encerra-se a instância administrativa com o julgamento do recurso de segunda instância, a falta de recurso no prazo ou o pagamento com reconhecimento da infração; esgotados os recursos, a penalidade vai ao RENACH.
+P: Fim do processo administrativo || Registro no RENACH || Pagamento com reconhecimento
+K: encerramento do processo; RENACH
+
+@CTB 290-A
+I: Os prazos processuais do CTB não se suspendem, salvo força maior comprovada nos termos do CONTRAN.
+P: Prazos contínuos || Exceção de força maior || Regulamentação do CONTRAN
+K: prazos processuais; suspensão de prazos
+
+@CTB 291
+I: Aos crimes de trânsito aplicam-se o Código Penal, o CPP e a Lei nº 9.099/1995 no que couber; a lesão corporal culposa admite composição, transação e representação, salvo se o agente estava sob efeito de álcool, em racha ou a mais de 50 km/h acima do limite, quando se instaura inquérito. A pena-base considera especialmente culpabilidade, circunstâncias e consequências.
+P: Aplicação subsidiária do CP e CPP || Lei nº 9.099/1995 na lesão culposa || Exceções de álcool, racha e excesso de velocidade
+K: crimes de trânsito; Lei 9.099/1995; lesão culposa
+
+@CTB 292
+I: A suspensão ou proibição de obter a habilitação pode ser aplicada isolada ou cumulativamente com outras penas.
+P: Pena de suspensão || Aplicação isolada ou cumulativa || Crimes de trânsito
+K: suspensão da habilitação; pena
+
+@CTB 293
+I: A suspensão ou proibição de obter a habilitação dura de 2 meses a 5 anos; após o trânsito em julgado, o réu entrega a CNH em 48 horas, e a pena não corre durante a prisão.
+P: Duração de 2 meses a 5 anos || Entrega da CNH em 48 horas || Não corre durante a prisão
+K: suspensão; duração; entrega da CNH
+
+@CTB 294
+I: Em qualquer fase da investigação ou do processo, o juiz pode suspender cautelarmente a habilitação ou proibir sua obtenção, em decisão motivada, para garantir a ordem pública, cabendo recurso em sentido estrito sem efeito suspensivo.
+P: Suspensão cautelar || Garantia da ordem pública || Recurso em sentido estrito
+K: medida cautelar; suspensão da CNH
+
+@CTB 295
+I: O juiz deve comunicar a suspensão ou proibição ao CONTRAN e ao Detran do domicílio do réu.
+P: Comunicação aos órgãos de trânsito || Efetividade da pena || Registro
+K: comunicação; suspensão judicial
+
+@CTB 296
+I: Ao reincidente em crime de trânsito, o juiz aplica a suspensão da habilitação, sem prejuízo das demais penas.
+P: Reincidência || Suspensão obrigatória || Cumulação de penas
+K: reincidência; suspensão
+
+@CTB 297
+I: A multa reparatória é paga à vítima por depósito judicial quando houver prejuízo material, limitada ao prejuízo provado e descontada da indenização civil.
+P: Multa reparatória à vítima || Limite do prejuízo || Desconto na indenização civil
+K: multa reparatória; vítima
+
+@CTB 298
+I: Agravam os crimes de trânsito: dano potencial a duas ou mais pessoas, veículo sem placa ou com placa falsa, falta de habilitação ou categoria diferente, profissão de transporte, veículo adulterado e crime sobre faixa de pedestres.
+P: Agravantes específicas || Falta de habilitação || Faixa de pedestres
+K: agravantes; crimes de trânsito
+
+@CTB 301
+I: O condutor que presta pronto e integral socorro à vítima não é preso em flagrante nem precisa pagar fiança.
+P: Incentivo ao socorro || Sem flagrante nem fiança || Socorro integral
+K: prisão em flagrante; socorro à vítima
+
+@CTB 302
+I: Homicídio culposo na direção de veículo tem pena de detenção de 2 a 4 anos e suspensão ou proibição da habilitação, aumentada de 1/3 à metade se o agente não for habilitado, agir na faixa ou calçada, omitir socorro ou for motorista profissional de passageiros. Sob influência de álcool ou drogas, a pena é de reclusão de 5 a 8 anos (Lei nº 13.546/2017).
+P: Homicídio culposo no trânsito || Causas de aumento || Embriaguez: reclusão de 5 a 8 anos
+K: homicídio culposo; crime de trânsito; embriaguez
+
+@CTB 303
+I: Lesão corporal culposa na direção de veículo tem detenção de 6 meses a 2 anos e suspensão, aumentada nas mesmas hipóteses do homicídio; com capacidade alterada por álcool ou drogas e lesão grave ou gravíssima, reclusão de 2 a 5 anos.
+P: Lesão culposa no trânsito || Causas de aumento || Embriaguez com lesão grave
+K: lesão corporal culposa; crime de trânsito
+
+@CTB 304
+I: Deixar de prestar imediato socorro à vítima ou de pedir auxílio à autoridade é crime, com detenção de 6 meses a 1 ano ou multa, mesmo que terceiros socorram ou a vítima tenha morrido instantaneamente.
+P: Omissão de socorro no trânsito || Crime mesmo com socorro de terceiros || Subsidiariedade
+K: omissão de socorro; crime de trânsito
+
+@CTB 305
+I: Afastar-se do local do sinistro para fugir à responsabilidade penal ou civil é crime, com detenção de 6 meses a 1 ano ou multa; o STF considerou o tipo constitucional (Tema 907).
+P: Fuga do local do sinistro || Constitucionalidade (Tema 907 do STF) || Responsabilidade penal e civil
+K: fuga do local; evasão; Tema 907
+
+@CTB 306
+I: Dirigir com capacidade psicomotora alterada por álcool ou drogas é crime com detenção de 6 meses a 3 anos, multa e suspensão. Configura-se com 6 dg/L de sangue ou 0,3 mg/L de ar alveolar ou sinais de alteração, provados por teste, exame, vídeo, testemunhas ou outros meios; o STF e o STJ tratam o crime como de perigo abstrato.
+P: Embriaguez ao volante como crime || Limites de 6 dg/L ou 0,3 mg/L || Prova por qualquer meio
+K: embriaguez ao volante; crime de trânsito; bafômetro; perigo abstrato
+
+@CTB 307
+I: Violar a suspensão ou proibição de dirigir imposta com base no CTB é crime, com detenção de 6 meses a 1 ano, multa e novo prazo idêntico de suspensão; também incorre quem não entrega a CNH em 48 horas.
+P: Dirigir suspenso é crime || Nova suspensão de igual prazo || Falta de entrega da CNH
+K: violação de suspensão; crime de trânsito
+
+@CTB 308
+I: Participar de racha, competição ou exibição não autorizada gerando risco é crime com detenção de 6 meses a 3 anos; se resultar lesão grave, reclusão de 3 a 6 anos, e se resultar morte, de 5 a 10 anos, quando o agente não quis nem assumiu o resultado.
+P: Racha como crime || Qualificadoras por lesão grave e morte || Exclusão do dolo eventual
+K: racha; crime de trânsito; corrida
+
+@CTB 309
+I: Dirigir sem habilitação ou com o direito cassado, gerando perigo de dano, é crime com detenção de 6 meses a 1 ano ou multa; exige perigo concreto, e sem perigo há apenas a infração administrativa (Súmula 720 do STF).
+P: Direção sem habilitação com perigo || Perigo concreto exigido || Súmula 720 do STF
+K: dirigir sem habilitação; perigo de dano; Súmula 720 STF
+
+@CTB 310
+I: Permitir, confiar ou entregar a direção a pessoa não habilitada, cassada, suspensa ou sem condições (embriagada ou doente) é crime com detenção de 6 meses a 1 ano ou multa; o STJ o considera de perigo abstrato, dispensando a prova de risco concreto (Súmula 575).
+P: Entrega a inabilitado ou embriagado || Perigo abstrato (Súmula 575 do STJ) || Responsabilidade do proprietário
+K: entregar direção; Súmula 575 STJ; crime de trânsito
+
+@CTB 311
+I: Trafegar em velocidade incompatível perto de escolas, hospitais, estações ou locais de grande concentração de pessoas, gerando perigo de dano, é crime com detenção de 6 meses a 1 ano ou multa.
+P: Velocidade perigosa em áreas sensíveis || Perigo de dano || Detenção ou multa
+K: velocidade incompatível; escola; crime de trânsito
+
+@CTB 312
+I: Alterar o estado de lugar, coisa ou pessoa após sinistro com vítima para enganar polícia, perito ou juiz é crime (fraude processual no trânsito), mesmo antes de iniciado o procedimento.
+P: Fraude processual no trânsito || Antes ou durante a investigação || Detenção ou multa
+K: fraude processual; inovação artificiosa; sinistro
+
+@CTB 312-A
+I: Nos crimes dos arts. 302 a 312, a substituição da prisão deve ser por prestação de serviços em resgate, pronto-socorro, clínicas de recuperação ou atividades de atendimento a vítimas de trânsito.
+P: Prestação de serviços ligada ao trânsito || Resgate e pronto-socorro || Caráter pedagógico
+K: pena alternativa; prestação de serviços; vítimas de trânsito
+
+@CTB 312-B
+I: No homicídio e na lesão grave cometidos sob efeito de álcool ou drogas (arts. 302, § 3º, e 303, § 2º), não se admite substituição da pena de prisão por restritiva de direitos com base no art. 44, I, do Código Penal (Lei nº 14.071/2020).
+P: Vedação de pena alternativa || Embriaguez com morte ou lesão grave || Lei nº 14.071/2020
+K: substituição de pena; embriaguez; homicídio culposo
+
+@CTB 313
+I: Fixou 60 dias para a nomeação dos membros do CONTRAN após a publicação do Código; regra transitória cumprida.
+P: Regra transitória || Nomeação do CONTRAN || Exaurida
+K: disposição transitória; CONTRAN
+
+@CTB 314
+I: Deu ao CONTRAN 240 dias para editar e revisar resoluções, com prioridade à redução de sinistros e proteção de pedestres; resoluções anteriores continuam válidas se compatíveis.
+P: Prazo para resoluções || Recepção das resoluções anteriores || Prioridade aos pedestres
+K: resoluções do CONTRAN; transição
+
+@CTB 315
+I: Previa prazo para o Ministério da Educação, por proposta do CONTRAN, definir currículo de educação para o trânsito.
+P: Currículo de trânsito || Ministério da Educação || Regra transitória
+K: educação para o trânsito; currículo
+
+@CTB 316
+I: Adiou por 240 dias a vigência do prazo de 30 dias para notificação da autuação (art. 281); regra exaurida.
+P: Vacância do prazo de notificação || Regra transitória || Exaurida
+K: notificação; transição
+
+@CTB 317
+I: Concedeu até 1 ano para adaptação dos veículos escolares e de autoescola às novas pinturas e identificações; regra exaurida.
+P: Adaptação de escolares e autoescolas || Prazo de 1 ano || Exaurida
+K: transição; transporte escolar; autoescola
+
+@CTB 319
+I: Manteve, até nova norma do CONTRAN, o art. 92 do Regulamento do antigo Código Nacional de Trânsito (Decreto nº 62.127/1968).
+P: Ultratividade de norma anterior || Até nova regulamentação || Regra transitória
+K: Código Nacional de Trânsito; transição
+
+@CTB 319-A
+I: O CONTRAN pode corrigir os valores das multas até o limite do IPCA do ano anterior, divulgando-os com 90 dias de antecedência.
+P: Atualização das multas || Limite do IPCA || Antecedência de 90 dias
+K: valor da multa; correção; IPCA
+
+@CTB 320
+I: A receita das multas só pode ser usada em sinalização, engenharia de tráfego, policiamento, fiscalização, renovação de frota, educação de trânsito e, desde a Lei nº 15.153/2025, no custeio da habilitação de condutores de baixa renda inscritos no CadÚnico; 5% vão ao fundo nacional e a destinação deve ser publicada anualmente.
+P: Destinação vinculada das multas || CNH social para baixa renda (Lei nº 15.153/2025) || Transparência anual
+K: receita de multas; CNH social; CadÚnico; Lei 15.153/2025
+
+@CTB 320-A
+I: Os órgãos do SNT podem integrar-se para ampliar a fiscalização, inclusive compartilhando a receita das multas.
+P: Integração da fiscalização || Compartilhamento de receita || Convênios
+K: fiscalização integrada; receita de multas
+
+@CTB 323
+I: Previa prazo para o CONTRAN fixar a metodologia de pesagem e tolerâncias, com penalidade provisória por excesso de peso; regra transitória.
+P: Metodologia de pesagem || Penalidade provisória || Regra transitória
+K: pesagem; excesso de peso
+
+@CTB 325
+I: As repartições de trânsito conservam por no mínimo 5 anos os documentos de habilitação, registro, licenciamento e autos de infração, admitidos documentos eletrônicos com certificação ICP-Brasil.
+P: Guarda de documentos por 5 anos || Documentos eletrônicos válidos || Certificação ICP-Brasil
+K: guarda de documentos; documento eletrônico
+
+@CTB 326
+I: A Semana Nacional de Trânsito é comemorada anualmente de 18 a 25 de setembro.
+P: Semana Nacional de Trânsito || 18 a 25 de setembro || Campanhas educativas
+K: Semana Nacional de Trânsito
+
+@CTB 326-A
+I: O Plano Nacional de Redução de Mortes e Lesões no Trânsito (Pnatrans) fixa metas anuais por Estado, com o objetivo de reduzir à metade, até o fim de 2030, o índice de mortes por habitante em relação a 2020, com propostas dos CETRAN e da PRF após consulta pública.
+P: Pnatrans e metas anuais || Reduzir mortes à metade até 2030 || Participação social
+K: Pnatrans; redução de mortes; metas
+
+@CTB 326-B
+I: Institui a Semana Nacional de Prevenção a Acidentes com Motociclistas, na semana do dia 27 de julho, Dia Nacional do Motociclista (Lei nº 15.006/2024).
+P: Semana de prevenção com motociclistas || 27 de julho || Lei nº 15.006/2024
+K: motociclista; Dia Nacional do Motociclista
+
+@CTB 326-C
+I: Reconhece o terceiro domingo de novembro como Dia Mundial em Memória das Vítimas do Trânsito (Lei nº 15.452/2026).
+P: Dia em memória das vítimas || Terceiro domingo de novembro || Lei nº 15.452/2026
+K: vítimas do trânsito; Dia Mundial em Memória
+
+@CTB 327
+I: Desde o Código, só podem ser fabricados e licenciados veículos dentro dos limites de peso e dimensões legais, salvo regulamentação do CONTRAN.
+P: Limites de peso e dimensões na fabricação || Licenciamento condicionado || Exceções do CONTRAN
+K: peso e dimensões; fabricação
+
+@CTB 328
+I: Veículo removido e não reclamado em 60 dias vai a leilão, preferencialmente eletrônico, como conservado ou sucata; sucata não volta a circular, e a cobrança de estada no depósito é limitada a 6 meses. O valor arrecadado cobre o leilão, as despesas e os débitos, devolvendo-se o saldo ao proprietário.
+P: Leilão após 60 dias || Estada limitada a 6 meses || Sucata não volta a circular
+K: leilão de veículos; depósito; estada; pátio
+
+@CTB 329
+I: Condutores de veículos de aluguel e escolares devem apresentar certidão criminal negativa quanto a homicídio, roubo, estupro e corrupção de menores, renovada a cada 5 anos.
+P: Certidão criminal para taxistas e escolares || Renovação a cada 5 anos || Proteção dos passageiros
+K: certidão negativa; táxi; transporte escolar
+
+@CTB 330
+I: Oficinas, desmanches e revendedores de veículos devem manter livros (ou sistema eletrônico) de entrada e saída de veículos e uso de placas de experiência, acessíveis à fiscalização, sob pena de multa gravíssima.
+P: Livros de registro de oficinas e desmanches || Acesso das autoridades || Multa pela falta
+K: desmanche; oficina; livro de registro
+
+@CTB 331
+I: Até a posse dos novos colegiados de recurso, os órgãos já existentes julgavam os recursos administrativos; regra transitória.
+P: Transição dos órgãos recursais || Regra transitória || Exaurida
+K: transição; recursos
+
+@CTB 332
+I: Os órgãos do SNT devem dar aos membros do CONTRAN, CETRAN e CONTRANDIFE em serviço as facilidades, informações e acesso necessários.
+P: Apoio aos conselhos || Acesso a informações || Inspeção de serviços
+K: CONTRAN; CETRAN; cooperação
+
+@CTB 333
+I: Previa prazos para o CONTRAN definir os requisitos dos órgãos executivos de trânsito e para estes se adequarem, condicionando a integração de novos órgãos ao SNT.
+P: Requisitos dos órgãos executivos || Prazo de adequação || Integração ao SNT
+K: municipalização; órgão executivo de trânsito
+
+@CTB 334
+I: As lombadas existentes deveriam ser homologadas em 1 ano, sob pena de retirada.
+P: Homologação de lombadas || Prazo de 1 ano || Regra transitória
+K: lombada; homologação
+
+@CTB 336
+I: Os sinais do Anexo II valeram até a aprovação pelo CONTRAN, em 360 dias, observados padrões internacionais.
+P: Anexo II de sinalização || Aprovação pelo CONTRAN || Padrões internacionais
+K: sinalização; Anexo II
+
+@CTB 337
+I: Os CETRAN recebem suporte técnico e financeiro dos Estados e Municípios, e o CONTRANDIFE, do Distrito Federal.
+P: Financiamento dos conselhos estaduais || Apoio técnico || Distrito Federal
+K: CETRAN; CONTRANDIFE; financiamento
+
+@CTB 338
+I: Montadoras, importadores e fabricantes devem entregar, na venda de veículos e ciclos, manual com normas de circulação, infrações, penalidades, direção defensiva, primeiros socorros e anexos do CTB.
+P: Manual do CTB na venda || Educação do comprador || Direção defensiva
+K: manual; venda de veículo
+
+@CTB 338-A
+I: As competências previstas nos arts. 21, XV, e 24, XXII, passaram aos órgãos rodoviários e municipais a partir de 1º de janeiro de 2024, sendo exercidas antes pelos Detrans (Lei nº 14.229/2021).
+P: Transferência de competências em 2024 || Órgãos rodoviários e municipais || Regra transitória
+K: competência; transição
+
+@CTB 339
+I: Autorizou crédito especial para as despesas de implantação do Código; regra orçamentária exaurida.
+P: Crédito especial || Implantação do CTB || Exaurida
+K: crédito orçamentário
+
+@CTB 340
+I: O Código entrou em vigor 120 dias após a publicação, em janeiro de 1998.
+P: Vacatio legis de 120 dias || Vigência em 1998 || Substituição do Código Nacional de Trânsito
+K: vigência; vacatio legis
+
+@CTB 341
+I: Revogou as leis anteriores de trânsito, inclusive a Lei nº 5.108/1966 (antigo Código Nacional de Trânsito), e decretos-leis correlatos.
+P: Revogação do Código Nacional de Trânsito || Leis e decretos-leis anteriores || Unificação da disciplina
+K: revogação; Código Nacional de Trânsito
+
+@AI anexo-i
+I: O Anexo I reúne os conceitos e definições oficiais do CTB (art. 4º), como acostamento, agente da autoridade de trânsito, automóvel, bicicleta, ciclovia, condutor, estacionamento e parada, faixa de pedestres, motocicleta, ônibus, pedestre, via e suas classificações. É o glossário a ser usado na interpretação de todo o Código, e definições como "parada" (tempo de embarque) e "estacionamento" (imobilização além disso) e as classes de via são decisivas para enquadrar infrações e limites de velocidade.
+P: Glossário oficial do CTB || Definições de via, parada e estacionamento || Base para enquadramento das infrações
+K: Anexo I; definições; conceitos; glossário do CTB

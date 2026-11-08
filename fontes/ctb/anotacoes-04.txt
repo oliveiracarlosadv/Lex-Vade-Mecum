@@ -1,0 +1,299 @@
+@CTB 159
+I: A CNH pode ser física ou digital, deve conter foto, nome e CPF e tem fé pública, valendo como documento de identidade em todo o país (Lei nº 15.428/2026). O porte é obrigatório ao dirigir, mas dispensado se a fiscalização puder consultar o sistema; a validade depende do exame médico, e a renovação ou segunda via exige quitar os débitos do prontuário. Cada condutor tem um único registro no RENACH.
+P: CNH física ou digital com valor de identidade (Lei nº 15.428/2026) || Porte dispensado com consulta ao sistema || Renovação exige quitação de débitos
+K: CNH; CNH digital; documento de identidade; RENACH
+
+@CTB 160
+I: O condutor condenado por crime de trânsito deve fazer novos exames para voltar a dirigir, mesmo com prescrição; em sinistro grave, o Detran pode exigir os exames e apreender a CNH até a aprovação, com ampla defesa.
+P: Reexame após condenação criminal || Reexame em sinistro grave || Apreensão da CNH até aprovação
+K: crime de trânsito; reexame; sinistro grave
+
+@CTB 161
+I: Infração de trânsito é a desobediência a qualquer preceito do CTB ou da legislação complementar, sujeitando o infrator às penalidades e medidas administrativas de cada artigo do capítulo e às sanções penais. O STF declarou inconstitucional a criação de infrações por resolução do CONTRAN (ADI 2.998), e a Lei nº 14.071/2020 revogou o parágrafo que a permitia.
+P: Conceito de infração de trânsito || Sanções administrativas e penais || Infrações só por lei (ADI 2.998)
+K: infração de trânsito; legalidade; ADI 2998
+
+@CTB 162
+I: Dirigir sem habilitação, com CNH cassada ou suspensa ou de categoria diferente é infração gravíssima, com multa de três vezes (duas na categoria diferente) e retenção do veículo até a apresentação de condutor habilitado. Também é infração dirigir com CNH vencida há mais de 30 dias, entre outras hipóteses do artigo.
+P: Sem CNH ou com CNH suspensa: gravíssima com multa triplicada || Categoria diferente || CNH vencida há mais de 30 dias
+K: dirigir sem habilitação; CNH suspensa; CNH vencida
+
+@CTB 163
+I: Quem entrega a direção do veículo a pessoa sem habilitação, com CNH suspensa, cassada ou de categoria diferente responde com as mesmas infrações e penalidades do art. 162.
+P: Responsabilidade de quem entrega o veículo || Mesmas sanções do art. 162 || Retenção do veículo
+K: entregar direção; inabilitado; proprietário
+
+@CTB 164
+I: Permitir que pessoa nas condições do art. 162 tome posse do veículo e passe a dirigi-lo também sujeita às mesmas sanções.
+P: Permitir a direção por inabilitado || Mesmas sanções || Dever de vigilância do proprietário
+K: permitir direção; inabilitado
+
+@CTB 165
+I: Dirigir sob influência de álcool ou outra substância psicoativa é infração gravíssima, com multa de dez vezes, suspensão do direito de dirigir por 12 meses, recolhimento da CNH e retenção do veículo; a multa dobra na reincidência em 12 meses (Lei Seca). A infração administrativa não exige concentração mínima, diferentemente do crime do art. 306.
+P: Lei Seca: multa de dez vezes e suspensão por 12 meses || Retenção e recolhimento da CNH || Multa em dobro na reincidência
+K: Lei Seca; álcool; embriaguez ao volante; bafômetro
+
+@CTB 165-A
+I: Recusar-se a fazer o teste do bafômetro, exame clínico ou perícia para verificar álcool ou drogas tem as mesmas sanções da embriaguez: multa de dez vezes e suspensão por 12 meses. O STF considerou constitucional essa sanção (Tema 1.079).
+P: Recusa ao bafômetro equivale à infração do art. 165 || Suspensão por 12 meses || Validada pelo STF (Tema 1.079)
+K: recusa ao bafômetro; teste de alcoolemia; Tema 1079
+
+@CTB 165-B
+I: Dirigir sem ter feito o exame toxicológico exigido para as categorias C, D e E é infração gravíssima com multa de cinco vezes e, na reincidência em 12 meses, de dez vezes com suspensão; no exame periódico, a infração ocorre após 30 dias do vencimento (Lei nº 14.599/2023).
+P: Falta do exame toxicológico || Multa de cinco vezes || Tolerância de 30 dias no exame periódico
+K: exame toxicológico; motorista profissional; infração
+
+@CTB 165-C
+I: Dirigir após resultado positivo no exame toxicológico é infração gravíssima com multa de cinco vezes e, na reincidência em 12 meses, de dez vezes com suspensão.
+P: Resultado positivo no toxicológico || Multa e suspensão na reincidência || Categorias C, D e E
+K: exame toxicológico positivo; infração
+
+@CTB 165-D
+I: Deixar de fazer o exame toxicológico periódico após 30 dias do vencimento é infração gravíssima com multa de cinco vezes, aplicada pelo Detran de registro da CNH, mesmo sem dirigir.
+P: Omissão do exame periódico || Infração mesmo sem dirigir || Competência do Detran de registro
+K: exame toxicológico periódico; infração
+
+@CTB 166
+I: Confiar o veículo a pessoa habilitada, mas sem condições físicas ou psíquicas de dirigir com segurança (como embriagada), é infração gravíssima.
+P: Entrega a condutor sem condições || Infração gravíssima || Responsabilidade do proprietário
+K: entregar veículo; condutor embriagado
+
+@CTB 167
+I: Deixar condutor ou passageiro de usar o cinto é infração grave, com retenção até a colocação.
+P: Falta de cinto || Infração grave || Retenção do veículo
+K: cinto de segurança; infração grave
+
+@CTB 168
+I: Transportar crianças sem observar as normas de segurança (cadeirinha, banco traseiro) é infração gravíssima, com retenção até a regularização.
+P: Transporte irregular de crianças || Infração gravíssima || Retenção do veículo
+K: cadeirinha; criança; infração gravíssima
+
+@CTB 169
+I: Dirigir sem atenção ou sem os cuidados indispensáveis à segurança é infração leve.
+P: Desatenção ao volante || Infração leve || Tipo aberto
+K: dirigir sem atenção
+
+@CTB 170
+I: Dirigir ameaçando pedestres que atravessam ou outros veículos é infração gravíssima com suspensão do direito de dirigir, retenção do veículo e recolhimento da CNH.
+P: Ameaça a pedestres e veículos || Suspensão do direito de dirigir || Retenção e recolhimento da CNH
+K: direção ameaçadora; pedestre
+
+@CTB 171
+I: Usar o veículo para arremessar água ou detritos sobre pedestres ou veículos é infração média.
+P: Arremesso de água ou detritos || Infração média || Respeito aos pedestres
+K: arremessar água; poça; pedestre
+
+@CTB 172
+I: Atirar do veículo ou abandonar na via objetos ou substâncias é infração média.
+P: Lixo e objetos na via || Infração média || Segurança e limpeza
+K: jogar lixo; objetos na via
+
+@CTB 173
+I: Disputar corrida (racha) é infração gravíssima com multa de dez vezes, suspensão do direito de dirigir, apreensão e remoção do veículo, com multa em dobro na reincidência em 12 meses; também é crime (art. 308).
+P: Racha: multa de dez vezes || Suspensão e apreensão || Também crime do art. 308
+K: racha; corrida; infração gravíssima
+
+@CTB 174
+I: Promover ou participar de competição, evento, exibição ou demonstração de perícia na via sem permissão é infração gravíssima com multa de dez vezes, suspensão e apreensão, aplicável a promotores e condutores.
+P: Eventos e exibições não autorizados || Promotores e condutores punidos || Multa em dobro na reincidência
+K: exibição de perícia; evento não autorizado; manobras
+
+@CTB 175
+I: Exibir manobra perigosa com arrancada brusca, derrapagem ou "cavalo de pau" é infração gravíssima com multa de dez vezes, suspensão e apreensão do veículo.
+P: Manobras perigosas || Multa de dez vezes || Suspensão e apreensão
+K: manobra perigosa; cavalo de pau; arrancada
+
+@CTB 176
+I: O condutor envolvido em sinistro com vítima que deixa de prestar ou providenciar socorro, sinalizar o local, preservá-lo, remover o veículo quando determinado ou identificar-se à polícia comete infração gravíssima com multa de cinco vezes e suspensão do direito de dirigir.
+P: Deveres do envolvido em sinistro com vítima || Multa de cinco vezes e suspensão || Omissão de socorro também é crime (art. 304)
+K: omissão de socorro; sinistro com vítima; dever de socorro
+
+@CTB 177
+I: O condutor que, solicitado pela autoridade, deixa de prestar socorro à vítima de sinistro comete infração grave, mesmo sem envolvimento no fato.
+P: Dever de colaborar com o socorro || Infração grave || Condutor não envolvido
+K: socorro; vítima; infração grave
+
+@CTB 178
+I: O envolvido em sinistro sem vítima que não remove o veículo do local quando necessário à segurança e fluidez comete infração média.
+P: Remoção do veículo em sinistro sem vítima || Fluidez do trânsito || Infração média
+K: sinistro sem vítima; remoção do veículo
+
+@CTB 179
+I: Fazer reparo do veículo na via pública, salvo impossibilidade de remoção e com sinalização, é infração grave em rodovias e vias de trânsito rápido (com remoção) e leve nas demais vias.
+P: Conserto na via proibido || Exceção de impossibilidade de remoção || Gravidade conforme o tipo de via
+K: reparo na via; conserto
+
+@CTB 180
+I: Ficar com o veículo parado na via por falta de combustível é infração média com remoção do veículo.
+P: Pane seca || Infração média || Remoção do veículo
+K: falta de combustível; pane seca
+
+@CTB 181
+I: Lista as infrações de estacionamento, com gravidade de leve a gravíssima e remoção do veículo: em esquinas, afastado do meio-fio, em rodovias e acostamentos, junto a hidrantes, sobre calçadas, faixas de pedestres e ciclovias, em guias rebaixadas, em fila dupla, em vagas reservadas a idosos e pessoas com deficiência sem credencial, em local proibido pela sinalização, entre outras.
+P: Rol de estacionamentos proibidos || Vagas de idosos e pessoas com deficiência || Remoção do veículo
+K: estacionamento proibido; fila dupla; vaga de deficiente; calçada
+
+@CTB 182
+I: Lista as infrações de parada (imobilização breve para embarque e desembarque) em locais proibidos: esquinas, afastado do meio-fio, rodovias, calçadas, cruzamentos, pontes e túneis, contramão, sob placa de proibido parar e sobre ciclovias (grave, Lei nº 14.071/2020).
+P: Parada em locais proibidos || Gravidade de leve a grave || Ciclovia e ciclofaixa
+K: parada proibida; proibido parar
+
+@CTB 183
+I: Parar sobre a faixa de pedestres na mudança do semáforo é infração média.
+P: Parada sobre a faixa || Mudança do sinal || Infração média
+K: faixa de pedestres; semáforo
+
+@CTB 184
+I: Transitar em faixa exclusiva é infração leve (faixa da direita), grave (faixa da esquerda) ou gravíssima com apreensão (faixa ou via exclusiva de ônibus), salvo acessos, conversões e força maior.
+P: Faixas exclusivas || Faixa de ônibus: gravíssima com apreensão || Exceções de acesso e conversão
+K: faixa exclusiva; corredor de ônibus
+
+@CTB 185
+I: Deixar de manter o veículo na faixa indicada pela sinalização ou, para veículos lentos e pesados, nas faixas da direita, é infração média.
+P: Disciplina de faixas || Veículos lentos à direita || Infração média
+K: faixa de rolamento; veículo lento
+
+@CTB 186
+I: Transitar na contramão é infração grave em vias de mão dupla (salvo ultrapassagem) e gravíssima em vias de sentido único.
+P: Contramão em mão dupla: grave || Contramão em mão única: gravíssima || Exceção da ultrapassagem
+K: contramão; sentido único
+
+@CTB 187
+I: Transitar em locais e horários proibidos pela regulamentação (rodízio, restrição de caminhões) é infração média.
+P: Restrições de circulação || Rodízio e horários || Infração média
+K: rodízio; restrição de circulação
+
+@CTB 188
+I: Transitar lado a lado com outro veículo, interrompendo ou perturbando o trânsito, é infração média.
+P: Circulação lado a lado || Perturbação do trânsito || Infração média
+K: circulação lado a lado
+
+@CTB 189
+I: Deixar de dar passagem a veículos de emergência, polícia, fiscalização, batedores e ambulâncias em serviço de urgência, com sirene e luzes acionadas, é infração gravíssima.
+P: Passagem a veículos de emergência || Sinais sonoros e luminosos acionados || Infração gravíssima
+K: ambulância; veículo de emergência; dar passagem
+
+@CTB 190
+I: Seguir veículo em serviço de urgência aproveitando sua prioridade é infração grave.
+P: Proibição de "pegar carona" na prioridade || Infração grave || Segurança
+K: veículo de emergência; seguir ambulância
+
+@CTB 191
+I: Forçar passagem entre veículos em sentidos opostos durante ultrapassagem é infração gravíssima com multa de dez vezes e suspensão, em dobro na reincidência.
+P: Forçar passagem || Multa de dez vezes e suspensão || Reincidência em dobro
+K: forçar passagem; ultrapassagem perigosa
+
+@CTB 192
+I: Não guardar distância de segurança lateral e frontal entre veículos e do bordo da pista é infração grave.
+P: Distância de segurança || Infração grave || Condições do momento
+K: distância de segurança
+
+@CTB 193
+I: Transitar com veículo em calçadas, passarelas, ciclovias, canteiros, acostamentos ou jardins é infração gravíssima com multa de três vezes.
+P: Veículo em calçada ou ciclovia || Multa de três vezes || Proteção de pedestres e ciclistas
+K: dirigir na calçada; ciclovia; acostamento
+
+@CTB 194
+I: Transitar em marcha à ré, salvo pequenas manobras seguras, é infração grave.
+P: Marcha à ré limitada || Exceção para manobras || Infração grave
+K: marcha à ré
+
+@CTB 195
+I: Desobedecer às ordens da autoridade de trânsito ou de seus agentes é infração grave.
+P: Desobediência ao agente || Infração grave || Prevalência das ordens do agente
+K: desobediência; agente de trânsito
+
+@CTB 196
+I: Deixar de sinalizar com seta ou gesto o início da marcha, a parada, a mudança de direção ou de faixa é infração grave.
+P: Falta de seta || Infração grave || Mudança de faixa
+K: seta; sinalização de manobra
+
+@CTB 197
+I: Não se deslocar com antecedência para a faixa da esquerda ou da direita antes de manobrar para esse lado é infração média.
+P: Posicionamento prévio || Infração média || Conversões
+K: conversão; posicionamento na faixa
+
+@CTB 198
+I: Deixar de dar passagem pela esquerda quando solicitado é infração média.
+P: Dar passagem para ultrapassagem || Infração média || Fluidez
+K: dar passagem; ultrapassagem
+
+@CTB 199
+I: Ultrapassar pela direita é infração média, salvo quando o veículo da frente estiver na faixa própria sinalizando que vai à esquerda.
+P: Ultrapassagem pela direita || Exceção legal || Infração média
+K: ultrapassagem pela direita
+
+@CTB 200
+I: Ultrapassar pela direita ônibus ou veículo escolar parado em embarque ou desembarque, sem refúgio para pedestres, é infração gravíssima.
+P: Proteção de passageiros e estudantes || Infração gravíssima || Exceção com refúgio
+K: ônibus parado; transporte escolar; ultrapassagem
+
+@CTB 201
+I: Não manter distância lateral de 1,5 metro ao passar ou ultrapassar bicicleta é infração média.
+P: Distância de 1,5 metro do ciclista || Infração média || Proteção do ciclista
+K: ciclista; distância lateral; bicicleta
+
+@CTB 202
+I: Ultrapassar pelo acostamento ou em interseções e passagens de nível é infração gravíssima com multa de cinco vezes.
+P: Ultrapassagem pelo acostamento || Interseções e passagens de nível || Multa de cinco vezes
+K: ultrapassagem pelo acostamento
+
+@CTB 203
+I: Ultrapassar pela contramão em curvas e aclives sem visibilidade, faixas de pedestres, pontes, viadutos, túneis, filas paradas ou faixa contínua amarela é infração gravíssima com multa de cinco vezes, em dobro na reincidência.
+P: Ultrapassagem proibida pela contramão || Faixa contínua amarela || Multa de cinco vezes e dobro na reincidência
+K: ultrapassagem proibida; faixa contínua
+
+@CTB 204
+I: Não parar no acostamento à direita para aguardar a travessia ou conversão à esquerda, onde não há retorno apropriado, é infração grave.
+P: Uso do acostamento para conversão || Infração grave || Rodovias
+K: conversão à esquerda; acostamento
+
+@CTB 205
+I: Ultrapassar veículo integrante de cortejo, desfile ou formação militar sem autorização é infração leve.
+P: Cortejos e desfiles || Infração leve || Autorização do agente
+K: cortejo; desfile
+
+@CTB 206
+I: Fazer retorno em local proibido, em curvas, pontes e túneis, sobre calçadas e canteiros, entrando na contramão em interseções ou prejudicando a segurança é infração gravíssima.
+P: Retorno proibido || Infração gravíssima || Locais perigosos
+K: retorno proibido
+
+@CTB 207
+I: Fazer conversão à direita ou à esquerda em local proibido pela sinalização é infração grave.
+P: Conversão proibida || Infração grave || Sinalização
+K: conversão proibida
+
+@CTB 208
+I: Avançar o sinal vermelho ou a parada obrigatória é infração gravíssima, salvo onde houver sinalização permitindo a conversão livre à direita (art. 44-A).
+P: Avanço de sinal vermelho || Infração gravíssima || Exceção da conversão livre à direita
+K: sinal vermelho; avanço de sinal; semáforo
+
+@CTB 209
+I: Transpor bloqueio viário sem autorização ou deixar de entrar em área de pesagem é infração grave.
+P: Bloqueio viário || Fuga da balança || Infração grave
+K: bloqueio viário; pesagem
+
+@CTB 209-A
+I: Evadir-se do pagamento de pedágio ou deixar de pagá-lo na forma estabelecida (inclusive no sistema free flow) é infração grave (Lei nº 14.157/2021).
+P: Evasão de pedágio || Free flow || Infração grave
+K: pedágio; evasão; free flow
+
+@CTB 210
+I: Transpor bloqueio policial sem autorização é infração gravíssima com multa, apreensão do veículo, suspensão do direito de dirigir, remoção e recolhimento da CNH.
+P: Fuga de bloqueio policial || Suspensão e apreensão || Infração gravíssima
+K: bloqueio policial; fuga
+
+@CTB 211
+I: Ultrapassar veículos parados em fila por sinal, cancela ou obstáculo é infração grave, exceto para veículos não motorizados.
+P: Furar fila parada || Infração grave || Exceção para bicicletas
+K: ultrapassar fila; cancela
+
+@CTB 212
+I: Deixar de parar antes de cruzar linha férrea é infração gravíssima.
+P: Parada antes da linha férrea || Infração gravíssima || Prevenção de colisão com trem
+K: linha férrea; passagem de nível
+
+@CTB 213
+I: Não parar diante de agrupamento de pessoas (passeatas, desfiles) é infração gravíssima, e diante de agrupamento de veículos (cortejos, formações militares), grave.
+P: Parada diante de passeatas || Cortejos de veículos || Gravidade diferenciada
+K: passeata; cortejo; parada obrigatória

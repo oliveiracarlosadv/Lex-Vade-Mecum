@@ -1,0 +1,324 @@
+@CTB 214
+I: Deixar de dar preferência ao pedestre ou veículo não motorizado na faixa, que não concluiu a travessia, ou que seja pessoa com deficiência, criança, idoso ou gestante é infração gravíssima; se o pedestre já iniciou a travessia sem sinalização ou atravessa a via para onde o veículo vai, é grave.
+P: Preferência do pedestre na faixa: gravíssima || Vulneráveis com proteção reforçada || Travessia iniciada: grave
+K: preferência do pedestre; faixa de pedestres; infração gravíssima
+
+@CTB 215
+I: Deixar de dar preferência em cruzamento não sinalizado (a quem está na rodovia, rotatória ou vem pela direita) ou onde houver placa "Dê a Preferência" é infração grave.
+P: Preferência em cruzamentos || Placa Dê a Preferência || Infração grave
+K: preferência de passagem; rotatória; cruzamento
+
+@CTB 216
+I: Entrar ou sair de garagens e áreas lindeiras sem o posicionamento e as precauções devidas é infração média.
+P: Saída de garagens || Precaução com pedestres || Infração média
+K: área lindeira; garagem
+
+@CTB 217
+I: Entrar ou sair de fila de veículos estacionados sem dar preferência a pedestres e veículos é infração média.
+P: Saída da vaga || Preferência || Infração média
+K: estacionamento; saída da vaga
+
+@CTB 218
+I: Exceder a velocidade máxima medida por equipamento é infração média até 20% acima do limite, grave de 20% a 50% e gravíssima acima de 50%, com multa de três vezes e suspensão do direito de dirigir (Lei nº 14.071/2020).
+P: Faixas de excesso: até 20%, de 20% a 50% e acima de 50% || Suspensão acima de 50% || Medição por equipamento
+K: excesso de velocidade; radar; suspensão
+
+@CTB 219
+I: Transitar abaixo da metade da velocidade máxima, retardando o trânsito sem justificativa e fora da faixa da direita, é infração média.
+P: Velocidade anormalmente baixa || Exceção das condições adversas || Faixa da direita permitida
+K: velocidade mínima; lentidão
+
+@CTB 220
+I: Deixar de reduzir a velocidade de forma compatível com a segurança é infração gravíssima perto de passeatas e aglomerações, ao ultrapassar ciclista e perto de escolas, hospitais e áreas de grande movimento de pedestres; nas demais situações listadas (chuva, neblina, curvas, obras, pista escorregadia, animais), é grave.
+P: Redução obrigatória em situações de risco || Gravíssima perto de escolas e ao passar ciclista || Grave sob chuva e em curvas
+K: redução de velocidade; escola; ciclista
+
+@CTB 221
+I: Portar placas fora dos padrões do CONTRAN é infração média, com retenção e apreensão das placas, também para quem as confecciona, distribui ou instala.
+P: Placas irregulares || Responsabilidade de fabricantes || Apreensão das placas
+K: placa irregular; emplacamento
+
+@CTB 222
+I: Deixar de manter ligadas as luzes intermitentes de viaturas e ambulâncias em atendimento de emergência, mesmo paradas, é infração média.
+P: Luzes de emergência ligadas || Veículos de socorro || Infração média
+K: giroflex; viatura; emergência
+
+@CTB 223
+I: Transitar com farol desregulado ou luz alta que ofusque outro condutor é infração grave, com retenção para regularização.
+P: Farol desregulado || Ofuscamento || Infração grave
+K: farol alto; ofuscamento
+
+@CTB 224
+I: Usar luz alta em vias com iluminação pública é infração leve.
+P: Luz alta em via iluminada || Infração leve || Ofuscamento
+K: farol alto; iluminação pública
+
+@CTB 225
+I: Deixar de sinalizar a via e manter luzes acesas quando o veículo estiver parado no acostamento ou houver carga derramada é infração grave.
+P: Sinalização de veículo parado || Carga derramada || Infração grave
+K: triângulo; sinalização de emergência
+
+@CTB 226
+I: Deixar de retirar objetos usados para sinalização temporária da via é infração média.
+P: Retirada da sinalização provisória || Galhos e pedras na pista || Infração média
+K: sinalização temporária; obstáculo
+
+@CTB 227
+I: Usar buzina fora do toque breve de advertência, de forma prolongada, entre 22h e 6h, em locais proibidos ou fora dos padrões é infração leve.
+P: Buzina restrita || Silêncio entre 22h e 6h || Infração leve
+K: buzina; barulho
+
+@CTB 228
+I: Usar equipamento de som em volume ou frequência não autorizados pelo CONTRAN é infração grave, com retenção.
+P: Som automotivo alto || Limites do CONTRAN || Infração grave
+K: som automotivo; poluição sonora
+
+@CTB 229
+I: Usar alarme ou aparelho que produza ruído perturbando o sossego público é infração média, com apreensão e remoção do veículo.
+P: Alarme e ruído || Sossego público || Apreensão
+K: alarme; ruído
+
+@CTB 230
+I: Lista infrações por condição do veículo: placa ou chassi adulterados, passageiros em compartimento de carga, antirradar, falta de placa, veículo não registrado ou não licenciado e placa ilegível (gravíssimas, com remoção), além de cor alterada, falta de inspeção ou de equipamento obrigatório, equipamento proibido, iluminação alterada, tacógrafo viciado e publicidade no para-brisa, entre outras.
+P: Veículo sem licenciamento ou placa || Equipamentos irregulares || Remoção ao depósito
+K: veículo não licenciado; antirradar; equipamento obrigatório
+
+@CTB 231
+I: Lista infrações de circulação: danificar a via, derramar carga ou combustível (gravíssima), emitir fumaça acima do permitido, dimensões irregulares e excesso de peso, este com multa acrescida por faixa de peso excedente, entre outras.
+P: Derramamento de carga: gravíssima || Excesso de peso com multa progressiva || Emissão de fumaça
+K: excesso de peso; derramamento de carga; fumaça
+
+@CTB 232
+I: Conduzir sem os documentos de porte obrigatório é infração leve, com retenção até a apresentação, salvo quando a fiscalização puder consultar o sistema.
+P: Falta de documentos || Infração leve || Consulta eletrônica supre o porte
+K: documentos; CNH; CRLV
+
+@CTB 233
+I: Deixar de registrar a transferência ou outra alteração do art. 123 em 30 dias é infração média, com remoção do veículo.
+P: Transferência fora do prazo || Infração média || Remoção do veículo
+K: transferência atrasada; registro
+
+@CTB 234
+I: Falsificar ou adulterar CNH ou documento do veículo é infração gravíssima com apreensão do veículo, sem prejuízo do crime de falsidade.
+P: Falsificação de documento || Infração gravíssima || Crime de falso
+K: documento falso; adulteração
+
+@CTB 235
+I: Conduzir pessoas, animais ou carga nas partes externas do veículo, salvo autorização, é infração grave com retenção para transbordo.
+P: Transporte externo proibido || Infração grave || Transbordo
+K: transporte irregular; caçamba
+
+@CTB 236
+I: Rebocar outro veículo com corda ou cabo flexível, salvo emergência, é infração média.
+P: Reboque com corda || Exceção de emergência || Infração média
+K: reboque; corda
+
+@CTB 237
+I: Transitar com veículo fora das especificações ou sem as inscrições exigidas é infração grave, com retenção.
+P: Especificações do veículo || Inscrições obrigatórias || Infração grave
+K: veículo irregular; inscrições
+
+@CTB 238
+I: Recusar-se a entregar à autoridade os documentos de habilitação e do veículo para verificação é infração gravíssima com apreensão.
+P: Recusa a entregar documentos || Infração gravíssima || Apreensão do veículo
+K: recusa; documentos; fiscalização
+
+@CTB 239
+I: Retirar do local veículo retido sem permissão é infração gravíssima com apreensão.
+P: Fuga de veículo retido || Infração gravíssima || Remoção
+K: veículo retido; retirada indevida
+
+@CTB 240
+I: Deixar de dar baixa no registro de veículo irrecuperável ou desmontado é infração grave, com recolhimento dos documentos.
+P: Falta de baixa || Infração grave || Recolhimento de documentos
+K: baixa de registro; perda total
+
+@CTB 241
+I: Deixar de atualizar o cadastro do veículo ou da habilitação (como endereço) é infração leve.
+P: Cadastro desatualizado || Infração leve || Endereço para notificações
+K: atualização cadastral; endereço
+
+@CTB 242
+I: Declarar domicílio falso para registro, licenciamento ou habilitação é infração gravíssima.
+P: Falsa declaração de domicílio || Infração gravíssima || Fraude no registro
+K: falso domicílio; registro
+
+@CTB 243
+I: Seguradora que não comunica ao Detran a perda total do veículo nem devolve placas e documentos comete infração grave.
+P: Dever da seguradora || Perda total || Infração grave
+K: seguradora; perda total
+
+@CTB 244
+I: Conduzir moto sem capacete ou vestuário adequado, com passageiro sem capacete ou fora do assento, empinando, ou transportando criança menor de 10 anos é infração gravíssima com suspensão do direito de dirigir; rebocar, soltar o guidom ou levar carga incompatível são outras infrações do artigo.
+P: Capacete obrigatório: gravíssima com suspensão || Criança menor de 10 anos na moto || Malabarismo e empinar
+K: motocicleta; capacete; garupa; criança na moto
+
+@CTB 245
+I: Usar a via para depósito de mercadorias ou materiais sem autorização é infração grave do responsável, com remoção do material.
+P: Depósito na via || Responsável pessoa física ou jurídica || Remoção do material
+K: entulho; depósito na via
+
+@CTB 246
+I: Deixar de sinalizar obstáculo na via ou calçada, ou obstruí-la indevidamente, é infração gravíssima, com multa agravável até cinco vezes, além da sinalização e desobstrução às custas do responsável.
+P: Obstáculo sem sinalização || Multa agravada até cinco vezes || Responsável paga a desobstrução
+K: obstáculo; obstrução da via
+
+@CTB 247
+I: Deixar de conduzir bicicletas, carroças e similares pelo bordo da pista em fila única, quando não houver acostamento ou faixa própria, é infração média.
+P: Veículos não motorizados no bordo || Fila única || Infração média
+K: bicicleta; carroça; bordo da pista
+
+@CTB 248
+I: Transportar carga excedente em veículo de passageiros, em desacordo com o art. 109, é infração grave com transbordo.
+P: Carga em veículo de passageiros || Infração grave || Transbordo
+K: excesso de carga; veículo de passageiros
+
+@CTB 249
+I: Deixar de manter acesas as luzes de posição à noite com o veículo parado para embarque ou carga é infração média.
+P: Luzes de posição || Embarque e carga noturnos || Infração média
+K: luz de posição; veículo parado
+
+@CTB 250
+I: Deixar de usar farol baixo à noite, em túneis, sob chuva ou neblina, em motos e ônibus em faixa exclusiva de dia e em rodovias de pista simples sem luz de rodagem diurna, ou deixar a placa traseira sem luz à noite, é infração média; ônibus ou escolar com porta aberta em movimento é gravíssima (Lei nº 14.440/2022).
+P: Farol baixo obrigatório: média || Rodovias de pista simples || Porta aberta em ônibus: gravíssima
+K: farol baixo; luz diurna; porta aberta
+
+@CTB 251
+I: Usar pisca-alerta fora de emergências ou piscar faróis fora das hipóteses permitidas é infração média.
+P: Uso indevido do pisca-alerta || Piscar faróis || Infração média
+K: pisca-alerta; farol
+
+@CTB 252
+I: Dirigir com braço para fora, transportando pessoas ou objetos à esquerda, com incapacidade temporária, com calçado inadequado, com uma só mão, usando fones ou celular, ou cobrando tarifa em movimento é infração média; segurar ou manusear o celular é gravíssima.
+P: Condutas proibidas ao volante || Fones e chinelo || Celular na mão: gravíssima
+K: celular ao volante; fone de ouvido; chinelo
+
+@CTB 253
+I: Bloquear a via com veículo é infração gravíssima com apreensão e remoção.
+P: Bloqueio da via || Infração gravíssima || Apreensão
+K: bloqueio; interdição da via
+
+@CTB 253-A
+I: Usar veículo para interromper ou perturbar deliberadamente a circulação sem autorização (como bloqueios em protestos) é infração gravíssima com multa de vinte vezes e suspensão por 12 meses, e de sessenta vezes para os organizadores, aplicável a pessoas físicas e jurídicas.
+P: Bloqueios deliberados || Multa de vinte vezes e de sessenta para organizadores || Suspensão por 12 meses
+K: bloqueio de rodovia; protesto; caminhoneiros
+
+@CTB 254
+I: É proibido ao pedestre andar na pista, cruzar em pontes, túneis ou áreas de cruzamento sem permissão, usar a via para aglomerações ou esportes sem licença, andar fora da faixa ou passarela e desobedecer à sinalização, com multa de 50% da infração leve.
+P: Deveres do pedestre || Multa reduzida à metade da leve || Uso da passarela
+K: pedestre; infração do pedestre; passarela
+
+@CTB 255
+I: Conduzir bicicleta em calçada onde não for permitido ou de forma agressiva é infração média, com remoção da bicicleta.
+P: Bicicleta na calçada || Condução agressiva || Remoção da bicicleta
+K: bicicleta; calçada; infração do ciclista
+
+@CTB 256
+I: As penalidades de trânsito são advertência por escrito, multa, suspensão do direito de dirigir, cassação da CNH ou da Permissão para Dirigir e curso de reciclagem, sem prejuízo das sanções penais.
+P: Rol de penalidades || Independência da esfera penal || Comunicação aos órgãos de registro
+K: penalidades; multa; suspensão; cassação
+
+@CTB 257
+I: As penalidades recaem sobre condutor, proprietário, embarcador e transportador conforme a responsabilidade: o proprietário responde pela regularização e características do veículo e pela habilitação de quem dirige; o condutor, pelos atos na direção; embarcador e transportador, pelo excesso de peso. Não identificado o condutor no prazo, a infração é atribuída ao proprietário.
+P: Responsabilidade do proprietário e do condutor || Embarcador e transportador no excesso de peso || Indicação do condutor
+K: indicação do condutor; responsabilidade; proprietário
+
+@CTB 258
+I: As multas são de R$ 293,47 (gravíssima), R$ 195,23 (grave), R$ 130,16 (média) e R$ 88,38 (leve), aplicando-se os fatores multiplicadores previstos em cada infração.
+P: Valores das multas por gravidade || Multas agravadas por fator || Lei nº 13.281/2016
+K: valor da multa; gravíssima; grave
+
+@CTB 259
+I: Cada infração soma pontos: 7 (gravíssima), 5 (grave), 4 (média) e 3 (leve). Passageiros de ônibus de longa distância sem cinto não geram pontos ao motorista, e algumas infrações documentais e as punidas especificamente com suspensão não pontuam.
+P: Pontuação por gravidade || Exceções de pontuação || Pontos ao condutor identificado
+K: pontuação; pontos na CNH
+
+@CTB 260
+I: As multas são impostas pelo órgão com circunscrição sobre a via da infração, com compensação entre Estados conforme o CONTRAN; veículo estrangeiro paga antes de sair do país.
+P: Competência do local da infração || Compensação interestadual || Veículo estrangeiro
+K: competência; multa interestadual
+
+@CTB 261
+I: A suspensão do direito de dirigir ocorre ao atingir em 12 meses 20 pontos (com duas ou mais gravíssimas), 30 (com uma) ou 40 (sem gravíssima), ou por infração com suspensão específica; dura de 6 meses a 1 ano, ou de 8 meses a 2 anos na reincidência. Motoristas profissionais têm limite de 40 pontos e podem fazer curso preventivo de reciclagem para zerar os pontos. Dirigir suspenso equivale a dirigir com CNH suspensa (art. 162, II).
+P: Limites de 20, 30 ou 40 pontos (Lei nº 14.071/2020) || Prazos da suspensão || Curso preventivo para profissionais
+K: suspensão do direito de dirigir; pontos; reciclagem
+
+@CTB 263
+I: A CNH é cassada quando o suspenso dirige, na reincidência em 12 meses de infrações graves como embriaguez, racha e entregar o veículo a inabilitado, e na condenação por crime de trânsito. Após 2 anos, o infrator pode reabilitar-se refazendo todos os exames.
+P: Hipóteses de cassação || Reabilitação após 2 anos || Novos exames obrigatórios
+K: cassação da CNH; reabilitação
+
+@CTB 265
+I: Suspensão e cassação são aplicadas por decisão fundamentada da autoridade, em processo administrativo com ampla defesa.
+P: Processo administrativo || Ampla defesa || Decisão fundamentada
+K: processo de suspensão; ampla defesa
+
+@CTB 266
+I: Infrações simultâneas geram penalidades cumulativas.
+P: Cumulação de penalidades || Infrações simultâneas || Sem absorção
+K: cumulação; infrações simultâneas
+
+@CTB 267
+I: A infração leve ou média deve ser convertida em advertência por escrito se o infrator não cometeu outra infração nos últimos 12 meses (Lei nº 14.071/2020), o que é um direito do condutor.
+P: Advertência obrigatória || Leve ou média sem infração em 12 meses || Direito do infrator
+K: advertência por escrito; conversão da multa
+
+@CTB 268
+I: O curso de reciclagem é obrigatório para o suspenso, para quem contribuiu para sinistro grave, para o condenado por crime de trânsito e para quem coloca em risco a segurança; nos três últimos casos, há também avaliação psicológica.
+P: Hipóteses de reciclagem || Sinistro grave e crime de trânsito || Avaliação psicológica
+K: curso de reciclagem; avaliação psicológica
+
+@CTB 268-A
+I: Cria o Registro Nacional Positivo de Condutores (RNPC), cadastro voluntário de quem não cometeu infração pontuável em 12 meses, que pode gerar benefícios fiscais e tarifários. Pela Lei nº 15.428/2026, o condutor cadastrado ao fim da validade tem a CNH renovada automaticamente, dispensados os procedimentos do art. 147, salvo o exame médico. Os acréscimos da Medida Provisória nº 1.327/2025 aparecem tachados no Planalto.
+P: Cadastro positivo de bons condutores || Renovação automática da CNH (Lei nº 15.428/2026) || Benefícios fiscais e tarifários
+K: RNPC; cadastro positivo; renovação automática da CNH
+
+@CTB 269
+I: Lista as medidas administrativas: retenção e remoção do veículo, recolhimento de documentos, transbordo de carga, teste de alcoolemia, recolhimento de animais e exames de habilitação, que priorizam a proteção da vida e não substituem as penalidades.
+P: Rol de medidas administrativas || Finalidade de proteção da vida || Caráter complementar
+K: medidas administrativas; retenção; remoção; bafômetro
+
+@CTB 270
+I: O veículo retido é liberado após a regularização no local; não sendo possível, é entregue a condutor habilitado com recolhimento do CRLV e prazo de até 30 dias para regularizar. Sem condutor habilitado, vai para o depósito; ônibus e cargas perigosas ou perecíveis podem não ser retidos de imediato.
+P: Liberação após regularização || Prazo de até 30 dias || Remoção sem condutor habilitado
+K: retenção do veículo; regularização
+
+@CTB 271
+I: O veículo removido vai ao depósito e só é devolvido após pagamento de multas, taxas, remoção e estada e reparo dos equipamentos, com notificação ao proprietário.
+P: Liberação condicionada ao pagamento || Reparo dos equipamentos || Notificação ao proprietário
+K: remoção; depósito; pátio; diárias
+
+@CTB 272
+I: A CNH e a Permissão para Dirigir são recolhidas mediante recibo nos casos previstos e quando houver suspeita de falsificação.
+P: Recolhimento com recibo || Suspeita de falsificação || Proteção do condutor
+K: recolhimento da CNH
+
+@CTB 273
+I: O CRV é recolhido mediante recibo quando houver suspeita de falsificação ou quando, vendido o veículo, não for transferido em 30 dias.
+P: Recolhimento do CRV || Transferência não feita || Suspeita de fraude
+K: recolhimento do CRV
+
+@CTB 274
+I: O CRLV é recolhido mediante recibo quando suspeito de falsificação, vencido ou quando a irregularidade da retenção não puder ser sanada no local.
+P: Recolhimento do CRLV || Licenciamento vencido || Retenção não sanada
+K: recolhimento do CRLV
+
+@CTB 275
+I: O transbordo do excesso de carga é condição para prosseguir viagem, às custas do proprietário; não sendo possível, o veículo vai ao depósito.
+P: Transbordo obrigatório || Custos do proprietário || Depósito se impossível
+K: transbordo; excesso de peso
+
+@CTB 276
+I: Qualquer concentração de álcool no sangue ou no ar alveolar sujeita o condutor às penalidades do art. 165 (tolerância zero), com margens de tolerância metrológica fixadas pelo CONTRAN para os aparelhos.
+P: Tolerância zero ao álcool || Margem metrológica do bafômetro || Penalidades do art. 165
+K: tolerância zero; Lei Seca; alcoolemia
+
+@CTB 277
+I: O condutor envolvido em sinistro ou fiscalizado pode ser submetido a teste, exame clínico ou perícia para verificar álcool ou drogas; a infração também pode ser provada por imagem, vídeo, sinais de alteração psicomotora ou outros meios, e a recusa gera as sanções do art. 165-A.
+P: Testes de alcoolemia e drogas || Prova por outros meios || Recusa sancionada (art. 165-A)
+K: bafômetro; sinais de embriaguez; recusa
+
+@CTB 278
+I: Quem foge da pesagem obrigatória sofre a penalidade do art. 209 e deve retornar à balança; em fuga da ação policial, o veículo é apreendido quando localizado, com as sanções do art. 210.
+P: Fuga da balança || Retorno obrigatório à pesagem || Fuga de policiamento
+K: evasão da pesagem; fuga

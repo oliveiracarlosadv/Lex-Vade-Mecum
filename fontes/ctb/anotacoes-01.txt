@@ -1,0 +1,299 @@
+@CTB 1
+I: O CTB rege o trânsito de qualquer natureza nas vias terrestres abertas à circulação. Trânsito é o uso das vias por pessoas, veículos e animais para circulação, parada, estacionamento e carga e descarga. O trânsito seguro é direito de todos e dever do Sistema Nacional de Trânsito, cujos órgãos respondem objetivamente por danos causados por ação, omissão ou erro em programas e serviços, com prioridade à defesa da vida, da saúde e do meio ambiente.
+P: Trânsito seguro como direito de todos || Responsabilidade objetiva dos órgãos de trânsito || Prioridade à defesa da vida
+K: trânsito; Código de Trânsito Brasileiro; trânsito seguro; responsabilidade objetiva
+
+@CTB 2
+I: Vias terrestres urbanas e rurais (ruas, avenidas, estradas, rodovias) têm uso regulamentado pelo órgão com circunscrição sobre elas. Também são vias terrestres as praias abertas à circulação, as vias internas de condomínios e os estacionamentos de estabelecimentos privados de uso coletivo, onde o CTB também se aplica.
+P: Conceito de vias terrestres || Condomínios e estacionamentos privados de uso coletivo || Regulamentação pelo órgão com circunscrição
+K: vias terrestres; condomínio; estacionamento; circunscrição
+
+@CTB 3
+I: O CTB aplica-se a qualquer veículo, a proprietários e condutores de veículos nacionais ou estrangeiros e às demais pessoas nele mencionadas.
+P: Aplicação a todos os veículos || Proprietários e condutores || Veículos estrangeiros incluídos
+K: aplicação do CTB; proprietário; condutor
+
+@CTB 4
+I: Os conceitos e definições usados no CTB são os do Anexo I, que vale como glossário oficial para a interpretação de todo o Código.
+P: Anexo I como glossário || Definições legais || Interpretação uniforme
+K: Anexo I; conceitos; definições
+
+@CTB 5
+I: O Sistema Nacional de Trânsito (SNT) reúne órgãos e entidades da União, Estados, DF e Municípios para planejamento, normatização, registro e licenciamento de veículos, habilitação, educação, engenharia, policiamento, fiscalização, julgamento de infrações e recursos e aplicação de penalidades.
+P: Conceito do SNT || Atuação dos quatro níveis federativos || Funções do sistema
+K: Sistema Nacional de Trânsito; SNT; competência
+
+@CTB 6
+I: Os objetivos do SNT são fixar as diretrizes da Política Nacional de Trânsito (segurança, fluidez, conforto, meio ambiente e educação), padronizar critérios técnicos e administrativos e manter fluxo permanente de informações entre seus órgãos.
+P: Política Nacional de Trânsito || Padronização de critérios || Integração de informações
+K: Sistema Nacional de Trânsito; política nacional de trânsito
+
+@CTB 7
+I: Compõem o SNT o CONTRAN (órgão máximo normativo), os CETRAN e o CONTRANDIFE, os órgãos executivos de trânsito e rodoviários dos entes, a Polícia Rodoviária Federal, as Polícias Militares e as JARI.
+P: Composição do SNT || CONTRAN como órgão máximo || JARI julgam recursos
+K: CONTRAN; CETRAN; DETRAN; PRF; JARI
+
+@CTB 7-A
+I: Autoridades portuárias e concessionárias de porto organizado podem firmar convênio com os órgãos de trânsito para facilitar a autuação de infrações em toda a área do porto, inclusive terminais e estacionamentos.
+P: Convênio de fiscalização em portos || Toda a área portuária || Interveniência de Estados e Municípios
+K: porto organizado; convênio; fiscalização
+
+@CTB 8
+I: Estados, DF e Municípios organizam seus órgãos executivos de trânsito e rodoviários, definindo os limites de sua atuação (circunscrição).
+P: Organização dos órgãos locais || Limites circunscricionais || Autonomia federativa
+K: órgão executivo de trânsito; circunscrição; municipalização
+
+@CTB 9
+I: O Presidente da República designa o ministério que coordena o SNT, ao qual se vinculam o CONTRAN e o órgão máximo executivo de trânsito da União (hoje a Secretaria Nacional de Trânsito, Senatran).
+P: Coordenação ministerial || Vinculação do CONTRAN || Senatran
+K: Senatran; coordenação do SNT; CONTRAN
+
+@CTB 10
+I: O CONTRAN é composto pelos Ministros de Estado das áreas indicadas (ciência e tecnologia, educação, defesa, meio ambiente, saúde, justiça, relações exteriores, indústria, agropecuária, transportes, segurança pública e mobilidade urbana) e presidido pelo ministro a que se subordina o órgão executivo de trânsito da União (Lei nº 14.599/2023). Decide por maioria absoluta, e o dirigente da Senatran atua como secretário-executivo.
+P: Composição ministerial (Lei nº 14.599/2023) || Presidência pelo ministro responsável pela Senatran || Quórum de maioria absoluta
+K: CONTRAN; composição; ministros; Lei 14.599/2023
+
+@CTB 10-A
+I: Representantes de órgãos e entidades setoriais impactados pelas matérias podem ser convidados às reuniões do CONTRAN, sem direito a voto.
+P: Participação de convidados || Sem direito a voto || Transparência regulatória
+K: CONTRAN; participação; convidados
+
+@CTB 12
+I: O CONTRAN edita as normas regulamentares do CTB e as diretrizes da Política Nacional de Trânsito, coordena o sistema, cria Câmaras Temáticas, normatiza habilitação, registro, licenciamento, sinalização e procedimentos de fiscalização e penalidades, responde consultas e resolve conflitos de competência. Suas propostas de normas passam por consulta pública na internet por no mínimo 30 dias.
+P: Poder normativo do CONTRAN || Consulta pública de 30 dias || Resolução de conflitos de competência
+K: CONTRAN; resoluções; competência normativa; consulta pública
+
+@CTB 13
+I: As Câmaras Temáticas são órgãos técnicos de assessoramento do CONTRAN, compostas por especialistas de órgãos públicos e da sociedade, coordenadas pela Senatran ou pelos ministérios representados.
+P: Assessoramento técnico || Especialistas públicos e da sociedade || Coordenação definida no ato de criação
+K: Câmaras Temáticas; CONTRAN; assessoramento
+
+@CTB 14
+I: Os CETRAN e o CONTRANDIFE cumprem e fazem cumprir a legislação, editam normas locais, respondem consultas, orientam campanhas, julgam recursos contra decisões das JARI e contra inaptidão permanente em exames, dirimem conflitos de competência entre Municípios e designam juntas de saúde. Suas decisões nos recursos são definitivas na esfera administrativa.
+P: Segunda instância dos recursos de multa || Conflitos de competência municipais || Decisão definitiva na via administrativa
+K: CETRAN; recurso de multa; segunda instância
+
+@CTB 15
+I: Presidentes e membros dos CETRAN e do CONTRANDIFE são nomeados pelos governadores, entre pessoas de reconhecida experiência em trânsito, com mandato de 2 anos, admitida recondução.
+P: Nomeação pelos governadores || Experiência em trânsito || Mandato de 2 anos
+K: CETRAN; composição; mandato
+
+@CTB 16
+I: Junto a cada órgão executivo de trânsito ou rodoviário funcionam as JARI, colegiados que julgam os recursos contra as penalidades por ele impostas, com regimento próprio e apoio do órgão.
+P: JARI em cada órgão autuador || Primeira instância recursal || Regimento próprio
+K: JARI; recurso de multa; primeira instância
+
+@CTB 17
+I: As JARI julgam os recursos dos infratores, podem pedir informações complementares aos órgãos autuadores e devem informar problemas recorrentes nas autuações.
+P: Julgamento dos recursos || Informações complementares || Retorno sobre falhas nas autuações
+K: JARI; competência; recurso
+
+@CTB 19
+I: O órgão máximo executivo de trânsito da União (Senatran) executa as normas do CONTRAN, supervisiona e fiscaliza a Política Nacional de Trânsito, mantém o RENACH e o RENAVAM, organiza as estatísticas, administra o fundo nacional de segurança e educação, coordena o registro de infrações e pontuação e expede documentos por delegação aos Detrans, entre outras atribuições.
+P: Senatran como órgão executivo federal || RENACH e RENAVAM || Registro nacional de infrações e pontuação
+K: Senatran; RENACH; RENAVAM; órgão máximo executivo
+
+@CTB 20
+I: A Polícia Rodoviária Federal, nas rodovias federais, fiscaliza o trânsito, aplica advertência e multa, faz patrulhamento ostensivo, levanta locais de sinistros, credencia escoltas, fiscaliza emissão de poluentes e coleta estatísticas.
+P: Competência nas rodovias federais || Autuação e patrulhamento || Estatísticas de sinistros
+K: Polícia Rodoviária Federal; PRF; rodovias federais; fiscalização
+
+@CTB 21
+I: Os órgãos executivos rodoviários (DNIT, DERs e equivalentes) planejam e operam o trânsito nas rodovias, mantêm a sinalização, fiscalizam e autuam, inclusive por excesso de peso, dimensões e lotação, arrecadam multas e taxas de remoção e vistoriam veículos com autorização especial.
+P: Operação e sinalização das rodovias || Fiscalização de peso e dimensões || Arrecadação de multas
+K: órgão rodoviário; DNIT; DER; excesso de peso
+
+@CTB 22
+I: Os Detrans dos Estados e do DF formam, habilitam, suspendem e cassam condutores, expedem a CNH, vistoriam, registram, emplacam e licenciam veículos por delegação federal, fiscalizam e aplicam penalidades (exceto as privativas dos Municípios), arrecadam multas e taxas e coletam estatísticas (Lei nº 14.599/2023).
+P: Habilitação e registro de veículos || Fiscalização e penalidades estaduais || Competências privativas dos Municípios ressalvadas
+K: Detran; habilitação; licenciamento; competência estadual
+
+@CTB 23
+I: As Polícias Militares executam a fiscalização de trânsito quando houver convênio com o órgão executivo de trânsito ou rodoviário, como agentes deste.
+P: Fiscalização por convênio || Atuação como agente do órgão executivo || Policiamento ostensivo
+K: Polícia Militar; convênio; fiscalização de trânsito
+
+@CTB 24
+I: Os órgãos municipais de trânsito planejam e operam o trânsito urbano, implantam a sinalização, fiscalizam e aplicam advertência e multas (exceto as privativas dos Estados), operam o estacionamento rotativo, arrecadam taxas de remoção, credenciam escoltas e promovem a segurança de ciclistas e a educação.
+P: Gestão do trânsito urbano || Estacionamento rotativo || Competências privativas dos Estados ressalvadas
+K: órgão municipal de trânsito; municipalização; estacionamento rotativo
+
+@CTB 24-A
+I: Estados, DF e Municípios têm competência concorrente para fiscalizar, autuar e aplicar penalidades, ressalvadas as competências privativas de cada um, que podem ser delegadas por convênio (Lei nº 14.599/2023).
+P: Fiscalização concorrente || Competências privativas || Delegação por convênio
+K: competência concorrente; fiscalização; convênio
+
+@CTB 25
+I: Os órgãos do SNT podem delegar atividades por convênio e prestar serviços técnicos com ressarcimento; sem órgão municipal de trânsito, a própria prefeitura pode firmar o convênio, inclusive por consórcio.
+P: Delegação por convênio || Prestação de serviços técnicos || Convênio direto da prefeitura
+K: convênio; delegação; consórcio
+
+@CTB 25-A
+I: Agentes das polícias da Câmara e do Senado, por convênio e com treinamento, podem lavrar autos de infração nas adjacências do Congresso quando a infração comprometer serviços ou a segurança das Casas.
+P: Autuação por polícia legislativa || Convênio e treinamento || Área do Congresso Nacional
+K: polícia legislativa; auto de infração; Congresso Nacional
+
+@CTB 26
+I: Os usuários das vias devem abster-se de atos que criem perigo ou obstáculo ao trânsito ou danos a propriedades, e de lançar, depositar ou abandonar objetos na via.
+P: Dever geral de cuidado || Proibição de obstáculos na via || Proteção de pessoas e bens
+K: usuário da via; dever de cuidado; obstáculo
+
+@CTB 27
+I: Antes de circular, o condutor deve verificar os equipamentos obrigatórios e se há combustível suficiente para chegar ao destino.
+P: Verificação dos equipamentos || Combustível suficiente || Prevenção de panes
+K: equipamentos obrigatórios; combustível; condutor
+
+@CTB 28
+I: O condutor deve ter, a todo momento, domínio do veículo, dirigindo com atenção e os cuidados indispensáveis à segurança.
+P: Domínio do veículo || Atenção constante || Base da direção defensiva
+K: domínio do veículo; atenção; direção defensiva
+
+@CTB 29
+I: Fixa as normas gerais de circulação: mão de direção pela direita, distância de segurança, preferência em cruzamentos não sinalizados (rodovia, rotatória ou quem vem pela direita), uso das faixas, prioridade e livre circulação de veículos de emergência com sinais acionados, regras de ultrapassagem pela esquerda e respeito aos veículos menores e pedestres, que têm prioridade de proteção.
+P: Circulação pela direita e distância de segurança || Preferência em cruzamentos não sinalizados || Prioridade dos veículos de emergência
+K: normas de circulação; preferência de passagem; ultrapassagem; ambulância
+
+@CTB 30
+I: Quem percebe que será ultrapassado deve deslocar-se para a direita (se estiver na faixa da esquerda) ou manter-se na faixa, sem acelerar; veículos lentos em fila devem guardar espaço para intercalação.
+P: Facilitar a ultrapassagem || Não acelerar || Espaço entre veículos lentos
+K: ultrapassagem; faixa da esquerda
+
+@CTB 31
+I: Ao ultrapassar ônibus parado em embarque ou desembarque, o condutor deve reduzir a velocidade com atenção redobrada ou parar, para proteger os pedestres.
+P: Ônibus parado || Redução da velocidade || Segurança dos pedestres
+K: transporte coletivo; ultrapassagem; pedestres
+
+@CTB 32
+I: É proibido ultrapassar em pista única de mão dupla nas curvas e aclives sem visibilidade, passagens de nível, pontes, viadutos e faixas de pedestres, salvo sinalização permitindo.
+P: Locais proibidos para ultrapassagem || Falta de visibilidade || Exceção por sinalização
+K: ultrapassagem proibida; curva; ponte
+
+@CTB 33
+I: É proibido ultrapassar nas interseções e em suas proximidades.
+P: Interseções || Ultrapassagem proibida || Prevenção de colisões
+K: interseção; ultrapassagem
+
+@CTB 34
+I: Antes de qualquer manobra, o condutor deve certificar-se de que pode executá-la sem perigo para os demais usuários.
+P: Manobra segura || Atenção aos demais usuários || Posição, direção e velocidade
+K: manobra; segurança
+
+@CTB 35
+I: Antes de deslocamento lateral (mudança de faixa, conversão ou retorno), o condutor deve sinalizar com a seta ou gesto de braço, com antecedência.
+P: Uso obrigatório da seta || Antecedência || Conceito de deslocamento lateral
+K: seta; sinalização de manobra; mudança de faixa
+
+@CTB 36
+I: Quem entra na via vindo de lote lindeiro (garagem, estacionamento) deve dar preferência aos veículos e pedestres que nela transitam.
+P: Saída de garagens || Preferência de quem está na via || Pedestres incluídos
+K: preferência; lote lindeiro; saída de garagem
+
+@CTB 37
+I: Em vias com acostamento, conversão à esquerda e retorno devem ser feitos nos locais apropriados ou, na falta, aguardando no acostamento à direita.
+P: Conversão em rodovias || Uso do acostamento para aguardar || Locais apropriados
+K: conversão à esquerda; retorno; acostamento
+
+@CTB 38
+I: Para entrar à direita ou à esquerda, o condutor deve aproximar-se do bordo correspondente e, na manobra, ceder passagem a pedestres, ciclistas e veículos em sentido contrário.
+P: Posicionamento para conversão || Preferência de pedestres e ciclistas || Respeito ao sentido contrário
+K: conversão; pedestre; ciclista
+
+@CTB 39
+I: Nas vias urbanas, o retorno deve ser feito nos locais sinalizados ou apropriados, ou em outros que ofereçam segurança e fluidez.
+P: Retorno em vias urbanas || Locais apropriados || Segurança e fluidez
+K: retorno; via urbana
+
+@CTB 40
+I: Regula o uso de luzes: farol baixo à noite e, de dia, em túneis e sob chuva, neblina ou cerração; luz alta em vias não iluminadas, salvo ao cruzar ou seguir outro veículo; pisca-alerta em emergências; luz de placa à noite. Ônibus em faixas exclusivas e motocicletas usam farol baixo sempre, e veículos sem luz de rodagem diurna devem acender os faróis em rodovias de pista simples fora das cidades (Lei nº 14.071/2020).
+P: Farol baixo à noite, em túneis e sob chuva || Motos com farol sempre aceso || Faróis em rodovias de pista simples sem DRL
+K: farol; luz baixa; pisca-alerta; rodovia
+
+@CTB 41
+I: A buzina só pode ser usada em toque breve para advertências que evitem sinistros ou, fora das áreas urbanas, para avisar intenção de ultrapassar.
+P: Toque breve || Advertência para evitar sinistros || Ultrapassagem em área rural
+K: buzina; advertência
+
+@CTB 42
+I: O condutor não pode frear bruscamente, salvo por razões de segurança.
+P: Frenagem brusca proibida || Exceção de segurança || Prevenção de colisão traseira
+K: frenagem; segurança
+
+@CTB 43
+I: O condutor deve adequar a velocidade às condições da via, do veículo, da carga, do clima e do trânsito, respeitando os limites, sem trafegar em velocidade anormalmente reduzida e sinalizando a redução.
+P: Velocidade compatível com as condições || Respeito aos limites || Vedação de velocidade anormalmente baixa
+K: velocidade; limite de velocidade; condições da via
+
+@CTB 44
+I: Ao se aproximar de cruzamentos, o condutor deve ter prudência especial e velocidade moderada para parar e dar passagem a pedestres e veículos com preferência.
+P: Prudência nos cruzamentos || Velocidade moderada || Preferência de pedestres
+K: cruzamento; prudência; preferência
+
+@CTB 44-A
+I: É livre a conversão à direita no sinal vermelho onde houver sinalização que a permita, observadas as regras de prudência e a preferência dos pedestres (Lei nº 14.071/2020).
+P: Conversão à direita no vermelho || Somente com sinalização || Preferência do pedestre
+K: conversão à direita; sinal vermelho; semáforo
+
+@CTB 45
+I: Mesmo com sinal verde, o condutor não pode entrar no cruzamento se puder ficar parado nele, bloqueando o trânsito transversal.
+P: Não bloquear o cruzamento || Sinal verde não basta || Fluidez do trânsito transversal
+K: cruzamento; bloqueio; semáforo
+
+@CTB 46
+I: Em imobilização de emergência no leito viário, deve-se sinalizar imediatamente, na forma do CONTRAN (pisca-alerta e triângulo).
+P: Sinalização de emergência || Triângulo e pisca-alerta || Regulamentação do CONTRAN
+K: triângulo; emergência; veículo parado
+
+@CTB 47
+I: Onde o estacionamento é proibido, a parada deve limitar-se ao tempo de embarque e desembarque, sem perturbar o fluxo; carga e descarga é regulamentada pelo órgão local e equivale a estacionamento.
+P: Parada só para embarque e desembarque || Carga e descarga equivale a estacionamento || Regulamentação local
+K: parada; estacionamento; carga e descarga
+
+@CTB 48
+I: Nas paradas e estacionamentos, o veículo fica no sentido do fluxo, paralelo e junto ao meio-fio, salvo sinalização; nas rodovias, fora da pista; motos ficam perpendiculares ao meio-fio.
+P: Posicionamento do veículo estacionado || Fora da pista nas rodovias || Motos em posição perpendicular
+K: estacionamento; meio-fio; motocicleta
+
+@CTB 49
+I: Condutor e passageiros só podem abrir a porta ou descer após verificar que não há perigo, e o embarque e desembarque devem ocorrer pelo lado da calçada, exceto para o condutor.
+P: Abertura segura das portas || Embarque pelo lado da calçada || Proteção de ciclistas e pedestres
+K: porta do veículo; embarque; desembarque
+
+@CTB 50
+I: O uso das faixas de domínio e áreas adjacentes às rodovias segue as condições de segurança fixadas pelo órgão com circunscrição.
+P: Faixas de domínio || Regras do órgão rodoviário || Segurança viária
+K: faixa de domínio; rodovia
+
+@CTB 51
+I: Nas vias internas de condomínios, a sinalização é implantada e mantida pelo condomínio, após aprovação dos projetos pelo órgão de trânsito.
+P: Sinalização às custas do condomínio || Aprovação do órgão de trânsito || Aplicação do CTB em condomínios
+K: condomínio; sinalização; vias internas
+
+@CTB 52
+I: Veículos de tração animal circulam pela direita, junto ao meio-fio ou acostamento, obedecendo às normas de circulação aplicáveis.
+P: Tração animal pela direita || Normas de circulação || Regras locais
+K: tração animal; carroça
+
+@CTB 53
+I: Animais só circulam nas vias conduzidos por guia, com rebanhos divididos em grupos moderados e mantidos junto ao bordo da pista.
+P: Animais conduzidos por guia || Rebanhos em grupos || Junto ao bordo da pista
+K: animais; rebanho; guia
+
+@CTB 54
+I: Condutores de motocicletas, motonetas e ciclomotores devem usar capacete com viseira ou óculos, segurar o guidom com as duas mãos e usar vestuário de proteção do CONTRAN.
+P: Capacete com viseira || Duas mãos no guidom || Vestuário de proteção
+K: motocicleta; capacete; segurança
+
+@CTB 55
+I: Passageiros de motocicletas só podem ser transportados com capacete, em assento suplementar atrás do condutor ou carro lateral, e com vestuário de proteção.
+P: Capacete do passageiro || Assento adequado || Vestuário de proteção
+K: garupa; passageiro de moto; capacete
+
+@CTB 57
+I: Ciclomotores circulam pela direita, preferencialmente no centro da faixa da direita ou no bordo, sendo proibidos em vias de trânsito rápido e nas calçadas urbanas.
+P: Circulação pela direita || Proibição em vias de trânsito rápido || Proibição nas calçadas
+K: ciclomotor; circulação
+
+@CTB 58
+I: Sem ciclovia, ciclofaixa ou acostamento, as bicicletas circulam nos bordos da pista, no sentido da via, com preferência sobre os veículos automotores; a autoridade pode autorizar o sentido contrário com ciclofaixa.
+P: Preferência da bicicleta sobre automotores || Bordo da pista no sentido da via || Contrafluxo só com ciclofaixa
+K: bicicleta; ciclista; ciclofaixa; preferência

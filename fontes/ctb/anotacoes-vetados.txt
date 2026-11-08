@@ -1,0 +1,134 @@
+@CTB 11
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da composição e da competência do sistema nacional de trânsito" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 18
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da composição e da competência do sistema nacional de trânsito" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 56
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das normas gerais de circulação e conduta" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 56-A
+I: Dispositivo incluído pela Lei nº 14.071/2020 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das normas gerais de circulação e conduta" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 63
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das normas gerais de circulação e conduta" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 66
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das normas gerais de circulação e conduta" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 67-B
+I: Dispositivo incluído pela Lei nº 12.619/2012 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da condução de veículos por motoristas profissionais" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 67-D
+I: Dispositivo incluído pela Lei nº 12.619/2012 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da condução de veículos por motoristas profissionais" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 77-F
+I: Dispositivo incluído pela Lei nº 14.304/2022 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da educação para o trânsito" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 92
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da engenharia de tráfego, da operação, da fiscalização e do policiamento ostensivo de trânsito" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 149
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da habilitação" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 157
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "da habilitação" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 233-A
+I: Dispositivo incluído pela Lei nº 14.071/2020 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das infrações" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 242-A
+I: Dispositivo incluído pela Lei Complementar nº 207/2024 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das infrações" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 264
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "das penalidades" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 283
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "do julgamento das autuações e penalidades" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 299
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições gerais" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 300
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições gerais" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 310-A
+I: Dispositivo incluído pela Lei nº 12.619/2012 e vetado na sanção, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "dos crimes em espécie" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 318
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições finais e transitórias" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 321
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições finais e transitórias" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 322
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições finais e transitórias" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 324
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições finais e transitórias" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 335
+I: Dispositivo vetado na sanção do Código, em 1997, sem conteúdo normativo. A numeração é mantida, e o tema da divisão "disposições finais e transitórias" segue regido pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CTB
+
+@CTB 112
+I: Dispositivo revogado pela Lei nº 9.792/1999. A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.792/1999 || Histórico legislativo
+K: dispositivo revogado; Lei nº 9.792/1999; CTB
+
+@CTB 151
+I: Dispositivo revogado pela Lei nº 14.071/2020. A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 14.071/2020 || Histórico legislativo
+K: dispositivo revogado; Lei nº 14.071/2020; CTB
+
+@CTB 262
+I: Dispositivo revogado pela Lei nº 13.281/2016. A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 13.281/2016 || Histórico legislativo
+K: dispositivo revogado; Lei nº 13.281/2016; CTB

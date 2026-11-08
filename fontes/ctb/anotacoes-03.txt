@@ -1,0 +1,274 @@
+@CTB 108
+I: Onde não houver ônibus regular, a autoridade pode autorizar, a título precário e por no máximo 12 meses, o transporte de passageiros em veículo de carga ou misto, cumpridas as condições de segurança; nesse prazo, o poder público deve implantar o serviço regular.
+P: Autorização precária e excepcional || Prazo máximo de 12 meses || Dever de implantar transporte regular
+K: transporte de passageiros; pau de arara; veículo de carga
+
+@CTB 109
+I: O transporte de carga em veículos de passageiros só pode ocorrer conforme as normas do CONTRAN.
+P: Carga em veículo de passageiros || Normas do CONTRAN || Segurança dos ocupantes
+K: transporte de carga; veículo de passageiros
+
+@CTB 110
+I: Veículo modificado para competição só circula nas vias com licença especial, em itinerário e horário fixados.
+P: Veículo de competição || Licença especial || Itinerário e horário definidos
+K: veículo de competição; licença especial
+
+@CTB 111
+I: Nas áreas envidraçadas é proibido usar cortinas ou persianas fechadas em movimento (salvo com retrovisores dos dois lados) e películas, inscrições ou painéis que comprometam a segurança, conforme o CONTRAN; também é vedada publicidade que distraia no para-brisa e na traseira.
+P: Limites para películas (insulfilm) || Cortinas só com retrovisores dos dois lados || Publicidade no para-brisa
+K: película; insulfilm; vidros; cortina
+
+@CTB 113
+I: Importadores, montadoras, encarroçadoras e fabricantes de veículos e autopeças respondem civil e criminalmente por danos a usuários, terceiros e ao meio ambiente decorrentes de falhas de projeto ou de materiais.
+P: Responsabilidade do fabricante || Danos a usuários, terceiros e meio ambiente || Falhas de projeto e materiais
+K: responsabilidade do fabricante; defeito; recall
+
+@CTB 114
+I: O veículo é identificado por caracteres gravados no chassi ou monobloco pelo fabricante, inclusive o ano de fabricação, inalterável; regravações dependem de autorização e estabelecimento credenciado, e é proibido modificar a identificação sem permissão.
+P: Numeração do chassi || Ano de fabricação inalterável || Regravação só autorizada
+K: chassi; identificação veicular; adulteração
+
+@CTB 115
+I: O veículo é identificado por placas dianteira e traseira (lacrada), com caracteres próprios até a baixa; placas verde-amarelas são reservadas às altas autoridades e há placas especiais para outras autoridades. Motos e triciclos dispensam a placa dianteira, e tratores agrícolas têm registro único e gratuito no Ministério da Agricultura (Lei nº 14.599/2023).
+P: Placas dianteira e traseira || Placas de autoridades || Registro dos tratores agrícolas
+K: placa; emplacamento; trator; placa Mercosul
+
+@CTB 116
+I: Veículos públicos ou sob posse de órgãos de segurança, quando usados estritamente em serviço reservado policial, podem usar placas particulares, concedidas pelos Detrans e vinculadas ao órgão solicitante (Lei nº 14.599/2023).
+P: Placa particular em serviço reservado || Órgãos de segurança pública || Vinculação ao órgão
+K: placa reservada; veículo oficial; segurança pública
+
+@CTB 117
+I: Veículos de carga e coletivos devem exibir, em local visível, tara, PBT, PBTC ou CMT e lotação, sendo vedado o uso contrário à sua classificação.
+P: Inscrição de pesos e lotação || Veículos de carga e coletivos || Uso conforme a classificação
+K: tara; peso bruto total; lotação
+
+@CTB 118
+I: Veículos em trânsito entre o Brasil e países com acordo regem-se pelo CTB e pelas convenções e acordos internacionais ratificados.
+P: Circulação internacional || Acordos e convenções || Aplicação do CTB
+K: veículo estrangeiro; circulação internacional
+
+@CTB 119
+I: Aduanas e órgãos de fronteira comunicam ao RENAVAM a entrada e saída de veículos; veículo licenciado no exterior só sai do país após pagar ou depositar multas e danos, sob pena de retenção ao retornar.
+P: Controle de fronteira || Veículo estrangeiro só sai quitado || Retenção no retorno
+K: veículo estrangeiro; fronteira; multa
+
+@CTB 120
+I: Todo veículo automotor, articulado, reboque ou semirreboque deve ser registrado no Detran do Estado ou DF, no Município de domicílio do proprietário; veículos oficiais exigem identificação do órgão nas portas.
+P: Registro obrigatório no Detran || Município de domicílio || Identificação de veículos oficiais
+K: registro de veículo; Detran; domicílio
+
+@CTB 121
+I: Registrado o veículo, expede-se o Certificado de Registro de Veículo (CRV), em papel ou digital, à escolha do proprietário, com proteção contra falsificação (Lei nº 14.071/2020).
+P: CRV físico ou digital || Escolha do proprietário || Segurança contra fraude
+K: CRV; documento do veículo; CRV digital
+
+@CTB 122
+I: Para expedir o CRV, o Detran consulta o RENAVAM e exige nota fiscal do fabricante ou revendedor ou documento equivalente, e autorização do Itamaraty para veículos diplomáticos.
+P: Consulta ao RENAVAM || Nota fiscal || Veículos diplomáticos
+K: primeiro registro; nota fiscal; RENAVAM
+
+@CTB 123
+I: É obrigatório novo CRV na transferência de propriedade, mudança de Município, alteração de característica ou de categoria; na compra, o novo dono tem 30 dias para transferir. A transferência pode ser feita totalmente por meio eletrônico, com assinaturas eletrônicas avançadas ou qualificadas e validade nacional (Lei nº 15.153/2025).
+P: Transferência em 30 dias || Mudança de Município || Transferência digital (Lei nº 15.153/2025)
+K: transferência de veículo; CRV; assinatura eletrônica; Lei 15.153/2025
+
+@CTB 124
+I: O novo CRV exige CRV e licenciamento anteriores, comprovante de transferência, certificados em caso de alteração, certidão de roubo e furto (substituível pelo RENAVAM), quitação de tributos e multas do veículo e aprovação em inspeção quando exigida. Veículos de leilão, apreensão judicial ou doação a órgão público dispensam a quitação, e os débitos são cobrados do antigo dono. O STF validou a exigência de quitação (ADI 2.998).
+P: Documentos para o novo CRV || Quitação de débitos (ADI 2.998) || Dispensa em leilão e apreensão judicial
+K: transferência; quitação de multas; leilão; ADI 2998
+
+@CTB 125
+I: Fabricante, aduana ou importador informam ao RENAVAM os dados do chassi, monobloco, agregados e características originais antes da comercialização ou registro.
+P: Dados do veículo no RENAVAM || Responsáveis pela informação || Controle de origem
+K: RENAVAM; chassi; pré-cadastro
+
+@CTB 126
+I: O proprietário de veículo irrecuperável ou destinado a desmonte deve requerer a baixa do registro, vedada a remontagem no mesmo chassi; a obrigação passa à seguradora ou ao adquirente quando sucedem o proprietário, e débitos não impedem a baixa (Lei nº 14.440/2022).
+P: Baixa obrigatória do registro || Seguradora e desmanche responsáveis || Débitos não impedem a baixa
+K: baixa de registro; perda total; desmonte
+
+@CTB 127
+I: A baixa do registro só é feita após consulta ao RENAVAM e deve ser comunicada a ele imediatamente.
+P: Consulta prévia ao RENAVAM || Comunicação imediata || Controle nacional
+K: baixa de registro; RENAVAM
+
+@CTB 128
+I: Não se expede novo CRV enquanto houver débitos fiscais e multas de trânsito e ambientais vinculados ao veículo, independentemente de quem cometeu as infrações (validado pelo STF na ADI 2.998).
+P: Débitos impedem o novo CRV || Independe do autor da infração || ADI 2.998
+K: débitos do veículo; multas; transferência
+
+@CTB 129
+I: Registro e licenciamento de veículos de propulsão humana e de tração animal seguem a legislação do Município de domicílio do proprietário.
+P: Competência municipal || Bicicletas e carroças || Regulamentação local
+K: bicicleta; tração animal; registro municipal
+
+@CTB 129-A
+I: O registro de tratores e máquinas agrícolas é feito sem custo pelo Ministério da Agricultura e Pecuária, diretamente ou por convênio (Lei nº 14.599/2023).
+P: Registro agrícola gratuito || Ministério da Agricultura || Convênios
+K: trator; máquina agrícola; registro
+
+@CTB 129-B
+I: O registro de contratos de alienação fiduciária, consórcio, leasing, reserva de domínio ou penhor sobre veículos é feito nos Detrans, por registradoras credenciadas, observados o Código Civil e a LGPD.
+P: Registro de gravames || Empresas registradoras credenciadas || Código Civil e LGPD
+K: alienação fiduciária; gravame; financiamento de veículo
+
+@CTB 130
+I: Todo veículo automotor, articulado, reboque ou semirreboque precisa ser licenciado anualmente no Detran onde está registrado; mudando de domicílio, vale o licenciamento de origem no exercício.
+P: Licenciamento anual obrigatório || Detran do registro || Validade na mudança de domicílio
+K: licenciamento anual; CRLV
+
+@CTB 131
+I: O Certificado de Licenciamento Anual (CRLV) é físico ou digital; o veículo só é licenciado com tributos e multas quitados e inspeções aprovadas, e campanhas de recall não atendidas em 1 ano passam a constar do documento e impedem o licenciamento até o reparo, salvo prorrogação do CONTRAN.
+P: Licenciamento exige quitação || Recall pendente impede o licenciamento || CRLV digital
+K: CRLV; licenciamento; recall; quitação de débitos
+
+@CTB 132
+I: Veículos novos e importados não precisam de licenciamento no trajeto entre a fábrica ou alfândega e o Município de destino, conforme regras do CONTRAN.
+P: Trajeto do veículo novo || Dispensa temporária || Regras do CONTRAN
+K: veículo novo; licenciamento
+
+@CTB 133
+I: É obrigatório portar o CRLV, mas o porte é dispensado se, na fiscalização, for possível consultar o sistema.
+P: Porte do CRLV || Dispensa por consulta ao sistema || CRLV digital
+K: CRLV; porte de documento
+
+@CTB 134
+I: Se o comprador não transferir o veículo em 30 dias, o vendedor deve, em 60 dias, comunicar a venda ao Detran com cópia do comprovante (ou documento eletrônico), sob pena de responder solidariamente pelas penalidades até a comunicação. O STJ limita essa solidariedade às infrações, não aos tributos como o IPVA (Súmula 585).
+P: Comunicação de venda em 60 dias || Responsabilidade solidária do vendedor || Súmula 585 do STJ
+K: comunicação de venda; transferência; Súmula 585 STJ
+
+@CTB 134-A
+I: O CONTRAN especifica quais bicicletas motorizadas e equiparados (como bicicletas elétricas) ficam dispensados de registro, licenciamento e emplacamento.
+P: Bicicletas elétricas e equiparados || Dispensa de registro || Regulamentação do CONTRAN
+K: bicicleta elétrica; autopropelido; registro
+
+@CTB 135
+I: Veículos de aluguel e de serviço remunerado de passageiros precisam de autorização do poder concedente para registro, licenciamento e placa comercial.
+P: Autorização do poder concedente || Placa de aluguel || Transporte remunerado
+K: veículo de aluguel; táxi; placa vermelha
+
+@CTB 136
+I: Veículos escolares só circulam com autorização do Detran, registro como passageiros, inspeção semestral, faixa amarela com a palavra ESCOLAR, tacógrafo, lanternas específicas e cintos para todos.
+P: Autorização do Detran || Inspeção semestral || Identificação ESCOLAR e cintos
+K: transporte escolar; van escolar; autorização
+
+@CTB 137
+I: A autorização do transporte escolar deve ficar visível dentro do veículo, com a lotação, vedada a condução acima da capacidade de fábrica.
+P: Autorização afixada || Lotação visível || Vedação de excesso de passageiros
+K: transporte escolar; lotação
+
+@CTB 138
+I: O condutor de escolares deve ter mais de 21 anos, CNH categoria D, não ter cometido mais de uma infração gravíssima em 12 meses e ser aprovado em curso especializado.
+P: Idade mínima de 21 anos || Categoria D || Curso especializado
+K: condutor escolar; requisitos; categoria D
+
+@CTB 139
+I: As regras do CTB sobre escolares não afastam exigências municipais complementares.
+P: Competência municipal complementar || Transporte escolar || Regulamentos locais
+K: transporte escolar; município
+
+@CTB 139-A
+I: Motocicletas de moto-frete precisam de autorização do Detran, protetor de motor (mata-cachorro), antena corta-pipas e, pela redação da Lei nº 12.009/2009, registro como aluguel e inspeção semestral; a Medida Provisória nº 1.360/2026 que retirava estes dois requisitos teve a vigência encerrada, como indica o Planalto. É proibido transportar combustíveis e inflamáveis, salvo gás de cozinha e água com side-car.
+P: Autorização e equipamentos de segurança || Revogação pela MP nº 1.360/2026 com vigência encerrada || Vedação de cargas perigosas
+K: moto-frete; motoboy; mata-cachorro; antena corta-pipas
+
+@CTB 139-B
+I: As regras do moto-frete não excluem exigências municipais ou estaduais complementares.
+P: Competência complementar local || Moto-frete || Regulamentos locais
+K: moto-frete; município
+
+@CTB 140
+I: A habilitação é obtida por exames no Detran do domicílio do candidato ou em sua sede, exigindo-se que o candidato seja penalmente imputável (18 anos), saiba ler e escrever e tenha documento de identidade, com cadastro no RENACH.
+P: Idade mínima de 18 anos || Alfabetização || Cadastro no RENACH
+K: habilitação; CNH; requisitos
+
+@CTB 141
+I: O CONTRAN regulamenta o processo de habilitação, a aprendizagem e a autorização para conduzir ciclomotores; a condução de veículos de propulsão humana e tração animal é autorizada pelos Municípios.
+P: Regulamentação do CONTRAN || Autorização para ciclomotores (ACC) || Competência municipal residual
+K: habilitação; ACC; ciclomotor
+
+@CTB 142
+I: A habilitação obtida no exterior é reconhecida conforme convenções internacionais e normas do CONTRAN.
+P: CNH estrangeira || Convenções internacionais || Regras do CONTRAN
+K: habilitação estrangeira; permissão internacional
+
+@CTB 143
+I: Define as categorias de habilitação: A (motos), B (veículos até 3.500 kg e 8 passageiros), C (carga acima de 3.500 kg), D (passageiros acima de 8 lugares) e E (combinações com reboque de 6.000 kg ou mais). A categoria C exige 1 ano na B; a B permite motor-casa até 6.000 kg e, pela Lei nº 15.503/2026, veículos elétricos ou híbridos predominantemente elétricos de até 4.250 kg.
+P: Categorias A a E || Requisitos para a categoria C || Elétricos de até 4.250 kg na categoria B (Lei nº 15.503/2026)
+K: categorias de habilitação; categoria B; veículo elétrico; Lei 15.503/2026
+
+@CTB 144
+I: Tratores e máquinas de carga, agrícolas, terraplenagem ou pavimentação só podem ser conduzidos na via por habilitados nas categorias C, D ou E; tratores agrícolas também pela categoria B.
+P: Categorias C, D e E para máquinas || Trator agrícola com categoria B || Condução na via pública
+K: trator; máquinas; habilitação
+
+@CTB 145
+I: Para as categorias D e E e para conduzir coletivos, escolares, emergência ou produtos perigosos, o candidato deve ter mais de 21 anos, tempo mínimo nas categorias anteriores, não ter mais de uma infração gravíssima em 12 meses e fazer curso especializado e de direção em situação de risco.
+P: Mais de 21 anos || Tempo mínimo em categoria anterior || Cursos especializados
+K: categoria D; categoria E; transporte de passageiros; produto perigoso
+
+@CTB 145-A
+I: Condutores de ambulância precisam, além dos requisitos do art. 145, de treinamento especializado com reciclagem a cada 5 anos.
+P: Treinamento específico para ambulância || Reciclagem a cada 5 anos || Normas do CONTRAN
+K: ambulância; curso especializado
+
+@CTB 146
+I: Para conduzir veículos de outra categoria, o condutor deve fazer os exames complementares exigidos.
+P: Mudança de categoria || Exames complementares || Adição de categoria
+K: mudança de categoria; habilitação
+
+@CTB 147
+I: Os exames de habilitação seguem a ordem: aptidão física e mental, legislação, primeiros socorros e direção veicular na via, com médicos e psicólogos especialistas em trânsito. A renovação do exame médico ocorre a cada 10 anos até os 50 anos, a cada 5 anos dos 50 aos 70 e a cada 3 anos a partir dos 70 (Lei nº 14.071/2020); a avaliação psicológica é exigida na primeira habilitação e para quem exerce atividade remunerada.
+P: Sequência de exames || Renovação a cada 10, 5 ou 3 anos conforme a idade || Avaliação psicológica
+K: exame médico; renovação da CNH; avaliação psicológica; validade da CNH
+
+@CTB 147-A
+I: O candidato com deficiência auditiva tem direito à acessibilidade em todo o processo de habilitação, com material em Libras e legenda e intérprete nas aulas.
+P: Acessibilidade na habilitação || Libras e legendas || Intérprete nas aulas
+K: deficiência auditiva; Libras; acessibilidade
+
+@CTB 148
+I: Os exames, exceto o de direção, podem ser aplicados por entidades credenciadas; a formação inclui direção defensiva e meio ambiente. O aprovado recebe Permissão para Dirigir por 1 ano e só obtém a CNH definitiva se não cometer infração grave ou gravíssima nem reincidir em média. Pela Lei nº 15.428/2026, os exames médico e psicológico são feitos por peritos autorizados pela Senatran, com preço público nacional corrigido pelo IPCA.
+P: Permissão para Dirigir de 1 ano || CNH definitiva sem infração grave ou gravíssima || Preço público dos exames (Lei nº 15.428/2026)
+K: permissão para dirigir; CNH provisória; exame médico; Lei 15.428/2026
+
+@CTB 148-A
+I: Condutores das categorias C, D e E devem apresentar exame toxicológico negativo, com janela mínima de 90 dias, na obtenção e renovação da CNH e, até os 70 anos, a cada 2 anos e 6 meses. O resultado positivo no exame periódico gera suspensão do direito de dirigir por 3 meses, condicionado a novo exame negativo (Lei nº 14.599/2023), com direito a contraprova e recurso.
+P: Exame toxicológico para C, D e E || Periodicidade de 2 anos e 6 meses || Suspensão de 3 meses se positivo
+K: exame toxicológico; motorista profissional; suspensão
+
+@CTB 150
+I: Ao renovar os exames, quem não tiver curso de direção defensiva e primeiros socorros deve fazê-lo, e empresas com frota devem oferecer esses cursos aos seus condutores.
+P: Cursos na renovação || Obrigação das empresas com frota || Direção defensiva e primeiros socorros
+K: direção defensiva; primeiros socorros; renovação
+
+@CTB 152
+I: O exame de direção é feito por comissão de 3 membros, com ao menos um habilitado em categoria igual ou superior; militares, policiais e bombeiros com curso de formação de condutor na corporação podem ser dispensados dos exames já aprovados.
+P: Comissão de 3 examinadores || Examinador habilitado na categoria || Dispensa para militares e policiais
+K: exame prático; comissão examinadora; militares
+
+@CTB 153
+I: O prontuário do habilitado identifica instrutores e examinadores, que podem ser punidos com advertência, suspensão ou cancelamento da autorização.
+P: Identificação de instrutores e examinadores || Responsabilização || Sanções administrativas
+K: instrutor; examinador; prontuário
+
+@CTB 154
+I: Veículos de autoescola têm faixa amarela com AUTO-ESCOLA; veículos eventualmente usados para aprendizagem, faixa branca removível. Pela Lei nº 14.921/2024, a idade máxima dos veículos de formação é de 8 anos (A), 12 (B) e 20 (C, D e E).
+P: Identificação AUTO-ESCOLA || Faixa removível em veículo eventual || Idade máxima dos veículos (Lei nº 14.921/2024)
+K: autoescola; veículo de aprendizagem; Lei 14.921/2024
+
+@CTB 155
+I: A formação de condutores é feita por instrutor autorizado pelo Detran, vinculado ou não a autoescola credenciada (Lei nº 14.599/2023), e o aprendiz recebe autorização após os exames médico, de primeiros socorros e de legislação.
+P: Instrutor autorizado, com ou sem autoescola || Licença de aprendizagem || Exames prévios
+K: instrutor de trânsito; autoescola; aprendizagem
+
+@CTB 156
+I: O CONTRAN regulamenta o credenciamento de autoescolas e entidades de formação e as exigências para instrutores e examinadores.
+P: Credenciamento de autoescolas || Requisitos de instrutores || Regulamentação do CONTRAN
+K: autoescola; credenciamento
+
+@CTB 158
+I: A aprendizagem só ocorre nos horários e locais definidos pelo Detran, com instrutor autorizado, podendo o veículo levar apenas mais um acompanhante.
+P: Aprendizagem regulada || Presença do instrutor || Um acompanhante adicional
+K: aprendizagem; aula prática; instrutor
