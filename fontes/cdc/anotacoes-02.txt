@@ -1,0 +1,224 @@
+@CDC 43
+I: O consumidor tem acesso às informações e fontes dos cadastros sobre ele, que devem ser objetivos e verdadeiros e não podem manter informações negativas por mais de 5 anos. A abertura de cadastro não solicitado deve ser comunicada por escrito previamente (Súmula 359 do STJ: cabe ao órgão mantenedor), dados inexatos devem ser corrigidos em 5 dias úteis e, consumada a prescrição da dívida, não podem ser fornecidas informações que impeçam novo crédito. A inscrição indevida gera dano moral presumido, salvo inscrição legítima anterior (Súmula 385 do STJ).
+P: Acesso e correção de dados || Limite de 5 anos e comunicação prévia (Súmula 359 do STJ) || Dano moral por inscrição indevida e Súmula 385 do STJ
+K: cadastro de inadimplentes; negativação; SPC; Serasa; Súmula 359 STJ; Súmula 385 STJ
+
+@CDC 44
+I: Os órgãos públicos de defesa do consumidor mantêm e divulgam anualmente cadastros de reclamações fundamentadas contra fornecedores, informando se foram atendidas, com acesso livre a qualquer interessado.
+P: Cadastro público de reclamações || Divulgação anual || Acesso livre
+K: cadastro de reclamações; Procon; transparência
+
+@CDC 46
+I: O contrato de consumo não obriga o consumidor se ele não teve oportunidade de conhecer previamente seu conteúdo ou se foi redigido de forma a dificultar a compreensão.
+P: Conhecimento prévio do contrato || Redação clara || Ineficácia do que não foi informado
+K: contrato de consumo; transparência; dever de informação
+
+@CDC 47
+I: As cláusulas contratuais são interpretadas da forma mais favorável ao consumidor.
+P: Interpretação pró-consumidor || Todas as cláusulas || Proteção do vulnerável
+K: interpretação favorável; contrato de consumo
+
+@CDC 48
+I: Escritos particulares, recibos e pré-contratos vinculam o fornecedor e permitem execução específica (art. 84).
+P: Vinculação de pré-contratos e recibos || Execução específica || Proteção da confiança
+K: pré-contrato; vinculação; execução específica
+
+@CDC 49
+I: Nas compras fora do estabelecimento comercial (internet, telefone, domicílio), o consumidor pode desistir em 7 dias da assinatura ou do recebimento, sem justificar, com devolução imediata e atualizada de tudo o que pagou, inclusive frete.
+P: Direito de arrependimento de 7 dias || Compras fora do estabelecimento e pela internet || Devolução integral e imediata
+K: direito de arrependimento; compra pela internet; prazo de reflexão; devolução
+
+@CDC 50
+I: A garantia contratual complementa a legal e deve constar de termo escrito padronizado, com forma, prazo, lugar e ônus, entregue preenchido com manual de instruções em linguagem didática. O prazo da garantia legal começa a correr após o fim da contratual.
+P: Garantia contratual soma-se à legal || Termo de garantia obrigatório || Manual didático
+K: garantia contratual; termo de garantia; manual
+
+@CDC 51
+I: São nulas de pleno direito, entre outras, as cláusulas que exonerem a responsabilidade do fornecedor, retirem o reembolso, transfiram responsabilidade a terceiros, criem desvantagem exagerada ou contrária à boa-fé, invertam o ônus da prova contra o consumidor, imponham arbitragem compulsória, permitam alteração unilateral de preço ou conteúdo, cancelamento unilateral, violem normas ambientais, limitem o acesso ao Judiciário ou impeçam o restabelecimento de direitos após a quitação da mora (Lei nº 14.181/2021). A nulidade de uma cláusula, em regra, não invalida o contrato.
+P: Rol exemplificativo de cláusulas abusivas || Desvantagem exagerada presumida || Conservação do contrato
+K: cláusulas abusivas; nulidade; desvantagem exagerada; arbitragem compulsória
+
+@CDC 52
+I: Nos financiamentos e vendas a crédito, o fornecedor deve informar previamente preço, juros de mora e taxa efetiva anual, acréscimos, número de prestações e total a pagar. A multa de mora não pode passar de 2% da prestação, e o consumidor pode quitar antecipadamente com redução proporcional dos juros.
+P: Informação prévia no crédito || Multa de mora limitada a 2% || Liquidação antecipada com desconto
+K: crédito ao consumidor; multa de mora; juros; quitação antecipada
+
+@CDC 53
+I: Nas vendas a prestação e alienações fiduciárias, é nula a cláusula de perda total das parcelas pagas em caso de resolução por inadimplemento (cláusula de decaimento). No consórcio, a restituição desconta a vantagem da fruição e os prejuízos ao grupo. Nas promessas de compra e venda de imóvel, o STJ admite retenção de parte das parcelas e exige restituição imediata (Súmula 543).
+P: Vedação da perda total das parcelas || Restituição no consórcio || Súmula 543 do STJ
+K: cláusula de decaimento; distrato; restituição de parcelas; Súmula 543 STJ
+
+@CDC 54
+I: Contrato de adesão é o de cláusulas aprovadas pela autoridade ou fixadas unilateralmente pelo fornecedor, sem discussão substancial. Deve ser redigido em termos claros, fonte mínima de corpo 12, e as cláusulas que limitam direitos devem vir em destaque.
+P: Conceito de contrato de adesão || Fonte mínima 12 || Destaque das cláusulas restritivas
+K: contrato de adesão; cláusula limitativa; letra miúda
+
+@CDC 54-A
+I: Abre o capítulo do superendividamento (Lei nº 14.181/2021): impossibilidade manifesta de o consumidor pessoa natural, de boa-fé, pagar suas dívidas de consumo sem comprometer o mínimo existencial. Não se aplica a dívidas contraídas com fraude, má-fé ou para bens e serviços de luxo de alto valor.
+P: Conceito de superendividamento || Pessoa natural de boa-fé || Exclusão de fraude e luxo
+K: superendividamento; mínimo existencial; Lei 14.181/2021; boa-fé
+
+@CDC 54-B
+I: Na oferta de crédito e venda a prazo, o fornecedor deve informar o custo efetivo total (CET), a taxa mensal de juros e encargos de mora, prestações e validade mínima de 2 dias da oferta, seus dados e o direito à liquidação antecipada, de forma clara e resumida no contrato ou na fatura.
+P: Custo efetivo total obrigatório || Validade mínima da oferta de 2 dias || Informação resumida e acessível
+K: custo efetivo total; CET; oferta de crédito; informação
+
+@CDC 54-C
+I: Proíbe, na oferta de crédito, prometer contratação sem consulta a cadastros ou análise financeira, esconder ônus e riscos, assediar ou pressionar o consumidor (especialmente idoso, analfabeto, doente ou vulnerável, ou com prêmio) e condicionar o atendimento à desistência de ações ou pagamento de honorários.
+P: Vedação do assédio ao consumo de crédito || Proteção do idoso e do vulnerável || Transparência sobre riscos
+K: assédio de consumo; crédito consignado; idoso; publicidade de crédito
+
+@CDC 54-D
+I: Antes de contratar crédito, o fornecedor deve esclarecer natureza, custos e consequências do inadimplemento, avaliar com responsabilidade a capacidade de pagamento e entregar cópia do contrato. O descumprimento permite ao juiz reduzir juros e encargos e dilatar prazos, além de indenização.
+P: Dever de esclarecimento || Avaliação responsável do crédito || Sanção de redução de juros e dilação de prazo
+K: crédito responsável; dever de informação; redução de juros
+
+@CDC 54-E
+I: Dispositivo incluído pela Lei nº 14.181/2021 e vetado, sem conteúdo normativo.
+P: Veto presidencial || Sem eficácia || Numeração preservada
+K: dispositivo vetado; superendividamento
+
+@CDC 54-F
+I: O contrato de compra e o de crédito que o financia são conexos quando o financiador usa o fornecedor para preparar o crédito ou o oferece no local da venda. O arrependimento ou a invalidade de um atinge o outro, e o consumidor pode pedir a rescisão contra o financiador se o fornecedor descumprir suas obrigações, inclusive contra portador de cheque pós-datado e emissor de cartão do mesmo grupo.
+P: Contratos coligados || Arrependimento e invalidade se comunicam || Rescisão contra o financiador
+K: contratos conexos; financiamento; cartão de crédito; direito de arrependimento
+
+@CDC 54-G
+I: Proíbe cobrar valor contestado no cartão de crédito enquanto não resolvida a controvérsia (com aviso 10 dias antes do vencimento), negar cópia da minuta e do contrato e dificultar o bloqueio ou estorno em caso de fraude. No consignado, a formalização ocorre após confirmação da margem consignável.
+P: Contestação de compra no cartão || Entrega de cópia do contrato || Bloqueio e estorno em fraude
+K: cartão de crédito; contestação; chargeback; consignado
+
+@CDC 55
+I: União, Estados e DF editam normas concorrentes sobre produção e consumo, e todos os entes, inclusive Municípios, fiscalizam o mercado. Os órgãos de fiscalização mantêm comissões com participação de consumidores e fornecedores e podem notificar fornecedores a prestar informações, sob pena de desobediência.
+P: Competência normativa concorrente || Fiscalização por todos os entes || Notificação de fornecedores
+K: fiscalização; Procon; competência concorrente
+
+@CDC 56
+I: Lista as sanções administrativas: multa, apreensão e inutilização de produto, cassação de registro, proibição de fabricação, suspensão de fornecimento e de atividade, revogação de concessão, cassação de licença, interdição, intervenção e contrapropaganda, aplicáveis cumulativamente e até por medida cautelar.
+P: Rol de sanções administrativas || Aplicação cumulativa || Medidas cautelares
+K: sanções administrativas; Procon; multa; interdição
+
+@CDC 57
+I: A multa é graduada pela gravidade, vantagem obtida e condição econômica do fornecedor, aplicada em processo administrativo e destinada aos fundos de proteção ao consumidor. Pela Medida Provisória nº 1.393/2026, varia de 200 a 3 milhões de Ufir e, para práticas abusivas de recusa de atendimento ou aumento injustificado de preços na cadeia de combustíveis, de R$ 20 mil a R$ 500 milhões. Por ser medida provisória, a regra depende de conversão em lei pelo Congresso.
+P: Critérios de gradação da multa || Limites atualizados pela MP nº 1.393/2026 || Multa especial na cadeia de combustíveis
+K: multa administrativa; Procon; combustíveis; Medida Provisória 1.393/2026
+
+@CDC 58
+I: Apreensão, inutilização, proibição de fabricação, suspensão de fornecimento, cassação de registro e revogação de concessão aplicam-se em processo com ampla defesa quando constatados vícios de quantidade ou qualidade.
+P: Sanções sobre produtos || Processo com ampla defesa || Vícios de qualidade e quantidade
+K: sanções administrativas; ampla defesa; vício do produto
+
+@CDC 59
+I: Cassação de licença, interdição, suspensão de atividade e intervenção aplicam-se ao fornecedor reincidente em infrações graves, em processo com ampla defesa; a concessionária pode ter a concessão cassada. Não há reincidência enquanto a penalidade estiver em discussão judicial.
+P: Sanções graves por reincidência || Cassação da concessão || Reincidência só após o trânsito em julgado
+K: reincidência; interdição; cassação de licença
+
+@CDC 60
+I: A contrapropaganda é imposta ao fornecedor de publicidade enganosa ou abusiva, às suas custas, divulgada da mesma forma, frequência e dimensão, de preferência no mesmo veículo, para desfazer o dano.
+P: Contrapropaganda || Mesma forma e veículo || Custeio pelo infrator
+K: contrapropaganda; publicidade enganosa
+
+@CDC 61
+I: As condutas dos artigos seguintes são crimes contra as relações de consumo, sem prejuízo do Código Penal e das leis especiais, como a Lei nº 8.137/1990.
+P: Crimes contra as relações de consumo || Complementaridade com outras leis || Lei nº 8.137/1990
+K: crimes de consumo; direito penal do consumidor
+
+@CDC 63
+I: Crime de omitir avisos ostensivos sobre nocividade ou periculosidade de produtos ou serviços, com detenção de 6 meses a 2 anos e multa, admitida a forma culposa.
+P: Omissão de advertência || Produtos e serviços perigosos || Forma culposa
+K: crime de consumo; periculosidade; advertência
+
+@CDC 64
+I: Crime de não comunicar às autoridades e consumidores a periculosidade descoberta após a venda ou de não retirar o produto do mercado quando determinado (falta de recall), com detenção de 6 meses a 2 anos e multa.
+P: Omissão de recall || Descumprimento de ordem de retirada || Detenção e multa
+K: recall; crime de consumo; omissão
+
+@CDC 65
+I: Crime de executar serviço de alto grau de periculosidade contra determinação da autoridade, que inclui permitir lotação acima da máxima em estabelecimentos (Lei nº 13.425/2017, editada após o incêndio da Boate Kiss), sem prejuízo dos crimes de lesão e morte.
+P: Serviço perigoso contra ordem da autoridade || Superlotação de estabelecimentos || Cumulação com lesão e homicídio
+K: superlotação; crime de consumo; Lei 13.425/2017
+
+@CDC 66
+I: Crime de fazer afirmação falsa ou enganosa ou omitir informação relevante sobre produtos ou serviços, inclusive por quem patrocina a oferta, admitida a forma culposa.
+P: Informação falsa ou omissa || Patrocinador da oferta || Forma culposa
+K: oferta enganosa; crime de consumo
+
+@CDC 67
+I: Crime de fazer ou promover publicidade que se sabe ou deveria saber enganosa ou abusiva.
+P: Publicidade enganosa ou abusiva || Dolo ou culpa consciente || Detenção e multa
+K: publicidade enganosa; crime de consumo
+
+@CDC 68
+I: Crime de fazer ou promover publicidade capaz de induzir o consumidor a comportamento prejudicial ou perigoso à saúde ou segurança.
+P: Publicidade perigosa || Saúde e segurança || Pena mais grave
+K: publicidade abusiva; crime de consumo; segurança
+
+@CDC 69
+I: Crime de não organizar os dados fáticos, técnicos e científicos que sustentam a publicidade.
+P: Dados de sustentação da publicidade || Dever do anunciante || Infração de menor potencial ofensivo
+K: publicidade; dados técnicos; crime de consumo
+
+@CDC 70
+I: Crime de usar peças ou componentes usados no conserto de produtos sem autorização do consumidor.
+P: Peças usadas sem autorização || Serviços de reparo || Detenção e multa
+K: peças usadas; conserto; crime de consumo
+
+@CDC 71
+I: Crime de cobrar dívidas com ameaça, coação, constrangimento, afirmações falsas ou procedimento que exponha o consumidor ao ridículo ou interfira em seu trabalho, descanso ou lazer.
+P: Cobrança abusiva || Exposição ao ridículo || Interferência no trabalho e descanso
+K: cobrança vexatória; crime de consumo
+
+@CDC 72
+I: Crime de impedir ou dificultar o acesso do consumidor às informações sobre ele em cadastros e bancos de dados.
+P: Acesso a cadastros || Bancos de dados || Detenção ou multa
+K: banco de dados; cadastro; crime de consumo
+
+@CDC 73
+I: Crime de deixar de corrigir imediatamente informação inexata sobre o consumidor em cadastros.
+P: Dever de correção imediata || Informação inexata || Detenção ou multa
+K: cadastro; correção; crime de consumo
+
+@CDC 74
+I: Crime de não entregar ao consumidor o termo de garantia preenchido e com conteúdo claro.
+P: Termo de garantia || Preenchimento adequado || Detenção ou multa
+K: termo de garantia; crime de consumo
+
+@CDC 75
+I: Respondem pelos crimes do CDC todos que concorrerem para eles, inclusive diretor, administrador ou gerente que promover ou aprovar o fornecimento em condições proibidas, na medida de sua culpabilidade.
+P: Concurso de pessoas || Responsabilidade de dirigentes || Culpabilidade individual
+K: concurso de pessoas; responsabilidade penal de dirigentes
+
+@CDC 76
+I: Agravam os crimes de consumo: crise econômica ou calamidade, grave dano, dissimulação, autoria de servidor ou de quem tem condição superior à da vítima, vítima operário, rurícola, menor de 18, maior de 60 ou pessoa com deficiência mental, e operações com alimentos, medicamentos ou produtos essenciais.
+P: Agravantes específicas || Vítimas vulneráveis || Produtos essenciais
+K: agravantes; crime de consumo; consumidor vulnerável
+
+@CDC 77
+I: A multa penal é fixada em dias-multa, em número correspondente aos limites da pena privativa de liberdade, observado o art. 60, § 1º, do Código Penal.
+P: Dias-multa || Correspondência com a pena de prisão || Situação econômica do réu
+K: dias-multa; pena de multa
+
+@CDC 78
+I: Além da prisão e da multa, podem ser aplicadas interdição temporária de direitos, publicação da condenação às custas do condenado e prestação de serviços à comunidade.
+P: Penas alternativas e acessórias || Publicação da condenação || Serviços à comunidade
+K: penas restritivas de direitos; publicação da sentença
+
+@CDC 79
+I: A fiança nos crimes de consumo é fixada entre 100 e 200 mil BTN (índice substituto), podendo ser reduzida à metade do mínimo ou aumentada em até 20 vezes conforme a situação econômica do réu.
+P: Faixa de fiança || Ajuste pela condição econômica || Índice substituto do BTN
+K: fiança; processo penal
+
+@CDC 80
+I: Os órgãos públicos de defesa do consumidor e as associações podem atuar como assistentes do Ministério Público nos crimes de consumo e propor ação penal subsidiária se a denúncia não for oferecida no prazo.
+P: Assistência ao Ministério Público || Ação penal subsidiária || Legitimados do art. 82, III e IV
+K: assistente de acusação; ação penal subsidiária
+
+@CDC 81
+I: A defesa do consumidor em juízo pode ser individual ou coletiva. Define direitos difusos (indivisíveis, de pessoas indeterminadas ligadas por circunstâncias de fato), coletivos (indivisíveis, de grupo ligado por relação jurídica base) e individuais homogêneos (de origem comum), conceitos usados em todo o microssistema de processo coletivo.
+P: Tutela individual e coletiva || Difusos, coletivos e individuais homogêneos || Base do processo coletivo
+K: direitos difusos; direitos coletivos; individuais homogêneos; ação coletiva
+
+@CDC 82
+I: São legitimados concorrentes para as ações coletivas o Ministério Público, os entes federativos, órgãos públicos de defesa do consumidor (como os Procons) e associações constituídas há pelo menos um ano, dispensada autorização assemblear; o juiz pode dispensar a pré-constituição havendo interesse social relevante. A Defensoria Pública também é legitimada (Lei nº 7.347/1985).
+P: Legitimados coletivos || Associações com 1 ano, dispensável || Dispensa de autorização assemblear
+K: legitimidade ativa; ação civil pública; Ministério Público; associações

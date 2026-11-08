@@ -1,0 +1,54 @@
+@CDC 11
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Seção I do Capítulo IV (proteção à saúde e segurança) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 15
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Seção II do Capítulo IV (responsabilidade pelo fato do produto e do serviço) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 16
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Seção II do Capítulo IV (responsabilidade pelo fato do produto e do serviço) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 45
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Seção IV do Capítulo IV (decadência e prescrição) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 62
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Capítulo VII (sanções administrativas) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 85
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Capítulo I do Título III (defesa do consumidor em juízo) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 86
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Capítulo I do Título III (defesa do consumidor em juízo) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 89
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Capítulo I do Título III (defesa do consumidor em juízo) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 96
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Capítulo II do Título III (ações coletivas para interesses individuais homogêneos) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 108
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Título IV (Sistema Nacional de Defesa do Consumidor) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC
+
+@CDC 109
+I: Dispositivo vetado pelo Presidente da República na sanção do Código, em 1990, sem conteúdo normativo. A numeração é mantida, e a matéria da Título V (convenção coletiva de consumo) é regida pelos demais artigos.
+P: Veto presidencial || Sem eficácia normativa || Numeração preservada
+K: dispositivo vetado; veto presidencial; CDC

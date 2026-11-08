@@ -1,0 +1,169 @@
+@CDC 83
+I: Para defender os direitos do consumidor, cabem todas as espécies de ações capazes de dar tutela adequada e efetiva (princípio da atipicidade das ações).
+P: Atipicidade das ações || Tutela adequada e efetiva || Acesso à justiça
+K: tutela jurisdicional; ações cabíveis; processo coletivo
+
+@CDC 84
+I: Nas obrigações de fazer ou não fazer, o juiz concede a tutela específica ou o resultado prático equivalente; a conversão em perdas e danos só ocorre se o autor preferir ou se impossível o cumprimento. Admite liminar, multa diária de ofício e medidas como busca e apreensão, remoção, desfazimento de obra e força policial. Inspirou as regras do CPC (arts. 497 e 536).
+P: Tutela específica prioritária || Liminar e multa diária de ofício || Medidas de apoio
+K: tutela específica; obrigação de fazer; astreintes; liminar
+
+@CDC 87
+I: Nas ações coletivas não há adiantamento de custas, honorários periciais e despesas, e a associação autora só paga honorários e custas se agir de má-fé, caso em que ela e seus diretores pagam solidariamente honorários, o décuplo das custas e perdas e danos.
+P: Isenção de adiantamento de despesas || Associação só paga em caso de má-fé || Sanção ao litigante de má-fé
+K: ação coletiva; custas; honorários; má-fé
+
+@CDC 88
+I: A ação de regresso do comerciante (art. 13) pode ser proposta em processo autônomo ou nos mesmos autos, sendo vedada a denunciação da lide, para não atrasar a reparação do consumidor. O STJ estende a vedação aos casos de fato do serviço.
+P: Regresso em ação autônoma || Vedação da denunciação da lide || Celeridade para o consumidor
+K: denunciação da lide; direito de regresso; processo
+
+@CDC 90
+I: Às ações do CDC aplicam-se o CPC e a Lei da Ação Civil Pública (Lei nº 7.347/1985), inclusive quanto ao inquérito civil, naquilo que não contrariar o Código, formando o microssistema de processo coletivo.
+P: Aplicação subsidiária do CPC e da LACP || Inquérito civil || Microssistema de processo coletivo
+K: ação civil pública; inquérito civil; microssistema coletivo
+
+@CDC 91
+I: Os legitimados do art. 82 podem propor, em nome próprio e em favor das vítimas, ação civil coletiva para reparar danos individuais homogêneos (class action brasileira).
+P: Ação coletiva por danos individuais || Substituição processual || Legitimados do art. 82
+K: ação civil coletiva; direitos individuais homogêneos
+
+@CDC 92
+I: O Ministério Público, quando não for autor da ação coletiva, atua sempre como fiscal da ordem jurídica.
+P: Intervenção obrigatória do Ministério Público || Fiscal da lei || Ações coletivas
+K: Ministério Público; custos legis
+
+@CDC 93
+I: Ressalvada a Justiça Federal, a ação coletiva corre no foro do lugar do dano local ou na capital do Estado ou no DF para danos regionais ou nacionais. O STF afastou a limitação territorial dos efeitos da sentença coletiva (Tema 1.075, art. 16 da LACP).
+P: Foro do local do dano || Capital ou DF para dano regional ou nacional || Efeitos sem limite territorial (Tema 1.075 do STF)
+K: competência; ação coletiva; dano nacional; Tema 1.075
+
+@CDC 94
+I: Proposta a ação coletiva, publica-se edital para que os interessados possam intervir como litisconsortes, com ampla divulgação pelos órgãos de defesa do consumidor.
+P: Edital de publicidade || Intervenção dos interessados || Divulgação ampla
+K: edital; litisconsórcio; ação coletiva
+
+@CDC 95
+I: Procedente o pedido, a condenação é genérica, fixando a responsabilidade do réu; o valor de cada vítima é apurado depois, na liquidação.
+P: Condenação genérica || Responsabilidade do réu fixada || Liquidação individual posterior
+K: sentença genérica; liquidação; ação coletiva
+
+@CDC 97
+I: A liquidação e a execução da sentença coletiva podem ser promovidas pela própria vítima e seus sucessores ou pelos legitimados coletivos.
+P: Liquidação pela vítima || Execução individual || Legitimados coletivos
+K: liquidação de sentença; execução individual
+
+@CDC 98
+I: A execução pode ser coletiva, promovida pelos legitimados com base nas sentenças de liquidação das vítimas, sem impedir execuções individuais; a individual corre no juízo da liquidação ou da condenação, e a coletiva no juízo da condenação.
+P: Execução coletiva || Base nas sentenças de liquidação || Regras de competência
+K: execução coletiva; competência
+
+@CDC 99
+I: Concorrendo condenação da ação civil pública e indenizações individuais pelo mesmo fato, as individuais têm preferência, e o repasse ao fundo fica suspenso enquanto pendentes as ações individuais em segundo grau, salvo patrimônio suficiente.
+P: Preferência das indenizações individuais || Suspensão do repasse ao fundo || Proteção das vítimas
+K: concurso de créditos; fundo de direitos difusos
+
+@CDC 100
+I: Passado um ano sem habilitação de vítimas em número compatível com o dano, os legitimados promovem a liquidação e execução, e o valor vai para o fundo da Lei nº 7.347/1985 (fluid recovery).
+P: Reparação fluida || Prazo de 1 ano || Destinação ao fundo
+K: fluid recovery; reparação fluida; fundo
+
+@CDC 101
+I: Na ação de responsabilidade do fornecedor, o consumidor pode propor a ação em seu domicílio, e o réu com seguro de responsabilidade pode chamar o segurador ao processo; falido o réu, o consumidor pode acionar diretamente a seguradora.
+P: Foro do domicílio do consumidor || Chamamento da seguradora || Ação direta contra a seguradora na falência
+K: foro do consumidor; chamamento ao processo; seguradora
+
+@CDC 102
+I: Os legitimados podem propor ação para obrigar o Poder Público a proibir em todo o país a produção ou venda, ou a exigir a alteração, de produto nocivo ou perigoso à saúde.
+P: Ação contra o Poder Público || Proibição nacional de produto || Saúde pública
+K: produto nocivo; ação coletiva; poder público
+
+@CDC 103
+I: Disciplina a coisa julgada coletiva: erga omnes nos difusos e ultra partes nos coletivos, salvo improcedência por falta de provas; erga omnes só na procedência nos individuais homogêneos. A improcedência não prejudica ações individuais, e a sentença coletiva ou penal favorável pode ser liquidada e executada pelas vítimas (transporte in utilibus).
+P: Coisa julgada segundo o resultado da lide || Sem prejuízo às ações individuais || Transporte in utilibus
+K: coisa julgada coletiva; erga omnes; ultra partes; transporte in utilibus
+
+@CDC 104
+I: A ação coletiva não induz litispendência para as individuais, mas o autor individual só se beneficia da sentença coletiva se pedir a suspensão de sua ação em 30 dias da ciência da coletiva. O STJ admite a suspensão de ofício das ações individuais em macrolides.
+P: Sem litispendência entre coletiva e individual || Suspensão em 30 dias para aproveitar a coletiva || Suspensão em macrolides (STJ)
+K: litispendência; ação individual; ação coletiva; suspensão
+
+@CDC 104-A
+I: O consumidor superendividado pode pedir ao juiz a repactuação das dívidas em audiência de conciliação com todos os credores, propondo plano de até 5 anos que preserve o mínimo existencial. Excluem-se dívidas dolosas, com garantia real, financiamentos imobiliários e crédito rural. O credor que faltar sem justificativa tem a dívida suspensa, os encargos de mora interrompidos e fica sujeito ao plano. O acordo homologado é título executivo, e o pedido só pode ser repetido 2 anos após a quitação do plano.
+P: Audiência global de conciliação || Plano de até 5 anos preservando o mínimo existencial || Sanções ao credor ausente
+K: superendividamento; repactuação de dívidas; plano de pagamento; mínimo existencial
+
+@CDC 104-B
+I: Fracassada a conciliação, o juiz instaura, a pedido do consumidor, processo por superendividamento com revisão dos contratos e plano judicial compulsório, que garante ao menos o principal corrigido, com quitação em até 5 anos e primeira parcela em até 180 dias. Pode nomear administrador para propor o plano.
+P: Plano judicial compulsório || Principal corrigido garantido || Prazo de 5 anos e carência de até 180 dias
+K: superendividamento; plano compulsório; revisão contratual
+
+@CDC 104-C
+I: Os órgãos do Sistema Nacional de Defesa do Consumidor, como os Procons, podem conduzir a fase conciliatória e preventiva do superendividamento, com audiência global e plano de pagamento, por convênios com credores; o acordo prevê exclusão dos cadastros de inadimplentes e abstenção de novas dívidas.
+P: Conciliação administrativa nos Procons || Audiência global com credores || Exclusão de cadastros negativos
+K: Procon; superendividamento; conciliação administrativa
+
+@CDC 105
+I: Integram o Sistema Nacional de Defesa do Consumidor (SNDC) os órgãos federais, estaduais, distritais e municipais e as entidades privadas de defesa do consumidor.
+P: Composição do SNDC || Órgãos públicos e entidades privadas || Atuação integrada
+K: Sistema Nacional de Defesa do Consumidor; SNDC; Procon
+
+@CDC 106
+I: Atribui ao órgão federal de coordenação (originalmente o Departamento Nacional de Defesa do Consumidor; hoje a Secretaria Nacional do Consumidor, Senacon, do Ministério da Justiça) planejar e executar a política nacional, orientar consumidores, receber denúncias, provocar a polícia e o Ministério Público e incentivar entidades de defesa do consumidor.
+P: Coordenação federal do SNDC || Senacon || Orientação e encaminhamento de denúncias
+K: Senacon; política nacional do consumidor; SNDC
+
+@CDC 107
+I: Entidades de consumidores e associações ou sindicatos de fornecedores podem firmar convenção coletiva de consumo sobre preço, qualidade, garantia e solução de conflitos, obrigatória após registro em cartório e apenas para os filiados, inclusive quem se desligar depois.
+P: Convenção coletiva de consumo || Registro em títulos e documentos || Vincula os filiados
+K: convenção coletiva de consumo; autorregulação
+
+@CDC 110
+I: Acrescentou à Lei da Ação Civil Pública a proteção de qualquer outro interesse difuso ou coletivo, ampliando seu objeto.
+P: Ampliação do objeto da ação civil pública || Qualquer interesse difuso ou coletivo || Alteração da Lei nº 7.347/1985
+K: ação civil pública; interesses difusos
+
+@CDC 111
+I: Alterou a Lei da Ação Civil Pública para legitimar associações voltadas à proteção do consumidor e de qualquer interesse difuso ou coletivo.
+P: Legitimidade das associações || Finalidades institucionais || Alteração da Lei nº 7.347/1985
+K: ação civil pública; associações; legitimidade
+
+@CDC 112
+I: Na desistência infundada ou abandono da ação civil pública por associação, o Ministério Público ou outro legitimado assume a ação.
+P: Sucessão processual || Ministério Público assume a ação || Alteração da Lei nº 7.347/1985
+K: ação civil pública; desistência; Ministério Público
+
+@CDC 113
+I: Acrescentou à Lei da Ação Civil Pública a dispensa da pré-constituição da associação, o litisconsórcio entre Ministérios Públicos e o compromisso de ajustamento de conduta (TAC), com força de título executivo extrajudicial.
+P: Termo de ajustamento de conduta (TAC) || Litisconsórcio entre Ministérios Públicos || Dispensa de pré-constituição
+K: TAC; termo de ajustamento de conduta; ação civil pública
+
+@CDC 114
+I: Se a associação não executar a sentença da ação civil pública em 60 dias do trânsito em julgado, o Ministério Público deve fazê-lo, facultado aos demais legitimados.
+P: Execução pelo Ministério Público || Prazo de 60 dias || Legitimados concorrentes
+K: execução; ação civil pública
+
+@CDC 115
+I: Alterou o art. 17 da Lei da Ação Civil Pública para prever a condenação solidária da associação e diretores por litigância de má-fé.
+P: Sanção por má-fé || Responsabilidade dos diretores || Alteração da Lei nº 7.347/1985
+K: litigância de má-fé; ação civil pública
+
+@CDC 116
+I: Alterou o art. 18 da Lei da Ação Civil Pública para dispensar o adiantamento de custas e a condenação da associação, salvo má-fé.
+P: Isenção de custas || Associação protegida || Alteração da Lei nº 7.347/1985
+K: custas; ação civil pública
+
+@CDC 117
+I: Incluiu o art. 21 na Lei da Ação Civil Pública, mandando aplicar o Título III do CDC à defesa de todos os interesses difusos, coletivos e individuais, o que integrou as duas leis no microssistema de processo coletivo.
+P: Integração CDC e LACP || Microssistema de processo coletivo || Aplicação geral do Título III
+K: microssistema coletivo; ação civil pública; CDC
+
+@CDC 118
+I: O Código entrou em vigor 180 dias após a publicação, em março de 1991.
+P: Vacatio legis de 180 dias || Vigência em 1991 || Adaptação do mercado
+K: vigência; vacatio legis
+
+@CDC 119
+I: Cláusula geral de revogação das disposições em contrário.
+P: Revogação genérica || Cláusula de estilo || Sem revogação expressa
+K: revogação
