@@ -1,0 +1,100 @@
+@CE 51
+I: Dispositivo revogado pela Lei nº 7.914, de 1989. Integrava a divisão "TÍTULO I — DA QUALIFICAÇÃO E INSCRIÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 7.914, de 1989 || Localização: TÍTULO I — DA QUALIFICAÇÃO E INSCRIÇÃO
+K: dispositivo revogado; Lei nº 7.914, de 1989; histórico legislativo
+
+@CE 62
+I: Dispositivo revogado pela Lei nº 8.868, de 1994. Integrava a divisão "CAPÍTULO III — DOS PREPARADORES". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.868, de 1994 || Localização: CAPÍTULO III — DOS PREPARADORES
+K: dispositivo revogado; Lei nº 8.868, de 1994; histórico legislativo
+
+@CE 63
+I: Dispositivo revogado pela Lei nº 8.868, de 1994. Integrava a divisão "CAPÍTULO III — DOS PREPARADORES". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.868, de 1994 || Localização: CAPÍTULO III — DOS PREPARADORES
+K: dispositivo revogado; Lei nº 8.868, de 1994; histórico legislativo
+
+@CE 64
+I: Dispositivo revogado pela Lei nº 8.868, de 1994. Integrava a divisão "CAPÍTULO III — DOS PREPARADORES". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.868, de 1994 || Localização: CAPÍTULO III — DOS PREPARADORES
+K: dispositivo revogado; Lei nº 8.868, de 1994; histórico legislativo
+
+@CE 65
+I: Dispositivo revogado pela Lei nº 8.868, de 1994. Integrava a divisão "CAPÍTULO III — DOS PREPARADORES". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.868, de 1994 || Localização: CAPÍTULO III — DOS PREPARADORES
+K: dispositivo revogado; Lei nº 8.868, de 1994; histórico legislativo
+
+@CE 92
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "CAPÍTULO I — DO REGISTRO DOS CANDIDATOS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: CAPÍTULO I — DO REGISTRO DOS CANDIDATOS
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 105
+I: Dispositivo revogado pela Lei nº 14.211, de 2021. Integrava a divisão "CAPÍTULO IV — DA REPRESENTAÇÃO PROPORCIONAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 14.211, de 2021 || Localização: CAPÍTULO IV — DA REPRESENTAÇÃO PROPORCIONAL
+K: dispositivo revogado; Lei nº 14.211, de 2021; histórico legislativo
+
+@CE 151
+I: Dispositivo revogado pela Lei nº 7.914, de 7.12.1989. Integrava a divisão "CAPÍTULO IV — DO ATO DE VOTAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 7.914, de 7.12.1989 || Localização: CAPÍTULO IV — DO ATO DE VOTAR
+K: dispositivo revogado; Lei nº 7.914, de 7.12.1989; histórico legislativo
+
+@CE 157
+I: Dispositivo revogado pela Lei nº 7.914, de 7.12.1989. Integrava a divisão "CAPÍTULO V — DO ENCERRAMENTO DA VOTAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 7.914, de 7.12.1989 || Localização: CAPÍTULO V — DO ENCERRAMENTO DA VOTAÇÃO
+K: dispositivo revogado; Lei nº 7.914, de 7.12.1989; histórico legislativo
+
+@CE 246
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 247
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 250
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 252
+I: Dispositivo revogado pelo Decreto-Lei nº 1.538, de 14.4.1977. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pelo Decreto-Lei nº 1.538, de 14.4.1977 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Decreto-Lei nº 1.538, de 14.4.1977; histórico legislativo
+
+@CE 253
+I: Dispositivo revogado pelo Decreto-Lei nº 1.538, de 14.4.1977. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pelo Decreto-Lei nº 1.538, de 14.4.1977 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Decreto-Lei nº 1.538, de 14.4.1977; histórico legislativo
+
+@CE 254
+I: Dispositivo revogado pelo Decreto-Lei nº 1.538, de 14.4.1977. Integrava a divisão "TÍTULO II — DA PROPAGANDA PARTIDÁRIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pelo Decreto-Lei nº 1.538, de 14.4.1977 || Localização: TÍTULO II — DA PROPAGANDA PARTIDÁRIA
+K: dispositivo revogado; Decreto-Lei nº 1.538, de 14.4.1977; histórico legislativo
+
+@CE 294
+I: Dispositivo revogado pela Lei nº 8.868, de 14.4.1994. Integrava a divisão "CAPÍTULO II — DOS CRIMES ELEITORAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.868, de 14.4.1994 || Localização: CAPÍTULO II — DOS CRIMES ELEITORAIS
+K: dispositivo revogado; Lei nº 8.868, de 14.4.1994; histórico legislativo
+
+@CE 322
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "CAPÍTULO II — DOS CRIMES ELEITORAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: CAPÍTULO II — DOS CRIMES ELEITORAIS
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 328
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "CAPÍTULO II — DOS CRIMES ELEITORAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: CAPÍTULO II — DOS CRIMES ELEITORAIS
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 329
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "CAPÍTULO II — DOS CRIMES ELEITORAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: CAPÍTULO II — DOS CRIMES ELEITORAIS
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+
+@CE 333
+I: Dispositivo revogado pela Lei nº 9.504, de 30.9.1997. Integrava a divisão "CAPÍTULO II — DOS CRIMES ELEITORAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.504, de 30.9.1997 || Localização: CAPÍTULO II — DOS CRIMES ELEITORAIS
+K: dispositivo revogado; Lei nº 9.504, de 30.9.1997; histórico legislativo
+

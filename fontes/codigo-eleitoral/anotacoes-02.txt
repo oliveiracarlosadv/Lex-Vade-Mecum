@@ -1,0 +1,174 @@
+@CE 40
+I: A junta eleitoral apura, em até 10 dias, as eleições das zonas sob sua jurisdição, resolve as impugnações e incidentes da contagem, expede os boletins de apuração e diploma os eleitos para cargos municipais. Havendo mais de uma junta no município, os diplomas são expedidos pela presidida pelo juiz eleitoral mais antigo. Com a urna eletrônica, a totalização é feita por sistema informatizado, mas a junta mantém a competência legal.
+P: Apuração em até 10 dias || Decisão de impugnações na contagem || Diplomação dos eleitos municipais || Junta presidida pelo juiz mais antigo, se houver várias
+K: junta eleitoral; apuração; boletim de urna; diplomação; eleições municipais
+
+@CE 41
+I: Onde for autorizada a contagem prévia dos votos pelas próprias mesas receptoras, a junta eleitoral toma as providências do art. 195, recebendo e conferindo o material da contagem feita nas seções.
+P: Contagem dos votos pela mesa receptora || Providências da junta (art. 195)
+K: junta eleitoral; mesa receptora; contagem de votos
+
+@CE 42
+I: O alistamento consiste na qualificação e inscrição do eleitor. Domicílio eleitoral é o lugar de residência ou moradia, e quem tem mais de um pode escolher qualquer deles. A jurisprudência eleitoral admite conceito amplo de domicílio eleitoral, que pode se basear em vínculos políticos, sociais, profissionais, patrimoniais ou familiares com o município.
+P: Alistamento = qualificação + inscrição || Domicílio eleitoral é a residência ou moradia || Pluralidade de residências permite a escolha || Conceito de domicílio eleitoral mais amplo que o civil
+K: alistamento; domicílio eleitoral; inscrição eleitoral; residência; vínculo
+
+@CE 43
+I: O alistando apresenta o requerimento de inscrição no cartório eleitoral ou em local designado, no modelo aprovado pelo TSE. Hoje o requerimento é feito pelo sistema informatizado da Justiça Eleitoral, inclusive com a coleta de dados biométricos.
+P: Requerimento em cartório ou local designado || Modelo aprovado pelo TSE
+K: alistamento; requerimento; cartório eleitoral; título eleitoral
+
+@CE 44
+I: O requerimento de alistamento deve vir com documento que comprove a identidade, a idade e a nacionalidade, como carteira de identidade, certificado de quitação militar, certidão do registro civil ou instrumento público. Esses documentos não podem ser substituídos por justificação. O pedido incompleto ou ilegível é devolvido.
+P: Documentos aceitos para o alistamento || Vedação de suprimento por justificação || Devolução do requerimento incompleto
+K: alistamento; documentos; identidade; certidão de nascimento; nacionalidade
+
+@CE 45
+I: O servidor que recebe o requerimento colhe a data e a assinatura do alistando, atesta que foram lançadas em sua presença e dá recibo. O juiz despacha em 48 horas e pode converter o julgamento em diligência se tiver dúvida sobre a identidade ou outro requisito, ou fixar prazo para sanar falhas. Deferido o pedido, o título é entregue em cinco dias ao eleitor ou a quem ele autorizar por escrito, e o recibo deve ser juntado ao processo, sob pena de multa.
+P: Assinatura na presença do servidor || Despacho do juiz em 48 horas || Diligência em caso de dúvida || Entrega do título em 5 dias, com recibo obrigatório
+K: alistamento; título eleitoral; despacho; diligência; entrega do título
+
+@CE 46
+I: A folha individual de votação e o título seguem modelo do TSE e indicam a seção do eleitor, que deve ficar no distrito de sua residência e o mais perto possível. O eleitor fica vinculado à sua seção, salvo transferência de zona ou município ou mudança de residência dentro do município comprovada até 100 dias antes da eleição. Pode pedir a qualquer tempo a correção de erros evidentes no título ou na folha.
+P: Seção próxima da residência || Vinculação permanente à seção || Mudança de seção dentro do município || Retificação de erro evidente
+K: título eleitoral; folha de votação; seção eleitoral; transferência; retificação
+
+@CE 47
+I: As certidões de nascimento e casamento para fins de alistamento são gratuitas e fornecidas na ordem dos pedidos. Os cartórios de registro civil também fazem gratuitamente o registro de nascimento de alistandos sem recursos. Há livro especial para os pedidos, e o escrivão tem 15 dias para fornecer a certidão ou justificar a recusa ao juiz eleitoral, sob as penas do art. 293.
+P: Gratuidade das certidões para o alistamento || Registro de nascimento gratuito para quem não tem recursos || Prazo de 15 dias para o escrivão
+K: certidão gratuita; registro civil; alistamento; escrivão
+
+@CE 48
+I: O empregado pode faltar ao trabalho por até dois dias, sem prejuízo do salário, para se alistar como eleitor ou pedir transferência, desde que avise o empregador com 48 horas de antecedência. A mesma hipótese aparece entre as faltas justificadas do art. 473, V, da CLT.
+P: Falta justificada para alistamento ou transferência || Até 2 dias sem perda do salário || Aviso prévio de 48 horas ao empregador
+K: falta justificada; empregado; alistamento eleitoral; CLT art. 473
+
+@CE 49
+I: As pessoas cegas alfabetizadas em Braille podem se alistar assinando o requerimento, a folha de votação e o título em Braille, na presença de servidor de instituição especializada que conheça o sistema, que atesta a autenticidade das assinaturas junto com o escrivão.
+P: Alistamento de pessoas cegas || Assinatura em Braille || Declaração de servidor de instituição especializada
+K: pessoa com deficiência visual; Braille; alistamento; acessibilidade
+
+@CE 50
+I: O juiz eleitoral pode fazer o alistamento nas próprias instituições de apoio a pessoas cegas, em dia e hora marcados. Esses eleitores ficam em uma mesma seção, completada por outros eleitores se não atingirem o número mínimo. Hoje a acessibilidade é tratada também pela Lei Brasileira de Inclusão (Lei nº 13.146/2015, art. 76).
+P: Alistamento nas instituições de apoio || Seção única para os eleitores cegos || Acessibilidade (Lei nº 13.146/2015)
+K: acessibilidade; pessoa cega; seção eleitoral; alistamento
+
+@CE 52
+I: Se perder o título ou ele for danificado, o eleitor pede a segunda via ao juiz de seu domicílio, até 10 dias antes da eleição, pessoalmente. No caso de perda ou extravio, o juiz publica a notícia por 5 dias e defere o pedido se não houver impugnação. Na prática atual, o título pode ser emitido em meio digital (e-Título), e o eleitor pode votar sem o título, apresentando documento oficial com foto.
+P: Segunda via até 10 dias antes da eleição || Pedido pessoal no cartório || Publicação da perda por 5 dias
+K: segunda via; título eleitoral; extravio; e-Título
+
+@CE 53
+I: Fora do domicílio eleitoral, o eleitor pode pedir a segunda via ao juiz da zona onde estiver, que encaminha o pedido ao juiz da zona do eleitor, após a conferência da assinatura. O título pode ser enviado de volta à zona onde o pedido foi feito ou aguardar o eleitor no cartório. Esse pedido só é recebido até 60 dias antes da eleição.
+P: Segunda via pedida em outra zona || Conferência da assinatura || Prazo de 60 dias antes da eleição
+K: segunda via; outra zona eleitoral; título eleitoral; prazo
+
+@CE 54
+I: O requerimento de segunda via exigia pagamento em selos federais de 2% do salário-mínimo, e só é atendido para o eleitor quite com a Justiça Eleitoral. O eleitor multado deve pagar a multa antes. Hoje os pagamentos são feitos por guia, e não mais por selos.
+P: Taxa da segunda via || Exigência de quitação eleitoral || Pagamento prévio da multa pendente
+K: segunda via; quitação eleitoral; multa; taxa
+
+@CE 55
+I: Quem muda de domicílio deve pedir a transferência ao juiz do novo domicílio. O Código exige pedido até 100 dias antes da eleição, um ano da inscrição anterior e três meses de residência no novo domicílio. Servidores públicos e familiares removidos estão dispensados dos dois últimos requisitos. O prazo para requerer a transferência é hoje de 150 dias antes da eleição (Lei nº 9.504/1997, art. 91).
+P: Transferência pedida no novo domicílio || Um ano da inscrição e três meses de residência || Dispensa para servidores removidos || Fechamento do cadastro 150 dias antes da eleição (Lei nº 9.504/1997, art. 91)
+K: transferência de domicílio eleitoral; prazo; residência; servidor público
+
+@CE 56
+I: Se o eleitor perdeu o título anterior, o juiz do novo domicílio pede confirmação da inscrição à zona de origem, que responde em 5 dias informando se a inscrição está em vigor, seu número e data. Essa informação substitui o título perdido no processo de transferência.
+P: Transferência sem o título anterior || Confirmação pela zona de origem em 5 dias || Informação supre o título extraviado
+K: transferência; título extraviado; zona de origem; inscrição
+
+@CE 57
+I: O pedido de transferência é publicado para que interessados possam impugná-lo em 10 dias. A decisão do juiz também é publicada, e cabe recurso ao TRE em 3 dias pelo eleitor (se negado) ou por delegado de partido (se deferido). O TRE decide em 5 dias, e o novo título só é expedido depois de esgotados esses prazos.
+P: Publicidade do pedido de transferência || Impugnação em 10 dias || Recurso ao TRE em 3 dias || Título expedido após os prazos
+K: transferência; impugnação; recurso eleitoral; delegado de partido
+
+@CE 58
+I: Expedido o novo título, o juiz comunica a transferência ao TRE em 10 dias e requisita a folha de votação da zona de origem. A nova folha registra que a inscrição veio de transferência e o último pleito em que o eleitor votou. Na mudança dentro da mesma zona, basta transpor a folha de pasta e anotar a mudança.
+P: Comunicação ao TRE em 10 dias || Requisição da folha de votação de origem || Anotação da transferência || Mudança dentro da mesma zona
+K: transferência; folha de votação; comunicação ao TRE; anotação
+
+@CE 59
+I: Ao receber a comunicação da transferência, o juiz da zona de origem cancela a inscrição antiga, envia a folha de votação em 3 dias, comunica o TRE e informa se o eleitor havia assinado ficha de apoio a registro de partido.
+P: Cancelamento da inscrição antiga || Remessa da folha de votação em 3 dias || Comunicação ao TRE
+K: transferência; cancelamento de inscrição; zona de origem
+
+@CE 60
+I: O eleitor transferido não pode votar, no novo domicílio, em eleição suplementar de pleito realizado antes de sua transferência. A regra evita a mudança de domicílio para influir em eleição já em curso.
+P: Vedação de voto em eleição suplementar anterior à transferência || Proteção contra transferências oportunistas
+K: eleição suplementar; transferência; voto; domicílio eleitoral
+
+@CE 61
+I: Só se concede transferência ao eleitor quite com a Justiça Eleitoral. O juiz do novo domicílio verifica junto à zona de origem a existência de multa e seu valor, podendo o eleitor pagar o valor máximo para não aguardar a resposta. O pagamento é comunicado ao juízo de origem.
+P: Quitação eleitoral como requisito da transferência || Consulta sobre multas na zona de origem || Pagamento pelo valor máximo
+K: transferência; quitação eleitoral; multa
+
+@CE 66
+I: Os partidos, por seus delegados, podem acompanhar as inscrições, pedir a exclusão de eleitor inscrito irregularmente, defender eleitor ameaçado de exclusão e examinar os documentos do alistamento. Cada partido nomeia até três delegados perante o juízo e dois perante os preparadores. Delegados credenciados no TRE ou no TSE podem atuar perante os órgãos inferiores.
+P: Fiscalização partidária do alistamento || Pedido de exclusão e defesa de eleitores || Número de delegados || Atuação dos delegados credenciados nos tribunais
+K: delegado de partido; fiscalização; alistamento; exclusão de eleitor
+
+@CE 67
+I: O Código proíbe receber pedidos de inscrição ou transferência nos 100 dias anteriores à eleição. Esse prazo foi ampliado para 150 dias pelo art. 91 da Lei nº 9.504/1997, que hoje fixa o fechamento do cadastro eleitoral.
+P: Fechamento do cadastro antes da eleição || Prazo atual de 150 dias (Lei nº 9.504/1997, art. 91)
+K: fechamento do cadastro; alistamento; transferência; prazo; 150 dias
+
+@CE 68
+I: Em audiência pública, o juiz declara encerrada a inscrição de eleitores na zona, proclama o número de inscritos e comunica ao TRE, com edital indicando o último eleitor inscrito. Na mesma data encerra-se a transferência. O juiz que despachar pedido de inscrição, transferência ou segunda via fora do prazo sofre as penas do art. 291.
+P: Audiência pública de encerramento do alistamento || Edital com o último inscrito || Encerramento da transferência || Sanção ao juiz que despacha fora do prazo
+K: encerramento do alistamento; audiência pública; edital; cadastro eleitoral
+
+@CE 69
+I: Os títulos resultantes de inscrição ou transferência devem ser entregues até 30 dias antes da eleição, e a segunda via pode ser entregue até a véspera do pleito.
+P: Entrega dos títulos até 30 dias antes || Segunda via até a véspera
+K: título eleitoral; entrega; prazo; segunda via
+
+@CE 70
+I: O alistamento reabre em cada zona assim que a junta eleitoral conclui seus trabalhos de apuração.
+P: Reabertura do alistamento após a apuração
+K: alistamento; reabertura; junta eleitoral
+
+@CE 71
+I: O artigo lista as causas de cancelamento da inscrição: infração aos arts. 5º e 42 (pessoa inalistável ou domicílio irregular), suspensão ou perda dos direitos políticos, inscrição em duplicidade, falecimento, ausência a três eleições consecutivas e, desde a Lei nº 15.358/2026, prisão provisória em qualquer modalidade. A exclusão pode ser promovida de ofício, por delegado de partido ou por eleitor. Autoridades que impõem a perda de direitos políticos e cartórios de registro civil (quanto aos óbitos) devem comunicar a Justiça Eleitoral. Havendo fraude comprovada, o TRE pode determinar a revisão do eleitorado.
+P: Causas de cancelamento da inscrição || Prisão provisória como causa (Lei nº 15.358/2026) || Exclusão de ofício ou a pedido || Comunicação de óbitos até o dia 15 de cada mês || Revisão do eleitorado em caso de fraude
+K: cancelamento de inscrição; exclusão de eleitor; direitos políticos; prisão provisória; revisão do eleitorado
+
+@CE 72
+I: Enquanto o processo de exclusão não termina, o eleitor pode votar validamente. Se o recurso contra o deferimento da inscrição for provido, os votos dos eleitores afetados são anulados quando bastarem para alterar a representação partidária ou o resultado da eleição majoritária.
+P: Voto válido até a exclusão || Nulidade dos votos se o recurso for provido e o número for decisivo
+K: exclusão; voto válido; nulidade; recurso
+
+@CE 73
+I: Na exclusão, a defesa pode ser feita pelo próprio eleitor, por outro eleitor ou por delegado de partido, o que amplia a proteção do direito de voto.
+P: Legitimidade ampla para a defesa || Proteção do direito de votar
+K: exclusão de eleitor; defesa; delegado de partido
+
+@CE 74
+I: O juiz eleitoral deve processar a exclusão de ofício sempre que souber de alguma causa de cancelamento.
+P: Atuação de ofício do juiz eleitoral || Dever de zelar pelo cadastro
+K: exclusão de ofício; cancelamento; juiz eleitoral
+
+@CE 75
+I: Ao constatar inscrição do mesmo eleitor em mais de uma zona, o TRE comunica o juiz competente, e o cancelamento recai preferencialmente na inscrição fora do domicílio eleitoral, na que não teve título entregue, na não usada na última eleição ou, por fim, na mais antiga.
+P: Duplicidade de inscrição || Critérios de preferência para o cancelamento
+K: duplicidade de inscrição; cancelamento; pluralidade; TRE
+
+@CE 76
+I: Qualquer interessado pode comunicar por escrito ao juiz eleitoral uma irregularidade que justifique a exclusão, seguindo-se o procedimento do art. 77.
+P: Comunicação de irregularidade por qualquer interessado || Procedimento do art. 77
+K: exclusão; representação; irregularidade; eleitor
+
+@CE 77
+I: O procedimento de exclusão tem autuação da petição, edital de 10 dias para ciência dos interessados, prazo de 5 dias para contestar, produção de provas de 5 a 10 dias, se pedida, e decisão em 5 dias. Garante-se assim o contraditório antes do cancelamento.
+P: Rito da exclusão || Edital de 10 dias e contestação em 5 dias || Provas e decisão em 5 dias || Contraditório
+K: procedimento de exclusão; edital; contestação; contraditório
+
+@CE 78
+I: Determinado o cancelamento por sentença, o cartório retira a folha de votação, faz as anotações nos livros e fichários, controla as vagas abertas na pasta e comunica o TRE.
+P: Providências do cartório após o cancelamento || Comunicação ao TRE
+K: cancelamento; cartório eleitoral; folha de votação; anotação
+
+@CE 79
+I: Na exclusão por falecimento notório, dispensam-se o edital e a contestação previstos no art. 77, II e III.
+P: Falecimento notório || Dispensa de edital e contestação
+K: falecimento; exclusão; procedimento simplificado

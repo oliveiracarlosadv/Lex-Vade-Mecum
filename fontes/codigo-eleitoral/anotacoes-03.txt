@@ -1,0 +1,199 @@
+@CE 80
+I: Contra a decisão do juiz eleitoral sobre exclusão cabe recurso ao TRE em 3 dias, interposto pelo eleitor que se pretende excluir ou por delegado de partido.
+P: Recurso ao TRE em 3 dias || Legitimidade do eleitor e do delegado de partido
+K: recurso eleitoral; exclusão; prazo de 3 dias; TRE
+
+@CE 81
+I: Cessada a causa do cancelamento, como o fim da suspensão dos direitos políticos, o interessado pode pedir novamente sua qualificação e inscrição como eleitor.
+P: Novo alistamento após cessar a causa || Restabelecimento da capacidade eleitoral
+K: reinscrição; cancelamento; direitos políticos; alistamento
+
+@CE 82
+I: O sufrágio é universal e direto, e o voto é obrigatório e secreto. A Constituição de 1988 repete esses princípios (art. 14) e torna o voto direto, secreto, universal e periódico cláusula pétrea (art. 60, § 4º, II).
+P: Sufrágio universal e direto || Voto obrigatório e secreto || Cláusula pétrea (CF, art. 60, § 4º, II)
+K: sufrágio universal; voto direto; voto secreto; voto obrigatório; cláusula pétrea
+
+@CE 83
+I: As eleições para Senador, Prefeito e Vice-Prefeito seguem o princípio majoritário: vence quem tem mais votos. A Constituição também adota o sistema majoritário para Presidente e Governador, com segundo turno quando ninguém alcança a maioria absoluta dos votos válidos (arts. 28 e 77), regra aplicada também a Prefeito em municípios com mais de 200 mil eleitores (art. 29, II).
+P: Princípio majoritário || Senado, Prefeito e Vice-Prefeito || Segundo turno nos casos constitucionais
+K: sistema majoritário; Senado; Prefeito; segundo turno; maioria absoluta
+
+@CE 84
+I: As eleições para Câmara dos Deputados, Assembleias Legislativas e Câmaras Municipais seguem a representação proporcional: as vagas são divididas entre os partidos conforme a votação de cada um, e só então entre os candidatos mais votados de cada partido. As regras de cálculo estão nos arts. 105 a 113.
+P: Representação proporcional || Deputados e vereadores || Distribuição das vagas pelos partidos
+K: sistema proporcional; deputados; vereadores; quociente eleitoral
+
+@CE 85
+I: As eleições para Presidente, Governador, Senador e Deputados federais e estaduais ocorrem ao mesmo tempo em todo o país. Pela Constituição, elas acontecem no primeiro domingo de outubro, com segundo turno no último domingo do mesmo mês (arts. 28 e 77).
+P: Eleições gerais simultâneas em todo o país || Primeiro domingo de outubro (CF, arts. 28 e 77)
+K: eleições gerais; simultaneidade; calendário eleitoral
+
+@CE 86
+I: A circunscrição eleitoral é o país, nas eleições presidenciais; o Estado, nas eleições federais e estaduais; e o município, nas eleições municipais. A circunscrição define onde o candidato concorre e onde seus votos são contados.
+P: Circunscrição nacional, estadual e municipal || Relação entre cargo e território
+K: circunscrição eleitoral; eleição presidencial; eleição municipal; eleição estadual
+
+@CE 87
+I: Só podem concorrer candidatos registrados por partidos: não há candidatura avulsa no Brasil, porque a filiação partidária é condição de elegibilidade (CF, art. 14, § 3º, V). O parágrafo único trata do período de registro, hoje regido pela Lei nº 9.504/1997 (arts. 9º a 11), que exige domicílio eleitoral e filiação pelo menos seis meses antes da eleição.
+P: Vedação de candidatura avulsa || Filiação partidária obrigatória || Prazos de registro na Lei nº 9.504/1997
+K: registro de candidatura; candidatura avulsa; filiação partidária; partidos políticos
+
+@CE 88
+I: Ninguém pode se registrar candidato por mais de uma circunscrição ou para mais de um cargo na mesma circunscrição. Nas eleições proporcionais, o candidato deve estar filiado ao partido na circunscrição pelo tempo exigido, hoje no mínimo seis meses antes da eleição (Lei nº 9.504/1997, art. 9º).
+P: Vedação de candidatura múltipla || Filiação na circunscrição || Prazo mínimo de filiação
+K: candidatura múltipla; filiação partidária; circunscrição; registro
+
+@CE 89
+I: O registro é feito no TSE para Presidente e Vice; nos TREs para Senador, Deputados federais e estaduais e Governador e Vice; e nos juízos eleitorais para Prefeito, Vice-Prefeito e Vereador. A eleição para juiz de paz, citada no texto, não é realizada na prática.
+P: Competência para o registro conforme o cargo || TSE, TRE ou juiz eleitoral
+K: registro de candidatura; competência; TSE; TRE; juiz eleitoral
+
+@CE 90
+I: Só podem lançar candidatos os partidos com órgão de direção registrado na circunscrição da eleição. A Lei nº 9.504/1997 (art. 4º) exige ainda que o partido tenha registro no TSE e órgão de direção constituído na circunscrição até seis meses antes do pleito.
+P: Exigência de diretório na circunscrição || Registro do partido no TSE (Lei nº 9.504/1997, art. 4º)
+K: partido político; diretório; órgão partidário; registro de candidatos
+
+@CE 91
+I: Os candidatos a Presidente e Vice, Governador e Vice e Prefeito e Vice são registrados em chapa única e indivisível. O candidato a Senador é registrado com seus suplentes. A Lei nº 14.211/2021 incluiu o § 3º, que permite coligações apenas nas eleições majoritárias, em linha com a Emenda Constitucional nº 97/2017, que proibiu coligações nas eleições proporcionais.
+P: Chapa única e indivisível || Senador registrado com os suplentes || Coligações só nas eleições majoritárias (EC nº 97/2017)
+K: chapa; vice; suplente de senador; coligação; eleição majoritária
+
+@CE 93
+I: O pedido de registro de candidatura deve ser apresentado até as 19 horas de 15 de agosto do ano da eleição, prazo improrrogável. As convenções partidárias ocorrem até 5 de agosto, e todos os pedidos, inclusive os impugnados, devem estar julgados pelas instâncias ordinárias até 20 dias antes da eleição. As regras foram alinhadas à Lei nº 9.504/1997 pela Lei nº 13.165/2015.
+P: Registro até 15 de agosto, às 19 horas || Convenções até 5 de agosto || Julgamento dos registros até 20 dias antes da eleição
+K: registro de candidatura; prazo; convenção partidária; calendário eleitoral
+
+@CE 94
+I: O registro é pedido pelo delegado do partido e deve ser instruído com a ata da convenção, a autorização do candidato, a prova de que é eleitor, a prova de filiação, certidões criminais e a declaração de bens, entre outros documentos. Hoje a lista de documentos está no art. 11, § 1º, da Lei nº 9.504/1997.
+P: Pedido feito pelo partido || Ata da convenção e autorização do candidato || Prova de alistamento, filiação e quitação || Documentos atuais na Lei nº 9.504/1997, art. 11
+K: pedido de registro; documentos; ata da convenção; filiação; certidões
+
+@CE 95
+I: O candidato pode ser registrado sem o prenome ou com nome abreviado, desde que não haja dúvida sobre sua identidade. A Lei nº 9.504/1997 (art. 12) permite usar apelido ou nome pelo qual é conhecido, vedados nomes que causem dúvida ou sejam ridículos.
+P: Nome abreviado no registro || Identidade sem dúvida || Nome de urna (Lei nº 9.504/1997, art. 12)
+K: nome de urna; nome do candidato; apelido; registro
+
+@CE 96
+I: O artigo negava registro a adepto de partido cassado com base no art. 141, § 13, da Constituição de 1946, que proibia partidos contrários ao regime democrático. A regra perdeu eficácia com a Constituição de 1988, que garante a liberdade de criação de partidos, desde que respeitados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais (art. 17).
+P: Remissão à Constituição de 1946 || Sem eficácia sob a Constituição de 1988 || Liberdade partidária (CF, art. 17)
+K: partido cassado; Constituição de 1946; liberdade partidária; registro
+
+@CE 97
+I: Protocolado o pedido de registro, publica-se edital, e candidatos e partidos podem impugná-lo em 2 dias. Qualquer eleitor também pode apontar inelegibilidade ou incompatibilidade. O partido tem 2 dias para responder. Hoje a impugnação de registro segue a Lei Complementar nº 64/1990 (arts. 3º a 16), com prazo de 5 dias e legitimidade de candidato, partido, coligação e Ministério Público, cabendo ao eleitor apenas a notícia de inelegibilidade.
+P: Edital do pedido de registro || Impugnação de registro de candidatura (AIRC) || Rito atual na LC nº 64/1990 || Notícia de inelegibilidade pelo eleitor
+K: impugnação de registro; AIRC; inelegibilidade; edital; LC nº 64/1990
+
+@CE 98
+I: Os militares alistáveis são elegíveis. O Código distingue militares com menos ou mais de cinco anos de serviço, mas a regra hoje é a do art. 14, § 8º, da Constituição: com menos de dez anos, o militar deve afastar-se da atividade; com mais de dez, é agregado e, se eleito, passa para a inatividade no ato da diplomação. O juízo que defere o registro comunica a autoridade militar.
+P: Elegibilidade dos militares || Regra constitucional dos dez anos (CF, art. 14, § 8º) || Agregação e passagem à inatividade || Comunicação à autoridade militar
+K: militar candidato; agregação; reserva; elegibilidade; CF art. 14 § 8º
+
+@CE 99
+I: Nas eleições majoritárias, um partido pode registrar candidato já registrado por outro, se o outro partido e o candidato consentirem por escrito até 10 dias antes da eleição. Sem esse consentimento, o registro é anulado. A regra deve ser lida com as normas atuais sobre coligações e prazos de registro.
+P: Registro do mesmo candidato por mais de um partido || Consentimento escrito || Anulação sem consentimento
+K: eleição majoritária; registro; consentimento; aliança partidária
+
+@CE 100
+I: O artigo trata do sorteio de séries numéricas para os partidos nas eleições proporcionais. Hoje a numeração dos candidatos segue o art. 15 da Lei nº 9.504/1997: o número do partido, com dois dígitos, mais dígitos que identificam cada candidato (quatro para Deputado Federal, cinco para Deputado Estadual e Vereador).
+P: Numeração dos candidatos proporcionais || Regras atuais na Lei nº 9.504/1997, art. 15
+K: número do candidato; legenda; eleição proporcional; numeração
+
+@CE 101
+I: O candidato pode pedir o cancelamento de seu registro, e o partido pode substituí-lo. Nas eleições majoritárias, em caso de morte ou renúncia, o partido pode indicar substituto, e os votos dados ao anterior são computados para o novo. Hoje a substituição segue o art. 13 da Lei nº 9.504/1997, que exige o pedido até 20 dias antes da eleição, salvo em caso de falecimento.
+P: Renúncia à candidatura || Substituição pelo partido || Voto no substituto || Prazo atual da Lei nº 9.504/1997, art. 13
+K: renúncia; substituição de candidato; cancelamento de registro
+
+@CE 102
+I: Os registros feitos pelo TSE são comunicados aos TREs e, por estes, aos juízes eleitorais, para que toda a Justiça Eleitoral tenha os dados dos candidatos.
+P: Comunicação dos registros às instâncias inferiores
+K: registro; comunicação; TSE; TRE
+
+@CE 103
+I: O sigilo do voto é garantido pela cédula oficial, pela cabine indevassável, pela conferência das rubricas e por urna inviolável. Com a urna eletrônica, o sigilo é assegurado pela cabine e pela separação entre a identificação do eleitor e o registro do voto (Lei nº 9.504/1997, arts. 59 e seguintes).
+P: Garantias do sigilo do voto || Cabine indevassável || Urna inviolável || Urna eletrônica
+K: sigilo do voto; voto secreto; cabine; urna eletrônica
+
+@CE 104
+I: As cédulas oficiais são confeccionadas e distribuídas só pela Justiça Eleitoral. Nas eleições majoritárias, a ordem dos nomes é definida por sorteio em audiência, e há regras para posicionar candidatos substitutos. Com a votação eletrônica, a cédula de papel é usada apenas de forma excepcional, quando não é possível usar a urna.
+P: Cédula oficial confeccionada pela Justiça Eleitoral || Ordem dos nomes por sorteio || Substituição após o sorteio || Uso excepcional da cédula de papel
+K: cédula oficial; sorteio; votação manual; urna eletrônica
+
+@CE 106
+I: O quociente eleitoral é obtido dividindo-se os votos válidos pelo número de vagas, desprezando-se a fração igual ou inferior a meio e arredondando para cima a superior. Votos válidos são os dados a candidatos e legendas, excluídos brancos e nulos (Lei nº 9.504/1997, art. 5º). O parágrafo único, que mandava contar os votos em branco, foi revogado.
+P: Cálculo do quociente eleitoral || Votos válidos sem brancos e nulos || Arredondamento da fração
+K: quociente eleitoral; votos válidos; voto em branco; sistema proporcional
+
+@CE 107
+I: O quociente partidário de cada partido é obtido dividindo-se seus votos válidos (nominais e de legenda) pelo quociente eleitoral, desprezada a fração. O resultado indica quantas vagas o partido obtém na primeira distribuição. A redação atual é da Lei nº 14.211/2021, que retirou a menção às coligações.
+P: Cálculo do quociente partidário || Votos nominais e de legenda || Número inicial de cadeiras por partido
+K: quociente partidário; sistema proporcional; votos de legenda; cadeiras
+
+@CE 108
+I: Dentro de cada partido, são eleitos os candidatos com votação nominal de pelo menos 10% do quociente eleitoral, na ordem de votação e até o número indicado pelo quociente partidário. Essa cláusula de desempenho individual evita a eleição de candidatos com votação muito baixa apenas pelos votos do partido. As vagas não preenchidas por falta de candidatos com essa votação vão para a distribuição das sobras (art. 109).
+P: Votação nominal mínima de 10% do quociente eleitoral || Ordem de votação dentro do partido || Vagas não preenchidas vão para as sobras
+K: cláusula de desempenho; votação nominal mínima; puxador de votos; sistema proporcional
+
+@CE 109
+I: O artigo regula a distribuição das sobras, as vagas não preenchidas pelos quocientes partidários. Divide-se a votação de cada partido pelo número de vagas obtidas mais um, e a maior média leva a vaga, repetindo-se a operação. Na primeira fase, participam os partidos com candidato que tenha a votação nominal mínima e que atendam às exigências do artigo. Quando nenhum partido cumpre essas exigências, as cadeiras vão às maiores médias. O STF analisou as regras das sobras incluídas pela Lei nº 14.211/2021 nas ADIs 7.228, 7.263 e 7.325 e decidiu que todos os partidos podem participar da última etapa de distribuição.
+P: Sistema de maiores médias para as sobras || Exigências de desempenho do partido e do candidato || Última etapa aberta a todos os partidos (ADIs 7.228, 7.263 e 7.325)
+K: sobras eleitorais; maiores médias; distribuição de cadeiras; ADI 7.228
+
+@CE 110
+I: Havendo empate entre candidatos na eleição proporcional, é eleito o mais idoso.
+P: Desempate pela idade || Preferência ao candidato mais idoso
+K: empate; candidato mais idoso; critério de desempate
+
+@CE 111
+I: Se nenhum partido alcançar o quociente eleitoral, são eleitos os candidatos mais votados até preencher todas as vagas. A redação é da Lei nº 14.211/2021 e também foi analisada pelo STF nas ações sobre a distribuição das sobras.
+P: Nenhum partido com quociente eleitoral || Eleição dos mais votados
+K: quociente eleitoral; mais votados; sistema proporcional
+
+@CE 112
+I: São suplentes os candidatos mais votados do partido que não foram eleitos, na ordem de votação, desempatando-se pela idade. Para ser suplente não se exige a votação mínima de 10% do quociente eleitoral. O STF entende que o mandato proporcional pertence ao partido, de modo que a vaga fica com o suplente do partido.
+P: Ordem dos suplentes pela votação || Desempate pela idade || Sem exigência de votação mínima para suplentes
+K: suplente; representação partidária; fidelidade partidária; mandato
+
+@CE 113
+I: Se surgir vaga e não houver suplente, faz-se nova eleição, salvo se faltarem menos de nove meses para o fim do mandato. Para Deputados e Senadores, a Constituição prevê eleição se faltarem mais de quinze meses para o fim do mandato (art. 56, § 2º).
+P: Vaga sem suplente || Nova eleição, salvo menos de nove meses do fim do mandato || Regra constitucional para o Congresso (CF, art. 56, § 2º)
+K: vacância; eleição para preencher vaga; suplente; mandato
+
+@CE 114
+I: Até 70 dias antes da eleição, os pedidos de inscrição e transferência devem estar processados e os títulos prontos. O juiz, o escrivão ou o servidor que descumprir a regra ou não entregar o título pronto ao eleitor responde nos termos do art. 293.
+P: Títulos prontos até 70 dias antes || Responsabilidade dos servidores (art. 293)
+K: título eleitoral; prazo; preparação da eleição; responsabilidade
+
+@CE 115
+I: Os juízes eleitorais devem informar ao TRE, até 30 dias antes de cada eleição, o número de eleitores alistados, sob pena de responsabilidade.
+P: Comunicação do número de eleitores ao TRE || Prazo de 30 dias antes da eleição
+K: eleitorado; estatística; juiz eleitoral; TRE
+
+@CE 116
+I: A Justiça Eleitoral deve divulgar amplamente, por rádio, televisão e cartazes, os nomes dos candidatos registrados, o partido e, para deputado e vereador, o número de cada um. Hoje a divulgação é feita sobretudo pelos sistemas e portais da Justiça Eleitoral.
+P: Divulgação dos candidatos registrados || Nome, partido e número
+K: divulgação; candidatos; publicidade; Justiça Eleitoral
+
+@CE 117
+I: As seções eleitorais têm até 400 eleitores nas capitais e 300 nas demais localidades, e no mínimo 50. O TRE pode autorizar exceções justificadas para aproximar o eleitor do local de votação. Seções para pessoas cegas são completadas com outros eleitores se não atingirem o mínimo. Com a urna eletrônica, os limites passaram a ser fixados também pelas normas do TSE.
+P: Limites de eleitores por seção || Exceções autorizadas pelo TRE || Seção para pessoas cegas
+K: seção eleitoral; número de eleitores; organização da votação
+
+@CE 118
+I: O juiz eleitoral organiza a lista de eleitores de cada seção e a envia aos presidentes das mesas receptoras para facilitar a votação. Hoje o caderno de votação é emitido pelo sistema da Justiça Eleitoral.
+P: Relação de eleitores por seção || Envio às mesas receptoras
+K: caderno de votação; seção eleitoral; mesa receptora
+
+@CE 119
+I: Cada seção eleitoral tem uma mesa receptora de votos, responsável por conduzir a votação.
+P: Uma mesa receptora por seção
+K: mesa receptora; seção eleitoral; votação
+
+@CE 120
+I: A mesa receptora é composta por presidente, primeiro e segundo mesários, dois secretários e um suplente, nomeados pelo juiz 60 dias antes da eleição em audiência pública. Não podem ser mesários candidatos e seus parentes até o segundo grau e cônjuges, membros executivos de diretórios partidários, autoridades policiais, servidores em cargos de confiança do Executivo e servidores eleitorais. Prefere-se nomear eleitores da própria seção, com prioridade para quem tem curso superior, professores e servidores da Justiça.
+P: Composição da mesa receptora || Nomeação 60 dias antes da eleição || Impedimentos para ser mesário || Preferência por eleitores da seção
+K: mesário; mesa receptora; nomeação; impedimentos; serviço eleitoral
+
+@CE 121
+I: Qualquer partido pode reclamar ao juiz da nomeação da mesa em 2 dias, com decisão em igual prazo e recurso ao TRE em 3 dias. Se o impedimento surgir depois, o prazo conta do fato. O partido que não reclamou não pode depois alegar a nulidade da seção por esse motivo (preclusão).
+P: Reclamação contra a composição da mesa em 2 dias || Recurso ao TRE em 3 dias || Preclusão para o partido que não reclamou
+K: mesa receptora; reclamação; preclusão; nulidade da seção

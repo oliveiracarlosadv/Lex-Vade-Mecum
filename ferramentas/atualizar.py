@@ -20,7 +20,7 @@ import argparse, json, os, re, subprocess, sys, datetime
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FERR = os.path.join(RAIZ, 'ferramentas')
 
-LAB = r'(?:Art\.[ \xa0]?\d+(?:\.\d{3})?(?:º|o|°)?(?:-[A-Z])?\.?|§ ?\d+(?:º|o|°)?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? ?[-–]|[a-z]\))'
+LAB = r'(?:(?:Art|Ar|At)\.[ \xa0]?\d+(?:\.\d{3})?(?:º|o|°)?(?:-[A-Z])?\.?|§ ?\d+(?:º|o|°)?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])? ?[-–]|[a-z]\))'
 
 
 def converter_tachados(t):
@@ -56,7 +56,7 @@ def descartar_vigencia_encerrada(t):
     linhas = [l for l in t.split('\n') if not encerrada(l)]
     # Artigo com versão vigente (não tachada): versões tachadas do mesmo artigo são histórico
     # e saem junto com os parágrafos tachados que as acompanham.
-    rot = re.compile(r'^\W*⟦?\s*Art\.?\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(?:º|o|°)?(-[A-Z]|[A-Z](?=[.\s-]))?')
+    rot = re.compile(r'^\W*⟦?\s*(?:Art\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(?:º|o|°)?(-[A-Z]|[A-Z](?=[.\s-]))?')
     def num(l):
         m = rot.match(l.replace('\xa0', ' '))
         return m and (m.group(1).replace('.', '') + (m.group(2) or '').lstrip('-'))

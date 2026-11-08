@@ -1,0 +1,199 @@
+@CE 1
+I: O Código Eleitoral reúne as normas que organizam o exercício dos direitos políticos, sobretudo o direito de votar (capacidade eleitoral ativa) e o de ser votado (capacidade eleitoral passiva). O parágrafo único dá ao TSE o poder de expedir Instruções para a fiel execução do Código. Esse poder regulamentar é limitado pelo art. 23-A: só alcança matérias autorizadas em lei e não pode tratar da organização dos partidos políticos.
+P: Objeto do Código: organização e exercício dos direitos políticos || Votar e ser votado || Poder regulamentar do TSE por Instruções (resoluções), limitado pelo art. 23-A
+K: Código Eleitoral; direitos políticos; votar e ser votado; poder regulamentar do TSE; resoluções do TSE
+
+@CE 2
+I: O artigo afirma a soberania popular: o poder emana do povo e é exercido por representantes eleitos pelo voto direto e secreto, escolhidos entre candidatos indicados por partidos políticos. A eleição indireta só cabe nos casos da Constituição e das leis. Hoje a regra se lê com a Constituição de 1988 (art. 1º, parágrafo único, e art. 14), que também prevê o exercício direto do poder por plebiscito, referendo e iniciativa popular, e com a exigência de filiação partidária como condição de elegibilidade (art. 14, § 3º, V).
+P: Soberania popular || Voto direto e secreto || Candidaturas apenas por partidos políticos || Eleição indireta só nos casos previstos
+K: soberania popular; voto direto; voto secreto; partidos políticos; eleição indireta
+
+@CE 3
+I: Qualquer cidadão pode disputar cargo eletivo, desde que preencha as condições de elegibilidade e não incida em causa de inelegibilidade ou incompatibilidade. As condições de elegibilidade estão no art. 14, § 3º, da Constituição (nacionalidade, pleno exercício dos direitos políticos, alistamento, domicílio eleitoral, filiação partidária e idade mínima), e as inelegibilidades no próprio art. 14 e na Lei Complementar nº 64/1990.
+P: Direito de ser votado || Condições de elegibilidade (CF, art. 14, § 3º) || Inelegibilidades (CF, art. 14, e LC nº 64/1990)
+K: elegibilidade; inelegibilidade; incompatibilidade; candidatura; capacidade eleitoral passiva
+
+@CE 4
+I: São eleitores os brasileiros maiores de 18 anos que se alistarem. O próprio texto remete ao art. 14 da Constituição, que hoje rege a matéria: o alistamento e o voto são obrigatórios para maiores de 18 anos e facultativos para analfabetos, maiores de 70 anos e jovens entre 16 e 18 anos. Estrangeiros e, durante o serviço militar obrigatório, os conscritos não podem se alistar.
+P: Capacidade eleitoral ativa a partir do alistamento || Obrigatoriedade aos 18 anos || Voto facultativo de 16 a 18 anos, analfabetos e maiores de 70 (CF, art. 14, § 1º)
+K: eleitor; alistamento eleitoral; idade para votar; voto facultativo; capacidade eleitoral ativa
+
+@CE 5
+I: O artigo lista quem não pode se alistar como eleitor. O inciso I (analfabetos) não foi recebido pela Constituição de 1988, que torna o alistamento facultativo para eles, como indica a nota do próprio texto. O inciso III impede o alistamento de quem está privado dos direitos políticos. O inciso IV, incluído pela Lei nº 15.358/2026, impede o alistamento das pessoas recolhidas a estabelecimento prisional enquanto durar a privação de liberdade, mesmo sem condenação definitiva. O parágrafo único trata dos militares, que se leem hoje com o art. 14, § 2º, da Constituição: só os conscritos, durante o serviço militar obrigatório, são inalistáveis.
+P: Analfabetos podem se alistar (CF, art. 14, § 1º, II, "a") || Privados dos direitos políticos não se alistam || Pessoas presas não se alistam enquanto durar a privação de liberdade (Lei nº 15.358/2026) || Militares: regra constitucional dos conscritos
+K: inalistáveis; analfabetos; direitos políticos; pessoa presa; militares; conscritos
+
+@CE 6
+I: O alistamento e o voto são obrigatórios para brasileiros de ambos os sexos, com exceções. Quanto ao alistamento, ficam dispensados os inválidos, os maiores de 70 anos e os que estão fora do país. Quanto ao voto, ficam dispensados os enfermos, os que estão fora do domicílio e os servidores civis e militares em serviço que os impeça de votar. As hipóteses de facultatividade devem ser lidas com o art. 14, § 1º, da Constituição.
+P: Obrigatoriedade do alistamento e do voto || Exceções ao alistamento: inválidos, maiores de 70, residentes no exterior || Exceções ao voto: enfermos, fora do domicílio, servidores em serviço
+K: voto obrigatório; alistamento obrigatório; justificativa eleitoral; maiores de 70 anos; enfermos
+
+@CE 7
+I: O eleitor que não vota e não justifica a ausência em até 30 dias após a eleição paga multa de 3% a 10% do salário-mínimo, fixada pelo juiz eleitoral. Sem prova de que votou, pagou a multa ou se justificou, o eleitor não pode, entre outros atos, tomar posse em cargo público, receber remuneração de órgão público, participar de licitações, obter passaporte ou carteira de identidade e renovar matrícula em escola pública ou fiscalizada. O inciso IV foi revogado pela Lei nº 14.690/2023. A inscrição de quem deixa de votar em três eleições consecutivas sem justificar nem pagar a multa é cancelada (§ 3º), e o eleitor no exterior pode obter novo passaporte para retornar ao Brasil (§ 4º).
+P: Justificativa em até 30 dias após a eleição || Multa de 3% a 10% do salário-mínimo || Restrições sem quitação eleitoral || Cancelamento após três eleições sem votar, justificar ou pagar a multa || Exceção do passaporte para o eleitor no exterior
+K: quitação eleitoral; justificativa de ausência; multa eleitoral; cancelamento de inscrição; passaporte
+
+@CE 8
+I: O brasileiro nato que não se alista até os 19 anos, ou o naturalizado que não se alista até um ano após a naturalização, paga multa de 3% a 10% do salário-mínimo, cobrada no ato da inscrição. Não há multa para quem pede a inscrição até o 101º dia antes da eleição seguinte à data em que completou 19 anos (parágrafo único, incluído pela Lei nº 9.041/1995).
+P: Prazo de alistamento: 19 anos (nato) ou 1 ano após a naturalização || Multa cobrada na inscrição || Isenção para quem se alista até 101 dias antes da eleição seguinte aos 19 anos
+K: alistamento tardio; multa eleitoral; naturalizado; 19 anos; inscrição eleitoral
+
+@CE 9
+I: Os responsáveis por não cumprir as exigências dos arts. 7º e 8º, como servidores que deixam de exigir a prova de quitação eleitoral, sofrem multa de 1 a 3 salários-mínimos ou suspensão disciplinar de até 30 dias.
+P: Sanção a quem descumpre os arts. 7º e 8º || Multa de 1 a 3 salários-mínimos || Suspensão disciplinar de até 30 dias
+K: responsabilidade do servidor; multa; suspensão disciplinar; quitação eleitoral
+
+@CE 10
+I: O juiz eleitoral fornece documento que isenta das sanções legais quem deixou de votar por motivo justificado e quem não é obrigado a se alistar (arts. 5º e 6º, I). Esse documento comprova a regularidade da situação eleitoral.
+P: Documento de isenção de sanções || Ausência justificada || Dispensados do alistamento
+K: justificativa eleitoral; isenção; certidão; juiz eleitoral
+
+@CE 11
+I: O eleitor que não votou nem pagou a multa e está fora de sua zona pode pagá-la no juízo eleitoral onde estiver, para obter a quitação. A multa é cobrada no valor máximo, salvo se o eleitor preferir aguardar informações do juízo de inscrição sobre o valor arbitrado. Após o pagamento, o juiz que recebeu a multa comunica o juízo de inscrição e entrega o comprovante.
+P: Pagamento da multa em outra zona eleitoral || Cobrança pelo valor máximo, salvo consulta ao juízo de origem || Comunicação ao juízo de inscrição
+K: multa eleitoral; quitação eleitoral; zona eleitoral; pagamento
+
+@CE 12
+I: O artigo indica os órgãos da Justiça Eleitoral: o Tribunal Superior Eleitoral, com sede na Capital e jurisdição nacional; um Tribunal Regional Eleitoral em cada capital de Estado e no Distrito Federal; as juntas eleitorais; e os juízes eleitorais. A mesma composição consta do art. 118 da Constituição de 1988.
+P: TSE, TREs, juízes e juntas eleitorais || Jurisdição nacional do TSE || Um TRE por Estado e no DF (CF, art. 118)
+K: Justiça Eleitoral; TSE; TRE; juntas eleitorais; juízes eleitorais
+
+@CE 13
+I: O número de juízes dos Tribunais Regionais Eleitorais não pode ser reduzido, mas pode ser elevado até nove, mediante proposta do TSE. A composição atual dos TREs, com sete membros, decorre do art. 120 da Constituição.
+P: Vedação de redução do número de juízes dos TREs || Possibilidade de aumento por proposta do TSE || Composição constitucional dos TREs (CF, art. 120)
+K: Tribunal Regional Eleitoral; composição; número de juízes; proposta do TSE
+
+@CE 14
+I: Os juízes dos tribunais eleitorais servem por dois anos, no mínimo, e nunca por mais de dois biênios seguidos, regra também prevista no art. 121, § 2º, da Constituição. Os biênios contam-se sem descontar afastamentos. Da homologação da convenção partidária até a diplomação, não pode atuar como juiz eleitoral o cônjuge ou parente até o segundo grau de candidato registrado na circunscrição (§ 3º, com redação da Lei nº 13.165/2015). A recondução exige as mesmas formalidades da primeira investidura.
+P: Mandato de dois anos, com no máximo dois biênios consecutivos || Contagem sem desconto de afastamentos || Impedimento de cônjuge e parentes de candidato || Recondução com as formalidades da primeira investidura
+K: biênio; juízes eleitorais; impedimento; parentesco; recondução; rodízio
+
+@CE 15
+I: Os substitutos dos membros efetivos dos tribunais eleitorais são escolhidos no mesmo momento e pelo mesmo processo dos titulares, em número igual para cada categoria (magistrados e juristas).
+P: Escolha simultânea de titulares e substitutos || Mesmo processo de escolha || Número igual por categoria
+K: substitutos; membros dos tribunais eleitorais; composição; categoria
+
+@CE 16
+I: O artigo trata da composição do TSE: juízes eleitos entre ministros do STF e do antigo Tribunal Federal de Recursos e advogados nomeados pelo Presidente da República a partir de lista do STF. A Constituição de 1988 (art. 119) fixa hoje sete membros: três ministros do STF, dois do STJ (que substituiu o TFR) e dois advogados. Não podem integrar o TSE parentes até o quarto grau, e o advogado nomeado não pode ocupar cargo demissível ad nutum, ser sócio de empresa favorecida pela administração ou exercer mandato político.
+P: Composição do TSE (CF, art. 119) || Ministros do STF e do STJ, eleitos por voto secreto || Dois advogados nomeados a partir de lista do STF || Vedação de parentesco e impedimentos dos advogados
+K: TSE; composição; ministros; advogados; quinto; parentesco
+
+@CE 17
+I: O TSE elege seu presidente entre os ministros do STF, cabendo ao outro ministro do STF a vice-presidência, e escolhe o Corregedor-Geral Eleitoral entre seus membros (pela Constituição, entre os ministros do STJ, art. 119, parágrafo único). O Corregedor-Geral tem atribuições fixadas pelo TSE e se desloca aos Estados por determinação do Tribunal, a pedido dos TREs, a requerimento de partido ou quando entender necessário. Seus provimentos vinculam corregedores regionais.
+P: Presidência e vice-presidência por ministros do STF || Corregedor-Geral da Justiça Eleitoral || Hipóteses de deslocamento aos Estados || Provimentos vinculantes da Corregedoria
+K: presidência do TSE; Corregedor-Geral Eleitoral; corregedoria; provimentos
+
+@CE 18
+I: O Procurador-Geral da República exerce as funções de Procurador-Geral Eleitoral junto ao TSE e pode designar outros membros do Ministério Público da União para auxiliá-lo, sem que tenham assento no Tribunal. A Lei Complementar nº 75/1993 (arts. 72 a 80) hoje detalha o Ministério Público Eleitoral.
+P: PGR como Procurador-Geral Eleitoral || Designação de auxiliares do MPU || Ministério Público Eleitoral (LC nº 75/1993)
+K: Procurador-Geral Eleitoral; Ministério Público Eleitoral; PGR; TSE
+
+@CE 19
+I: O TSE decide por maioria de votos, em sessão pública, com a maioria de seus membros presente. Exige-se a presença de todos os membros para decidir sobre a interpretação do Código em face da Constituição, a cassação de registro de partido e recursos que levem à anulação geral de eleições ou à perda de diplomas. Havendo impedimento, convoca-se o substituto.
+P: Deliberação por maioria em sessão pública || Quórum completo para matérias de maior gravidade || Convocação de substituto em caso de impedimento
+K: quórum; TSE; sessão pública; anulação de eleições; perda de diploma
+
+@CE 20
+I: Perante o TSE, qualquer interessado pode arguir a suspeição ou o impedimento de seus membros, do Procurador-Geral ou de servidores, nos casos das leis processuais e também por parcialidade partidária. A suspeição é ilegítima quando a própria parte a provoca ou, conhecida a causa, pratica ato que indique aceitação do arguido.
+P: Suspeição e impedimento perante o TSE || Parcialidade partidária como causa || Suspeição provocada ou aceita é ilegítima
+K: suspeição; impedimento; parcialidade partidária; TSE
+
+@CE 21
+I: Tribunais regionais e juízes eleitorais devem cumprir de imediato as decisões, mandados, instruções e demais atos do TSE, o que garante a uniformidade da Justiça Eleitoral em todo o país.
+P: Cumprimento imediato das decisões do TSE || Hierarquia na Justiça Eleitoral || Uniformidade das instruções
+K: TSE; cumprimento de decisões; instruções; hierarquia
+
+@CE 22
+I: O artigo fixa a competência originária e recursal do TSE: registro e cassação de partidos e de candidatos a Presidente e Vice-Presidente, conflitos de jurisdição entre tribunais de Estados diferentes, crimes eleitorais de seus juízes e dos juízes dos TREs, habeas corpus e mandado de segurança contra certos atos, impugnações à eleição presidencial e ação rescisória em casos de inelegibilidade, entre outros. O STF (ADI 1.459) declarou inconstitucional a parte da alínea "j" que permitia exercer o mandato até o trânsito em julgado da rescisória. Parte da alínea "e" teve a execução suspensa pelo Senado. As decisões do TSE são irrecorríveis, salvo as hipóteses do art. 281 (e do art. 121, § 3º, da Constituição).
+P: Competência originária do TSE || Ação rescisória eleitoral em até 120 dias, só para inelegibilidade || ADI 1.459: sem exercício do mandato até o trânsito em julgado da rescisória || Irrecorribilidade, salvo exceções constitucionais
+K: competência do TSE; ação rescisória eleitoral; registro de partidos; habeas corpus eleitoral; mandado de segurança eleitoral
+
+@CE 23
+I: O artigo lista competências privativas do TSE, de natureza administrativa e normativa: elaborar o regimento, organizar a secretaria, fixar datas de eleições quando a lei não o fizer, aprovar a divisão em zonas, expedir instruções para executar o Código, responder a consultas em tese feitas por autoridade com jurisdição federal ou órgão nacional de partido, requisitar força federal e organizar a súmula de sua jurisprudência. O poder de expedir instruções (inciso IX) é limitado pelo art. 23-A.
+P: Competências administrativas e normativas do TSE || Instruções para a execução do Código || Consultas em tese (inciso XII) || Requisição de força federal
+K: competência privativa do TSE; consulta eleitoral; instruções; força federal; zonas eleitorais
+
+@CE 23-A
+I: Incluído pela Lei nº 14.211/2021, o artigo limita o poder regulamentar do TSE previsto no art. 1º, parágrafo único, e no art. 23, IX: as resoluções só podem tratar de matérias autorizadas em lei, e o TSE não pode regular a organização interna dos partidos políticos, que é assunto de sua autonomia (CF, art. 17, § 1º).
+P: Limite legal ao poder normativo do TSE || Vedação de regular a organização dos partidos || Autonomia partidária (CF, art. 17, § 1º)
+K: poder regulamentar; resoluções do TSE; autonomia partidária; Lei nº 14.211/2021
+
+@CE 24
+I: O Procurador-Geral Eleitoral, como chefe do Ministério Público Eleitoral, participa das sessões do TSE, exerce a ação pública nos feitos de competência originária, oficia nos recursos, defende a jurisdição do Tribunal e zela pela aplicação uniforme das leis eleitorais, entre outras funções.
+P: Chefia do Ministério Público Eleitoral || Atuação nas sessões e nos recursos do TSE || Ação pública nos feitos originários || Fiscalização da aplicação uniforme das leis eleitorais
+K: Procurador-Geral Eleitoral; Ministério Público Eleitoral; atribuições; ação pública
+
+@CE 25
+I: O artigo disciplina a composição dos Tribunais Regionais Eleitorais: dois desembargadores e dois juízes de direito escolhidos pelo Tribunal de Justiça, um juiz federal e dois juristas nomeados pelo Presidente da República a partir de lista do Tribunal de Justiça. A mesma estrutura consta do art. 120 da Constituição de 1988, que confia ao Tribunal Regional Federal a escolha do juiz federal. Os parágrafos tratam de impedimentos, como parentesco e vínculos com a administração.
+P: Sete membros por TRE (CF, art. 120) || Desembargadores, juízes de direito, juiz federal e juristas || Lista tríplice do Tribunal de Justiça para os juristas || Impedimentos de parentesco e vínculos
+K: TRE; composição; desembargadores; juristas; lista tríplice
+
+@CE 26
+I: O Presidente e o Vice-Presidente do TRE são eleitos entre os desembargadores (regra hoje no art. 120, § 2º, da Constituição). As atribuições do Corregedor Regional são fixadas pelo TSE e, de forma complementar, pelo TRE. Ele se desloca às zonas eleitorais por determinação dos tribunais, a pedido dos juízes, a requerimento de partido ou quando necessário.
+P: Presidência e vice-presidência por desembargadores || Corregedor Regional Eleitoral || Hipóteses de deslocamento às zonas
+K: TRE; presidência; Corregedor Regional Eleitoral; correição
+
+@CE 27
+I: O Procurador Regional Eleitoral, junto a cada TRE, é um Procurador da República designado pelo Procurador-Geral. Ele exerce perante o TRE as atribuições do Procurador-Geral e pode requisitar membros do Ministério Público local para auxiliá-lo, com autorização prévia. A regra do § 1º sobre o Distrito Federal deve ser lida com a Lei Complementar nº 75/1993.
+P: Procurador Regional Eleitoral || Designação pelo Procurador-Geral || Auxílio de membros do Ministério Público local
+K: Procurador Regional Eleitoral; Ministério Público Eleitoral; TRE; designação
+
+@CE 28
+I: Os TREs decidem por maioria de votos, em sessão pública, com a maioria dos membros. Em caso de impedimento sem quórum, convoca-se membro da mesma categoria. Pode-se arguir a suspeição de membros, do Procurador Regional, de servidores e de juízes e escrivães eleitorais, com recurso ao TSE. Os demais parágrafos tratam do quórum para matérias graves, como no TSE.
+P: Deliberação por maioria em sessão pública || Substituição por membro da mesma categoria || Suspeição perante o TRE, com recurso ao TSE
+K: TRE; quórum; suspeição; sessão pública
+
+@CE 29
+I: O artigo fixa a competência dos TREs: registro de diretórios estaduais e municipais e de candidatos a Governador, Vice-Governador, Senador e Deputados, conflitos de jurisdição entre juízes do Estado, suspeições, crimes eleitorais de juízes eleitorais, habeas corpus e mandados de segurança contra certas autoridades, e julgamento dos recursos contra decisões de juízes e juntas.
+P: Competência originária dos TREs || Registro de candidatos a cargos estaduais e federais (exceto Presidente) || Julgamento de recursos contra juízes e juntas eleitorais
+K: competência do TRE; registro de candidatos; recursos eleitorais; habeas corpus
+
+@CE 30
+I: O artigo lista competências privativas dos TREs, como elaborar o regimento, organizar a secretaria e a corregedoria, conceder licenças, fixar datas de certas eleições quando a lei não o fizer, dividir a circunscrição em zonas com aprovação do TSE, apurar eleições estaduais e responder a consultas em tese sobre matéria eleitoral.
+P: Competências administrativas dos TREs || Divisão em zonas eleitorais, com aprovação do TSE || Consultas em tese no âmbito regional
+K: competência privativa do TRE; zonas eleitorais; consulta; regimento interno
+
+@CE 31
+I: Se um Território não tiver Tribunal Regional, sua circunscrição eleitoral fica sob a jurisdição do TRE indicado pelo TSE. Hoje não há Territórios Federais, mas a regra continua prevista para o caso de sua criação.
+P: Território sem TRE || Designação de TRE pelo TSE || Regra sem aplicação prática atual
+K: Territórios; jurisdição eleitoral; TRE; circunscrição
+
+@CE 32
+I: A jurisdição de cada zona eleitoral cabe a um juiz de direito em exercício, com as garantias da magistratura (hoje CF, art. 95), ou ao seu substituto legal. Havendo várias varas, o TRE designa a que cuidará do serviço eleitoral.
+P: Juiz eleitoral é juiz de direito estadual || Garantias da magistratura || Designação da vara pelo TRE
+K: juiz eleitoral; zona eleitoral; juiz de direito; jurisdição
+
+@CE 33
+I: Onde houver mais de um cartório, o juiz indica ao TRE qual terá a escrivania eleitoral, por dois anos. Não pode ser escrivão eleitoral membro de diretório partidário, candidato ou seu cônjuge e parentes até o segundo grau. A substituição segue a lei de organização judiciária local.
+P: Escrivania eleitoral por dois anos || Impedimentos do escrivão eleitoral || Substituição pela lei de organização judiciária
+K: escrivão eleitoral; cartório eleitoral; impedimento; parentesco
+
+@CE 34
+I: Os juízes eleitorais devem despachar todos os dias na sede de sua zona eleitoral, o que assegura atendimento contínuo aos eleitores e partidos.
+P: Despacho diário na sede da zona || Presença do juiz na zona eleitoral
+K: juiz eleitoral; zona eleitoral; despacho; expediente
+
+@CE 35
+I: O artigo lista a competência dos juízes eleitorais: cumprir decisões dos tribunais, processar e julgar crimes eleitorais e os comuns conexos (salvo competência originária), decidir habeas corpus e mandados de segurança eleitorais, dirigir o alistamento, expedir títulos, dividir a zona em seções, nomear mesários e tomar as providências para a eleição. O STF (Inq 4.435) reconheceu que cabe à Justiça Eleitoral julgar crimes comuns conexos aos eleitorais.
+P: Competência penal: crimes eleitorais e conexos (STF, Inq 4.435) || Direção do alistamento e da votação na zona || Nomeação de mesários e divisão em seções
+K: competência do juiz eleitoral; crimes eleitorais; conexão; alistamento; mesários
+
+@CE 36
+I: As juntas eleitorais são compostas por um juiz de direito, que as preside, e dois ou quatro cidadãos de notória idoneidade, nomeados 60 dias antes da eleição após aprovação do TRE. Os nomes são publicados antes, e qualquer partido pode impugná-los em três dias. Não podem integrar as juntas candidatos e seus parentes, membros de diretórios partidários, autoridades policiais e servidores em cargos de confiança do Executivo, entre outros.
+P: Composição da junta eleitoral || Nomeação 60 dias antes da eleição || Impugnação partidária em 3 dias || Impedimentos dos membros
+K: junta eleitoral; composição; impedimentos; impugnação; apuração
+
+@CE 37
+I: Podem ser organizadas tantas juntas quantos forem os juízes de direito com garantias da magistratura disponíveis, mesmo que não sejam juízes eleitorais. Havendo várias juntas, ou estando vago ou impedido o juiz eleitoral, o presidente do TRE designa juízes da mesma ou de outras comarcas para presidi-las.
+P: Número de juntas conforme os juízes disponíveis || Presidência por juízes de direito || Designação pelo presidente do TRE
+K: junta eleitoral; organização; juiz de direito; designação
+
+@CE 38
+I: O presidente da junta pode nomear escrutinadores e auxiliares de notória idoneidade, sendo obrigatória a nomeação quando houver mais de dez urnas. Cada turma tem um secretário, e há um secretário-geral que lavra as atas, recebe os recursos e totaliza os votos.
+P: Nomeação de escrutinadores e auxiliares || Obrigatória com mais de dez urnas || Atribuições do secretário-geral
+K: escrutinadores; junta eleitoral; secretário-geral; apuração
+
+@CE 39
+I: Até 30 dias antes da eleição, o presidente da junta comunica ao TRE as nomeações feitas e divulga a composição da junta por edital. Qualquer partido pode impugná-la, de forma motivada, em três dias.
+P: Comunicação das nomeações ao TRE || Edital de composição da junta || Impugnação partidária em 3 dias
+K: junta eleitoral; edital; impugnação; prazo

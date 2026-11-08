@@ -1,0 +1,15 @@
+{
+ "nome": "Código Eleitoral (Lei nº 4.737/1965)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l4737compilado.htm",
+ "saida": "leis/codigo-eleitoral/codigo-eleitoral-completo.md",
+ "minimo_artigos": 380,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CE",
+   "start": "PARTE PRIMEIRA",
+   "end": "Brasília, 15 de julho de 1965",
+   "self_name": "deste Código"
+  }
+ ]
+}

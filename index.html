@@ -521,7 +521,7 @@ async function abrirLei(id) {
 /* ---------- Diagramação dos dispositivos ---------- */
 function classeLinha(x) {
   const t = x.replace(/^\\/, '');
-  if (/^(Art\.?|Nós, representantes)/.test(t)) return 'caput';
+  if (/^(Art\.?|Ar\.|At\.|Nós, representantes)/.test(t)) return 'caput';
   if (/^(§|Parágrafo único)/.test(t)) return 'paragrafo';
   if (/^[IVXLC]+(-[A-Z])?\s*[-–—]/.test(t)) return 'inciso';
   if (/^\d+(\.\d+)+\s/.test(t)) return 'caput';                 // subitens das NR (1.4.1, 1.5.3.2.1)
@@ -741,7 +741,7 @@ async function copiar(txt) {
 // Texto vigente para envio: trechos tachados (revogados) não são enviados como se valessem.
 function linhaPlana(x) {
   return x.replace(/~~([^~]+)~~/g, (m, t) => {
-    const r = t.match(/^(Art\.\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
+    const r = t.match(/^((?:Art|Ar|At)\.\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
     return r ? r[1] + ' [revogado]' : '[trecho revogado]';
   }).replace(/\*\*/g, '').replace(/\\([\\.()#>|*+\-_~`[\]])/g, '$1').replace(/\s+\(Revogad[^)]*\)\s*\[revogado\]/, ' [revogado]').trim();
 }
