@@ -1,0 +1,195 @@
+@CPP 35
+I: Dispositivo revogado pela Lei nº 9.520, de 27.11.1997. O texto revogado, mantido tachado no Planalto, começava assim: "A mulher casada não poderá exercer o direito de queixa sem consentimento do marido, salvo quando estiver dele…" Integrava o "TÍTULO III — DA AÇÃO PENAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.520, de 27.11.1997
+K: dispositivo revogado; Lei nº 9.520, de 27.11.1997; histórico legislativo
+
+@CPP 43
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "A denúncia ou queixa será rejeitada quando:" Integrava o "TÍTULO III — DA AÇÃO PENAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 194
+I: Dispositivo revogado pela Lei nº 10.792, de 1º.12.2003. O texto revogado, mantido tachado no Planalto, começava assim: "Se o acusado for menor, proceder-se-á ao interrogatório na presença de curador." Integrava o "CAPÍTULO III — DO INTERROGATÓRIO DO ACUSADO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 10.792, de 1º.12.2003
+K: dispositivo revogado; Lei nº 10.792, de 1º.12.2003; histórico legislativo
+
+@CPP 298
+I: Dispositivo revogado pela Lei nº 12.403, de 2011. O texto revogado, mantido tachado no Planalto, começava assim: "Se a autoridade tiver conhecimento de que o réu se acha em território estranho ao da sua jurisdição, poderá,…" Integrava o "CAPÍTULO I — DISPOSIÇÕES GERAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.403, de 2011
+K: dispositivo revogado; Lei nº 12.403, de 2011; histórico legislativo
+
+@CPP 393
+I: Dispositivo revogado pela Lei nº 12.403, de 2011. O texto revogado, mantido tachado no Planalto, começava assim: "São efeitos da sentença condenatória recorrível:" Integrava o "TÍTULO XII — DA SENTENÇA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.403, de 2011
+K: dispositivo revogado; Lei nº 12.403, de 2011; histórico legislativo
+
+@CPP 398
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Na instrução do processo serão inquiridas no máximo oito testemunhas de acusação e até oito de defesa." Integrava o "CAPÍTULO I — DA INSTRUÇÃO CRIMINAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 498
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "No processo dos crimes da competência do juiz singular, observar-se-á, na instrução, o disposto no Capítulo I…" Integrava o "CAPÍTULO III — DO PROCESSO E DO JULGAMENTO DOS CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 499
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Terminada a inquirição das testemunhas, as partes - primeiramente o Ministério Público ou o querelante,…" Integrava o "CAPÍTULO III — DO PROCESSO E DO JULGAMENTO DOS CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 500
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Esgotados aqueles prazos, sem requerimento de qualquer das partes, ou concluídas as diligências requeridas e…" Integrava o "CAPÍTULO III — DO PROCESSO E DO JULGAMENTO DOS CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 501
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Os prazos a que se referem os arts. 499 e 500 correrão em cartório, independentemente de intimação das…" Integrava o "CAPÍTULO III — DO PROCESSO E DO JULGAMENTO DOS CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 502
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Findos aqueles prazos, serão os autos imediatamente conclusos, para sentença, ao juiz, que, dentro em cinco…" Integrava o "CAPÍTULO III — DO PROCESSO E DO JULGAMENTO DOS CRIMES DA COMPETÊNCIA DO JUIZ SINGULAR". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 503
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "Nos crimes de falência fraudulenta ou culposa, a ação penal poderá ser intentada por denúncia do Ministério…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 504
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "A ação penal será intentada no juízo criminal, devendo nela funcionar o órgão do Ministério Público que…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 505
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "A denúncia ou a queixa será sempre instruída com cópia do relatório do síndico e da ata da assembléia de…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 506
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "O liquidatário ou os credores poderão intervir como assistentes em todos os termos da ação intentada por…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 507
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "A ação penal não poderá iniciar-se antes de declarada a falência e extinguir-se-á quando reformada a sentença…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 508
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "O prazo para denúncia começará a correr do dia em que o órgão do Ministério Público receber os papéis que…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 509
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "Antes de oferecida a denúncia ou a queixa, competirá ao juiz da falência, de ofício ou a requerimento do…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 510
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "O arquivamento dos papéis, a requerimento do Ministério Público, só se efetuará no juízo competente para o…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 511
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "No processo criminal não se conhecerá de argüição de nulidade da sentença declaratória da falência." Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 512
+I: Dispositivo revogado pela Lei nº 11.101, de 2005. O texto revogado, mantido tachado no Planalto, começava assim: "Recebida a queixa ou a denúncia, prosseguir-se-á no processo, de acordo com o disposto nos Capítulos I e III,…" Integrava o "CAPÍTULO I — DO PROCESSO E DO JULGAMENTO DOS CRIMES DE FALÊNCIA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.101, de 2005
+K: dispositivo revogado; Lei nº 11.101, de 2005; histórico legislativo
+
+@CPP 537
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Interrogado o réu, ser-lhe-á concedido, se o requerer, o prazo de três dias para apresentar defesa, arrolar…" Integrava o "CAPÍTULO V — DO PROCESSO SUMÁRIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 539
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "Nos processos por crime a que não for, ainda que alternativamente, cominada a pena de reclusão, recebida a…" Integrava o "CAPÍTULO V — DO PROCESSO SUMÁRIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 540
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "No processo sumário, observar-se-á, no que Ihe for aplicável, o disposto no Capítulo I do Título I deste…" Integrava o "CAPÍTULO V — DO PROCESSO SUMÁRIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 556
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Nos processos por delitos comuns e funcionais, da competência do Supremo Tribunal Federal e dos Tribunais de…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 557
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "O relator será o juiz da instrução do processo, com as atribuições que o Código confere aos juízes singulares." Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 558
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Recebida a queixa ou a denúncia, notificar-se-á o acusado para que, no prazo improrrogável de quinze dias,…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 559
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Se a resposta ou defesa prévia do acusado convencer da improcedência da acusação, o relator proporá ao…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 560
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Não sendo vencedora a opinião do relator, ou se ele não se utilizar da faculdade que lhe confere o artigo…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 561
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Finda a instrução, o tribunal procederá, em sessão plenária, ao julgamento do processo, observando-se o…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 562
+I: Dispositivo revogado pela Lei nº 8.658, de 26.5.1993. O texto revogado, mantido tachado no Planalto, começava assim: "Logo após os pregões (art. 561, II), o réu poderá, sem motivação, recusar um dos juízes e o acusador, outro.…" Integrava o "CAPÍTULO I — DA INSTRUÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.658, de 26.5.1993
+K: dispositivo revogado; Lei nº 8.658, de 26.5.1993; histórico legislativo
+
+@CPP 594
+I: Dispositivo revogado pela Lei nº 11.719, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "O réu não poderá apelar sem recolher-se à prisão, ou prestar fiança, salvo se for primário e de bons…" Integrava o "CAPÍTULO III — DA APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.719, de 2008
+K: dispositivo revogado; Lei nº 11.719, de 2008; histórico legislativo
+
+@CPP 595
+I: Dispositivo revogado pela Lei nº 12.403, de 2011. O texto revogado, mantido tachado no Planalto, começava assim: "Se o réu condenado fugir depois de haver apelado, será declarada deserta a apelação." Integrava o "CAPÍTULO III — DA APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.403, de 2011
+K: dispositivo revogado; Lei nº 12.403, de 2011; histórico legislativo
+
+@CPP 604
+I: Dispositivo revogado pela Lei nº 263, de 23.2.1948. O texto revogado, mantido tachado no Planalto, começava assim: "Se houver divergência entre a sentença proferida pelo presidente do tribunal do juri e as respostas dos…" Integrava o "CAPÍTULO III — DA APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 263, de 23.2.1948
+K: dispositivo revogado; Lei nº 263, de 23.2.1948; histórico legislativo
+
+@CPP 605
+I: Dispositivo revogado pela Lei nº 263, de 23.2.1948. O texto revogado, mantido tachado no Planalto, começava assim: "No caso de contradição entre as respostas aos quesitos, o Tribunal de Apelação fará prevalecer a que se…" Integrava o "CAPÍTULO III — DA APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 263, de 23.2.1948
+K: dispositivo revogado; Lei nº 263, de 23.2.1948; histórico legislativo
+
+@CPP 606
+I: Dispositivo revogado pela Lei nº 263, de 23.2.1948. O texto revogado, mantido tachado no Planalto, começava assim: "Se a apelação se fundar no nº III, letra "b", do art. 593 e o Tribunal de Apelação se convencer de que a…" Integrava o "CAPÍTULO III — DA APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 263, de 23.2.1948
+K: dispositivo revogado; Lei nº 263, de 23.2.1948; histórico legislativo
+
+@CPP 607
+I: Dispositivo revogado pela Lei nº 11.689, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "O protesto por novo júri é privativo da defesa, e somente se admitirá quando a sentença condenatória for de…" Integrava o "CAPÍTULO IV — DO PROTESTO POR NOVO JÚRI". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.689, de 2008
+K: dispositivo revogado; Lei nº 11.689, de 2008; histórico legislativo
+
+@CPP 608
+I: Dispositivo revogado pela Lei nº 11.689, de 2008. O texto revogado, mantido tachado no Planalto, começava assim: "O protesto por novo júri não impedirá a interposição da apelação, quando, pela mesma sentença, o réu tiver…" Integrava o "CAPÍTULO IV — DO PROTESTO POR NOVO JÚRI". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.689, de 2008
+K: dispositivo revogado; Lei nº 11.689, de 2008; histórico legislativo
+
+@CPP 611
+I: Dispositivo revogado pelo Decreto-Lei nº 552, de 25.4.1969. O texto revogado, mantido tachado no Planalto, começava assim: "Quando o recurso for de habeas-corpus, o procurador geral não terá vista dos autos." Integrava o "CAPÍTULO V — DO PROCESSO E DO JULGAMENTO DOS RECURSOS EM SENTIDO ESTRITO E DAS APELAÇÕES, NOS TRIBUNAIS DE APELAÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pelo Decreto-Lei nº 552, de 25.4.1969
+K: dispositivo revogado; Decreto-Lei nº 552, de 25.4.1969; histórico legislativo
+

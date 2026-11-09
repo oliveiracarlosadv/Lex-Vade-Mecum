@@ -1,0 +1,224 @@
+@CPP 1
+I: O CPP rege o processo penal em todo o território nacional, ressalvados os tratados internacionais, as prerrogativas constitucionais de certas autoridades nos crimes de responsabilidade, os processos da Justiça Militar e outros regidos por leis especiais. Aplica-se de forma subsidiária quando as leis especiais não dispõem de modo diverso. A ressalva aos crimes de imprensa perdeu sentido depois que o STF (ADPF 130) declarou a Lei de Imprensa não recepcionada.
+P: Territorialidade da lei processual penal || Ressalvas de tratados, Justiça Militar e crimes de responsabilidade || Aplicação subsidiária às leis especiais
+K: processo penal; territorialidade; lei processual; Justiça Militar
+
+@CPP 2
+I: A lei processual penal aplica-se de imediato aos processos em curso (tempus regit actum), mas os atos já praticados sob a lei anterior continuam válidos. Normas mistas, com conteúdo penal (como as que tratam de prescrição ou representação), seguem a regra da retroatividade benéfica do Código Penal.
+P: Aplicação imediata da lei processual || Validade dos atos anteriores || Normas mistas seguem a regra penal
+K: lei processual no tempo; tempus regit actum; aplicação imediata
+
+@CPP 3
+I: A lei processual penal admite interpretação extensiva, aplicação analógica e o suplemento dos princípios gerais de direito. Diferentemente do direito penal, aqui a analogia pode ser usada, inclusive com aplicação subsidiária do CPC.
+P: Interpretação extensiva e analogia admitidas || Princípios gerais de direito || Aplicação subsidiária do CPC
+K: interpretação; analogia; integração; princípios gerais
+
+@CPP 3-A
+I: Incluído pela Lei nº 13.964/2019 (Pacote Anticrime), o artigo afirma a estrutura acusatória do processo penal: o juiz não pode tomar a iniciativa na investigação nem substituir a acusação na produção de provas. O STF, nas ADIs 6.298, 6.299, 6.300 e 6.305, deu interpretação conforme para permitir que o juiz, pontualmente e nos limites legais, determine diligências para esclarecer dúvida relevante.
+P: Sistema acusatório || Vedação de iniciativa probatória do juiz na investigação || Interpretação conforme do STF (ADIs 6.298 e outras)
+K: sistema acusatório; juiz das garantias; Pacote Anticrime; Lei nº 13.964/2019
+
+@CPP 3-B
+I: O juiz das garantias controla a legalidade da investigação e protege os direitos fundamentais que dependem de autorização judicial: recebe a comunicação da prisão e o auto de flagrante, decide sobre prisões e medidas cautelares, quebras de sigilo, buscas, prorrogação do inquérito, trancamento de investigação sem fundamento e homologação de acordos. O STF declarou o instituto constitucional e obrigatório, fixando prazo para sua implantação, com ajustes de interpretação em vários incisos.
+P: Controle da legalidade da investigação || Decisões sobre prisão, cautelares, sigilo e busca || Instituto constitucional e obrigatório (ADIs 6.298 e outras)
+K: juiz das garantias; investigação criminal; controle judicial; medidas cautelares
+
+@CPP 3-C
+I: A competência do juiz das garantias abrange as infrações penais, salvo as de menor potencial ofensivo. Pela redação, cessa com o recebimento da denúncia, mas o STF decidiu que cessa com o oferecimento da denúncia, cabendo ao juiz da instrução recebê-la. As decisões do juiz das garantias não vinculam o juiz da instrução, que reexamina as cautelares em 10 dias. O STF também afastou a regra que mantinha os autos da investigação acautelados fora do processo.
+P: Exclusão das infrações de menor potencial ofensivo || Competência até o oferecimento da denúncia (STF) || Reexame das cautelares em 10 dias
+K: juiz das garantias; competência; juiz da instrução; denúncia
+
+@CPP 3-D
+I: O artigo impedia de atuar no processo o juiz que praticasse atos de investigação, e previa rodízio nas comarcas com um só juiz. O STF declarou inconstitucional o impedimento do caput nas ações sobre o juiz das garantias, mantendo a organização por rodízio ou outros modelos definidos pelos tribunais.
+P: Impedimento do juiz que atuou na investigação declarado inconstitucional (STF) || Rodízio nas comarcas de juiz único
+K: juiz das garantias; impedimento; rodízio; ADI 6.298
+
+@CPP 3-E
+I: O juiz das garantias é designado conforme as normas de organização judiciária da União, dos Estados e do Distrito Federal, com critérios objetivos divulgados periodicamente pelos tribunais. O STF deu interpretação conforme para exigir que a designação siga as regras de organização judiciária, sem escolhas casuísticas.
+P: Designação por normas de organização judiciária || Critérios objetivos e públicos
+K: juiz das garantias; designação; organização judiciária
+
+@CPP 3-F
+I: O juiz das garantias deve impedir acordos entre autoridades e a imprensa para explorar a imagem do preso, sob pena de responsabilidade. As autoridades devem regulamentar como informar sobre prisões respeitando a dignidade do preso e a presunção de inocência.
+P: Proteção da imagem do preso || Vedação de exploração pela imprensa || Regulamentação da informação sobre prisões
+K: imagem do preso; imprensa; presunção de inocência; juiz das garantias
+
+@CPP 4
+I: A polícia judiciária, exercida pelas autoridades policiais em suas circunscrições, apura as infrações penais e sua autoria. Outras autoridades administrativas podem ter a mesma função por lei, e o STF reconhece o poder investigatório do Ministério Público (RE 593.727).
+P: Polícia judiciária e apuração de infrações || Outras autoridades com função investigatória || Investigação pelo Ministério Público (RE 593.727)
+K: polícia judiciária; inquérito policial; investigação; Ministério Público
+
+@CPP 5
+I: Nos crimes de ação pública, o inquérito é instaurado de ofício, por requisição do juiz ou do Ministério Público ou a requerimento do ofendido. Qualquer pessoa pode comunicar crime à polícia (notitia criminis). Nos crimes de ação condicionada, o inquérito depende de representação; nos de ação privada, de requerimento do ofendido. Pelo sistema acusatório, entende-se que o juiz não deve requisitar inquérito.
+P: Formas de instauração do inquérito || Notícia de crime por qualquer pessoa || Representação e requerimento nos crimes condicionados e privados
+K: instauração do inquérito; notitia criminis; requisição; representação
+
+@CPP 6
+I: Ao saber da infração, a autoridade policial deve preservar o local, apreender objetos após a perícia, colher provas, ouvir ofendido e indiciado, fazer reconhecimentos e acareações, determinar exames periciais, identificar o indiciado e reunir informações sobre sua vida pregressa, inclusive sobre a existência de filhos.
+P: Diligências iniciais da autoridade policial || Preservação do local do crime || Oitiva do ofendido e do indiciado
+K: inquérito policial; diligências; local do crime; perícia
+
+@CPP 7
+I: A autoridade policial pode fazer a reprodução simulada dos fatos (reconstituição), desde que não contrarie a moralidade ou a ordem pública. O investigado não é obrigado a participar, em razão do direito de não produzir prova contra si.
+P: Reconstituição do crime || Limites da moralidade e ordem pública || Participação facultativa do investigado
+K: reprodução simulada; reconstituição; não autoincriminação
+
+@CPP 8
+I: Havendo prisão em flagrante, segue-se o procedimento do capítulo próprio (arts. 301 a 310), com lavratura do auto e comunicação ao juiz.
+P: Remissão às regras da prisão em flagrante
+K: prisão em flagrante; inquérito policial
+
+@CPP 9
+I: Todas as peças do inquérito devem ser reunidas em um só processado e reduzidas a escrito, rubricadas pela autoridade. Hoje o inquérito também pode tramitar em meio eletrônico.
+P: Forma escrita do inquérito || Reunião das peças em um só processado
+K: inquérito policial; forma escrita; autos
+
+@CPP 10
+I: O inquérito deve terminar em 10 dias se o indiciado estiver preso e em 30 dias se estiver solto. A autoridade faz relatório e envia os autos ao juiz, podendo indicar testemunhas não ouvidas. Se o fato for de difícil elucidação e o indiciado estiver solto, pode pedir prazo para novas diligências. Leis especiais e o art. 3º-B, § 2º, trazem regras próprias de prazo e prorrogação.
+P: Prazo de 10 dias com indiciado preso e 30 dias solto || Relatório final || Prorrogação para indiciado solto
+K: prazo do inquérito; relatório; indiciado preso
+
+@CPP 11
+I: Os instrumentos do crime e os objetos que interessam à prova acompanham os autos do inquérito.
+P: Instrumentos e objetos acompanham o inquérito
+K: instrumentos do crime; apreensão; prova
+
+@CPP 12
+I: O inquérito acompanha a denúncia ou queixa sempre que servir de base a elas. É peça informativa e dispensável: a ação pode ser proposta com base em outros elementos.
+P: Inquérito acompanha a denúncia || Natureza informativa e dispensável
+K: inquérito policial; denúncia; peça informativa
+
+@CPP 13
+I: Cabe ainda à autoridade policial fornecer informações aos juízes, realizar diligências requisitadas pelo juiz ou Ministério Público, cumprir mandados de prisão e representar pela prisão preventiva.
+P: Atribuições da autoridade policial || Cumprimento de mandados || Representação pela preventiva
+K: autoridade policial; atribuições; mandado de prisão
+
+@CPP 13-A
+I: Nos crimes de sequestro, redução à condição análoga à de escravo, tráfico de pessoas, extorsão com restrição de liberdade, extorsão mediante sequestro e envio irregular de criança ao exterior, o delegado e o Ministério Público podem requisitar diretamente dados cadastrais da vítima ou de suspeitos a órgãos públicos e empresas, com atendimento em 24 horas.
+P: Requisição direta de dados cadastrais || Crimes contra a liberdade e tráfico de pessoas || Prazo de 24 horas
+K: dados cadastrais; requisição; tráfico de pessoas; sequestro
+
+@CPP 13-B
+I: Para prevenir e reprimir o tráfico de pessoas, o Ministério Público ou o delegado podem requisitar, com autorização judicial, às operadoras de telefonia dados de localização das vítimas ou suspeitos (sinais), sem acesso ao conteúdo das comunicações. Se o juiz não decidir em 12 horas, a autoridade pode requisitar diretamente, comunicando o juiz.
+P: Localização por sinais de telefonia || Autorização judicial, com exceção pela demora || Sem acesso ao conteúdo
+K: localização de celular; tráfico de pessoas; operadoras; Estação Rádio Base
+
+@CPP 14
+I: O ofendido e o indiciado podem requerer diligências, que a autoridade realizará ou não, conforme seu juízo. O exame de corpo de delito, porém, não pode ser negado quando houver vestígios (art. 184).
+P: Requerimento de diligências pelo ofendido e pelo indiciado || Discricionariedade da autoridade
+K: diligências; inquérito; ofendido; indiciado
+
+@CPP 14-A
+I: Incluído pela Lei nº 13.964/2019, o artigo garante aos agentes de segurança pública investigados por uso de força letal no exercício da função o direito de ser citados e constituir defensor em 48 horas, sob pena de a instituição indicar defensor. A regra se aplica também a militares das Forças Armadas em operações de garantia da lei e da ordem.
+P: Investigação de uso de força letal por agentes de segurança || Citação e defensor em 48 horas || Indicação de defensor pela instituição
+K: agentes de segurança; uso da força; defesa técnica; Pacote Anticrime
+
+@CPP 15
+I: O artigo previa curador ao indiciado menor. Com o Código Civil de 2002, a maioridade passou a 18 anos, e o dispositivo perdeu aplicação, pois menores de 18 são inimputáveis.
+P: Curador ao indiciado menor || Sem aplicação após o Código Civil de 2002
+K: curador; indiciado menor; maioridade
+
+@CPP 16
+I: O Ministério Público só pode devolver o inquérito à polícia para novas diligências imprescindíveis ao oferecimento da denúncia.
+P: Devolução do inquérito só para diligências imprescindíveis
+K: inquérito; Ministério Público; diligências
+
+@CPP 17
+I: A autoridade policial não pode arquivar o inquérito. O arquivamento é ato do Ministério Público, com controle previsto no art. 28.
+P: Vedação de arquivamento pela polícia
+K: arquivamento; inquérito policial; autoridade policial
+
+@CPP 18
+I: Arquivado o inquérito por falta de base para a denúncia, a polícia pode fazer novas pesquisas se tiver notícia de outras provas. Pela Súmula 524 do STF, a ação só pode ser iniciada com novas provas.
+P: Desarquivamento com notícia de novas provas || Súmula 524 do STF
+K: desarquivamento; novas provas; Súmula 524
+
+@CPP 19
+I: Nos crimes de ação privada, os autos do inquérito vão ao juízo competente para aguardar a iniciativa do ofendido, ou são entregues a ele mediante traslado.
+P: Inquérito nos crimes de ação privada || Aguardo da iniciativa do ofendido
+K: ação privada; inquérito; ofendido
+
+@CPP 20
+I: A autoridade deve assegurar no inquérito o sigilo necessário à apuração ou exigido pelo interesse social, e não pode mencionar inquéritos nos atestados de antecedentes. O advogado tem acesso aos elementos já documentados (Súmula Vinculante 14).
+P: Sigilo do inquérito || Atestados de antecedentes sem menção a inquéritos || Acesso do advogado (Súmula Vinculante 14)
+K: sigilo do inquérito; Súmula Vinculante 14; antecedentes
+
+@CPP 21
+I: O artigo prevê a incomunicabilidade do indiciado por até três dias, por decisão judicial fundamentada. A doutrina majoritária entende que não foi recebida pela Constituição, que proíbe a incomunicabilidade mesmo no estado de defesa (art. 136, § 3º, IV) e garante assistência da família e de advogado ao preso.
+P: Incomunicabilidade de até três dias || Incompatibilidade com a Constituição (art. 136, § 3º, IV)
+K: incomunicabilidade; preso; direitos do preso
+
+@CPP 22
+I: Onde houver mais de uma circunscrição policial, a autoridade pode ordenar diligências em circunscrição de outra, sem precatória, comunicando a autoridade local.
+P: Diligências em outra circunscrição || Desnecessidade de precatória
+K: circunscrição policial; diligências; inquérito
+
+@CPP 23
+I: Ao remeter o inquérito ao juiz, a autoridade policial comunica o Instituto de Identificação os dados do indiciado e o juízo de distribuição.
+P: Comunicação ao Instituto de Identificação
+K: identificação; estatística criminal; inquérito
+
+@CPP 24
+I: Nos crimes de ação pública, a ação é promovida por denúncia do Ministério Público, podendo depender de requisição do Ministro da Justiça ou de representação do ofendido. Morto o ofendido, a representação passa ao cônjuge, ascendente, descendente ou irmão. Crimes contra o patrimônio ou interesse da União, Estado e Município são de ação pública.
+P: Denúncia do Ministério Público || Ação condicionada à representação ou requisição || Ação pública quando lesado o patrimônio público
+K: ação penal pública; denúncia; representação; requisição
+
+@CPP 25
+I: A representação é irretratável depois de oferecida a denúncia. Pode ser retirada até esse momento.
+P: Retratação da representação até a denúncia
+K: representação; retratação; irretratabilidade
+
+@CPP 26
+I: O artigo permitia iniciar a ação nas contravenções por auto de flagrante ou portaria do juiz ou delegado (procedimento judicialiforme). Não foi recebido pela Constituição, que dá ao Ministério Público a titularidade privativa da ação penal pública (art. 129, I).
+P: Procedimento judicialiforme não recebido || Titularidade privativa do Ministério Público
+K: contravenção; ação penal; procedimento judicialiforme
+
+@CPP 27
+I: Qualquer pessoa pode provocar o Ministério Público nos casos de ação pública, fornecendo por escrito informações sobre o fato, a autoria e os elementos de convicção.
+P: Provocação do Ministério Público por qualquer pessoa
+K: notitia criminis; Ministério Público; delatio criminis
+
+@CPP 28
+I: Na redação da Lei nº 13.964/2019, o Ministério Público ordena o arquivamento, comunica vítima, investigado e polícia, e envia os autos à instância de revisão ministerial. A vítima pode pedir revisão em 30 dias. O STF deu interpretação conforme: o Ministério Público submete o arquivamento ao juiz, que pode levá-lo à revisão ministerial se houver ilegalidade ou teratologia, e a revisão pode ser provocada pela vítima ou pelo juiz.
+P: Arquivamento pelo Ministério Público com revisão interna || Pedido de revisão pela vítima em 30 dias || Controle judicial definido pelo STF (ADIs 6.298 e outras)
+K: arquivamento; inquérito; revisão ministerial; Pacote Anticrime
+
+@CPP 28-A
+I: O acordo de não persecução penal (ANPP) pode ser proposto pelo Ministério Público quando o investigado confessa formal e circunstancialmente crime sem violência ou grave ameaça com pena mínima inferior a 4 anos. As condições incluem reparar o dano, renunciar a bens do crime, prestar serviços e pagar prestação pecuniária. Não cabe se couber transação penal, ao reincidente ou habitual, a quem teve benefício nos 5 anos anteriores, nem na violência doméstica ou contra a mulher. O acordo é homologado pelo juiz e, cumprido, extingue a punibilidade sem gerar antecedentes. Se o Ministério Público recusa, o investigado pode pedir revisão ao órgão superior.
+P: Confissão e crime sem violência com pena mínima inferior a 4 anos || Condições do acordo || Hipóteses de vedação || Homologação judicial e extinção da punibilidade
+K: acordo de não persecução penal; ANPP; justiça negocial; Pacote Anticrime
+
+@CPP 29
+I: Se o Ministério Público não oferecer denúncia no prazo legal, o ofendido pode propor ação privada subsidiária. O Ministério Público pode aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir no processo e retomar a ação se o querelante for negligente (CF, art. 5º, LIX).
+P: Ação privada subsidiária da pública || Inércia do Ministério Público || Poderes do Ministério Público na ação subsidiária
+K: ação privada subsidiária; inércia; Ministério Público
+
+@CPP 30
+I: Cabe ao ofendido ou a quem o represente propor a ação privada, por meio de queixa.
+P: Legitimidade do ofendido para a queixa
+K: ação penal privada; queixa; ofendido
+
+@CPP 31
+I: Morto o ofendido ou declarado ausente, o direito de queixa ou de prosseguir na ação passa ao cônjuge, ascendente, descendente ou irmão. A jurisprudência estende o direito ao companheiro.
+P: Sucessão processual do ofendido || Cônjuge, ascendente, descendente e irmão
+K: sucessão; ofendido; queixa; ação privada
+
+@CPP 32
+I: Nos crimes de ação privada, o juiz nomeia advogado ao ofendido pobre que comprove não poder pagar o processo sem prejuízo do sustento. Hoje a assistência cabe em regra à Defensoria Pública.
+P: Advogado para o ofendido pobre || Defensoria Pública
+K: assistência judiciária; ofendido pobre; ação privada
+
+@CPP 33
+I: Se o ofendido for menor de 18 anos ou incapaz e não tiver representante, ou houver conflito de interesses com ele, o juiz nomeia curador especial para exercer o direito de queixa.
+P: Curador especial do ofendido incapaz || Conflito de interesses com o representante
+K: curador especial; ofendido incapaz; queixa
+
+@CPP 34
+I: O artigo permitia que o ofendido entre 18 e 21 anos ou seu representante oferecessem queixa. Com a maioridade civil aos 18 anos (Código Civil de 2002), o maior de 18 exerce sozinho esse direito.
+P: Regra superada pela maioridade aos 18 anos
+K: maioridade; queixa; representante legal
+
+@CPP 36
+I: Se mais de uma pessoa com direito de queixa comparecer, tem preferência o cônjuge e depois o parente mais próximo, podendo qualquer delas prosseguir se o querelante desistir ou abandonar a ação.
+P: Ordem de preferência entre sucessores || Prosseguimento por outro legitimado
+K: queixa; sucessores; preferência
