@@ -1,0 +1,120 @@
+@CP 185
+I: Dispositivo revogado pela Lei nº 10.695, de 1º.7.2003. Tratava do crime de "Usurpação de nome ou pseudônimo alheio". Integrava o "CAPÍTULO I — DOS CRIMES CONTRA A PROPRIEDADE INTELECTUAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 10.695, de 1º.7.2003 || Matéria: Usurpação de nome ou pseudônimo alheio
+K: dispositivo revogado; Lei nº 10.695, de 1º.7.2003; histórico legislativo
+
+@CP 187
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Violação de privilégio de invenção". Integrava o "CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Violação de privilégio de invenção
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 188
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Falsa atribuição de privilégio". Integrava o "CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Falsa atribuição de privilégio
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 189
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Usurpação ou indevida exploração de modelo ou desenho privilegiado". Integrava o "CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Usurpação ou indevida exploração de modelo ou desenho privilegiado
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 190
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Falsa declaração de depósito em modelo ou desenho". Integrava o "CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Falsa declaração de depósito em modelo ou desenho
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 191
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Integrava o "CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 192
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Violação do direito de marca". Integrava o "CAPÍTULO III — DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Violação do direito de marca
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 193
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Uso indevido de armas, brasões e distintivos públicos". Integrava o "CAPÍTULO III — DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Uso indevido de armas, brasões e distintivos públicos
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 194
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Marca com falsa indicação de procedência". Integrava o "CAPÍTULO III — DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Marca com falsa indicação de procedência
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 195
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Integrava o "CAPÍTULO III — DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 196
+I: Dispositivo revogado pela Lei nº 9.279, de 14.5.1996. Tratava do crime de "Concorrência desleal". Integrava o "CAPÍTULO IV — DOS CRIMES DE CONCORRÊNCIA DESLEAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 9.279, de 14.5.1996 || Matéria: Concorrência desleal
+K: dispositivo revogado; Lei nº 9.279, de 14.5.1996; histórico legislativo
+
+@CP 214
+I: Dispositivo revogado pela Lei nº 12.015, de 2009. Tratava do antigo atentado violento ao pudor, cuja conduta passou a integrar o crime de estupro (art. 213), sem descontinuidade da punição. Integrava o "CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.015, de 2009
+K: dispositivo revogado; Lei nº 12.015, de 2009; histórico legislativo
+
+@CP 216
+I: Dispositivo revogado pela Lei nº 12.015, de 2009. Integrava o "CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.015, de 2009
+K: dispositivo revogado; Lei nº 12.015, de 2009; histórico legislativo
+
+@CP 217
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Sedução". Integrava o "CAPÍTULO II — DOS CRIMES SEXUAIS CONTRA VULNERÁVEL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Sedução
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 219
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Rapto violento ou mediante fraude". Integrava o "CAPÍTULO III — DO RAPTO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Rapto violento ou mediante fraude
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 220
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Rapto consensual". Integrava o "CAPÍTULO III — DO RAPTO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Rapto consensual
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 221
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Diminuição de pena". Integrava o "CAPÍTULO III — DO RAPTO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Diminuição de pena
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 222
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Concurso de rapto e outro crime". Integrava o "CAPÍTULO III — DO RAPTO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Concurso de rapto e outro crime
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 223
+I: Dispositivo revogado pela Lei nº 12.015, de 2009. Integrava o "CAPÍTULO IV — DISPOSIÇÕES GERAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.015, de 2009
+K: dispositivo revogado; Lei nº 12.015, de 2009; histórico legislativo
+
+@CP 224
+I: Dispositivo revogado pela Lei nº 12.015, de 2009. Integrava o "CAPÍTULO IV — DISPOSIÇÕES GERAIS". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.015, de 2009
+K: dispositivo revogado; Lei nº 12.015, de 2009; histórico legislativo
+
+@CP 232
+I: Dispositivo revogado pela Lei nº 12.015, de 2009. Integrava o "CAPÍTULO V — DO LENOCÍNIO E DO TRÁFICO DE PESSOA PARA FIM DE PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 12.015, de 2009
+K: dispositivo revogado; Lei nº 12.015, de 2009; histórico legislativo
+
+@CP 240
+I: Dispositivo revogado pela Lei nº 11.106, de 2005. Tratava do crime de "Adultério". Integrava o "CAPÍTULO I — DOS CRIMES CONTRA O CASAMENTO". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 11.106, de 2005 || Matéria: Adultério
+K: dispositivo revogado; Lei nº 11.106, de 2005; histórico legislativo
+
+@CP 279
+I: Dispositivo revogado pela Lei nº 8.137, de 27.12.1990. Tratava do crime de "Substância avariada". Integrava o "CAPÍTULO III — DOS CRIMES CONTRA A SAÚDE PÚBLICA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 8.137, de 27.12.1990 || Matéria: Substância avariada
+K: dispositivo revogado; Lei nº 8.137, de 27.12.1990; histórico legislativo
+
+@CP 281
+I: Dispositivo revogado pela Lei nº 6.368, 1976. Integrava o "CAPÍTULO III — DOS CRIMES CONTRA A SAÚDE PÚBLICA". A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 6.368, 1976
+K: dispositivo revogado; Lei nº 6.368, 1976; histórico legislativo
+

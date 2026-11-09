@@ -1,0 +1,274 @@
+@CP 263
+I: Se dos crimes contra a segurança dos transportes (arts. 260 a 262) resultar desastre ou sinistro com lesão corporal ou morte, aplicam-se os aumentos do art. 258.
+P: Formas qualificadas pelo resultado || Remissão ao art. 258
+K: crime qualificado pelo resultado; transporte; desastre
+
+@CP 264
+I: É crime arremessar projétil contra veículo de transporte público em movimento, por terra, água ou ar. A pena aumenta se resulta lesão corporal e, se resulta morte, aplica-se a do homicídio culposo aumentada de um terço.
+P: Arremesso de projétil contra transporte público || Formas qualificadas pelo resultado
+K: arremesso de projétil; transporte público; crime de perigo
+
+@CP 265
+I: É crime atentar contra a segurança ou o funcionamento de serviço de água, luz, força, calor ou outro de utilidade pública. A pena aumenta de um terço até metade se o dano resultar da subtração de material essencial ao serviço, como cabos e equipamentos.
+P: Atentado contra serviços de utilidade pública || Aumento pela subtração de material essencial
+K: serviço de utilidade pública; energia elétrica; água; sabotagem
+
+@CP 266
+I: É crime interromper ou perturbar serviço telegráfico, radiotelegráfico, telefônico, telemático ou de informação de utilidade pública, ou impedir seu restabelecimento. Desde a Lei nº 15.397/2026, a pena é de 2 a 4 anos e dobra se o crime ocorre em calamidade pública ou envolve furto, dano ou destruição de equipamentos de telecomunicações.
+P: Interrupção de serviços de telecomunicações e informática || Pena em dobro em calamidade ou com dano a equipamentos (Lei nº 15.397/2026)
+K: telecomunicações; serviço telemático; interrupção de serviço; Lei nº 15.397/2026
+
+@CP 267
+I: É crime causar epidemia propagando germes patogênicos, com pena de 10 a 15 anos, dobrada se resulta morte (crime hediondo nessa forma). Há forma culposa com pena bem menor.
+P: Propagação de germes que causa epidemia || Pena dobrada pela morte || Forma culposa
+K: epidemia; saúde pública; crime hediondo
+
+@CP 268
+I: É crime descumprir determinação do poder público destinada a impedir a introdução ou propagação de doença contagiosa, como quarentenas e isolamentos (norma penal em branco). A pena aumenta de um terço se o agente é profissional ou servidor da saúde.
+P: Descumprimento de medida sanitária || Norma penal em branco || Aumento para profissionais de saúde
+K: medida sanitária; doença contagiosa; quarentena; norma penal em branco
+
+@CP 269
+I: É crime o médico deixar de comunicar à autoridade pública doença de notificação compulsória (crime omissivo próprio, praticado só por médico).
+P: Omissão de notificação compulsória || Crime próprio do médico
+K: notificação compulsória; médico; saúde pública
+
+@CP 270
+I: É crime envenenar água potável ou substância alimentícia ou medicinal destinada a consumo, e entregar ou guardar para distribuição produto envenenado. Há forma culposa.
+P: Envenenamento de água, alimento ou remédio || Distribuição do produto envenenado || Forma culposa
+K: envenenamento; água potável; saúde pública
+
+@CP 271
+I: É crime corromper ou poluir água potável, tornando-a imprópria para consumo ou nociva à saúde. Há forma culposa. A poluição ambiental também é tratada pela Lei de Crimes Ambientais (Lei nº 9.605/1998, art. 54).
+P: Poluição de água potável || Forma culposa || Relação com a Lei nº 9.605/1998
+K: poluição da água; água potável; saúde pública
+
+@CP 272
+I: É crime corromper, adulterar ou falsificar alimento destinado a consumo, tornando-o nocivo ou reduzindo seu valor nutritivo, e vender ou distribuir o produto adulterado, inclusive bebidas. Há forma culposa.
+P: Adulteração de alimentos e bebidas || Venda do produto adulterado || Forma culposa
+K: adulteração de alimentos; saúde pública; consumidor
+
+@CP 273
+I: É crime falsificar, corromper ou adulterar produto terapêutico ou medicinal, incluindo cosméticos e saneantes, e importar ou vender esses produtos ou produtos sem registro, de procedência ignorada ou de estabelecimento sem licença. A pena é de 10 a 15 anos. O STF (RE 979.962, Tema 1.003) declarou inconstitucional aplicar essa pena à importação de medicamento sem registro (§ 1º-B, I), por desproporcional.
+P: Falsificação de medicamentos e cosméticos || Venda de produtos sem registro ou de origem ignorada || Pena desproporcional afastada no § 1º-B, I (Tema 1.003 do STF) || Crime hediondo nas formas do caput e do § 1º
+K: falsificação de medicamentos; produto terapêutico; Tema 1.003; crime hediondo
+
+@CP 274
+I: É crime empregar, na fabricação de produto para consumo, substância ou processo não permitido pela legislação sanitária, como corantes e conservantes proibidos.
+P: Processo ou substância não permitidos na fabricação
+K: legislação sanitária; aditivos; saúde pública
+
+@CP 275
+I: É crime anunciar na embalagem de alimentos ou medicamentos substância que não existe no conteúdo ou existe em quantidade menor que a indicada.
+P: Falsa indicação na embalagem
+K: rotulagem; embalagem; consumidor
+
+@CP 276
+I: É crime vender, expor à venda, guardar para vender ou entregar a consumo produtos nas condições dos arts. 274 e 275.
+P: Comercialização de produtos irregulares
+K: comercialização; saúde pública; consumidor
+
+@CP 277
+I: É crime vender, expor, guardar ou ceder substância destinada à falsificação de alimentos ou medicamentos.
+P: Substância para falsificação de alimentos ou remédios
+K: falsificação; saúde pública
+
+@CP 278
+I: É crime fabricar, vender ou entregar a consumo coisa ou substância nociva à saúde, ainda que não seja alimento ou remédio. Há forma culposa.
+P: Substância nociva à saúde || Forma culposa
+K: substância nociva; saúde pública
+
+@CP 280
+I: É crime fornecer substância medicinal em desacordo com a receita médica, como o farmacêutico que troca o medicamento ou a dosagem. Há forma culposa.
+P: Fornecimento de remédio diferente da receita || Forma culposa
+K: receita médica; farmácia; medicamento
+
+@CP 282
+I: É crime exercer, mesmo gratuitamente, a profissão de médico, veterinário, dentista ou farmacêutico sem autorização legal ou além de seus limites. Com fim de lucro, aplica-se multa. A Lei nº 15.425/2026 determinou que o agente responda também por lesão grave, homicídio ou crime contra animal que causar, e estendeu o crime a quem exerce a profissão com o registro suspenso ou cancelado.
+P: Exercício ilegal da medicina e profissões correlatas || Multa se houver lucro || Responsabilidade por lesão, morte ou dano a animal (Lei nº 15.425/2026) || Profissional com registro suspenso ou cancelado
+K: exercício ilegal da medicina; profissão regulamentada; saúde pública
+
+@CP 283
+I: Charlatanismo é anunciar cura por meio secreto ou infalível. Pode ser praticado inclusive por médico.
+P: Promessa de cura secreta ou infalível
+K: charlatanismo; saúde pública; fraude
+
+@CP 284
+I: Curandeirismo é prescrever ou aplicar habitualmente substâncias, usar gestos ou palavras ou fazer diagnósticos sem habilitação. Com remuneração, aplica-se também multa. A jurisprudência não alcança práticas religiosas legítimas, protegidas pela liberdade de crença.
+P: Práticas de cura sem habilitação || Habitualidade || Liberdade religiosa
+K: curandeirismo; saúde pública; liberdade religiosa
+
+@CP 285
+I: Aplicam-se aos crimes contra a saúde pública as formas qualificadas pelo resultado do art. 258, exceto à epidemia, que já tem regra própria.
+P: Remissão ao art. 258 || Exceção da epidemia
+K: crime qualificado pelo resultado; saúde pública
+
+@CP 286
+I: É crime incitar publicamente a prática de crime, e também incitar animosidade entre as Forças Armadas, ou delas contra os poderes constitucionais, as instituições civis ou a sociedade (parágrafo único incluído pela Lei nº 14.197/2021).
+P: Incitação pública ao crime || Incitação de animosidade das Forças Armadas contra as instituições
+K: incitação ao crime; paz pública; Forças Armadas; Estado Democrático de Direito
+
+@CP 287
+I: É crime fazer publicamente apologia de fato criminoso ou de autor de crime. O STF (ADPF 187) decidiu que manifestações pela descriminalização de condutas, como a "marcha da maconha", não configuram o crime, por estarem protegidas pela liberdade de expressão.
+P: Apologia de crime ou criminoso || Liberdade de expressão e manifestações pela descriminalização (ADPF 187)
+K: apologia de crime; liberdade de expressão; ADPF 187
+
+@CP 288
+I: Associação criminosa é a reunião estável de três ou mais pessoas para cometer crimes, com pena de 1 a 3 anos. A pena aumenta até metade se a associação é armada ou conta com criança ou adolescente. Desde a Lei nº 15.245/2025, também responde quem solicita ou contrata crime a integrante da associação. É diferente da organização criminosa (Lei nº 12.850/2013), que exige quatro ou mais pessoas e estrutura ordenada.
+P: Três ou mais pessoas com fim de cometer crimes || Estabilidade e permanência || Aumento se armada ou com menores || Contratante de crime à associação (Lei nº 15.245/2025)
+K: associação criminosa; quadrilha; organização criminosa; paz pública
+
+@CP 288-A
+I: Incluído pela Lei nº 12.720/2012, o artigo pune quem constitui, organiza, integra, mantém ou custeia organização paramilitar, milícia particular, grupo ou esquadrão para praticar crimes do Código. A pena é de 4 a 8 anos.
+P: Milícia privada e grupos paramilitares || Constituir, integrar ou custear || Reclusão de 4 a 8 anos
+K: milícia privada; grupo paramilitar; esquadrão; paz pública
+
+@CP 289
+I: É crime falsificar moeda metálica ou papel-moeda, nacional ou estrangeira, e importar, vender, guardar ou pôr em circulação moeda falsa. Quem recebeu de boa-fé e repassa sabendo da falsidade tem pena menor. A pena é maior para quem fabrica ou emite moeda indevidamente como servidor ou diretor de instituição emissora. Pela Súmula 73 do STJ, a falsificação grosseira de papel-moeda pode configurar estelionato, de competência estadual.
+P: Falsificação e circulação de moeda falsa || Repasse após receber de boa-fé || Falsificação grosseira (Súmula 73 do STJ)
+K: moeda falsa; fé pública; papel-moeda; Súmula 73
+
+@CP 290
+I: É crime montar cédula com fragmentos de cédulas verdadeiras, apagar sinais de inutilização de notas recolhidas para devolvê-las à circulação, ou restituir à circulação cédula recolhida. A pena é maior para servidor da repartição onde o dinheiro estava.
+P: Crimes equiparados à moeda falsa || Agravação para o servidor da repartição
+K: moeda falsa; cédula; fé pública
+
+@CP 291
+I: É crime fabricar, adquirir, fornecer, possuir ou guardar máquina, aparelho ou objeto especialmente destinado à falsificação de moeda.
+P: Petrechos para falsificar moeda
+K: petrechos; moeda falsa; fé pública
+
+@CP 292
+I: É crime emitir, sem permissão legal, nota, vale ou título com promessa de pagamento em dinheiro ao portador. Quem recebe ou usa esses papéis como dinheiro também responde, com pena menor.
+P: Emissão de título ao portador sem permissão || Uso como dinheiro
+K: título ao portador; moeda paralela; fé pública
+
+@CP 293
+I: É crime falsificar papéis públicos, como selos de controle tributário, papel de crédito público, vales postais, guias de arrecadação e bilhetes de transporte público, e usar, vender ou guardar esses papéis falsificados, ou suprimir sinais de inutilização para reutilizá-los.
+P: Falsificação de selos e papéis públicos || Uso e comércio dos papéis falsos
+K: papéis públicos; selo tributário; falsificação; fé pública
+
+@CP 294
+I: É crime fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente destinado à falsificação dos papéis públicos do art. 293.
+P: Petrechos para falsificar papéis públicos
+K: petrechos; papéis públicos; falsificação
+
+@CP 295
+I: Nos crimes de falsificação de papéis públicos, se o agente é funcionário e se prevalece do cargo, a pena aumenta de um sexto.
+P: Aumento de 1/6 para o funcionário público
+K: funcionário público; causa de aumento; falsificação
+
+@CP 296
+I: É crime falsificar selo público que autentica atos oficiais ou sinal de entidade pública, autoridade ou tabelião, usar selo falso ou usar indevidamente o verdadeiro, e falsificar ou usar indevidamente marcas, logotipos e siglas da Administração Pública. A pena aumenta se o agente é funcionário que se prevalece do cargo.
+P: Falsificação de selo ou sinal público || Uso indevido de logotipos e siglas oficiais
+K: selo público; sinal público; falsificação
+
+@CP 297
+I: É crime falsificar ou alterar documento público. Equiparam-se a documento público os de entidades paraestatais, títulos ao portador ou endossáveis, ações de sociedade, livros mercantis e testamento particular. Também responde quem insere declarações falsas na folha de pagamento, na Carteira de Trabalho ou em documentos para a previdência social, ou omite dados do segurado. A pena aumenta para o funcionário que se prevalece do cargo.
+P: Falsificação material de documento público || Documentos equiparados || Falsidades perante a previdência social || Aumento para o funcionário público
+K: falsificação de documento público; falsidade material; Carteira de Trabalho; previdência
+
+@CP 298
+I: É crime falsificar ou alterar documento particular. Equiparam-se a documento particular o cartão de crédito e o de débito (Lei nº 12.737/2012).
+P: Falsificação material de documento particular || Cartão de crédito ou débito
+K: falsificação de documento particular; cartão de crédito; falsidade material
+
+@CP 299
+I: Falsidade ideológica é omitir declaração obrigatória ou inserir declaração falsa em documento verdadeiro na forma, para prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante. A pena é maior se o documento é público, e aumenta para o funcionário que se prevalece do cargo ou se a falsidade é em registro civil.
+P: Documento formalmente verdadeiro com conteúdo falso || Finalidade de prejudicar direito ou alterar fato relevante || Pena maior para documento público
+K: falsidade ideológica; documento; fé pública
+
+@CP 300
+I: É crime reconhecer como verdadeira, no exercício de função pública, firma ou letra falsa, com pena maior se o documento é público.
+P: Falso reconhecimento de firma || Crime próprio de quem tem função pública
+K: reconhecimento de firma; tabelião; falsidade
+
+@CP 301
+I: É crime atestar ou certificar falsamente, em razão de função pública, fato que habilite alguém a obter cargo, isenção ou outra vantagem. Também é crime falsificar materialmente atestado ou certidão com esse fim. Com fim de lucro, aplica-se multa.
+P: Certidão ideologicamente falsa || Falsidade material de atestado ou certidão
+K: certidão falsa; atestado falso; função pública
+
+@CP 302
+I: É crime o médico dar atestado falso no exercício da profissão. Com fim de lucro, aplica-se também multa.
+P: Atestado médico falso || Crime próprio do médico || Multa se houver lucro
+K: atestado médico falso; médico; falsidade
+
+@CP 303
+I: É crime reproduzir ou alterar selo ou peça filatélica de valor para coleção, salvo se a reprodução estiver visivelmente anotada, e usar essas peças para comércio. A Lei nº 6.538/1978 também trata do tema.
+P: Falsificação de selos de coleção || Exceção da reprodução identificada
+K: filatelia; selo; falsificação
+
+@CP 304
+I: É crime usar qualquer dos documentos falsificados dos arts. 297 a 302, com a mesma pena da falsificação. Quem falsifica e usa responde só pela falsificação (o uso é exaurimento). Pela Súmula 546 do STJ, a competência é definida pela entidade ou órgão a quem o documento é apresentado.
+P: Uso de documento falso || Mesma pena da falsificação || Competência pelo órgão a quem se apresenta (Súmula 546 do STJ)
+K: uso de documento falso; falsificação; Súmula 546
+
+@CP 305
+I: É crime destruir, suprimir ou ocultar documento público ou particular verdadeiro de que não se podia dispor, em benefício próprio ou alheio ou em prejuízo de outrem.
+P: Supressão de documento verdadeiro || Pena maior para documento público
+K: supressão de documento; destruição; fé pública
+
+@CP 306
+I: É crime falsificar ou usar marca ou sinal empregado pelo poder público no contraste de metal precioso, na fiscalização alfandegária, sanitária ou para autenticar objetos.
+P: Falsificação de sinais de fiscalização pública
+K: sinal público; fiscalização; falsificação
+
+@CP 307
+I: Falsa identidade é atribuir a si ou a terceiro identidade falsa para obter vantagem ou causar dano, se não houver crime mais grave. Pela Súmula 522 do STJ, é crime atribuir-se falsa identidade perante a autoridade policial, ainda que em autodefesa.
+P: Atribuição de falsa identidade || Subsidiariedade || Crime mesmo em autodefesa (Súmula 522 do STJ)
+K: falsa identidade; autodefesa; Súmula 522
+
+@CP 308
+I: É crime usar como próprio passaporte, título de eleitor, certificado de reservista ou outro documento de identidade alheio, ou ceder o próprio ou de terceiro para que outra pessoa o use.
+P: Uso de documento de identidade alheio || Cessão do documento
+K: documento de identidade; uso indevido; falsa identidade
+
+@CP 309
+I: É crime o estrangeiro usar nome falso para entrar ou permanecer no Brasil, e atribuir a estrangeiro falsa qualidade para facilitar sua entrada.
+P: Uso de nome falso por estrangeiro || Atribuição de falsa qualidade
+K: estrangeiro; migração; falsidade
+
+@CP 310
+I: É crime prestar-se a figurar como dono ou possuidor de ação, título ou valor de estrangeiro, quando a lei proíbe que este os possua (atuar como "testa de ferro").
+P: Testa de ferro de estrangeiro || Bens vedados a estrangeiros
+K: testa de ferro; estrangeiro; propriedade
+
+@CP 311
+I: É crime adulterar, remarcar ou suprimir chassi, motor, placa ou qualquer sinal identificador de veículo, inclusive elétrico ou híbrido. A Lei nº 14.562/2023 incluiu o servidor que ajuda a licenciar veículo adulterado e quem fabrica ou guarda instrumentos de adulteração ou negocia veículo adulterado, com pena maior na atividade comercial. A pena aumenta para o funcionário público.
+P: Adulteração de sinal identificador de veículo || Servidor que facilita o licenciamento || Comércio de veículos adulterados (Lei nº 14.562/2023)
+K: adulteração de chassi; placa; veículo; Lei nº 14.562/2023
+
+@CP 311-A
+I: Incluído pela Lei nº 12.550/2011, o artigo pune quem usa ou divulga indevidamente conteúdo sigiloso de concurso público, exame público, vestibular ou seleção prevista em lei, para beneficiar alguém ou comprometer o certame. Também responde quem facilita o acesso, e a pena aumenta se resulta dano à Administração ou se o autor é funcionário público.
+P: Fraude em concursos e vestibulares || Uso ou divulgação de conteúdo sigiloso || Aumento se há dano ou se o autor é servidor
+K: fraude em concurso; vestibular; certame público; cola eletrônica
+
+@CP 312
+I: Peculato é o funcionário público apropriar-se ou desviar dinheiro, valor ou bem móvel, público ou particular, de que tem a posse em razão do cargo (peculato-apropriação e peculato-desvio), ou subtraí-lo valendo-se da facilidade do cargo (peculato-furto). A pena é de 2 a 12 anos. No peculato culposo, a reparação do dano antes da sentença definitiva extingue a punibilidade, e depois dela reduz a pena pela metade.
+P: Peculato-apropriação, desvio e furto || Reclusão de 2 a 12 anos || Peculato culposo || Reparação do dano no peculato culposo
+K: peculato; funcionário público; administração pública; peculato culposo
+
+@CP 313
+I: Peculato mediante erro de outrem é o funcionário apropriar-se de dinheiro ou utilidade que recebeu, no exercício do cargo, por erro de outra pessoa.
+P: Apropriação de valor recebido por erro || Exercício do cargo
+K: peculato-estelionato; erro de outrem; funcionário público
+
+@CP 313-A
+I: É crime o funcionário autorizado inserir ou facilitar a inserção de dados falsos, ou alterar ou excluir dados corretos, em sistemas da Administração Pública para obter vantagem ou causar dano. A pena é de 2 a 12 anos.
+P: Inserção de dados falsos em sistema público || Crime próprio do funcionário autorizado
+K: dados falsos; sistema de informações; peculato eletrônico
+
+@CP 313-B
+I: É crime o funcionário modificar ou alterar sistema de informações ou programa sem autorização. A pena aumenta se resulta dano à Administração ou ao administrado.
+P: Alteração não autorizada de sistema || Aumento se há dano
+K: sistema de informações; programa de computador; funcionário público
+
+@CP 314
+I: É crime o funcionário extraviar, sonegar ou inutilizar livro oficial ou documento que guarda em razão do cargo, se não houver crime mais grave.
+P: Extravio ou inutilização de documento sob guarda || Subsidiariedade
+K: extravio de documento; livro oficial; funcionário público
+
+@CP 315
+I: É crime dar a verbas ou rendas públicas aplicação diferente da prevista em lei, ainda que em favor do interesse público. Para prefeitos, aplica-se o Decreto-Lei nº 201/1967.
+P: Emprego irregular de verbas públicas || Desvio de finalidade orçamentária
+K: verbas públicas; finanças públicas; desvio de finalidade

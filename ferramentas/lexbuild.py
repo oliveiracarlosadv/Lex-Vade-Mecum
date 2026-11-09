@@ -31,8 +31,8 @@ HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|Capítulo|SEÇÃO|Seção|SUB
 # Aceita "Arts. 52 a 58 (Revogados...)" (intervalo revogado, CTN) como uma unidade.
 # Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
-ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z]|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú]))')
-SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓRIAS|Disposições Finais e Transitórias)$')
+ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z](?:-[A-Z])?|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú]))')
+SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓRIAS|DISPOSIÇÕES FINAIS|Disposições Finais e Transitórias)$')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'Capítulo': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
 def find(prefix, start=0):
@@ -41,8 +41,33 @@ def find(prefix, start=0):
             return i
     raise SystemExit(f'marcador não encontrado: {prefix}')
 
+# Rubrica e artigo na mesma linha no Planalto ("Violação de privilégio de invenção   Art 187. (Revogado...)"):
+# com rubricas ativas, separa em duas linhas, sem alterar o texto.
+if any(p.get('rubricas') for p in cfg['parts']):
+    _L = []
+    for x in L:
+        # Dois artigos revogados na mesma linha ("Art. 190. (Revogado...) Art. 191. (Revogado...)").
+        while True:
+            d = re.match(r'^((?:Arts?\.?)\s*\d+[^()]*\([^()]*\))\s+((?:Arts?\.?)\s*\d.*)$', x)
+            if not d: break
+            _L.append(d.group(1)); x = d.group(2)
+        m = re.match(r'^([^()§]{3,120}?)\s{2,}((?:Arts?\.?|Ar\.|At\.)\s*\d.*)$', x)
+        if m and m.group(1) != m.group(1).upper() and not ART.match(x): _L += [m.group(1).strip(), m.group(2)]
+        else: _L.append(x)
+    L = _L
 units, structure = [], []
 pos = 0
+# Rubricas (títulos marginais, como no Código Penal: "Anterioridade da Lei" antes do art. 1º):
+# com "rubricas": true na parte, a linha solta logo antes de um artigo passa a ser a primeira
+# linha desse artigo, e não a última do artigo anterior nem parte do nome do Título/Capítulo.
+RUB_NAO = re.compile(r'^(Arts?\.|Ar\.|At\.|§|Parágrafo|Pena\s*[-–—]|[IVXLC]+(-[A-Z])?\s*[-–]|[a-z]\)|\(|⟦|~~)')
+def rubrica(k, fim, maiusc=False):
+    # Logo depois de um Título/Capítulo, a linha em maiúsculas é o nome da divisão; entre artigos,
+    # é rubrica (ex.: art. 281 do CP). Rubricas com nota de alteração podem passar de 160 caracteres.
+    if not L[k] or RUB_NAO.match(L[k]) or HEAD.match(L[k]) or len(L[k]) > 260 or (L[k] == L[k].upper() and not maiusc): return False
+    j = k + 1
+    while j < fim and not L[j]: j += 1
+    return j < fim and bool(ART.match(L[j]))
 for p in cfg['parts']:
     a = find(p['start'], pos)
     b = find(p['end'], a + 1)
@@ -56,6 +81,8 @@ for p in cfg['parts']:
         continue
     path = [None] * 7
     cur = None
+    pend = []
+    rub = p.get('rubricas')
     i = a
     while i < b:
         l = L[i]
@@ -74,6 +101,7 @@ for p in cfg['parts']:
             name = m.group(4).strip()
             j = i + 1; notes = []; parts = [name] if name else []
             while j < b and not ART.match(L[j]) and not HEAD.match(L[j]):
+                if rub and rubrica(j, b): break
                 if L[j].startswith('('): notes.append(L[j])
                 # Linhas tachadas ou dispositivos soltos (§, incisos, alíneas de artigo revogado)
                 # não fazem parte do nome do Título/Capítulo/Seção.
@@ -90,10 +118,13 @@ for p in cfg['parts']:
         if m:
             letra = m.group(3) or ''
             num = m.group(1).replace('.', '') + (('-' + letra) if letra and not letra.startswith('-') else letra)
-            cur = {'part': p['id'], 'num': num, 'path': [x for x in path if x], 'lines': [l]}
+            cur = {'part': p['id'], 'num': num, 'path': [x for x in path if x], 'lines': pend + [l]}
+            pend = []
             units.append(cur)
             structure.append({'part': p['id'], 'level': 9, 'art': num})
             i += 1; continue
+        if rub and rubrica(i, b, maiusc=True):
+            pend.append(l); i += 1; continue
         if cur: cur['lines'].append(l)
         elif p.get('preamble') and not units:
             units.append({'part': p['id'], 'num': 'preambulo', 'path': [], 'lines': [l]})

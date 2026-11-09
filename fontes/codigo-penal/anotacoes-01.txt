@@ -1,0 +1,199 @@
+@CP 1
+I: O artigo consagra o princípio da legalidade (reserva legal e anterioridade): só a lei pode definir crimes e cominar penas, e a lei deve ser anterior ao fato. A mesma garantia está no art. 5º, XXXIX, da Constituição. Daí decorre a proibição de analogia para criar ou agravar crimes e a exigência de tipos penais claros.
+P: Não há crime nem pena sem lei anterior || Garantia constitucional (CF, art. 5º, XXXIX) || Vedação de analogia contra o réu
+K: princípio da legalidade; reserva legal; anterioridade; nullum crimen sine lege
+
+@CP 2
+I: Se uma lei posterior deixa de considerar o fato crime (abolitio criminis), cessam a execução e os efeitos penais da condenação, permanecendo apenas os efeitos civis. Além disso, a lei posterior mais benéfica retroage e alcança fatos anteriores, mesmo com condenação definitiva. É a retroatividade da lei penal benéfica, prevista também no art. 5º, XL, da Constituição.
+P: Abolitio criminis extingue a execução e os efeitos penais || Retroatividade da lei mais benéfica, mesmo após o trânsito em julgado || Lei mais grave não retroage (CF, art. 5º, XL)
+K: lei penal no tempo; abolitio criminis; retroatividade benéfica; novatio legis in mellius
+
+@CP 3
+I: A lei excepcional (feita para situações anormais, como calamidades) e a lei temporária (com prazo certo de vigência) continuam aplicáveis aos fatos praticados enquanto estavam em vigor, mesmo depois de encerrado seu período. É a ultratividade, que impede que o agente se beneficie do fim da vigência.
+P: Lei excepcional e lei temporária || Ultratividade para fatos praticados na vigência
+K: lei excepcional; lei temporária; ultratividade
+
+@CP 4
+I: O crime considera-se praticado no momento da ação ou omissão, ainda que o resultado ocorra depois (teoria da atividade). A regra define, por exemplo, a lei aplicável e a imputabilidade: quem tinha 17 anos ao atirar não responde penalmente, ainda que a vítima morra após o agente completar 18.
+P: Teoria da atividade || Momento da conduta define a lei aplicável e a imputabilidade
+K: tempo do crime; teoria da atividade; momento da ação
+
+@CP 5
+I: A lei brasileira aplica-se aos crimes cometidos no território nacional, ressalvados tratados e convenções (territorialidade temperada). Consideram-se território, por extensão, as embarcações e aeronaves públicas brasileiras onde estiverem e as privadas em alto-mar ou espaço aéreo correspondente. Também se aplica a lei brasileira a crimes a bordo de embarcações e aeronaves estrangeiras privadas em território brasileiro.
+P: Territorialidade temperada || Território por extensão: navios e aeronaves || Embarcações e aeronaves estrangeiras privadas no Brasil
+K: territorialidade; território nacional; embarcação; aeronave
+
+@CP 6
+I: O lugar do crime é tanto onde ocorreu a ação ou omissão quanto onde se produziu ou deveria produzir-se o resultado (teoria da ubiquidade). A regra resolve os crimes à distância, iniciados num país e consumados em outro, permitindo aplicar a lei brasileira se qualquer parte ocorreu aqui.
+P: Teoria da ubiquidade || Crimes à distância || Ação ou resultado no Brasil atrai a lei brasileira
+K: lugar do crime; ubiquidade; crime à distância
+
+@CP 7
+I: A extraterritorialidade permite aplicar a lei brasileira a crimes cometidos no exterior. É incondicionada nos crimes contra a vida ou liberdade do Presidente, contra o patrimônio ou a fé pública de entes públicos, contra a administração pública por quem está a seu serviço e no genocídio praticado por brasileiro ou domiciliado no Brasil. É condicionada nos crimes previstos em tratado, praticados por brasileiro ou em aeronaves e embarcações brasileiras privadas no exterior, exigindo-se, entre outros requisitos, a entrada do agente no Brasil e a dupla tipicidade. Há ainda regra para crimes de estrangeiro contra brasileiro fora do país.
+P: Extraterritorialidade incondicionada (inciso I) || Extraterritorialidade condicionada (inciso II e § 2º) || Crime de estrangeiro contra brasileiro no exterior (§ 3º)
+K: extraterritorialidade; crime no exterior; genocídio; dupla tipicidade
+
+@CP 8
+I: A pena cumprida no estrangeiro pelo mesmo crime é descontada da pena imposta no Brasil, se forem iguais, ou atenua a pena brasileira, se forem diferentes. A regra evita o duplo castigo pelo mesmo fato (ne bis in idem).
+P: Desconto da pena cumprida no exterior || Atenuação quando as penas são diversas || Vedação do bis in idem
+K: pena cumprida no estrangeiro; detração; bis in idem
+
+@CP 9
+I: A sentença penal estrangeira pode ser homologada no Brasil para obrigar o condenado à reparação do dano e a outros efeitos civis, a pedido da parte, ou para aplicar medida de segurança, havendo tratado de extradição ou requisição do Ministro da Justiça. A homologação compete hoje ao STJ (CF, art. 105, I, "i").
+P: Homologação para efeitos civis ou medida de segurança || Requisitos conforme o efeito pretendido || Competência do STJ
+K: sentença estrangeira; homologação; STJ; efeitos civis
+
+@CP 10
+I: Nos prazos penais, o dia do começo é incluído na contagem, e os dias, meses e anos seguem o calendário comum. É a regra para prazos de natureza material, como os de pena, prescrição e decadência, diferente da regra processual (CPP, art. 798), que exclui o dia do começo.
+P: Inclusão do dia do começo || Calendário comum || Prazos penais materiais
+K: contagem de prazo; prazo penal; prescrição; decadência
+
+@CP 11
+I: Desprezam-se as frações de dia nas penas privativas de liberdade e restritivas de direitos, e as frações de moeda na pena de multa (o texto ainda fala em "cruzeiro", moeda da época).
+P: Frações de dia desprezadas || Frações de moeda na multa
+K: frações de pena; cálculo da pena; multa
+
+@CP 12
+I: As regras gerais do Código Penal aplicam-se aos crimes previstos em leis especiais, salvo se estas dispuserem de modo diferente. Assim, institutos como tentativa, concurso de pessoas e prescrição valem para a legislação extravagante.
+P: Aplicação subsidiária da Parte Geral || Prevalência de regra especial em contrário
+K: legislação especial; parte geral; aplicação subsidiária
+
+@CP 13
+I: O resultado só é imputável a quem lhe deu causa, sendo causa toda ação ou omissão sem a qual ele não teria ocorrido (teoria da equivalência dos antecedentes). A causa superveniente relativamente independente que, por si só, produz o resultado rompe o nexo, respondendo o agente só pelos atos anteriores. A omissão é relevante quando o omitente devia e podia agir, por dever legal, por ter assumido a responsabilidade de evitar o resultado ou por ter criado o risco (garante).
+P: Equivalência dos antecedentes || Causa superveniente que por si só produz o resultado || Omissão imprópria: dever de agir do garante
+K: nexo causal; relação de causalidade; omissão imprópria; garante
+
+@CP 14
+I: O crime é consumado quando reúne todos os elementos do tipo e tentado quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente. Salvo disposição em contrário, a tentativa é punida com a pena do crime consumado diminuída de um a dois terços, conforme a proximidade da consumação.
+P: Crime consumado e crime tentado || Início da execução || Redução de 1/3 a 2/3 na tentativa
+K: tentativa; consumação; iter criminis; redução de pena
+
+@CP 15
+I: Na desistência voluntária, o agente para de executar o crime; no arrependimento eficaz, ele já executou, mas impede o resultado. Em ambos, responde apenas pelos atos já praticados, se forem crimes por si mesmos. É a chamada ponte de ouro, que estimula o agente a abandonar o crime.
+P: Desistência voluntária || Arrependimento eficaz || Resposta apenas pelos atos já praticados
+K: desistência voluntária; arrependimento eficaz; ponte de ouro
+
+@CP 16
+I: Nos crimes sem violência ou grave ameaça à pessoa, se o agente, voluntariamente, reparar o dano ou restituir a coisa até o recebimento da denúncia ou queixa, a pena é reduzida de um a dois terços. É o arrependimento posterior, causa de diminuição de pena.
+P: Crimes sem violência ou grave ameaça || Reparação até o recebimento da denúncia || Redução de 1/3 a 2/3
+K: arrependimento posterior; reparação do dano; diminuição de pena
+
+@CP 17
+I: Não se pune a tentativa quando o crime era impossível de consumar por ineficácia absoluta do meio (como tentar matar com arma de brinquedo) ou absoluta impropriedade do objeto (como "matar" quem já está morto). Se a ineficácia for apenas relativa, há tentativa punível. A Súmula 145 do STF trata do flagrante preparado como crime impossível.
+P: Ineficácia absoluta do meio || Impropriedade absoluta do objeto || Flagrante preparado (Súmula 145 do STF)
+K: crime impossível; tentativa inidônea; flagrante preparado
+
+@CP 18
+I: O crime é doloso quando o agente quis o resultado (dolo direto) ou assumiu o risco de produzi-lo (dolo eventual), e culposo quando o causou por imprudência, negligência ou imperícia. Salvo previsão expressa, só se pune o crime doloso: a modalidade culposa precisa estar prevista em lei.
+P: Dolo direto e dolo eventual || Culpa: imprudência, negligência e imperícia || Excepcionalidade do crime culposo
+K: dolo; dolo eventual; culpa; crime culposo
+
+@CP 19
+I: O agente só responde pelo resultado que agrava especialmente a pena se o tiver causado ao menos culposamente. A regra afasta a responsabilidade penal objetiva nos crimes qualificados pelo resultado, como a lesão corporal seguida de morte.
+P: Crime qualificado pelo resultado || Exigência de culpa quanto ao resultado agravador || Vedação da responsabilidade objetiva
+K: crime preterdoloso; resultado agravador; responsabilidade subjetiva
+
+@CP 20
+I: O erro sobre elemento do tipo exclui o dolo, permitindo a punição por culpa se prevista. Nas descriminantes putativas, quem supõe, por erro justificado, situação que tornaria a ação legítima fica isento de pena. Responde o terceiro que provoca o erro. No erro sobre a pessoa, consideram-se as qualidades da vítima pretendida, e não as da atingida.
+P: Erro de tipo exclui o dolo || Descriminantes putativas || Erro provocado por terceiro || Erro sobre a pessoa
+K: erro de tipo; descriminante putativa; erro sobre a pessoa; legítima defesa putativa
+
+@CP 21
+I: O desconhecimento da lei não escusa, mas o erro sobre a ilicitude do fato (erro de proibição), se inevitável, isenta de pena e, se evitável, permite reduzi-la de um sexto a um terço. O erro é evitável quando o agente podia, nas circunstâncias, ter consciência da ilicitude.
+P: Desconhecimento da lei é inescusável || Erro de proibição inevitável isenta de pena || Erro evitável reduz a pena de 1/6 a 1/3
+K: erro de proibição; consciência da ilicitude; culpabilidade
+
+@CP 22
+I: Se o fato é cometido sob coação moral irresistível ou em estrita obediência a ordem não manifestamente ilegal de superior hierárquico, só responde quem coagiu ou deu a ordem. São causas de exclusão da culpabilidade por inexigibilidade de conduta diversa.
+P: Coação moral irresistível || Obediência hierárquica a ordem não manifestamente ilegal || Pune-se o coator ou o superior
+K: coação irresistível; obediência hierárquica; inexigibilidade de conduta diversa
+
+@CP 23
+I: Não há crime quando o fato é praticado em estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito. São as causas de exclusão da ilicitude. Em qualquer delas, o agente responde pelo excesso doloso ou culposo. O STF, na ADPF 779, declarou inconstitucional o uso da tese da "legítima defesa da honra" em casos de feminicídio.
+P: Excludentes de ilicitude || Excesso punível || Vedação da tese de legítima defesa da honra (ADPF 779)
+K: exclusão de ilicitude; excludentes; excesso; ADPF 779
+
+@CP 24
+I: Age em estado de necessidade quem pratica o fato para salvar direito próprio ou alheio de perigo atual, que não provocou voluntariamente nem podia evitar de outro modo, quando não era razoável exigir o sacrifício do bem. Quem tem dever legal de enfrentar o perigo, como bombeiros e policiais, não pode alegá-lo. Se era razoável exigir o sacrifício, a pena pode ser reduzida.
+P: Perigo atual não provocado e inevitável || Razoabilidade do sacrifício || Dever legal de enfrentar o perigo afasta a excludente
+K: estado de necessidade; perigo atual; excludente de ilicitude
+
+@CP 25
+I: Age em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem. A Lei nº 13.964/2019 incluiu a hipótese do agente de segurança pública que repele agressão ou risco de agressão a refém. O STF (ADPF 779) afastou a tese da legítima defesa da honra.
+P: Agressão injusta, atual ou iminente || Uso moderado dos meios necessários || Agente de segurança que protege refém (Lei nº 13.964/2019) || Vedação da legítima defesa da honra
+K: legítima defesa; agressão injusta; moderação; refém; ADPF 779
+
+@CP 26
+I: É isento de pena (inimputável) quem, por doença mental ou desenvolvimento mental incompleto ou retardado, era inteiramente incapaz de entender o caráter ilícito do fato ou de se determinar por esse entendimento, recebendo medida de segurança. Se a capacidade era apenas reduzida (semi-imputável), a pena pode ser diminuída de um a dois terços. O critério é biopsicológico.
+P: Inimputabilidade por doença mental || Critério biopsicológico || Semi-imputabilidade reduz a pena de 1/3 a 2/3
+K: inimputabilidade; doença mental; semi-imputabilidade; medida de segurança
+
+@CP 27
+I: Os menores de 18 anos são penalmente inimputáveis e ficam sujeitos à legislação especial, hoje o Estatuto da Criança e do Adolescente, que prevê medidas socioeducativas. A regra também está no art. 228 da Constituição. O critério é puramente biológico (etário).
+P: Inimputabilidade abaixo de 18 anos || Critério etário || ECA e CF, art. 228
+K: menoridade penal; inimputabilidade; ECA; ato infracional
+
+@CP 28
+I: Emoção, paixão e embriaguez voluntária ou culposa não excluem a imputabilidade (teoria da actio libera in causa). Só a embriaguez completa por caso fortuito ou força maior que tire inteiramente a capacidade de entendimento isenta de pena; se a capacidade for apenas reduzida, a pena pode ser diminuída de um a dois terços.
+P: Emoção e paixão não excluem a imputabilidade || Embriaguez voluntária ou culposa não isenta || Embriaguez fortuita completa isenta de pena
+K: embriaguez; emoção; paixão; actio libera in causa
+
+@CP 29
+I: Quem concorre de qualquer modo para o crime responde pelas penas a ele cominadas, na medida de sua culpabilidade (teoria monista). A participação de menor importância permite reduzir a pena de um sexto a um terço. Se um concorrente quis participar de crime menos grave, responde por ele, com aumento de até metade se o resultado mais grave era previsível (cooperação dolosamente distinta).
+P: Teoria monista do concurso de pessoas || Participação de menor importância || Cooperação dolosamente distinta
+K: concurso de pessoas; coautoria; participação; teoria monista
+
+@CP 30
+I: As circunstâncias e condições de caráter pessoal não se comunicam aos demais concorrentes, salvo quando elementares do crime. Por isso, no peculato, a condição de funcionário público, elementar do tipo, estende-se ao particular que dela sabia e colaborou.
+P: Incomunicabilidade das circunstâncias pessoais || Comunicação das elementares conhecidas
+K: circunstâncias incomunicáveis; elementares; concurso de pessoas
+
+@CP 31
+I: O ajuste, a determinação, a instigação e o auxílio não são puníveis se o crime não chega a ser ao menos tentado, salvo disposição expressa em contrário, como na associação criminosa (art. 288).
+P: Participação impunível sem início de execução || Exceção dos crimes autônomos de preparação
+K: impunibilidade; atos preparatórios; participação; ajuste
+
+@CP 32
+I: As penas previstas no Código são três: privativas de liberdade (reclusão e detenção), restritivas de direitos e multa. A Constituição proíbe penas de morte (salvo guerra declarada), perpétuas, de trabalhos forçados, de banimento e cruéis (art. 5º, XLVII).
+P: Penas privativas de liberdade, restritivas de direitos e multa || Penas vedadas pela Constituição
+K: espécies de pena; reclusão; detenção; pena restritiva de direitos; multa
+
+@CP 33
+I: A reclusão é cumprida nos regimes fechado, semiaberto ou aberto; a detenção, em semiaberto ou aberto, salvo regressão. O regime inicial considera a pena (fechado acima de 8 anos; semiaberto acima de 4 até 8 para não reincidente; aberto até 4 anos para não reincidente) e as circunstâncias do art. 59. A execução é progressiva. Nos crimes contra a administração pública, a progressão depende da reparação do dano. Pela Súmula 440 do STJ, a gravidade abstrata do crime não justifica regime mais severo que o cabível.
+P: Regimes fechado, semiaberto e aberto || Critérios do regime inicial || Progressão de regime || Reparação do dano nos crimes contra a administração (§ 4º)
+K: regime prisional; regime inicial; progressão de regime; reclusão; detenção
+
+@CP 34
+I: No regime fechado, o condenado passa por exame criminológico de classificação, trabalha em comum durante o dia e fica isolado no repouso noturno. O trabalho externo é admitido em serviços ou obras públicas.
+P: Exame criminológico de classificação || Trabalho diurno e isolamento noturno || Trabalho externo em obras públicas
+K: regime fechado; trabalho do preso; exame criminológico
+
+@CP 35
+I: No regime semiaberto, o condenado trabalha em comum durante o dia em colônia agrícola, industrial ou similar. São admitidos o trabalho externo e a frequência a cursos profissionalizantes, de ensino médio ou superior.
+P: Colônia agrícola ou industrial || Trabalho externo e estudo
+K: regime semiaberto; colônia agrícola; trabalho externo
+
+@CP 36
+I: O regime aberto baseia-se na autodisciplina: o condenado trabalha ou estuda fora sem vigilância e se recolhe à noite e nos dias de folga. Ele regride se praticar crime doloso, frustrar os fins da execução ou, podendo, não pagar a multa.
+P: Autodisciplina e responsabilidade || Recolhimento noturno || Hipóteses de regressão
+K: regime aberto; casa de albergado; regressão de regime
+
+@CP 37
+I: As mulheres cumprem pena em estabelecimento próprio, respeitados os deveres e direitos ligados à sua condição pessoal, como a gestação e a amamentação. A Constituição garante às presidiárias condições para permanecer com os filhos durante a amamentação (art. 5º, L).
+P: Estabelecimento próprio para mulheres || Direitos ligados à condição pessoal
+K: mulher presa; estabelecimento prisional; regime especial
+
+@CP 38
+I: O preso conserva todos os direitos não atingidos pela perda da liberdade, e as autoridades devem respeitar sua integridade física e moral (CF, art. 5º, XLIX). A Lei de Execução Penal (Lei nº 7.210/1984) lista esses direitos.
+P: Preservação dos direitos não atingidos pela pena || Integridade física e moral do preso
+K: direitos do preso; integridade física; execução penal
+
+@CP 39
+I: O trabalho do preso deve ser sempre remunerado, com os benefícios da Previdência Social. O trabalho também gera remição de pena, nos termos da Lei de Execução Penal (art. 126).
+P: Trabalho remunerado || Benefícios previdenciários || Remição pelo trabalho (LEP)
+K: trabalho do preso; remuneração; remição; previdência
+
+@CP 40
+I: A legislação especial regula os direitos e deveres do preso, a revogação e transferência de regimes e as faltas disciplinares. Essa lei é a Lei de Execução Penal (Lei nº 7.210/1984).
+P: Remissão à legislação de execução penal || Direitos, deveres e faltas disciplinares
+K: Lei de Execução Penal; execução penal; faltas disciplinares

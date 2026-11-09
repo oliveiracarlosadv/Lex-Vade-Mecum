@@ -1,0 +1,249 @@
+@CP 316
+I: Concussão é o funcionário exigir, para si ou outrem, vantagem indevida em razão da função, ainda que fora dela ou antes de assumi-la. A pena é de 2 a 12 anos. O excesso de exação é exigir tributo que sabe ou deveria saber indevido, ou cobrar o devido por meio vexatório não autorizado; se o funcionário desvia o que recebeu indevidamente, a pena é maior.
+P: Exigência de vantagem indevida em razão da função || Crime formal: consuma-se com a exigência || Excesso de exação
+K: concussão; excesso de exação; funcionário público; vantagem indevida
+
+@CP 317
+I: Corrupção passiva é o funcionário solicitar ou receber vantagem indevida, ou aceitar promessa dela, em razão da função. A pena é de 2 a 12 anos, aumentada de um terço se ele efetivamente retarda, omite ou pratica ato com violação de dever. A corrupção passiva privilegiada (§ 2º) ocorre quando o funcionário viola dever cedendo a pedido ou influência, sem vantagem.
+P: Solicitar, receber ou aceitar promessa de vantagem || Corrupção exaurida com aumento de 1/3 || Corrupção passiva privilegiada
+K: corrupção passiva; funcionário público; vantagem indevida; ato de ofício
+
+@CP 318
+I: É crime o funcionário facilitar, com infração de dever funcional, a prática de contrabando ou descaminho. É exceção à teoria monista: o servidor responde por este crime, e não como partícipe do contrabando.
+P: Facilitação com violação do dever funcional || Exceção à teoria monista
+K: facilitação de contrabando; descaminho; funcionário público
+
+@CP 319
+I: Prevaricação é o funcionário retardar ou deixar de praticar ato de ofício, ou praticá-lo contra a lei, para satisfazer interesse ou sentimento pessoal. Exige essa finalidade específica.
+P: Retardo, omissão ou ato contra a lei || Interesse ou sentimento pessoal
+K: prevaricação; funcionário público; ato de ofício
+
+@CP 319-A
+I: É crime o diretor de penitenciária ou agente público deixar de cumprir o dever de impedir que o preso tenha acesso a celular, rádio ou aparelho semelhante que permita comunicação com outros presos ou com o exterior (Lei nº 11.466/2007).
+P: Omissão em impedir o acesso do preso a celular || Crime próprio do agente responsável
+K: celular no presídio; prevaricação imprópria; sistema prisional
+
+@CP 320
+I: Condescendência criminosa é o funcionário deixar, por indulgência, de responsabilizar subordinado que cometeu infração no cargo, ou não levar o fato à autoridade competente.
+P: Indulgência com o subordinado || Omissão de responsabilizar ou comunicar
+K: condescendência criminosa; hierarquia; funcionário público
+
+@CP 321
+I: Advocacia administrativa é o funcionário patrocinar interesse privado perante a Administração, valendo-se de sua qualidade. A pena é maior se o interesse é ilegítimo.
+P: Patrocínio de interesse privado || Uso da condição de funcionário || Pena maior se o interesse é ilegítimo
+K: advocacia administrativa; funcionário público; interesse privado
+
+@CP 322
+I: É crime o funcionário praticar violência no exercício da função ou a pretexto de exercê-la. O dispositivo convive com a Lei de Abuso de Autoridade (Lei nº 13.869/2019), que trata de condutas próximas.
+P: Violência no exercício da função || Relação com a Lei de Abuso de Autoridade
+K: violência arbitrária; abuso de autoridade; funcionário público
+
+@CP 323
+I: É crime abandonar cargo público fora dos casos permitidos em lei. A pena é maior se resulta prejuízo público e ainda maior se o fato ocorre na faixa de fronteira.
+P: Abandono de cargo público || Formas qualificadas pelo prejuízo e pela fronteira
+K: abandono de função; cargo público; faixa de fronteira
+
+@CP 324
+I: É crime entrar no exercício de função pública antes de cumprir as exigências legais, ou continuar a exercê-la depois de saber oficialmente que foi exonerado, removido, substituído ou suspenso.
+P: Exercício antecipado ou prolongado da função
+K: exercício funcional ilegal; posse; exoneração
+
+@CP 325
+I: É crime revelar fato sigiloso conhecido em razão do cargo ou facilitar sua revelação, e também emprestar senha ou permitir acesso não autorizado a sistemas da Administração, ou usar indevidamente acesso restrito. Se há dano, a pena é de 2 a 6 anos.
+P: Violação de sigilo funcional || Senhas e acesso indevido a sistemas || Forma qualificada pelo dano
+K: sigilo funcional; senha; sistema de informações; funcionário público
+
+@CP 326
+I: O artigo pune quem devassa o sigilo de proposta em concorrência pública. Foi substituído, nas licitações, pelo art. 337-J, incluído pela Lei nº 14.133/2021.
+P: Sigilo de proposta em concorrência || Regra atual no art. 337-J
+K: sigilo de proposta; licitação; concorrência
+
+@CP 327
+I: Para fins penais, é funcionário público quem exerce cargo, emprego ou função pública, mesmo transitoriamente ou sem remuneração. Equipara-se quem trabalha em entidade paraestatal ou em empresa contratada ou conveniada para atividade típica da Administração. A pena aumenta de um terço para ocupantes de cargos em comissão ou funções de direção ou assessoramento em órgãos e entidades públicas.
+P: Conceito amplo de funcionário público || Equiparação de empregados de paraestatais e conveniadas || Aumento para cargos em comissão e de direção
+K: funcionário público; conceito penal; equiparação; cargo em comissão
+
+@CP 328
+I: É crime usurpar o exercício de função pública, como fingir ser policial ou fiscal. Se o agente obtém vantagem, a pena é maior.
+P: Usurpação de função pública || Forma qualificada pela vantagem
+K: usurpação de função; falso agente público
+
+@CP 329
+I: Resistência é opor-se à execução de ato legal com violência ou ameaça ao funcionário competente ou a quem o auxilia. Se o ato não se executa, a pena é maior. Somam-se as penas da violência.
+P: Oposição violenta a ato legal || Ato não executado: forma qualificada || Cúmulo com a violência
+K: resistência; ato legal; funcionário público
+
+@CP 330
+I: Desobediência é desobedecer a ordem legal de funcionário público. A ordem deve ser legal e dirigida diretamente ao agente, e não há crime quando a lei prevê sanção administrativa ou civil própria sem ressalvar a penal.
+P: Ordem legal de funcionário || Subsidiariedade diante de sanções próprias
+K: desobediência; ordem legal; funcionário público
+
+@CP 331
+I: Desacato é ofender, humilhar ou desprestigiar funcionário público no exercício da função ou em razão dela. O STF (ADPF 496) confirmou que o crime é compatível com a Constituição e com a liberdade de expressão.
+P: Ofensa ao funcionário no exercício ou em razão da função || Compatível com a Constituição (ADPF 496)
+K: desacato; funcionário público; ADPF 496
+
+@CP 332
+I: Tráfico de influência é solicitar, exigir, cobrar ou obter vantagem a pretexto de influir em ato de funcionário público. A pena aumenta de metade se o agente diz que parte da vantagem é para o funcionário.
+P: Venda de influência sobre funcionário || Aumento pela alegação de repasse ao funcionário
+K: tráfico de influência; vantagem; funcionário público
+
+@CP 333
+I: Corrupção ativa é oferecer ou prometer vantagem indevida a funcionário público para que pratique, omita ou retarde ato de ofício. A pena é de 2 a 12 anos, aumentada de um terço se o funcionário efetivamente age com violação de dever. Dar vantagem sem prévia oferta, após solicitação do funcionário, não configura este crime para o particular.
+P: Oferecer ou prometer vantagem indevida || Crime formal || Aumento de 1/3 se o funcionário cede
+K: corrupção ativa; vantagem indevida; particular; administração pública
+
+@CP 334
+I: Descaminho é iludir, total ou parcialmente, o pagamento de imposto devido na entrada, saída ou consumo de mercadoria permitida. Também responde quem vende ou guarda em atividade comercial mercadoria estrangeira sem documentação. A pena dobra no transporte aéreo, marítimo ou fluvial. O STJ aplica o princípio da insignificância até o limite usado pela Fazenda para executar débitos (Tema 157).
+P: Fraude ao pagamento de tributos aduaneiros || Comércio de mercadoria sem documentação || Pena em dobro em transporte aéreo ou marítimo || Insignificância (Tema 157 do STJ)
+K: descaminho; tributo aduaneiro; mercadoria estrangeira; insignificância
+
+@CP 334-A
+I: Contrabando é importar ou exportar mercadoria proibida, com pena de 2 a 5 anos. Também responde quem importa clandestinamente mercadoria que depende de autorização, reinsere mercadoria destinada à exportação ou comercializa mercadoria proibida. A pena dobra no transporte aéreo, marítimo ou fluvial.
+P: Mercadoria proibida || Equiparações (cigarros, remédios sem registro) || Pena em dobro em transporte aéreo ou marítimo
+K: contrabando; mercadoria proibida; cigarro; Lei nº 13.008/2014
+
+@CP 335
+I: O artigo pune quem impede, perturba ou frauda concorrência pública ou hasta pública, ou afasta concorrente por violência, ameaça, fraude ou vantagem. Nas licitações, foi substituído pelos arts. 337-I e 337-K, mas continua aplicável a hastas públicas.
+P: Fraude ou perturbação de concorrência e hasta pública || Regras atuais nos arts. 337-I e 337-K
+K: hasta pública; concorrência; licitação
+
+@CP 336
+I: É crime rasgar ou inutilizar edital afixado por ordem de funcionário, ou violar selo ou sinal usado para identificar ou cerrar objeto por determinação legal ou judicial (como lacres).
+P: Inutilização de edital || Violação de lacre ou selo oficial
+K: edital; lacre; selo; administração pública
+
+@CP 337
+I: É crime subtrair ou inutilizar livro oficial, processo ou documento confiado à custódia de funcionário ou de particular em serviço público.
+P: Subtração ou inutilização de documento sob custódia pública
+K: documento; processo; custódia; administração pública
+
+@CP 337-A
+I: Sonegação de contribuição previdenciária é suprimir ou reduzir contribuição omitindo segurados da folha, deixando de lançar valores na contabilidade ou omitindo receitas e remunerações. A confissão e o pagamento espontâneos antes da ação fiscal extinguem a punibilidade, salvo para o devedor contumaz (LC nº 225/2026). O juiz pode deixar de aplicar a pena ou reduzi-la em casos de pequeno valor ou de empregador pessoa física de folha reduzida.
+P: Supressão ou redução de contribuição previdenciária || Extinção pela confissão espontânea || Exceção do devedor contumaz || Perdão judicial em casos de pequeno valor
+K: sonegação previdenciária; contribuição previdenciária; devedor contumaz; crime tributário
+
+@CP 337-B
+I: Incluído pela Lei nº 10.467/2002, o artigo pune quem promete, oferece ou dá vantagem indevida a funcionário público estrangeiro para obter ato relacionado a transação comercial internacional. A pena aumenta se o funcionário cede.
+P: Corrupção ativa de funcionário estrangeiro || Transação comercial internacional || Convenção da OCDE
+K: corrupção internacional; funcionário público estrangeiro; Lei nº 10.467/2002
+
+@CP 337-C
+I: É crime solicitar ou obter vantagem a pretexto de influir em ato de funcionário público estrangeiro em transação comercial internacional, com aumento se o agente alega repasse ao funcionário.
+P: Tráfico de influência internacional || Aumento pela alegação de repasse
+K: tráfico de influência; funcionário estrangeiro; comércio internacional
+
+@CP 337-D
+I: Para os crimes do capítulo, é funcionário público estrangeiro quem exerce cargo, emprego ou função em entidades estatais ou representações diplomáticas de país estrangeiro, e equipara-se quem atua em empresas controladas por governo estrangeiro ou em organizações públicas internacionais.
+P: Conceito de funcionário público estrangeiro || Equiparação de empresas estatais estrangeiras e organismos internacionais
+K: funcionário público estrangeiro; organização internacional; conceito penal
+
+@CP 337-E
+I: Incluído pela Nova Lei de Licitações (Lei nº 14.133/2021), o artigo pune quem admite, possibilita ou dá causa à contratação direta (sem licitação) fora das hipóteses legais. Pena: 4 a 8 anos.
+P: Dispensa ou inexigibilidade ilegal || Reclusão de 4 a 8 anos || Lei nº 14.133/2021
+K: contratação direta ilegal; dispensa de licitação; Lei nº 14.133/2021
+
+@CP 337-F
+I: É crime frustrar ou fraudar o caráter competitivo da licitação para obter vantagem com a adjudicação, como em acordos entre licitantes (cartel). Pena: 4 a 8 anos.
+P: Frustração da competitividade || Cartel em licitação
+K: fraude em licitação; cartel; competitividade
+
+@CP 337-G
+I: É crime patrocinar interesse privado perante a Administração dando causa a licitação ou contrato que venha a ser invalidado pelo Judiciário.
+P: Patrocínio de interesse privado com contrato invalidado
+K: patrocínio; licitação; contrato administrativo
+
+@CP 337-H
+I: É crime admitir ou dar causa a modificação ou vantagem em favor do contratado, inclusive prorrogação, sem autorização legal, ou pagar fatura fora da ordem cronológica. Pena: 4 a 8 anos.
+P: Modificação irregular do contrato || Quebra da ordem cronológica de pagamentos
+K: contrato administrativo; aditivo; ordem cronológica
+
+@CP 337-I
+I: É crime impedir, perturbar ou fraudar qualquer ato do processo licitatório.
+P: Perturbação de licitação
+K: licitação; fraude; perturbação
+
+@CP 337-J
+I: É crime devassar o sigilo de proposta em licitação ou permitir que terceiro o faça.
+P: Violação do sigilo das propostas
+K: sigilo de proposta; licitação
+
+@CP 337-K
+I: É crime afastar ou tentar afastar licitante por violência, grave ameaça, fraude ou oferta de vantagem, e também se abster de licitar por vantagem oferecida.
+P: Afastamento de licitante || Abstenção mediante vantagem
+K: afastamento de licitante; licitação; vantagem
+
+@CP 337-L
+I: É crime fraudar licitação ou contrato em prejuízo da Administração, entregando mercadoria ou serviço diferente, falsificado ou vencido, alterando substância ou tornando a proposta mais onerosa. Pena: 4 a 8 anos.
+P: Fraude na execução do contrato || Prejuízo à Administração
+K: fraude em contrato; licitação; superfaturamento
+
+@CP 337-M
+I: É crime admitir à licitação ou contratar empresa ou profissional declarado inidôneo, e o inidôneo que participa ou contrata também responde.
+P: Licitação ou contrato com inidôneo || Responsabilidade do próprio inidôneo
+K: contratação inidônea; inidoneidade; licitação
+
+@CP 337-N
+I: É crime obstar injustamente a inscrição de interessado nos registros cadastrais ou alterar, suspender ou cancelar indevidamente o registro.
+P: Impedimento indevido no cadastro de licitantes
+K: registro cadastral; licitação; impedimento
+
+@CP 337-O
+I: É crime o projetista omitir, modificar ou entregar à Administração levantamento ou condição de contorno em relevante dissonância com a realidade, frustrando a competitividade ou a seleção da proposta mais vantajosa. A pena aumenta se há fim de vantagem.
+P: Omissão ou distorção de dados por projetista || Prejuízo à competitividade
+K: projetista; licitação; condição de contorno
+
+@CP 337-P
+I: A multa nos crimes de licitação segue o cálculo do Código, mas não pode ser inferior a 2% do valor do contrato licitado ou celebrado com contratação direta.
+P: Multa mínima de 2% do valor do contrato
+K: multa; licitação; contrato administrativo
+
+@CP 338
+I: É crime o estrangeiro expulso reingressar no território nacional, sem prejuízo de nova expulsão após cumprir a pena.
+P: Reingresso de estrangeiro expulso || Nova expulsão após a pena
+K: estrangeiro expulso; expulsão; reingresso
+
+@CP 338-A
+I: Incluído pela Lei nº 15.280/2025, o artigo pune com reclusão de 2 a 5 anos o descumprimento de decisão judicial que defere medidas protetivas de urgência, qualquer que seja a competência do juiz. Em caso de flagrante, só o juiz pode conceder fiança. Antes, a conduta era tipificada apenas na Lei Maria da Penha (art. 24-A).
+P: Descumprimento de medidas protetivas || Reclusão de 2 a 5 anos || Fiança só pelo juiz || Lei nº 15.280/2025
+K: medidas protetivas; descumprimento; violência doméstica; Lei Maria da Penha
+
+@CP 339
+I: Denunciação caluniosa é dar causa à instauração de inquérito, investigação, processo judicial, processo administrativo disciplinar, inquérito civil ou ação de improbidade contra alguém, imputando-lhe crime, infração ético-disciplinar ou ato ímprobo de que o sabe inocente (Lei nº 14.110/2020). A pena aumenta com anonimato e diminui se a imputação é de contravenção.
+P: Imputação a quem se sabe inocente || Instauração de investigação ou processo || Aumento por anonimato
+K: denunciação caluniosa; administração da justiça; falsa imputação
+
+@CP 340
+I: É crime provocar a ação da autoridade comunicando crime ou contravenção que se sabe não ter ocorrido, sem indicar autor determinado.
+P: Comunicação falsa de crime || Sem imputação a pessoa determinada
+K: comunicação falsa de crime; boletim de ocorrência falso
+
+@CP 341
+I: É crime acusar-se, perante a autoridade, de crime inexistente ou praticado por outra pessoa.
+P: Autoacusação falsa
+K: autoacusação; administração da justiça
+
+@CP 342
+I: Falso testemunho ou falsa perícia é fazer afirmação falsa, negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, administrativo, inquérito ou arbitragem. A pena aumenta por suborno ou se o fim é obter prova em processo penal ou contra a Administração. O fato deixa de ser punível se o agente se retrata antes da sentença no processo.
+P: Falso testemunho e falsa perícia || Retratação antes da sentença extingue a punibilidade || Aumento por suborno
+K: falso testemunho; falsa perícia; retratação; administração da justiça
+
+@CP 343
+I: É crime dar, oferecer ou prometer vantagem a testemunha, perito, contador, tradutor ou intérprete para que mintam ou calem a verdade, ainda que a oferta não seja aceita. A pena aumenta nos mesmos casos do art. 342.
+P: Suborno de testemunha ou perito || Crime formal
+K: suborno; testemunha; perito; corrupção ativa de testemunha
+
+@CP 344
+I: Coação no curso do processo é usar violência ou grave ameaça contra autoridade, parte ou pessoa que atua em processo judicial, policial, administrativo ou arbitral, para favorecer interesse próprio ou alheio. A pena aumenta se o processo envolve crime contra a dignidade sexual (Lei nº 14.245/2021).
+P: Coação de partes, testemunhas ou autoridades || Aumento em processos de crimes sexuais
+K: coação no curso do processo; testemunha; administração da justiça
+
+@CP 345
+I: Exercício arbitrário das próprias razões é fazer justiça pelas próprias mãos para satisfazer pretensão, ainda que legítima, salvo quando a lei permite (como o desforço possessório). Sem violência, a ação é privada.
+P: Justiça pelas próprias mãos || Pretensão ainda que legítima || Ação privada sem violência
+K: exercício arbitrário das próprias razões; autotutela; justiça privada
+
+@CP 346
+I: É crime tirar, suprimir, destruir ou danificar coisa própria que está em poder de terceiro por ordem judicial ou convenção, como o bem penhorado entregue a depositário.
+P: Coisa própria em poder de terceiro || Ordem judicial ou contrato
+K: coisa própria; penhora; depósito; administração da justiça

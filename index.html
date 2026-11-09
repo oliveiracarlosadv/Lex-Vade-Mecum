@@ -203,6 +203,7 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .campos b{color:var(--tinta);font-weight:600}
 .oficial p{margin:0 0 .4em}
 .oficial p.caput{text-indent:1.6em}
+.oficial p.rubrica{text-align:center;font-style:italic;margin-bottom:2px}
 .oficial p.paragrafo{text-indent:1.6em}
 .oficial p.inciso{padding-left:2.2em;text-indent:-1.2em}
 .oficial p.alinea{padding-left:3.4em;text-indent:-1.2em}
@@ -535,7 +536,7 @@ function classeLinha(x) {
 }
 function blocoDispositivo(id, u, casa) {
   const realce = (html) => (casa ? realcar(html, casa) : html);
-  const texto = u.texto.map((x) => `<p class="${classeLinha(x)}">${realce(inline(x))}</p>`).join('');
+  const texto = u.texto.map((x, i) => `<p class="${classeLinha(x) || (i === 0 ? 'rubrica' : '')}">${realce(inline(x))}</p>`).join('');
   const campos = u.campos.length ? `<div class="campos">${u.campos.map((x) => inline(x)).join('<br>')}</div>` : '';
   const alt = u.alt ? `<div class="alt">${inline(u.alt.replace(/^>\s*/, ''))}</div>` : '';
   return `<article class="dispositivo" id="${id}--${u.id}">
@@ -758,7 +759,7 @@ async function copiar(txt) {
 // Texto vigente para envio: trechos tachados (revogados) não são enviados como se valessem.
 function linhaPlana(x) {
   return x.replace(/~~([^~]+)~~/g, (m, t) => {
-    const r = t.match(/^((?:Art|Ar|At)\.\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
+    const r = t.match(/^((?:Art|Ar|At)\.\s*[\d.]+\s*[º°]?(?:-[A-Z]){0,2}\.?|§\s*[\d.]+\s*[º°]?(?:-[A-Z])?\.?|Parágrafo único\.?|[IVXLC]+(?:-[A-Z])?\s*[-–—]|[a-z]\))/);
     return r ? r[1] + ' [revogado]' : '[trecho revogado]';
   }).replace(/\*\*/g, '').replace(/\\([\\.()#>|*+\-_~`[\]])/g, '$1').replace(/\s+\(Revogad[^)]*\)\s*\[revogado\]/, ' [revogado]').trim();
 }
@@ -1580,7 +1581,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'codigo-eleitoral': 'CE', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'codigo-eleitoral': 'CE', 'codigo-penal': 'CP', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && leis.some((l) => l.id === atual) ? [atual] : leis.map((l) => l.id);

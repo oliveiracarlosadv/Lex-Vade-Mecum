@@ -1,0 +1,249 @@
+@CP 215
+I: Violação sexual mediante fraude é ter conjunção carnal ou praticar ato libidinoso com alguém por fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade, como se passar por outra pessoa ou aproveitar-se de falsa condição de terapeuta. Se há fim econômico, aplica-se também multa.
+P: Fraude que vicia o consentimento || Conjunção carnal ou ato libidinoso || Multa se houver fim econômico
+K: violação sexual mediante fraude; estelionato sexual; dignidade sexual
+
+@CP 215-A
+I: Incluído pela Lei nº 13.718/2018, o crime de importunação sexual é praticar ato libidinoso contra alguém, sem sua anuência, para satisfazer a própria lascívia ou a de terceiro, como ejacular ou se esfregar em alguém no transporte público. A pena é de 1 a 5 anos, se não houver crime mais grave.
+P: Ato libidinoso sem anuência da vítima || Sem violência ou grave ameaça || Subsidiariedade em relação ao estupro
+K: importunação sexual; assédio no transporte público; Lei nº 13.718/2018
+
+@CP 216-A
+I: Assédio sexual é constranger alguém para obter vantagem ou favorecimento sexual, valendo-se da condição de superior hierárquico ou de ascendência ligada a emprego, cargo ou função. A pena aumenta até um terço se a vítima é menor de 18 anos.
+P: Relação de hierarquia ou ascendência funcional || Finalidade de favorecimento sexual || Aumento se a vítima é menor de 18 anos
+K: assédio sexual; superior hierárquico; ambiente de trabalho
+
+@CP 216-B
+I: Incluído pela Lei nº 13.772/2018, o artigo pune quem produz, fotografa, filma ou registra cena de nudez ou ato sexual íntimo sem autorização dos participantes, e quem faz montagem para incluir alguém nessas cenas (como os "deepfakes" sexuais).
+P: Registro não autorizado da intimidade sexual || Montagens que incluem a pessoa em cena íntima
+K: intimidade sexual; registro não autorizado; montagem; deepfake
+
+@CP 217-A
+I: Estupro de vulnerável é ter conjunção carnal ou praticar ato libidinoso com menor de 14 anos, ou com quem, por enfermidade ou deficiência mental, não tem discernimento ou não pode oferecer resistência. A pena é de 10 a 18 anos, de 12 a 24 se resulta lesão grave e de 20 a 40 se resulta morte (Lei nº 15.280/2025). A Lei nº 15.353/2026 declarou absoluta a presunção de vulnerabilidade e irrelevantes o consentimento da vítima, sua experiência sexual e eventual gravidez, na linha da Súmula 593 do STJ. É crime hediondo.
+P: Vítima menor de 14 anos ou sem discernimento || Vulnerabilidade absoluta (Lei nº 15.353/2026) || Consentimento irrelevante (Súmula 593 do STJ) || Formas qualificadas por lesão grave ou morte
+K: estupro de vulnerável; vulnerabilidade; Súmula 593; crime hediondo
+
+@CP 218
+I: É crime induzir menor de 14 anos a satisfazer a lascívia de outra pessoa. Pena: reclusão de 6 a 14 anos e multa.
+P: Indução de menor de 14 anos a satisfazer a lascívia alheia
+K: corrupção de menores; vulnerável; dignidade sexual
+
+@CP 218-A
+I: É crime praticar conjunção carnal ou ato libidinoso na presença de menor de 14 anos, ou induzi-lo a presenciar, para satisfazer a lascívia própria ou alheia. Pena: reclusão de 5 a 12 anos e multa.
+P: Ato sexual na presença de menor de 14 anos || Finalidade de satisfazer a lascívia
+K: satisfação de lascívia; criança; vulnerável
+
+@CP 218-B
+I: É crime submeter, induzir ou atrair à prostituição ou exploração sexual menor de 18 anos ou pessoa sem discernimento, facilitá-la ou impedir que a abandone. Respondem também quem pratica ato sexual com adolescente entre 14 e 18 anos nessa situação e o responsável pelo local, cuja licença de funcionamento é cassada.
+P: Exploração sexual de criança, adolescente ou vulnerável || Cliente do adolescente explorado também responde || Cassação da licença do estabelecimento
+K: exploração sexual infantil; prostituição infantil; vulnerável
+
+@CP 218-C
+I: Incluído pela Lei nº 13.718/2018, o artigo pune quem divulga, por qualquer meio, foto ou vídeo de estupro, estupro de vulnerável ou que faça apologia a esses crimes, ou cena de sexo, nudez ou pornografia sem consentimento da vítima. A pena (4 a 10 anos) aumenta de um terço a dois terços se o autor tem ou teve relação íntima com a vítima ou age por vingança ou humilhação ("pornografia de vingança"). Não há crime em publicação jornalística, científica ou acadêmica que impeça a identificação da vítima.
+P: Divulgação de cena de estupro ou de nudez sem consentimento || Pornografia de vingança || Exceção jornalística ou científica sem identificação
+K: pornografia de vingança; divulgação de cena de sexo; nudez; Lei nº 13.718/2018
+
+@CP 225
+I: Nos crimes contra a liberdade sexual e nos crimes sexuais contra vulnerável, a ação penal é pública incondicionada desde a Lei nº 13.718/2018, que revogou a exigência de representação.
+P: Ação pública incondicionada nos crimes sexuais || Fim da exigência de representação (Lei nº 13.718/2018)
+K: ação penal; crimes sexuais; ação pública incondicionada
+
+@CP 226
+I: Nos crimes contra a dignidade sexual, a pena aumenta de um quarto com o concurso de duas ou mais pessoas; de metade se o agente é ascendente, padrasto, tio, irmão, cônjuge, tutor, empregador ou tem autoridade sobre a vítima; e de um terço a dois terços no estupro coletivo e no estupro corretivo (para controlar o comportamento social ou sexual da vítima).
+P: Aumento pelo concurso de pessoas || Aumento pela relação de autoridade ou parentesco || Estupro coletivo e estupro corretivo
+K: estupro coletivo; estupro corretivo; causas de aumento; dignidade sexual
+
+@CP 227
+I: É crime induzir alguém a satisfazer a lascívia de outrem (mediação). A pena é maior se a vítima tem entre 14 e 18 anos ou se o agente é parente ou responsável por ela, e ainda maior com violência, grave ameaça ou fraude. Com fim de lucro, aplica-se também multa.
+P: Mediação para servir a lascívia alheia || Formas qualificadas pela vítima e pelos meios || Multa se houver lucro
+K: lenocínio; mediação; exploração sexual
+
+@CP 228
+I: É crime induzir ou atrair alguém à prostituição ou exploração sexual, facilitá-la ou impedir que a pessoa a abandone. A pena aumenta se o agente é parente, responsável ou empregador, e se há violência, ameaça ou fraude. Com fim de lucro, aplica-se também multa.
+P: Favorecimento da prostituição || Impedir o abandono da prostituição || Formas qualificadas
+K: favorecimento da prostituição; exploração sexual; lenocínio
+
+@CP 229
+I: É crime manter estabelecimento em que ocorra exploração sexual, com ou sem intuito de lucro. A prostituição em si não é crime; pune-se a exploração.
+P: Manutenção de local de exploração sexual || Prostituição em si não é crime
+K: casa de prostituição; exploração sexual; lenocínio
+
+@CP 230
+I: Rufianismo é tirar proveito da prostituição alheia, participando dos lucros ou sendo sustentado por quem a exerce. A pena aumenta se a vítima tem entre 14 e 18 anos, se o agente é parente ou responsável, e se há violência, ameaça ou fraude.
+P: Proveito da prostituição alheia || Formas qualificadas
+K: rufianismo; cafetão; exploração sexual
+
+@CP 231
+I: Dispositivo revogado pela Lei nº 13.344/2016. Tratava do tráfico internacional de pessoa para exploração sexual, hoje abrangido pelo crime de tráfico de pessoas (art. 149-A). A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 13.344/2016 || Matéria hoje no art. 149-A
+K: dispositivo revogado; tráfico de pessoas; Lei nº 13.344/2016
+
+@CP 231-A
+I: Dispositivo revogado pela Lei nº 13.344/2016. Tratava do tráfico interno de pessoa para exploração sexual, hoje abrangido pelo crime de tráfico de pessoas (art. 149-A). A numeração é mantida para preservar as remissões e o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 13.344/2016 || Matéria hoje no art. 149-A
+K: dispositivo revogado; tráfico de pessoas; Lei nº 13.344/2016
+
+@CP 232-A
+I: Incluído pela Lei de Migração (Lei nº 13.445/2017), o artigo pune quem promove, com fim de lucro, a entrada ilegal de estrangeiro no Brasil ou de brasileiro em outro país, e a saída de estrangeiro para ingressar ilegalmente em outro país. A pena aumenta se há violência ou condições desumanas.
+P: Promoção de migração ilegal com fim de lucro || Coiotes || Aumento por violência ou condição degradante
+K: migração ilegal; contrabando de migrantes; Lei nº 13.445/2017
+
+@CP 233
+I: É crime praticar ato obsceno em lugar público ou aberto ou exposto ao público.
+P: Ato obsceno em local público || Pudor público
+K: ato obsceno; pudor público
+
+@CP 234
+I: É crime produzir, importar, guardar ou expor para comércio ou exposição pública escrito ou objeto obsceno, ou realizar espetáculo obsceno em lugar público. O dispositivo tem pouca aplicação atual por causa da liberdade de expressão e da mudança dos costumes.
+P: Escrito ou objeto obsceno || Espetáculo obsceno || Aplicação restrita atualmente
+K: objeto obsceno; pudor público; liberdade de expressão
+
+@CP 234-A
+I: Nos crimes contra a dignidade sexual, a pena aumenta de metade a dois terços se resulta gravidez, e de um terço a dois terços se o agente transmite doença sexualmente transmissível que sabe ou deveria saber ter, ou se a vítima é idosa ou pessoa com deficiência.
+P: Aumento por gravidez resultante || Aumento por transmissão de doença || Vítima idosa ou com deficiência
+K: causas de aumento; gravidez; doença sexualmente transmissível
+
+@CP 234-B
+I: Os processos de crimes contra a dignidade sexual correm em segredo de justiça. Desde a Lei nº 15.035/2024, após condenação em primeira instância por estupro, estupro de vulnerável e outros crimes listados, o nome, o CPF e a tipificação do réu ficam públicos no sistema de consulta processual, voltando o sigilo se houver absolvição em recurso, e o condenado passa a ser monitorado eletronicamente.
+P: Segredo de justiça || Publicidade dos dados do condenado em primeira instância (Lei nº 15.035/2024) || Monitoramento eletrônico do condenado
+K: segredo de justiça; cadastro de condenados; monitoramento eletrônico; crimes sexuais
+
+@CP 234-C
+I: Dispositivo vetado. O artigo foi aprovado pelo Congresso, mas vetado pelo Presidente da República, e não tem conteúdo normativo.
+P: Sem conteúdo normativo || Veto presidencial
+K: dispositivo vetado; veto
+
+@CP 235
+I: Bigamia é contrair novo casamento sendo casado. Quem, sem ser casado, se casa com pessoa casada, sabendo disso, também responde, com pena menor. Se o primeiro casamento for anulado, ou o segundo por outro motivo, não há crime.
+P: Novo casamento de pessoa casada || Responsabilidade do outro contraente que sabe || Anulação afasta o crime
+K: bigamia; casamento; crimes contra o casamento
+
+@CP 236
+I: É crime casar induzindo o outro em erro essencial ou ocultando impedimento (que não seja casamento anterior). A ação depende de queixa do enganado e só pode ser proposta após a anulação do casamento.
+P: Erro essencial ou impedimento oculto || Queixa só após a anulação do casamento
+K: casamento; erro essencial; impedimento; ação privada personalíssima
+
+@CP 237
+I: É crime casar sabendo de impedimento que cause nulidade absoluta do casamento.
+P: Conhecimento prévio do impedimento || Nulidade absoluta
+K: impedimento matrimonial; nulidade; casamento
+
+@CP 238
+I: É crime atribuir-se falsamente autoridade para celebrar casamento, se o fato não for crime mais grave.
+P: Falsa autoridade celebrante || Subsidiariedade
+K: celebração de casamento; falsa autoridade
+
+@CP 239
+I: É crime simular casamento enganando outra pessoa, se o fato não constituir crime mais grave.
+P: Simulação de casamento || Engano da vítima
+K: simulação de casamento; fraude
+
+@CP 241
+I: É crime promover no registro civil a inscrição de nascimento que não existiu.
+P: Registro de nascimento inexistente || Fé pública do registro civil
+K: registro civil; nascimento inexistente; filiação
+
+@CP 242
+I: É crime dar parto alheio como próprio, registrar como seu filho de outra pessoa ("adoção à brasileira"), ou ocultar ou substituir recém-nascido, suprimindo direito ligado ao estado civil. Se o motivo for de reconhecida nobreza, a pena é menor e o juiz pode deixar de aplicá-la.
+P: Adoção à brasileira || Parto suposto e troca de recém-nascido || Perdão judicial por motivo nobre
+K: adoção à brasileira; parto suposto; estado de filiação; perdão judicial
+
+@CP 243
+I: É crime deixar filho, próprio ou alheio, em instituição de assistência ocultando sua filiação ou atribuindo-lhe outra, para prejudicar direito ligado ao estado civil.
+P: Sonegação do estado de filiação || Finalidade de prejudicar direitos
+K: estado de filiação; sonegação; criança
+
+@CP 244
+I: Abandono material é deixar, sem justa causa, de prover a subsistência do cônjuge, de filho menor de 18 anos ou inapto para o trabalho, ou de ascendente inválido ou maior de 60 anos, ou de pagar pensão alimentícia fixada. Também responde quem, sendo solvente, frustra o pagamento da pensão, inclusive abandonando o emprego.
+P: Dever de sustento familiar || Falta de pagamento de pensão alimentícia || Frustração do pagamento por quem é solvente
+K: abandono material; pensão alimentícia; dever de sustento
+
+@CP 245
+I: É crime entregar filho menor de 18 anos a pessoa em cuja companhia ele fica em perigo moral ou material. A pena é maior se há fim de lucro ou envio ao exterior, e também responde quem ajuda a enviar menor ao exterior por lucro.
+P: Entrega de filho a pessoa inidônea || Fim de lucro ou envio ao exterior
+K: entrega de filho; criança; perigo moral; tráfico de crianças
+
+@CP 246
+I: Abandono intelectual é deixar, sem justa causa, de garantir a instrução primária de filho em idade escolar. A educação básica é dever dos pais e do Estado (CF, art. 205).
+P: Dever de garantir a educação básica || Ausência de justa causa
+K: abandono intelectual; educação; dever dos pais
+
+@CP 247
+I: É crime permitir que menor de 18 anos sob seu poder ou guarda frequente casa de jogo, conviva com pessoas de má vida, assista a espetáculos que o pervertam, resida ou trabalhe em casa de prostituição, ou mendigue.
+P: Proteção moral do menor || Omissão de quem tem a guarda
+K: abandono moral; criança; adolescente
+
+@CP 248
+I: É crime induzir menor de 18 anos ou interdito a fugir do lugar onde está por determinação de quem tem autoridade sobre ele, entregá-lo a outra pessoa sem ordem do responsável, ou deixar de entregá-lo a quem legitimamente o reclame.
+P: Induzimento à fuga || Entrega arbitrária || Sonegação de incapaz
+K: incapaz; guarda; poder familiar
+
+@CP 249
+I: É crime subtrair menor de 18 anos ou interdito de quem tem sua guarda por lei ou ordem judicial. O pai, tutor ou curador também responde se estiver destituído ou privado da guarda. Se o menor for devolvido sem maus-tratos, o juiz pode deixar de aplicar a pena.
+P: Subtração de incapaz || Responsabilidade do genitor sem a guarda || Perdão judicial na devolução
+K: subtração de incapaz; guarda; sequestro parental
+
+@CP 250
+I: Incêndio é causar fogo que exponha a perigo a vida, a integridade física ou o patrimônio de outras pessoas (crime de perigo comum). A pena aumenta de um terço se há fim de lucro ou se atinge casa habitada, edifício público, transporte coletivo, depósitos de combustível, lavouras ou florestas, entre outros. Há forma culposa.
+P: Crime de perigo comum || Causas de aumento pelo local ou finalidade || Incêndio culposo
+K: incêndio; perigo comum; crime de perigo
+
+@CP 251
+I: É crime expor a perigo a vida, a integridade ou o patrimônio de outrem por explosão, arremesso ou colocação de dinamite ou substância análoga. A pena é menor com outras substâncias e aumenta nas hipóteses do art. 250. Há forma culposa.
+P: Explosão com dinamite ou análogo || Outras substâncias com pena menor || Forma culposa
+K: explosão; dinamite; perigo comum
+
+@CP 252
+I: É crime expor a perigo a vida, a integridade ou o patrimônio de outrem usando gás tóxico ou asfixiante. Há forma culposa.
+P: Uso de gás tóxico ou asfixiante || Forma culposa
+K: gás tóxico; perigo comum
+
+@CP 253
+I: É crime fabricar, fornecer, adquirir, possuir ou transportar, sem licença, explosivo, gás tóxico ou asfixiante, ou material para fabricá-los. O Estatuto do Desarmamento (Lei nº 10.826/2003, art. 16) também trata de artefatos explosivos.
+P: Posse ou transporte de explosivos sem licença || Relação com o Estatuto do Desarmamento
+K: explosivos; gás tóxico; posse ilegal
+
+@CP 254
+I: É crime causar inundação que exponha a perigo a vida, a integridade ou o patrimônio de outrem, com pena maior no dolo e menor na culpa.
+P: Inundação dolosa ou culposa || Perigo comum
+K: inundação; perigo comum
+
+@CP 255
+I: É crime remover, destruir ou inutilizar obstáculo natural ou obra destinada a impedir inundação, expondo outras pessoas a perigo.
+P: Destruição de obra contra inundação || Perigo comum
+K: perigo de inundação; perigo comum
+
+@CP 256
+I: É crime causar desabamento ou desmoronamento que exponha a perigo a vida, a integridade ou o patrimônio de outrem. Há forma culposa.
+P: Desabamento ou desmoronamento || Forma culposa
+K: desabamento; desmoronamento; perigo comum
+
+@CP 257
+I: É crime subtrair, ocultar ou inutilizar, em incêndio, inundação, naufrágio ou outra calamidade, material de combate ao perigo, socorro ou salvamento, ou impedir ou dificultar esse serviço.
+P: Sabotagem do socorro em desastres || Material de salvamento
+K: material de salvamento; calamidade; socorro
+
+@CP 258
+I: Nos crimes dolosos de perigo comum, a pena aumenta de metade se resulta lesão grave e é dobrada se resulta morte. Nos culposos, aumenta de metade se resulta lesão corporal, e aplica-se a pena do homicídio culposo aumentada de um terço se resulta morte.
+P: Formas qualificadas pelo resultado || Regras para dolo e culpa
+K: perigo comum; crime qualificado pelo resultado
+
+@CP 259
+I: É crime difundir doença ou praga que possa causar dano a floresta, plantação ou animais de valor econômico. A Lei de Crimes Ambientais (Lei nº 9.605/1998, art. 61) trata de conduta semelhante. Há forma culposa.
+P: Difusão de doença ou praga || Relação com a Lei nº 9.605/1998 || Forma culposa
+K: praga; doença; agricultura; perigo comum
+
+@CP 260
+I: É crime impedir ou perturbar serviço de estrada de ferro, danificando a linha, colocando obstáculos, dando falso aviso ou praticando outro ato que possa causar desastre. A pena é maior se ocorre o desastre, e há forma culposa. Estrada de ferro inclui qualquer via de comunicação sobre trilhos.
+P: Perigo de desastre ferroviário || Desastre ferroviário || Forma culposa
+K: desastre ferroviário; segurança dos transportes; ferrovia
+
+@CP 261
+I: É crime expor a perigo embarcação ou aeronave ou dificultar a navegação marítima, fluvial ou aérea. A pena é maior se há naufrágio ou queda de aeronave, com multa se houver fim de lucro. Há forma culposa.
+P: Atentado contra transporte marítimo, fluvial ou aéreo || Sinistro || Forma culposa
+K: transporte aéreo; transporte marítimo; sinistro; segurança dos transportes
+
+@CP 262
+I: É crime expor a perigo outro meio de transporte público, impedir ou dificultar seu funcionamento. A pena é maior se resulta desastre, e há forma culposa.
+P: Atentado contra transporte público || Desastre || Forma culposa
+K: transporte público; segurança dos transportes; desastre

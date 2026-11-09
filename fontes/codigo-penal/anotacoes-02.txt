@@ -1,0 +1,264 @@
+@CP 41
+I: Se o condenado passa a sofrer de doença mental durante a pena, deve ser recolhido a hospital de custódia e tratamento psiquiátrico ou, na falta dele, a outro estabelecimento adequado. A Lei de Execução Penal permite, nesse caso, converter a pena em medida de segurança (art. 183).
+P: Doença mental superveniente || Transferência para hospital de custódia || Possível conversão em medida de segurança
+K: doença mental superveniente; hospital de custódia; execução penal
+
+@CP 42
+I: A detração manda descontar da pena privativa de liberdade e da medida de segurança o tempo de prisão provisória, no Brasil ou no exterior, de prisão administrativa e de internação. O desconto também é considerado na fixação do regime inicial (CPP, art. 387, § 2º).
+P: Desconto da prisão provisória na pena || Prisão no exterior também é computada || Reflexo no regime inicial
+K: detração; prisão provisória; cômputo da pena
+
+@CP 43
+I: O artigo lista as penas restritivas de direitos: prestação pecuniária, perda de bens e valores, prestação de serviços à comunidade, interdição temporária de direitos e limitação de fim de semana. Elas substituem a pena de prisão quando presentes os requisitos do art. 44.
+P: Espécies de penas restritivas de direitos || Caráter substitutivo
+K: penas restritivas de direitos; penas alternativas; prestação pecuniária; serviços à comunidade
+
+@CP 44
+I: As penas restritivas de direitos substituem a prisão quando a pena aplicada não passa de quatro anos e o crime não envolve violência ou grave ameaça (ou, em qualquer caso, se o crime é culposo), o réu não é reincidente em crime doloso e as circunstâncias indicam que a substituição basta. Até um ano, substitui-se por multa ou uma restritiva; acima, por duas restritivas ou uma restritiva e multa. O reincidente pode ser beneficiado se a medida for socialmente recomendável. O descumprimento injustificado converte a pena em prisão, descontado o tempo cumprido.
+P: Requisitos objetivos e subjetivos da substituição || Pena até 4 anos sem violência ou grave ameaça || Crime culposo, qualquer que seja a pena || Conversão em prisão pelo descumprimento
+K: substituição da pena; penas alternativas; requisitos; conversão
+
+@CP 45
+I: Detalha as restritivas de direitos. A prestação pecuniária é paga à vítima, a seus dependentes ou a entidade com destinação social, entre 1 e 360 salários-mínimos, e o valor é deduzido de eventual indenização. Com aceitação do beneficiário, pode ser prestação de outra natureza. A perda de bens e valores reverte ao Fundo Penitenciário Nacional, limitada ao maior entre o prejuízo e o proveito do crime.
+P: Prestação pecuniária de 1 a 360 salários-mínimos || Dedução na indenização civil || Perda de bens e valores ao Fundo Penitenciário
+K: prestação pecuniária; perda de bens; fundo penitenciário; pena alternativa
+
+@CP 46
+I: A prestação de serviços à comunidade cabe em condenações superiores a seis meses e consiste em tarefas gratuitas em entidades assistenciais, hospitais, escolas e programas comunitários, conforme as aptidões do condenado, à razão de uma hora por dia de condenação, sem prejudicar a jornada de trabalho. Se a pena for superior a um ano, pode ser cumprida em menor tempo, não inferior à metade.
+P: Condenações acima de seis meses || Tarefas gratuitas conforme a aptidão || Uma hora de tarefa por dia de condenação
+K: prestação de serviços à comunidade; pena alternativa; tarefas gratuitas
+
+@CP 47
+I: As interdições temporárias de direitos são: proibição de exercer cargo, função ou mandato; proibição de exercer profissão que dependa de habilitação ou licença; suspensão da habilitação para dirigir; proibição de frequentar determinados lugares; e proibição de se inscrever em concurso, avaliação ou exame públicos.
+P: Proibição de cargo, função ou mandato || Proibição de profissão regulamentada || Suspensão da habilitação para dirigir || Proibição de frequentar lugares e de prestar concursos
+K: interdição temporária de direitos; suspensão da habilitação; proibição de exercício profissional
+
+@CP 48
+I: A limitação de fim de semana obriga o condenado a permanecer cinco horas por dia, aos sábados e domingos, em casa de albergado ou estabelecimento adequado, onde pode receber cursos, palestras e atividades educativas.
+P: Cinco horas aos sábados e domingos || Atividades educativas
+K: limitação de fim de semana; casa de albergado; pena alternativa
+
+@CP 49
+I: A multa é paga ao fundo penitenciário e calculada em dias-multa, de 10 a 360. O valor de cada dia-multa vai de um trigésimo a cinco vezes o maior salário-mínimo do tempo do fato, e a multa é corrigida monetariamente na execução.
+P: Sistema de dias-multa (10 a 360) || Valor do dia-multa de 1/30 a 5 salários-mínimos || Correção monetária
+K: pena de multa; dia-multa; fundo penitenciário
+
+@CP 50
+I: A multa deve ser paga em 10 dias após o trânsito em julgado, podendo ser parcelada. Pode ser cobrada por desconto em vencimento ou salário quando aplicada isoladamente, com restritiva de direitos ou com sursis, sem comprometer o sustento do condenado e de sua família.
+P: Pagamento em 10 dias após o trânsito em julgado || Parcelamento || Desconto em salário sem prejuízo do sustento
+K: pagamento da multa; parcelamento; desconto em folha
+
+@CP 51
+I: Transitada em julgado a condenação, a multa é executada perante o juiz da execução penal e tratada como dívida de valor, com as regras da dívida ativa da Fazenda Pública. Não pode mais ser convertida em prisão. O STF (ADI 3.150) reconheceu a legitimidade prioritária do Ministério Público para executá-la.
+P: Multa como dívida de valor || Execução no juízo da execução penal || Vedação de conversão em prisão || Legitimidade do Ministério Público (ADI 3.150)
+K: execução da multa; dívida de valor; juiz da execução; ADI 3.150
+
+@CP 52
+I: A execução da multa fica suspensa se o condenado passa a sofrer de doença mental.
+P: Suspensão da execução da multa por doença mental
+K: multa; doença mental; suspensão da execução
+
+@CP 53
+I: Os limites das penas privativas de liberdade são os fixados em cada tipo penal da Parte Especial (preceito secundário).
+P: Limites mínimo e máximo previstos em cada crime
+K: cominação da pena; preceito secundário; pena privativa de liberdade
+
+@CP 54
+I: As penas restritivas de direitos são aplicáveis em substituição à prisão sem precisar estar previstas na Parte Especial. O texto menciona penas inferiores a um ano e crimes culposos, mas os limites atuais de substituição estão no art. 44.
+P: Aplicação sem previsão na Parte Especial || Caráter substitutivo || Limites atuais no art. 44
+K: penas restritivas de direitos; substituição; cominação
+
+@CP 55
+I: As restritivas de direitos de prestação de serviços, interdição temporária e limitação de fim de semana duram o mesmo tempo da pena de prisão substituída, salvo a possibilidade de cumprir a prestação de serviços em menor tempo (art. 46, § 4º).
+P: Mesma duração da pena substituída || Exceção da prestação de serviços abreviada
+K: duração da pena restritiva; substituição; prestação de serviços
+
+@CP 56
+I: As interdições de cargo, função ou profissão aplicam-se aos crimes cometidos no exercício dessas atividades com violação dos deveres a elas inerentes.
+P: Interdição ligada ao abuso da atividade || Violação de deveres funcionais ou profissionais
+K: interdição; exercício profissional; violação de dever
+
+@CP 57
+I: A suspensão da habilitação para dirigir, como pena restritiva, aplica-se aos crimes culposos de trânsito. O Código de Trânsito Brasileiro tem regras próprias sobre a suspensão e a proibição de obter a habilitação (art. 292).
+P: Suspensão da habilitação nos crimes culposos de trânsito || Regras do CTB
+K: suspensão da habilitação; crime culposo de trânsito; CTB
+
+@CP 58
+I: A multa prevista em cada crime segue os limites do art. 49. A multa substitutiva (arts. 44 e 60, § 2º) pode ser aplicada mesmo sem previsão no tipo penal.
+P: Limites da multa no art. 49 || Multa substitutiva independe de previsão no tipo
+K: pena de multa; multa substitutiva; cominação
+
+@CP 59
+I: O artigo traz as circunstâncias judiciais para fixar a pena-base: culpabilidade, antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do crime e comportamento da vítima. Com base nelas, o juiz escolhe a pena, sua quantidade, o regime inicial e a possibilidade de substituição, conforme o necessário e suficiente para reprovar e prevenir o crime. É a primeira fase da dosimetria.
+P: Oito circunstâncias judiciais || Pena necessária e suficiente || Escolha da pena, quantidade, regime e substituição || Primeira fase da dosimetria
+K: dosimetria; pena-base; circunstâncias judiciais; individualização da pena
+
+@CP 60
+I: Na multa, o juiz considera principalmente a situação econômica do réu e pode triplicá-la se for ineficaz mesmo no máximo. A pena de prisão não superior a seis meses pode ser substituída por multa, observados os requisitos do art. 44.
+P: Situação econômica do réu || Aumento até o triplo || Multa substitutiva até seis meses
+K: multa; situação econômica; multa substitutiva
+
+@CP 61
+I: O artigo lista as agravantes genéricas, aplicadas na segunda fase da dosimetria quando não forem elementares ou qualificadoras: reincidência, motivo fútil ou torpe, traição ou emboscada, uso de veneno, fogo ou meio cruel, crime contra ascendente, descendente, irmão ou cônjuge, abuso de autoridade ou de poder, violência contra a mulher, crime contra criança, maior de 60 anos, enfermo ou gestante, durante calamidade, em embriaguez preordenada e, desde a Lei nº 15.159/2025, nas dependências de instituição de ensino.
+P: Agravantes genéricas || Segunda fase da dosimetria || Não se aplicam quando são elementares ou qualificadoras || Crime em instituição de ensino (Lei nº 15.159/2025)
+K: agravantes; reincidência; motivo fútil; motivo torpe; dosimetria
+
+@CP 62
+I: A pena é agravada, no concurso de pessoas, para quem organiza ou dirige a atividade dos demais, coage ou induz outrem a executar o crime, instiga pessoa sob sua autoridade ou não punível, ou age mediante paga ou promessa de recompensa.
+P: Agravantes no concurso de pessoas || Líder ou organizador || Coação e instigação || Paga ou promessa de recompensa
+K: concurso de pessoas; agravantes; mandante; paga ou promessa
+
+@CP 63
+I: Há reincidência quando o agente comete novo crime depois do trânsito em julgado de condenação anterior, no Brasil ou no exterior. Contravenção anterior seguida de crime não gera reincidência pelo Código Penal.
+P: Novo crime após condenação definitiva || Condenação no exterior também conta
+K: reincidência; trânsito em julgado; antecedentes
+
+@CP 64
+I: A condenação anterior deixa de gerar reincidência depois de cinco anos entre o cumprimento ou extinção da pena e o novo crime (período depurador), contado o período de prova do sursis e do livramento, se não revogados. Não geram reincidência os crimes militares próprios e os políticos. Pela jurisprudência, a condenação antiga ainda pode valer como maus antecedentes.
+P: Período depurador de cinco anos || Exclusão dos crimes militares próprios e políticos || Possível uso como maus antecedentes
+K: reincidência; período depurador; maus antecedentes
+
+@CP 65
+I: O artigo lista as atenuantes genéricas: menoridade relativa (menor de 21 na data do fato) e idade acima de 70 na sentença, salvo se o crime envolver violência sexual contra a mulher (Lei nº 15.160/2025); desconhecimento da lei; relevante valor social ou moral; tentativa de minorar as consequências; coação resistível ou obediência a ordem; violenta emoção provocada pela vítima; confissão espontânea; e influência de multidão em tumulto. Pela Súmula 231 do STJ, a atenuante não leva a pena abaixo do mínimo legal.
+P: Atenuantes genéricas || Exceção da idade nos crimes de violência sexual contra a mulher (Lei nº 15.160/2025) || Confissão espontânea || Súmula 231 do STJ
+K: atenuantes; confissão espontânea; menoridade relativa; dosimetria
+
+@CP 66
+I: A pena pode ser atenuada por circunstância relevante, anterior ou posterior ao crime, mesmo sem previsão expressa (atenuante inominada). Permite ao juiz considerar situações particulares não listadas no art. 65.
+P: Atenuante inominada || Circunstância relevante anterior ou posterior ao crime
+K: atenuante inominada; dosimetria; individualização
+
+@CP 67
+I: No concurso de agravantes e atenuantes, a pena se aproxima das circunstâncias preponderantes: motivos do crime, personalidade do agente e reincidência. O STJ admite a compensação entre a confissão espontânea e a reincidência.
+P: Circunstâncias preponderantes || Motivos, personalidade e reincidência || Compensação entre confissão e reincidência
+K: concurso de circunstâncias; preponderância; compensação
+
+@CP 68
+I: O cálculo da pena segue três fases (sistema trifásico): pena-base pelo art. 59, depois atenuantes e agravantes, por fim causas de diminuição e aumento. Havendo várias causas de aumento ou diminuição da Parte Especial, o juiz pode aplicar só a que mais aumente ou diminua.
+P: Sistema trifásico de dosimetria || Ordem: art. 59, circunstâncias legais, causas de aumento e diminuição || Concurso de causas de aumento ou diminuição
+K: dosimetria; sistema trifásico; causas de aumento; causas de diminuição
+
+@CP 69
+I: No concurso material, o agente pratica dois ou mais crimes com mais de uma ação ou omissão, e as penas são somadas. Executa-se primeiro a reclusão e depois a detenção. Se uma das penas de prisão não for suspensa, não cabe substituição para as demais.
+P: Várias condutas e vários crimes || Soma das penas || Reclusão antes da detenção
+K: concurso material; cúmulo material; soma de penas
+
+@CP 70
+I: No concurso formal, uma só conduta produz dois ou mais crimes: aplica-se a pena mais grave aumentada de um sexto até metade (concurso formal próprio). Se a conduta é dolosa e os crimes resultam de desígnios autônomos, as penas se somam (concurso formal impróprio). A pena nunca pode superar a que resultaria da soma (cúmulo material benéfico).
+P: Uma conduta e vários crimes || Exasperação de 1/6 até metade || Desígnios autônomos levam à soma || Cúmulo material benéfico
+K: concurso formal; desígnios autônomos; exasperação
+
+@CP 71
+I: No crime continuado, vários crimes da mesma espécie, com condições semelhantes de tempo, lugar e modo de execução, são tratados como continuação do primeiro: aplica-se uma só pena, aumentada de um sexto a dois terços. Nos crimes dolosos com violência ou grave ameaça contra vítimas diferentes, o aumento pode chegar ao triplo (continuidade específica).
+P: Crimes da mesma espécie em continuação || Aumento de 1/6 a 2/3 || Continuidade delitiva específica até o triplo
+K: crime continuado; continuidade delitiva; ficção jurídica
+
+@CP 72
+I: No concurso de crimes, as multas são aplicadas de forma distinta e integral, isto é, somadas, sem exasperação.
+P: Multas somadas integralmente no concurso de crimes
+K: multa; concurso de crimes; cúmulo
+
+@CP 73
+I: No erro na execução (aberratio ictus), o agente atinge pessoa diversa da pretendida por acidente ou erro no uso dos meios, e responde como se tivesse atingido a vítima visada. Se também atingir a pretendida, aplica-se o concurso formal.
+P: Aberratio ictus || Consideram-se as qualidades da vítima pretendida || Concurso formal se ambas forem atingidas
+K: erro na execução; aberratio ictus; vítima diversa
+
+@CP 74
+I: No resultado diverso do pretendido (aberratio criminis), o agente atinge bem jurídico diferente do visado e responde por culpa, se houver previsão culposa. Se ocorrer também o resultado pretendido, aplica-se o concurso formal.
+P: Aberratio criminis || Responsabilidade por culpa || Concurso formal se ocorrer também o resultado pretendido
+K: resultado diverso do pretendido; aberratio criminis; culpa
+
+@CP 75
+I: O tempo de cumprimento das penas privativas de liberdade não pode passar de 40 anos (limite elevado de 30 para 40 pela Lei nº 13.964/2019). Penas somadas acima disso são unificadas. Nova condenação por fato posterior ao início do cumprimento leva a nova unificação, desprezado o período já cumprido. Pela Súmula 715 do STF, a unificação não serve de base para calcular benefícios.
+P: Limite máximo de 40 anos || Unificação das penas || Nova unificação por fato posterior || Benefícios calculados sobre a pena total (Súmula 715 do STF)
+K: limite das penas; unificação; 40 anos; Lei nº 13.964/2019
+
+@CP 76
+I: No concurso de infrações, executa-se primeiro a pena mais grave.
+P: Execução prioritária da pena mais grave
+K: concurso de infrações; execução da pena
+
+@CP 77
+I: A suspensão condicional da pena (sursis) cabe para pena de prisão de até dois anos, por dois a quatro anos de prova, se o condenado não for reincidente em crime doloso, as circunstâncias forem favoráveis e não couber a substituição do art. 44. A condenação anterior só à multa não impede o benefício. O sursis etário ou humanitário alcança penas de até quatro anos para maiores de 70 anos ou por razões de saúde.
+P: Pena até 2 anos e prova de 2 a 4 anos || Requisitos subjetivos || Subsidiariedade em relação à substituição || Sursis etário e humanitário até 4 anos
+K: sursis; suspensão condicional da pena; período de prova
+
+@CP 78
+I: Durante a suspensão, o condenado cumpre condições fixadas pelo juiz. No primeiro ano, presta serviços à comunidade ou cumpre limitação de fim de semana. Se reparou o dano e as circunstâncias são inteiramente favoráveis, essas exigências podem ser substituídas por condições mais brandas, como proibição de frequentar lugares e comparecimento mensal ao juízo (sursis especial).
+P: Condições do sursis || Primeiro ano com serviços ou limitação de fim de semana || Sursis especial com condições mais brandas
+K: sursis; condições; sursis especial
+
+@CP 79
+I: A sentença pode impor outras condições ao sursis, desde que adequadas ao fato e à situação pessoal do condenado.
+P: Condições judiciais adicionais || Adequação ao fato e ao condenado
+K: sursis; condições judiciais
+
+@CP 80
+I: A suspensão condicional alcança só a pena privativa de liberdade, e não as penas restritivas de direitos nem a multa.
+P: Sursis não alcança restritivas de direitos nem multa
+K: sursis; multa; penas restritivas
+
+@CP 81
+I: O sursis é revogado obrigatoriamente se o beneficiário for condenado definitivamente por crime doloso, frustrar a multa sendo solvente, não reparar o dano sem motivo ou descumprir a condição do primeiro ano. A revogação é facultativa se descumprir outra condição ou for condenado por crime culposo ou contravenção a pena privativa ou restritiva. Processado por outro crime, o prazo de prova se prorroga até o julgamento.
+P: Revogação obrigatória || Revogação facultativa || Prorrogação do período de prova
+K: revogação do sursis; período de prova; prorrogação
+
+@CP 82
+I: Terminado o período de prova sem revogação, a pena privativa de liberdade é declarada extinta.
+P: Extinção da pena ao fim do período de prova
+K: sursis; extinção da pena
+
+@CP 83
+I: O livramento condicional cabe para pena igual ou superior a dois anos, após cumprir mais de um terço (primário com bons antecedentes) ou mais da metade (reincidente em crime doloso). Exige bom comportamento, ausência de falta grave nos últimos 12 meses (Lei nº 13.964/2019), bom desempenho no trabalho, aptidão para se sustentar e reparação do dano. Nos crimes hediondos e equiparados, exige-se mais de dois terços, vedado ao reincidente específico. Nos crimes com violência ou grave ameaça, também se avaliam as condições pessoais que indiquem que o liberado não voltará a delinquir.
+P: Frações de 1/3, 1/2 e 2/3 || Bom comportamento e sem falta grave em 12 meses || Reparação do dano || Vedação ao reincidente específico em crimes hediondos
+K: livramento condicional; requisitos; crime hediondo; falta grave
+
+@CP 84
+I: As penas de infrações diferentes somam-se para calcular o livramento condicional.
+P: Soma das penas para o livramento
+K: livramento condicional; soma de penas
+
+@CP 85
+I: A sentença deve especificar as condições a que se subordina o livramento, como as previstas na Lei de Execução Penal (art. 132).
+P: Condições fixadas na sentença || Remissão à LEP
+K: livramento condicional; condições
+
+@CP 86
+I: O livramento é revogado obrigatoriamente se o liberado for condenado definitivamente a pena privativa de liberdade por crime cometido durante o benefício ou por crime anterior, neste caso observada a soma das penas.
+P: Revogação obrigatória do livramento || Crime durante o benefício ou anterior
+K: revogação do livramento; livramento condicional
+
+@CP 87
+I: O juiz pode revogar o livramento se o liberado descumprir as obrigações da sentença ou for condenado definitivamente, por crime ou contravenção, a pena não privativa de liberdade.
+P: Revogação facultativa || Descumprimento de condições
+K: revogação facultativa; livramento condicional
+
+@CP 88
+I: Revogado o livramento, ele não pode ser concedido de novo e o tempo em liberdade não é descontado da pena, salvo quando a revogação decorre de condenação por crime anterior ao benefício.
+P: Vedação de novo livramento || Tempo em liberdade não é descontado || Exceção do crime anterior
+K: efeitos da revogação; livramento condicional
+
+@CP 89
+I: O juiz não pode declarar extinta a pena enquanto não transitar em julgado o processo por crime cometido durante o livramento.
+P: Extinção condicionada ao julgamento do crime cometido no período
+K: livramento condicional; extinção da pena
+
+@CP 90
+I: Se o livramento termina sem revogação, a pena privativa de liberdade é considerada extinta.
+P: Extinção da pena ao fim do livramento
+K: livramento condicional; extinção da pena
+
+@CP 91
+I: São efeitos automáticos da condenação: tornar certa a obrigação de indenizar o dano e a perda, em favor da União, dos instrumentos ilícitos do crime e do produto ou proveito obtido, ressalvados os direitos do lesado e de terceiro de boa-fé. Pode ser decretada a perda de bens equivalentes quando o produto não for encontrado ou estiver no exterior.
+P: Obrigação de indenizar || Confisco de instrumentos e produto do crime || Perda de bens equivalentes
+K: efeitos da condenação; confisco; perda de bens; indenização
+
+@CP 91-A
+I: Incluído pela Lei nº 13.964/2019, o artigo cria o confisco alargado: na condenação por infração com pena máxima superior a seis anos de reclusão, pode ser decretada a perda dos bens correspondentes à diferença entre o patrimônio do condenado e o compatível com sua renda lícita. O condenado pode demonstrar a origem lícita, e o pedido deve ser feito pelo Ministério Público na denúncia.
+P: Confisco alargado || Crimes com pena máxima acima de 6 anos || Patrimônio incompatível com a renda lícita || Pedido do Ministério Público na denúncia
+K: confisco alargado; perda de bens; patrimônio incompatível; Lei nº 13.964/2019
+
+@CP 92
+I: São efeitos específicos da condenação, que devem ser declarados de forma fundamentada: perda do cargo, função ou mandato; incapacidade para o poder familiar, tutela ou curatela em crimes contra filhos, tutelados ou titulares do mesmo poder familiar e nos crimes contra a mulher por razões de gênero; e inabilitação para dirigir veículo usado em crime doloso. A Lei nº 15.358/2026 incluiu a suspensão por 180 dias do CNPJ de estabelecimento usado para a receptação, com inaptidão e interdição do administrador na reincidência. Nos crimes contra a mulher por razões de gênero e em crimes sexuais do ECA, os efeitos são automáticos e o condenado fica impedido de assumir cargo ou mandato até cumprir a pena.
+P: Efeitos não automáticos, salvo exceções || Perda de cargo, função ou mandato || Perda do poder familiar || Suspensão do CNPJ ligado à receptação (Lei nº 15.358/2026) || Efeitos automáticos em crimes contra a mulher e contra crianças
+K: efeitos da condenação; perda do cargo; poder familiar; CNPJ; receptação
