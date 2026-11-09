@@ -1,0 +1,249 @@
+@CPP 410
+I: Na primeira fase do júri, o juiz determina a inquirição das testemunhas e as diligências pedidas pelas partes em até 10 dias.
+P: Diligências em 10 dias
+K: tribunal do júri; instrução preliminar; diligências
+
+@CPP 411
+I: A audiência da primeira fase do júri segue a ordem do procedimento comum: ofendido, testemunhas de acusação e defesa, peritos (se requerido), acareações, reconhecimentos e, por último, o interrogatório. As provas são produzidas em audiência única, cabendo a mutatio libelli, e as alegações são orais (20 minutos, prorrogáveis por 10), com decisão em audiência ou em 10 dias.
+P: Audiência una da primeira fase || Interrogatório ao final || Alegações orais
+K: tribunal do júri; audiência de instrução; sumário da culpa
+
+@CPP 412
+I: A primeira fase do júri deve terminar em até 90 dias.
+P: Prazo de 90 dias para a primeira fase
+K: tribunal do júri; prazo; sumário da culpa
+
+@CPP 413
+I: O juiz pronuncia o acusado quando convencido da materialidade do fato e de indícios suficientes de autoria ou participação, remetendo-o ao julgamento pelo júri. A fundamentação deve se limitar a esses pontos e às qualificadoras e causas de aumento, para não influenciar os jurados (vedado o excesso de linguagem). O juiz decide sobre prisão e cautelares.
+P: Requisitos da pronúncia || Fundamentação contida, sem excesso de linguagem || Decisão sobre prisão
+K: pronúncia; indícios de autoria; excesso de linguagem; tribunal do júri
+
+@CPP 414
+I: Se não se convencer da materialidade ou de indícios suficientes de autoria, o juiz impronuncia o acusado. Enquanto não extinta a punibilidade, pode haver nova denúncia com prova nova.
+P: Impronúncia || Nova denúncia com prova nova
+K: impronúncia; prova nova; tribunal do júri
+
+@CPP 415
+I: O juiz absolve sumariamente o acusado no júri quando provada a inexistência do fato, provado que não é autor ou partícipe, o fato não for crime ou houver causa de isenção de pena ou exclusão do crime. A inimputabilidade só leva à absolvição sumária se for a única tese defensiva.
+P: Absolvição sumária no júri || Hipóteses de certeza || Inimputabilidade como tese única
+K: absolvição sumária; tribunal do júri; inimputabilidade
+
+@CPP 416
+I: Contra a impronúncia ou a absolvição sumária cabe apelação. Contra a pronúncia cabe recurso em sentido estrito (art. 581, IV).
+P: Apelação contra impronúncia e absolvição sumária
+K: impronúncia; absolvição sumária; apelação
+
+@CPP 417
+I: Se houver indícios contra pessoas não incluídas na acusação, o juiz devolve os autos ao Ministério Público por 15 dias para as providências cabíveis.
+P: Indícios contra terceiros || Remessa ao Ministério Público
+K: coautores; aditamento; pronúncia
+
+@CPP 418
+I: Na pronúncia, o juiz pode dar ao fato definição jurídica diversa, ainda que mais grave (emendatio libelli).
+P: Emendatio libelli na pronúncia
+K: emendatio libelli; pronúncia; definição jurídica
+
+@CPP 419
+I: Se o juiz entender que o crime não é doloso contra a vida e não for competente, remete os autos ao juiz competente (desclassificação), ficando o acusado preso à disposição deste.
+P: Desclassificação na primeira fase || Remessa ao juízo competente
+K: desclassificação; tribunal do júri; competência
+
+@CPP 420
+I: A pronúncia é intimada pessoalmente ao acusado, ao defensor nomeado e ao Ministério Público, e por publicação ao defensor constituído, querelante e assistente. O acusado solto não encontrado é intimado por edital, sem paralisar o processo.
+P: Intimação da pronúncia || Edital ao acusado solto não encontrado
+K: pronúncia; intimação; edital
+
+@CPP 421
+I: Preclusa a pronúncia, os autos vão ao juiz presidente do júri. Circunstância superveniente que altere a classificação do crime (como a morte da vítima) leva os autos ao Ministério Público e depois à decisão do juiz.
+P: Remessa ao juiz presidente || Fato superveniente que altera a classificação
+K: pronúncia; preclusão; juiz presidente
+
+@CPP 422
+I: Recebidos os autos, o juiz presidente intima as partes para, em 5 dias, apresentar até 5 testemunhas para o plenário, juntar documentos e requerer diligências.
+P: Preparação do plenário || Até 5 testemunhas por parte
+K: tribunal do júri; plenário; testemunhas
+
+@CPP 423
+I: O juiz presidente ordena diligências para sanar nulidades ou esclarecer fatos e faz relatório sucinto do processo, incluindo-o em pauta.
+P: Saneamento e relatório || Inclusão em pauta
+K: tribunal do júri; relatório; pauta
+
+@CPP 424
+I: Se a lei local não atribuir o preparo ao presidente do júri, o juiz competente lhe envia os autos preparados até 5 dias antes do sorteio dos jurados.
+P: Remessa dos autos preparados
+K: tribunal do júri; organização judiciária
+
+@CPP 425
+I: Anualmente, o presidente do júri alista jurados em número proporcional à população da comarca (de 80 a 1.500), podendo ampliar a lista e criar suplentes. Ele requisita indicações a autoridades, associações, instituições de ensino, sindicatos e repartições.
+P: Alistamento anual dos jurados || Número conforme a população || Indicações da sociedade
+K: alistamento de jurados; tribunal do júri
+
+@CPP 426
+I: A lista geral dos jurados é publicada até 10 de outubro e pode ser alterada até 10 de novembro, por reclamação de qualquer pessoa. Os cartões com os nomes são verificados na presença do Ministério Público, da OAB e da Defensoria e guardados em urna fechada. O jurado que integrou o Conselho de Sentença nos 12 meses anteriores é excluído da lista.
+P: Publicação da lista em 10 de outubro || Reclamação até 10 de novembro || Controle pelo Ministério Público, OAB e Defensoria
+K: lista de jurados; tribunal do júri; publicidade
+
+@CPP 427
+I: O tribunal pode desaforar o julgamento para outra comarca da mesma região se o interesse da ordem pública exigir, houver dúvida sobre a imparcialidade do júri ou risco à segurança do acusado, a pedido das partes ou por representação do juiz. O relator pode suspender o julgamento. Pela Súmula 712 do STF, é nula a decisão de desaforamento sem audiência da defesa.
+P: Hipóteses de desaforamento || Suspensão do julgamento pelo relator || Oitiva da defesa (Súmula 712 do STF)
+K: desaforamento; imparcialidade; tribunal do júri
+
+@CPP 428
+I: Também cabe desaforamento por excesso de serviço, se o julgamento não puder ocorrer em 6 meses após a preclusão da pronúncia, desconsiderado o tempo de adiamentos de interesse da defesa. Sem excesso de serviço, o acusado pode pedir a realização imediata do julgamento.
+P: Desaforamento por excesso de serviço || Prazo de 6 meses || Pedido de julgamento imediato
+K: desaforamento; excesso de serviço; prazo
+
+@CPP 429
+I: Na pauta do júri, têm preferência os acusados presos, entre eles os presos há mais tempo, e depois os pronunciados há mais tempo. A lista é afixada antes da reunião.
+P: Ordem de preferência na pauta
+K: pauta; tribunal do júri; réu preso
+
+@CPP 430
+I: O assistente só é admitido no plenário se pedir habilitação até 5 dias antes da sessão.
+P: Prazo de habilitação do assistente
+K: assistente de acusação; plenário
+
+@CPP 431
+I: Com o processo em ordem, o juiz manda intimar as partes, o ofendido, as testemunhas e os peritos para a sessão.
+P: Intimações para a sessão de julgamento
+K: tribunal do júri; intimação
+
+@CPP 432
+I: Organizada a pauta, o juiz intima o Ministério Público, a OAB e a Defensoria para acompanhar o sorteio dos jurados.
+P: Fiscalização do sorteio
+K: sorteio de jurados; fiscalização
+
+@CPP 433
+I: O sorteio é público e escolhe 25 jurados para a reunião, entre o 15º e o 10º dia útil antes da instalação, sem adiamento pela ausência das partes.
+P: Sorteio de 25 jurados || Prazo do sorteio
+K: sorteio de jurados; tribunal do júri
+
+@CPP 434
+I: Os jurados sorteados são convocados pelo correio ou outro meio, com transcrição dos artigos sobre seus deveres e direitos.
+P: Convocação dos jurados
+K: convocação; jurados
+
+@CPP 435
+I: A relação dos jurados convocados, o nome do acusado e dos procuradores e as datas das sessões são afixados na porta do fórum.
+P: Publicidade da convocação
+K: jurados; publicidade
+
+@CPP 436
+I: O serviço do júri é obrigatório para cidadãos maiores de 18 anos de notória idoneidade, sem exclusão por cor, raça, credo, sexo, profissão, classe social ou grau de instrução. A recusa injustificada gera multa de 1 a 10 salários-mínimos.
+P: Obrigatoriedade do serviço do júri || Vedação de discriminação || Multa pela recusa
+K: jurado; serviço do júri; obrigatoriedade
+
+@CPP 437
+I: Estão isentos do serviço do júri altas autoridades, magistrados, membros e servidores do Ministério Público, da Defensoria e do Judiciário, policiais, militares da ativa, maiores de 70 anos que pedirem dispensa e quem demonstrar justo impedimento.
+P: Isenções do serviço do júri
+K: jurado; isenção; dispensa
+
+@CPP 438
+I: Quem recusar o serviço do júri por convicção religiosa, filosófica ou política deve prestar serviço alternativo, sob pena de suspensão dos direitos políticos (escusa de consciência, CF, art. 5º, VIII).
+P: Escusa de consciência || Serviço alternativo || Suspensão dos direitos políticos
+K: escusa de consciência; serviço alternativo; jurado
+
+@CPP 439
+I: O exercício efetivo da função de jurado é serviço público relevante e estabelece presunção de idoneidade moral.
+P: Serviço público relevante || Presunção de idoneidade
+K: jurado; serviço público relevante
+
+@CPP 440
+I: O jurado tem preferência, em igualdade de condições, em licitações, concursos públicos, promoções e remoções voluntárias.
+P: Preferência em licitações e concursos
+K: jurado; preferência; concurso público
+
+@CPP 441
+I: Não se desconta salário ou vencimento do jurado que comparecer à sessão.
+P: Proteção da remuneração do jurado
+K: jurado; salário; desconto
+
+@CPP 442
+I: O jurado que faltar sem causa legítima ou sair antes de ser dispensado paga multa de 1 a 10 salários-mínimos, conforme sua condição econômica.
+P: Multa ao jurado faltoso
+K: jurado; falta; multa
+
+@CPP 443
+I: Só se aceita escusa do jurado fundada em motivo relevante comprovado, apresentada até a chamada, salvo força maior.
+P: Escusa comprovada até a chamada
+K: jurado; escusa
+
+@CPP 444
+I: O jurado só é dispensado por decisão motivada do juiz presidente, registrada em ata.
+P: Dispensa motivada e registrada
+K: jurado; dispensa; ata
+
+@CPP 445
+I: O jurado responde criminalmente como os juízes togados, por exemplo por corrupção ou prevaricação.
+P: Responsabilidade penal equiparada à do juiz
+K: jurado; responsabilidade penal
+
+@CPP 446
+I: Aos suplentes convocados aplicam-se as regras de dispensa, falta, escusa e responsabilidade penal dos jurados.
+P: Regras dos jurados aplicadas aos suplentes
+K: suplente; jurado
+
+@CPP 447
+I: O Tribunal do Júri é composto pelo juiz presidente e por 25 jurados sorteados, dos quais 7 formam o Conselho de Sentença em cada julgamento.
+P: Composição do Tribunal do Júri || Conselho de Sentença com 7 jurados
+K: tribunal do júri; conselho de sentença; composição
+
+@CPP 448
+I: Não podem servir no mesmo Conselho cônjuges, ascendentes e descendentes, sogro e genro ou nora, irmãos e cunhados, tio e sobrinho, padrasto, madrasta e enteado, nem companheiros em união estável. Aplicam-se aos jurados os impedimentos e suspeições dos juízes.
+P: Impedimentos por parentesco entre jurados || União estável || Regras dos juízes togados
+K: jurados; impedimento; parentesco
+
+@CPP 449
+I: Não pode servir o jurado que atuou em julgamento anterior do mesmo processo, que integrou o Conselho que julgou corréu ou que manifestou prévia disposição de condenar ou absolver. Pela Súmula 206 do STF, é nulo o julgamento posterior por júri do qual participou jurado que funcionou no anterior.
+P: Impedimentos do jurado || Atuação anterior no mesmo processo (Súmula 206 do STF)
+K: jurado; impedimento; imparcialidade
+
+@CPP 450
+I: Entre jurados impedidos por parentesco ou convivência, serve o sorteado primeiro.
+P: Prevalência do primeiro sorteado
+K: jurado; impedimento; sorteio
+
+@CPP 451
+I: Os jurados excluídos por impedimento, suspeição ou incompatibilidade contam para o número mínimo exigido para instalar a sessão.
+P: Cômputo dos excluídos no quórum
+K: jurados; quórum; sessão
+
+@CPP 452
+I: O mesmo Conselho de Sentença pode julgar mais de um processo no mesmo dia, se as partes aceitarem, prestando novo compromisso.
+P: Julgamento de vários processos pelo mesmo Conselho
+K: conselho de sentença; compromisso
+
+@CPP 453
+I: O júri se reúne nos períodos definidos pela lei local de organização judiciária.
+P: Reuniões periódicas do júri
+K: tribunal do júri; reunião periódica
+
+@CPP 454
+I: Até a abertura da sessão, o juiz presidente decide sobre isenções, dispensas de jurados e pedidos de adiamento, registrando em ata.
+P: Decisões prévias à abertura da sessão
+K: sessão do júri; adiamento; ata
+
+@CPP 455
+I: Se o Ministério Público faltar, o julgamento é adiado para o primeiro dia livre da reunião, e a falta injustificada é comunicada ao Procurador-Geral de Justiça.
+P: Adiamento pela ausência do Ministério Público || Comunicação ao Procurador-Geral
+K: Ministério Público; ausência; adiamento
+
+@CPP 456
+I: Se o advogado do acusado faltar sem justificativa, comunica-se a OAB, e o julgamento é adiado uma única vez, intimando-se a Defensoria Pública para o novo julgamento, com prazo mínimo de 10 dias.
+P: Falta do advogado || Adiamento único || Atuação da Defensoria
+K: advogado; ausência; adiamento; Defensoria Pública
+
+@CPP 457
+I: O julgamento não é adiado pela falta do acusado solto, do assistente ou do advogado do querelante intimados. O acusado preso não conduzido leva ao adiamento, salvo pedido de dispensa assinado por ele e pelo defensor.
+P: Julgamento sem o acusado solto || Adiamento se o preso não for conduzido
+K: ausência do acusado; tribunal do júri; adiamento
+
+@CPP 458
+I: A testemunha que faltar sem justa causa paga multa de 1 a 10 salários-mínimos, sem prejuízo da ação por desobediência.
+P: Multa à testemunha faltosa no júri
+K: testemunha; multa; desobediência
+
+@CPP 459
+I: A testemunha a serviço do júri também não sofre desconto em seu salário.
+P: Proteção da remuneração da testemunha
+K: testemunha; salário

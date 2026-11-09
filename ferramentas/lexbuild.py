@@ -31,7 +31,7 @@ HEAD = re.compile(r'^(SUBTÍTULO|TÍTULO|CAPÍTULO|Capítulo|SEÇÃO|Seção|SUB
 # Aceita "Arts. 52 a 58 (Revogados...)" (intervalo revogado, CTN) como uma unidade.
 # Aceita ainda "Art. 759.(Revogado..." sem espaço (Código Civil).
 # Também aceita "Art. . 154" (ponto duplicado) e "Art. 401A" (letra sem hífen), grafias presentes na CLT.
-ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z](?:-[A-Z])?|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú]))')
+ART = re.compile(r'^(?:Arts?\.?|Ar\.|At\.)\s*(?:\.\s*)?(\d+(?:\.\d{3})*)(º|o|°|\.)?(-[A-Z](?:-[A-Z])?|(?<=\d)[A-Z](?=[.\s-]))?\.?(?:\s|(?=\()|(?<=\.)(?=[A-ZÀ-Ú⟦~]))')
 SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓRIAS|DISPOSIÇÕES FINAIS|Disposições Finais e Transitórias)$')
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'Capítulo': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
@@ -60,13 +60,14 @@ pos = 0
 # Rubricas (títulos marginais, como no Código Penal: "Anterioridade da Lei" antes do art. 1º):
 # com "rubricas": true na parte, a linha solta logo antes de um artigo passa a ser a primeira
 # linha desse artigo, e não a última do artigo anterior nem parte do nome do Título/Capítulo.
-RUB_NAO = re.compile(r'^(Arts?\.|Ar\.|At\.|§|Parágrafo|Pena\s*[-–—]|[IVXLC]+(-[A-Z])?\s*[-–]|[a-z]\)|\(|⟦|~~)')
+RUB_NAO = re.compile(r'^(Arts?\.|Ar\.|At\.|§|Parágrafo|Pena\s*[-–—]|[IVXLCl]+(-[A-Z])?\s*[-–]|[a-z]\)|\(|⟦|~~)')
 def rubrica(k, fim, maiusc=False):
     # Logo depois de um Título/Capítulo, a linha em maiúsculas é o nome da divisão; entre artigos,
     # é rubrica (ex.: art. 281 do CP). Rubricas com nota de alteração podem passar de 160 caracteres.
     if not L[k] or RUB_NAO.match(L[k]) or HEAD.match(L[k]) or len(L[k]) > 260 or (L[k] == L[k].upper() and not maiusc): return False
+    # Notas de alteração entre a rubrica e o artigo ("Juiz das Garantias" / "(Incluído ...)") são puladas.
     j = k + 1
-    while j < fim and not L[j]: j += 1
+    while j < fim and (not L[j] or L[j].startswith('(')): j += 1
     return j < fim and bool(ART.match(L[j]))
 for p in cfg['parts']:
     a = find(p['start'], pos)
@@ -101,7 +102,7 @@ for p in cfg['parts']:
             name = m.group(4).strip()
             j = i + 1; notes = []; parts = [name] if name else []
             while j < b and not ART.match(L[j]) and not HEAD.match(L[j]):
-                if rub and rubrica(j, b): break
+                if rub and parts and rubrica(j, b): break
                 if L[j].startswith('('): notes.append(L[j])
                 # Linhas tachadas ou dispositivos soltos (§, incisos, alíneas de artigo revogado)
                 # não fazem parte do nome do Título/Capítulo/Seção.
@@ -124,6 +125,8 @@ for p in cfg['parts']:
             structure.append({'part': p['id'], 'level': 9, 'art': num})
             i += 1; continue
         if rub and rubrica(i, b, maiusc=True):
+            pend.append(l); i += 1; continue
+        if pend and l.startswith('('):
             pend.append(l); i += 1; continue
         if cur: cur['lines'].append(l)
         elif p.get('preamble') and not units:

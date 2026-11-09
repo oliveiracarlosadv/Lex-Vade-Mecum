@@ -1,0 +1,299 @@
+@CPP 524
+I: Nos crimes contra a propriedade imaterial (como violação de direito autoral), segue-se o procedimento comum com as modificações dos artigos seguintes.
+P: Procedimento especial da propriedade imaterial
+K: propriedade imaterial; direito autoral; procedimento especial
+
+@CPP 525
+I: Se o crime deixou vestígios, a queixa ou denúncia só é recebida se acompanhada do exame pericial dos objetos que constituem o corpo de delito.
+P: Perícia prévia como condição de recebimento
+K: perícia; corpo de delito; propriedade imaterial
+
+@CPP 526
+I: Sem prova do direito de ação (como a titularidade do direito autoral ou da marca), a queixa não é recebida nem se fazem diligências preliminares.
+P: Prova da titularidade do direito
+K: legitimidade; queixa; propriedade imaterial
+
+@CPP 527
+I: A busca e apreensão é feita por dois peritos nomeados pelo juiz, que verificam se há fundamento para apreender e apresentam laudo em 3 dias. O requerente pode impugnar o laudo contrário.
+P: Busca e apreensão com peritos || Impugnação do laudo
+K: busca e apreensão; perícia; propriedade imaterial
+
+@CPP 528
+I: Encerradas as diligências, o juiz homologa o laudo.
+P: Homologação do laudo
+K: laudo; homologação
+
+@CPP 529
+I: Nos crimes de ação privada, a queixa baseada na apreensão e perícia deve ser oferecida em 30 dias após a homologação do laudo. Se o crime for de ação pública e não houver queixa, os autos vão ao Ministério Público.
+P: Prazo de 30 dias para a queixa || Remessa ao Ministério Público
+K: queixa; prazo; propriedade imaterial
+
+@CPP 530
+I: Se houver prisão em flagrante e o réu continuar preso, o prazo para a queixa é de 8 dias.
+P: Prazo de 8 dias com réu preso
+K: queixa; réu preso; prazo
+
+@CPP 530-A
+I: As regras dos arts. 524 a 530 aplicam-se aos crimes de propriedade imaterial de ação privada.
+P: Aplicação aos crimes de ação privada
+K: ação privada; propriedade imaterial
+
+@CPP 530-B
+I: Nas violações de direito autoral com intuito de lucro (CP, art. 184, §§ 1º a 3º), a polícia apreende todos os bens produzidos ilicitamente e os equipamentos usados para isso.
+P: Apreensão pela polícia nos crimes de pirataria
+K: pirataria; apreensão; direito autoral
+
+@CPP 530-C
+I: Na apreensão, lavra-se termo assinado por duas ou mais testemunhas, descrevendo os bens e sua origem.
+P: Termo de apreensão
+K: apreensão; termo; testemunhas
+
+@CPP 530-D
+I: Após a apreensão, faz-se perícia em todos os bens por perito oficial ou pessoa habilitada.
+P: Perícia dos bens apreendidos
+K: perícia; pirataria
+
+@CPP 530-E
+I: Os titulares dos direitos autorais ficam como depositários dos bens apreendidos, devendo apresentá-los ao juiz.
+P: Titular do direito como depositário
+K: depositário; direito autoral
+
+@CPP 530-F
+I: Ressalvada a preservação do corpo de delito, o juiz pode determinar a destruição dos bens apreendidos, a pedido da vítima, se não houver impugnação quanto à sua ilicitude.
+P: Destruição antecipada dos bens piratas
+K: destruição; pirataria
+
+@CPP 530-G
+I: Na condenação, o juiz pode determinar a destruição dos bens ilícitos e o perdimento, em favor da Fazenda Nacional, dos equipamentos usados principalmente para produzi-los, que podem ser destruídos, doados a entes públicos e instituições de ensino, pesquisa ou assistência social, ou incorporados ao patrimônio da União.
+P: Destruição e perdimento na sentença
+K: perdimento; pirataria; sentença
+
+@CPP 530-H
+I: Associações de titulares de direitos autorais podem atuar em nome próprio como assistentes de acusação nos crimes do art. 184 do Código Penal.
+P: Associações como assistentes de acusação
+K: assistente de acusação; associações; direito autoral
+
+@CPP 530-I
+I: Nos crimes de ação pública, aplicam-se as regras dos arts. 530-B a 530-H.
+P: Aplicação aos crimes de ação pública
+K: ação pública; pirataria
+
+@CPP 531
+I: No procedimento sumário, a audiência de instrução ocorre em até 30 dias, na ordem do procedimento ordinário, com interrogatório ao final e debates.
+P: Audiência em 30 dias || Mesma ordem do ordinário
+K: procedimento sumário; audiência
+
+@CPP 532
+I: No procedimento sumário, cada parte pode arrolar até 5 testemunhas.
+P: Até 5 testemunhas por parte
+K: procedimento sumário; testemunhas
+
+@CPP 533
+I: Aplicam-se ao sumário os parágrafos do art. 400 (audiência una, indeferimento de provas protelatórias e esclarecimentos de peritos). Os parágrafos tachados foram revogados em 2008.
+P: Regras do art. 400 no sumário
+K: procedimento sumário; audiência una
+
+@CPP 534
+I: No sumário, as alegações finais são orais, 20 minutos para cada parte, prorrogáveis por 10, com sentença em seguida. Com vários acusados, o tempo é individual, e o assistente tem 10 minutos.
+P: Alegações orais || Sentença em audiência
+K: alegações finais; procedimento sumário
+
+@CPP 535
+I: Nenhum ato é adiado, salvo se a prova faltante for imprescindível, caso em que o juiz determina a condução de quem deva comparecer.
+P: Concentração dos atos || Condução coercitiva
+K: procedimento sumário; adiamento
+
+@CPP 536
+I: A testemunha que comparecer é ouvida mesmo que a audiência seja suspensa, observada a ordem do art. 531.
+P: Oitiva da testemunha presente
+K: testemunha; procedimento sumário
+
+@CPP 538
+I: Quando o Juizado Especial Criminal remete o caso ao juízo comum (por complexidade ou réu não encontrado para citação), segue-se o procedimento sumário. Os parágrafos tachados foram revogados.
+P: Remessa do Juizado ao juízo comum || Procedimento sumário
+K: juizado especial criminal; procedimento sumário
+
+@CPP 541
+I: Autos extraviados ou destruídos são restaurados. Valem como original a cópia autêntica ou certidão; na falta, o juiz manda o escrivão certificar o estado do processo, requisita cópias de órgãos públicos e cita as partes.
+P: Restauração de autos || Cópia autêntica vale como original
+K: restauração de autos; extravio
+
+@CPP 542
+I: No dia designado, as partes são ouvidas, registrando-se em termo os pontos de acordo e a conferência das cópias.
+P: Audiência de restauração
+K: restauração de autos; termo
+
+@CPP 543
+I: Na restauração, reinquirem-se testemunhas (se ainda não houver sentença), repetem-se perícias, reproduz-se a prova documental e podem ser ouvidos os que atuaram no processo.
+P: Diligências da restauração
+K: restauração; provas
+
+@CPP 544
+I: As diligências devem terminar em 20 dias, e o juiz pode requisitar esclarecimentos antes de decidir.
+P: Prazo de 20 dias
+K: restauração; prazo
+
+@CPP 545
+I: Taxas já pagas nos autos originais não são cobradas de novo.
+P: Isenção de nova cobrança
+K: restauração; custas
+
+@CPP 546
+I: Quem causou o extravio paga as custas em dobro, sem prejuízo da responsabilidade criminal.
+P: Custas em dobro ao causador do extravio
+K: extravio de autos; custas; responsabilidade
+
+@CPP 547
+I: Julgada a restauração, os novos autos valem como originais. Se os originais reaparecerem, o processo continua neles.
+P: Valor dos autos restaurados || Reaparecimento dos originais
+K: restauração; autos originais
+
+@CPP 548
+I: Até a restauração, a sentença condenatória em execução continua produzindo efeitos, se houver guia arquivada no estabelecimento prisional.
+P: Continuidade da execução
+K: restauração; execução da pena
+
+@CPP 549
+I: O artigo previa processo para aplicar medida de segurança por fato não criminoso (crime impossível e ajuste não punível). A reforma penal de 1984 eliminou a medida de segurança para imputáveis, e o procedimento perdeu aplicação.
+P: Procedimento superado pela reforma de 1984
+K: medida de segurança; fato não criminoso
+
+@CPP 550
+I: O processo era promovido pelo Ministério Público por requerimento fundamentado. Perdeu aplicação com a reforma penal de 1984.
+P: Requerimento do Ministério Público || Regra sem aplicação atual
+K: medida de segurança; Ministério Público
+
+@CPP 551
+I: Deferido o requerimento, o interessado era intimado para interrogatório. Regra sem aplicação atual.
+P: Intimação para interrogatório
+K: medida de segurança; interrogatório
+
+@CPP 552
+I: O interessado podia apresentar alegações em 2 dias, com defensor nomeado se não tivesse. Regra sem aplicação atual.
+P: Alegações e defensor
+K: medida de segurança; defesa
+
+@CPP 553
+I: As partes podiam requerer exames e arrolar até 3 testemunhas. Regra sem aplicação atual.
+P: Provas no procedimento
+K: medida de segurança; provas
+
+@CPP 554
+I: Após a defesa e as diligências, realizava-se audiência com decisão. Regra sem aplicação atual.
+P: Audiência e decisão
+K: medida de segurança; audiência
+
+@CPP 555
+I: Na absolvição ou impronúncia, o juiz que reconhecesse crime impossível ou ajuste não punível podia aplicar medida de segurança. Regra superada pela reforma penal de 1984.
+P: Medida de segurança na absolvição || Regra superada
+K: medida de segurança; absolvição
+
+@CPP 563
+I: Nenhum ato é declarado nulo se da nulidade não resultar prejuízo para a acusação ou a defesa (pas de nullité sans grief). É o princípio central das nulidades, aplicado também, pela jurisprudência, a muitas nulidades absolutas.
+P: Sem prejuízo não há nulidade
+K: nulidades; prejuízo; pas de nullité sans grief
+
+@CPP 564
+I: O artigo lista as nulidades: incompetência, suspeição ou suborno do juiz; ilegitimidade de parte; falta de atos essenciais, como denúncia, corpo de delito, defensor, intervenção do Ministério Público, citação, interrogatório, prazos, atos do júri, sentença e intimações; omissão de formalidade essencial; e, desde a Lei nº 13.964/2019, decisão sem fundamentação. Também há nulidade por quesitos deficientes ou contraditórios.
+P: Rol das nulidades || Falta de fundamentação (Lei nº 13.964/2019) || Nulidade dos quesitos
+K: nulidades; fundamentação; quesitos; defesa
+
+@CPP 565
+I: A parte não pode alegar nulidade a que deu causa ou para a qual concorreu, nem a referente a formalidade de interesse só da parte contrária.
+P: Vedação de alegar a própria torpeza || Interesse na nulidade
+K: nulidades; interesse; boa-fé processual
+
+@CPP 566
+I: Não se declara nulo o ato que não influiu na apuração da verdade ou na decisão da causa.
+P: Irrelevância do ato para a decisão
+K: nulidades; instrumentalidade
+
+@CPP 567
+I: A incompetência do juízo anula só os atos decisórios, e o processo vai ao juiz competente, que pode ratificar os demais. A jurisprudência admite até a ratificação do recebimento da denúncia.
+P: Nulidade só dos atos decisórios || Remessa ao juízo competente
+K: incompetência; atos decisórios; ratificação
+
+@CPP 568
+I: A ilegitimidade do representante da parte pode ser sanada a qualquer tempo, ratificando-se os atos.
+P: Sanação por ratificação
+K: ilegitimidade; ratificação
+
+@CPP 569
+I: As omissões da denúncia, queixa ou representação podem ser supridas a qualquer tempo antes da sentença.
+P: Suprimento de omissões até a sentença
+K: denúncia; aditamento; omissões
+
+@CPP 570
+I: A falta ou nulidade da citação ou intimação fica sanada se o interessado comparecer, ainda que só para alegá-la, mas o juiz pode adiar o ato se houver prejuízo.
+P: Comparecimento sana a nulidade da citação
+K: citação; nulidade; comparecimento
+
+@CPP 571
+I: O artigo fixa os momentos para arguir nulidades relativas: na instrução, nos prazos da defesa; no júri, logo após anunciado o julgamento; após a sentença, nas razões de recurso; e no plenário ou sessão, logo após ocorrerem. Fora desses momentos, há preclusão.
+P: Momentos para arguir nulidades || Preclusão
+K: nulidades relativas; preclusão; momento
+
+@CPP 572
+I: Certas nulidades se consideram sanadas se não forem arguidas a tempo, se o ato atingir seu fim por outra forma ou se a parte aceitar seus efeitos (nulidades relativas).
+P: Sanação das nulidades relativas || Finalidade atingida
+K: nulidades relativas; convalidação
+
+@CPP 573
+I: Os atos nulos não sanados são renovados ou retificados. A nulidade de um ato contamina os que dele dependam, e o juiz declara a extensão da nulidade.
+P: Renovação dos atos || Contaminação dos atos dependentes
+K: nulidades; efeito expansivo
+
+@CPP 574
+I: Os recursos são voluntários, salvo o recurso de ofício (reexame necessário) da sentença que concede habeas corpus e da absolvição sumária. A doutrina discute a subsistência deste último após a reforma do júri.
+P: Voluntariedade dos recursos || Recurso de ofício
+K: recursos; recurso de ofício; reexame necessário
+
+@CPP 575
+I: A parte não é prejudicada se o recurso não teve seguimento ou foi apresentado fora do prazo por erro de servidores.
+P: Proteção da parte contra erros do cartório
+K: recursos; tempestividade
+
+@CPP 576
+I: O Ministério Público não pode desistir de recurso que interpôs (indisponibilidade).
+P: Indisponibilidade do recurso do Ministério Público
+K: Ministério Público; desistência; recurso
+
+@CPP 577
+I: Podem recorrer o Ministério Público, o querelante e o réu, seu procurador ou defensor, desde que tenham interesse na reforma da decisão.
+P: Legitimidade para recorrer || Interesse recursal
+K: legitimidade recursal; interesse
+
+@CPP 578
+I: O recurso é interposto por petição ou termo nos autos. Se o réu não souber assinar, alguém assina a rogo com duas testemunhas.
+P: Forma de interposição
+K: interposição; termo; petição
+
+@CPP 579
+I: Salvo má-fé, a parte não é prejudicada por interpor um recurso no lugar de outro (fungibilidade), e o juiz manda processá-lo pelo rito correto.
+P: Fungibilidade recursal || Ressalva da má-fé
+K: fungibilidade; recursos
+
+@CPP 580
+I: No concurso de agentes, a decisão do recurso de um réu, se fundada em motivos não exclusivamente pessoais, aproveita aos outros (efeito extensivo).
+P: Efeito extensivo do recurso
+K: efeito extensivo; corréus; recurso
+
+@CPP 581
+I: O recurso em sentido estrito cabe contra decisões listadas, como as que rejeitam a denúncia, reconhecem incompetência, pronunciam o réu, decidem sobre fiança, preventiva, liberdade provisória ou relaxamento, extinguem a punibilidade, concedem ou negam habeas corpus, anulam o processo, denegam a apelação e, desde a Lei nº 13.964/2019, recusam homologar o ANPP. Muitas hipóteses ligadas à execução passaram ao agravo em execução (LEP, art. 197).
+P: Rol das decisões recorríveis por RESE || Pronúncia e decisões sobre prisão || Recusa de homologação do ANPP || Agravo em execução substitui parte do rol
+K: recurso em sentido estrito; RESE; pronúncia; ANPP
+
+@CPP 582
+I: O recurso em sentido estrito vai ao tribunal, salvo nas hipóteses de inclusão ou exclusão de jurado da lista, que vai ao presidente do tribunal.
+P: Competência para julgar o RESE
+K: recurso em sentido estrito; tribunal
+
+@CPP 583
+I: Sobem nos próprios autos os recursos de ofício, os de certas hipóteses (como rejeição da denúncia, pronúncia e extinção da punibilidade) e os que não prejudiquem o andamento do processo. Os demais sobem por instrumento.
+P: Subida nos próprios autos ou por instrumento
+K: recurso em sentido estrito; instrumento
+
+@CPP 584
+I: O RESE tem efeito suspensivo em poucos casos (perda da fiança, livramento condicional, denegação da apelação). O recurso da pronúncia suspende só o julgamento. A Lei nº 15.358/2026 permitiu pedir ao tribunal efeito suspensivo ou ativo ao recurso contra decisões sobre prisão e liberdade (inciso V do art. 581).
+P: Efeito suspensivo excepcional || Recurso da pronúncia suspende o julgamento || Efeito suspensivo ou ativo nas decisões sobre prisão (Lei nº 15.358/2026)
+K: efeito suspensivo; recurso em sentido estrito; prisão

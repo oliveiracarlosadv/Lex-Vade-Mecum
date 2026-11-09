@@ -1,0 +1,274 @@
+@CPP 37
+I: Fundações, associações e sociedades legalmente constituídas podem exercer a ação penal, representadas por quem os estatutos indicarem ou, no silêncio, por seus diretores ou sócios-gerentes.
+P: Pessoa jurídica como ofendida || Representação conforme os estatutos
+K: pessoa jurídica; ação penal; representação
+
+@CPP 38
+I: Salvo regra especial, o ofendido decai do direito de queixa ou representação se não o exercer em seis meses, contados de quando soube quem é o autor do crime ou, na ação subsidiária, do fim do prazo do Ministério Público. Desde a Lei nº 15.438/2026, nos crimes de violência doméstica e familiar contra a mulher, o prazo é de 12 meses. O prazo é decadencial e não se interrompe nem se suspende.
+P: Decadência em seis meses || Prazo de 12 meses na violência doméstica contra a mulher (Lei nº 15.438/2026) || Contagem a partir do conhecimento da autoria
+K: decadência; queixa; representação; violência doméstica
+
+@CPP 39
+I: A representação pode ser feita pessoalmente ou por procurador com poderes especiais, por escrito ou oralmente, ao juiz, ao Ministério Público ou à polícia. Não exige forma rígida: basta a manifestação inequívoca de vontade de ver o autor processado. Se oral ou sem assinatura autenticada, é reduzida a termo.
+P: Formas da representação || Ausência de formalismo || Redução a termo
+K: representação; ação penal condicionada; procurador
+
+@CPP 40
+I: Se juízes ou tribunais verificarem crime de ação pública em autos ou papéis que examinarem, devem remeter cópias ao Ministério Público para a denúncia.
+P: Dever do juiz de comunicar crime de ação pública
+K: notitia criminis; Ministério Público; juiz
+
+@CPP 41
+I: A denúncia ou queixa deve expor o fato criminoso com suas circunstâncias, qualificar o acusado, classificar o crime e, quando necessário, arrolar testemunhas. A descrição clara do fato é indispensável para o exercício da ampla defesa; a denúncia inepta deve ser rejeitada (art. 395, I).
+P: Requisitos da denúncia e da queixa || Descrição do fato com suas circunstâncias || Inépcia leva à rejeição
+K: denúncia; queixa; requisitos; inépcia
+
+@CPP 42
+I: O Ministério Público não pode desistir da ação penal depois de proposta (princípio da indisponibilidade). Pode, porém, pedir a absolvição ao final.
+P: Indisponibilidade da ação penal pública || Possibilidade de pedir absolvição
+K: indisponibilidade; ação penal pública; Ministério Público
+
+@CPP 44
+I: A queixa pode ser oferecida por procurador com poderes especiais, devendo o mandato conter o nome do querelante e a menção ao fato criminoso.
+P: Queixa por procurador com poderes especiais || Requisitos da procuração
+K: queixa; procuração; poderes especiais
+
+@CPP 45
+I: Mesmo na ação privada exclusiva, o Ministério Público pode aditar a queixa, para correções formais, e intervir em todos os atos do processo como fiscal da lei.
+P: Aditamento da queixa pelo Ministério Público || Intervenção como fiscal da lei
+K: queixa; aditamento; Ministério Público
+
+@CPP 46
+I: O prazo para a denúncia é de 5 dias com o réu preso e de 15 dias com o réu solto, contados do recebimento do inquérito ou das peças de informação. Se o Ministério Público devolver o inquérito para diligências, o prazo conta da nova remessa. O descumprimento permite a ação privada subsidiária e, com réu preso, pode tornar a prisão ilegal.
+P: Prazo de 5 dias (preso) e 15 dias (solto) || Contagem do recebimento dos autos || Consequências do atraso
+K: prazo da denúncia; réu preso; Ministério Público
+
+@CPP 47
+I: O Ministério Público pode requisitar diretamente a quaisquer autoridades ou funcionários os esclarecimentos e documentos complementares de que precisar.
+P: Poder de requisição do Ministério Público
+K: requisição; Ministério Público; diligências
+
+@CPP 48
+I: A queixa contra qualquer dos autores do crime obriga ao processo de todos (indivisibilidade da ação privada), e o Ministério Público zela por isso.
+P: Indivisibilidade da ação penal privada || Fiscalização pelo Ministério Público
+K: indivisibilidade; ação privada; queixa
+
+@CPP 49
+I: A renúncia ao direito de queixa em relação a um dos autores se estende a todos, como consequência da indivisibilidade.
+P: Extensão da renúncia a todos os autores
+K: renúncia; queixa; indivisibilidade
+
+@CPP 50
+I: A renúncia expressa deve constar de declaração assinada pelo ofendido, representante ou procurador com poderes especiais. A regra do parágrafo único sobre o ofendido entre 18 e 21 anos perdeu sentido com a maioridade aos 18 anos.
+P: Forma da renúncia expressa || Regra superada pela maioridade aos 18 anos
+K: renúncia expressa; queixa; maioridade
+
+@CPP 51
+I: O perdão concedido a um dos querelados aproveita a todos, mas não produz efeito para quem o recusar, pois o perdão é ato bilateral.
+P: Extensão do perdão a todos os querelados || Ineficácia para quem recusa
+K: perdão do ofendido; querelado; ação privada
+
+@CPP 52
+I: O artigo tratava do perdão concedido pelo querelante entre 18 e 21 anos ou seu representante. Com a maioridade aos 18 anos, o maior de 18 decide sozinho.
+P: Regra superada pela maioridade aos 18 anos
+K: perdão; querelante; maioridade
+
+@CPP 53
+I: Se o querelado for incapaz por doença mental e não tiver representante, ou houver conflito de interesses, a aceitação do perdão cabe a curador nomeado pelo juiz.
+P: Curador para aceitar o perdão || Querelado incapaz
+K: perdão; curador; querelado incapaz
+
+@CPP 54
+I: Para o querelado menor de 21 anos, aplicava-se a regra do art. 52 à aceitação do perdão. Hoje o maior de 18 anos decide sozinho.
+P: Regra superada pela maioridade aos 18 anos
+K: perdão; aceitação; maioridade
+
+@CPP 55
+I: O perdão pode ser aceito por procurador com poderes especiais.
+P: Aceitação do perdão por procurador
+K: perdão; procurador; poderes especiais
+
+@CPP 56
+I: O perdão extraprocessual expresso deve constar de declaração assinada, como a renúncia (art. 50).
+P: Forma do perdão extraprocessual
+K: perdão extraprocessual; forma
+
+@CPP 57
+I: A renúncia tácita e o perdão tácito podem ser provados por qualquer meio.
+P: Prova livre da renúncia e do perdão tácitos
+K: renúncia tácita; perdão tácito; prova
+
+@CPP 58
+I: Concedido o perdão nos autos, o querelado é intimado a dizer em três dias se o aceita; o silêncio importa aceitação. Aceito o perdão, o juiz declara extinta a punibilidade.
+P: Prazo de três dias para aceitar || Silêncio vale como aceitação || Extinção da punibilidade
+K: perdão; aceitação; extinção da punibilidade
+
+@CPP 59
+I: A aceitação do perdão fora do processo deve constar de declaração assinada pelo querelado, representante ou procurador com poderes especiais.
+P: Forma da aceitação extraprocessual
+K: perdão; aceitação; querelado
+
+@CPP 60
+I: Nos crimes de ação exclusivamente privada, a ação é perempta (extinta por desídia do querelante) se ele deixar o processo parado por 30 dias, se os sucessores não comparecerem em 60 dias após sua morte ou incapacidade, se faltar sem justificativa a ato obrigatório ou não pedir a condenação nas alegações finais, ou se a pessoa jurídica querelante se extinguir sem sucessor.
+P: Hipóteses de perempção || Desídia do querelante || Falta de pedido de condenação
+K: perempção; ação privada; extinção da punibilidade
+
+@CPP 61
+I: O juiz deve declarar de ofício a extinção da punibilidade em qualquer fase do processo. Se houver requerimento, ouve a parte contrária e pode abrir prazo para provas.
+P: Declaração de ofício da extinção da punibilidade || Procedimento em apartado
+K: extinção da punibilidade; declaração de ofício
+
+@CPP 62
+I: A morte do acusado só extingue a punibilidade à vista da certidão de óbito e após ouvir o Ministério Público. Se a certidão for falsa, a jurisprudência admite retomar o processo.
+P: Exigência de certidão de óbito || Oitiva do Ministério Público
+K: morte do acusado; certidão de óbito; extinção da punibilidade
+
+@CPP 63
+I: A sentença penal condenatória transitada em julgado é título executivo no cível para a reparação do dano, podendo ser executada pelo ofendido, seu representante ou herdeiros, inclusive pelo valor mínimo fixado na própria sentença (art. 387, IV), sem prejuízo da liquidação do dano total.
+P: Sentença condenatória como título executivo civil || Execução pelo valor mínimo fixado || Liquidação do dano efetivo
+K: ação civil ex delicto; reparação do dano; título executivo
+
+@CPP 64
+I: A ação de reparação pode ser proposta no juízo cível contra o autor do crime e o responsável civil, independentemente da ação penal. O juiz cível pode suspendê-la até o julgamento definitivo da ação penal.
+P: Ação civil independente da penal || Suspensão facultativa da ação civil
+K: ação civil; reparação do dano; responsável civil
+
+@CPP 65
+I: A sentença penal que reconhece ter o ato sido praticado em estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito faz coisa julgada no cível. Ainda assim, pode haver indenização a terceiro inocente prejudicado, nos termos do Código Civil.
+P: Coisa julgada no cível das excludentes de ilicitude || Indenização a terceiro inocente pelo Código Civil
+K: coisa julgada; excludentes de ilicitude; responsabilidade civil
+
+@CPP 66
+I: Mesmo com absolvição criminal, a ação civil pode ser proposta, salvo se a sentença reconheceu categoricamente a inexistência material do fato.
+P: Absolvição não impede a ação civil || Exceção da inexistência do fato
+K: absolvição; ação civil; inexistência do fato
+
+@CPP 67
+I: Não impedem a ação civil o arquivamento do inquérito, a extinção da punibilidade e a absolvição por atipicidade do fato.
+P: Hipóteses que não impedem a ação civil
+K: ação civil; arquivamento; extinção da punibilidade; atipicidade
+
+@CPP 68
+I: Se o titular da reparação for pobre, o Ministério Público pode promover a execução ou a ação civil. O STF entende que essa legitimidade subsiste apenas onde a Defensoria Pública ainda não estiver organizada (inconstitucionalidade progressiva).
+P: Legitimidade do Ministério Público para o ofendido pobre || Inconstitucionalidade progressiva diante da Defensoria
+K: ação civil ex delicto; Ministério Público; Defensoria Pública
+
+@CPP 69
+I: O artigo lista os critérios de determinação da competência: lugar da infração, domicílio do réu, natureza da infração, distribuição, conexão ou continência, prevenção e prerrogativa de função.
+P: Critérios de fixação da competência
+K: competência; critérios; jurisdição
+
+@CPP 70
+I: Em regra, a competência é do lugar onde o crime se consumou (teoria do resultado) ou, na tentativa, do último ato de execução. Para crimes à distância, valem as regras dos §§ 1º e 2º, e na incerteza entre jurisdições, a prevenção.
+P: Lugar da consumação || Tentativa: último ato de execução || Crimes à distância e incerteza de limites
+K: competência territorial; lugar da infração; consumação
+
+@CPP 71
+I: Nos crimes continuados ou permanentes praticados em mais de uma jurisdição, a competência é fixada pela prevenção.
+P: Crime continuado ou permanente em várias comarcas || Prevenção
+K: crime permanente; crime continuado; prevenção
+
+@CPP 72
+I: Se não se conhece o lugar da infração, a competência é do domicílio ou residência do réu, com prevenção se houver várias residências, e do juiz que primeiro conhecer do fato se o réu não tiver residência certa.
+P: Competência subsidiária pelo domicílio do réu || Várias residências e paradeiro ignorado
+K: domicílio do réu; competência; prevenção
+
+@CPP 73
+I: Na ação exclusivamente privada, o querelante pode escolher o foro do domicílio do réu, mesmo conhecido o lugar da infração.
+P: Opção de foro na ação privada
+K: ação privada; foro; domicílio do réu
+
+@CPP 74
+I: A competência pela natureza da infração segue as leis de organização judiciária, salvo a do Tribunal do Júri, que julga os crimes dolosos contra a vida (CF, art. 5º, XXXVIII), incluindo hoje o feminicídio (CP, art. 121-A). Havendo desclassificação, o processo vai ao juiz competente, salvo se o primeiro for de jurisdição mais graduada.
+P: Competência do júri para crimes dolosos contra a vida || Desclassificação e remessa || Prorrogação para jurisdição mais graduada
+K: tribunal do júri; competência; desclassificação; crimes dolosos contra a vida
+
+@CPP 75
+I: Havendo mais de um juiz igualmente competente, a distribuição fixa a competência. A distribuição para fiança, preventiva ou outra diligência anterior à denúncia previne a da ação penal.
+P: Distribuição entre juízes igualmente competentes || Prevenção por ato anterior à denúncia
+K: distribuição; prevenção; competência
+
+@CPP 76
+I: Há conexão quando várias infrações são praticadas ao mesmo tempo por pessoas reunidas ou em concurso (intersubjetiva), quando uma é praticada para facilitar, ocultar ou garantir outra (objetiva) ou quando a prova de uma influi na de outra (instrumental).
+P: Conexão intersubjetiva, objetiva e instrumental || Reunião dos processos
+K: conexão; competência; reunião de processos
+
+@CPP 77
+I: Há continência quando duas ou mais pessoas são acusadas pela mesma infração ou no concurso formal, erro na execução e resultado diverso do pretendido. As remissões ao Código Penal referem-se à numeração anterior a 1984 (hoje arts. 70, 73 e 74).
+P: Continência por cumulação subjetiva || Concurso formal, aberratio ictus e aberratio criminis
+K: continência; concurso formal; competência
+
+@CPP 78
+I: Na conexão ou continência, prevalece o júri sobre a jurisdição comum, salvo, desde a Lei nº 15.358/2026, nos homicídios de membros de organizações criminosas ultraviolentas, grupos paramilitares ou milícias, regidos pela lei do marco legal do combate ao crime organizado. Entre jurisdições da mesma categoria, prevalece o lugar do crime mais grave, depois o de maior número de infrações e, por fim, a prevenção. Prevalece a jurisdição de maior graduação e a especial sobre a comum.
+P: Prevalência do júri, com exceção do crime organizado (Lei nº 15.358/2026) || Critérios entre jurisdições da mesma categoria || Prevalência da jurisdição especial e da mais graduada
+K: conexão; continência; foro prevalente; tribunal do júri; crime organizado
+
+@CPP 79
+I: Conexão e continência levam à unidade de processo e julgamento, salvo entre a jurisdição comum e a militar ou a da infância e juventude. A unidade cessa se sobrevier doença mental a um corréu e não implica unidade de julgamento quando houver corréu foragido que não possa ser julgado à revelia.
+P: Unidade de processo e julgamento || Exceções da Justiça Militar e da infância || Separação por doença mental ou fuga
+K: unidade de processo; conexão; separação de processos
+
+@CPP 80
+I: O juiz pode separar os processos quando as infrações ocorreram em tempos ou lugares diferentes, pelo número excessivo de acusados ou por outro motivo relevante.
+P: Separação facultativa dos processos
+K: separação de processos; conexão; celeridade
+
+@CPP 81
+I: Reunidos os processos, o juiz ou tribunal continua competente para os demais crimes mesmo se absolver ou desclassificar o crime que atraiu a competência (perpetuatio jurisdictionis). No júri, se o juiz desclassificar, impronunciar ou absolver, remete os demais crimes ao juízo competente.
+P: Perpetuação da competência || Regra própria no júri
+K: perpetuatio jurisdictionis; conexão; tribunal do júri
+
+@CPP 82
+I: Se, apesar da conexão ou continência, houver processos separados, a autoridade de jurisdição prevalente deve avocá-los, salvo se já houver sentença definitiva, caso em que a unificação se dá na soma ou unificação das penas.
+P: Avocação dos processos pela jurisdição prevalente || Limite da sentença definitiva
+K: avocação; conexão; unificação de penas
+
+@CPP 83
+I: Há prevenção quando, entre juízes igualmente competentes, um deles pratica antes dos outros algum ato do processo ou medida a ele relativa, ainda que anterior à denúncia. Pela Súmula 706 do STF, a incompetência por prevenção é relativa.
+P: Prevenção pela prática do primeiro ato || Súmula 706 do STF
+K: prevenção; competência; Súmula 706
+
+@CPP 84
+I: A competência por prerrogativa de função cabe ao STF, ao STJ, aos TRFs e aos TJs quanto às autoridades que respondem perante eles. Os §§ 1º e 2º, que estendiam o foro após o fim da função e às ações de improbidade, foram declarados inconstitucionais pelo STF (ADI 2.797) e aparecem tachados. O STF restringiu o foro aos crimes cometidos no cargo e em razão dele (AP 937), e mais tarde decidiu que o foro se mantém após o fim do mandato para esses crimes.
+P: Foro por prerrogativa de função || §§ 1º e 2º inconstitucionais (ADI 2.797) || Restrição aos crimes funcionais (AP 937)
+K: foro privilegiado; prerrogativa de função; ADI 2.797; AP 937
+
+@CPP 85
+I: Nas ações por crime contra a honra em que o querelante tem foro no STF ou em tribunal, cabe a esse tribunal julgar a exceção da verdade oposta pelo querelado.
+P: Exceção da verdade julgada pelo tribunal do foro do querelante
+K: exceção da verdade; crimes contra a honra; foro
+
+@CPP 86
+I: O artigo lista competências originárias do STF, hoje definidas pela Constituição (art. 102, I, "b" e "c"), que prevalece sobre o texto de 1941.
+P: Competência originária do STF || Prevalência do art. 102 da Constituição
+K: Supremo Tribunal Federal; competência originária; foro
+
+@CPP 87
+I: O artigo previa o julgamento de governadores e secretários pelos Tribunais de Apelação. Hoje os governadores são julgados pelo STJ nos crimes comuns (CF, art. 105, I, "a"), e o foro dos demais depende das Constituições estaduais.
+P: Regra superada pela Constituição de 1988 || Governadores julgados pelo STJ
+K: foro; governador; STJ
+
+@CPP 88
+I: Crimes praticados no exterior são julgados na Capital do Estado onde o acusado residiu por último no Brasil ou, se nunca residiu, na Capital da República.
+P: Crimes cometidos no exterior || Capital do último domicílio ou Capital Federal
+K: crime no exterior; competência; extraterritorialidade
+
+@CPP 89
+I: Crimes cometidos em embarcação em águas brasileiras ou a bordo de navio nacional em alto-mar são julgados no primeiro porto brasileiro onde a embarcação tocar, ou no último de onde saiu.
+P: Crimes a bordo de embarcações || Primeiro porto ou último porto
+K: embarcação; competência; alto-mar
+
+@CPP 90
+I: Crimes a bordo de aeronave nacional no espaço aéreo brasileiro ou sobre o alto-mar, ou de aeronave estrangeira no espaço aéreo brasileiro, são julgados na comarca onde a aeronave pousar ou de onde partiu.
+P: Crimes a bordo de aeronaves || Local do pouso ou da partida
+K: aeronave; competência; espaço aéreo
+
+@CPP 91
+I: Se a competência nos crimes a bordo de navios ou aeronaves for incerta, fixa-se pela prevenção.
+P: Prevenção na incerteza
+K: prevenção; competência
+
+@CPP 92
+I: Se a existência do crime depender de controvérsia séria sobre o estado civil das pessoas (como casamento na bigamia), a ação penal fica suspensa até decisão definitiva no cível, sem prejuízo da produção de provas urgentes. Nos crimes de ação pública, o Ministério Público promove ou acompanha a ação civil.
+P: Questão prejudicial obrigatória sobre estado civil || Suspensão da ação penal || Atuação do Ministério Público no cível
+K: questão prejudicial; estado civil; suspensão do processo

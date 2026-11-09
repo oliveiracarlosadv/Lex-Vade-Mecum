@@ -1,0 +1,16 @@
+{
+ "nome": "Código de Processo Penal — CPP (Decreto-Lei nº 3.689/1941)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm",
+ "saida": "leis/cpp/cpp-completa.md",
+ "minimo_artigos": 800,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CPP",
+   "start": "LIVRO I",
+   "end": "Rio de Janeiro, em 3 de outubro de 1941",
+   "self_name": "deste Código",
+   "rubricas": true
+  }
+ ]
+}

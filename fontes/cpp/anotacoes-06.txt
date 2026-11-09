@@ -1,0 +1,249 @@
+@CPP 254
+I: O juiz deve declarar-se suspeito, ou pode ser recusado, se for amigo íntimo ou inimigo capital de alguma das partes, se ele ou parente responder a processo por fato análogo, se tiver demanda com as partes, se tiver aconselhado alguma delas, se for credor, devedor, tutor ou curador de alguma delas, ou se for sócio de sociedade interessada. No Planalto, o inciso VI aparece grafado "Vl".
+P: Hipóteses de suspeição do juiz || Amizade íntima ou inimizade capital || Aconselhamento e interesse econômico
+K: suspeição; imparcialidade; juiz
+
+@CPP 255
+I: O impedimento ou a suspeição por parentesco por afinidade cessa com a dissolução do casamento, salvo se houver descendentes; mesmo sem eles, não atua como juiz quem for sogro, padrasto, cunhado, genro ou enteado de alguma das partes.
+P: Afinidade e dissolução do casamento || Exceções que mantêm o impedimento
+K: afinidade; impedimento; suspeição
+
+@CPP 256
+I: A suspeição não pode ser declarada nem reconhecida quando a própria parte injuria o juiz ou cria de propósito o motivo, para impedir manobras de afastamento do julgador.
+P: Vedação de suspeição provocada pela parte
+K: suspeição provocada; má-fé processual
+
+@CPP 257
+I: Cabe ao Ministério Público promover privativamente a ação penal pública e fiscalizar a execução da lei (CF, art. 129, I).
+P: Titularidade privativa da ação penal pública || Fiscal da lei
+K: Ministério Público; ação penal pública; fiscal da lei
+
+@CPP 258
+I: O promotor não atua em processo em que o juiz ou alguma parte seja seu cônjuge ou parente até o terceiro grau, e a ele se aplicam, no que couber, as regras de suspeição e impedimento dos juízes.
+P: Impedimento e suspeição do Ministério Público
+K: Ministério Público; impedimento; suspeição
+
+@CPP 259
+I: A impossibilidade de identificar o acusado pelo nome ou qualificação não impede a ação penal quando sua identidade física é certa, podendo os dados ser corrigidos a qualquer tempo.
+P: Identidade física basta para processar || Retificação da qualificação a qualquer tempo
+K: identificação do acusado; identidade física
+
+@CPP 260
+I: Se o acusado não atender à intimação para ato que dependa de sua presença, a autoridade pode conduzi-lo coercitivamente. O STF (ADPFs 395 e 444) declarou não recepcionada a condução coercitiva para interrogatório, por violar o direito ao silêncio.
+P: Condução coercitiva || Inadmissível para interrogatório (ADPFs 395 e 444)
+K: condução coercitiva; interrogatório; direito ao silêncio
+
+@CPP 261
+I: Nenhum acusado, mesmo ausente ou foragido, pode ser processado ou julgado sem defensor. A defesa técnica de defensor público ou dativo deve ser sempre fundamentada. Pela Súmula 523 do STF, a falta de defesa gera nulidade absoluta, e a deficiência, nulidade só se houver prejuízo.
+P: Defesa técnica obrigatória || Manifestação fundamentada do defensor || Súmula 523 do STF
+K: defesa técnica; ampla defesa; defensor; nulidade
+
+@CPP 262
+I: O artigo previa curador ao acusado menor de 21 anos. Com a maioridade civil aos 18 anos, deixou de ter aplicação.
+P: Regra superada pela maioridade aos 18 anos
+K: curador; acusado menor; maioridade
+
+@CPP 263
+I: Se o acusado não tiver defensor, o juiz nomeia um, mas ele pode a qualquer tempo constituir outro de sua confiança ou se defender sozinho, se for advogado. O acusado que não for pobre paga os honorários do defensor dativo.
+P: Nomeação de defensor dativo || Direito de escolher defensor de confiança || Honorários do dativo
+K: defensor dativo; defesa técnica; honorários
+
+@CPP 264
+I: Salvo motivo relevante, advogados nomeados pelo juiz devem aceitar o patrocínio do acusado, sob pena de multa (fixada em moeda antiga). Hoje a defesa dos necessitados cabe prioritariamente à Defensoria Pública.
+P: Dever de aceitar a nomeação || Prioridade da Defensoria Pública
+K: defensor dativo; advogado; Defensoria Pública
+
+@CPP 265
+I: O defensor não pode abandonar o processo sem justo motivo comunicado previamente ao juiz, sob pena de responder perante o órgão correicional. A audiência pode ser adiada se o defensor provar impedimento até sua abertura. Em caso de abandono, o acusado é intimado para constituir novo defensor e, se não for localizado, nomeia-se defensor público ou dativo (Lei nº 14.752/2023).
+P: Vedação de abandono do processo || Adiamento por impedimento comprovado || Intimação do acusado e nomeação de defensor (Lei nº 14.752/2023)
+K: abandono do processo; defensor; adiamento de audiência
+
+@CPP 266
+I: Se o acusado indicar seu defensor no interrogatório, não é preciso procuração (constituição apud acta).
+P: Constituição de defensor no interrogatório sem procuração
+K: procuração; defensor; apud acta
+
+@CPP 267
+I: Os parentes do juiz não podem atuar como defensores no processo, conforme o art. 252.
+P: Impedimento dos parentes do juiz
+K: impedimento; defensor; parentesco
+
+@CPP 268
+I: Na ação pública, o ofendido, seu representante ou sucessores podem intervir como assistentes do Ministério Público em todos os atos do processo.
+P: Assistente de acusação || Legitimidade do ofendido e sucessores
+K: assistente de acusação; ofendido; Ministério Público
+
+@CPP 269
+I: O assistente é admitido até o trânsito em julgado e recebe o processo no estado em que estiver.
+P: Admissão até o trânsito em julgado
+K: assistente de acusação; admissão
+
+@CPP 270
+I: O corréu no mesmo processo não pode atuar como assistente do Ministério Público.
+P: Vedação de corréu como assistente
+K: assistente; corréu
+
+@CPP 271
+I: O assistente pode propor provas, fazer perguntas às testemunhas, aditar articulados, participar dos debates e arrazoar recursos do Ministério Público ou próprios. O juiz decide sobre as provas após ouvir o Ministério Público, e o processo segue mesmo se o assistente faltar sem justificativa. A referência ao "libelo" está superada desde a reforma do júri de 2008.
+P: Poderes do assistente || Prosseguimento sem o assistente faltoso
+K: assistente de acusação; poderes; provas; recursos
+
+@CPP 272
+I: O Ministério Público é ouvido antes da admissão do assistente.
+P: Oitiva prévia do Ministério Público
+K: assistente; admissão; Ministério Público
+
+@CPP 273
+I: Não cabe recurso da decisão que admite ou não o assistente, mas a jurisprudência admite mandado de segurança contra a inadmissão ilegal.
+P: Irrecorribilidade || Mandado de segurança
+K: assistente; recurso; mandado de segurança
+
+@CPP 274
+I: As regras de suspeição dos juízes se aplicam aos servidores da justiça, no que couber.
+P: Suspeição dos servidores da justiça
+K: suspeição; serventuários
+
+@CPP 275
+I: O perito, mesmo não oficial, fica sujeito à disciplina judiciária.
+P: Perito sujeito à disciplina judiciária
+K: perito; disciplina judiciária
+
+@CPP 276
+I: As partes não intervêm na nomeação do perito, mas podem indicar assistente técnico (art. 159, § 3º).
+P: Nomeação do perito pelo juiz || Assistente técnico das partes
+K: perito; nomeação; assistente técnico
+
+@CPP 277
+I: O perito nomeado deve aceitar o encargo, salvo escusa atendível, e é multado se faltar, não comparecer ao exame ou não entregar o laudo no prazo sem justa causa.
+P: Obrigatoriedade do encargo pericial || Multa por descumprimento
+K: perito; encargo; multa
+
+@CPP 278
+I: Se o perito faltar sem justa causa, a autoridade pode determinar sua condução.
+P: Condução do perito faltoso
+K: perito; condução coercitiva
+
+@CPP 279
+I: Não podem ser peritos os que estejam com interdição de direitos, os que já depuseram ou opinaram sobre o objeto da perícia, os analfabetos e os menores de 21 anos.
+P: Impedimentos para ser perito
+K: perito; impedimento
+
+@CPP 280
+I: As regras de suspeição dos juízes estendem-se aos peritos, no que couber.
+P: Suspeição dos peritos
+K: perito; suspeição
+
+@CPP 281
+I: Os intérpretes são equiparados aos peritos para todos os efeitos, inclusive quanto a impedimentos e suspeição.
+P: Equiparação do intérprete ao perito
+K: intérprete; perito
+
+@CPP 282
+I: As medidas cautelares exigem necessidade (para a aplicação da lei penal, a investigação ou a instrução, ou para evitar novos crimes) e adequação à gravidade do crime e às condições do acusado, podendo ser isoladas ou cumuladas. Desde a Lei nº 13.964/2019, o juiz só decreta cautelares a pedido das partes ou por representação da polícia, nunca de ofício, e deve ouvir a parte contrária em 5 dias, salvo urgência. A preventiva é a última opção, só cabível se nenhuma outra cautelar for suficiente, com fundamentação individualizada.
+P: Necessidade e adequação || Vedação de cautelar de ofício (Lei nº 13.964/2019) || Contraditório prévio, salvo urgência || Preventiva como última opção
+K: medidas cautelares; necessidade; adequação; prisão preventiva; Pacote Anticrime
+
+@CPP 283
+I: Ninguém pode ser preso senão em flagrante ou por ordem escrita e fundamentada do juiz, por prisão cautelar ou por condenação transitada em julgado. O STF (ADCs 43, 44 e 54) declarou o dispositivo constitucional, vedando a execução da pena antes do trânsito em julgado. As cautelares não se aplicam a infrações sem pena de prisão, e a prisão pode ser feita a qualquer hora, respeitado o domicílio.
+P: Hipóteses constitucionais de prisão || Vedação da execução antecipada da pena (ADCs 43, 44 e 54) || Respeito à inviolabilidade do domicílio
+K: prisão; presunção de inocência; execução provisória; ADC 43
+
+@CPP 284
+I: Não se pode usar força na prisão, salvo a indispensável em caso de resistência ou tentativa de fuga. Sobre algemas, a Súmula Vinculante 11 exige justificativa por escrito.
+P: Força apenas indispensável || Algemas excepcionais (Súmula Vinculante 11)
+K: uso da força; algemas; Súmula Vinculante 11
+
+@CPP 285
+I: A autoridade que ordena a prisão expede mandado, que deve ser assinado pela autoridade, identificar a pessoa, mencionar a infração e o valor da fiança, se houver, e ser dirigido a quem vai cumpri-lo.
+P: Requisitos do mandado de prisão
+K: mandado de prisão; requisitos
+
+@CPP 286
+I: O mandado é expedido em duas vias, e uma é entregue ao preso logo após a prisão, com dia, hora e lugar da diligência, passando o preso recibo na outra.
+P: Entrega de via do mandado ao preso
+K: mandado de prisão; via do preso; recibo
+
+@CPP 287
+I: Nas infrações inafiançáveis, a falta de exibição do mandado não impede a prisão, mas o preso deve ser apresentado imediatamente ao juiz que o expediu para audiência de custódia (Lei nº 13.964/2019).
+P: Prisão sem exibição do mandado em infração inafiançável || Audiência de custódia
+K: audiência de custódia; mandado de prisão; Pacote Anticrime
+
+@CPP 288
+I: Ninguém é recolhido à prisão sem exibição do mandado ou guia ao diretor ou carcereiro, que dá recibo.
+P: Recolhimento só com mandado ou guia
+K: prisão; carcereiro; mandado
+
+@CPP 289
+I: Se o acusado estiver em outra comarca do país, a prisão é feita por precatória ou, em urgência, por requisição por qualquer meio, verificada sua autenticidade. O juiz processante deve providenciar a remoção do preso em até 30 dias.
+P: Prisão por precatória ou requisição urgente || Remoção do preso em 30 dias
+K: precatória; prisão; remoção
+
+@CPP 289-A
+I: O mandado de prisão deve ser registrado no banco de dados do CNJ. Qualquer policial pode cumprir mandado registrado, ainda que fora da competência do juiz, e também o não registrado, verificando sua autenticidade. O preso é informado de seus direitos.
+P: Registro no banco nacional do CNJ || Cumprimento por qualquer policial
+K: banco de mandados de prisão; CNJ; mandado de prisão
+
+@CPP 290
+I: Se o réu perseguido passar para outra comarca, o executor pode prendê-lo onde o alcançar, apresentando-o à autoridade local. Há perseguição quando o executor o avista e segue sem interrupção ou sabe, por informações fidedignas, que ele passou há pouco.
+P: Prisão em perseguição em outra comarca || Conceito de perseguição
+K: perseguição; prisão; comarca
+
+@CPP 291
+I: A prisão por mandado considera-se feita quando o executor se identifica, apresenta o mandado e intima o réu a acompanhá-lo.
+P: Momento da prisão por mandado
+K: prisão; mandado; executor
+
+@CPP 292
+I: Havendo resistência à prisão, o executor e quem o auxiliar podem usar os meios necessários para se defender ou vencer a resistência, lavrando-se auto. É proibido usar algemas em mulheres grávidas durante os atos preparatórios do parto, no trabalho de parto e no puerpério imediato.
+P: Uso dos meios necessários contra a resistência || Proibição de algemas na gestante durante o parto
+K: resistência à prisão; algemas; gestante
+
+@CPP 293
+I: Se o réu estiver em uma casa, o morador é intimado a entregá-lo. Se não obedecer, o executor pode entrar à força de dia; à noite, guarda a casa até o amanhecer, salvo em flagrante. O morador que se recusar responde na forma da lei.
+P: Entrada na casa para cumprir mandado || De dia, com força; à noite, guarda da casa || Responsabilidade do morador
+K: prisão em domicílio; mandado; período noturno
+
+@CPP 294
+I: Na prisão em flagrante aplica-se, no que couber, o art. 293, mas em flagrante a Constituição permite entrar na casa a qualquer hora (art. 5º, XI).
+P: Flagrante permite a entrada a qualquer hora
+K: flagrante; domicílio; prisão
+
+@CPP 295
+I: O artigo garante prisão especial, antes da condenação definitiva, a certas autoridades e categorias, consistindo apenas em local distinto da prisão comum, com os mesmos direitos e deveres. O STF (ADPF 334) declarou não recepcionada a prisão especial para portadores de diploma de curso superior (inciso VII).
+P: Prisão especial apenas antes da condenação definitiva || Local distinto, mesmos direitos || Fim da prisão especial por diploma (ADPF 334)
+K: prisão especial; ADPF 334; diploma
+
+@CPP 296
+I: Praças e graduados militares são recolhidos, onde possível, a estabelecimentos militares, conforme seus regulamentos.
+P: Recolhimento de militares em estabelecimento militar
+K: militar; prisão; quartel
+
+@CPP 297
+I: Para cumprir o mandado judicial, a autoridade policial pode expedir quantos outros forem necessários, reproduzindo fielmente seu teor.
+P: Desdobramento do mandado judicial
+K: mandado de prisão; autoridade policial
+
+@CPP 299
+I: A captura pode ser requisitada por qualquer meio de comunicação, à vista de mandado judicial, verificando-se sua autenticidade.
+P: Requisição de captura por qualquer meio
+K: captura; requisição; mandado
+
+@CPP 300
+I: Os presos provisórios ficam separados dos condenados definitivamente, nos termos da Lei de Execução Penal. O militar preso em flagrante é recolhido ao quartel de sua instituição.
+P: Separação entre presos provisórios e condenados || Militar recolhido ao quartel
+K: preso provisório; separação; Lei de Execução Penal
+
+@CPP 300-A
+I: Incluído pela Lei nº 15.280/2025, o artigo obriga o investigado por crime contra a dignidade sexual, quando preso cautelarmente, e o condenado por esses crimes a fornecer o perfil genético (DNA), por técnica adequada e indolor, ao ingressar no estabelecimento prisional.
+P: Coleta obrigatória de DNA || Crimes contra a dignidade sexual || Presos cautelares e condenados (Lei nº 15.280/2025)
+K: perfil genético; DNA; crimes sexuais; banco genético
+
+@CPP 301
+I: Qualquer pessoa pode (flagrante facultativo) e as autoridades policiais e seus agentes devem (flagrante obrigatório) prender quem esteja em flagrante delito.
+P: Flagrante facultativo de qualquer pessoa || Flagrante obrigatório da polícia
+K: prisão em flagrante; flagrante facultativo; flagrante obrigatório
+
+@CPP 302
+I: Há flagrante quando o agente está cometendo o crime ou acaba de cometê-lo (flagrante próprio), quando é perseguido logo após em situação que faça presumir a autoria (impróprio) ou quando é encontrado logo depois com objetos que façam presumir ser ele o autor (presumido).
+P: Flagrante próprio, impróprio e presumido || Perseguição logo após || Encontro logo depois com objetos do crime
+K: flagrante delito; flagrante próprio; flagrante impróprio; flagrante presumido

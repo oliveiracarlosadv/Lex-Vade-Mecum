@@ -1,0 +1,299 @@
+@CPP 351
+I: A citação inicial é feita por mandado, por oficial de justiça, quando o réu está no território da jurisdição do juiz. É a citação pessoal, regra no processo penal.
+P: Citação pessoal por mandado
+K: citação; mandado; oficial de justiça
+
+@CPP 352
+I: O mandado de citação indica o juiz, o querelante (se houver), o réu ou seus sinais, sua residência, a finalidade da citação, o juízo, dia, hora e lugar de comparecimento, e é assinado pelo escrivão e rubricado pelo juiz.
+P: Requisitos do mandado de citação
+K: mandado de citação; requisitos
+
+@CPP 353
+I: Se o réu estiver fora da jurisdição do juiz, a citação é feita por carta precatória.
+P: Citação por precatória
+K: citação; carta precatória
+
+@CPP 354
+I: A precatória indica o juiz deprecado e o deprecante, suas sedes, a finalidade da citação e o juízo, dia e hora de comparecimento.
+P: Requisitos da precatória de citação
+K: carta precatória; requisitos
+
+@CPP 355
+I: Cumprida a citação, a precatória volta ao juiz deprecante. Se o réu estiver em outra jurisdição, o deprecado a encaminha ao juiz competente (precatória itinerante), e, se o réu se ocultar, a precatória volta para a citação por hora certa.
+P: Devolução da precatória || Precatória itinerante || Ocultação do réu
+K: carta precatória; precatória itinerante; ocultação
+
+@CPP 356
+I: Em urgência, a precatória pode ser expedida por via telegráfica. Hoje se usam meios eletrônicos de comunicação entre juízos.
+P: Precatória urgente por meio rápido
+K: carta precatória; urgência; comunicação eletrônica
+
+@CPP 357
+I: Na citação por mandado, o oficial lê o mandado ao réu e entrega a contrafé com dia e hora, certificando a entrega e a aceitação ou recusa.
+P: Leitura do mandado e entrega da contrafé || Certidão do oficial
+K: citação; contrafé; certidão
+
+@CPP 358
+I: A citação do militar é feita por intermédio do chefe do respectivo serviço.
+P: Citação do militar por meio do superior
+K: citação; militar
+
+@CPP 359
+I: O dia em que funcionário público deve comparecer como acusado é comunicado a ele e ao chefe da repartição.
+P: Comunicação ao chefe do servidor acusado
+K: citação; funcionário público
+
+@CPP 360
+I: O réu preso é citado pessoalmente. Pela Súmula 351 do STF, é nula a citação por edital de réu preso na mesma unidade da Federação em que o juiz exerce jurisdição.
+P: Citação pessoal do réu preso || Nulidade do edital ao preso (Súmula 351 do STF)
+K: citação; réu preso; Súmula 351
+
+@CPP 361
+I: Se o réu não for encontrado, é citado por edital, com prazo de 15 dias. É medida excepcional, cabível só após esgotadas as tentativas de localização.
+P: Citação por edital || Prazo de 15 dias || Excepcionalidade
+K: citação por edital; réu não encontrado
+
+@CPP 362
+I: Se o réu se ocultar para não ser citado, o oficial certifica e faz a citação por hora certa, nos moldes do CPC. Se o réu não comparecer, nomeia-se defensor dativo. O STF declarou a citação por hora certa constitucional no processo penal (RE 635.145).
+P: Citação por hora certa || Defensor dativo se o réu não comparecer || Constitucionalidade (RE 635.145)
+K: citação por hora certa; ocultação; defensor dativo
+
+@CPP 363
+I: O processo se completa com a citação do acusado. Não encontrado, faz-se a citação por edital. Se o acusado citado por edital comparecer a qualquer tempo, o processo segue o procedimento comum.
+P: Formação do processo com a citação || Citação por edital || Comparecimento do citado por edital
+K: citação; formação do processo; edital
+
+@CPP 364
+I: O artigo fixava prazos de edital para as hipóteses dos incisos I e II do art. 363, hoje revogados. O prazo geral do edital é de 15 dias (art. 361).
+P: Remissão a incisos revogados || Prazo atual de 15 dias
+K: citação por edital; prazo
+
+@CPP 365
+I: O edital de citação indica o juiz, o réu ou seus sinais, a finalidade, o juízo, dia, hora e lugar de comparecimento e o prazo, e é afixado no fórum e publicado na imprensa, onde houver.
+P: Requisitos do edital de citação || Afixação e publicação
+K: edital de citação; requisitos
+
+@CPP 366
+I: Se o acusado citado por edital não comparecer nem constituir advogado, suspendem-se o processo e a prescrição, podendo o juiz produzir provas urgentes e decretar a preventiva, se presentes seus requisitos. Pela Súmula 415 do STJ, a suspensão da prescrição dura no máximo o prazo prescricional da pena máxima cominada. Pela Súmula 455 do STJ, a prova antecipada deve ser concretamente fundamentada.
+P: Suspensão do processo e da prescrição || Provas urgentes e preventiva fundamentadas || Limite da suspensão (Súmula 415 do STJ)
+K: revelia; citação por edital; suspensão do processo; prescrição
+
+@CPP 367
+I: O processo segue sem o acusado que, citado ou intimado pessoalmente, faltar sem justificativa ou mudar de endereço sem comunicar (revelia).
+P: Revelia do acusado || Prosseguimento sem sua presença
+K: revelia; ausência do acusado
+
+@CPP 368
+I: O acusado que está no exterior em lugar conhecido é citado por carta rogatória, suspendendo-se a prescrição até o cumprimento.
+P: Citação por carta rogatória || Suspensão da prescrição
+K: carta rogatória; citação; prescrição
+
+@CPP 369
+I: As citações em representações diplomáticas estrangeiras são feitas por carta rogatória.
+P: Citação em legação estrangeira
+K: carta rogatória; legação estrangeira
+
+@CPP 370
+I: As intimações seguem as regras das citações. O defensor constituído, o advogado do querelante e o assistente são intimados pela publicação oficial, com o nome do acusado. O Ministério Público e o defensor nomeado (incluindo a Defensoria) são intimados pessoalmente.
+P: Intimação por publicação dos advogados constituídos || Intimação pessoal do Ministério Público e do defensor nomeado
+K: intimação; publicação; Defensoria Pública
+
+@CPP 371
+I: Admite-se a intimação por despacho na própria petição em que foi requerida.
+P: Intimação por despacho na petição
+K: intimação; despacho
+
+@CPP 372
+I: Adiada a instrução, o juiz marca desde logo, na presença das partes e testemunhas, a data de prosseguimento, lavrando termo.
+P: Designação imediata da nova data
+K: adiamento; audiência; intimação
+
+@CPP 373
+I: O juiz pode aplicar provisoriamente interdições de direitos durante a instrução, na pronúncia, na decisão que a confirma ou na sentença condenatória recorrível, ouvido o réu quando a medida for requerida na instrução. O tema hoje se confunde com as medidas cautelares do art. 319.
+P: Aplicação provisória de interdições de direitos || Momentos processuais admitidos
+K: interdição de direitos; medida provisória; cautelar
+
+@CPP 374
+I: Não cabe recurso da decisão que aplica ou nega interdições provisórias, mas elas podem ser substituídas ou revogadas nas decisões seguintes do processo.
+P: Irrecorribilidade || Substituição ou revogação posterior
+K: interdição de direitos; recurso
+
+@CPP 375
+I: A decisão que aplica, substitui ou revoga interdição provisória deve ser fundamentada.
+P: Dever de fundamentação
+K: interdição de direitos; fundamentação
+
+@CPP 376
+I: A impronúncia ou a absolvição fazem cessar a interdição provisória aplicada.
+P: Cessação pela impronúncia ou absolvição
+K: interdição de direitos; absolvição
+
+@CPP 377
+I: Com o trânsito em julgado da condenação, executam-se só as interdições aplicadas na sentença ou decorrentes da pena principal.
+P: Execução apenas das interdições definitivas
+K: interdição de direitos; trânsito em julgado
+
+@CPP 378
+I: A medida de segurança pode ser aplicada provisoriamente pelo juiz, inclusive na investigação por representação da polícia e na sentença absolutória.
+P: Medida de segurança provisória
+K: medida de segurança; aplicação provisória
+
+@CPP 379
+I: Após o trânsito em julgado, a execução das medidas de segurança segue o Título V do Livro IV e, hoje, a Lei de Execução Penal.
+P: Execução da medida de segurança definitiva
+K: medida de segurança; execução
+
+@CPP 380
+I: A aplicação provisória de medida de segurança impede a fiança e torna sem efeito a já concedida.
+P: Incompatibilidade com a fiança
+K: medida de segurança; fiança
+
+@CPP 381
+I: A sentença deve conter a identificação das partes, o relatório sucinto da acusação e da defesa, a fundamentação de fato e de direito, os artigos aplicados, o dispositivo, a data e a assinatura (CF, art. 93, IX).
+P: Requisitos da sentença || Fundamentação obrigatória
+K: sentença; requisitos; fundamentação
+
+@CPP 382
+I: Qualquer parte pode, em 2 dias, pedir ao juiz que esclareça a sentença com obscuridade, ambiguidade, contradição ou omissão (embarguinhos).
+P: Embargos de declaração da sentença em 2 dias
+K: embargos de declaração; sentença; embarguinhos
+
+@CPP 383
+I: Na emendatio libelli, o juiz, sem alterar os fatos descritos na denúncia, pode dar-lhes outra definição jurídica, ainda que mais grave, porque o réu se defende dos fatos. Se a nova definição permitir suspensão condicional do processo, aplica-se a lei; se for de outra competência, os autos são remetidos.
+P: Emendatio libelli || Réu se defende dos fatos || Suspensão condicional e incompetência
+K: emendatio libelli; definição jurídica; correlação
+
+@CPP 384
+I: Na mutatio libelli, se a prova revelar elemento ou circunstância não descritos na acusação, o Ministério Público deve aditar a denúncia em 5 dias. Ouvida a defesa e admitido o aditamento, reabre-se a instrução, com até 3 testemunhas por parte, e o juiz fica limitado aos termos do aditamento. Pela Súmula 453 do STF, a mutatio não se aplica em segunda instância.
+P: Mutatio libelli || Aditamento obrigatório pelo Ministério Público || Contraditório e nova instrução || Inaplicável em segundo grau (Súmula 453 do STF)
+K: mutatio libelli; aditamento; correlação entre acusação e sentença
+
+@CPP 385
+I: Nos crimes de ação pública, o juiz pode condenar mesmo que o Ministério Público peça a absolvição, e reconhecer agravantes não alegadas. A compatibilidade dessa regra com o sistema acusatório é debatida na doutrina e na jurisprudência.
+P: Condenação apesar do pedido de absolvição || Reconhecimento de agravantes de ofício || Debate sobre o sistema acusatório
+K: sentença; sistema acusatório; agravantes
+
+@CPP 386
+I: O juiz absolve quando estiver provada a inexistência do fato, não houver prova dele, o fato não for crime, estiver provado que o réu não concorreu, não houver prova de sua participação, houver excludente de ilicitude ou culpabilidade (ou fundada dúvida sobre ela) ou não houver prova suficiente para condenar (in dubio pro reo). Na absolvição, manda soltar o réu, cessa as cautelares e aplica medida de segurança, se for o caso.
+P: Fundamentos da absolvição || In dubio pro reo || Efeitos civis conforme o fundamento || Medida de segurança na absolvição imprópria
+K: absolvição; in dubio pro reo; excludentes; absolvição imprópria
+
+@CPP 387
+I: Na condenação, o juiz menciona agravantes e atenuantes, aplica a pena segundo os arts. 59 e 60 do Código Penal, fixa valor mínimo para a reparação dos danos (exigindo pedido e contraditório, segundo o STJ), decide fundamentadamente sobre preventiva ou cautelares e considera a prisão provisória para fixar o regime inicial (detração).
+P: Dosimetria na sentença || Valor mínimo de indenização || Decisão sobre prisão || Detração para o regime inicial
+K: sentença condenatória; dosimetria; reparação do dano; detração
+
+@CPP 388
+I: A sentença pode ser datilografada (hoje digitada), com rubrica do juiz em todas as folhas ou assinatura eletrônica.
+P: Forma da sentença
+K: sentença; forma
+
+@CPP 389
+I: A sentença é publicada quando entregue ao escrivão, que lavra o termo e a registra em livro próprio. Proferida em audiência, é publicada no ato.
+P: Publicação da sentença
+K: sentença; publicação
+
+@CPP 390
+I: O escrivão deve dar ciência da sentença ao Ministério Público em três dias, sob pena de suspensão.
+P: Ciência ao Ministério Público
+K: sentença; intimação; Ministério Público
+
+@CPP 391
+I: O querelante ou o assistente é intimado da sentença pessoalmente ou na pessoa de seu advogado, ou por edital se não forem encontrados.
+P: Intimação do querelante e do assistente
+K: sentença; intimação; assistente
+
+@CPP 392
+I: A intimação da sentença é feita ao réu preso pessoalmente e, nos demais casos, ao réu ou ao defensor constituído, ou por edital quando não forem encontrados, com prazo de 90 ou 60 dias conforme a pena. O prazo de apelação corre após o edital. A jurisprudência exige a intimação do réu e do defensor quando a sentença é condenatória.
+P: Formas de intimação da sentença || Edital de 90 ou 60 dias || Início do prazo recursal
+K: intimação da sentença; edital; prazo de apelação
+
+@CPP 394
+I: O procedimento é comum ou especial. O comum é ordinário (pena máxima igual ou superior a 4 anos), sumário (inferior a 4 anos) ou sumaríssimo (menor potencial ofensivo, Lei nº 9.099/1995). As regras de rejeição da denúncia e absolvição sumária (arts. 395 a 398) valem para todos os procedimentos de primeiro grau, e o ordinário se aplica subsidiariamente.
+P: Procedimentos ordinário, sumário e sumaríssimo || Critério da pena máxima || Aplicação geral dos arts. 395 a 398
+K: procedimento comum; ordinário; sumário; sumaríssimo
+
+@CPP 394-A
+I: Os processos de crimes hediondos e de violência contra a mulher têm prioridade de tramitação em todas as instâncias. Desde a Lei nº 14.994/2024, os processos de violência contra a mulher não exigem custas da vítima ou de seus sucessores, salvo má-fé.
+P: Prioridade de tramitação || Isenção de custas para a vítima de violência contra a mulher (Lei nº 14.994/2024)
+K: prioridade de tramitação; crimes hediondos; violência contra a mulher; custas
+
+@CPP 395
+I: A denúncia ou queixa é rejeitada quando for manifestamente inepta, faltar pressuposto processual ou condição da ação, ou faltar justa causa (lastro probatório mínimo). Contra a rejeição cabe recurso em sentido estrito (art. 581, I).
+P: Hipóteses de rejeição da denúncia || Inépcia, falta de condição e de justa causa
+K: rejeição da denúncia; justa causa; inépcia
+
+@CPP 396
+I: Nos procedimentos ordinário e sumário, o juiz, se não rejeitar a denúncia, recebe-a e manda citar o acusado para responder por escrito em 10 dias. Na citação por edital, o prazo corre do comparecimento do acusado ou do defensor.
+P: Recebimento da denúncia e citação || Resposta à acusação em 10 dias
+K: resposta à acusação; recebimento da denúncia; citação
+
+@CPP 396-A
+I: Na resposta à acusação, o acusado pode arguir preliminares, alegar tudo o que interessa à defesa, juntar documentos, especificar provas e arrolar testemunhas. Se não apresentar, o juiz nomeia defensor para fazê-lo em 10 dias. A resposta é obrigatória.
+P: Conteúdo da resposta à acusação || Nomeação de defensor se não apresentada
+K: resposta à acusação; defesa; testemunhas
+
+@CPP 397
+I: Após a resposta, o juiz deve absolver sumariamente quando houver manifesta excludente de ilicitude, excludente de culpabilidade (salvo inimputabilidade), atipicidade evidente ou extinção da punibilidade.
+P: Absolvição sumária || Hipóteses taxativas
+K: absolvição sumária; atipicidade; excludentes
+
+@CPP 399
+I: Recebida a denúncia, o juiz designa a audiência e manda intimar as partes. O preso é requisitado. O juiz que presidiu a instrução deve proferir a sentença (identidade física do juiz), com as exceções reconhecidas pela jurisprudência.
+P: Designação da audiência || Requisição do réu preso || Identidade física do juiz
+K: audiência de instrução; identidade física do juiz
+
+@CPP 400
+I: Na audiência de instrução, em até 60 dias, ouvem-se o ofendido, as testemunhas de acusação e de defesa, os peritos (se requerido), fazem-se acareações e reconhecimentos e, por último, interroga-se o acusado. O interrogatório ao final assegura a ampla defesa. O juiz pode indeferir provas irrelevantes ou protelatórias.
+P: Audiência una em 60 dias || Ordem dos atos com interrogatório ao final || Indeferimento de provas protelatórias
+K: audiência de instrução; interrogatório ao final; ordem dos atos
+
+@CPP 400-A
+I: Incluído pela Lei nº 14.245/2021 (Lei Mariana Ferrer), o artigo obriga todos os participantes da audiência, sobretudo em crimes sexuais, a zelar pela integridade física e psicológica da vítima, sob pena de responsabilização, vedando manifestações sobre fatos alheios ao processo e linguagem ou material que ofendam a dignidade da vítima ou das testemunhas.
+P: Proteção da vítima na audiência || Vedação de perguntas e materiais ofensivos || Lei Mariana Ferrer
+K: Lei Mariana Ferrer; vitimização secundária; crimes sexuais; audiência
+
+@CPP 401
+I: No procedimento ordinário, cada parte pode arrolar até 8 testemunhas, sem contar as que não prestam compromisso e as referidas, podendo desistir de qualquer delas.
+P: Até 8 testemunhas por parte || Exclusão dos informantes e referidas || Desistência
+K: testemunhas; número; procedimento ordinário
+
+@CPP 402
+I: Ao final da audiência, as partes podem pedir diligências cuja necessidade surgiu da instrução.
+P: Diligências complementares
+K: diligências; instrução; audiência
+
+@CPP 403
+I: Sem diligências, as partes fazem alegações finais orais por 20 minutos, prorrogáveis por 10, e o juiz sentencia. O assistente tem 10 minutos. Em casos complexos, o juiz pode conceder 5 dias para memoriais escritos e sentenciar em 10 dias.
+P: Alegações finais orais || Memoriais em casos complexos || Sentença em audiência ou em 10 dias
+K: alegações finais; memoriais; sentença
+
+@CPP 404
+I: Ordenada diligência imprescindível, a audiência termina sem alegações finais, que depois são apresentadas por memorial em 5 dias sucessivos, com sentença em 10 dias.
+P: Diligência imprescindível || Memoriais escritos
+K: diligência; memoriais; alegações finais
+
+@CPP 405
+I: Do ocorrido na audiência lavra-se termo resumido. Os depoimentos devem ser gravados por meio audiovisual, sempre que possível, sem necessidade de transcrição, entregando-se cópia às partes.
+P: Termo da audiência || Gravação audiovisual dos depoimentos
+K: audiência; gravação; termo
+
+@CPP 406
+I: No júri, recebida a denúncia, o acusado é citado para responder por escrito em 10 dias. A acusação arrola até 8 testemunhas na denúncia, e a defesa, na resposta, pode arguir preliminares, juntar documentos e arrolar até 8 testemunhas.
+P: Primeira fase do júri (sumário da culpa) || Resposta em 10 dias || Até 8 testemunhas
+K: tribunal do júri; sumário da culpa; resposta à acusação
+
+@CPP 407
+I: No júri, as exceções são processadas em apartado, conforme os arts. 95 a 112.
+P: Exceções em apartado
+K: exceções; tribunal do júri
+
+@CPP 408
+I: Se a defesa não apresentar resposta, o juiz nomeia defensor para fazê-lo em até 10 dias.
+P: Nomeação de defensor para a resposta
+K: resposta à acusação; defensor dativo; júri
+
+@CPP 409
+I: Apresentada a defesa, o juiz ouve o Ministério Público ou o querelante sobre preliminares e documentos em 5 dias.
+P: Réplica da acusação em 5 dias
+K: júri; réplica; preliminares

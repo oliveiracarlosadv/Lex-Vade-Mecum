@@ -1,0 +1,454 @@
+@CPP 722
+I: Concedido o livramento, expede-se carta de guia com cópia da sentença em duas vias, uma para o diretor do estabelecimento e outra para o presidente do Conselho Penitenciário.
+P: Carta de guia do livramento
+K: livramento condicional; carta de guia
+
+@CPP 723
+I: A cerimônia do livramento é solene: a sentença é lida ao liberando, em regra na presença dos demais presos, e ele declara se aceita as condições. A LEP (art. 137) tem regra equivalente.
+P: Cerimônia do livramento || Aceitação das condições
+K: livramento condicional; cerimônia
+
+@CPP 724
+I: Ao sair, o liberado recebe o saldo do pecúlio, seus pertences e uma caderneta com identificação e condições, que deve exibir quando exigido.
+P: Caderneta do liberado
+K: livramento condicional; caderneta
+
+@CPP 725
+I: A observação cautelar e a proteção do liberado, feitas pelo serviço social penitenciário, patronato, conselho da comunidade ou entidade similar, servem para fiscalizar as condições e ajudar o liberado.
+P: Observação cautelar e proteção
+K: livramento condicional; patronato; fiscalização
+
+@CPP 726
+I: O livramento é obrigatoriamente revogado se o liberado for condenado, por sentença irrecorrível, a pena privativa de liberdade por crime ou contravenção. Hoje valem também o art. 86 do Código Penal e a LEP.
+P: Revogação obrigatória
+K: livramento condicional; revogação obrigatória
+
+@CPP 727
+I: O juiz pode revogar o livramento por descumprimento das obrigações ou por condenação irrecorrível, por crime, a pena não privativa de liberdade. Se não revogar, deve advertir o liberado ou agravar as condições.
+P: Revogação facultativa || Advertência ou agravamento das condições
+K: livramento condicional; revogação facultativa
+
+@CPP 728
+I: Se a revogação decorrer de infração anterior ao livramento, conta-se como pena o tempo em que o liberado esteve solto, e as duas penas podem ser somadas para novo livramento.
+P: Revogação por infração anterior || Cômputo do período solto
+K: livramento condicional; revogação; cômputo
+
+@CPP 729
+I: Na revogação por outro motivo, o tempo solto não é computado e não se concede novo livramento quanto à mesma pena.
+P: Perda do tempo em liberdade || Vedação de novo livramento
+K: livramento condicional; revogação
+
+@CPP 730
+I: A revogação é decretada por representação do Conselho Penitenciário, a pedido do Ministério Público ou de ofício, ouvido antes o liberado, com possibilidade de prova em 5 dias.
+P: Iniciativa da revogação || Oitiva prévia do liberado
+K: livramento condicional; revogação; contraditório
+
+@CPP 731
+I: O juiz pode modificar as condições do livramento de ofício, a pedido do Ministério Público ou por representação do Conselho, e a decisão é lida ao liberado.
+P: Modificação das condições
+K: livramento condicional; condições
+
+@CPP 732
+I: Se o liberado cometer nova infração, o juiz pode ordenar sua prisão, ouvido o Conselho, suspendendo o livramento; a revogação depende da decisão final do novo processo.
+P: Suspensão do livramento por nova infração
+K: livramento condicional; suspensão; nova infração
+
+@CPP 733
+I: A pena é declarada extinta se o prazo do livramento expirar sem revogação, ou se o liberado for absolvido no processo que motivou a suspensão.
+P: Extinção da pena
+K: livramento condicional; extinção da pena
+
+@CPP 734
+I: A graça (indulto individual) pode ser pedida pelo condenado, por qualquer pessoa, pelo Conselho Penitenciário ou pelo Ministério Público, e o Presidente da República pode concedê-la de ofício. Hoje se aplica também a LEP (arts. 187 a 193).
+P: Legitimidade para pedir a graça || Concessão espontânea
+K: graça; indulto individual; Presidente da República
+
+@CPP 735
+I: A petição de graça vai ao ministro da Justiça por meio do Conselho Penitenciário.
+P: Tramitação da petição
+K: graça; Ministério da Justiça
+
+@CPP 736
+I: O Conselho Penitenciário faz relatório sobre o fato, as provas, os antecedentes e a conduta do condenado na prisão, e opina sobre o pedido.
+P: Relatório e parecer do Conselho
+K: graça; Conselho Penitenciário
+
+@CPP 737
+I: Processada no Ministério da Justiça, a petição vai a despacho do Presidente da República.
+P: Decisão do Presidente da República
+K: graça; Presidente da República
+
+@CPP 738
+I: Concedida a graça, o juiz declara extinta a pena ou ajusta a execução no caso de redução ou comutação.
+P: Efeitos da graça na execução
+K: graça; comutação; extinção da pena
+
+@CPP 739
+I: O condenado pode recusar a comutação da pena.
+P: Recusa da comutação
+K: comutação; recusa
+
+@CPP 740
+I: Os autos da petição de graça ficam arquivados no Ministério da Justiça.
+P: Arquivamento
+K: graça; arquivamento
+
+@CPP 741
+I: Concedido indulto, o juiz providencia como na graça, de ofício ou a pedido do interessado, do Ministério Público ou do Conselho.
+P: Aplicação do indulto
+K: indulto; extinção da pena
+
+@CPP 742
+I: Concedida anistia após o trânsito em julgado, o juiz declara extinta a pena.
+P: Anistia após a condenação
+K: anistia; extinção da pena
+
+@CPP 743
+I: O artigo prevê a reabilitação após 4 anos (ou 8, se reincidente) do fim da pena. O Código Penal (art. 94), na redação de 1984, reduziu o prazo para 2 anos, sem distinguir o reincidente.
+P: Prazo para a reabilitação || Prazo atual do CP, art. 94
+K: reabilitação; prazo
+
+@CPP 744
+I: O pedido de reabilitação é instruído com certidões de ausência de processos, atestados de residência e bom comportamento, outras provas de regeneração e prova do ressarcimento do dano ou da impossibilidade de fazê-lo.
+P: Documentos exigidos
+K: reabilitação; requisitos; reparação do dano
+
+@CPP 745
+I: O juiz pode ordenar diligências, mantendo o sigilo possível, e ouve o Ministério Público antes de decidir.
+P: Diligências sigilosas || Oitiva do MP
+K: reabilitação; diligências
+
+@CPP 746
+I: A decisão que concede a reabilitação está sujeita a recurso de ofício.
+P: Recurso de ofício
+K: reabilitação; recurso de ofício
+
+@CPP 747
+I: A reabilitação definitiva é comunicada ao instituto de identificação.
+P: Comunicação ao instituto de identificação
+K: reabilitação; registro
+
+@CPP 748
+I: As condenações anteriores não constam da folha de antecedentes nem de certidões do reabilitado, salvo requisição de juiz criminal.
+P: Sigilo das condenações
+K: reabilitação; sigilo; antecedentes
+
+@CPP 749
+I: Indeferida a reabilitação, o pedido só pode ser renovado após 2 anos, salvo se o indeferimento resultou de falta de documentos.
+P: Renovação do pedido
+K: reabilitação; indeferimento
+
+@CPP 750
+I: A revogação da reabilitação é decretada pelo juiz, de ofício ou a pedido do Ministério Público. A hipótese está hoje no art. 95 do Código Penal.
+P: Revogação da reabilitação
+K: reabilitação; revogação
+
+@CPP 751
+I: O artigo permite impor medida de segurança durante a execução da pena. A reforma de 1984 adotou o sistema vicariante: o imputável recebe só pena, e a medida de segurança (internação ou tratamento ambulatorial) vale para inimputáveis e semi-imputáveis (CP, arts. 96 a 99).
+P: Medida de segurança na execução || Sistema vicariante
+K: medida de segurança; sistema vicariante; periculosidade
+
+@CPP 752
+I: O artigo admite medida de segurança após o trânsito em julgado, antes da execução da pena. Regra ligada ao sistema anterior a 1984.
+P: Regra do sistema anterior
+K: medida de segurança; trânsito em julgado
+
+@CPP 753
+I: O artigo admite medida de segurança mesmo após sentença absolutória a quem a lei presume perigoso. A periculosidade presumida não existe mais desde 1984.
+P: Periculosidade presumida superada
+K: medida de segurança; absolvição; periculosidade presumida
+
+@CPP 754
+I: A aplicação da medida de segurança cabe ao juiz da execução (arts. 751 e 752) ou ao juiz da sentença (art. 753).
+P: Competência
+K: medida de segurança; competência
+
+@CPP 755
+I: A medida pode ser decretada de ofício ou a pedido do Ministério Público, e o diretor do estabelecimento deve comunicar fatos indicativos de periculosidade.
+P: Iniciativa || Comunicação do diretor
+K: medida de segurança; Ministério Público
+
+@CPP 756
+I: Em certos casos dos arts. 751 e 752, pode ser dispensada nova audiência do condenado.
+P: Dispensa de audiência
+K: medida de segurança; audiência
+
+@CPP 757
+I: Nos demais casos, o juiz faz diligências, ouve o Ministério Público, dá 3 dias ao condenado para alegações e produz a prova em 10 dias, nomeando defensor se pedido.
+P: Procedimento com contraditório
+K: medida de segurança; contraditório; defensor
+
+@CPP 758
+I: A execução da medida de segurança cabe ao juiz da execução. Hoje se aplicam os arts. 171 a 179 da LEP.
+P: Juiz da execução
+K: medida de segurança; execução
+
+@CPP 759
+I: No caso do art. 753, o juiz ouve o curador e pode mandar examinar e internar o condenado.
+P: Curador e exame mental
+K: medida de segurança; curador; exame mental
+
+@CPP 760
+I: Para verificar a periculosidade na hipótese então prevista no Código Penal, segue-se o procedimento do art. 757. A remissão é ao texto do CP anterior a 1984.
+P: Verificação da periculosidade
+K: medida de segurança; periculosidade
+
+@CPP 761
+I: Se as sentenças forem de juízes diferentes, a providência sobre as medidas de segurança cabe ao último sentenciante ou à jurisdição prevalente. A remissão é ao CP anterior a 1984.
+P: Competência com várias sentenças
+K: medida de segurança; competência
+
+@CPP 762
+I: A ordem de internação contém a qualificação do internando, a decisão que impôs a medida e a data do fim do prazo mínimo.
+P: Conteúdo da ordem de internação
+K: medida de segurança; internação
+
+@CPP 763
+I: Se o internando estiver solto, expede-se mandado de captura.
+P: Mandado de captura
+K: medida de segurança; captura
+
+@CPP 764
+I: O trabalho do internado é educativo e remunerado, para lhe garantir meios de subsistência ao sair, podendo ser feito ao ar livre.
+P: Trabalho do internado
+K: medida de segurança; trabalho
+
+@CPP 765
+I: Um quarto da remuneração do internado cabe ao Estado (ou à União, no DF e Territórios) e o restante é depositado em seu nome ou entregue à família.
+P: Destino da remuneração
+K: medida de segurança; remuneração
+
+@CPP 766
+I: A internação de mulheres é feita em estabelecimento próprio ou seção especial.
+P: Internação de mulheres
+K: medida de segurança; mulher
+
+@CPP 767
+I: O juiz fixa as normas de conduta da liberdade vigiada, como trabalhar e não mudar de jurisdição sem autorização. A liberdade vigiada foi extinta pela reforma de 1984.
+P: Normas da liberdade vigiada || Medida extinta em 1984
+K: liberdade vigiada; medida de segurança
+
+@CPP 768
+I: As obrigações da sentença são comunicadas à autoridade policial.
+P: Comunicação à polícia
+K: liberdade vigiada; comunicação
+
+@CPP 769
+I: A vigilância deve ser discreta, para não prejudicar a pessoa.
+P: Vigilância discreta
+K: liberdade vigiada; vigilância
+
+@CPP 770
+I: O juiz pode modificar ou acrescentar normas de conduta, de ofício, a pedido do MP ou por representação da autoridade de vigilância.
+P: Modificação das normas
+K: liberdade vigiada; modificação
+
+@CPP 771
+I: O artigo trata da execução do exílio local, medida de segurança extinta pela reforma de 1984.
+P: Exílio local (medida extinta)
+K: exílio local; medida de segurança
+
+@CPP 772
+I: A proibição de frequentar lugares, como medida de segurança, é comunicada à polícia. Essa medida de segurança foi extinta em 1984; hoje a proibição existe como condição ou pena restritiva.
+P: Proibição de frequentar lugares
+K: medida de segurança; proibição de frequentar lugares
+
+@CPP 773
+I: O fechamento de estabelecimento e a interdição de associação são comunicados à polícia para execução. Medidas de segurança patrimoniais extintas em 1984.
+P: Medidas patrimoniais extintas
+K: medida de segurança; fechamento de estabelecimento
+
+@CPP 774
+I: Quando a transgressão de uma medida de segurança gerar outra, segue-se o procedimento do art. 757.
+P: Procedimento na substituição de medida
+K: medida de segurança; transgressão
+
+@CPP 775
+I: Ao fim do prazo mínimo da medida, verifica-se a cessação da periculosidade com relatório do diretor ou da autoridade, laudo de dois médicos no caso de internação, e oitiva do MP e da defesa. A LEP (arts. 175 a 179) regula hoje o exame.
+P: Exame de cessação da periculosidade || Relatório e laudo
+K: medida de segurança; cessação da periculosidade; perícia
+
+@CPP 776
+I: Os exames sucessivos de periculosidade seguem o procedimento do artigo anterior.
+P: Exames sucessivos
+K: medida de segurança; exame
+
+@CPP 777
+I: A qualquer tempo, mesmo durante o prazo mínimo, o tribunal pode ordenar o exame de cessação da periculosidade a pedido do MP ou do interessado. A LEP (art. 176) atribui hoje esse poder ao juiz da execução.
+P: Exame antecipado
+K: medida de segurança; exame antecipado
+
+@CPP 778
+I: Transitada em julgado a revogação da medida, o juiz ordena a desinternação ou o fim da vigilância.
+P: Desinternação
+K: medida de segurança; desinternação
+
+@CPP 779
+I: O confisco dos instrumentos e produtos do crime, na hipótese do CP antigo, é decretado no arquivamento, na impronúncia ou na absolvição. O confisco hoje está no art. 91 do Código Penal.
+P: Confisco sem condenação
+K: confisco; instrumentos do crime
+
+@CPP 780
+I: Ressalvados os tratados, este Título regula a homologação de sentenças penais estrangeiras e as cartas rogatórias em processo penal.
+P: Âmbito || Prevalência dos tratados
+K: cooperação internacional; carta rogatória; sentença estrangeira
+
+@CPP 781
+I: Não se homologam sentenças nem se cumprem rogatórias contrárias à ordem pública e aos bons costumes.
+P: Limite da ordem pública
+K: ordem pública; carta rogatória; homologação
+
+@CPP 782
+I: Documentos que tramitam por via diplomática são considerados autênticos.
+P: Autenticidade pela via diplomática
+K: via diplomática; autenticidade
+
+@CPP 783
+I: As cartas rogatórias brasileiras são enviadas ao Ministro da Justiça para cumprimento por via diplomática. Hoje a autoridade central costuma ser o Ministério da Justiça, conforme os tratados.
+P: Rogatórias ativas
+K: carta rogatória; Ministério da Justiça
+
+@CPP 784
+I: Rogatórias estrangeiras dispensam homologação e são cumpridas se vierem por via diplomática e o crime admitir extradição. O texto fala em exequatur do presidente do STF; desde a EC nº 45/2004 a competência é do STJ (CF, art. 105, I, i).
+P: Rogatórias passivas || Exequatur hoje no STJ
+K: carta rogatória; exequatur; STJ
+
+@CPP 785
+I: Cumprida a rogatória, ela é devolvida ao tribunal que concedeu o exequatur, após sanadas eventuais falhas.
+P: Devolução da rogatória
+K: carta rogatória; devolução
+
+@CPP 786
+I: O despacho de exequatur fixa prazo razoável para a diligência, prorrogável por justa causa.
+P: Prazo de cumprimento
+K: carta rogatória; prazo
+
+@CPP 787
+I: Sentenças penais estrangeiras precisam de homologação para produzir os efeitos do art. 9º do CP atual (o texto remete ao art. 7º do CP de 1940). A competência passou do STF ao STJ com a EC nº 45/2004.
+P: Homologação prévia || Competência do STJ
+K: homologação de sentença estrangeira; STJ
+
+@CPP 788
+I: A homologação exige formalidades do país de origem, juiz competente e citação regular, trânsito em julgado, autenticação consular e tradução por tradutor público.
+P: Requisitos da homologação
+K: homologação de sentença estrangeira; requisitos
+
+@CPP 789
+I: O procurador-geral da República, ao saber de sentença estrangeira com medida a cumprir no Brasil, de Estado com tratado de extradição, pede elementos ao Ministro da Justiça e requer a homologação.
+P: Atuação do procurador-geral
+K: homologação; procurador-geral da República
+
+@CPP 790
+I: O interessado pode pedir a homologação da sentença penal estrangeira para fins civis (reparação, restituição). Hoje o pedido vai ao STJ.
+P: Homologação para efeitos civis
+K: homologação; efeitos civis; reparação do dano
+
+@CPP 791
+I: Além das audiências e sessões ordinárias, haverá extraordinárias conforme a necessidade.
+P: Sessões extraordinárias
+K: audiência; sessão
+
+@CPP 792
+I: Audiências e atos processuais são, em regra, públicos. O juiz pode restringir a publicidade se houver risco de escândalo, inconveniente grave ou perturbação da ordem (CF, art. 93, IX, e art. 5º, LX).
+P: Publicidade dos atos || Restrição por escândalo ou perigo
+K: publicidade; audiência; portas fechadas
+
+@CPP 793
+I: Nas audiências, todos podem ficar sentados, mas se levantam ao se dirigir aos juízes. Na instrução perante juiz singular, o advogado pode requerer sentado.
+P: Conduta nas audiências
+K: audiência; advogado
+
+@CPP 794
+I: O poder de polícia da audiência é do juiz ou do presidente do órgão, que pode requisitar força pública.
+P: Polícia das audiências
+K: polícia das audiências; ordem
+
+@CPP 795
+I: Os espectadores não podem se manifestar; os desobedientes são retirados e, se resistirem, presos.
+P: Silêncio do público
+K: audiência; espectadores
+
+@CPP 796
+I: Se o réu se portar inconvenientemente, os atos prosseguem com a presença do defensor.
+P: Retirada do réu inconveniente
+K: réu; defensor; audiência
+
+@CPP 797
+I: Sessões de julgamento não se marcam em domingo ou feriado, mas outros atos podem ocorrer nesses dias e nas férias. Julgamento iniciado em dia útil não se interrompe por feriado.
+P: Atos em feriados e férias
+K: atos processuais; feriado
+
+@CPP 798
+I: Os prazos penais correm em cartório, são contínuos e peremptórios e não se interrompem por férias, domingo ou feriado. Exclui-se o dia do começo e inclui-se o do vencimento.
+P: Prazos contínuos e peremptórios || Contagem
+K: prazos; contagem; peremptório
+
+@CPP 798-A
+I: Os prazos processuais penais ficam suspensos de 20 de dezembro a 20 de janeiro, salvo nos casos de réu preso, Lei Maria da Penha e medidas urgentes. No período não há audiências nem sessões, exceto nesses casos.
+P: Suspensão de fim de ano || Exceções
+K: prazos; recesso; suspensão
+
+@CPP 799
+I: O escrivão deve cumprir os atos em 2 dias, sob pena de multa e, na reincidência, suspensão.
+P: Prazo do escrivão
+K: escrivão; prazo
+
+@CPP 800
+I: O juiz singular decide em 10 dias (decisão definitiva ou interlocutória mista), 5 dias (interlocutória simples) ou 1 dia (expediente), contados da conclusão, podendo exceder por igual tempo com motivo justo.
+P: Prazos do juiz || Prorrogação por motivo justo
+K: prazos do juiz; decisão
+
+@CPP 801
+I: Juízes e membros do MP que excederem prazos perdem dias de vencimento e, em dobro, tempo de serviço. Regra antiga e de aplicação rara.
+P: Sanção pelo atraso
+K: prazos; sanção; vencimentos
+
+@CPP 802
+I: O desconto do artigo anterior é feito à vista de certidão do escrivão ou secretário.
+P: Certidão para o desconto
+K: prazos; certidão
+
+@CPP 803
+I: Salvo exceções legais, é proibida a retirada de autos do cartório.
+P: Vedação de retirada dos autos
+K: autos; cartório
+
+@CPP 804
+I: A sentença ou o acórdão condena o vencido nas custas.
+P: Custas pelo vencido
+K: custas; sucumbência
+
+@CPP 805
+I: As custas seguem os regulamentos da União e dos Estados.
+P: Regulamentação das custas
+K: custas
+
+@CPP 806
+I: Na ação privada, salvo pobreza (art. 32), nenhum ato se realiza sem depósito das custas; o mesmo vale para atos da defesa, salvo réu pobre. A falta de pagamento importa renúncia à diligência ou deserção.
+P: Depósito prévio de custas || Exceção da pobreza || Deserção
+K: custas; ação privada; deserção
+
+@CPP 807
+I: A exigência de custas não impede o juiz de determinar diligências de ofício.
+P: Diligências de ofício
+K: custas; diligências de ofício
+
+@CPP 808
+I: Na falta do escrivão e do substituto, serve pessoa idônea nomeada e compromissada.
+P: Escrivão ad hoc
+K: escrivão; nomeação
+
+@CPP 809
+I: A estatística criminal tem por base o boletim individual, parte integrante dos processos.
+P: Boletim individual
+K: estatística criminal; boletim individual
+
+@CPP 810
+I: O Código entrou em vigor em 1º de janeiro de 1942.
+P: Vigência
+K: vigência
+
+@CPP 811
+I: Revogam-se as disposições em contrário.
+P: Cláusula revogatória
+K: revogação

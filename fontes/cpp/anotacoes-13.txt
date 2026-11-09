@@ -1,0 +1,349 @@
+@CPP 652
+I: Se o habeas corpus for concedido por nulidade do processo, este é renovado a partir do ato nulo.
+P: Renovação do processo nulo
+K: habeas corpus; nulidade; renovação
+
+@CPP 653
+I: Concedida a soltura por habeas corpus, a autoridade que determinou a coação por má-fé ou abuso de poder é condenada nas custas, e as peças vão ao Ministério Público para apurar sua responsabilidade.
+P: Custas à autoridade coatora de má-fé || Apuração de responsabilidade
+K: habeas corpus; abuso de poder; responsabilidade
+
+@CPP 654
+I: Qualquer pessoa pode impetrar habeas corpus, em seu favor ou de outrem, assim como o Ministério Público; não se exige advogado (Estatuto da OAB, art. 1º, § 1º). A petição indica o paciente, o coator, a coação ou ameaça e é assinada pelo impetrante. Juízes e tribunais podem conceder a ordem de ofício.
+P: Legitimidade universal || Dispensa de advogado || Requisitos da petição || Concessão de ofício
+K: habeas corpus; impetrante; paciente; legitimidade
+
+@CPP 655
+I: Quem embaraçar ou retardar a expedição ou o cumprimento da ordem de habeas corpus sofre multa, sem prejuízo de outras sanções.
+P: Sanção a quem embaraça o habeas corpus
+K: habeas corpus; responsabilidade; multa
+
+@CPP 656
+I: Recebida a petição, o juiz pode mandar apresentar o paciente preso. Se o detentor desobedecer, é expedido mandado de prisão contra ele e o juiz providencia a apresentação.
+P: Apresentação do paciente || Prisão do detentor desobediente
+K: habeas corpus; apresentação do preso
+
+@CPP 657
+I: O paciente preso deve ser apresentado, salvo doença grave, não estar sob guarda do apontado detentor ou não ter o juiz determinado o comparecimento. Se estiver doente, o juiz pode ir até ele.
+P: Escusas para a não apresentação || Diligência do juiz ao local
+K: habeas corpus; apresentação; enfermidade
+
+@CPP 658
+I: O detentor deve declarar à ordem de quem o paciente está preso.
+P: Declaração da autoridade responsável pela prisão
+K: habeas corpus; detentor
+
+@CPP 659
+I: Se a coação já cessou, o pedido é julgado prejudicado.
+P: Perda do objeto
+K: habeas corpus; prejudicado
+
+@CPP 660
+I: Após as diligências e o interrogatório do paciente, o juiz decide em 24 horas. Concedida a ordem, o paciente é solto, salvo se preso por outro motivo. Se a ilegalidade for evidente pelos documentos, o juiz manda cessar o constrangimento. Pode haver salvo-conduto no HC preventivo.
+P: Decisão em 24 horas || Soltura imediata || Salvo-conduto no HC preventivo
+K: habeas corpus; decisão; salvo-conduto
+
+@CPP 661
+I: Nos HCs de competência originária dos tribunais, a petição é apresentada ao secretário, que a envia ao presidente do tribunal, da câmara ou da turma.
+P: Processamento nos tribunais
+K: habeas corpus; tribunal
+
+@CPP 662
+I: Se a petição estiver em ordem, requisitam-se informações à autoridade coatora; se faltar requisito, manda-se suprir.
+P: Requisição de informações
+K: habeas corpus; informações; autoridade coatora
+
+@CPP 663
+I: Se o HC dever ser indeferido de plano, as diligências não são ordenadas e o pedido é levado ao tribunal para decisão.
+P: Indeferimento liminar
+K: habeas corpus; indeferimento liminar
+
+@CPP 664
+I: Recebidas ou dispensadas as informações, o HC é julgado na primeira sessão, podendo ser adiado para a seguinte. A decisão é por maioria; no empate, o presidente desempata se não tiver votado, e, se tiver votado, prevalece a decisão mais favorável ao paciente. O art. 615, § 1º, estende a regra do empate favorável a todos os julgamentos colegiados penais.
+P: Julgamento na primeira sessão || Maioria de votos || Empate favorece o paciente
+K: habeas corpus; julgamento; empate
+
+@CPP 665
+I: A ordem concedida é lavrada e enviada por ofício ou outro meio rápido ao detentor ou à autoridade, para cumprimento imediato.
+P: Comunicação da ordem
+K: habeas corpus; cumprimento
+
+@CPP 666
+I: Os regimentos dos tribunais complementam o processo do HC de sua competência originária.
+P: Regimentos internos
+K: habeas corpus; regimento
+
+@CPP 667
+I: No STF e nos recursos contra decisões denegatórias de HC, aplicam-se as regras do CPP no que couberem e os regimentos internos.
+P: Habeas corpus no STF
+K: habeas corpus; STF; recurso ordinário
+
+@CPP 668
+I: O artigo atribui a execução ao juiz da sentença onde não houver juiz especial. Hoje a execução penal é regida pela Lei de Execução Penal (Lei nº 7.210/1984), com juízo próprio da execução.
+P: Juízo da execução || Regência pela LEP
+K: execução penal; juiz da execução; Lei de Execução Penal
+
+@CPP 669
+I: Pela regra geral, a sentença só é executada após o trânsito em julgado. As exceções previstas (prisão antes da fiança e soltura na absolvição) devem ser lidas com a presunção de inocência e as cautelares atuais.
+P: Execução após o trânsito em julgado || Presunção de inocência
+K: execução da sentença; trânsito em julgado
+
+@CPP 670
+I: Se a absolvição for confirmada ou proferida em apelação, o relator expede o alvará de soltura e comunica o juiz.
+P: Alvará de soltura pelo relator
+K: absolvição; alvará de soltura
+
+@CPP 671
+I: Os incidentes da execução são resolvidos pelo juiz da execução (LEP, art. 66).
+P: Competência do juiz da execução
+K: incidentes da execução; juiz da execução
+
+@CPP 672
+I: Computa-se na pena o tempo de prisão preventiva ou provisória, no Brasil ou no exterior, e de internação (detração, também no CP, art. 42).
+P: Detração
+K: detração; prisão provisória
+
+@CPP 673
+I: Se, pendente sua apelação, o réu já tiver ficado preso pelo tempo da pena imposta, o relator manda soltá-lo, salvo nos crimes com pena máxima de reclusão de 8 anos ou mais em que a acusação também apelou.
+P: Soltura pelo cumprimento integral durante o recurso
+K: detração; apelação; soltura
+
+@CPP 674
+I: Transitada em julgado a condenação e estando o réu preso, o juiz expede a carta de guia para a execução. Hoje se usa a guia de recolhimento da LEP (art. 105).
+P: Carta de guia || Guia de recolhimento (LEP)
+K: carta de guia; guia de recolhimento; execução
+
+@CPP 675
+I: Se não houver mandado de prisão, o juiz o expede após o trânsito em julgado da condenação. Se a absolvição for reformada em recurso, o tribunal expede o mandado.
+P: Expedição do mandado após a condenação definitiva
+K: mandado de prisão; execução
+
+@CPP 676
+I: A carta de guia, extraída pelo escrivão e assinada e rubricada pelo juiz, é enviada ao diretor do estabelecimento e contém o nome e a qualificação do réu, o teor da sentença e os demais dados necessários à execução.
+P: Conteúdo da carta de guia
+K: carta de guia; execução
+
+@CPP 677
+I: Cópia da carta de guia é enviada ao Conselho Penitenciário.
+P: Comunicação ao Conselho Penitenciário
+K: carta de guia; Conselho Penitenciário
+
+@CPP 678
+I: O diretor do estabelecimento dá recibo da carta de guia, juntado aos autos.
+P: Recibo da carta de guia
+K: carta de guia; recibo
+
+@CPP 679
+I: As cartas de guia são registradas em livro especial em ordem cronológica, com as anotações da execução.
+P: Registro das cartas de guia
+K: carta de guia; registro
+
+@CPP 680
+I: Conta como pena o tempo em que o condenado permanece preso em estabelecimento diferente do destinado ao cumprimento.
+P: Cômputo do tempo em outro estabelecimento
+K: execução; cômputo da pena
+
+@CPP 681
+I: Havendo penas cumulativas, executa-se primeiro a reclusão, depois a detenção e por fim a prisão simples.
+P: Ordem de execução das penas
+K: execução; reclusão; detenção
+
+@CPP 682
+I: Se sobrevier doença mental ao condenado, ele é internado em hospital de custódia. Hoje se aplica a LEP (art. 183), que permite converter a pena em medida de segurança.
+P: Doença mental durante a pena || Conversão em medida de segurança (LEP)
+K: doença mental; execução; medida de segurança
+
+@CPP 683
+I: O diretor da prisão comunica imediatamente ao juiz o óbito, a fuga ou a soltura do preso, com certidão de óbito se for o caso.
+P: Comunicação de óbito, fuga ou soltura
+K: execução; comunicação; preso
+
+@CPP 684
+I: A recaptura do evadido não depende de ordem judicial prévia e pode ser feita por qualquer pessoa.
+P: Recaptura sem ordem prévia
+K: recaptura; fuga
+
+@CPP 685
+I: Cumprida ou extinta a pena, o condenado é solto imediatamente por alvará, salvo se deva continuar preso por outro motivo.
+P: Soltura ao fim da pena
+K: alvará de soltura; extinção da pena
+
+@CPP 686
+I: A multa deve ser paga em 10 dias após o trânsito em julgado. Hoje a execução da multa segue o art. 51 do Código Penal, como dívida de valor.
+P: Prazo de 10 dias para a multa || Regras atuais do CP, art. 51
+K: multa; execução; dívida de valor
+
+@CPP 687
+I: O juiz pode prorrogar o pagamento da multa por até três meses ou permitir o parcelamento, a pedido do condenado.
+P: Prorrogação e parcelamento da multa
+K: multa; parcelamento
+
+@CPP 688
+I: Não paga a multa, cobra-se judicialmente ou por desconto na remuneração. Hoje a cobrança segue o art. 51 do Código Penal e a legitimidade prioritária do Ministério Público (ADI 3.150).
+P: Cobrança da multa || Regras atuais do Código Penal
+K: multa; cobrança; execução
+
+@CPP 689
+I: O artigo previa a conversão da multa em prisão. Essa conversão foi abolida pela Lei nº 9.268/1996 (CP, art. 51), e a regra não se aplica mais.
+P: Conversão da multa em prisão abolida
+K: multa; conversão; prisão
+
+@CPP 690
+I: O juiz tornava sem efeito a conversão da multa se o condenado pagasse ou prestasse caução. Regra superada pela abolição da conversão.
+P: Regra superada
+K: multa; conversão
+
+@CPP 691
+I: O juiz comunica à autoridade administrativa a sentença que gera perda de função pública ou incapacidade. As "penas acessórias" foram extintas em 1984 e hoje correspondem aos efeitos da condenação (CP, art. 92).
+P: Comunicação da perda da função || Penas acessórias substituídas pelos efeitos da condenação
+K: efeitos da condenação; perda da função pública
+
+@CPP 692
+I: Na incapacidade para o pátrio poder (hoje poder familiar), a tutela ou a curatela, o juiz providencia para que a pessoa e os bens do menor ou do interdito sejam acautelados no juízo competente.
+P: Proteção dos interesses do incapaz
+K: poder familiar; incapacidade; efeitos da condenação
+
+@CPP 693
+I: A incapacidade para o poder familiar é averbada no registro civil. A referência à "autoridade marital" é anacrônica.
+P: Averbação no registro civil
+K: registro civil; poder familiar
+
+@CPP 694
+I: As interdições de direitos são comunicadas ao instituto de identificação e constam da folha de antecedentes.
+P: Registro das interdições
+K: interdição de direitos; antecedentes
+
+@CPP 695
+I: Iniciada a execução das interdições temporárias, o juiz fixa seu início e fim. Regra ligada ao sistema anterior a 1984.
+P: Termo das interdições temporárias
+K: interdição de direitos; execução
+
+@CPP 696
+I: O artigo regulava o sursis com prazos e requisitos anteriores a 1984. Hoje vale o Código Penal (arts. 77 a 82) e a LEP (arts. 156 a 163), com prazo de 2 a 4 anos.
+P: Regra superada pelos arts. 77 a 82 do CP
+K: sursis; suspensão condicional da pena
+
+@CPP 697
+I: O juiz deve se pronunciar motivadamente sobre o sursis ao aplicar pena de até 2 anos, concedendo-o ou negando-o.
+P: Dever de fundamentar sobre o sursis
+K: sursis; fundamentação
+
+@CPP 698
+I: Concedido o sursis, o juiz fixa as condições, adequadas ao delito e à personalidade do condenado, e o prazo começa na audiência de advertência.
+P: Condições do sursis || Início do prazo na audiência
+K: sursis; condições; audiência admonitória
+
+@CPP 699
+I: Na condenação pelo júri, o sursis é decidido pelo juiz presidente.
+P: Sursis no júri
+K: sursis; tribunal do júri
+
+@CPP 700
+I: O sursis não abrange a multa, as penas acessórias, os efeitos da condenação nem as custas.
+P: Alcance do sursis
+K: sursis; multa; custas
+
+@CPP 701
+I: Ao conceder o sursis, o juiz fixa prazo para pagar as custas, de uma vez ou em parcelas.
+P: Pagamento das custas no sursis
+K: sursis; custas
+
+@CPP 702
+I: Na coautoria, o sursis pode ser concedido a uns réus e negado a outros.
+P: Concessão individual
+K: sursis; coautoria
+
+@CPP 703
+I: O juiz lê a sentença ao réu em audiência (audiência admonitória) e o adverte das consequências de nova infração e do descumprimento das condições.
+P: Audiência admonitória
+K: sursis; audiência admonitória
+
+@CPP 704
+I: Se o sursis for concedido pelo tribunal, este fixa as condições, podendo a audiência ser presidida por membro do tribunal ou pelo juiz de primeiro grau.
+P: Sursis concedido em segunda instância
+K: sursis; tribunal
+
+@CPP 705
+I: Se o réu, intimado pessoalmente ou por edital de 20 dias, não comparecer à audiência admonitória, o sursis fica sem efeito e executa-se a pena, salvo justo impedimento, caso em que se marca nova audiência.
+P: Ausência na audiência admonitória
+K: sursis; ausência; execução
+
+@CPP 706
+I: O sursis fica sem efeito se a pena for aumentada em recurso a ponto de excluí-lo.
+P: Perda do sursis por aumento da pena em recurso
+K: sursis; recurso
+
+@CPP 707
+I: O sursis é revogado por condenação definitiva a pena de prisão ou por frustrar a multa ou a reparação do dano, podendo ser revogado por descumprimento de condições. Hoje se aplicam as hipóteses do art. 81 do Código Penal.
+P: Revogação do sursis || Regras atuais do CP, art. 81
+K: sursis; revogação
+
+@CPP 708
+I: Expirado o prazo sem revogação, a pena é declarada extinta.
+P: Extinção da pena ao fim do sursis
+K: sursis; extinção da pena
+
+@CPP 709
+I: A condenação com sursis é inscrita no instituto de identificação, averbando-se a extinção da pena ou a revogação.
+P: Registro do sursis
+K: sursis; registro; antecedentes
+
+@CPP 710
+I: O artigo regulava o livramento condicional com requisitos anteriores a 1984. Hoje valem o art. 83 do Código Penal (frações de 1/3, 1/2 e 2/3) e a LEP (arts. 131 a 146).
+P: Regra superada pelo art. 83 do CP
+K: livramento condicional; requisitos
+
+@CPP 711
+I: As penas de infrações diversas podem ser somadas para o livramento.
+P: Soma das penas
+K: livramento condicional; soma de penas
+
+@CPP 712
+I: O livramento pode ser pedido pelo condenado, por cônjuge ou parente em linha reta, ou proposto pelo diretor do estabelecimento ou pelo Conselho Penitenciário.
+P: Legitimidade para pedir o livramento
+K: livramento condicional; requerimento
+
+@CPP 713
+I: O Conselho Penitenciário opina sobre o livramento, mas o juiz não fica vinculado ao parecer. Após a Lei nº 10.792/2003, a LEP (art. 70, I) deixou de prever o parecer do Conselho sobre o livramento.
+P: Parecer do Conselho Penitenciário não vinculante
+K: livramento condicional; Conselho Penitenciário
+
+@CPP 714
+I: O diretor do estabelecimento envia ao Conselho relatório sobre o caráter, o comportamento, as relações e a aptidão do sentenciado.
+P: Relatório do diretor
+K: livramento condicional; relatório
+
+@CPP 715
+I: Havendo medida de segurança detentiva, o livramento depende de exame que comprove a cessação da periculosidade. Regra ligada ao sistema anterior a 1984.
+P: Exame de cessação da periculosidade
+K: livramento condicional; periculosidade
+
+@CPP 716
+I: O pedido ou a proposta de livramento é enviado ao juiz pelo presidente do Conselho Penitenciário, com o parecer e o relatório do diretor. O Conselho pode determinar diligências e requisitar os autos.
+P: Processamento do pedido
+K: livramento condicional; decisão
+
+@CPP 717
+I: Sem o cumprimento do tempo mínimo de pena, o pedido é indeferido de plano.
+P: Indeferimento liminar por falta do requisito temporal
+K: livramento condicional; requisito objetivo
+
+@CPP 718
+I: Deferido o livramento, o juiz fixa as condições, podendo permitir que o liberado resida fora da jurisdição, e o adverte das obrigações.
+P: Condições do livramento || Residência fora da jurisdição
+K: livramento condicional; condições
+
+@CPP 719
+I: O livramento também depende do pagamento das custas e da taxa penitenciária, salvo insolvência comprovada.
+P: Pagamento de custas
+K: livramento condicional; custas
+
+@CPP 720
+I: A multa ainda não paga pelo liberado é cobrada na forma do art. 688.
+P: Cobrança da multa do liberado
+K: livramento condicional; multa
+
+@CPP 721
+I: Se a decisão que negou o livramento for reformada, os autos voltam ao juiz para fixar as condições.
+P: Fixação das condições após a reforma
+K: livramento condicional; recurso

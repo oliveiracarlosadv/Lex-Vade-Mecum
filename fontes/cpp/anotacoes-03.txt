@@ -1,0 +1,299 @@
+@CPP 93
+I: Se a existência do crime depender de questão cível diversa do estado civil, já em discussão no juízo cível e de difícil solução, o juiz criminal pode suspender o processo por prazo razoável (prejudicial facultativa), prorrogável. Esgotado o prazo, retoma o processo e decide a questão.
+P: Questão prejudicial facultativa || Suspensão por prazo fixado pelo juiz || Retomada após o prazo
+K: questão prejudicial; suspensão do processo; juízo cível
+
+@CPP 94
+I: A suspensão da ação penal por questão prejudicial é decretada pelo juiz, de ofício ou a pedido das partes. Durante a suspensão, a prescrição não corre (CP, art. 116, I).
+P: Suspensão de ofício ou a requerimento || Prescrição suspensa
+K: questão prejudicial; suspensão; prescrição
+
+@CPP 95
+I: O artigo lista as exceções processuais: suspeição, incompetência de juízo, litispendência, ilegitimidade de parte e coisa julgada.
+P: Rol das exceções processuais
+K: exceções; suspeição; incompetência; litispendência; coisa julgada
+
+@CPP 96
+I: A arguição de suspeição deve preceder qualquer outra exceção, salvo se o motivo for superveniente, porque afeta a imparcialidade do juiz que decidirá as demais questões.
+P: Precedência da suspeição
+K: suspeição; exceção; imparcialidade
+
+@CPP 97
+I: O juiz que se considerar suspeito deve declarar o motivo por escrito e enviar o processo ao substituto, intimando as partes.
+P: Declaração espontânea de suspeição || Remessa ao substituto
+K: suspeição; juiz; substituto
+
+@CPP 98
+I: A parte que quiser recusar o juiz por suspeição deve fazê-lo em petição assinada por ela ou por procurador com poderes especiais, com as razões, documentos e testemunhas.
+P: Petição de suspeição || Procuração com poderes especiais
+K: exceção de suspeição; recusa do juiz
+
+@CPP 99
+I: Se o juiz reconhecer a suspeição, suspende o processo, junta a petição e remete os autos ao substituto.
+P: Reconhecimento da suspeição pelo próprio juiz
+K: suspeição; reconhecimento
+
+@CPP 100
+I: Se o juiz não aceitar a suspeição, autua a petição em apartado, responde em três dias e envia o incidente ao tribunal, que pode ouvir testemunhas e julgar, ou rejeitar liminarmente a arguição manifestamente improcedente.
+P: Processamento da suspeição não aceita || Julgamento pelo tribunal || Rejeição liminar
+K: exceção de suspeição; tribunal; incidente
+
+@CPP 101
+I: Procedente a suspeição, os atos do processo principal são nulos e o juiz paga as custas se o erro for inescusável. Rejeitada, a parte que agiu com malícia paga multa.
+P: Nulidade dos atos do juiz suspeito || Custas pelo juiz || Multa por arguição maliciosa
+K: suspeição; nulidade; multa
+
+@CPP 102
+I: Se a parte contrária reconhecer a procedência da suspeição, o processo principal pode ser suspenso até o julgamento do incidente.
+P: Suspensão do processo por concordância da parte contrária
+K: suspeição; suspensão
+
+@CPP 103
+I: Nos tribunais, o magistrado suspeito deve declarar-se nos autos ou na sessão, passando o feito ao substituto. O regimento dos tribunais disciplina o julgamento da suspeição arguida pelas partes.
+P: Suspeição nos tribunais || Regimento interno
+K: suspeição; tribunais; relator; revisor
+
+@CPP 104
+I: Se for arguida a suspeição do promotor, o juiz decide após ouvi-lo, sem recurso, podendo admitir provas em três dias.
+P: Suspeição do Ministério Público || Decisão irrecorrível
+K: suspeição; Ministério Público
+
+@CPP 105
+I: Peritos, intérpretes e servidores da Justiça também podem ser arguidos suspeitos, decidindo o juiz de plano e sem recurso.
+P: Suspeição de auxiliares da Justiça || Decisão de plano
+K: suspeição; perito; intérprete; serventuário
+
+@CPP 106
+I: A suspeição de jurado deve ser arguida oralmente, e o juiz presidente decide de plano, rejeitando-a se, negada pelo jurado, não for comprovada de imediato.
+P: Suspeição de jurado arguida oralmente || Decisão imediata
+K: jurado; suspeição; tribunal do júri
+
+@CPP 107
+I: Não se pode opor suspeição às autoridades policiais no inquérito, mas elas devem declarar-se suspeitas quando houver motivo legal.
+P: Sem exceção de suspeição contra o delegado || Dever de autodeclaração
+K: autoridade policial; suspeição; inquérito
+
+@CPP 108
+I: A exceção de incompetência pode ser oposta, oralmente ou por escrito, no prazo da defesa. Aceita, o processo vai ao juízo competente, que pode ratificar os atos anteriores. Recusada, o juiz prossegue.
+P: Exceção de incompetência no prazo da defesa || Remessa ao juízo competente || Ratificação dos atos
+K: exceção de incompetência; competência; ratificação
+
+@CPP 109
+I: Em qualquer fase, o juiz que se reconhecer incompetente deve declarar-se de ofício, haja ou não alegação das partes.
+P: Declaração de ofício da incompetência
+K: incompetência; declaração de ofício
+
+@CPP 110
+I: As exceções de litispendência, ilegitimidade de parte e coisa julgada seguem as regras da exceção de incompetência, devem ser opostas numa só petição, e a de coisa julgada só vale quanto ao fato principal já julgado.
+P: Processamento comum das exceções || Coisa julgada sobre o fato principal
+K: litispendência; ilegitimidade; coisa julgada
+
+@CPP 111
+I: As exceções são processadas em autos apartados e, em regra, não suspendem a ação penal.
+P: Autos apartados || Sem efeito suspensivo, em regra
+K: exceções; autos apartados
+
+@CPP 112
+I: Juiz, promotor, servidores, peritos e intérpretes devem abster-se de atuar quando houver incompatibilidade ou impedimento legal; se não o fizerem, as partes podem argui-lo como na suspeição.
+P: Dever de abstenção por impedimento || Arguição pelas partes
+K: impedimento; incompatibilidade; imparcialidade
+
+@CPP 113
+I: As questões de competência se resolvem pela exceção própria ou pelo conflito, positivo ou negativo, de jurisdição.
+P: Exceção ou conflito de competência
+K: conflito de competência; jurisdição
+
+@CPP 114
+I: Há conflito quando duas ou mais autoridades judiciárias se consideram competentes (positivo) ou incompetentes (negativo) para o mesmo fato, ou divergem sobre unidade, junção ou separação de processos.
+P: Conflito positivo e negativo || Divergência sobre unidade de processos
+K: conflito de competência; positivo; negativo
+
+@CPP 115
+I: O conflito pode ser suscitado pela parte interessada, pelo Ministério Público ou pelos próprios juízes ou tribunais envolvidos.
+P: Legitimidade para suscitar o conflito
+K: conflito de competência; legitimidade
+
+@CPP 116
+I: O conflito é suscitado por escrito perante o tribunal competente. No negativo, pode ser suscitado nos próprios autos. No positivo, o relator pode suspender o processo, e o tribunal decide após as informações e o parecer do Ministério Público.
+P: Procedimento do conflito || Suspensão do processo no conflito positivo
+K: conflito de competência; tribunal; procedimento
+
+@CPP 117
+I: O STF pode avocar e restabelecer sua jurisdição quando exercida indevidamente por juízes ou tribunais inferiores. Hoje a matéria se resolve sobretudo pela reclamação constitucional (CF, art. 102, I, "l").
+P: Avocatória do STF || Reclamação constitucional
+K: avocatória; STF; reclamação
+
+@CPP 118
+I: Antes do trânsito em julgado, as coisas apreendidas não podem ser restituídas enquanto interessarem ao processo.
+P: Retenção dos bens úteis ao processo
+K: restituição de coisas apreendidas; apreensão
+
+@CPP 119
+I: Os instrumentos e produtos do crime sujeitos a confisco (CP, art. 91, II) não são restituídos nem após o trânsito em julgado, salvo se pertencerem ao lesado ou a terceiro de boa-fé. As remissões ao Código Penal referem-se à numeração anterior a 1984.
+P: Vedação de restituição dos bens confiscáveis || Ressalva do lesado e do terceiro de boa-fé
+K: confisco; restituição; instrumentos do crime
+
+@CPP 120
+I: A restituição pode ser ordenada pela polícia ou pelo juiz quando não houver dúvida sobre o direito do reclamante. Havendo dúvida ou bens apreendidos com terceiro de boa-fé, o pedido é autuado em apartado e decidido pelo juiz, podendo remeter a questão ao cível. Coisas deterioráveis podem ser vendidas em leilão.
+P: Restituição sem dúvida pela polícia ou pelo juiz || Incidente de restituição || Venda de coisas deterioráveis
+K: restituição de coisas apreendidas; incidente; terceiro de boa-fé
+
+@CPP 121
+I: Se a coisa apreendida foi adquirida com os proventos do crime, aplica-se a venda em leilão do art. 133.
+P: Bens adquiridos com proveito do crime || Remissão ao art. 133
+K: proventos do crime; alienação; apreensão
+
+@CPP 122
+I: As coisas apreendidas não restituídas são alienadas na forma do art. 133, sem prejuízo da restituição cabível.
+P: Alienação das coisas apreendidas
+K: alienação; coisas apreendidas; leilão
+
+@CPP 123
+I: Se as coisas apreendidas não forem reclamadas em 90 dias após o trânsito em julgado, ou não pertencerem ao réu, são vendidas em leilão, depositando-se o saldo à disposição do juízo de ausentes.
+P: Prazo de 90 dias para reclamar || Venda e depósito do saldo
+K: coisas apreendidas; leilão; prazo
+
+@CPP 124
+I: Os instrumentos do crime confiscados são inutilizados ou recolhidos a museu criminal, se houver interesse em conservá-los.
+P: Destinação dos instrumentos confiscados
+K: instrumentos do crime; confisco; museu criminal
+
+@CPP 124-A
+I: Incluído pela Lei nº 13.964/2019, o artigo permite que obras de arte e bens de valor cultural confiscados, em crimes sem vítima determinada, sejam destinados a museus públicos.
+P: Destinação de bens culturais a museus || Crimes sem vítima determinada
+K: obras de arte; perdimento; museus; Pacote Anticrime
+
+@CPP 125
+I: Cabe o sequestro dos bens imóveis adquiridos pelo indiciado com os proventos do crime, ainda que transferidos a terceiros.
+P: Sequestro de imóveis adquiridos com proventos do crime || Alcance de bens transferidos
+K: sequestro; medidas assecuratórias; proventos do crime
+
+@CPP 126
+I: Para decretar o sequestro, bastam indícios veementes da origem ilícita dos bens.
+P: Indícios veementes da proveniência ilícita
+K: sequestro; indícios; medidas assecuratórias
+
+@CPP 127
+I: O juiz pode ordenar o sequestro a pedido do Ministério Público, do ofendido ou por representação da polícia, em qualquer fase do processo ou antes da denúncia. A previsão de decretação de ofício é vista como incompatível com o sistema acusatório depois da Lei nº 13.964/2019.
+P: Legitimados a requerer o sequestro || Cabimento antes da denúncia || Decretação de ofício e sistema acusatório
+K: sequestro; legitimidade; sistema acusatório
+
+@CPP 128
+I: Realizado o sequestro, o juiz manda inscrevê-lo no Registro de Imóveis, para dar publicidade a terceiros.
+P: Inscrição no Registro de Imóveis
+K: sequestro; registro de imóveis; publicidade
+
+@CPP 129
+I: O sequestro corre em autos apartados e admite embargos de terceiro.
+P: Autos apartados || Embargos de terceiro
+K: sequestro; embargos de terceiro
+
+@CPP 130
+I: O sequestro pode ser embargado pelo acusado, alegando que os bens não vieram do crime, e pelo terceiro adquirente de boa-fé a título oneroso. Esses embargos só são julgados após o trânsito em julgado da condenação.
+P: Embargos do acusado e do terceiro de boa-fé || Julgamento após o trânsito em julgado
+K: sequestro; embargos; terceiro de boa-fé
+
+@CPP 131
+I: O sequestro é levantado se a ação penal não for proposta em 60 dias, se o terceiro prestar caução ou se houver extinção da punibilidade ou absolvição definitiva.
+P: Prazo de 60 dias para a ação penal || Caução do terceiro || Absolvição ou extinção da punibilidade
+K: levantamento do sequestro; prazo; caução
+
+@CPP 132
+I: Cabe sequestro de bens móveis de origem ilícita quando não for cabível a busca e apreensão.
+P: Sequestro de bens móveis || Subsidiariedade em relação à busca e apreensão
+K: sequestro; bens móveis; busca e apreensão
+
+@CPP 133
+I: Com o trânsito em julgado da condenação, o juiz determina a avaliação e o leilão dos bens sequestrados ou apreendidos. Do valor apurado, o que não couber ao lesado ou a terceiro de boa-fé vai para o Fundo Penitenciário Nacional, salvo previsão diversa em lei especial (Lei nº 13.964/2019).
+P: Leilão após a condenação definitiva || Ressalva do lesado e do terceiro || Destinação ao Fundo Penitenciário Nacional
+K: alienação de bens; leilão; perdimento
+
+@CPP 133-A
+I: Incluído pela Lei nº 13.964/2019, o artigo permite ao juiz autorizar, havendo interesse público, que órgãos de segurança pública usem bens sequestrados ou apreendidos, com prioridade para o órgão que participou da investigação.
+P: Uso de bens apreendidos pelas forças de segurança || Interesse público || Prioridade do órgão investigador
+K: uso de bens apreendidos; segurança pública; Pacote Anticrime
+
+@CPP 134
+I: O ofendido pode requerer a hipoteca legal sobre imóveis do indiciado em qualquer fase do processo, havendo certeza da infração e indícios suficientes de autoria, para garantir a reparação do dano.
+P: Hipoteca legal para garantir a indenização || Certeza da infração e indícios de autoria
+K: hipoteca legal; medidas assecuratórias; reparação do dano
+
+@CPP 135
+I: O pedido de especialização da hipoteca indica o valor estimado da responsabilidade e os imóveis, com provas e documentos. O juiz arbitra o valor e inscreve a hipoteca dos bens necessários.
+P: Especialização da hipoteca legal || Estimativa e arbitramento do valor
+K: hipoteca legal; especialização; arbitramento
+
+@CPP 136
+I: O arresto do imóvel pode ser decretado de início, mas é revogado se em 15 dias não for promovida a inscrição da hipoteca legal.
+P: Arresto prévio do imóvel || Prazo de 15 dias para a hipoteca
+K: arresto; hipoteca legal; prazo
+
+@CPP 137
+I: Se o responsável não tiver imóveis suficientes, podem ser arrestados bens móveis penhoráveis. Bens deterioráveis podem ser vendidos, e das rendas podem sair recursos para a manutenção do indiciado e de sua família.
+P: Arresto de bens móveis || Venda de deterioráveis || Recursos para a família do indiciado
+K: arresto; bens móveis; medidas assecuratórias
+
+@CPP 138
+I: A especialização da hipoteca e o arresto correm em autos apartados.
+P: Autos apartados
+K: hipoteca legal; arresto
+
+@CPP 139
+I: O depósito e a administração dos bens arrestados seguem o regime do processo civil.
+P: Aplicação das regras do processo civil
+K: arresto; depósito; administração de bens
+
+@CPP 140
+I: As garantias de ressarcimento alcançam também as despesas processuais e as penas pecuniárias, mas a reparação do dano ao ofendido tem preferência.
+P: Abrangência das garantias || Preferência da reparação do dano
+K: garantias; reparação do dano; penas pecuniárias
+
+@CPP 141
+I: O arresto é levantado e a hipoteca cancelada se o réu for absolvido ou extinta a punibilidade por decisão definitiva.
+P: Levantamento por absolvição ou extinção da punibilidade
+K: arresto; hipoteca legal; absolvição
+
+@CPP 142
+I: O Ministério Público promove a hipoteca e o arresto se houver interesse da Fazenda Pública ou se o ofendido for pobre e o requerer, observada hoje a atuação da Defensoria Pública.
+P: Legitimidade do Ministério Público || Interesse da Fazenda ou ofendido pobre
+K: Ministério Público; hipoteca legal; arresto
+
+@CPP 143
+I: Transitada em julgado a condenação, os autos da hipoteca ou do arresto vão ao juízo cível para a execução da reparação.
+P: Remessa ao juízo cível
+K: hipoteca legal; arresto; execução civil
+
+@CPP 144
+I: Os interessados ou o Ministério Público podem requerer no juízo cível, contra o responsável civil, a hipoteca e o arresto.
+P: Medidas contra o responsável civil no juízo cível
+K: responsável civil; hipoteca legal; arresto
+
+@CPP 144-A
+I: O juiz deve determinar a alienação antecipada de bens sujeitos a deterioração, depreciação ou de difícil manutenção, preferencialmente por leilão eletrônico, pelo valor da avaliação ou, não alcançado, por pelo menos 80% dele. O valor fica depositado em conta judicial até o fim do processo.
+P: Alienação antecipada para preservar o valor || Leilão eletrônico || Depósito judicial do valor
+K: alienação antecipada; leilão eletrônico; medidas assecuratórias
+
+@CPP 145
+I: Arguida por escrito a falsidade de documento, o juiz autua o incidente em apartado, ouve a parte contrária em 48 horas, abre prazo de três dias para provas, pode ordenar diligências e, reconhecida a falsidade, desentranha o documento e o remete ao Ministério Público.
+P: Procedimento do incidente de falsidade || Desentranhamento do documento falso || Remessa ao Ministério Público
+K: incidente de falsidade; documento falso; prova
+
+@CPP 146
+I: A arguição de falsidade feita por procurador exige poderes especiais.
+P: Poderes especiais para arguir falsidade
+K: incidente de falsidade; procurador
+
+@CPP 147
+I: O juiz pode verificar de ofício a falsidade de documento.
+P: Verificação de ofício
+K: incidente de falsidade; juiz
+
+@CPP 148
+I: A decisão no incidente de falsidade não faz coisa julgada em processo penal ou civil posterior.
+P: Ausência de coisa julgada
+K: incidente de falsidade; coisa julgada
+
+@CPP 149
+I: Havendo dúvida sobre a integridade mental do acusado, o juiz determina exame médico-legal, de ofício ou a pedido das partes ou familiares, inclusive na fase do inquérito. O juiz nomeia curador e suspende o processo, salvo quanto a diligências urgentes.
+P: Incidente de insanidade mental || Exame médico-legal || Nomeação de curador e suspensão do processo
+K: insanidade mental; exame médico-legal; inimputabilidade

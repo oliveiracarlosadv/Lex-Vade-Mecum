@@ -1,0 +1,274 @@
+@CPP 150
+I: Para o exame de sanidade, o acusado preso é internado em hospital de custódia (o antigo "manicômio judiciário") e o solto, se os peritos pedirem, em estabelecimento designado pelo juiz. O exame dura até 45 dias, salvo necessidade demonstrada, e os autos podem ser entregues aos peritos.
+P: Internação para o exame || Prazo de 45 dias || Entrega dos autos aos peritos
+K: exame de sanidade mental; hospital de custódia; perícia
+
+@CPP 151
+I: Se os peritos concluírem que o acusado era inimputável ao tempo do fato (hoje CP, art. 26), o processo prossegue com a presença do curador, podendo levar à absolvição imprópria com medida de segurança.
+P: Inimputabilidade ao tempo do fato || Prosseguimento com curador || Absolvição imprópria
+K: inimputabilidade; curador; medida de segurança
+
+@CPP 152
+I: Se a doença mental surgiu depois do crime, o processo fica suspenso até a recuperação do acusado, que pode ser internado. Restabelecido, o processo retoma, e ele pode pedir nova oitiva das testemunhas ouvidas sem sua presença. A jurisprudência limita a suspensão para que não se torne indefinida.
+P: Doença mental superveniente suspende o processo || Possibilidade de internação || Reinquirição das testemunhas
+K: doença mental superveniente; suspensão do processo; crise de instância
+
+@CPP 153
+I: O incidente de insanidade corre em autos apartados, apensados ao processo principal só depois do laudo.
+P: Autos apartados até o laudo
+K: incidente de insanidade; autos apartados
+
+@CPP 154
+I: Se a doença mental surgir durante a execução da pena, aplica-se o art. 682 do CPP e, hoje, a Lei de Execução Penal (art. 183), que permite converter a pena em medida de segurança.
+P: Insanidade durante a execução || Conversão em medida de segurança (LEP, art. 183)
+K: execução penal; doença mental; medida de segurança
+
+@CPP 155
+I: O juiz forma sua convicção pela livre apreciação da prova produzida em contraditório judicial e não pode condenar com base exclusivamente nos elementos do inquérito, salvo as provas cautelares, não repetíveis e antecipadas. Quanto ao estado das pessoas, valem as restrições da lei civil (por exemplo, a certidão para provar a idade).
+P: Livre convencimento motivado || Vedação de condenação só com base no inquérito || Exceção das provas cautelares, não repetíveis e antecipadas
+K: livre convencimento motivado; contraditório; inquérito; prova
+
+@CPP 156
+I: O ônus da prova cabe a quem alega, e no processo penal a acusação deve provar a culpa, por força da presunção de inocência. O artigo permite ao juiz, de ofício, produzir prova antecipada urgente e determinar diligências para esclarecer dúvida. Essas permissões devem ser lidas com o sistema acusatório do art. 3º-A e a interpretação do STF.
+P: Ônus da prova da acusação || Iniciativa probatória do juiz limitada || Leitura conforme o sistema acusatório
+K: ônus da prova; presunção de inocência; iniciativa probatória; sistema acusatório
+
+@CPP 157
+I: São inadmissíveis e devem ser retiradas do processo as provas ilícitas, obtidas com violação de normas constitucionais ou legais (CF, art. 5º, LVI), e as delas derivadas (teoria dos frutos da árvore envenenada), salvo se não houver nexo causal ou se puderem ser obtidas por fonte independente. A prova ilícita é desentranhada e inutilizada. O § 5º, que afastava o juiz que conheceu a prova ilícita, foi declarado inconstitucional pelo STF.
+P: Inadmissibilidade da prova ilícita (CF, art. 5º, LVI) || Prova ilícita por derivação || Fonte independente e ausência de nexo || Desentranhamento e inutilização
+K: prova ilícita; frutos da árvore envenenada; fonte independente; desentranhamento
+
+@CPP 158
+I: Quando a infração deixa vestígios, o exame de corpo de delito, direto ou indireto, é indispensável e não pode ser suprido pela confissão. Tem prioridade nos casos de violência doméstica contra a mulher e violência contra criança, adolescente, idoso ou pessoa com deficiência.
+P: Exame de corpo de delito indispensável nos crimes que deixam vestígios || Confissão não supre o exame || Prioridade em casos de violência contra vulneráveis
+K: corpo de delito; vestígios; perícia; nulidade
+
+@CPP 158-A
+I: Incluído pela Lei nº 13.964/2019, o artigo define a cadeia de custódia: o conjunto de procedimentos para manter e documentar a história cronológica do vestígio, desde a preservação do local até o descarte. O agente que reconhecer um elemento de interesse pericial fica responsável por preservá-lo.
+P: Conceito de cadeia de custódia || Início com a preservação do local || Responsabilidade do agente que identifica o vestígio
+K: cadeia de custódia; vestígio; prova pericial; Pacote Anticrime
+
+@CPP 158-B
+I: A cadeia de custódia compreende as etapas de reconhecimento, isolamento, fixação, coleta, acondicionamento, transporte, recebimento, processamento, armazenamento e descarte do vestígio. A quebra dessas etapas pode comprometer o valor da prova, conforme o caso concreto.
+P: Dez etapas da cadeia de custódia || Rastreabilidade do vestígio || Quebra afeta a confiabilidade da prova
+K: cadeia de custódia; etapas; rastreabilidade; quebra da cadeia
+
+@CPP 158-C
+I: A coleta dos vestígios deve ser feita preferencialmente por perito oficial, que os encaminha à central de custódia. É proibido entrar em locais isolados ou remover vestígios antes da liberação pelo perito, sob pena de fraude processual.
+P: Coleta por perito oficial || Proibição de alterar o local antes da liberação
+K: coleta de vestígios; perito oficial; local de crime
+
+@CPP 158-D
+I: Os vestígios devem ser acondicionados em recipientes adequados, selados com lacres numerados, que só podem ser abertos pelo perito responsável, com registro de cada abertura.
+P: Lacres com numeração individual || Abertura só pelo perito || Registro de cada abertura
+K: acondicionamento; lacre; cadeia de custódia
+
+@CPP 158-E
+I: Todo Instituto de Criminalística deve ter uma central de custódia para guardar e controlar os vestígios, com registro de entradas e saídas e de quem teve acesso a eles.
+P: Central de custódia || Registro de acesso aos vestígios
+K: central de custódia; instituto de criminalística; vestígios
+
+@CPP 158-F
+I: Após a perícia, o material volta à central de custódia. Se não houver espaço, a autoridade determina as condições de depósito em outro local.
+P: Retorno do material à central de custódia || Depósito alternativo
+K: central de custódia; armazenamento; perícia
+
+@CPP 159
+I: O exame de corpo de delito e as perícias são feitos por perito oficial com curso superior, ou, na falta, por duas pessoas idôneas com curso superior e habilitação técnica, que prestam compromisso. As partes podem formular quesitos e indicar assistente técnico, que atua após a conclusão do laudo oficial.
+P: Perito oficial único || Dois peritos não oficiais na falta do oficial || Quesitos e assistente técnico das partes
+K: perícia; perito oficial; assistente técnico; quesitos
+
+@CPP 160
+I: Os peritos elaboram o laudo, descrevendo minuciosamente o que examinaram e respondendo aos quesitos, em até 10 dias, prorrogáveis em casos excepcionais.
+P: Laudo pericial || Prazo de 10 dias
+K: laudo pericial; quesitos; prazo
+
+@CPP 161
+I: O exame de corpo de delito pode ser feito em qualquer dia e hora.
+P: Exame a qualquer tempo
+K: corpo de delito; perícia
+
+@CPP 162
+I: A autópsia é feita pelo menos seis horas após o óbito, salvo evidência de morte. Na morte violenta, basta o exame externo quando não houver infração a apurar ou quando as lesões externas indicarem a causa da morte.
+P: Autópsia após seis horas || Exame externo suficiente em certos casos
+K: autópsia; necropsia; morte violenta
+
+@CPP 163
+I: A exumação para exame cadavérico é feita em dia e hora marcados, com auto circunstanciado. O administrador do cemitério deve indicar a sepultura, sob pena de desobediência.
+P: Exumação com auto circunstanciado || Dever do administrador do cemitério
+K: exumação; exame cadavérico; cemitério
+
+@CPP 164
+I: Os cadáveres devem ser fotografados na posição em que foram encontrados, assim como, na medida do possível, as lesões e vestígios do local.
+P: Fotografia do cadáver e do local
+K: cadáver; fotografia; local do crime
+
+@CPP 165
+I: Para representar as lesões no cadáver, os peritos juntam ao laudo fotografias, esquemas ou desenhos rubricados.
+P: Ilustração das lesões no laudo
+K: laudo; lesões; fotografia
+
+@CPP 166
+I: Havendo dúvida sobre a identidade do cadáver exumado, faz-se o reconhecimento pelo instituto de identificação ou por testemunhas, arrecadando-se os objetos úteis à identificação.
+P: Identificação do cadáver exumado
+K: identificação; cadáver; exumação
+
+@CPP 167
+I: Se não for possível o exame de corpo de delito porque os vestígios desapareceram, a prova testemunhal pode supri-lo (exame indireto).
+P: Prova testemunhal supre o exame quando os vestígios desaparecem
+K: corpo de delito indireto; prova testemunhal; vestígios
+
+@CPP 168
+I: Se o primeiro exame de lesões for incompleto, faz-se exame complementar. Para comprovar a incapacidade por mais de 30 dias (lesão grave), o exame deve ser feito logo após esse prazo, e sua falta pode ser suprida por testemunhas.
+P: Exame complementar de lesões || Exame após 30 dias para a lesão grave || Suprimento por prova testemunhal
+K: exame complementar; lesão corporal grave; perícia
+
+@CPP 169
+I: A autoridade deve preservar o local do crime até a chegada dos peritos, que registram e analisam eventuais alterações no laudo.
+P: Preservação do local || Registro das alterações
+K: local do crime; perícia; preservação
+
+@CPP 170
+I: Nas perícias de laboratório, os peritos guardam material suficiente para eventual nova perícia, e os laudos podem ser ilustrados com fotografias ou desenhos.
+P: Preservação de material para contraperícia
+K: perícia de laboratório; contraprova
+
+@CPP 171
+I: Nos crimes com rompimento de obstáculo ou escalada, os peritos descrevem os vestígios e indicam com que instrumentos, por que meios e quando o fato ocorreu, o que prova as qualificadoras do furto.
+P: Perícia nas qualificadoras do furto || Instrumentos e meios empregados
+K: rompimento de obstáculo; escalada; furto qualificado; perícia
+
+@CPP 172
+I: Quando necessário, avaliam-se as coisas destruídas, deterioradas ou produto do crime, inclusive de forma indireta, com base nos elementos dos autos.
+P: Avaliação dos bens || Avaliação indireta
+K: avaliação; produto do crime; perícia
+
+@CPP 173
+I: No incêndio, os peritos verificam a causa, o local de início, o perigo para a vida e o patrimônio, a extensão e o valor do dano.
+P: Perícia em incêndio
+K: incêndio; perícia; dano
+
+@CPP 174
+I: O exame grafotécnico (comparação de letra) segue regras próprias: a pessoa é intimada, usam-se documentos reconhecidos como seus e, se faltarem, ela pode ser chamada a escrever o que for ditado. Ninguém é obrigado a fornecer padrões contra si.
+P: Exame grafotécnico || Documentos de comparação || Direito de não produzir prova contra si
+K: exame grafotécnico; comparação de letra; perícia
+
+@CPP 175
+I: Os instrumentos usados no crime são periciados para verificar sua natureza e eficiência, como a potencialidade lesiva de uma arma.
+P: Exame dos instrumentos do crime
+K: instrumentos do crime; perícia; eficiência
+
+@CPP 176
+I: A autoridade e as partes podem formular quesitos até o momento da diligência.
+P: Quesitos até a diligência
+K: quesitos; perícia
+
+@CPP 177
+I: No exame por precatória, os peritos são nomeados no juízo deprecado, salvo acordo das partes na ação privada, e os quesitos são transcritos na precatória.
+P: Perícia por precatória || Quesitos na precatória
+K: precatória; perícia; juízo deprecado
+
+@CPP 178
+I: Na perícia oficial, o exame é requisitado ao diretor da repartição, juntando-se o laudo assinado pelos peritos.
+P: Requisição à repartição pericial
+K: perícia oficial; requisição; laudo
+
+@CPP 179
+I: Na perícia por peritos não oficiais, o escrivão lavra o auto, assinado pelos peritos e pela autoridade, se presente.
+P: Auto da perícia não oficial
+K: perito não oficial; auto; laudo
+
+@CPP 180
+I: Se os peritos divergirem, registram-se as posições de cada um, e a autoridade nomeia um terceiro; persistindo a divergência, pode determinar novo exame.
+P: Divergência entre peritos || Terceiro perito
+K: divergência pericial; terceiro perito
+
+@CPP 181
+I: Se o laudo tiver falhas formais, omissões, obscuridades ou contradições, o juiz manda supri-las ou esclarecê-las, podendo determinar novo exame por outros peritos.
+P: Correção do laudo || Novo exame
+K: laudo; complementação; nova perícia
+
+@CPP 182
+I: O juiz não fica vinculado ao laudo e pode aceitá-lo ou rejeitá-lo, no todo ou em parte, fundamentadamente (sistema liberatório).
+P: Juiz não vinculado ao laudo || Fundamentação da rejeição
+K: laudo; livre convencimento; perícia
+
+@CPP 183
+I: Nos crimes de ação privada, os autos com o laudo aguardam a iniciativa do ofendido, como no art. 19.
+P: Perícia nos crimes de ação privada
+K: ação privada; perícia
+
+@CPP 184
+I: Salvo o exame de corpo de delito, o juiz ou o delegado pode negar perícia requerida pelas partes quando não for necessária ao esclarecimento da verdade.
+P: Indeferimento de perícia desnecessária || Exceção do corpo de delito
+K: perícia; indeferimento; corpo de delito
+
+@CPP 185
+I: O acusado é qualificado e interrogado na presença de defensor. O interrogatório do preso deve ocorrer, em regra, no estabelecimento prisional ou com sua condução a juízo; excepcionalmente, por videoconferência, em decisão fundamentada e nas hipóteses legais, garantindo-se a entrevista reservada com o defensor.
+P: Interrogatório com presença de defensor || Videoconferência excepcional e fundamentada || Entrevista reservada com o defensor
+K: interrogatório; videoconferência; defesa técnica
+
+@CPP 186
+I: Antes do interrogatório, o juiz informa o acusado do direito de permanecer calado e de não responder perguntas. O silêncio não importa confissão nem pode ser interpretado contra a defesa (CF, art. 5º, LXIII).
+P: Direito ao silêncio || Silêncio não prejudica a defesa
+K: direito ao silêncio; interrogatório; não autoincriminação
+
+@CPP 187
+I: O interrogatório tem duas partes: sobre a pessoa do acusado (residência, profissão, vida pregressa, filhos) e sobre os fatos (veracidade da acusação, local, provas, conhecimento da vítima e testemunhas, entre outros).
+P: Interrogatório de qualificação e de mérito || Perguntas sobre os fatos e a vida pregressa
+K: interrogatório; vida pregressa; mérito
+
+@CPP 188
+I: Após o interrogatório, o juiz pergunta às partes se restou algum fato a esclarecer, formulando as perguntas que entender pertinentes. Pelo sistema acusatório, as partes podem fazer perguntas diretamente.
+P: Perguntas das partes ao final
+K: interrogatório; perguntas das partes; contraditório
+
+@CPP 189
+I: Se negar a acusação, o acusado pode prestar esclarecimentos e indicar provas.
+P: Negativa de autoria com indicação de provas
+K: interrogatório; negativa; prova
+
+@CPP 190
+I: Se confessar, o acusado é perguntado sobre os motivos e circunstâncias do fato e sobre outros participantes.
+P: Perguntas após a confissão
+K: confissão; interrogatório; coautores
+
+@CPP 191
+I: Havendo mais de um acusado, os interrogatórios são feitos separadamente, para evitar influência mútua.
+P: Interrogatórios separados
+K: interrogatório; corréus
+
+@CPP 192
+I: O interrogatório de pessoa surda, muda ou surda-muda é feito por escrito conforme o caso, com intérprete se ela não souber ler ou escrever. Hoje se aplicam também a Libras e a Lei Brasileira de Inclusão.
+P: Interrogatório de pessoa com deficiência auditiva ou de fala || Intérprete
+K: interrogatório; surdo; mudo; Libras; acessibilidade
+
+@CPP 193
+I: Se o acusado não falar português, o interrogatório é feito por intérprete.
+P: Intérprete para estrangeiro
+K: intérprete; interrogatório; estrangeiro
+
+@CPP 195
+I: Se o interrogado não souber, não puder ou não quiser assinar, isso é registrado no termo.
+P: Registro da ausência de assinatura
+K: interrogatório; termo; assinatura
+
+@CPP 196
+I: O juiz pode fazer novo interrogatório a qualquer tempo, de ofício ou a pedido fundamentado das partes.
+P: Novo interrogatório
+K: reinterrogatório; interrogatório
+
+@CPP 197
+I: A confissão não tem valor absoluto: é avaliada como as demais provas e deve ser confrontada com elas, verificando se há compatibilidade.
+P: Valor relativo da confissão || Confronto com as demais provas
+K: confissão; valor probatório; prova
+
+@CPP 198
+I: O artigo diz que o silêncio pode servir para o convencimento do juiz, mas essa parte é incompatível com a Constituição (art. 5º, LXIII) e com o art. 186, parágrafo único, que proíbem interpretar o silêncio contra o acusado.
+P: Silêncio não é confissão || Parte final incompatível com a Constituição
+K: silêncio; confissão; direito ao silêncio
+
+@CPP 199
+I: A confissão feita fora do interrogatório deve ser reduzida a termo nos autos.
+P: Confissão extrajudicial tomada por termo
+K: confissão; termo; prova

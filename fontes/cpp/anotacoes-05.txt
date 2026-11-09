@@ -1,0 +1,274 @@
+@CPP 200
+I: A confissão é divisível (o juiz pode aceitar uma parte e rejeitar outra) e retratável (o acusado pode voltar atrás), cabendo ao juiz avaliá-la em conjunto com as demais provas.
+P: Divisibilidade da confissão || Retratabilidade || Avaliação em conjunto com as provas
+K: confissão; retratação; divisibilidade
+
+@CPP 201
+I: Sempre que possível, o ofendido é ouvido sobre as circunstâncias do crime, o autor e as provas, podendo ser conduzido se faltar sem justificativa. Ele deve ser informado sobre a prisão e soltura do acusado, as audiências e as decisões, ter espaço separado na audiência, receber atendimento multidisciplinar se necessário e ter sua intimidade preservada, inclusive com segredo de justiça.
+P: Declarações do ofendido || Direito de ser comunicado dos atos processuais || Espaço separado e atendimento multidisciplinar || Proteção da intimidade
+K: ofendido; vítima; direitos da vítima; declarações
+
+@CPP 202
+I: Toda pessoa pode ser testemunha, inclusive parentes, crianças e pessoas com deficiência, ainda que algumas não prestem compromisso (art. 208).
+P: Capacidade ampla para testemunhar
+K: testemunha; capacidade; prova testemunhal
+
+@CPP 203
+I: A testemunha promete dizer a verdade e declara seus dados pessoais e sua relação com as partes, explicando as razões de sua ciência e as circunstâncias que permitam avaliar sua credibilidade.
+P: Compromisso de dizer a verdade || Qualificação e relação com as partes
+K: testemunha; compromisso; credibilidade
+
+@CPP 204
+I: O depoimento é oral, e a testemunha não pode trazê-lo por escrito, admitindo-se breve consulta a apontamentos.
+P: Oralidade do depoimento || Consulta a apontamentos
+K: depoimento; oralidade; testemunha
+
+@CPP 205
+I: Havendo dúvida sobre a identidade da testemunha, o juiz a verifica pelos meios disponíveis, podendo colher o depoimento desde logo.
+P: Verificação da identidade da testemunha
+K: testemunha; identidade
+
+@CPP 206
+I: A testemunha não pode se recusar a depor, salvo o ascendente, descendente, afim em linha reta, cônjuge (inclusive separado), irmão, pai, mãe ou filho adotivo do acusado, exceto quando não for possível obter a prova de outro modo.
+P: Dever de depor || Dispensa de parentes próximos do acusado || Exceção da prova indispensável
+K: testemunha; dispensa; parentes do acusado
+
+@CPP 207
+I: São proibidas de depor as pessoas que devem guardar segredo por função, ministério, ofício ou profissão (como advogados, médicos e padres), salvo se, liberadas pela parte interessada, quiserem depor.
+P: Proibição de depor por sigilo profissional || Liberação pelo interessado
+K: sigilo profissional; testemunha; proibição de depor
+
+@CPP 208
+I: Não prestam compromisso os doentes e deficientes mentais, os menores de 14 anos e os parentes do art. 206. São ouvidos como informantes, e seus depoimentos têm valor relativo.
+P: Testemunhas sem compromisso (informantes) || Valor relativo do depoimento
+K: informante; compromisso; testemunha
+
+@CPP 209
+I: O juiz pode ouvir outras testemunhas além das indicadas pelas partes e as pessoas mencionadas pelas testemunhas (referidas). Quem nada souber da causa não conta como testemunha.
+P: Testemunhas do juízo e referidas || Testemunha que nada sabe não é computada
+K: testemunha do juízo; testemunha referida
+
+@CPP 210
+I: As testemunhas são ouvidas separadamente, sem ouvir os depoimentos umas das outras, e advertidas sobre o crime de falso testemunho. Deve haver espaços separados para garantir a incomunicabilidade.
+P: Incomunicabilidade das testemunhas || Advertência sobre falso testemunho
+K: testemunhas; incomunicabilidade; falso testemunho
+
+@CPP 211
+I: Se o juiz reconhecer na sentença que alguma testemunha mentiu ou calou a verdade, envia cópia à polícia para inquérito. No plenário, a providência é tomada após a decisão.
+P: Remessa do depoimento falso à polícia
+K: falso testemunho; inquérito; testemunha
+
+@CPP 212
+I: As perguntas são feitas pelas partes diretamente à testemunha (sistema do exame direto e cruzado), e o juiz não admite as que induzam a resposta, sejam impertinentes ou repetidas. O juiz pode complementar a inquirição sobre pontos não esclarecidos.
+P: Inquirição direta pelas partes || Vedação de perguntas indutivas ou impertinentes || Complementação pelo juiz
+K: inquirição; cross examination; testemunha; perguntas
+
+@CPP 213
+I: A testemunha não pode dar opiniões pessoais, salvo quando inseparáveis da narrativa do fato.
+P: Vedação de apreciações pessoais
+K: testemunha; opinião; depoimento
+
+@CPP 214
+I: Antes do depoimento, as partes podem contraditar a testemunha, apontando circunstâncias que a tornem suspeita ou indigna de fé. O juiz registra a contradita e só exclui ou deixa de compromissar a testemunha nos casos dos arts. 207 e 208.
+P: Contradita da testemunha || Exclusão apenas nos casos legais
+K: contradita; testemunha; suspeição
+
+@CPP 215
+I: Na redação do depoimento, o juiz deve reproduzir fielmente as expressões da testemunha. Hoje os depoimentos são, em regra, gravados em áudio e vídeo (art. 405, § 1º).
+P: Fidelidade ao depoimento || Gravação audiovisual
+K: depoimento; registro; gravação
+
+@CPP 216
+I: O depoimento é reduzido a termo e assinado pela testemunha, pelo juiz e pelas partes, ou por alguém a pedido da testemunha que não puder assinar.
+P: Termo de depoimento || Assinatura a rogo
+K: termo; depoimento; assinatura
+
+@CPP 217
+I: Se a presença do réu puder humilhar, intimidar ou constranger a testemunha ou o ofendido, prejudicando o depoimento, a inquirição é feita por videoconferência e, só se isso não for possível, com a retirada do réu, mantida a presença do defensor. Os motivos devem constar do termo.
+P: Videoconferência para proteger a testemunha || Retirada do réu como última opção || Presença do defensor
+K: retirada do réu; videoconferência; proteção da testemunha
+
+@CPP 218
+I: A testemunha intimada que faltar sem justificativa pode ser conduzida coercitivamente pela polícia ou por oficial de justiça.
+P: Condução coercitiva da testemunha faltosa
+K: condução coercitiva; testemunha; ausência
+
+@CPP 219
+I: O juiz pode aplicar multa à testemunha faltosa, sem prejuízo do processo por desobediência, e condená-la nas custas da diligência.
+P: Multa à testemunha faltosa || Crime de desobediência
+K: testemunha faltosa; multa; desobediência
+
+@CPP 220
+I: Quem não puder comparecer por doença ou idade avançada é ouvido onde estiver.
+P: Oitiva no local onde a testemunha estiver
+K: testemunha; enfermidade; idoso
+
+@CPP 221
+I: Certas autoridades (Presidente, parlamentares, ministros, governadores, magistrados, entre outras) são ouvidas em local, dia e hora combinados com o juiz. O Presidente, o Vice e os presidentes do Senado, da Câmara e do STF podem depor por escrito. Militares são requisitados ao superior, e o chefe de servidor público é comunicado da intimação. A prerrogativa não vale quando a autoridade é investigada ou ré.
+P: Prerrogativa de marcar dia e local || Depoimento por escrito para chefes de Poder || Requisição de militares
+K: prerrogativa; autoridades; testemunha; depoimento por escrito
+
+@CPP 222
+I: A testemunha que mora fora da jurisdição é ouvida por carta precatória, que não suspende a instrução; findo o prazo, pode haver julgamento. A oitiva pode ser feita por videoconferência, inclusive durante a audiência de instrução. Pela Súmula 155 do STF, a falta de intimação da expedição da precatória gera nulidade relativa.
+P: Carta precatória sem suspensão da instrução || Videoconferência || Súmula 155 do STF
+K: carta precatória; videoconferência; testemunha
+
+@CPP 222-A
+I: As cartas rogatórias (para ouvir testemunhas no exterior) só são expedidas se demonstrada sua imprescindibilidade, pagando a parte os custos de envio, e também não suspendem a instrução.
+P: Carta rogatória só se imprescindível || Custos pela parte requerente
+K: carta rogatória; testemunha no exterior
+
+@CPP 223
+I: Se a testemunha não falar português, nomeia-se intérprete. Para pessoa surda ou muda, aplica-se o art. 192.
+P: Intérprete para a testemunha
+K: intérprete; testemunha; estrangeiro
+
+@CPP 224
+I: As testemunhas devem comunicar ao juiz, por um ano, qualquer mudança de residência, sob pena das sanções por não comparecimento.
+P: Dever de comunicar mudança de endereço
+K: testemunha; endereço; comunicação
+
+@CPP 225
+I: Se a testemunha for se ausentar ou houver risco de que não esteja viva ou apta na instrução, por doença ou velhice, o juiz pode ouvi-la antecipadamente.
+P: Depoimento antecipado (ad perpetuam rei memoriam)
+K: produção antecipada de prova; testemunha; risco de perecimento
+
+@CPP 226
+I: O reconhecimento de pessoa segue um rito: quem vai reconhecer descreve antes a pessoa; o suspeito é colocado ao lado de outras parecidas; se houver risco de intimidação, o reconhecedor fica oculto (salvo em juízo); e lavra-se auto com duas testemunhas. O STJ (HC 598.886) decidiu que o procedimento é obrigatório, não mera recomendação, e que o reconhecimento sem essas formalidades, inclusive o fotográfico, não serve sozinho para condenar.
+P: Descrição prévia e alinhamento com pessoas semelhantes || Auto com duas testemunhas || Formalidades obrigatórias (STJ, HC 598.886)
+K: reconhecimento de pessoas; reconhecimento fotográfico; alinhamento; prova
+
+@CPP 227
+I: O reconhecimento de objetos segue as cautelas do reconhecimento de pessoas, no que couber.
+P: Reconhecimento de coisas
+K: reconhecimento de objetos; prova
+
+@CPP 228
+I: Se várias pessoas forem fazer o reconhecimento, cada uma o faz separadamente, sem comunicação entre elas.
+P: Reconhecimento individual e separado
+K: reconhecimento; separação
+
+@CPP 229
+I: A acareação (confronto) é admitida entre acusados, testemunhas e ofendidos sempre que divergirem sobre fatos relevantes. Os acareados explicam as divergências, lavrando-se termo.
+P: Confronto entre declarantes com versões divergentes || Termo de acareação
+K: acareação; divergência; prova
+
+@CPP 230
+I: Se a testemunha divergente estiver ausente, a presente é informada dos pontos de divergência. Persistindo, pode-se ouvir a ausente por precatória sobre esses pontos.
+P: Acareação com testemunha ausente || Precatória sobre os pontos divergentes
+K: acareação; precatória; testemunha ausente
+
+@CPP 231
+I: Salvo exceções legais, as partes podem apresentar documentos em qualquer fase. No júri, há vedação de leitura de documento juntado com menos de três dias úteis de antecedência (art. 479).
+P: Juntada de documentos a qualquer tempo || Exceção no plenário do júri
+K: documentos; juntada; prova documental
+
+@CPP 232
+I: Documentos são quaisquer escritos, instrumentos ou papéis, públicos ou particulares. A fotografia autenticada vale como o original. A jurisprudência amplia o conceito a gravações, arquivos digitais e outros suportes.
+P: Conceito de documento || Valor da cópia autenticada
+K: documento; prova documental; cópia autenticada
+
+@CPP 233
+I: Cartas particulares interceptadas ou obtidas por meios criminosos não são admitidas em juízo, mas o destinatário pode exibi-las para defender seu direito, sem consentimento do remetente.
+P: Inadmissibilidade de cartas obtidas ilicitamente || Exibição pelo destinatário
+K: correspondência; prova ilícita; carta
+
+@CPP 234
+I: O juiz que souber da existência de documento relevante para a acusação ou a defesa pode providenciar sua juntada, observado o sistema acusatório.
+P: Juntada de documento por iniciativa do juiz
+K: documentos; iniciativa do juiz
+
+@CPP 235
+I: Contestada a autenticidade de letra e firma de documento particular, faz-se exame pericial.
+P: Perícia sobre a autenticidade do documento
+K: perícia; documento particular; autenticidade
+
+@CPP 236
+I: Documentos em língua estrangeira são juntados de imediato e, se necessário, traduzidos por tradutor público ou pessoa idônea.
+P: Tradução de documento estrangeiro
+K: tradução; documento estrangeiro
+
+@CPP 237
+I: As públicas-formas (cópias feitas por tabelião) só valem quando conferidas com o original perante a autoridade.
+P: Valor das públicas-formas
+K: pública-forma; cópia; documento
+
+@CPP 238
+I: Findo o processo, os documentos originais podem ser devolvidos a quem os juntou, mediante requerimento e após ouvir o Ministério Público, ficando cópia nos autos.
+P: Devolução de documentos originais
+K: documentos; devolução; processo findo
+
+@CPP 239
+I: Indício é a circunstância conhecida e provada que, relacionada ao fato, permite concluir por indução a existência de outra. É prova indireta e pode fundamentar condenação quando os indícios forem vários, graves e concordantes.
+P: Conceito de indício || Prova indireta || Valor dos indícios concordantes
+K: indício; prova indireta; presunção
+
+@CPP 240
+I: A busca pode ser domiciliar ou pessoal. A domiciliar exige fundadas razões e serve para prender criminosos, apreender coisas do crime, armas, objetos de prova e documentos. A pessoal exige fundada suspeita de que alguém porte arma ou objetos do crime. A entrada em domicílio sem mandado só cabe em flagrante, com fundadas razões justificadas a posteriori (STF, Tema 280).
+P: Busca domiciliar e pessoal || Fundadas razões || Entrada sem mandado em flagrante (STF, Tema 280)
+K: busca e apreensão; busca domiciliar; busca pessoal; inviolabilidade do domicílio
+
+@CPP 241
+I: Se a própria autoridade não realizar a busca domiciliar, ela deve ser precedida de mandado. Hoje, pela Constituição (art. 5º, XI), a busca domiciliar, fora do flagrante, depende sempre de ordem judicial.
+P: Exigência de mandado || Reserva de jurisdição (CF, art. 5º, XI)
+K: mandado de busca; inviolabilidade do domicílio; reserva de jurisdição
+
+@CPP 242
+I: A busca pode ser determinada de ofício ou a pedido das partes. Com o sistema acusatório, a determinação de ofício na investigação é questionada.
+P: Determinação da busca || Limites do sistema acusatório
+K: busca e apreensão; iniciativa; sistema acusatório
+
+@CPP 243
+I: O mandado de busca deve indicar com precisão o local e o morador (ou a pessoa, na busca pessoal), o motivo e a finalidade, e ser assinado pela autoridade. Não se pode apreender documento em poder do defensor, salvo se for corpo de delito, regra reforçada pelo Estatuto da OAB.
+P: Requisitos do mandado de busca || Proteção dos documentos do defensor
+K: mandado de busca; requisitos; advogado; sigilo profissional
+
+@CPP 244
+I: A busca pessoal dispensa mandado em caso de prisão, de fundada suspeita de porte de arma ou de objetos do crime, ou quando feita durante busca domiciliar. O STJ exige que a fundada suspeita se apoie em elementos objetivos e concretos, e não em impressões subjetivas ou na aparência da pessoa.
+P: Busca pessoal sem mandado || Fundada suspeita com elementos objetivos (STJ) || Vedação de critérios subjetivos
+K: busca pessoal; fundada suspeita; abordagem policial
+
+@CPP 245
+I: A busca domiciliar é feita de dia, salvo consentimento do morador. O mandado é mostrado e lido antes da entrada, e, havendo resistência, pode-se arrombar a porta e usar força contra coisas. Na ausência do morador, um vizinho presencia a diligência. Lavra-se auto circunstanciado.
+P: Busca durante o dia || Leitura do mandado || Arrombamento em caso de resistência || Auto circunstanciado
+K: busca domiciliar; mandado; período diurno; arrombamento
+
+@CPP 246
+I: As regras da busca domiciliar valem também para compartimento habitado, quarto de habitação coletiva e local não aberto ao público onde alguém exerce atividade, como escritórios.
+P: Conceito amplo de domicílio para a busca
+K: domicílio; busca; escritório
+
+@CPP 247
+I: Se não for encontrado o que se procurava, os motivos da diligência são comunicados a quem sofreu a busca, se ele pedir.
+P: Comunicação dos motivos da busca infrutífera
+K: busca; transparência; morador
+
+@CPP 248
+I: Em casa habitada, a busca deve molestar os moradores o mínimo indispensável.
+P: Mínima interferência na vida dos moradores
+K: busca domiciliar; proporcionalidade
+
+@CPP 249
+I: A busca em mulher deve ser feita por outra mulher, se isso não atrasar ou prejudicar a diligência.
+P: Busca pessoal em mulher por mulher
+K: busca pessoal; mulher; dignidade
+
+@CPP 250
+I: A autoridade pode entrar em território de outra jurisdição, inclusive outro Estado, em perseguição de pessoa ou coisa, apresentando-se à autoridade local antes ou depois da diligência.
+P: Perseguição em outra jurisdição || Comunicação à autoridade local
+K: perseguição; jurisdição; busca e apreensão
+
+@CPP 251
+I: O juiz deve zelar pela regularidade do processo e manter a ordem nos atos, podendo requisitar a força pública.
+P: Poder de polícia do juiz
+K: juiz; ordem processual; força pública
+
+@CPP 252
+I: O juiz está impedido de atuar no processo em que tenha funcionado seu cônjuge ou parente até o terceiro grau, em que ele mesmo tenha atuado em outra função ou como testemunha, em que tenha julgado a questão em outra instância, ou em que ele ou parente seja parte ou interessado. O rol de impedimentos é considerado taxativo.
+P: Hipóteses de impedimento do juiz || Atuação anterior em outra função ou instância || Rol taxativo
+K: impedimento; imparcialidade; juiz
+
+@CPP 253
+I: Nos órgãos colegiados, juízes parentes entre si até o terceiro grau não podem atuar no mesmo processo.
+P: Impedimento por parentesco em tribunais
+K: impedimento; órgão colegiado; parentesco
