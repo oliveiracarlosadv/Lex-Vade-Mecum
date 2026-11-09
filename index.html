@@ -169,8 +169,7 @@ mark.foco{outline:2px solid var(--titulo2);outline-offset:1px;animation:pisca 1.
 .barra-selecao svg{width:15px;height:15px}
 .aviso-rapido{position:fixed;left:50%;bottom:26px;transform:translateX(-50%);z-index:70;background:var(--tinta);color:var(--papel);font-family:var(--ui);font-size:14px;padding:10px 18px;border-radius:999px;box-shadow:var(--sombra);opacity:0;transition:opacity .2s;pointer-events:none}
 .aviso-rapido.on{opacity:1}
-#areaImpressao,#fabricaImagem{display:none}
-#fabricaImagem.ativa{display:block;position:fixed;left:-20000px;top:0}
+#areaImpressao{display:none}
 .ln{display:block;text-align:justify;text-align-last:justify;white-space:nowrap}
 .ln.ult{text-align-last:left}
 .card-img{width:1080px;background:#FBF8F0;color:#2A2925;font-family:var(--serif);padding:80px 88px 64px;box-sizing:border-box}
@@ -258,6 +257,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 .janela-arroba .painel-folha{height:auto}
 .titulo-pequeno{font-family:var(--display);font-weight:600;font-variant:small-caps;letter-spacing:.08em;font-size:24px;color:var(--titulo);text-align:center;margin:0 0 .4em}
 .janela-arroba .perfil{grid-template-columns:1fr}
+.janela-imagem img{display:block;max-width:100%;max-height:55vh;margin:8px auto 12px;border:1px solid var(--fio);border-radius:6px;object-fit:contain;background:#FBF8F0}
 .grade-backup{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0}
 @media print{mark.mt{background:transparent!important;text-decoration:underline;text-decoration-color:#999}}
 /* Artigos favoritos (estrela ao lado do rótulo) e anotações pessoais */
@@ -431,9 +431,13 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   <p class="aviso-busca">Fica salva neste navegador. Para guardar ou levar a outro aparelho, use o backup em <b>Marcações</b>.</p>
   <div class="grade-backup"><button class="btn prim" value="salvar">Salvar</button><button class="btn" value="cancelar" formnovalidate>Cancelar</button><button class="btn" value="excluir" id="notaExcluir">Excluir</button></div>
 </form></dialog>
+<dialog class="painel janela-arroba janela-imagem" id="janelaImagem" aria-label="Imagem pronta"><form method="dialog" class="painel-folha folha">
+  <h2 class="titulo-pequeno">Imagem pronta</h2>
+  <img id="imgPrevia" alt="Prévia da imagem gerada">
+  <div class="grade-backup"><button type="button" class="btn prim" id="imgCompartilhar">Compartilhar</button><button type="button" class="btn" id="imgSalvar">Salvar imagem</button><button class="btn" value="fechar">Fechar</button></div>
+</form></dialog>
 <input type="file" id="arqBackup" accept="application/json,.json" hidden>
 <div id="areaImpressao"></div>
-<div id="fabricaImagem"></div>
 
 <!-- Só existe na cópia para abrir sem internet/servidor (ferramentas/gerar-offline.py). -->
 <script>if (location.protocol === 'file:') document.write('<script src="dados-offline.js"><\/script>');</script>
@@ -912,16 +916,6 @@ function imprimirUnidade(uid) {
   window.print();
   setTimeout(() => { if (!matchMedia('print').matches) fim(); }, 1500);
 }
-let h2cPromessa = null;
-function carregarH2C() {
-  if (window.html2canvas) return Promise.resolve();
-  return (h2cPromessa = h2cPromessa || new Promise((ok, falha) => {
-    const s = document.createElement('script');
-    s.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
-    s.onload = ok; s.onerror = () => { h2cPromessa = null; falha(new Error('sem internet')); };
-    document.head.appendChild(s);
-  }));
-}
 /* ---------- Diagramação das imagens: justificado com hifenização em português ---------- */
 // Pontos de separação silábica (regras do português: V-CV, VC-CV, V-CCV com encontros inseparáveis).
 const VOGAIS = 'aeiouáéíóúâêôãõàüy';
@@ -959,16 +953,6 @@ function quebrarLinhas(texto, largura, ctx) {
   }
   return linhas;
 }
-// Diagrama el (com data-texto) em linhas justificadas; devolve a altura obtida.
-function diagramar(el, fs) {
-  const cs = getComputedStyle(el), largura = el.clientWidth * 0.985;
-  const ctx = (diagramar.c = diagramar.c || document.createElement('canvas')).getContext('2d');
-  ctx.font = `${cs.fontStyle} ${cs.fontWeight} ${fs}px ${cs.fontFamily}`;
-  el.style.fontSize = fs + 'px';
-  el.innerHTML = quebrarLinhas(el.dataset.texto, largura, ctx).map((l) => `<span class="ln${l.ult ? ' ult' : ''}">${esc(l.t)}</span>`).join('');
-  return el.offsetHeight;
-}
-function ajustarCartao(card) { const c = card.querySelector('.ci-citacao[data-texto]'); if (c) diagramar(c, 36); }
 /* ---------- Story (1080 x 1920) desenhado direto em canvas ----------
    Não depende de como cada navegador diagrama a página: as linhas são
    quebradas e justificadas aqui (espaço distribuído entre as palavras),
@@ -1060,47 +1044,132 @@ async function desenharStory(pac, lei) {
   linhas.forEach((l, i) => escreverJustificado(ctx, l, M, y0 + i * entre + entre * 0.72, LARG));
   return cv;
 }
+/* ---------- Imagem do artigo ou da citação (1080 px de largura), desenhada em canvas ----------
+   Mesmo método do story: não copia a página (o que travava em leis grandes) e sai em
+   milissegundos, a tempo de o celular abrir a folha de compartilhamento. */
+async function desenharCartao(pac, lei) {
+  const W = 1080, M = 88, LARG = W - 2 * M;
+  const SERIF = 'Literata, Georgia, serif', DISPLAY = '"Cormorant Garamond", Georgia, serif';
+  if (document.fonts) {
+    await Promise.all([`700 46px ${DISPLAY}`, `italic 500 32px ${DISPLAY}`, `400 30px ${SERIF}`, `italic 400 36px ${SERIF}`, `600 40px ${DISPLAY}`]
+      .map((f) => document.fonts.load(f).catch(() => null)));
+  }
+  const icone = await carregarImagem('assets/lex-vade-mecum-icone.svg').catch(() => null);
+  const med = document.createElement('canvas').getContext('2d');
+  const ops = []; let y = 80;
+  const texto = (font, cor, txt, x, yy, align = 'left') => ops.push({ t: 'txt', font, cor, txt, x, y: yy, align });
+  const linha = (yy, cor, esp, x = M, l = LARG) => ops.push({ t: 'ret', x, y: yy, w: l, h: esp, cor });
+  // Topo: ícone, LEX / Vade Mecum e, à direita, a lei
+  ops.push({ t: 'img', y });
+  texto(`700 40px ${DISPLAY}`, '#384A2C', 'L E X', M + 80, y + 34);
+  texto(`600 22px ${DISPLAY}`, '#46712A', 'V A D E   M E C U M', M + 80, y + 62);
+  med.font = `400 20px ${SERIF}`;
+  const nomeLei = quebrarSimples(med, lei ? lei.nome : '', 520);
+  let yd = y + 22; nomeLei.forEach((l) => { texto(`400 20px ${SERIF}`, '#5E5A50', l, W - M, yd, 'right'); yd += 27; });
+  if (lei && lei.conferido) { texto(`400 16px ${SERIF}`, '#5E5A50', `Texto oficial conferido em ${lei.conferido}`, W - M, yd + 4, 'right'); yd += 24; }
+  y = Math.max(y + 64, yd) + 20; linha(y, '#384A2C', 2); y += 38;
+  const x = pac.uid && dadosUnidade(pac.uid);
+  if (pac.tipo === 'selecao') {
+    // Citação em itálico, justificada, com fio verde à esquerda
+    const fs = 36, lh = Math.round(fs * 1.55); med.font = `italic 400 ${fs}px ${SERIF}`;
+    const ls = quebrarLinhas('“' + pac.citacao + '”', LARG - 33, med);
+    const y0 = y; y += 10;
+    ls.forEach((l) => { ops.push({ t: 'just', font: `italic 400 ${fs}px ${SERIF}`, cor: '#2A2925', l, x: M + 33, y: y + lh * 0.75, w: LARG - 33 }); y += lh; });
+    linha(y0, '#46712A', y - y0 + 6, M, 5); y += 30;
+    med.font = `400 28px ${DISPLAY}`;
+    quebrarSimples(med, '— ' + pac.fonte, LARG).forEach((l) => { texto(`500 28px ${DISPLAY}`, '#384A2C', l, W - M, y + 26, 'right'); y += 36; });
+  } else if (x) {
+    texto(`700 46px ${DISPLAY}`, '#384A2C', x.u.rotulo, W / 2, y + 40, 'center'); y += 58;
+    if (x.u.subt) { med.font = `italic 500 32px ${DISPLAY}`; quebrarSimples(med, x.u.subt, LARG).forEach((l) => { texto(`italic 500 32px ${DISPLAY}`, '#2A2925', l, W / 2, y + 30, 'center'); y += 40; }); }
+    y += 26;
+    // Texto do dispositivo; a letra diminui se o artigo for muito longo (limite de altura do canvas no celular)
+    const pars = x.u.texto.map((l, i) => ({ cls: classeLinha(l) || (i === 0 ? 'rubrica' : ''), txt: linhaPlana(l) })).filter((p) => p.txt);
+    const montar = (fs) => {
+      const lh = Math.round(fs * 1.6), out = []; let h = 0;
+      pars.forEach((p) => {
+        const rec = p.cls === 'inciso' || p.cls === 'alinea' ? Math.round(fs * 1.2) : 0;
+        const fonte = p.cls === 'rubrica' ? `italic 400 ${fs}px ${SERIF}` : `400 ${fs}px ${SERIF}`;
+        med.font = fonte;
+        const ls = p.cls === 'rubrica' ? quebrarSimples(med, p.txt, LARG).map((t) => ({ t, ult: true, centro: true })) : quebrarLinhas(p.txt, LARG - rec, med);
+        out.push({ fonte, rec, ls, lh, cor: /\[revogado\]|\[trecho revogado\]/.test(p.txt) || p.cls === 'nota' ? '#7E7869' : '#2A2925' });
+        h += ls.length * lh + Math.round(fs * 0.45);
+      });
+      return { out, h };
+    };
+    let fs = 30, lay = montar(fs);
+    while (y + lay.h > 15000 && fs > 16) { fs -= 2; lay = montar(fs); }
+    lay.out.forEach((b) => {
+      b.ls.forEach((l) => {
+        if (y < 15200) ops.push(l.centro ? { t: 'txt', font: b.fonte, cor: b.cor, txt: l.t, x: W / 2, y: y + b.lh * 0.75, align: 'center' }
+          : { t: 'just', font: b.fonte, cor: b.cor, l, x: M + b.rec, y: y + b.lh * 0.75, w: LARG - b.rec });
+        y += b.lh;
+      });
+      y += Math.round(fs * 0.45);
+    });
+    y = Math.min(y, 15240);
+  }
+  const perfil = linhaPerfil();
+  if (perfil) { y += 30; med.font = `italic 500 28px ${DISPLAY}`; quebrarSimples(med, perfil, LARG).forEach((l) => { texto(`italic 500 28px ${DISPLAY}`, '#46712A', l, W - M, y + 26, 'right'); y += 36; }); }
+  y += 40; linha(y, '#D9D0BA', 1); y += 18;
+  texto(`italic 500 22px ${DISPLAY}`, '#46712A', ASSINATURA, M, y + 20);
+  texto(`400 19px ${SERIF}`, '#5E5A50', 'oliveiracarlosadv.github.io/Lex-Vade-Mecum', W - M, y + 20, 'right');
+  const H = y + 64;
+  const cv = document.createElement('canvas'); cv.width = W; cv.height = H;
+  const ctx = cv.getContext('2d');
+  ctx.fillStyle = '#FBF8F0'; ctx.fillRect(0, 0, W, H); ctx.textBaseline = 'alphabetic';
+  ops.forEach((o) => {
+    if (o.t === 'img') { if (icone) ctx.drawImage(icone, M, o.y, 64, 64); return; }
+    if (o.t === 'ret') { ctx.fillStyle = o.cor; ctx.fillRect(o.x, o.y, o.w, o.h); return; }
+    ctx.font = o.font; ctx.fillStyle = o.cor;
+    if (o.t === 'txt') { ctx.textAlign = o.align; ctx.fillText(o.txt, o.x, o.y); }
+    else { ctx.textAlign = 'left'; escreverJustificado(ctx, o.l, o.x, o.y, o.w); }
+  });
+  return cv;
+}
+const ehCelular = () => matchMedia('(pointer: coarse)').matches;
+function baixarImagem(blob, nome) {
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 60000);
+}
+// Se o celular recusar abrir a folha de compartilhamento (o toque "expirou"), mostra a
+// imagem com os botões Compartilhar e Salvar: o novo toque libera o compartilhamento.
+function janelaImagem(blob, arq, pac) {
+  const dlg = $('#janelaImagem');
+  if (!dlg || !dlg.showModal) { baixarImagem(blob, arq.name); return; }
+  const url = URL.createObjectURL(blob);
+  $('#imgPrevia').src = url;
+  $('#imgCompartilhar').hidden = !(navigator.canShare && navigator.canShare({ files: [arq] }));
+  $('#imgCompartilhar').onclick = async () => { try { await navigator.share({ files: [arq], title: pac.titulo }); dlg.close(); } catch (e) { if (!e || e.name !== 'AbortError') aviso('Não foi possível compartilhar; use Salvar imagem'); } };
+  $('#imgSalvar').onclick = () => { baixarImagem(blob, arq.name); aviso(ehCelular() ? 'Imagem salva (ou toque e segure a imagem para salvar)' : 'Imagem salva em Downloads'); };
+  dlg.onclose = () => setTimeout(() => URL.revokeObjectURL(url), 1000);
+  dlg.showModal();
+}
 async function entregarImagem(canvas, pac, formato) {
   const blob = await new Promise((r) => canvas.toBlob(r, 'image/png'));
   if (!blob) throw new Error('falha ao gerar');
   const nome = 'lex-vade-mecum-' + (formato === 'story' ? 'story-' : '') + slug(pac.titulo).slice(0, 60) + '.png';
   const arq = new File([blob], nome, { type: 'image/png' });
-  if (navigator.canShare && navigator.canShare({ files: [arq] }) && matchMedia('(pointer: coarse)').matches) {
-    try { await navigator.share({ files: [arq], title: pac.titulo, text: pac.link }); } catch (e) {}
+  if (ehCelular()) {
+    if (navigator.canShare && navigator.canShare({ files: [arq] })) {
+      try { await navigator.share({ files: [arq], title: pac.titulo }); return; }
+      catch (e) { if (e && e.name === 'AbortError') return; }
+    }
+    janelaImagem(blob, arq, pac);
   } else {
-    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = nome;
-    document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    baixarImagem(blob, nome);
     aviso('Imagem salva em Downloads');
   }
 }
 async function gerarImagem(pac, formato) {
   aviso('Gerando a imagem…');
   const lei = leis.find((l) => l.id === atual);
-  const falhou = () => aviso(location.protocol === 'file:' ? 'Para gerar imagens, use a versão on-line' : 'Não foi possível gerar a imagem');
-  if (formato === 'story') {
-    try { await entregarImagem(await desenharStory(pac, lei), pac, formato); } catch (e) { falhou(); }
-    return;
-  }
-  const x = pac.uid && dadosUnidade(pac.uid);
-  let miolo;
-  if (pac.tipo === 'selecao') {
-    miolo = `<div class="ci-citacao" data-texto="${esc('“' + pac.citacao + '”')}"></div><div class="ci-fonte">— ${esc(pac.fonte)}</div>`;
-  } else {
-    miolo = `<div class="ci-rot">${esc(x.u.rotulo)}</div>${x.u.subt ? `<div class="ci-sub">${esc(x.u.subt)}</div>` : ''}
-      <div class="ci-texto">${x.u.texto.map((l) => `<p class="${classeLinha(l)}">${inline(l)}</p>`).join('')}</div>`;
-  }
-  const fab = $('#fabricaImagem');
-  fab.innerHTML = `<div class="card-img"><div class="ci-topo"><img src="assets/lex-vade-mecum-icone.svg" alt=""><div class="ci-marca"><b>LEX</b><i>Vade Mecum</i></div><div class="ci-lei">${esc(lei ? lei.nome : '')}${lei && lei.conferido ? `<small>Texto oficial conferido em ${esc(lei.conferido)}</small>` : ''}</div></div>
-    ${miolo}${linhaPerfil() ? `<div class="ci-perfil">${esc(linhaPerfil())}</div>` : ''}<div class="ci-rodape"><span class="ci-assina">${ASSINATURA}</span><span>oliveiracarlosadv.github.io/Lex-Vade-Mecum</span></div></div>`;
-  fab.classList.add('ativa');
   try {
-    await carregarH2C();
-    if (document.fonts && document.fonts.ready) await document.fonts.ready;
-    ajustarCartao(fab.firstElementChild);
-    const onclone = async (doc) => { if (doc.fonts && doc.fonts.ready) await doc.fonts.ready; const c = doc.querySelector('.card-img'); if (c) ajustarCartao(c); };
-    const canvas = await window.html2canvas(fab.firstElementChild, { scale: 1, backgroundColor: '#FBF8F0', logging: false, onclone });
+    const canvas = formato === 'story' ? await desenharStory(pac, lei) : await desenharCartao(pac, lei);
     await entregarImagem(canvas, pac, formato);
-  } catch (e) { falhou(); } finally { fab.classList.remove('ativa'); fab.innerHTML = ''; }
+  } catch (e) {
+    console.error('Lex Vade Mecum — imagem:', e);
+    aviso(location.protocol === 'file:' ? 'Para gerar imagens, use a versão on-line' : 'Não foi possível gerar a imagem');
+  }
 }
 function posicionarBarraSel() {
   const bar = $('#barraSel'); const sel = getSelection();
