@@ -95,6 +95,14 @@ button,input,select{font:inherit;color:inherit}
 /* ---------- Estrutura ---------- */
 .corpo{flex:1;display:flex;min-height:0;min-width:0;max-width:100vw}
 aside{width:290px;flex:none;background:var(--papel2);border-right:1px solid var(--fio);overflow:auto;padding:18px 12px 40px}
+.busca-leis{position:relative;margin:0 10px 6px}
+.busca-leis svg{position:absolute;left:10px;top:50%;width:16px;height:16px;transform:translateY(-50%);color:var(--tinta2);pointer-events:none}
+.busca-leis input{width:100%;box-sizing:border-box;padding:7px 30px 7px 32px;border:1px solid var(--fio);border-radius:999px;background:var(--papel);color:var(--tinta);font-family:var(--ui);font-size:14px}
+.busca-leis input:focus{outline:2px solid var(--titulo2);outline-offset:1px}
+.busca-leis input::-webkit-search-cancel-button{display:none}
+.busca-leis button{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;background:none;color:var(--tinta2);cursor:pointer;font-size:14px;padding:4px 6px}
+.sem-leis{margin:10px;font-family:var(--ui);font-size:13px;color:var(--tinta2)}
+@media (max-width:900px){.busca-leis input{font-size:16px}}
 .cab-leis{display:flex;align-items:flex-end;justify-content:space-between;gap:8px;margin:6px 10px 8px;border-bottom:1px solid var(--fio);padding-bottom:4px}.cab-leis h2{margin:0;border:0;padding:0}
 .ordem{display:flex;border:1px solid var(--fio);border-radius:6px;overflow:hidden;flex:none}.ordem button{border:0;background:none;font-family:var(--ui);font-size:12px;padding:3px 8px;cursor:pointer;color:var(--tinta2)}.ordem button+button{border-left:1px solid var(--fio)}.ordem button.ativo{background:var(--papel);color:var(--titulo);font-weight:600}
 aside h2{font-family:var(--display);font-variant:small-caps;letter-spacing:.12em;font-size:17px;font-weight:600;color:var(--titulo);margin:6px 10px 8px;border-bottom:1px solid var(--fio);padding-bottom:4px}
@@ -398,6 +406,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 <div class="corpo">
   <aside id="lateral">
     <div class="cab-leis"><h2>Leis</h2><div class="ordem" role="group" aria-label="Ordenar as leis"><button type="button" data-ordem="alfa" title="Ordem alfabética">A–Z</button><button type="button" data-ordem="data" title="Pela data de publicação, da mais antiga à mais recente">Data</button></div></div>
+    <div class="busca-leis" role="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg><input type="search" id="filtroLeis" placeholder="Procurar lei: nome, número ou sigla" aria-label="Procurar lei no menu" autocomplete="off" spellcheck="false"><button type="button" id="limparFiltro" hidden aria-label="Limpar a procura">✕</button></div>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
     <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="instalarBtn">📲 Instalar como aplicativo<small>Salvar na tela inicial ou na área de trabalho</small></button><button class="lei" id="compartilharAppBtn">🔗 Compartilhar o Lex Vade Mecum<small>Enviar o link para colegas e amigos</small></button></div>
     <div id="sumario"></div>
@@ -611,7 +620,7 @@ function dataPublicacao(txt) {
 const CLASSIFICACAO = {
   clt: { genero: 'codigos' },
   'nr-01': { genero: 'normas' },
-  'ced-oab': { genero: 'normas' },
+  'ced-oab': { genero: 'codigos' }, // resolução do CFOAB, mas é um código: fica junto dos códigos, como nos vade mecuns
   'tst-precedentes': { genero: 'jurisprudencia' },
   'trt8-precedentes': { genero: 'jurisprudencia' },
   // exemplos: 'constituicao-para': { esfera: 'estadual', uf: 'Pará', genero: 'constituicao' },
@@ -660,10 +669,32 @@ function leisOrdenadas() {
   const alfa = (a, b) => a.nome.localeCompare(b.nome, 'pt-BR', { sensitivity: 'base' });
   return [...leis].sort(ordemLeis === 'data' ? (a, b) => (dataPublicacao(a.data) - dataPublicacao(b.data)) || alfa(a, b) : alfa);
 }
+// Procura no menu de leis: casa todas as palavras digitadas com o nome, o número, a sigla,
+// a data de publicação ou o identificador da lei, sem diferenciar acentos e maiúsculas.
+function filtroLeis() {
+  const campo = $('#filtroLeis'); const q = campo ? semAcento(campo.value.trim()) : '';
+  const lim = $('#limparFiltro'); if (lim) lim.hidden = !q;
+  if (!q) return null;
+  const ps = q.replace(/n[ºo°]\s*/g, ' ').split(/\s+/).filter(Boolean).map((p) => p.replace(/\./g, ''));
+  return (l) => {
+    const alvo = semAcento([l.nome, l.numero, siglaLei(l.id), l.id.replace(/-/g, ' '), l.data].join(' ')).replace(/\./g, '');
+    return ps.every((p) => alvo.includes(p));
+  };
+}
 function desenharMenu() {
   document.querySelectorAll('.ordem button').forEach((b) => { b.classList.toggle('ativo', b.dataset.ordem === ordemLeis); b.setAttribute('aria-pressed', b.dataset.ordem === ordemLeis); });
+  const f = filtroLeis();
   const item = (l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`;
-  $('#listaLeis').innerHTML = leisAgrupadas().map((b) => `<div class="grupo-${b.nivel}" role="heading" aria-level="${{ esfera: 3, genero: 4, especie: 5 }[b.nivel]}">${esc(b.titulo)}</div>${(b.leis || []).map(item).join('')}`).join('');
+  // Com procura, só ficam as leis que casam e os títulos de grupo que ainda têm alguma lei.
+  const blocos = leisAgrupadas().map((b) => ({ ...b, leis: b.leis && (f ? b.leis.filter(f) : b.leis) }));
+  const nivel = { esfera: 0, genero: 1, especie: 2 };
+  const vivos = blocos.filter((b, i) => {
+    if (b.leis) return b.leis.length > 0;
+    for (let j = i + 1; j < blocos.length && nivel[blocos[j].nivel] > nivel[b.nivel]; j++) if (blocos[j].leis && blocos[j].leis.length) return true;
+    return false;
+  });
+  $('#listaLeis').innerHTML = vivos.map((b) => `<div class="grupo-${b.nivel}" role="heading" aria-level="${{ esfera: 3, genero: 4, especie: 5 }[b.nivel]}">${esc(b.titulo)}</div>${(b.leis || []).map(item).join('')}`).join('')
+    || '<p class="sem-leis">Nenhuma lei encontrada. Tente outro nome, número ou sigla.</p>';
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
   $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
@@ -2075,6 +2106,13 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
     document.documentElement.dataset.theme = novo; try { localStorage.setItem('lex-tema', novo); } catch (e) {}
   };
   $('#menuBtn').onclick = () => document.body.classList.toggle('menu-aberto');
+  const fl = $('#filtroLeis');
+  fl.addEventListener('input', () => desenharMenu());
+  fl.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') { const b = $('#listaLeis .lei'); if (b) { e.preventDefault(); b.click(); } }
+    if (e.key === 'Escape' && fl.value) { e.stopPropagation(); fl.value = ''; desenharMenu(); }
+  });
+  $('#limparFiltro').onclick = () => { fl.value = ''; desenharMenu(); fl.focus(); };
   document.querySelectorAll('.ordem button').forEach((b) => (b.onclick = () => {
     ordemLeis = b.dataset.ordem; try { localStorage.setItem('lex-ordem', ordemLeis); } catch (e) {}
     if (atual === null && leis.length) inicio(); else desenharMenu();
