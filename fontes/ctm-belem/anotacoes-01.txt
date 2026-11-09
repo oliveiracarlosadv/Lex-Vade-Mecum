@@ -1,0 +1,144 @@
+@CTMB 1
+I: O Código Tributário e de Rendas de Belém é formado pelos dispositivos desta lei e deve respeitar a Constituição Federal, as leis complementares e o Código Tributário Nacional. A competência tributária do Município é limitada por essas normas superiores.
+P: Composição do Código || Subordinação à Constituição, às leis complementares e ao CTN
+K: Código Tributário de Belém; competência tributária municipal; CTN
+
+@CTMB 2
+I: O sistema tributário de Belém compreende os impostos sobre a propriedade predial e territorial urbana (IPTU) e sobre serviços de qualquer natureza (ISS), as taxas de poder de polícia e de serviços públicos específicos e divisíveis, e a contribuição de melhoria (CF, art. 145). O ITBI, também municipal (CF, art. 156, II), não consta deste rol.
+P: Impostos: IPTU e ISS || Taxas de polícia e de serviço || Contribuição de melhoria
+K: sistema tributário municipal; IPTU; ISS; taxas; contribuição de melhoria
+
+@CTMB 3
+I: O artigo reproduz as imunidades da Constituição: patrimônio e serviços dos entes públicos (extensiva às autarquias), templos de qualquer culto e patrimônio e serviços de partidos e de instituições de educação e assistência social sem fins lucrativos. Estas devem cumprir os requisitos do art. 14 do CTN (não distribuir lucros, aplicar recursos no País e manter escrituração). O texto restringe a imunidade dos templos aos imóveis do culto e exclui imóveis de exploração econômica; o STF, porém, admite a imunidade sobre imóveis alugados quando a renda é aplicada nas finalidades essenciais (Súmula Vinculante 52).
+P: Imunidade recíproca e das autarquias || Templos de qualquer culto || Partidos e entidades de educação e assistência social || Requisitos do art. 14 do CTN || Súmula Vinculante 52 do STF
+K: imunidade tributária; templos; entidades sem fins lucrativos; autarquias
+
+@CTMB 4
+I: O fato gerador do IPTU é a propriedade, o domínio útil ou a posse de imóvel situado no Município que não se destine à exploração agrícola, pecuária, extrativa vegetal ou agroindustrial (critério da destinação, CTN, art. 32, e Decreto-Lei nº 57/1966).
+P: Propriedade, domínio útil ou posse || Imóvel no território do Município || Exclusão dos imóveis de destinação rural
+K: IPTU; fato gerador; destinação do imóvel; zona urbana
+
+@CTMB 5
+I: O imposto predial incide sobre imóveis edificados com habite-se, mesmo desocupados ou construídos por terceiro em terreno alheio, e sobre construções sem licença, irregulares ou precárias quando o imposto predial for maior que o territorial.
+P: Incidência sobre imóveis edificados || Construções irregulares ou precárias
+K: IPTU; imposto predial; habite-se; construção irregular
+
+@CTMB 6
+I: O imposto territorial incide sobre terrenos sem edificação, com construções demolidas ou em ruínas, e sobre imóveis com construção irregular ou precária quando não houver lançamento do imposto predial.
+P: Terrenos sem edificação || Edificações em ruínas || Construções irregulares sem lançamento predial
+K: IPTU; imposto territorial; terreno baldio
+
+@CTMB 7
+I: A mudança de tributação de predial para territorial, ou o inverso, só produz efeito a partir do exercício seguinte ao do fato que a motivou.
+P: Efeito no exercício seguinte
+K: IPTU; mudança de tributação; exercício financeiro
+
+@CTMB 7-A
+I: Incluído pela Lei municipal nº 10.250/2025, o artigo obriga todo contribuinte do IPTU, inclusive imune ou isento, a pedir o cadastramento do imóvel ou subunidade e de suas alterações em até 90 dias.
+P: Dever de cadastramento, mesmo para imunes e isentos || Prazo de 90 dias || Alterações do imóvel
+K: IPTU; cadastro imobiliário; obrigação acessória; Lei nº 10.250/2025
+
+@CTMB 8
+I: O artigo foi revogado pela Lei municipal nº 7.933/1998 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; IPTU; isenção
+
+@CTMB 9
+I: As isenções ou reduções do IPTU não alcançam a taxa de serviços urbanos devida pelo proprietário ou possuidor, salvo disposição em contrário.
+P: Isenção do IPTU não abrange a taxa de serviços urbanos
+K: isenção; IPTU; taxa de serviços urbanos
+
+@CTMB 10
+I: O IPTU é ônus real: acompanha o imóvel em qualquer transmissão, inclusive na promessa de compra e venda, e o adquirente responde pelos débitos (CTN, art. 130).
+P: IPTU como ônus real || Responsabilidade do adquirente
+K: IPTU; ônus real; responsabilidade por sucessão; transmissão do imóvel
+
+@CTMB 11
+I: Contribuinte do IPTU é o proprietário, o titular do domínio útil ou o possuidor a qualquer título. Também são contribuintes os promitentes compradores imitidos na posse e os ocupantes de imóveis de pessoas imunes ou isentas. A jurisprudência exige posse com ânimo de dono para tributar o possuidor.
+P: Proprietário, enfiteuta ou possuidor || Promitente comprador imitido na posse || Ocupantes de imóveis públicos
+K: IPTU; contribuinte; possuidor; promitente comprador
+
+@CTMB 12
+I: O imposto resulta da aplicação das alíquotas da Tabela I anexa sobre a base de cálculo, e o Executivo delimita as zonas urbanas. A Tabela I não consta do texto publicado na fonte utilizada, que traz as Tabelas II a VI.
+P: Alíquotas da Tabela I || Zonas urbanas definidas pelo Executivo
+K: IPTU; alíquotas; zoneamento
+
+@CTMB 13
+I: O IPTU é calculado sobre valores fixados por processos técnicos, sem arbítrio pessoal, conforme os artigos seguintes.
+P: Valores técnicos e impessoais
+K: IPTU; base de cálculo; planta de valores
+
+@CTMB 13-A
+I: Incluído pela Lei nº 10.250/2025, autoriza o Executivo a atualizar a base de cálculo do IPTU, periodicamente, conforme o valor de mercado, e não apenas pela inflação. Nos anos sem essa atualização, os valores são corrigidos pelo IPCA-E. Imóveis fora da Planta Genérica de Valores seguem os critérios do art. 15. Pela jurisprudência (Tema 211 do STF e Súmula 160 do STJ), a majoração do valor venal acima da inflação exige lei em sentido formal; ato do Executivo só pode corrigir pela inflação.
+P: Atualização pelo valor de mercado || Correção pelo IPCA-E || Imóveis fora da Planta Genérica
+K: IPTU; planta genérica de valores; atualização da base de cálculo; IPCA-E
+
+@CTMB 13-B
+I: A atualização dos valores da base de cálculo é divulgada por ato do Prefeito, com publicação no Diário Oficial das tabelas completas do metro quadrado de terreno e de construção, para assegurar contraditório e ampla defesa. A atualização pode ser aplicada de forma escalonada.
+P: Publicação das tabelas no Diário Oficial || Transparência ao contribuinte || Aplicação escalonada
+K: IPTU; publicidade; planta genérica de valores; contraditório
+
+@CTMB 14
+I: Pela redação da Lei nº 10.250/2025, a base de cálculo do IPTU é a soma dos valores venais do terreno e da construção.
+P: Base de cálculo pelo valor venal
+K: IPTU; valor venal; base de cálculo
+
+@CTMB 15
+I: Pela redação da Lei nº 10.250/2025, o valor venal do terreno considera o valor declarado, o índice de valorização da zona, os valores de mercado, localização, forma, topografia e equipamentos urbanos. O da construção considera área, padrão, conservação, mercado e valorização da zona. O Fisco pode usar outros dados técnicos, inclusive de entidades do mercado imobiliário.
+P: Critérios para o terreno || Critérios para a construção || Uso de dados do mercado imobiliário
+K: IPTU; valor venal; terreno; construção; mercado imobiliário
+
+@CTMB 15-A
+I: Incluído pela Lei nº 10.250/2025, permite arbitrar os dados do imóvel quando o contribuinte impedir o levantamento ou o imóvel estiver fechado ou sem responsável localizado. Usam-se as características aparentes, os imóveis vizinhos semelhantes e os valores do Cadastro Imobiliário Brasileiro (CIB).
+P: Hipóteses de arbitramento || Critérios do arbitramento || Uso do Cadastro Imobiliário Brasileiro
+K: IPTU; arbitramento; Cadastro Imobiliário Brasileiro
+
+@CTMB 16
+I: O imóvel com frente para logradouros de zonas diferentes é tributado pela zona mais elevada.
+P: Prevalência da zona de maior tributação
+K: IPTU; zona fiscal; testada
+
+@CTMB 17
+I: Durante obra autorizada de construção, reconstrução ou loteamento, o valor tributável permanece inalterado do exercício seguinte à comunicação até a conclusão, se a obra não for interrompida por mais de 120 dias, e o imóvel paga alíquota reduzida à metade.
+P: Congelamento do valor durante a obra || Alíquota reduzida em 50% || Interrupção máxima de 120 dias
+K: IPTU; obra; redução de alíquota; loteamento
+
+@CTMB 18
+I: O IPTU é lançado, se possível, junto com os demais tributos do imóvel, em nome do inscrito no cadastro. Há regras para condomínio, possuidor, espólio (herdeiros transferem em 60 dias após a partilha) e compromisso de compra e venda. Com decreto de desapropriação, o pagamento fica suspenso até a imissão na posse e, se o decreto caducar, a cobrança é retomada sem acréscimos do período.
+P: Lançamento em nome do inscrito || Condomínio, espólio e compromisso de compra e venda || Suspensão na desapropriação
+K: IPTU; lançamento; condomínio; espólio; desapropriação
+
+@CTMB 19
+I: O lançamento é anual, e o pagamento segue o calendário fiscal da Secretaria Municipal de Finanças, em quotas, com possível desconto para a cota única.
+P: Lançamento anual || Calendário fiscal || Desconto na cota única
+K: IPTU; calendário fiscal; cota única; parcelamento
+
+@CTMB 20
+I: Pela redação da Lei nº 10.250/2025, o descumprimento de obrigação acessória do IPTU gera multa de 40% do imposto (falta de inscrição ou alteração), 60% (embaraço à fiscalização ou recadastramento) ou 80% (erro, omissão ou falsidade que altere a base de cálculo).
+P: Multa de 40% por falta de inscrição || Multa de 60% por embaraço à fiscalização || Multa de 80% por falsidade
+K: IPTU; multa; obrigação acessória; fiscalização
+
+@CTMB 21
+I: O ISS tem como fato gerador a prestação dos serviços da lista do artigo (que acompanha a Lista da Lei Complementar nº 116/2003, com as atualizações da LC nº 157/2016), ainda que não sejam a atividade preponderante do prestador. Incide mesmo com fornecimento de mercadorias, salvo exceções da lista, independe de regularidade ou resultado da atividade, alcança serviços vindos do exterior e serviços prestados com uso de bens públicos sob concessão mediante tarifa ou pedágio. O § 5º (atracação e praticagem como autônomos) foi revogado pela Lei nº 9.330/2017. A lista é taxativa, admitida a interpretação extensiva dos itens (Tema 296 do STF).
+P: Lista de serviços tributáveis || Incidência independentemente de regularidade || Serviços do exterior || Serviços sob concessão com tarifa || Lista taxativa com interpretação extensiva
+K: ISS; ISSQN; lista de serviços; LC nº 116/2003; fato gerador
+
+@CTMB 22
+I: O artigo foi revogado pela Lei municipal nº 7.933/1998 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; ISS; isenção
+
+@CTMB 23
+I: O ISS não incide sobre exportação de serviços, serviços prestados com vínculo de emprego, por avulsos, diretores e conselheiros, nem sobre o valor intermediado no mercado de títulos, depósitos bancários e operações de crédito de instituições financeiras (LC nº 116/2003, art. 2º). Não é exportação o serviço feito no Município cujo resultado aqui se verifique, ainda que pago por residente no exterior.
+P: Exportação de serviços || Relação de emprego e cargos de direção || Operações financeiras || Resultado verificado no Brasil
+K: ISS; não incidência; exportação de serviços; relação de emprego
+
+@CTMB 24
+I: O artigo foi revogado pela Lei municipal nº 8.293 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; ISS
+
+@CTMB 25
+I: Contribuinte do ISS é o prestador do serviço. Profissional autônomo é quem presta pessoalmente o trabalho, sem vínculo, com até dois empregados e dois profissionais habilitados; empresa é a pessoa jurídica (CC, art. 981) ou a pessoa física que exceda esses limites. O texto prevê tratamento diferenciado para microempresas e para cartórios de registro civil de pessoas naturais, por lei específica.
+P: Prestador como contribuinte || Conceitos de autônomo e de empresa || Tratamento diferenciado de microempresas e cartórios
+K: ISS; contribuinte; profissional autônomo; empresa; microempresa

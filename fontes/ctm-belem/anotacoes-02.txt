@@ -1,0 +1,149 @@
+@CTMB 26
+I: Construtores e empreiteiros principais de obras hidráulicas ou de construção civil podem recolher na fonte o ISS devido pelas subempreiteiras exclusivamente de mão de obra.
+P: Retenção pelo empreiteiro principal || Subempreitada só de mão de obra
+K: ISS; construção civil; subempreitada; retenção na fonte
+
+@CTMB 27
+I: Na construção por administração, o construtor ou empreiteiro principal recolhe o ISS mesmo que o condomínio pague a mão de obra. Para transferir a responsabilidade ao condomínio inscrito, deve comunicar o Fisco em 30 dias do início da obra; sem a comunicação, a responsabilidade continua com ele.
+P: Responsabilidade do construtor na obra por administração || Comunicação em 30 dias || Transferência ao condomínio inscrito
+K: ISS; construção por administração; condomínio; responsabilidade tributária
+
+@CTMB 28
+I: As regras dos arts. 26 e 27 não se aplicam a subempreitadas de raspagem, calafetagem e resinas, nem a serviços paralelos à construção tributados a 5%.
+P: Exceções à retenção na construção civil
+K: ISS; construção civil; subempreitada
+
+@CTMB 29
+I: Pela redação da Lei nº 10.250/2025, órgãos públicos e pessoas jurídicas de Belém, mesmo imunes ou isentos, devem reter e recolher o ISS quando tomarem ou intermediarem serviços vindos do exterior, serviços de prestadores de outro município cujo imposto seja devido a Belém (subitens listados), serviços de pessoa física sem inscrição municipal e serviços sem nota fiscal ou recibo com a inscrição. O Secretário de Finanças pode dispensar acréscimos sobre valores retidos por órgãos públicos.
+P: Responsabilidade do tomador pela retenção || Serviços do exterior e de outros municípios || Prestador sem inscrição ou sem nota
+K: ISS; retenção na fonte; responsabilidade tributária; tomador do serviço
+
+@CTMB 30
+I: O dono do estabelecimento responde solidariamente pelo ISS sobre máquinas e aparelhos de terceiros nele instalados, sob pena de multa igual ao imposto.
+P: Responsabilidade solidária pelo uso de máquinas de terceiros || Multa igual ao imposto
+K: ISS; responsabilidade solidária; máquinas e aparelhos
+
+@CTMB 31
+I: Pela redação da Lei nº 10.250/2025, são substitutos tributários do ISS, ainda que imunes ou isentos, os órgãos e entidades da administração direta e indireta de todos os entes e as demais pessoas jurídicas de direito privado estabelecidas em Belém, quanto aos serviços que tomarem ou intermediarem.
+P: Substituição tributária pela administração pública || Substituição pelas pessoas jurídicas privadas
+K: ISS; substituição tributária; retenção na fonte; administração pública
+
+@CTMB 31-A
+I: Incluído pela Lei nº 10.250/2025, dispensa a retenção quando o prestador está no regime de estimativa, é autônomo adimplente, sociedade de profissionais com alíquota fixa adimplente, MEI do Simples Nacional, imune ou isento, concessionária de comunicação, energia ou água, ou em outros casos fixados pelo Secretário. A dispensa exige documento fiscal e prova das condições.
+P: Hipóteses de dispensa da retenção || MEI, autônomos e sociedades de profissionais || Comprovação pelo prestador
+K: ISS; dispensa de retenção; MEI; sociedade de profissionais
+
+@CTMB 31-B
+I: Incluído pela Lei nº 10.250/2025, cabe ao Secretário de Finanças listar as pessoas jurídicas privadas que serão substitutas tributárias, considerando porte, estrutura e forma de execução do serviço.
+P: Lista de substitutos por ato do Secretário || Critérios de porte e estrutura
+K: ISS; substituição tributária; Secretaria Municipal de Finanças
+
+@CTMB 32
+I: Pela redação da Lei nº 10.250/2025, a alíquota geral do ISS é de 5%. Os serviços listados no § 1º (de saúde do item 4, de ensino dos subitens 8.01 e 8.02 e de contabilidade do 17.19) pagam 3%. Os §§ 2º e 3º, que autorizavam a redução de até 50% do imposto por setor, foram revogados pela mesma lei.
+P: Alíquota geral de 5% || Alíquota de 3% para saúde, ensino e contabilidade || Revogação da redução setorial
+K: ISS; alíquota; serviços de saúde; Lei nº 10.250/2025
+
+@CTMB 32-A
+I: Incluído pela Lei nº 9.330/2017 (seguindo a LC nº 157/2016), fixa a alíquota mínima do ISS em 2% e proíbe benefícios que resultem em carga menor, salvo para os subitens 7.02, 7.05 e 16.01. O descumprimento desloca o imposto para o local do tomador (art. 48, § 4º).
+P: Alíquota mínima de 2% || Vedação de benefícios abaixo do mínimo || Exceções da construção civil e do transporte coletivo
+K: ISS; alíquota mínima; LC nº 157/2016; guerra fiscal
+
+@CTMB 32-B
+I: O artigo, incluído pela Lei nº 9.330/2017, permitia ao transporte de passageiros reduzir em 60% a base de cálculo do ISS, sob condições de regularidade fiscal. Foi integralmente revogado pela Lei nº 10.250/2025.
+P: Redução para transporte de passageiros revogada
+K: ISS; transporte de passageiros; revogação; Lei nº 10.250/2025
+
+@CTMB 33
+I: A base de cálculo do ISS é o preço do serviço: receita bruta mensal nos serviços permanentes ou preço cobrado nos eventuais, sem deduções não autorizadas em lei. O texto prevê proporcionalidade para ferrovias, rodovias, dutos, cabos e postes em mais de um município. O profissional autônomo paga valor fixo anual (R$ 480, R$ 240 ou R$ 120, conforme a escolaridade), com redução de 50% entre o 3º e o 8º ano de atividade e de 15% na cota única, podendo optar pelo recolhimento sobre o preço.
+P: Preço do serviço como base || Proporcionalidade em vários municípios || ISS fixo do autônomo por escolaridade || Descontos e opção pelo preço
+K: ISS; base de cálculo; profissional autônomo; ISS fixo
+
+@CTMB 33-A
+I: Incluído pela Lei nº 9.330/2017, determina que as cooperativas de saúde pagam ISS sobre o total dos serviços, excluindo o valor pago a médicos inscritos como autônomos no Município.
+P: Base de cálculo das cooperativas de saúde || Exclusão dos repasses a médicos autônomos
+K: ISS; cooperativas; serviços de saúde; base de cálculo
+
+@CTMB 34
+I: O artigo foi revogado pela Lei municipal nº 8.293/2003 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; ISS
+
+@CTMB 35
+I: Pela redação da Lei nº 10.250/2025, na construção civil (subitens 7.02 e 7.05) o ISS incide sobre o preço do serviço, deduzindo-se apenas as mercadorias produzidas pelo prestador fora da obra e vendidas com ICMS. O STF admite a dedução dos materiais empregados (Tema 247), conforme a LC nº 116/2003.
+P: Base de cálculo na construção civil || Dedução só das mercadorias com ICMS
+K: ISS; construção civil; dedução de materiais; ICMS
+
+@CTMB 36
+I: Na demolição, o preço inclui os recebimentos em dinheiro e em material da demolição, salvo quando cobrada junto com o contrato de construção.
+P: Preço da demolição em dinheiro e material
+K: ISS; demolição; base de cálculo
+
+@CTMB 36-A
+I: Incluído pela Lei nº 10.250/2025, define a receita bruta das agências de publicidade: comissões e bonificações, honorários e fees de criação e redação, e preço da produção. Os serviços de terceiros faturados em nome do cliente, aos cuidados da agência, não entram na base.
+P: Receita bruta da agência de publicidade || Exclusão dos serviços de terceiros
+K: ISS; agência de publicidade; base de cálculo
+
+@CTMB 37
+I: Quem exerce várias atividades da lista paga ISS sobre todas. Sem escrita separada por atividade, aplica-se a alíquota maior sobre o movimento total.
+P: Incidência sobre todas as atividades || Alíquota mais alta sem escrita separada
+K: ISS; múltiplas atividades; alíquota
+
+@CTMB 38
+I: O preço de certos serviços pode ser fixado pela administração por pauta de valores, por arbitramento ou por estimativa, quando a apuração normal não for possível.
+P: Pauta de valores || Arbitramento || Estimativa
+K: ISS; pauta fiscal; arbitramento; estimativa
+
+@CTMB 39
+I: O ISS é arbitrado quando o contribuinte não tem ou não exibe documentos, apresenta livros sem fé, não presta esclarecimentos, pratica fraude ou atua sem inscrição. O arbitramento alcança só o período em que ocorreram essas situações (CTN, art. 148).
+P: Hipóteses de arbitramento || Limitação ao período irregular
+K: ISS; arbitramento; fiscalização; CTN art. 148
+
+@CTMB 40
+I: O arbitramento é fixado por despacho da autoridade fiscal, considerando recolhimentos semelhantes, condições do contribuinte, sinais de sua situação econômica e preço corrente dos serviços.
+P: Critérios do arbitramento
+K: ISS; arbitramento; critérios
+
+@CTMB 41
+I: O ISS pode ser fixado por estimativa em atividades provisórias, de organização rudimentar, quando o contribuinte não emite documentos fiscais ou quando o volume ou a natureza dos negócios aconselhem tratamento específico.
+P: Hipóteses de estimativa
+K: ISS; estimativa; regime especial
+
+@CTMB 42
+I: A estimativa considera a duração e a natureza da atividade, o preço corrente, o local e o evento a que se vincula.
+P: Critérios da estimativa
+K: ISS; estimativa; critérios
+
+@CTMB 43
+I: A estimativa é fixada por despacho da autoridade fiscal.
+P: Fixação por despacho
+K: ISS; estimativa
+
+@CTMB 44
+I: Contribuintes em estimativa podem ser dispensados de livros e documentos fiscais.
+P: Dispensa de livros e documentos
+K: ISS; estimativa; obrigações acessórias
+
+@CTMB 45
+I: O contribuinte pode pedir reconsideração do valor estimado em 15 dias da ciência, com efeito suspensivo e decisão em 10 dias; se procedente, a diferença é compensada ou restituída.
+P: Pedido de reconsideração em 15 dias || Efeito suspensivo || Compensação ou restituição
+K: ISS; estimativa; reconsideração; prazo
+
+@CTMB 46
+I: O regime de estimativa pode ser cancelado a qualquer tempo, de forma geral, parcial ou individual.
+P: Cancelamento da estimativa
+K: ISS; estimativa; cancelamento
+
+@CTMB 47
+I: O valor fixado por estimativa é lançamento definitivo do imposto.
+P: Estimativa como lançamento definitivo
+K: ISS; estimativa; lançamento
+
+@CTMB 48
+I: Em regra, o ISS é devido no local do estabelecimento prestador (ou do domicílio do prestador). Nas exceções dos incisos I a XXIII, é devido no local da obra, da instalação, do evento, do bem, do transporte, do tomador e outros, conforme o serviço (LC nº 116/2003, art. 3º). Estabelecimento prestador é a unidade econômica onde se presta o serviço, qualquer que seja o nome. Os incisos XXI a XXIII e §§ 5º e 6º, que levam ao domicílio do tomador o ISS de planos de saúde, cartões, leasing e agenciamento, seguem a LC nº 157/2016; o STF (ADIs 5.835 e 5.862) declarou inconstitucionais essas regras na LC nº 116/2003.
+P: Regra do estabelecimento prestador || Exceções pelo local da prestação || Conceito de estabelecimento prestador || Regras do domicílio do tomador afastadas pelo STF
+K: ISS; local da incidência; estabelecimento prestador; LC nº 116/2003; LC nº 157/2016
+
+@CTMB 49
+I: Quem paga ISS em valor fixo recolhe, no primeiro ano, antes de iniciar as atividades e, nos seguintes, conforme o regulamento.
+P: Pagamento antecipado no primeiro ano || Prazos regulamentares
+K: ISS fixo; pagamento; profissional autônomo
