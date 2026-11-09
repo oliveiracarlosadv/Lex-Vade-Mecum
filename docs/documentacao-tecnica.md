@@ -186,6 +186,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 08/11/2026 | Menu: ordenar as leis em ordem alfabética (A–Z) ou pela data de publicação (Data), com a escolha salva no navegador (`lex-ordem`) |
 | 08/11/2026 | Código Eleitoral (Lei nº 4.737/1965) publicado; leitor reconhece PARTE PRIMEIRA a QUINTA e os rótulos "Ar."/"At." grafados assim no Planalto |
 | 08/11/2026 | Código Penal (Decreto-Lei nº 2.848/1940) publicado; leitor passa a tratar as rubricas (títulos marginais) e artigos com sufixo de duas letras (359-M-A) |
+| 09/11/2026 | Menu: lupa para procurar a lei (`filtroLeis()`: nome, número, sigla, data e identificador, sem acentos; Enter abre a primeira, Esc ou ✕ limpa; grupos vazios somem). Código de Ética e Disciplina da OAB passa ao gênero Códigos e Consolidações |
 | 09/11/2026 | Imagens do artigo e da citação passam a ser desenhadas em canvas (antes, `html2canvas` copiava a lei inteira e levava segundos, e o celular recusava o compartilhamento); janela de reserva com Compartilhar e Salvar imagem |
 | 09/11/2026 | Código de Ética e Disciplina da OAB (Resolução CFOAB nº 02/2015) publicado a partir do PDF oficial da OAB (`"tipo": "pdf-oab"`, texto montado por `ferramentas/oab-pdf2txt.py`); não entra na conferência automática |
 | 09/11/2026 | Lei de Execução Penal (Lei nº 7.210/1984) publicada, com 219 dispositivos e as reformas de 2024 a 2026 |
