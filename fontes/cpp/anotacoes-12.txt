@@ -1,0 +1,299 @@
+@CPP 585
+I: O artigo exigia que o réu se recolhesse à prisão para recorrer da pronúncia. A regra é incompatível com a ampla defesa e a presunção de inocência e não é aplicada, como reconhece a Súmula 347 do STJ quanto à apelação.
+P: Exigência de prisão para recorrer || Incompatível com a Constituição (Súmula 347 do STJ)
+K: recurso; prisão; ampla defesa; Súmula 347
+
+@CPP 586
+I: O recurso em sentido estrito é interposto em 5 dias, salvo contra inclusão ou exclusão de jurado da lista, em que o prazo é de 20 dias da publicação definitiva da lista.
+P: Prazo de 5 dias || 20 dias na lista de jurados
+K: recurso em sentido estrito; prazo
+
+@CPP 587
+I: Quando o recurso sobe por instrumento, a parte indica as peças a trasladar, que devem incluir a decisão recorrida e a certidão de intimação. O traslado é feito em 5 dias.
+P: Formação do instrumento || Peças obrigatórias
+K: traslado; instrumento; recurso em sentido estrito
+
+@CPP 588
+I: O recorrente apresenta razões em 2 dias, e o recorrido responde em igual prazo. Se o recorrido for o réu, é intimado na pessoa do defensor.
+P: Razões e contrarrazões em 2 dias
+K: razões; contrarrazões; recurso em sentido estrito
+
+@CPP 589
+I: Com ou sem resposta, o juiz tem 2 dias para reformar ou manter sua decisão (juízo de retratação). Se reformar, a parte contrária pode recorrer da nova decisão por simples petição.
+P: Juízo de retratação || Recurso contra a decisão reformada
+K: juízo de retratação; recurso em sentido estrito
+
+@CPP 590
+I: Se o escrivão não conseguir extrair o traslado no prazo, o juiz pode prorrogá-lo até o dobro.
+P: Prorrogação do prazo do traslado
+K: traslado; prazo
+
+@CPP 591
+I: Os recursos são apresentados ao tribunal em 5 dias após a resposta do juiz.
+P: Remessa ao tribunal em 5 dias
+K: recurso; remessa
+
+@CPP 592
+I: Publicada a decisão do tribunal, os autos voltam ao juiz de origem em 5 dias.
+P: Devolução dos autos
+K: recurso; baixa dos autos
+
+@CPP 593
+I: Cabe apelação em 5 dias contra sentenças definitivas de condenação ou absolvição do juiz singular, contra decisões definitivas não sujeitas a RESE e contra decisões do júri quando houver nulidade posterior à pronúncia, sentença do juiz presidente contrária à lei ou aos jurados, erro na pena ou decisão dos jurados manifestamente contrária à prova dos autos. Neste último caso, o tribunal só pode mandar o réu a novo júri uma vez. Quando cabível a apelação, não se usa o RESE.
+P: Hipóteses de apelação || Apelação limitada no júri || Novo júri uma única vez por decisão contrária à prova || Prevalência da apelação sobre o RESE
+K: apelação; tribunal do júri; decisão contrária à prova dos autos; soberania dos veredictos
+
+@CPP 596
+I: A apelação da sentença absolutória não impede a soltura imediata do réu, nem suspende a medida de segurança aplicada provisoriamente.
+P: Soltura imediata na absolvição
+K: apelação; absolvição; liberdade
+
+@CPP 597
+I: A apelação da sentença condenatória tem efeito suspensivo, com as ressalvas legais. Pela presunção de inocência, a pena só é executada após o trânsito em julgado, salvo a regra própria do júri.
+P: Efeito suspensivo da apelação contra condenação || Presunção de inocência
+K: efeito suspensivo; apelação; presunção de inocência
+
+@CPP 598
+I: Se o Ministério Público não apelar, o ofendido ou seus sucessores podem apelar mesmo sem estar habilitados como assistentes, em 15 dias a partir do fim do prazo do Ministério Público, sem efeito suspensivo.
+P: Apelação supletiva do ofendido || Prazo de 15 dias
+K: apelação supletiva; ofendido; assistente
+
+@CPP 599
+I: A apelação pode abranger toda a decisão ou só parte dela, e o tribunal fica limitado ao que foi impugnado (tantum devolutum quantum appellatum). Pela Súmula 713 do STF, no júri, o efeito devolutivo se limita aos fundamentos da interposição.
+P: Apelação total ou parcial || Limite do efeito devolutivo || Súmula 713 do STF
+K: efeito devolutivo; apelação parcial; Súmula 713
+
+@CPP 600
+I: Assinado o termo de apelação, apelante e apelado têm 8 dias cada para razões (3 nas contravenções). O assistente arrazoa em 3 dias. O apelante pode declarar que arrazoará no tribunal.
+P: Prazo de 8 dias para razões || Razões no tribunal
+K: razões de apelação; prazo
+
+@CPP 601
+I: Findos os prazos, os autos sobem ao tribunal em 5 dias, com ou sem razões. Havendo réus não julgados ou que não apelaram, extrai-se traslado.
+P: Remessa ao tribunal com ou sem razões
+K: apelação; remessa
+
+@CPP 602
+I: Os autos são apresentados ao tribunal ou enviados pelo correio, sob registro, nos prazos do artigo anterior.
+P: Forma de remessa dos autos
+K: apelação; remessa
+
+@CPP 603
+I: A apelação sobe nos autos originais, ficando traslado dos termos essenciais nas comarcas que não são sede de tribunal. Com o processo eletrônico, a regra perdeu importância.
+P: Subida nos autos originais || Traslado nas comarcas do interior
+K: apelação; autos originais
+
+@CPP 609
+I: Os recursos são julgados pelos tribunais conforme as leis de organização judiciária. Se a decisão de segunda instância desfavorável ao réu não for unânime, cabem embargos infringentes e de nulidade, exclusivos da defesa, em 10 dias, limitados à matéria divergente.
+P: Julgamento pelos tribunais || Embargos infringentes e de nulidade, só da defesa || Prazo de 10 dias
+K: embargos infringentes; embargos de nulidade; voto vencido
+
+@CPP 610
+I: Nos RESE (exceto de habeas corpus) e nas apelações de contravenção ou crime punido com detenção, os autos vão ao relator e há sustentação oral de 10 minutos por parte.
+P: Rito no tribunal || Sustentação oral de 10 minutos
+K: julgamento no tribunal; sustentação oral
+
+@CPP 612
+I: Os recursos de habeas corpus são julgados na primeira sessão após a designação do relator.
+P: Prioridade do habeas corpus
+K: habeas corpus; julgamento
+
+@CPP 613
+I: Nas apelações de crimes punidos com reclusão, há revisor, os prazos são dobrados e a sustentação oral é de 15 minutos.
+P: Revisor nas apelações de reclusão || Sustentação de 15 minutos
+K: apelação; revisor; reclusão
+
+@CPP 614
+I: Se não for possível cumprir os prazos dos arts. 610 e 613, os motivos da demora são declarados nos autos.
+P: Justificação da demora
+K: prazos; tribunal
+
+@CPP 615
+I: O tribunal decide por maioria. Desde a Lei nº 14.836/2024, em todo julgamento penal colegiado, o empate favorece o acusado, com proclamação imediata, mesmo que o órgão esteja incompleto. O acórdão é apresentado na sessão seguinte.
+P: Decisão por maioria || Empate favorece o acusado (Lei nº 14.836/2024)
+K: empate; in dubio pro reo; julgamento colegiado
+
+@CPP 616
+I: No julgamento da apelação, o tribunal pode fazer novo interrogatório, reinquirir testemunhas ou ordenar diligências.
+P: Produção de prova no tribunal
+K: apelação; diligências; reinterrogatório
+
+@CPP 617
+I: O tribunal aplica as regras da sentença (emendatio, absolvição e condenação), mas não pode agravar a pena quando só o réu apelou (vedação da reformatio in pejus). Pela Súmula 160 do STF, também não pode reconhecer contra o réu nulidade não alegada pela acusação.
+P: Vedação da reformatio in pejus || Súmula 160 do STF
+K: reformatio in pejus; apelação; Súmula 160
+
+@CPP 618
+I: Os regimentos internos dos tribunais complementam as regras de processamento dos recursos.
+P: Regimentos internos
+K: regimento interno; tribunal
+
+@CPP 619
+I: Cabem embargos de declaração contra acórdãos, em 2 dias, quando houver ambiguidade, obscuridade, contradição ou omissão.
+P: Embargos de declaração em 2 dias
+K: embargos de declaração; acórdão
+
+@CPP 620
+I: Os embargos de declaração indicam os pontos viciados e são julgados na primeira sessão, sem revisão. O relator indefere de plano os que não preencham os requisitos.
+P: Processamento dos embargos de declaração
+K: embargos de declaração; relator
+
+@CPP 621
+I: A revisão criminal, ação exclusiva da defesa contra condenação transitada em julgado, cabe quando a sentença contraria a lei ou a evidência dos autos, se baseia em provas falsas ou quando surgem novas provas de inocência ou de circunstância que reduza a pena.
+P: Hipóteses de revisão criminal || Ação exclusiva da defesa
+K: revisão criminal; coisa julgada; prova nova
+
+@CPP 622
+I: A revisão pode ser pedida a qualquer tempo, antes ou depois da extinção da pena. Não se admite reiteração, salvo com novas provas.
+P: Sem prazo para a revisão || Reiteração só com prova nova
+K: revisão criminal; prazo
+
+@CPP 623
+I: A revisão pode ser pedida pelo próprio réu, por procurador ou, se ele morreu, pelo cônjuge, ascendente, descendente ou irmão. O STF admite que o réu a ajuíze sem advogado.
+P: Legitimidade para a revisão || Revisão após a morte do réu
+K: revisão criminal; legitimidade
+
+@CPP 624
+I: A revisão é julgada pelo STF quanto às suas condenações e pelos demais tribunais nos outros casos, conforme a competência atual definida na Constituição e nos regimentos.
+P: Competência para a revisão criminal
+K: revisão criminal; competência
+
+@CPP 625
+I: A revisão é distribuída a relator que não tenha atuado no processo, com revisor, e instruída com a certidão do trânsito em julgado e as provas. O relator pode indeferi-la de plano se mal instruída.
+P: Relator sem atuação anterior || Instrução do pedido
+K: revisão criminal; relator; processamento
+
+@CPP 626
+I: Julgando procedente a revisão, o tribunal pode reclassificar o crime, absolver, modificar a pena ou anular o processo, sem jamais agravar a pena.
+P: Efeitos da procedência || Vedação de agravar a pena
+K: revisão criminal; absolvição; reformatio in pejus
+
+@CPP 627
+I: A absolvição na revisão restabelece todos os direitos perdidos com a condenação, podendo o tribunal impor medida de segurança, se cabível.
+P: Restabelecimento dos direitos
+K: revisão criminal; absolvição; reabilitação
+
+@CPP 628
+I: Os regimentos internos complementam as regras da revisão criminal.
+P: Regimentos internos
+K: revisão criminal; regimento
+
+@CPP 629
+I: Com a certidão do acórdão que cassou a condenação, o juiz a junta aos autos para cumprimento imediato.
+P: Cumprimento da decisão revisional
+K: revisão criminal; cumprimento
+
+@CPP 630
+I: O tribunal pode reconhecer o direito do condenado a indenização pelo erro judiciário, liquidada no cível e paga pela União ou pelo Estado (CF, art. 5º, LXXV). Não cabe indenização se o erro decorreu de ato do próprio condenado, como confissão ou ocultação de prova.
+P: Indenização por erro judiciário (CF, art. 5º, LXXV) || Responsabilidade do Estado || Exclusão por culpa do condenado
+K: erro judiciário; indenização; revisão criminal
+
+@CPP 631
+I: Se a pessoa morrer durante a revisão, o presidente do tribunal nomeia curador para a defesa.
+P: Curador em caso de morte
+K: revisão criminal; curador
+
+@CPP 632
+I: Dispositivo revogado pela Lei nº 3.396/1958, que regulou o recurso extraordinário. Hoje o recurso extraordinário e o especial seguem a Constituição (arts. 102, III, e 105, III), o CPC e os regimentos do STF e do STJ. A numeração é mantida para preservar o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 3.396/1958 || Recursos extraordinário e especial regidos pela Constituição e pelo CPC
+K: dispositivo revogado; recurso extraordinário; Lei nº 3.396/1958
+
+@CPP 633
+I: Dispositivo revogado pela Lei nº 3.396/1958. Tratava do prazo e da forma de interposição do recurso extraordinário, hoje regidos pelo CPC (prazo de 15 dias). A numeração é mantida para preservar o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 3.396/1958
+K: dispositivo revogado; recurso extraordinário
+
+@CPP 634
+I: Dispositivo revogado pela Lei nº 3.396/1958. Tratava do traslado e das razões no recurso extraordinário. A numeração é mantida para preservar o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 3.396/1958
+K: dispositivo revogado; recurso extraordinário
+
+@CPP 635
+I: Dispositivo revogado pela Lei nº 3.396/1958. Tratava do conteúdo do traslado do recurso extraordinário. A numeração é mantida para preservar o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 3.396/1958
+K: dispositivo revogado; recurso extraordinário
+
+@CPP 636
+I: Dispositivo revogado pela Lei nº 3.396/1958. Tratava do prazo do traslado e da remessa dos autos do recurso extraordinário ao STF. A numeração é mantida para preservar o histórico do Código.
+P: Sem eficácia atual || Revogado pela Lei nº 3.396/1958
+K: dispositivo revogado; recurso extraordinário
+
+@CPP 637
+I: O artigo diz que o recurso extraordinário não tem efeito suspensivo e que os autos baixam para execução da sentença. Depois das ADCs 43, 44 e 54, o STF vedou a execução da pena antes do trânsito em julgado, de modo que a regra não autoriza a prisão para cumprimento antecipado da pena.
+P: Recurso extraordinário sem efeito suspensivo || Vedação da execução antecipada da pena (ADCs 43, 44 e 54)
+K: recurso extraordinário; efeito suspensivo; execução provisória
+
+@CPP 638
+I: O recurso extraordinário e o recurso especial seguem as leis especiais, o CPC e os regimentos do STF e do STJ.
+P: Regência pelo CPC e pelos regimentos
+K: recurso extraordinário; recurso especial; CPC
+
+@CPP 639
+I: Cabe carta testemunhável contra a decisão que nega seguimento ao recurso ou que, admitindo-o, impede sua remessa ao tribunal. Hoje se aplica sobretudo ao RESE denegado.
+P: Carta testemunhável contra a denegação do recurso
+K: carta testemunhável; recurso denegado
+
+@CPP 640
+I: A carta testemunhável é requerida ao escrivão em 48 horas após a decisão que negou o recurso, indicando as peças a trasladar.
+P: Prazo de 48 horas
+K: carta testemunhável; prazo
+
+@CPP 641
+I: O escrivão dá recibo e entrega a carta, conferida e concertada, em até 5 dias no caso de RESE.
+P: Formação da carta testemunhável
+K: carta testemunhável; escrivão
+
+@CPP 642
+I: O escrivão que se negar a dar recibo ou entregar o instrumento é suspenso por 30 dias, e o juiz ou presidente do tribunal manda extraí-lo.
+P: Sanção ao escrivão
+K: carta testemunhável; responsabilidade
+
+@CPP 643
+I: Formado o instrumento, segue-se o rito do RESE.
+P: Rito do recurso em sentido estrito
+K: carta testemunhável; processamento
+
+@CPP 644
+I: O tribunal, se conhecer da carta, manda processar o recurso ou, se bem instruída, julga logo o mérito.
+P: Julgamento da carta e do mérito
+K: carta testemunhável; mérito
+
+@CPP 645
+I: Na instância superior, a carta segue o processo do recurso que foi negado.
+P: Processamento conforme o recurso denegado
+K: carta testemunhável
+
+@CPP 646
+I: A carta testemunhável não tem efeito suspensivo.
+P: Sem efeito suspensivo
+K: carta testemunhável; efeito suspensivo
+
+@CPP 647
+I: Cabe habeas corpus sempre que alguém sofrer ou estiver ameaçado de sofrer violência ou coação ilegal em sua liberdade de locomoção, salvo punição disciplinar (CF, art. 5º, LXVIII). A jurisprudência admite o HC contra punição disciplinar militar para examinar sua legalidade, sem entrar no mérito.
+P: Proteção da liberdade de locomoção || HC preventivo e liberatório || Exceção da punição disciplinar
+K: habeas corpus; liberdade de locomoção; coação ilegal
+
+@CPP 647-A
+I: Incluído pela Lei nº 14.836/2024, o artigo permite a qualquer juiz ou tribunal conceder habeas corpus de ofício, individual ou coletivo, quando verificar, em qualquer processo, coação ilegal à liberdade, mesmo que não conheça do pedido ou recurso.
+P: Habeas corpus de ofício || HC coletivo || Concessão mesmo sem conhecer do recurso
+K: habeas corpus de ofício; habeas corpus coletivo; Lei nº 14.836/2024
+
+@CPP 648
+I: A coação é ilegal quando não houver justa causa, a prisão exceder o prazo legal, a autoridade for incompetente, cessar o motivo da coação, for negada fiança cabível, o processo for manifestamente nulo ou estiver extinta a punibilidade.
+P: Hipóteses de coação ilegal || Falta de justa causa e excesso de prazo || Nulidade manifesta e extinção da punibilidade
+K: coação ilegal; habeas corpus; excesso de prazo; justa causa
+
+@CPP 649
+I: O juiz ou tribunal, dentro de sua jurisdição, deve conceder a ordem imediatamente quando cabível, seja qual for a autoridade coatora.
+P: Concessão imediata da ordem
+K: habeas corpus; concessão
+
+@CPP 650
+I: O artigo fixa a competência originária para o HC, hoje definida pela Constituição (arts. 102, 105 e 108) e pelas Constituições estaduais. O juiz não julga HC contra autoridade judiciária de igual ou superior jurisdição. A vedação de HC contra prisão administrativa de responsáveis por dinheiro público perdeu sentido, pois a Constituição só admite prisão por ordem judicial.
+P: Competência para o habeas corpus || Autoridade de igual ou superior jurisdição || Prisão administrativa superada
+K: habeas corpus; competência; autoridade coatora
+
+@CPP 651
+I: A concessão do habeas corpus não encerra o processo, salvo se este conflitar com os fundamentos da ordem (como no trancamento por falta de justa causa).
+P: Efeitos da concessão sobre o processo
+K: habeas corpus; trancamento da ação penal
