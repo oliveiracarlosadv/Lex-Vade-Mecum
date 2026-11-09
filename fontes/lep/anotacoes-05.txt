@@ -1,0 +1,234 @@
+@LEP 158
+I: Concedido o sursis, o juiz fixa as condições, adequadas ao fato e ao condenado, com prestação de serviços ou limitação de fim de semana no primeiro ano (salvo o sursis especial do CP, art. 78, § 2º). O prazo começa na audiência admonitória. As condições podem ser modificadas; a fiscalização cabe ao serviço social, Patronato, Conselho da Comunidade ou entidade beneficiada, e o beneficiário comprova periodicamente o cumprimento, a ocupação e a renda.
+P: Condições do sursis || Prestação de serviços ou limitação de fim de semana || Fiscalização || Mudança de residência comunicada
+K: sursis; condições; fiscalização; audiência admonitória
+
+@LEP 159
+I: Se o sursis for concedido ou modificado pelo tribunal, cabe a ele fixar as condições, podendo delegar ao juízo da execução essa tarefa e a audiência admonitória.
+P: Sursis concedido em segunda instância || Delegação ao juízo da execução
+K: sursis; tribunal; audiência admonitória
+
+@LEP 160
+I: Transitada em julgado a condenação, o juiz lê a sentença ao condenado em audiência (audiência admonitória), advertindo-o das consequências de nova infração e do descumprimento das condições.
+P: Audiência admonitória
+K: sursis; audiência admonitória; advertência
+
+@LEP 161
+I: Se o réu, intimado pessoalmente ou por edital de 20 dias, faltar sem justificativa à audiência admonitória, o sursis fica sem efeito e a pena é executada imediatamente.
+P: Ausência injustificada à audiência || Execução imediata da pena
+K: sursis; audiência admonitória; revogação
+
+@LEP 162
+I: A revogação do sursis e a prorrogação do período de prova seguem o art. 81 do Código Penal.
+P: Remissão ao art. 81 do CP
+K: sursis; revogação; prorrogação
+
+@LEP 163
+I: A condenação com sursis é registrada em livro especial, com averbação da revogação ou da extinção. O registro é sigiloso, salvo requisição judicial ou do MP para processo penal.
+P: Registro sigiloso do sursis
+K: sursis; registro; sigilo
+
+@LEP 164
+I: A certidão da sentença condenatória definitiva vale como título executivo, e o condenado é citado para pagar a multa em 10 dias ou nomear bens à penhora, seguindo-se a lei processual civil. Pela redação atual do art. 51 do Código Penal (Lei nº 13.964/2019), a multa é executada perante o juiz da execução penal como dívida de valor, e o STF (ADI 3.150) reconheceu a legitimidade prioritária do Ministério Público.
+P: Título executivo e citação para pagar em 10 dias || Penhora pela lei processual civil || Execução perante o juiz da execução penal (CP, art. 51) || Legitimidade do MP (ADI 3.150)
+K: pena de multa; execução; penhora; Ministério Público; dívida de valor
+
+@LEP 165
+I: O artigo manda remeter ao juízo cível a execução quando a penhora recair sobre imóvel. Após a nova redação do art. 51 do CP, que fixa a competência do juiz da execução penal, a aplicação dessa regra é discutível.
+P: Penhora de imóvel || Competência atual do juízo da execução penal
+K: pena de multa; penhora; imóvel
+
+@LEP 166
+I: Recaindo a penhora sobre outros bens, a execução prossegue pelas regras da lei processual civil.
+P: Penhora de outros bens
+K: pena de multa; penhora
+
+@LEP 167
+I: A execução da multa fica suspensa se sobrevier doença mental ao condenado (CP, art. 52).
+P: Suspensão por doença mental
+K: pena de multa; doença mental; suspensão
+
+@LEP 168
+I: O juiz pode determinar a cobrança da multa por desconto no salário ou vencimento, entre 1/10 e 1/4 da remuneração, por ordem ao responsável pelo pagamento, que recolhe mensalmente.
+P: Desconto em folha || Limites de 1/10 a 1/4
+K: pena de multa; desconto em folha
+
+@LEP 169
+I: Até o fim do prazo de 10 dias, o condenado pode pedir o parcelamento da multa em prestações mensais iguais. O juiz pode investigar sua situação econômica e revoga o benefício se ele atrasar ou melhorar de situação.
+P: Parcelamento da multa || Revogação do parcelamento
+K: pena de multa; parcelamento
+
+@LEP 170
+I: Se a multa for cumulada com prisão, pode ser cobrada por desconto na remuneração do trabalho do preso. Cumprida a prisão, obtido o livramento ou concedido o sursis sem pagamento, a cobrança segue as regras do Capítulo.
+P: Desconto na remuneração do preso || Cobrança após a liberação
+K: pena de multa; trabalho do preso; desconto
+
+@LEP 171
+I: Transitada em julgado a sentença que aplica medida de segurança, expede-se a guia para sua execução.
+P: Guia de execução da medida de segurança
+K: medida de segurança; guia de internamento
+
+@LEP 172
+I: Ninguém é internado ou submetido a tratamento ambulatorial para cumprir medida de segurança sem guia judicial.
+P: Guia como condição da internação
+K: medida de segurança; legalidade; internação
+
+@LEP 173
+I: A guia de internamento ou tratamento ambulatorial contém qualificação do agente, denúncia, sentença, certidão de trânsito e data do fim do prazo mínimo; é comunicada ao MP e retificada quando mudar o prazo.
+P: Conteúdo da guia || Ciência ao MP || Retificação
+K: medida de segurança; guia; prazo mínimo
+
+@LEP 174
+I: Na execução da medida de segurança aplicam-se, no que couber, as regras de exame e classificação dos arts. 8º e 9º.
+P: Exames na medida de segurança
+K: medida de segurança; exame criminológico
+
+@LEP 175
+I: Ao fim do prazo mínimo da medida, verifica-se a cessação da periculosidade: a administração envia relatório com laudo psiquiátrico até 1 mês antes, MP e defesa são ouvidos em 3 dias cada, o juiz nomeia curador se necessário, pode determinar diligências e decide em 5 dias.
+P: Exame ao fim do prazo mínimo || Relatório e laudo psiquiátrico || Contraditório e decisão em 5 dias
+K: medida de segurança; cessação da periculosidade; laudo psiquiátrico
+
+@LEP 176
+I: A qualquer tempo, mesmo antes do fim do prazo mínimo, o juiz pode ordenar o exame de cessação da periculosidade, a pedido fundamentado do MP ou do interessado.
+P: Exame antecipado
+K: medida de segurança; exame antecipado
+
+@LEP 177
+I: Os exames sucessivos de periculosidade seguem o mesmo procedimento.
+P: Exames sucessivos
+K: medida de segurança; exames sucessivos
+
+@LEP 178
+I: Na desinternação ou liberação condicionais (CP, art. 97, § 3º), aplicam-se as condições do livramento condicional (arts. 132 e 133).
+P: Condições da desinternação
+K: desinternação; liberação condicional; medida de segurança
+
+@LEP 179
+I: Transitada em julgado a decisão, o juiz expede a ordem de desinternação ou liberação.
+P: Ordem de desinternação
+K: desinternação; medida de segurança
+
+@LEP 180
+I: A pena privativa de liberdade de até 2 anos pode ser convertida em restritiva de direitos se o condenado estiver no regime aberto, tiver cumprido 1/4 da pena e tiver antecedentes e personalidade favoráveis.
+P: Conversão para restritiva de direitos || Requisitos
+K: conversão; pena restritiva de direitos; regime aberto
+
+@LEP 181
+I: A pena restritiva de direitos é convertida em prisão nos casos do art. 45 do Código Penal (hoje art. 44, § 4º). A prestação de serviços converte-se se o condenado não for encontrado, faltar, recusar o serviço, cometer falta grave ou for condenado a prisão não suspensa; a limitação de fim de semana e a interdição de direitos têm hipóteses semelhantes.
+P: Hipóteses de conversão em prisão || Prestação de serviços, limitação e interdição
+K: conversão; pena restritiva de direitos; descumprimento
+
+@LEP 182
+I: O artigo, que previa a conversão da multa em detenção, foi revogado pela Lei nº 9.268/1996. A multa não paga não se converte em prisão; é cobrada como dívida de valor (CP, art. 51).
+P: Revogação pela Lei nº 9.268/1996 || Multa não se converte em prisão
+K: pena de multa; conversão; revogação
+
+@LEP 183
+I: Se sobrevier doença ou perturbação mental durante a pena, o juiz pode substituí-la por medida de segurança, de ofício ou a pedido do MP, da Defensoria ou da administração. A medida substitutiva não pode durar além do tempo restante da pena (entendimento do STJ).
+P: Substituição da pena por medida de segurança || Limite ao restante da pena
+K: medida de segurança; doença mental; substituição
+
+@LEP 184
+I: O tratamento ambulatorial pode ser convertido em internação se o agente se mostrar incompatível com ele, com prazo mínimo de 1 ano.
+P: Conversão em internação || Prazo mínimo de 1 ano
+K: tratamento ambulatorial; internação; conversão
+
+@LEP 185
+I: Há excesso ou desvio de execução quando algum ato ultrapassa os limites da sentença, da lei ou dos regulamentos.
+P: Conceito de excesso ou desvio
+K: excesso de execução; desvio de execução
+
+@LEP 186
+I: Podem suscitar o incidente de excesso ou desvio o MP, o Conselho Penitenciário, o sentenciado e os demais órgãos da execução, como a Defensoria.
+P: Legitimados para o incidente
+K: excesso de execução; incidente; legitimidade
+
+@LEP 187
+I: Concedida a anistia, o juiz declara extinta a punibilidade, de ofício ou a pedido do interessado, do MP, da administração ou do Conselho Penitenciário.
+P: Extinção da punibilidade pela anistia
+K: anistia; extinção da punibilidade
+
+@LEP 188
+I: O indulto individual (graça) pode ser pedido pelo condenado, pelo MP, pelo Conselho Penitenciário ou pela administração.
+P: Legitimidade para pedir indulto individual
+K: indulto individual; graça
+
+@LEP 189
+I: A petição de indulto vai ao Conselho Penitenciário para parecer e depois ao Ministério da Justiça.
+P: Tramitação do pedido
+K: indulto; Conselho Penitenciário; Ministério da Justiça
+
+@LEP 190
+I: O Conselho Penitenciário examina os autos e o prontuário, faz diligências e emite relatório sobre o crime, a sentença, os antecedentes e a conduta na prisão, com parecer sobre o mérito.
+P: Relatório e parecer do Conselho
+K: indulto; parecer; Conselho Penitenciário
+
+@LEP 191
+I: Processada no Ministério da Justiça, a petição vai a despacho do Presidente da República (CF, art. 84, XII).
+P: Decisão do Presidente da República
+K: indulto; Presidente da República
+
+@LEP 192
+I: Concedido o indulto, o juiz declara extinta a pena ou ajusta a execução no caso de comutação.
+P: Efeitos do indulto e da comutação
+K: indulto; comutação; extinção da pena
+
+@LEP 193
+I: No indulto coletivo, o juiz aplica o decreto de ofício ou a pedido do interessado, do MP, do Conselho ou da administração.
+P: Aplicação do indulto coletivo
+K: indulto coletivo; decreto presidencial
+
+@LEP 194
+I: Os procedimentos da LEP são judiciais e correm perante o juízo da execução.
+P: Jurisdicionalização da execução
+K: procedimento judicial; juízo da execução
+
+@LEP 195
+I: O procedimento começa de ofício ou a pedido do MP, do interessado, de seu representante, cônjuge ou parente, do Conselho Penitenciário ou da administração.
+P: Iniciativa do procedimento
+K: procedimento judicial; legitimidade
+
+@LEP 196
+I: Autuado o pedido, o condenado e o MP são ouvidos em 3 dias; sem necessidade de prova, o juiz decide em igual prazo; se houver prova pericial ou oral, decide após produzi-la.
+P: Contraditório em 3 dias || Decisão de plano ou após a prova
+K: procedimento judicial; contraditório; prazo
+
+@LEP 197
+I: Das decisões do juiz da execução cabe agravo em execução, sem efeito suspensivo, no prazo de 5 dias (Súmula 700 do STF), com o rito do recurso em sentido estrito.
+P: Agravo em execução || Sem efeito suspensivo || Prazo de 5 dias (Súmula 700 do STF)
+K: agravo em execução; recurso; Súmula 700 do STF
+
+@LEP 198
+I: É proibido aos integrantes dos órgãos da execução e aos servidores divulgar fatos que perturbem a segurança e a disciplina ou exponham o preso a notoriedade inconveniente.
+P: Vedação de divulgação || Proteção da imagem do preso
+K: sigilo; imagem do preso; servidores
+
+@LEP 199
+I: O uso de algemas é disciplinado por decreto federal (Decreto nº 8.858/2016) e pela Súmula Vinculante 11 do STF, que só o admite em caso de resistência, risco de fuga ou perigo, justificado por escrito.
+P: Regulamentação por decreto || Súmula Vinculante 11
+K: algemas; Súmula Vinculante 11; Decreto nº 8.858/2016
+
+@LEP 200
+I: O condenado por crime político não é obrigado a trabalhar.
+P: Crime político e trabalho facultativo
+K: crime político; trabalho do preso
+
+@LEP 201
+I: Na falta de estabelecimento adequado, a prisão civil e a administrativa são cumpridas em seção especial da cadeia pública.
+P: Prisão civil e administrativa em seção especial
+K: prisão civil; prisão administrativa; cadeia pública
+
+@LEP 202
+I: Cumprida ou extinta a pena, a condenação não consta de folha corrida, atestados ou certidões, salvo para instruir processo por nova infração ou em casos previstos em lei.
+P: Sigilo da condenação cumprida
+K: sigilo; antecedentes; certidão criminal
+
+@LEP 203
+I: A lei previa prazo de 6 meses para a edição de normas complementares e para os Estados planejarem estabelecimentos, prorrogável pelo CNPCP, sob pena de suspensão da ajuda financeira da União.
+P: Regulamentação e adaptação dos estabelecimentos || Sanção aos Estados
+K: disposições transitórias; regulamentação; estabelecimentos penais
+
+@LEP 204
+I: A LEP entrou em vigor junto com a reforma da Parte Geral do Código Penal (Lei nº 7.209/1984), em 13 de janeiro de 1985, revogando a Lei nº 3.274/1957.
+P: Vigência simultânea com a reforma do CP || Revogação da Lei nº 3.274/1957
+K: vigência; Lei nº 7.209/1984

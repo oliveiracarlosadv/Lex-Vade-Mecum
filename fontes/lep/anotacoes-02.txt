@@ -1,0 +1,209 @@
+@LEP 41-B
+I: Incluído pela Lei nº 15.358/2026, o artigo trata do monitoramento entre advogado e cliente autorizado judicialmente por fundadas razões de conluio criminoso. O conteúdo é analisado só pelo juízo de controle da legalidade da investigação, diferente do juízo que instrui e julga. Esse juízo decide sobre a licitude, a pertinência e a necessidade da prova e manda inutilizar o que não interessar. O conteúdo indeferido ou ilícito não pode chegar ao juízo da instrução.
+P: Monitoramento da comunicação advogado-cliente só com autorização judicial por conluio || Análise por juízo distinto do julgador || Inutilização do que não interessa à prova || Vedação de acesso do juízo da instrução ao conteúdo ilícito
+K: sigilo profissional; advogado; monitoramento; juízo de controle; prova ilícita; Lei nº 15.358/2026
+
+@LEP 42
+I: Os direitos da Seção aplicam-se, no que couber, ao preso provisório e a quem cumpre medida de segurança.
+P: Extensão dos direitos ao preso provisório e ao internado
+K: preso provisório; medida de segurança; direitos do preso
+
+@LEP 43
+I: A família ou os dependentes do internado ou de quem está em tratamento ambulatorial podem contratar médico de confiança para acompanhar o tratamento. Divergências entre o médico oficial e o particular são resolvidas pelo juiz da execução.
+P: Médico de confiança || Divergência resolvida pelo juiz
+K: médico particular; internado; tratamento ambulatorial; medida de segurança
+
+@LEP 44
+I: A disciplina consiste na colaboração com a ordem, na obediência às autoridades e no desempenho do trabalho. Estão sujeitos a ela o condenado à pena privativa de liberdade ou restritiva de direitos e o preso provisório.
+P: Conceito de disciplina || Sujeitos à disciplina
+K: disciplina; preso provisório; pena restritiva de direitos
+
+@LEP 45
+I: Não há falta nem sanção disciplinar sem previsão legal ou regulamentar anterior. As sanções não podem pôr em perigo a integridade física e moral do preso; são proibidas a cela escura e as sanções coletivas.
+P: Legalidade das faltas e sanções || Vedação de cela escura || Vedação de sanções coletivas
+K: legalidade; sanção disciplinar; cela escura; sanção coletiva
+
+@LEP 46
+I: No início da execução ou da prisão, o condenado ou denunciado deve ser informado das normas disciplinares.
+P: Ciência das normas disciplinares
+K: normas disciplinares; ciência; início da execução
+
+@LEP 47
+I: Na pena privativa de liberdade, o poder disciplinar é exercido pela autoridade administrativa, conforme os regulamentos.
+P: Poder disciplinar da administração
+K: poder disciplinar; autoridade administrativa
+
+@LEP 48
+I: Nas penas restritivas de direitos, o poder disciplinar cabe à autoridade administrativa a que o condenado estiver sujeito; nas faltas graves, ela representa ao juiz da execução para regressão, revogação de saídas, perda de dias remidos e conversão da pena.
+P: Poder disciplinar nas restritivas de direitos || Representação ao juiz nas faltas graves
+K: poder disciplinar; pena restritiva de direitos; falta grave; representação
+
+@LEP 49
+I: As faltas são leves, médias e graves. A legislação local define as leves e médias e suas sanções; as graves estão na LEP. A tentativa é punida como a falta consumada.
+P: Classificação das faltas || Leves e médias definidas localmente || Tentativa punida como consumada
+K: faltas disciplinares; falta leve; falta média; falta grave; tentativa
+
+@LEP 50
+I: Comete falta grave o condenado à pena privativa de liberdade que incita ou participa de motim, foge, tem instrumento capaz de ferir, provoca acidente de trabalho, descumpre condições do regime aberto, desobedece ou não trabalha, tem ou usa celular ou rádio, recusa a coleta de DNA ou se aproxima da vítima de violência doméstica quando houver medidas protetivas (Lei nº 15.410/2026). Aplica-se ao preso provisório no que couber.
+P: Rol taxativo de faltas graves || Celular e rádio || Recusa da coleta de DNA || Aproximação da vítima de violência doméstica
+K: falta grave; fuga; celular; perfil genético; violência doméstica; Lei nº 15.410/2026
+
+@LEP 51
+I: Comete falta grave o condenado à pena restritiva de direitos que descumpre ou retarda sem justificativa a obrigação imposta ou desobedece aos deveres de obediência e trabalho.
+P: Faltas graves nas restritivas de direitos
+K: falta grave; pena restritiva de direitos; descumprimento
+
+@LEP 52
+I: O crime doloso praticado pelo preso é falta grave e, se subverter a ordem interna, sujeita-o ao regime disciplinar diferenciado (RDD). O RDD dura até 2 anos (renovável por nova falta), com cela individual, visitas quinzenais sem contato físico e gravadas com autorização judicial, banho de sol de 2 horas e correspondência fiscalizada. Também se aplica a presos de alto risco, suspeitos de integrar organização criminosa ou milícia e ao autor de violência doméstica que ameace a vítima; líderes de facção ou com atuação em 2 ou mais Estados cumprem o RDD em presídio federal, com prorrogações de 1 ano. O pedido pode partir do diretor, de outra autoridade administrativa ou do Ministério Público (Lei nº 15.407/2026).
+P: Crime doloso como falta grave || Características do RDD || Hipóteses sem falta grave (alto risco e organização criminosa) || RDD federal para líderes || Visitas gravadas (Lei nº 15.358/2026) || Pedido do Ministério Público (Lei nº 15.407/2026)
+K: regime disciplinar diferenciado; RDD; organização criminosa; milícia; presídio federal; violência doméstica
+
+@LEP 53
+I: As sanções disciplinares são: advertência verbal, repreensão, suspensão ou restrição de direitos, isolamento na própria cela ou em local adequado e inclusão no RDD. A remissão ao "artigo 41, parágrafo único" corresponde hoje ao § 1º do art. 41.
+P: Rol das sanções disciplinares || Isolamento || Inclusão no RDD
+K: sanções disciplinares; advertência; repreensão; isolamento; RDD
+
+@LEP 54
+I: As sanções de advertência a isolamento são aplicadas por ato motivado do diretor; a inclusão no RDD depende de decisão fundamentada do juiz, a pedido circunstanciado da autoridade administrativa. O juiz decide liminarmente e profere decisão final em até 15 dias, após ouvir o MP e a defesa, cuja falta de manifestação não impede a decisão (Lei nº 15.407/2026).
+P: Competência do diretor e do juiz || Prazo de 15 dias para a decisão sobre o RDD || Ausência de manifestação não impede a decisão
+K: RDD; competência; decisão judicial; prazo; Lei nº 15.407/2026
+
+@LEP 55
+I: As recompensas reconhecem o bom comportamento, a colaboração com a disciplina e a dedicação ao trabalho.
+P: Finalidade das recompensas
+K: recompensas; bom comportamento
+
+@LEP 56
+I: As recompensas são o elogio e a concessão de regalias, cuja natureza e forma são definidas pela legislação local e pelos regulamentos.
+P: Elogio e regalias
+K: recompensas; elogio; regalias
+
+@LEP 57
+I: Na aplicação das sanções consideram-se a natureza, os motivos, as circunstâncias e as consequências do fato, a pessoa do faltoso e seu tempo de prisão. Nas faltas graves aplicam-se a suspensão ou restrição de direitos, o isolamento ou o RDD.
+P: Critérios de dosimetria da sanção || Sanções das faltas graves
+K: aplicação das sanções; falta grave; proporcionalidade
+
+@LEP 58
+I: Isolamento, suspensão e restrição de direitos não podem passar de 30 dias, salvo no RDD. O isolamento é sempre comunicado ao juiz da execução.
+P: Limite de 30 dias || Comunicação do isolamento ao juiz
+K: isolamento; prazo; juiz da execução
+
+@LEP 59
+I: Praticada a falta, instaura-se procedimento para apurá-la, com direito de defesa, e a decisão deve ser motivada. Pela Súmula 533 do STJ, o reconhecimento de falta no procedimento administrativo exige defesa por advogado constituído ou defensor público. O STF (Tema 941) admitiu que a oitiva do preso em audiência judicial de justificação, com defensor e MP, supra a falta do procedimento administrativo.
+P: Procedimento disciplinar obrigatório || Direito de defesa || Decisão motivada
+K: procedimento disciplinar; PAD; ampla defesa; Súmula 533 do STJ
+
+@LEP 60
+I: A autoridade administrativa pode decretar isolamento preventivo por até 10 dias; a inclusão preventiva no RDD depende de decisão do juiz. O tempo preventivo é descontado da sanção final.
+P: Isolamento preventivo de até 10 dias || RDD preventivo por decisão judicial || Detração da sanção
+K: isolamento preventivo; RDD cautelar; procedimento disciplinar
+
+@LEP 61
+I: São órgãos da execução penal: o Conselho Nacional de Política Criminal e Penitenciária, o Juízo da Execução, o Ministério Público, o Conselho Penitenciário, os Departamentos Penitenciários, o Patronato, o Conselho da Comunidade e a Defensoria Pública.
+P: Rol dos órgãos da execução penal
+K: órgãos da execução penal; Defensoria Pública; Conselho da Comunidade
+
+@LEP 62
+I: O Conselho Nacional de Política Criminal e Penitenciária (CNPCP) tem sede em Brasília e é subordinado ao Ministério da Justiça.
+P: Sede e subordinação do CNPCP
+K: CNPCP; Ministério da Justiça
+
+@LEP 63
+I: O CNPCP tem 13 membros designados pelo Ministério da Justiça, entre profissionais do Direito Penal e áreas afins e representantes da comunidade e dos ministérios sociais, com mandato de 2 anos e renovação de 1/3 por ano.
+P: Composição do CNPCP || Mandato de 2 anos
+K: CNPCP; composição; mandato
+
+@LEP 64
+I: Cabe ao CNPCP propor diretrizes da política criminal, avaliar o sistema, estimular pesquisas, formar servidores, fixar regras de arquitetura prisional e de estatística, inspecionar estabelecimentos e representar pela instauração de procedimentos ou interdição de estabelecimentos.
+P: Diretrizes da política criminal || Regras de arquitetura prisional || Inspeção e representação
+K: CNPCP; política criminal; inspeção; interdição
+
+@LEP 65
+I: A execução cabe ao juiz indicado pela lei local de organização judiciária e, na falta, ao juiz da sentença.
+P: Competência do juízo da execução
+K: juízo da execução; competência; organização judiciária
+
+@LEP 66
+I: O juiz da execução aplica a lei posterior mais benéfica, declara extinta a punibilidade e decide sobre unificação de penas, progressão e regressão, detração, remição, sursis, livramento condicional e incidentes. Também autoriza saídas temporárias, fiscaliza as penas, determina conversões e medidas de segurança, autoriza monitoração eletrônica, inspeciona mensalmente os estabelecimentos, pode interditá-los, compõe o Conselho da Comunidade e emite anualmente o atestado de pena a cumprir.
+P: Aplicação da lei mais benéfica (Súmula 611 do STF) || Decisões sobre benefícios e incidentes || Inspeção e interdição de estabelecimentos || Atestado anual de pena
+K: juiz da execução; competência; progressão; remição; interdição; atestado de pena
+
+@LEP 67
+I: O Ministério Público fiscaliza a execução da pena e da medida de segurança, atuando no processo executivo e nos incidentes.
+P: Fiscalização pelo Ministério Público
+K: Ministério Público; fiscalização; execução penal
+
+@LEP 68
+I: O MP fiscaliza as guias de recolhimento, requer providências, incidentes de excesso ou desvio, medidas de segurança, conversões, progressão e regressão e revogação de benefícios, interpõe recursos e visita mensalmente os estabelecimentos.
+P: Atribuições do MP na execução || Visita mensal aos estabelecimentos
+K: Ministério Público; guia de recolhimento; recursos; visita mensal
+
+@LEP 69
+I: O Conselho Penitenciário é órgão consultivo e fiscalizador, com membros nomeados pelo Governador entre profissionais da área e representantes da comunidade, para mandato de 4 anos.
+P: Natureza consultiva e fiscalizadora || Composição e mandato de 4 anos
+K: Conselho Penitenciário; composição; mandato
+
+@LEP 70
+I: O Conselho Penitenciário opina sobre indulto e comutação (salvo indulto por estado de saúde), inspeciona estabelecimentos, apresenta relatório anual ao CNPCP e supervisiona patronatos e assistência aos egressos. Desde a Lei nº 10.792/2003 o inciso I não menciona o livramento condicional, embora o art. 131 ainda preveja a oitiva do Conselho; a jurisprudência tem considerado esse parecer dispensável.
+P: Parecer sobre indulto e comutação || Inspeção || Supervisão de patronatos
+K: Conselho Penitenciário; indulto; comutação; parecer
+
+@LEP 71
+I: O Departamento Penitenciário Nacional (Depen, hoje Secretaria Nacional de Políticas Penais), subordinado ao Ministério da Justiça, executa a Política Penitenciária Nacional e apoia o CNPCP.
+P: Órgão executivo da política penitenciária
+K: Departamento Penitenciário Nacional; Depen; política penitenciária
+
+@LEP 72
+I: O Depen acompanha a aplicação da LEP, inspeciona estabelecimentos, presta assistência técnica e convênios aos Estados, mantém cadastro nacional de vagas e acompanha mulheres beneficiadas pela progressão especial, coordenando também os presídios federais.
+P: Atribuições do Depen || Cadastro nacional de vagas || Acompanhamento da progressão especial da mulher || Presídios federais
+K: Depen; cadastro de vagas; progressão especial; presídios federais
+
+@LEP 73
+I: A legislação local pode criar departamento penitenciário ou órgão similar.
+P: Órgão penitenciário estadual
+K: departamento penitenciário local
+
+@LEP 74
+I: O departamento penitenciário local supervisiona e coordena os estabelecimentos da unidade federativa e acompanha as mulheres beneficiadas pela progressão especial, informando o órgão nacional.
+P: Supervisão dos estabelecimentos estaduais || Acompanhamento da progressão especial
+K: departamento penitenciário local; supervisão
+
+@LEP 75
+I: O diretor do estabelecimento deve ter diploma superior em Direito, Psicologia, Ciências Sociais, Pedagogia ou Serviço Social, experiência administrativa e idoneidade moral, residir no estabelecimento ou perto e trabalhar em tempo integral.
+P: Requisitos do diretor || Residência e tempo integral
+K: diretor de estabelecimento; requisitos
+
+@LEP 76
+I: O quadro de pessoal penitenciário é organizado em categorias funcionais conforme as necessidades do serviço.
+P: Organização do quadro de pessoal
+K: pessoal penitenciário; carreira
+
+@LEP 77
+I: A escolha do pessoal considera vocação, preparação e antecedentes; ingresso e progressão dependem de cursos de formação e reciclagem. Nos estabelecimentos femininos só trabalha pessoal feminino, salvo técnicos especializados.
+P: Formação do pessoal penitenciário || Pessoal feminino nos presídios femininos
+K: pessoal penitenciário; formação; estabelecimento feminino
+
+@LEP 78
+I: O Patronato, público ou particular, presta assistência aos albergados e aos egressos.
+P: Assistência a albergados e egressos
+K: Patronato; egresso; albergado
+
+@LEP 79
+I: O Patronato também orienta condenados a penas restritivas de direitos, fiscaliza prestação de serviços e limitação de fim de semana e colabora na fiscalização do sursis e do livramento condicional.
+P: Fiscalização das penas alternativas || Colaboração no sursis e no livramento
+K: Patronato; penas restritivas de direitos; fiscalização
+
+@LEP 80
+I: Cada comarca tem um Conselho da Comunidade, composto no mínimo por representante de associação comercial ou industrial, advogado indicado pela OAB, defensor público e assistente social; na falta, o juiz escolhe os integrantes.
+P: Conselho da Comunidade em cada comarca || Composição mínima
+K: Conselho da Comunidade; composição; OAB; Defensoria Pública
+
+@LEP 81
+I: O Conselho da Comunidade visita mensalmente os estabelecimentos, entrevista presos, apresenta relatórios mensais ao juiz e ao Conselho Penitenciário e busca recursos para a assistência.
+P: Visitas e relatórios mensais || Obtenção de recursos
+K: Conselho da Comunidade; visita; relatório
+
+@LEP 81-A
+I: A Defensoria Pública zela pela regular execução da pena e da medida de segurança, atuando no processo e nos incidentes, em todos os graus, de forma individual e coletiva.
+P: Atuação da Defensoria na execução || Defesa individual e coletiva
+K: Defensoria Pública; execução penal; tutela coletiva

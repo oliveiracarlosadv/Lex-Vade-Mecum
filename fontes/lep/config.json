@@ -1,0 +1,15 @@
+{
+ "nome": "Lei de Execução Penal — LEP (Lei nº 7.210/1984)",
+ "url": "https://www.planalto.gov.br/ccivil_03/leis/l7210.htm",
+ "saida": "leis/lep/lep-completa.md",
+ "minimo_artigos": 200,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "LEP",
+   "start": "TÍTULO I",
+   "end": "Brasília, 11 de julho de 1984",
+   "self_name": "desta Lei"
+  }
+ ]
+}
