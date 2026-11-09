@@ -127,6 +127,27 @@ python3 ferramentas/atualizar.py --lei ced-oab --texto texto.txt
 
 **Esta norma não entra na conferência automática** (a tarefa agendada só cobre Planalto, TST e TRT8, e o workflow da nuvem só as NR). Deve ser conferida com o PDF da OAB quando houver nova resolução do Conselho Federal.
 
+## Código Tributário de Belém (`fontes/ctm-belem/`, `"tipo": "legisweb"`)
+
+Primeira norma municipal do acervo. O texto vem da compilação do LegisWeb (link em `config.json`), indicada pelo curador, e não do Diário Oficial do Município. O download direto da página funciona; para remontar o texto:
+
+```bash
+curl -sL -o pagina.html "<url do config.json>"
+python3 -I ferramentas/extrair-legisweb.py pagina.html > texto.txt
+python3 ferramentas/atualizar.py --lei ctm-belem --texto texto.txt
+```
+
+`extrair-legisweb.py` lê só o bloco `legislacao-completa` da página e:
+
+- converte o texto marcado como revogado (classe `revogado`) em ⟦ ⟧, seguido da nota "(Revogado pela ...)" que o LegisWeb põe na linha anterior; o `atualizar.py` transforma ⟦ ⟧ em tachado;
+- leva para o fim da linha seguinte as notas que anunciam o item ("(Artigo acrescentado pela Lei ...):") e as "Nota Legisweb: ...";
+- separa número e nome dos cabeçalhos que vêm na mesma linha ("TÍTULO I - DAS DISPOSIÇÕES GERAIS", "Livro SEGUNDO - ...") e passa "Livro" a "LIVRO";
+- transforma cada linha das tabelas anexas numa linha com as células separadas por " | ".
+
+O anexo (Tabelas II a VI) é uma parte com `"unidade": "anexo"` que vai até o fim do texto: em `lexbuild.py`, o fim `"$FIM"` significa "até a última linha".
+
+**Esta norma não entra na conferência automática** (a tarefa agendada só cobre Planalto, TST e TRT8, e o workflow da nuvem só as NR). Deve ser conferida de novo no LegisWeb, ou no Diário Oficial do Município, quando houver lei municipal que altere o Código.
+
 ## Normas Regulamentadoras (`fontes/nr-01/`, `"tipo": "pdf-nr"`)
 
 As NR são publicadas pelo Ministério do Trabalho e Emprego em PDF no portal gov.br, que aceita download direto. É preciso ter o `pdftotext` (pacote poppler, `brew install poppler`).
