@@ -1,0 +1,154 @@
+@CTMB 228
+I: O recurso voluntário é interposto em 30 dias da ciência da decisão, por meio da autoridade julgadora de primeira instância. O STF veda exigir depósito prévio ou arrolamento de bens para recorrer (Súmula Vinculante 21).
+P: Prazo de 30 dias || Interposição perante o julgador de primeira instância || Súmula Vinculante 21
+K: recurso voluntário; prazo; depósito recursal
+
+@CTMB 229
+I: Os recursos podem atacar só parte da decisão; a parte não recorrida pode ser inscrita em dívida ativa de imediato, em processo separado se necessário.
+P: Recurso parcial || Cobrança imediata da parte não recorrida
+K: recurso parcial; dívida ativa
+
+@CTMB 230
+I: Pela redação da Lei Complementar nº 9.154/2015, os recursos voluntário e de ofício são julgados pelo Tribunal de Recursos Tributários do Município de Belém.
+P: Tribunal de Recursos Tributários como segunda instância
+K: Tribunal de Recursos Tributários; segunda instância
+
+@CTMB 231
+I: O Tribunal de Recursos Tributários tem 8 conselheiros designados pelo Prefeito, com mandato de 2 anos e uma recondução, além de suplentes.
+P: Oito conselheiros || Mandato de 2 anos com uma recondução || Suplentes
+K: Tribunal de Recursos Tributários; conselheiros; mandato
+
+@CTMB 232
+I: Quatro conselheiros são escolhidos pelo Prefeito entre Auditores Fiscais da Receita Municipal.
+P: Representação do Fisco
+K: Tribunal de Recursos Tributários; auditores fiscais; composição paritária
+
+@CTMB 233
+I: Os outros quatro conselheiros são indicados em conjunto pela FIEPA, Fecomércio-PA, Associação Comercial do Pará e federação das micro e pequenas empresas, formando composição paritária. Um Procurador do Município atua junto ao Tribunal.
+P: Representação dos contribuintes || Procurador do Município junto ao Tribunal
+K: Tribunal de Recursos Tributários; composição paritária; entidades empresariais
+
+@CTMB 234
+I: O Presidente do Tribunal é escolhido pelo Prefeito entre os conselheiros servidores.
+P: Presidência por conselheiro do Fisco
+K: Tribunal de Recursos Tributários; presidente
+
+@CTMB 235
+I: O Regimento Interno, baixado por decreto, regula competência, funcionamento e tramitação no Tribunal.
+P: Regimento Interno por decreto
+K: Tribunal de Recursos Tributários; regimento interno
+
+@CTMB 236
+I: As decisões do Tribunal são acórdãos com ementa, publicados no Diário Oficial; as sessões são públicas, inclusive as extraordinárias.
+P: Acórdão com ementa || Sessões públicas
+K: acórdão; publicidade; sessões
+
+@CTMB 237
+I: Das decisões finais do Tribunal não cabe recurso administrativo, salvo pedido de reconsideração em matéria exclusivamente de direito.
+P: Irrecorribilidade || Reconsideração em matéria de direito
+K: decisão definitiva; reconsideração
+
+@CTMB 238
+I: Quando entender cabível a equidade, o Tribunal a propõe ao Prefeito, justificando que não contraria lei expressa. A equidade não pode dispensar tributo devido (CTN, art. 108, § 2º).
+P: Proposta de equidade ao Prefeito || Limite do CTN
+K: equidade; CTN art. 108
+
+@CTMB 239
+I: Transitada em julgado a decisão condenatória, intima-se o contribuinte e o fiador para pagar em 30 dias; sem pagamento, vendem-se os títulos de garantia, devolvendo o excesso ou cobrando o saldo; esgotada a cobrança amigável, inscreve-se em dívida ativa.
+P: Pagamento em 30 dias || Execução das garantias || Inscrição em dívida ativa
+K: execução da decisão; garantia; dívida ativa
+
+@CTMB 240
+I: A consulta sobre matéria tributária pode ser feita pelo sujeito passivo e por outras pessoas, conforme o regulamento.
+P: Direito de consulta
+K: consulta tributária
+
+@CTMB 241
+I: A consulta é apresentada ao órgão que administra o tributo.
+P: Órgão competente
+K: consulta tributária; competência
+
+@CTMB 242
+I: A consulta trata só da situação do consulente, de forma objetiva, indicando o fato e se o fato gerador já ocorreu, com a data.
+P: Requisitos da consulta
+K: consulta tributária; requisitos
+
+@CTMB 243
+I: A Procuradoria Fiscal da Secretaria de Finanças decide a consulta em 30 dias.
+P: Decisão em 30 dias pela Procuradoria Fiscal
+K: consulta tributária; Procuradoria Fiscal; prazo
+
+@CTMB 244
+I: Da decisão da consulta cabe recurso ao "Conselho de Contribuintes" em 30 dias. O texto mantém o nome antigo; hoje o órgão colegiado é o Tribunal de Recursos Tributários (arts. 230 a 238).
+P: Recurso em 30 dias || Nome antigo do órgão de recurso
+K: consulta tributária; recurso; Conselho de Contribuintes
+
+@CTMB 245
+I: A consulta é indeferida de plano e sem efeitos se feita após o início do procedimento fiscal, se não atender aos requisitos ou se for protelatória. A remissão ao art. 241 parece dever-se ao art. 242, que traz os requisitos.
+P: Hipóteses de ineficácia da consulta
+K: consulta tributária; indeferimento
+
+@CTMB 246
+I: Enquanto a consulta não for respondida, não se inicia procedimento fiscal sobre a matéria consultada (CTN, art. 161, § 2º).
+P: Proteção do consulente
+K: consulta tributária; efeitos; procedimento fiscal
+
+@CTMB 247
+I: Decidida a consulta, o contribuinte deve seguir a orientação em 30 dias da intimação.
+P: Prazo de 30 dias para cumprir a resposta
+K: consulta tributária; cumprimento
+
+@CTMB 248
+I: O processo de reconhecimento de isenção ou imunidade segue, no que couber, as regras da consulta.
+P: Aplicação ao reconhecimento de isenção e imunidade
+K: isenção; imunidade; processo
+
+@CTMB 249
+I: A interpretação e aplicação da legislação tributária devem ser definidas, sempre que possível, em instruções normativas da Secretaria de Finanças (CTN, art. 100).
+P: Instruções normativas
+K: instrução normativa; normas complementares; CTN art. 100
+
+@CTMB 250
+I: Órgãos municipais em dúvida sobre a legislação tributária devem consultar as instruções normativas ou a Procuradoria Fiscal.
+P: Orientação aos órgãos municipais
+K: Procuradoria Fiscal; orientação; instruções normativas
+
+@CTMB 251
+I: As decisões de primeira instância seguem as súmulas do "Conselho de Recursos Fiscais" (denominação antiga do órgão de segunda instância), e o julgador pode propor sua revisão fundamentadamente.
+P: Vinculação às súmulas || Proposta de revisão
+K: súmulas administrativas; jurisprudência administrativa
+
+@CTMB 252
+I: Em 1º de janeiro de 1978 foram revogadas todas as isenções, exonerações e reduções de tributos municipais, salvo as concedidas por prazo certo e sob condições (CTN, art. 178); toda isenção passa a ser regulada por este Código.
+P: Revogação geral das isenções anteriores || Ressalva das onerosas por prazo certo
+K: isenção; revogação; CTN art. 178
+
+@CTMB 253
+I: A Secretaria de Finanças deveria revisar, até 31 de dezembro de 1980, todas as isenções e imunidades anteriores, organizando cadastros. Regra transitória já exaurida.
+P: Revisão das isenções até 1980 || Regra transitória
+K: isenção; imunidade; disposição transitória
+
+@CTMB 254
+I: Salvo disposição expressa, a isenção não pode ser por prazo indeterminado ou superior a 5 anos, sem especificar o tributo, para contribuição de melhoria ou para tributos posteriores. Só a lei concede favor fiscal, por interesse público, a quem não tenha débito com o Município (CTN, arts. 176 e 177; CF, art. 150, § 6º).
+P: Limites da isenção || Exigência de lei e regularidade fiscal
+K: isenção; benefício fiscal; CTN art. 176
+
+@CTMB 255
+I: O artigo manda arredondar frações em cruzeiros no valor venal e na cobrança, regra ligada à moeda da época e sem aplicação prática hoje.
+P: Arredondamento de frações || Referência a moeda extinta
+K: arredondamento; cruzeiro; valor venal
+
+@CTMB 256
+I: A lei aplica-se aos processos ainda não definitivamente julgados na via administrativa. Normas que reduzem penalidades retroagem a atos não definitivamente julgados (CTN, art. 106, II).
+P: Aplicação aos processos pendentes || Retroatividade benéfica
+K: aplicação da lei no tempo; processos pendentes; CTN art. 106
+
+@CTMB 257
+I: A lei entrou em vigor na publicação, revogando as disposições em contrário.
+P: Vigência imediata
+K: vigência; cláusula revogatória
+
+@ANX anexo
+I: O anexo, como publicado na fonte utilizada, traz as Tabelas II (ISS fixo e alíquotas por natureza da atividade), III (Taxa de Licença em múltiplos da Unidade Fiscal do Município), IV (Taxa de Expediente), V (Taxa de Serviços Urbanos) e VI (Taxa de Serviços Diversos, como numeração de prédios, apreensão, alinhamento e cemitérios). A Tabela I (alíquotas do IPTU, citada no art. 12) não consta da fonte. Muitos valores e alíquotas foram depois alterados pelos próprios artigos do Código (por exemplo, a alíquota geral de 5% do ISS do art. 32 e o ISS fixo do autônomo do art. 33) e por leis e decretos posteriores, de modo que as tabelas devem ser conferidas com a legislação municipal vigente.
+P: Tabelas II a VI || Ausência da Tabela I na fonte || Valores alterados por leis posteriores
+K: anexo; tabelas; Taxa de Licença; Taxa de Expediente; Unidade Fiscal do Município

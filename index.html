@@ -623,6 +623,7 @@ const CLASSIFICACAO = {
   'ced-oab': { genero: 'codigos' }, // resolução do CFOAB, mas é um código: fica junto dos códigos, como nos vade mecuns
   'tst-precedentes': { genero: 'jurisprudencia' },
   'trt8-precedentes': { genero: 'jurisprudencia' },
+  'ctm-belem': { esfera: 'municipal', uf: 'PA', municipio: 'Belém', genero: 'codigos' },
   // exemplos: 'constituicao-para': { esfera: 'estadual', uf: 'Pará', genero: 'constituicao' },
   //           'lom-belem': { esfera: 'municipal', uf: 'PA', municipio: 'Belém', genero: 'legislacao' },
 };
@@ -1905,7 +1906,7 @@ function trecho(u, casa, tam = 260) {
   const ja = janela(analisePlana(u), casa, tam); if (ja) return '<i class="na-analise">Na análise:</i> ' + ja;
   return esc(plano.slice(0, tam)) + (plano.length > tam ? '…' : '');
 }
-const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'codigo-eleitoral': 'CE', 'codigo-penal': 'CP', cpp: 'CPP', lep: 'LEP', 'ced-oab': 'CED', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
+const SIGLAS = { 'constituicao-federal': 'CF/88', cpc: 'CPC', lindb: 'LINDB', 'estatuto-oab': 'Estatuto OAB', clt: 'CLT', 'codigo-civil': 'CC', ctn: 'CTN', 'nr-01': 'NR-01', 'lei-8213': 'Lei 8.213', cdc: 'CDC', ctb: 'CTB', 'codigo-eleitoral': 'CE', 'codigo-penal': 'CP', cpp: 'CPP', lep: 'LEP', 'ced-oab': 'CED', 'ctm-belem': 'CTM Belém', 'tst-precedentes': 'TST', 'trt8-precedentes': 'TRT8' };
 const siglaLei = (id) => SIGLAS[id] || ((leis.find((l) => l.id === id) || {}).nome || id).replace(/\s*\(.*$/, '').slice(0, 28);
 function idsEscopo(escopo) {
   return escopo !== 'todas' && atual && leis.some((l) => l.id === atual) ? [atual] : leis.map((l) => l.id);

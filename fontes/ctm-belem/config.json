@@ -1,0 +1,24 @@
+{
+ "nome": "Código Tributário e de Rendas do Município de Belém (Lei nº 7.056/1977)",
+ "tipo": "legisweb",
+ "url": "https://www.legisweb.com.br/legislacao/?id=173203",
+ "saida": "leis/ctm-belem/ctm-belem-completa.md",
+ "minimo_artigos": 250,
+ "parts": [
+  {
+   "id": "CTMB",
+   "start": "DISPOSIÇÃO PRELIMINAR",
+   "end": "GABINETE DO PREFEITO MUNICIPAL DE BELÉM",
+   "self_name": "deste Código"
+  },
+  {
+   "id": "ANX",
+   "start": "ANEXO TABELA II",
+   "end": "$FIM",
+   "unidade": "anexo",
+   "rotulo": "Anexo — Tabelas II a VI",
+   "root_name": "ANEXO — TABELAS II A VI",
+   "self_name": "deste Código"
+  }
+ ]
+}

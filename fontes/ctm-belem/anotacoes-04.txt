@@ -1,0 +1,249 @@
+@CTMB 94
+I: Restrições ou mudanças na licença não dispensam o pagamento da taxa nem dão direito à restituição do que já foi pago.
+P: Taxa devida mesmo com restrição da licença || Sem restituição
+K: Taxa de Licença; restituição; alteração da licença
+
+@CTMB 95
+I: Na renovação anual, a Taxa de Licença deve ser paga até 30 de abril.
+P: Prazo até 30 de abril
+K: Taxa de Licença; renovação; prazo
+
+@CTMB 96
+I: As infrações à Taxa de Licença são punidas com embargo do estabelecimento irregular e multas em Unidades Fiscais: 10 por dia por descumprir o edital de interdição, meia por não conservar o alvará, 5 por não comunicar venda ou encerramento em 30 dias, 100% da taxa por não renovar o alvará e 2 ou 5 por dia por funcionar em desacordo com o alvará.
+P: Embargo || Multas em Unidades Fiscais || Multa de 100% pela não renovação
+K: Taxa de Licença; infrações; multa; embargo; alvará
+
+@CTMB 97
+I: A licença pode ser cancelada a qualquer tempo se a atividade violar a legislação.
+P: Cancelamento da licença
+K: alvará; cancelamento; poder de polícia
+
+@CTMB 98
+I: A taxa de expediente é devida pela apresentação de documentos à Prefeitura e pela lavratura de atos, inscrições, guias, termos e contratos. O STF não admite taxa pela emissão de guia de pagamento de tributo, por não haver serviço específico prestado ao contribuinte (Tema 721).
+P: Fato gerador da taxa de expediente || Limite jurisprudencial à taxa sobre emissão de guias
+K: taxa de expediente; documentos; guias de recolhimento
+
+@CTMB 99
+I: Não pagam taxa de expediente os requerimentos e certidões para fins militares e eleitorais, os pedidos de servidores municipais e os documentos de pedidos de isenção. A Constituição garante certidões gratuitas para defesa de direitos (art. 5º, XXXIV, b).
+P: Não incidência || Direito constitucional de certidão
+K: taxa de expediente; isenção; certidões
+
+@CTMB 100
+I: A taxa de expediente é calculada pela Tabela IV anexa.
+P: Cálculo pela Tabela IV
+K: taxa de expediente; Tabela IV
+
+@CTMB 101
+I: A taxa de expediente é paga antes da realização do ato tributado.
+P: Pagamento antecipado
+K: taxa de expediente; pagamento
+
+@CTMB 102
+I: Os responsáveis pelos órgãos que praticam os atos devem verificar o pagamento da taxa.
+P: Verificação pelo órgão
+K: taxa de expediente; controle
+
+@CTMB 103
+I: O documento expedido deve indicar o número da guia de recolhimento da taxa, que fica no processo.
+P: Indicação da guia no documento
+K: taxa de expediente; guia de recolhimento
+
+@CTMB 104
+I: Usar atos sujeitos à taxa sem pagá-la gera multa de 100% do valor atualizado da taxa.
+P: Multa de 100%
+K: taxa de expediente; multa
+
+@CTMB 105
+I: Pela redação da Lei nº 7.561/1991, são cobradas taxas de serviços diversos: numeração de prédios, apreensão e depósito de bens e animais, alinhamento, nivelamento e vistoria, cemitérios, vigilância sanitária e vigilância ambiental.
+P: Espécies de taxas de serviços diversos
+K: taxas de serviço; cemitério; vigilância sanitária; vigilância ambiental
+
+@CTMB 106
+I: As taxas de serviços diversos são arrecadadas no ato, antes ou depois do serviço, conforme regulamento e tabelas anexas. O parágrafo único foi revogado pela Lei nº 7.933/1998.
+P: Momento da arrecadação || Parágrafo revogado
+K: taxas de serviço; arrecadação
+
+@CTMB 107
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 108
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 109
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 110
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 111
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 112
+I: O artigo aparece como "Revogado" na fonte utilizada, sem indicação da norma revogadora. Integrava a disciplina da Taxa de Serviços Urbanos.
+P: Dispositivo revogado
+K: revogação; taxa de serviços urbanos
+
+@CTMB 113
+I: O caput aparece como "Revogado". O parágrafo único mantém: taxas cobradas junto com o IPTU, quando pagas em atraso, sofrem as mesmas penalidades do imposto.
+P: Caput revogado || Mesmas penalidades do IPTU para taxas cobradas com ele
+K: taxas; IPTU; mora; penalidades
+
+@CTMB 114
+I: O artigo, que tratava da Taxa de Iluminação Pública, foi revogado pela Lei municipal nº 8.226/2002. Pela Súmula Vinculante 41 do STF, iluminação pública não pode ser cobrada por taxa; os Municípios a custeiam por contribuição (CF, art. 149-A).
+P: Dispositivo revogado || Súmula Vinculante 41 || Contribuição de iluminação pública
+K: taxa de iluminação pública; COSIP; Súmula Vinculante 41
+
+@CTMB 115
+I: O artigo foi revogado pela Lei municipal nº 8.226/2002 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de iluminação pública; revogação
+
+@CTMB 116
+I: O artigo autoriza convênio com a CELPA (hoje Equatorial Pará) para arrecadar a Taxa de Iluminação Pública, com remuneração de até 10% do arrecadado e aplicação do produto no serviço. Como os artigos que instituíam a taxa foram revogados e a cobrança por taxa foi vedada (Súmula Vinculante 41), a regra perdeu objeto quanto à taxa.
+P: Convênio de arrecadação com a concessionária || Regra sem objeto após a revogação da taxa
+K: iluminação pública; convênio; concessionária de energia
+
+@CTMB 117
+I: O artigo, da Taxa de Pavimentação e Calçamento, foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 118
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 119
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 120
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 121
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 122
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 123
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 124
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: taxa de pavimentação; revogação
+
+@CTMB 125
+I: O artigo foi revogado pela Lei municipal nº 7.120/1979. Os arts. 137 e 142 ainda remetem a ele, mas a remissão ficou sem conteúdo.
+P: Dispositivo revogado || Remissões dos arts. 137 e 142 sem objeto
+K: taxa de pavimentação; revogação; remissão
+
+@CTMB 126
+I: O Executivo podia optar, por decreto, por cobrar taxa de calçamento em vez de contribuição de melhoria. Com a revogação da taxa de pavimentação, a alternativa perdeu objeto; além disso, obra pública que valoriza imóveis se custeia por contribuição de melhoria, e não por taxa.
+P: Opção pela taxa de calçamento || Perda de objeto após a revogação
+K: taxa de calçamento; contribuição de melhoria
+
+@CTMB 127
+I: A contribuição de melhoria é devida quando obra pública municipal valoriza imóvel privado, como abertura e pavimentação de vias, parques, pontes, sistemas de trânsito, redes de água e esgoto, drenagem e proteção contra inundações, estradas, aeroportos, aterros e embelezamento (CF, art. 145, III; CTN, art. 81; Decreto-Lei nº 195/1967).
+P: Valorização decorrente de obra pública || Rol de obras
+K: contribuição de melhoria; obra pública; valorização imobiliária
+
+@CTMB 128
+I: As obras que justificam a contribuição de melhoria pertencem ao programa ordinário (iniciativa da administração) ou extraordinário (pedido de pelo menos 2/3 dos interessados).
+P: Programa ordinário || Programa extraordinário a pedido de 2/3
+K: contribuição de melhoria; programa de obras
+
+@CTMB 129
+I: A contribuição é cobrada dos proprietários de imóveis privados beneficiados direta ou indiretamente pela obra. Responde o proprietário ao tempo do lançamento, transmitindo-se a obrigação aos adquirentes; na enfiteuse, o enfiteuta. É nula a cláusula que a transfira ao locatário, e os bens indivisos são lançados em nome de um condômino.
+P: Proprietário no lançamento || Sucessão pelo adquirente || Nulidade da transferência ao locatário || Bens indivisos
+K: contribuição de melhoria; contribuinte; enfiteuta; locatário
+
+@CTMB 130
+I: A contribuição tem dois limites: o total é o custo da obra (estudos, projetos, desapropriação, execução e financiamento) e o individual é a valorização de cada imóvel (CTN, art. 81).
+P: Limite total do custo || Limite individual da valorização
+K: contribuição de melhoria; limite; custo da obra; valorização
+
+@CTMB 131
+I: O cálculo segue etapas: definição e planta da obra, memorial e orçamento, delimitação da zona de influência, lista de imóveis, avaliação do valor antes e depois da obra, cálculo da valorização de cada imóvel e rateio da parcela do custo a recuperar na proporção das valorizações. A parcela recuperada não pode passar da soma das valorizações.
+P: Avaliação antes e depois da obra || Rateio proporcional à valorização || Teto da soma das valorizações
+K: contribuição de melhoria; cálculo; valorização; zona de influência
+
+@CTMB 132
+I: Antes da cobrança, a administração publica edital com a área, a lista de imóveis, o memorial, o orçamento e a parcela do custo a ser paga por cada imóvel, inclusive para obras em execução (Decreto-Lei nº 195/1967, art. 5º).
+P: Edital prévio || Elementos obrigatórios
+K: contribuição de melhoria; edital; publicidade
+
+@CTMB 133
+I: Os proprietários têm 30 dias da publicação do edital para impugnar seus elementos, com ônus da prova; a impugnação abre processo administrativo e não suspende a cobrança.
+P: Impugnação em 30 dias || Ônus da prova do impugnante || Sem efeito suspensivo
+K: contribuição de melhoria; impugnação; prazo
+
+@CTMB 134
+I: Concluída a obra, ou parte suficiente para beneficiar imóveis, faz-se o lançamento desses imóveis, após publicar o demonstrativo de custos. O STJ exige que o fato gerador seja a valorização efetiva decorrente da obra.
+P: Lançamento após a obra || Publicação dos custos
+K: contribuição de melhoria; lançamento; valorização efetiva
+
+@CTMB 135
+I: O proprietário é notificado do valor, prazos, prestações e local do pagamento, e pode reclamar em pelo menos 30 dias contra erro na localização, no índice, no valor ou no número de prestações.
+P: Notificação do lançamento || Reclamação em no mínimo 30 dias
+K: contribuição de melhoria; notificação; reclamação
+
+@CTMB 136
+I: Impugnações, reclamações e recursos não suspendem a obra nem impedem o lançamento e a cobrança.
+P: Ausência de efeito suspensivo sobre a obra
+K: contribuição de melhoria; recursos; efeito suspensivo
+
+@CTMB 137
+I: A contribuição pode ser paga de uma vez ou parcelada. O artigo remete ao art. 125, que foi revogado.
+P: Pagamento à vista ou parcelado || Remissão a artigo revogado
+K: contribuição de melhoria; pagamento; parcelamento
+
+@CTMB 138
+I: No parcelamento, o total anual não pode passar de 3% do maior valor do imóvel no cadastro, atualizado (Decreto-Lei nº 195/1967, art. 12).
+P: Limite anual de 3% do valor do imóvel
+K: contribuição de melhoria; parcelamento; limite
+
+@CTMB 139
+I: As prestações são corrigidas pelos mesmos índices dos débitos fiscais.
+P: Correção das prestações
+K: contribuição de melhoria; correção monetária
+
+@CTMB 140
+I: O atraso nas prestações gera multa de mora de 1% ao mês.
+P: Multa de mora de 1% ao mês
+K: contribuição de melhoria; mora
+
+@CTMB 141
+I: O contribuinte pode pagar com títulos da dívida pública emitidos para financiar a obra, pelo valor nominal se o de mercado for menor.
+P: Pagamento com títulos da dívida pública
+K: contribuição de melhoria; títulos da dívida pública
+
+@CTMB 142
+I: O artigo isenta da contribuição os imóveis do art. 125, que foi revogado, de modo que a remissão ficou sem conteúdo.
+P: Isenção por remissão a artigo revogado
+K: contribuição de melhoria; isenção; remissão
+
+@CTMB 143
+I: O Prefeito pode firmar convênios com a União e o Estado para lançar e arrecadar a contribuição de melhoria de obras federais ou estaduais, recebendo percentual da receita.
+P: Convênios com União e Estado
+K: contribuição de melhoria; convênio; obras federais e estaduais
