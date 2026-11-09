@@ -59,6 +59,14 @@ Para cada norma em `fontes/<lei>/config.json`:
 | `pendentes.json` | Artigos com análise pendente de revisão |
 | `CHANGELOG.md` | Histórico de alterações detectadas no texto oficial |
 
+## Classificação da norma na página (esfera, gênero e espécie)
+
+A página agrupa as leis como um vade mecum (função `classificar()` do `index.html`):
+
+- **Espécie:** sai sozinha da coluna "Número" do README ("Lei Complementar nº", "Lei nº", "Decreto-Lei nº", "Decreto nº", "Medida Provisória", "Resolução", "Portaria", "Lei Orgânica").
+- **Gênero:** sai do nome ("Constituição…" → Constituição; "Código…"/"Consolidação…" → Códigos e Consolidações; "Precedentes…"/"Súmulas…" → Jurisprudência; o resto → Legislação Complementar e Estatutos).
+- **Esfera:** federal por padrão. Para uma norma **estadual** ou **municipal**, ou para corrigir o gênero, inclua a lei em `CLASSIFICACAO` no `index.html`, por exemplo `'constituicao-para': { esfera: 'estadual', uf: 'Pará', genero: 'constituicao' }` ou `'lom-belem': { esfera: 'municipal', uf: 'PA', municipio: 'Belém' }`.
+
 ## Outros scripts
 
 - `lexbuild.py`: monta o Markdown (texto oficial + análises + remissões e alterações extraídas do próprio texto).
