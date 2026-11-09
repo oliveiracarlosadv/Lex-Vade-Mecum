@@ -1,0 +1,169 @@
+@CED 1
+I: O exercício da advocacia deve observar o Código de Ética e Disciplina, o Estatuto (Lei nº 8.906/1994), o Regulamento Geral, os Provimentos do Conselho Federal e os princípios da moral individual, social e profissional.
+P: Fontes da disciplina ética do advogado || Moral individual, social e profissional
+K: ética profissional; Estatuto da Advocacia; Regulamento Geral; Provimentos
+
+@CED 2
+I: O advogado é indispensável à administração da Justiça (CF, art. 133) e defensor do Estado Democrático de Direito, dos direitos humanos, da cidadania e da paz social. O parágrafo único lista seus deveres: preservar a dignidade da profissão, agir com independência, honestidade e boa-fé, estimular a conciliação, desaconselhar lides temerárias e abster-se de influência indevida, de empreendimentos escusos, de falar com a parte contrária que tenha advogado sem o assentimento deste e de cobrar honorários aviltantes.
+P: Função social do advogado || Rol de deveres || Estímulo à conciliação e à mediação || Vedação de contato direto com a parte adversa assistida || Vedação de honorários aviltantes
+K: deveres do advogado; independência; boa-fé; conciliação; lide temerária; honorários aviltantes
+
+@CED 3
+I: O advogado deve ver o Direito como meio de reduzir desigualdades e a lei como instrumento de igualdade.
+P: Direito como meio de mitigar desigualdades
+K: igualdade; justiça social
+
+@CED 3-A
+I: Incluído pela Resolução nº 05/2024/COP, o artigo impõe ao advogado e à advogada atuar com perspectiva interseccional de gênero e raça em todos os procedimentos judiciais, administrativos e disciplinares, afastando estereótipos e preconceitos. Foi regulamentado pelo Provimento nº 228/2024.
+P: Perspectiva interseccional de gênero e raça || Combate a estereótipos e preconceitos || Provimento nº 228/2024
+K: gênero; raça; interseccionalidade; estereótipos; Resolução nº 05/2024
+
+@CED 4
+I: Mesmo empregado, contratado de forma permanente ou integrante de departamento jurídico, o advogado deve preservar sua liberdade e independência. Pode recusar causa ou parecer sobre direito que também o atinja ou que contrarie orientação que já manifestou.
+P: Independência do advogado empregado || Recusa legítima de patrocínio
+K: independência técnica; advogado empregado; recusa de patrocínio
+
+@CED 5
+I: A advocacia é incompatível com qualquer forma de mercantilização, ou seja, não pode ser tratada como simples comércio.
+P: Vedação da mercantilização
+K: mercantilização; advocacia; Súmula 02/2011-COP
+
+@CED 6
+I: É proibido ao advogado expor fatos em juízo ou na via administrativa falseando deliberadamente a verdade ou agindo de má-fé.
+P: Dever de veracidade || Vedação da má-fé
+K: verdade; má-fé; lealdade processual
+
+@CED 7
+I: É proibido oferecer serviços de forma que implique, direta ou indiretamente, angariar ou captar clientela.
+P: Vedação da captação de clientela
+K: captação de clientela; oferta de serviços
+
+@CED 8
+I: O Código obriga também os órgãos de advocacia pública e os advogados públicos, inclusive chefes. O advogado público atua com independência técnica, busca reduzir a litigiosidade e deve urbanidade, preservando suas prerrogativas.
+P: Aplicação à advocacia pública || Independência técnica || Dever de urbanidade
+K: advocacia pública; advogado público; independência técnica; urbanidade
+
+@CED 9
+I: O advogado deve informar o cliente, de forma clara, sobre os riscos e as consequências da demanda e revelar desde logo qualquer circunstância que possa influir na decisão de contratá-lo.
+P: Dever de informação sobre riscos || Transparência na contratação
+K: dever de informação; riscos da demanda; cliente
+
+@CED 10
+I: A relação com o cliente baseia-se na confiança recíproca; se ela faltar e não se dissipar, recomenda-se substabelecer ou renunciar ao mandato.
+P: Confiança recíproca || Substabelecimento ou renúncia
+K: confiança; mandato; renúncia; substabelecimento
+
+@CED 11
+I: Como patrono, o advogado define a orientação técnica da causa, sem se subordinar a intenções contrárias do cliente, a quem deve explicar a estratégia.
+P: Autonomia técnica do patrono || Esclarecimento da estratégia ao cliente
+K: autonomia técnica; patrono; estratégia processual
+
+@CED 12
+I: Concluída ou abandonada a causa, o advogado devolve ao cliente bens, valores e documentos em seu poder e presta contas detalhadas. Os honorários pagos pelos serviços já prestados não são devolvidos.
+P: Devolução de bens e documentos || Prestação de contas || Honorários já pagos não se devolvem
+K: prestação de contas; devolução de documentos; honorários
+
+@CED 13
+I: Concluída a causa ou arquivado o processo, presume-se cumprido e extinto o mandato.
+P: Extinção presumida do mandato
+K: mandato; extinção; arquivamento
+
+@CED 14
+I: O advogado não deve aceitar procuração de quem já tem advogado sem avisá-lo antes, salvo motivo justificável ou medida urgente.
+P: Respeito ao colega constituído || Exceção para medidas urgentes
+K: procuração; colega constituído; urgência
+
+@CED 15
+I: O advogado não pode abandonar as causas; diante de dificuldades insuperáveis ou inércia do cliente, recomenda-se que renuncie.
+P: Vedação do abandono da causa || Renúncia como saída
+K: abandono da causa; renúncia; inércia do cliente
+
+@CED 16
+I: A renúncia é feita sem mencionar o motivo e encerra a responsabilidade pela causa após o prazo legal (Estatuto, art. 5º, § 3º: 10 dias). Não exclui responsabilidade por danos já causados, e o advogado não responde por omissão do cliente em fornecer documentos ou informações.
+P: Renúncia sem motivação || Responsabilidade até o fim do prazo legal || Omissão do cliente
+K: renúncia; responsabilidade; prazo de 10 dias
+
+@CED 17
+I: A revogação do mandato pelo cliente não o dispensa de pagar os honorários contratados nem tira do advogado o direito à sucumbência proporcional ao serviço prestado.
+P: Honorários contratados devidos || Sucumbência proporcional
+K: revogação do mandato; honorários; sucumbência
+
+@CED 18
+I: O mandato não se extingue pelo decurso do tempo, salvo previsão em contrário no instrumento.
+P: Mandato sem prazo de validade
+K: mandato; prazo; procuração
+
+@CED 19
+I: Advogados da mesma sociedade ou associados permanentemente não podem representar clientes com interesses opostos.
+P: Vedação de patrocínio de interesses opostos
+K: conflito de interesses; sociedade de advogados
+
+@CED 20
+I: Surgindo conflito entre clientes que o advogado não consiga harmonizar, ele escolhe um dos mandatos, renuncia aos demais e mantém o sigilo.
+P: Opção por um dos mandatos || Preservação do sigilo
+K: conflito de interesses; renúncia; sigilo profissional
+
+@CED 21
+I: Ao atuar contra ex-cliente ou ex-empregador, o advogado deve resguardar o sigilo profissional.
+P: Sigilo perante ex-cliente e ex-empregador
+K: sigilo profissional; ex-cliente; ex-empregador
+
+@CED 22
+I: O advogado não deve patrocinar causa contra a validade de ato jurídico de que participou e deve declarar seu impedimento quando houver conflito por atuação anterior no mesmo assunto.
+P: Vedação de impugnar ato em que colaborou || Impedimento por atuação anterior
+K: impedimento; conflito de interesses; ato jurídico
+
+@CED 23
+I: É direito e dever do advogado assumir a defesa criminal sem considerar sua opinião sobre a culpa do acusado; não há causa criminal indigna de defesa.
+P: Defesa criminal independe da culpa || Toda causa criminal merece defesa
+K: defesa criminal; ampla defesa; dignidade da pessoa humana
+
+@CED 24
+I: O advogado não é obrigado a aceitar outros advogados impostos ou indicados pelo cliente para atuar com ele.
+P: Liberdade na escolha de colaboradores
+K: independência; colaboração entre advogados
+
+@CED 25
+I: O advogado não pode atuar no mesmo processo, ao mesmo tempo, como patrono e preposto do cliente ou empregador.
+P: Vedação de acumular patrono e preposto
+K: preposto; patrono; incompatibilidade
+
+@CED 26
+I: O substabelecimento com reserva de poderes é ato pessoal do advogado; sem reserva, exige conhecimento prévio do cliente. O substabelecido com reserva deve ajustar antes seus honorários com quem substabeleceu.
+P: Substabelecimento com e sem reserva || Ajuste prévio de honorários
+K: substabelecimento; reserva de poderes; honorários
+
+@CED 27
+I: O advogado deve urbanidade a colegas, agentes políticos, autoridades, servidores e terceiros, preservando suas prerrogativas e exigindo igual tratamento, inclusive nas eleições da OAB. Ofensas à honra do advogado ou à imagem da instituição geram processo ético-disciplinar e comunicação às autoridades.
+P: Dever de urbanidade || Urbanidade nas eleições da OAB || Reação a ofensas à honra
+K: urbanidade; prerrogativas; eleições da OAB
+
+@CED 28
+I: A atuação correta exige linguagem escorreita e polida e boa técnica jurídica.
+P: Linguagem adequada || Boa técnica jurídica
+K: linguagem; técnica jurídica
+
+@CED 29
+I: Quem contrata colegas deve tratá-los com dignidade, sem subalternizá-los nem pagar remuneração aviltante ou abaixo da Tabela de Honorários. Se o aviltamento vier de empresa ou ente público, os advogados responsáveis pelo jurídico devem tentar corrigir o abuso.
+P: Tratamento condigno de colegas contratados || Vedação de remuneração aviltante || Dever dos gestores jurídicos
+K: aviltamento de honorários; tabela de honorários; advogado contratado
+
+@CED 30
+I: Na advocacia pro bono e como defensor nomeado ou dativo, o advogado deve ter o zelo habitual. Pro bono é a prestação gratuita, eventual e voluntária a instituições sociais sem fins econômicos ou a pessoas sem recursos, e não pode ser usada para fins político-partidários, eleitorais ou de captação de clientela.
+P: Conceito de advocacia pro bono || Zelo igual ao habitual || Vedação de uso eleitoral ou para captação
+K: advocacia pro bono; defensor dativo; gratuidade
+
+@CED 31
+I: No exercício de cargos na OAB ou na representação da classe, o advogado deve agir com lealdade aos interesses, direitos e prerrogativas da classe.
+P: Lealdade à classe
+K: cargos na OAB; representação da classe
+
+@CED 32
+I: Quem exerce cargo na OAB ou representa a classe não pode firmar contrato oneroso com essas entidades nem comprar ou vender bens a órgãos da OAB. É permitido o magistério remunerado na ENA, nas ESAs e nas bancas do Exame de Ordem, com moralidade e modicidade (Resolução nº 04/2016).
+P: Vedação de contratos com a OAB || Exceção do magistério na ENA e nas ESAs
+K: conflito de interesses; dirigentes da OAB; Escola Superior de Advocacia
+
+@CED 33
+I: Salvo em causa própria, quem exerce cargo na OAB ou tem assento em seus Conselhos não pode atuar em processos em trâmite na entidade nem dar pareceres para instruí-los; a vedação não alcança os dirigentes seccionais que recorrem nessa qualidade.
+P: Impedimento de atuar em processos da OAB || Exceção da causa própria e dos dirigentes legitimados
+K: impedimento; conselheiros da OAB; processo disciplinar

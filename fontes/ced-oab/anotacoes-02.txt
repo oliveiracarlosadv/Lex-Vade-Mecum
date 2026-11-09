@@ -1,0 +1,249 @@
+@CED 34
+I: Quem se candidata às listas da OAB para vagas da classe nos tribunais (quinto constitucional), no CNJ, no CNMP e em outros colegiados assume o compromisso de respeitar as prerrogativas do advogado, não praticar nepotismo e agir com moralidade administrativa.
+P: Compromisso dos candidatos às listas da OAB || Vedação de nepotismo
+K: quinto constitucional; listas da OAB; nepotismo; moralidade administrativa
+
+@CED 35
+I: O advogado deve guardar sigilo dos fatos que conhece no exercício da profissão, inclusive dos que soube por funções exercidas na OAB.
+P: Dever de sigilo profissional || Sigilo das funções na OAB
+K: sigilo profissional; segredo; Estatuto, art. 7º, XIX
+
+@CED 36
+I: O sigilo profissional é de ordem pública e não depende de pedido do cliente; presumem-se confidenciais as comunicações entre advogado e cliente. O advogado que atua como mediador, conciliador ou árbitro também se sujeita ao sigilo.
+P: Sigilo de ordem pública || Comunicações presumidamente confidenciais || Sigilo na mediação e na arbitragem
+K: sigilo profissional; ordem pública; confidencialidade; mediação; arbitragem
+
+@CED 37
+I: O sigilo cede apenas diante de justa causa excepcional, como grave ameaça à vida ou à honra ou necessidade de defesa própria.
+P: Exceções ao sigilo por justa causa || Defesa própria
+K: sigilo profissional; justa causa; defesa própria
+
+@CED 38
+I: O advogado não é obrigado a depor, em processo judicial, administrativo ou arbitral, sobre fatos cobertos pelo sigilo profissional.
+P: Direito de recusar depoimento
+K: sigilo profissional; testemunho; recusa a depor
+
+@CED 39
+I: A publicidade do advogado é apenas informativa, discreta e sóbria, e não pode configurar captação de clientela nem mercantilização. O Provimento nº 205/2021 do Conselho Federal detalha hoje as regras de publicidade e marketing jurídico.
+P: Caráter informativo da publicidade || Discrição e sobriedade || Vedação de captação e mercantilização
+K: publicidade profissional; marketing jurídico; captação de clientela; Provimento nº 205/2021
+
+@CED 40
+I: São vedados como meios de publicidade: rádio, cinema e televisão; outdoors e painéis luminosos; inscrições em muros, veículos, elevadores e espaços públicos; divulgação conjunta com outras atividades; dados de contato em colunas e artigos (salvo e-mail); e mala direta ou panfletos para captar clientela. Placas, painéis e inscrições na fachada são permitidos só para identificar o escritório.
+P: Meios de publicidade proibidos || Exceção da identificação do escritório || E-mail permitido em artigos
+K: publicidade profissional; outdoor; mala direta; fachada do escritório
+
+@CED 41
+I: Colunas e textos do advogado nos meios de comunicação não podem induzir o leitor a litigar nem captar clientela.
+P: Vedação de induzir a litigar
+K: colunas jornalísticas; captação de clientela; publicidade
+
+@CED 42
+I: É vedado ao advogado responder com habitualidade consultas jurídicas na mídia, debater causa de outro advogado, tratar temas de forma que comprometa a dignidade da profissão, divulgar listas de clientes e demandas e insinuar-se para reportagens.
+P: Vedações na mídia || Lista de clientes proibida
+K: meios de comunicação; consulta jurídica; lista de clientes
+
+@CED 43
+I: Ao participar de programas, entrevistas ou reportagens, o advogado deve ter objetivo apenas ilustrativo, educacional e instrutivo, sem promoção pessoal, sem comentar métodos de colegas e sem sensacionalismo.
+P: Participação educativa na mídia || Vedação de autopromoção e sensacionalismo
+K: entrevistas; mídia; promoção pessoal; sensacionalismo
+
+@CED 44
+I: Na publicidade e no material de escritório devem constar o nome, o nome social ou o da sociedade e o número de inscrição na OAB. Podem constar títulos acadêmicos, distinções, instituições, especialidades, endereço, e-mail, site, QR code, logotipo, foto do escritório, horário e idiomas. É vedada foto pessoal ou de terceiros no cartão de visitas e a menção a cargos ocupados, salvo o de professor universitário.
+P: Dados obrigatórios: nome e inscrição na OAB || Informações permitidas || Vedação de foto pessoal no cartão e de menção a cargos
+K: cartão de visitas; publicidade; inscrição na OAB; nome social
+
+@CED 45
+I: São admitidos como publicidade o patrocínio de eventos ou publicações científicas ou culturais e boletins sobre matéria cultural, desde que circulem entre clientes e interessados do meio jurídico.
+P: Patrocínio de eventos científicos || Boletins restritos ao meio jurídico
+K: publicidade; patrocínio; boletim informativo
+
+@CED 46
+I: A publicidade pela internet e por meios eletrônicos segue as mesmas diretrizes. Telefone e internet podem enviar mensagens a destinatários certos, sem oferecer serviços nem captar clientela.
+P: Publicidade digital segue as mesmas regras || Mensagens sem oferta de serviços
+K: publicidade na internet; redes sociais; captação de clientela
+
+@CED 47
+I: O Conselho Federal pode complementar as normas de publicidade, observadas as diretrizes do Código, o que fez pelo Provimento nº 205/2021.
+P: Complementação pelo Conselho Federal
+K: publicidade; Provimento; Conselho Federal
+
+@CED 47-A
+I: Incluído pela Resolução nº 04/2020, o artigo admite termo de ajustamento de conduta (TAC) nos Conselhos Seccionais e no Conselho Federal para fazer cessar publicidade irregular de advogados e estagiários, conforme o Provimento nº 200/2020.
+P: TAC para publicidade irregular || Regulamentação pelo Provimento nº 200/2020
+K: termo de ajustamento de conduta; TAC; publicidade irregular
+
+@CED 48
+I: Os serviços devem ser contratados de preferência por escrito, com objeto, honorários, forma de pagamento, extensão do patrocínio e regra para acordo. A compensação de créditos do cliente exige autorização contratual ou especial; custas e despesas, salvo ajuste, cabem ao cliente. As regras valem para mediação, conciliação e arbitragem; os honorários não podem ser reduzidos pela solução extrajudicial; deve-se respeitar o mínimo da Tabela da Seccional, sob pena de aviltamento.
+P: Contrato preferencialmente escrito || Cláusulas essenciais || Compensação só com autorização || Mínimo da Tabela de Honorários || Vedação de reduzir honorários por acordo
+K: contrato de honorários; tabela de honorários; aviltamento; compensação
+
+@CED 49
+I: Os honorários devem ser fixados com moderação, considerando a complexidade da causa, o trabalho e o tempo, eventuais impedimentos, o valor da causa e a condição do cliente, o tipo de cliente, o local, a competência do profissional e a praxe do foro.
+P: Moderação na fixação || Critérios de fixação
+K: honorários advocatícios; moderação; critérios
+
+@CED 50
+I: Na cláusula quota litis, os honorários devem ser em dinheiro e, somados à sucumbência, não podem superar o proveito do cliente. A participação em bens do cliente só é admitida excepcionalmente, se ele não tiver dinheiro e houver contrato. Em prestações vencidas e vincendas, os honorários podem incidir sobre ambas com moderação.
+P: Quota litis em pecúnia || Limite ao proveito do cliente || Participação em bens só excepcionalmente
+K: quota litis; honorários de êxito; sucumbência
+
+@CED 51
+I: Os honorários de sucumbência e contratuais pertencem ao advogado, que pode executá-los autonomamente e pedir precatório ou RPV em seu nome. No substabelecimento, a sucumbência é dividida conforme a atuação ou o ajuste, podendo a OAB indicar mediador e o relator tentar conciliação.
+P: Direito autônomo aos honorários (Estatuto, arts. 22 e 23) || Partilha no substabelecimento || Mediação e conciliação entre advogados
+K: honorários de sucumbência; execução autônoma; precatório; substabelecimento
+
+@CED 52
+I: O crédito de honorários não autoriza saque de duplicata ou outro título mercantil; pode ser emitida fatura, que não pode ser protestada. Cheque ou nota promissória do cliente podem ser protestados após tentativa amigável.
+P: Vedação de duplicata e de protesto de fatura || Protesto de cheque e nota promissória
+K: honorários; duplicata; protesto; nota promissória
+
+@CED 53
+I: É permitido receber honorários por cartão de crédito; adiantamentos com a operadora não afastam a responsabilidade perante o cliente em caso de rescisão.
+P: Pagamento por cartão de crédito || Responsabilidade mantida na rescisão
+K: honorários; cartão de crédito
+
+@CED 54
+I: Para arbitrar ou cobrar judicialmente honorários, o advogado deve antes renunciar ao mandato do cliente devedor.
+P: Renúncia prévia à cobrança judicial
+K: cobrança de honorários; arbitramento; renúncia
+
+@CED 55
+I: O processo disciplinar começa de ofício ou por representação. De ofício, depende de fonte idônea ou comunicação de autoridade; denúncia anônima não é fonte idônea.
+P: Instauração de ofício ou por representação || Vedação da denúncia anônima
+K: processo disciplinar; representação; denúncia anônima
+
+@CED 55-A
+I: Incluído pela Resolução nº 05/2024/COP, o artigo determina que os procedimentos na OAB tramitem e sejam julgados com perspectiva de gênero e raça, de ofício ou a pedido, conforme Provimento do Conselho Federal (Provimento nº 228/2024).
+P: Julgamento com perspectiva de gênero e raça || Regulamentação por Provimento
+K: perspectiva de gênero; raça; processo disciplinar; Resolução nº 05/2024
+
+@CED 56
+I: A representação é dirigida ao Presidente do Conselho Seccional ou da Subseção, por escrito ou verbalmente (reduzida a termo), ou ao Presidente do Tribunal de Ética quando o regimento lhe der competência para instaurar.
+P: Destinatário da representação || Representação verbal reduzida a termo
+K: representação; Conselho Seccional; Tribunal de Ética e Disciplina
+
+@CED 57
+I: A representação deve conter a identificação do representante, a narração dos fatos, documentos e provas (até 5 testemunhas) e a assinatura.
+P: Requisitos da representação || Até 5 testemunhas
+K: representação; requisitos; testemunhas
+
+@CED 58
+I: Recebida a representação, designa-se relator por sorteio, que em 30 dias propõe instaurar o processo ou arquivá-lo liminarmente, sob pena de redistribuição; o presidente decide. Juntam-se ficha cadastral e certidões de antecedentes e de outras representações. Representações contra conselheiros federais, presidentes seccionais e dirigentes são julgadas pelo Conselho Federal ou pelo Pleno Seccional, e as Seccionais podem criar Comissões de Admissibilidade.
+P: Relator sorteado e parecer em 30 dias || Arquivamento liminar || Competência para autoridades da OAB || Comissões de Admissibilidade
+K: processo disciplinar; admissibilidade; relator; arquivamento liminar
+
+@CED 58-A
+I: Incluído pela Resolução nº 04/2020, o artigo admite TAC nas infrações puníveis com censura, se o fato não gerou repercussão negativa à advocacia, conforme o Provimento nº 200/2020.
+P: TAC nas infrações puníveis com censura || Ausência de repercussão negativa
+K: termo de ajustamento de conduta; censura; Provimento nº 200/2020
+
+@CED 59
+I: O relator notifica o representado para defesa prévia em 15 dias, pelo endereço do cadastro; se não encontrado ou revel, nomeia-se defensor dativo. Com a defesa (até 5 testemunhas), há despacho saneador e audiência. O relator conduz a instrução por impulso oficial, só indefere provas ilícitas, impertinentes, desnecessárias ou protelatórias, emite parecer preliminar e abre prazo sucessivo de 15 dias para razões finais.
+P: Defesa prévia em 15 dias || Defensor dativo ao revel || Indeferimento fundamentado de provas || Razões finais em 15 dias sucessivos
+K: defesa prévia; defensor dativo; instrução; razões finais
+
+@CED 60
+I: No Tribunal de Ética, sorteia-se relator diferente do da instrução; o processo entra na primeira pauta, as partes são notificadas com 15 dias de antecedência e podem fazer sustentação oral de 15 minutos após o voto do relator.
+P: Relator de julgamento diferente || Notificação com 15 dias || Sustentação oral de 15 minutos
+K: julgamento; Tribunal de Ética e Disciplina; sustentação oral
+
+@CED 61
+I: O acórdão deve conter, se procedente a representação, o enquadramento legal, a sanção, os quóruns, a origem do voto vencedor, agravantes e atenuantes e as razões de eventual conversão da censura em advertência sem registro.
+P: Conteúdo do acórdão || Conversão da censura em advertência
+K: acórdão; sanção disciplinar; censura; advertência
+
+@CED 62
+I: O acórdão tem ementa; o autor do voto divergente vencedor redige o acórdão; votos condutores e divergentes devem ter fundamentos nos autos; o relatório de antecedentes é atualizado quando o relator determinar.
+P: Ementa obrigatória || Redação pelo voto vencedor || Fundamentos dos votos
+K: acórdão; ementa; voto divergente
+
+@CED 63
+I: Na hipótese de suspensão preventiva (Estatuto, art. 70, § 3º), o representado tem sessão especial para defesa, prova e sustentação oral.
+P: Sessão especial na suspensão preventiva || Ampla defesa
+K: suspensão preventiva; sessão especial; defesa
+
+@CED 64
+I: As consultas ao Tribunal de Ética têm autuação própria e relator sorteado, podendo haver revisor; cada um tem 10 dias para o parecer.
+P: Processamento das consultas || Prazo de 10 dias
+K: consulta; Tribunal de Ética e Disciplina
+
+@CED 65
+I: As sessões do Tribunal de Ética seguem seu Regimento Interno e, subsidiariamente, o do Conselho Seccional.
+P: Regimento das sessões
+K: Tribunal de Ética e Disciplina; regimento interno
+
+@CED 66
+I: Conduta temerária, intenção de alterar a verdade e recursos protelatórios no processo disciplinar violam o Código e sujeitam o responsável a sanção.
+P: Litigância de má-fé no processo disciplinar
+K: má-fé; recurso protelatório; processo disciplinar
+
+@CED 67
+I: Os recursos contra decisões do Tribunal de Ética ao Conselho Seccional seguem o Estatuto, o Regulamento Geral e o Regimento Interno; o Tribunal comunica suas decisões para publicação periódica dos julgados.
+P: Recursos ao Conselho Seccional || Publicação dos julgados
+K: recurso; Conselho Seccional; Estatuto
+
+@CED 68
+I: Cabe revisão do processo disciplinar (Estatuto, art. 73, § 5º), pedida pelo advogado punido ao órgão que proferiu a condenação final. A revisão não suspende a decisão, salvo tutela cautelar do relator, e o representante só é chamado se houver risco ao interesse que motivou a representação.
+P: Legitimidade do advogado punido || Competência do órgão da condenação || Tutela cautelar
+K: revisão disciplinar; tutela cautelar
+
+@CED 69
+I: O advogado punido pode pedir reabilitação nos termos do Estatuto (art. 41: 1 ano após o cumprimento da sanção, com prova de bom comportamento), ao Conselho Seccional que aplicou a sanção ou ao Conselho Federal nos casos originários. Pedido mal instruído é arquivado se não complementado.
+P: Reabilitação (Estatuto, art. 41) || Prova de bom comportamento || Arquivamento por instrução insuficiente
+K: reabilitação; sanção disciplinar; bom comportamento
+
+@CED 70
+I: O Tribunal de Ética pode funcionar em órgãos fracionários, conforme seu regimento.
+P: Órgãos fracionários
+K: Tribunal de Ética e Disciplina; turmas
+
+@CED 71
+I: Os Tribunais de Ética julgam em primeiro grau os processos disciplinares, respondem a consultas em tese, podem suspender preventivamente o acusado, promovem cursos sobre ética e atuam como mediadores em divergências entre advogados, partilha de honorários e dissolução de sociedades. Também promovem, com o Conselho Federal, capacitação sobre julgamento com perspectiva de gênero e raça.
+P: Julgamento em primeiro grau || Consultas em tese || Suspensão preventiva || Mediação entre advogados || Capacitação em gênero e raça
+K: Tribunal de Ética e Disciplina; competências; mediação; suspensão preventiva
+
+@CED 72
+I: As Corregedorias-Gerais integram o sistema disciplinar da OAB; no Conselho Federal, o Secretário-Geral Adjunto é o Corregedor-Geral, e a Corregedoria coordena ações para reduzir as infrações mais frequentes.
+P: Corregedorias-Gerais || Prevenção de infrações
+K: Corregedoria-Geral; sistema disciplinar
+
+@CED 73
+I: O Conselho Seccional deve dar suporte material e de pessoal ao Tribunal de Ética e divulgar trimestralmente na internet o número de processos e as punições definitivas por tipo de infração do art. 34 do Estatuto, preservado o sigilo.
+P: Suporte ao Tribunal de Ética || Transparência trimestral
+K: transparência; estatísticas disciplinares; Conselho Seccional
+
+@CED 74
+I: Conselhos Seccionais e Tribunais de Ética tinham 180 dias após a vigência para adaptar seus regimentos, sujeitos à aprovação do Conselho Seccional e do Conselho Federal.
+P: Adaptação dos regimentos em 180 dias
+K: regimento interno; disposição transitória
+
+@CED 75
+I: A pauta de julgamentos é publicada no Diário Eletrônico da OAB e na sede do Conselho Seccional com 15 dias de antecedência, com prioridade aos processos cujos interessados estiverem presentes.
+P: Publicação da pauta com 15 dias || Prioridade aos presentes
+K: pauta de julgamento; Diário Eletrônico da OAB
+
+@CED 76
+I: O Código obriga também as sociedades de advogados, os consultores e sociedades de consultores em direito estrangeiro e os estagiários, no que couber.
+P: Abrangência subjetiva do Código
+K: sociedade de advogados; estagiário; consultor em direito estrangeiro
+
+@CED 77
+I: O Código aplica-se, no que couber, à mediação, à conciliação e à arbitragem exercidas por advogados.
+P: Aplicação aos métodos adequados de solução de conflitos
+K: mediação; conciliação; arbitragem
+
+@CED 78
+I: Os autos do processo disciplinar podem ser eletrônicos, conforme Provimento do Conselho Federal (Provimento nº 176/2017).
+P: Processo disciplinar eletrônico
+K: processo eletrônico; Provimento nº 176/2017
+
+@CED 79
+I: Pela redação da Resolução nº 03/2016, o Código entrou em vigor em 1º de setembro de 2016, devendo a OAB promover sua divulgação.
+P: Vigência desde 1º de setembro de 2016
+K: vigência; Resolução nº 03/2016
+
+@CED 80
+I: Fica revogado o Código de Ética e Disciplina de 13 de fevereiro de 1995 e as disposições em contrário.
+P: Revogação do Código de 1995
+K: revogação; Código de 1995
