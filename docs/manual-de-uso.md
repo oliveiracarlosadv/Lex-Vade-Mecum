@@ -68,9 +68,19 @@ Para mudar a cor, copiar ou remover, toque no trecho marcado. Também dá para s
 
 Dentro da lei, toque em **☆ Favoritar**. As favoritas ganham ★ no menu e aparecem no topo da página inicial.
 
+### Marque artigos favoritos
+
+Toque na estrela **☆** ao lado do número do artigo (por exemplo, "Art. 5º ☆"). Ela fica dourada (**★**) e o artigo entra na lista **Artigos favoritos**. Toque de novo para desmarcar.
+
+### Faça anotações nos artigos
+
+Toque em **Anotar**, logo abaixo do número do artigo, escreva o que quiser (resumo, dúvida, jurisprudência, exemplo) e toque em **Salvar**. A anotação aparece em destaque no próprio artigo, e o botão passa a se chamar **Editar anotação**. Para apagar, abra a anotação e toque em **Excluir**, ou apague todo o texto e salve. Cada artigo tem uma anotação, de até 10 mil caracteres.
+
+Para levar as anotações para fora do site, vá a **★ Perfil, favoritos e marcações** › **Suas anotações** e toque em **Exportar anotações (.md)** ou **(.txt)**. O arquivo traz, para cada artigo, o texto oficial, a sua anotação, a data e o link. Pode ser aberto no Word, no Bloco de Notas ou em qualquer editor e impresso.
+
 ### Revise tudo em um só lugar
 
-Em **★ Perfil, favoritos e marcações** ficam as leis favoritas, o progresso de leitura e todos os trechos marcados, agrupados por lei, com link direto para cada artigo.
+Em **★ Perfil, favoritos e marcações** ficam as leis e os artigos favoritos, as suas anotações, o progresso de leitura e todos os trechos marcados, agrupados por lei, com link direto para cada artigo.
 
 ### Roteiro de estudo sugerido
 
@@ -120,7 +130,7 @@ Tudo o que você compartilha leva a **redação vigente**, o **nome da lei** e o
 
 ## 8. Guarde e leve seus dados
 
-Marcações, favoritas, perfil e progresso de leitura ficam salvos **somente neste navegador**. Nada é enviado a servidor, e não há cadastro. Por isso:
+Marcações, anotações, favoritos, perfil e progresso de leitura ficam salvos **somente neste navegador**. Nada é enviado a servidor, e não há cadastro. Por isso:
 
 - limpar o histórico ou os dados de navegação apaga também suas marcações;
 - outro aparelho ou outro navegador começa vazio.

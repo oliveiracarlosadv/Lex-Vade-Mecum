@@ -260,6 +260,23 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 .janela-arroba .perfil{grid-template-columns:1fr}
 .grade-backup{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:10px 0}
 @media print{mark.mt{background:transparent!important;text-decoration:underline;text-decoration-color:#999}}
+/* Artigos favoritos (estrela ao lado do rótulo) e anotações pessoais */
+.estrela-art{border:0;background:none;cursor:pointer;font-size:22px;line-height:1;color:var(--tinta2);padding:2px 6px;margin-left:2px;vertical-align:-1px;border-radius:6px}
+.estrela-art:hover,.estrela-art:focus-visible{color:var(--avisoBorda);background:var(--papel2)}
+.estrela-art.on{color:var(--avisoBorda)}
+.acoes .acao-nota.tem-nota{color:var(--titulo);font-weight:600}
+.nota-usuario{margin:-.4em 0 1.1em;padding:10px 14px;border-left:3px solid var(--avisoBorda);background:var(--aviso);border-radius:0 8px 8px 0;font-family:var(--ui);font-size:14.5px;color:var(--tinta)}
+.nota-usuario .nota-cab{display:flex;justify-content:space-between;align-items:baseline;gap:8px;font-size:12px;font-weight:600;color:var(--tinta2);margin-bottom:4px;text-transform:uppercase;letter-spacing:.05em}
+.nota-usuario .nota-cab button{border:0;background:none;color:var(--titulo2);cursor:pointer;font:inherit;text-transform:none;letter-spacing:0;text-decoration:underline;padding:0}
+.nota-texto{white-space:pre-wrap;overflow-wrap:anywhere}
+.janela-nota{width:min(40rem,94vw)}
+.janela-nota .painel-folha{height:auto}
+.janela-nota textarea{width:100%;box-sizing:border-box;min-height:11em;padding:10px 12px;border:1px solid var(--fio);border-radius:10px;background:var(--papel2);color:var(--tinta);font-family:var(--ui);font-size:16px;line-height:1.5;resize:vertical}
+.janela-nota textarea:focus{outline:2px solid var(--titulo2);outline-offset:1px}
+.janela-nota .conta{text-align:right;font-family:var(--ui);font-size:12px;color:var(--tinta2);margin:4px 0 0}
+.lista-marcas .estrela{font-size:18px;margin:0;flex:none}
+.lista-marcas .nota-texto{display:block;font-size:.95em;color:var(--tinta);margin-top:2px}
+@media print{.estrela-art,.nota-usuario .nota-cab button{display:none!important}.nota-usuario{background:transparent;border-left-color:#999}}
 
 .progresso{max-width:36rem;margin:10px auto 0;font-family:var(--ui);font-size:13.5px;color:var(--tinta2)}
 .progresso:empty{display:none}
@@ -397,6 +414,14 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   <div class="perfil"><label>@ nas redes sociais<input type="text" id="jaArroba" maxlength="41" placeholder="@seuperfil" autocapitalize="off" spellcheck="false"></label>
   <label>Nome (opcional)<input type="text" id="jaNome" maxlength="60" placeholder="Seu nome" autocomplete="name"></label></div>
   <div class="grade-backup"><button class="btn prim" value="ok">Gerar story</button><button class="btn" value="sem">Gerar sem @</button></div>
+</form></dialog>
+<dialog class="painel janela-nota" id="janelaNota" aria-labelledby="notaTitulo"><form method="dialog" class="painel-folha folha">
+  <h2 class="titulo-pequeno" id="notaTitulo">Anotação</h2>
+  <p class="aviso-busca" id="notaLei"></p>
+  <textarea id="notaTexto" placeholder="Escreva sua anotação: resumo, dúvida, jurisprudência, exemplo…" aria-label="Texto da anotação"></textarea>
+  <p class="conta" id="notaConta"></p>
+  <p class="aviso-busca">Fica salva neste navegador. Para guardar ou levar a outro aparelho, use o backup em <b>Marcações</b>.</p>
+  <div class="grade-backup"><button class="btn prim" value="salvar">Salvar</button><button class="btn" value="cancelar" formnovalidate>Cancelar</button><button class="btn" value="excluir" id="notaExcluir">Excluir</button></div>
 </form></dialog>
 <input type="file" id="arqBackup" accept="application/json,.json" hidden>
 <div id="areaImpressao"></div>
@@ -540,14 +565,15 @@ function blocoDispositivo(id, u, casa) {
   const campos = u.campos.length ? `<div class="campos">${u.campos.map((x) => inline(x)).join('<br>')}</div>` : '';
   const alt = u.alt ? `<div class="alt">${inline(u.alt.replace(/^>\s*/, ''))}</div>` : '';
   return `<article class="dispositivo" id="${id}--${u.id}">
-    <div class="disp-cab"><span class="rotulo">${esc(u.rotulo)}</span>${u.subt ? `<span class="rotulo-tit">${realce(esc(u.subt))}</span>` : ''}</div>
+    <div class="disp-cab" data-uid="${u.id}"><span class="rotulo">${esc(u.rotulo)}</span><button class="estrela-art" data-acao="favart" aria-pressed="false" title="Marcar este artigo como favorito" aria-label="Marcar ${esc(u.rotulo)} como favorito">☆</button>${u.subt ? `<span class="rotulo-tit">${realce(esc(u.subt))}</span>` : ''}</div>
     ${u.loc ? `<div class="loc">${esc(u.loc)}</div>` : ''}
     <div class="acoes" data-uid="${u.id}">
       <button class="acao" data-acao="compartilhar" title="Enviar o texto e o link deste dispositivo">${ICONE.compartilhar}Compartilhar</button>
       <button class="acao" data-acao="imprimir" title="Imprimir só este dispositivo">${ICONE.imprimir}Imprimir</button>
       <button class="acao" data-acao="imagem" title="Gerar uma imagem deste dispositivo">${ICONE.imagem}Imagem</button>
+      <button class="acao acao-nota" data-acao="nota" title="Escrever uma anotação sua neste artigo (fica salva neste navegador)">${ICONE.nota}<span>Anotar</span></button>
       <button class="acao acao-parei" data-acao="parei" title="Marcar este artigo como o ponto onde você parou de ler">${ICONE.marcador}<span>Parei aqui</span></button>
-    </div>${campos}
+    </div><div class="nota-usuario" data-uid="${u.id}" hidden></div>${campos}
     <div class="oficial texto">${texto}</div>${alt}
     <details class="analise" open><summary>Análise do dispositivo</summary><div class="md">${md(u.analise)}</div></details>
   </article>`;
@@ -624,6 +650,7 @@ async function mostrarLei(id, alvo, q) {
   aplicarLeitura(id);
   desenharFav(id); $('#favLei').onclick = () => { alternarFavorita(id); desenharFav(id); };
   aplicarMarcas(id);
+  aplicarArtigos(id);
   irPara(id, alvo);
 }
 function irPara(id, alvo) {
@@ -742,6 +769,7 @@ const ICONE = {
   email: svg('<rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 6l-10 7L2 6"/>'),
   link: svg('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
   copiar: svg('<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>'),
+  nota: svg('<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/>'),
   marcador: svg('<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>'),
   mais: svg('<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/>'),
 };
@@ -1038,11 +1066,13 @@ function ligarAcoes() {
     const m = e.target.closest('mark.mt');
     if (m && getSelection().isCollapsed) return menuMarca(m);
     const b = e.target.closest('[data-acao]'); if (!b) return;
-    const uid = b.closest('.acoes').dataset.uid;
+    const uid = b.closest('[data-uid]').dataset.uid;
     if (b.dataset.acao === 'compartilhar') { const pac = pacoteUnidade(uid); if (pac) abrirPopover(b, pac); }
     if (b.dataset.acao === 'imprimir') imprimirUnidade(uid);
     if (b.dataset.acao === 'imagem') { const pac = pacoteUnidade(uid); if (pac) gerarImagem(pac); }
     if (b.dataset.acao === 'parei') marcarLeitura(uid);
+    if (b.dataset.acao === 'nota') abrirNota(uid);
+    if (b.dataset.acao === 'favart') alternarArtigoFav(uid);
   });
   let t; document.addEventListener('selectionchange', () => { clearTimeout(t); t = setTimeout(posicionarBarraSel, 180); });
   $('#main').addEventListener('scroll', () => { if (!$('#barraSel').hidden) posicionarBarraSel(); fecharFlutuantes(); }, { passive: true });
@@ -1070,12 +1100,13 @@ function ligarAcoes() {
    como "não localizada"). */
 const CHAVE_DADOS = 'lex-dados';
 const CORES = ['amarelo', 'verde', 'azul', 'rosa'];
-let dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [], leitura: {} };
+const dadosVazios = () => ({ versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [], leitura: {}, artigos: [], notas: [] });
+let dados = dadosVazios();
 let corPadrao = 'amarelo';
 function carregarDados() {
   try {
     const x = JSON.parse(localStorage.getItem(CHAVE_DADOS) || 'null');
-    if (x && typeof x === 'object') dados = { versao: 1, perfil: limparPerfil(x.perfil), favoritos: Array.isArray(x.favoritos) ? x.favoritos : [], marcas: Array.isArray(x.marcas) ? x.marcas : [], leitura: limparLeitura(x.leitura) };
+    if (x && typeof x === 'object') dados = { versao: 1, perfil: limparPerfil(x.perfil), favoritos: Array.isArray(x.favoritos) ? x.favoritos : [], marcas: Array.isArray(x.marcas) ? x.marcas : [], leitura: limparLeitura(x.leitura), artigos: limparArtigos(x.artigos), notas: limparNotas(x.notas) };
     corPadrao = localStorage.getItem('lex-cor') || corPadrao;
   } catch (e) {}
 }
@@ -1108,8 +1139,11 @@ function desenharFav(id) {
 }
 function blocoFavoritas() {
   const fav = leis.filter((l) => ehFavorita(l.id)); const n = dados.marcas.length;
-  if (!fav.length && !n) return '';
+  const na = dados.artigos.length; const nn = dados.notas.length;
+  if (!fav.length && !n && !na && !nn) return '';
   return `<h2 class="titulo-indice">Suas favoritas</h2><ol class="indice">${fav.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei"><span class="estrela">★</span>${esc(l.nome)}</span><span class="num-lei">${esc(l.numero)}</span></a></li>`).join('')}
+    ${na ? `<li><a href="#/marcacoes/artigos"><span class="nome-lei"><span class="estrela">★</span>Artigos favoritos</span><span class="num-lei">${na} ${na === 1 ? 'artigo' : 'artigos'}</span></a></li>` : ''}
+    ${nn ? `<li><a href="#/marcacoes/anotacoes"><span class="nome-lei">Suas anotações</span><span class="num-lei">${nn} ${nn === 1 ? 'anotação' : 'anotações'}</span><span class="meta">Ver todas ou exportar</span></a></li>` : ''}
     ${n ? `<li><a href="#/marcacoes"><span class="nome-lei">Trechos marcados</span><span class="num-lei">${n} ${n === 1 ? 'marcação' : 'marcações'}</span><span class="meta">Ver todas, fazer backup ou importar</span></a></li>` : ''}</ol>`;
 }
 const novoId = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
@@ -1239,7 +1273,7 @@ function aplicarMarcas(id) {
     envolver(pos[0], pos[1], pos[2], m); art.classList.add('tem-marca');
   });
 }
-function telaMarcacoes() {
+function telaMarcacoes(foco) {
   atual = 'marcacoes'; desenharMenu(); desenharSumario();
   const fav = leis.filter((l) => ehFavorita(l.id));
   const grupos = {}; dados.marcas.forEach((m) => { (grupos[m.g] = grupos[m.g] || []).push(m); });
@@ -1248,8 +1282,8 @@ function telaMarcacoes() {
   const rotDe = (uid) => uid.replace(/^art-(\d+)(-[a-z])?$/, (s, n, l) => 'Art. ' + n + (l ? l.toUpperCase() : '')).replace(/^tema-(\d+)$/, 'Tema $1');
   let h = `<div class="cabecalho-corrido">Lex Vade Mecum · Perfil, favoritos e marcações</div>
     <h1 class="titulo-obra">Perfil, favoritos e marcações</h1>
-    <p class="subtitulo">Ficam salvos neste navegador enquanto os dados do site não forem apagados. Faça backup para guardar ou levar a outro aparelho.</p>
-    <div class="grade-backup"><button class="btn prim" id="bkExportar">Fazer backup (.json)</button><button class="btn" id="bkImportar">Importar backup</button>${fav.length || dados.marcas.length || Object.keys(dados.leitura).length ? '<button class="btn" id="bkLimpar">Apagar tudo</button>' : ''}</div>
+    <p class="subtitulo">Ficam salvos neste navegador enquanto os dados do site não forem apagados. Faça backup para guardar ou levar a outro aparelho, e exporte suas anotações para ler ou imprimir fora do site.</p>
+    <div class="grade-backup"><button class="btn prim" id="bkExportar">Fazer backup (.json)</button><button class="btn" id="bkImportar">Importar backup</button>${temDados() ? '<button class="btn" id="bkLimpar">Apagar tudo</button>' : ''}</div>
     <div class="vinheta">❦</div>
     <section class="secao"><h2>Seu perfil</h2>
       <p class="aviso-busca">Seu nome e seu @ aparecem no rodapé dos stories e imagens que você gerar (“Compartilhado por …”). Deixe em branco para não aparecer.</p>
@@ -1263,7 +1297,7 @@ function telaMarcacoes() {
     <section class="secao"><h2>Leis favoritas</h2>`;
   h += fav.length ? `<ol class="indice">${fav.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei"><span class="estrela">★</span>${esc(l.nome)}</span><span class="num-lei">${esc(l.numero)}</span></a></li>`).join('')}</ol>`
     : '<p class="aviso-busca">Nenhuma lei favorita. Abra uma lei e toque em <b>☆ Favoritar</b>.</p>';
-  h += `</section><section class="secao"><h2>Trechos marcados</h2>`;
+  h += `</section>` + secaoArtigosENotas() + `<section class="secao"><h2>Trechos marcados</h2>`;
   const ids = Object.keys(porLei);
   if (!ids.length) h += '<p class="aviso-busca">Nenhum trecho marcado. Selecione um trecho do texto de uma lei e toque em <b>Marcar</b>.</p>';
   ids.forEach((id) => {
@@ -1277,6 +1311,9 @@ function telaMarcacoes() {
   });
   h += '</section>' + rodape();
   $('#conteudo').innerHTML = h; $('#main').scrollTop = 0;
+  const sec = foco && document.getElementById(foco === 'artigos' ? 'secArtigos' : foco === 'anotacoes' ? 'secAnotacoes' : '');
+  if (sec) requestAnimationFrame(() => ($('#main').scrollTop = sec.getBoundingClientRect().top - $('#main').getBoundingClientRect().top - 12));
+  ligarArtigosENotas();
   $('#formPerfil').onsubmit = (e) => {
     e.preventDefault();
     dados.perfil = limparPerfil({ nome: $('#pfNome').value, arroba: $('#pfArroba').value });
@@ -1286,8 +1323,8 @@ function telaMarcacoes() {
   $('#bkExportar').onclick = exportarBackup;
   $('#bkImportar').onclick = () => $('#arqBackup').click();
   if ($('#bkLimpar')) $('#bkLimpar').onclick = () => {
-    if (!confirm('Apagar o perfil, as leis favoritas, os trechos marcados e o progresso de leitura deste navegador? Faça um backup antes, se quiser guardá-los.')) return;
-    dados = { versao: 1, perfil: { nome: '', arroba: '' }, favoritos: [], marcas: [], leitura: {} }; salvarDados(); telaMarcacoes();
+    if (!confirm('Apagar o perfil, as leis e os artigos favoritos, as anotações, os trechos marcados e o progresso de leitura deste navegador? Faça um backup antes, se quiser guardá-los.')) return;
+    dados = dadosVazios(); salvarDados(); telaMarcacoes();
   };
   $('#conteudo').querySelectorAll('[data-recomecar]').forEach((b) => (b.onclick = () => {
     if (!confirm('Apagar o ponto de leitura desta lei?')) return;
@@ -1296,6 +1333,127 @@ function telaMarcacoes() {
   $('#conteudo').querySelectorAll('[data-rem]').forEach((b) => (b.onclick = () => {
     dados.marcas = dados.marcas.filter((x) => x.g !== b.dataset.rem); salvarDados(); telaMarcacoes();
   }));
+}
+/* ---------- Artigos favoritos e anotações ----------
+   A estrela ao lado do rótulo marca o artigo como favorito; "Anotar" abre uma
+   janela para escrever um texto livre sobre o artigo (uma anotação por artigo).
+   Ficam em dados.artigos e dados.notas (localStorage "lex-dados"), entram no
+   backup .json e podem ser exportados em .md ou .txt, com o texto do artigo. */
+const MAX_NOTA = 10000;
+function limparArtigos(xs) {
+  return (Array.isArray(xs) ? xs : []).filter((a) => a && typeof a.lei === 'string' && typeof a.uid === 'string')
+    .map((a) => ({ lei: a.lei, uid: a.uid, nomeLei: String(a.nomeLei || a.lei), rot: String(a.rot || a.uid), em: String(a.em || new Date().toISOString()) }));
+}
+function limparNotas(xs) {
+  return (Array.isArray(xs) ? xs : []).filter((n) => n && typeof n.lei === 'string' && typeof n.uid === 'string')
+    .map((n) => ({ ...limparArtigos([n])[0], texto: String(n.texto || '').slice(0, MAX_NOTA) })).filter((n) => n.texto.trim());
+}
+const temDados = () => dados.favoritos.length || dados.marcas.length || Object.keys(dados.leitura).length || dados.artigos.length || dados.notas.length;
+const artigoFav = (lei, uid) => dados.artigos.find((a) => a.lei === lei && a.uid === uid);
+const notaDe = (lei, uid) => dados.notas.find((n) => n.lei === lei && n.uid === uid);
+function refArtigo(uid) {
+  const d = cache[atual]; const u = d && d.unidades.find((x) => x.id === uid); const lei = leis.find((l) => l.id === atual);
+  return { lei: atual, uid, nomeLei: lei ? lei.nome : atual, rot: u ? u.rotulo : uid };
+}
+function alternarArtigoFav(uid) {
+  const r = refArtigo(uid);
+  if (artigoFav(atual, uid)) dados.artigos = dados.artigos.filter((a) => !(a.lei === atual && a.uid === uid));
+  else dados.artigos.push({ ...r, em: new Date().toISOString() });
+  if (salvarDados()) aviso(artigoFav(atual, uid) ? `${r.rot} adicionado aos artigos favoritos` : `${r.rot} removido dos artigos favoritos`);
+  aplicarArtigos(atual);
+}
+function salvarNota(uid, texto) {
+  texto = String(texto || '').replace(/\s+$/, '').slice(0, MAX_NOTA);
+  const r = refArtigo(uid); const n = notaDe(atual, uid);
+  if (!texto.trim()) { if (!n) return; dados.notas = dados.notas.filter((x) => x !== n); if (salvarDados()) aviso('Anotação excluída'); }
+  else { if (n) Object.assign(n, r, { texto, em: new Date().toISOString() }); else dados.notas.push({ ...r, texto, em: new Date().toISOString() }); if (salvarDados()) aviso(`Anotação salva em ${r.rot}`); }
+  aplicarArtigos(atual);
+}
+function abrirNota(uid) {
+  const r = refArtigo(uid); const n = notaDe(atual, uid);
+  const dlg = $('#janelaNota');
+  if (!window.HTMLDialogElement || !dlg.showModal) { const t = prompt(`Anotação — ${r.rot}`, n ? n.texto : ''); if (t !== null) salvarNota(uid, t); return; }
+  $('#notaTitulo').textContent = `Anotação — ${r.rot}`;
+  $('#notaLei').textContent = r.nomeLei;
+  const ta = $('#notaTexto'); ta.value = n ? n.texto : ''; ta.maxLength = MAX_NOTA;
+  const conta = () => ($('#notaConta').textContent = `${ta.value.length.toLocaleString('pt-BR')} / ${MAX_NOTA.toLocaleString('pt-BR')} caracteres`);
+  ta.oninput = conta; conta();
+  $('#notaExcluir').hidden = !n;
+  dlg.returnValue = '';
+  dlg.onclose = () => {
+    if (dlg.returnValue === 'salvar') salvarNota(uid, ta.value);
+    if (dlg.returnValue === 'excluir' && confirm('Excluir esta anotação?')) salvarNota(uid, '');
+  };
+  dlg.showModal(); setTimeout(() => { ta.focus(); ta.setSelectionRange(ta.value.length, ta.value.length); }, 30);
+}
+function aplicarArtigos(id) {
+  const raiz = $('#conteudo');
+  raiz.querySelectorAll('.estrela-art.on').forEach((b) => { b.classList.remove('on'); b.textContent = '☆'; b.setAttribute('aria-pressed', 'false'); b.title = 'Marcar este artigo como favorito'; });
+  raiz.querySelectorAll('.nota-usuario:not([hidden])').forEach((x) => { x.hidden = true; x.innerHTML = ''; });
+  raiz.querySelectorAll('.acao-nota.tem-nota').forEach((b) => { b.classList.remove('tem-nota'); b.querySelector('span').textContent = 'Anotar'; });
+  dados.artigos.filter((a) => a.lei === id).forEach((a) => {
+    const b = document.querySelector(`#${CSS.escape(id + '--' + a.uid)} .estrela-art`); if (!b) return;
+    b.classList.add('on'); b.textContent = '★'; b.setAttribute('aria-pressed', 'true'); b.title = 'Remover dos artigos favoritos';
+  });
+  dados.notas.filter((n) => n.lei === id).forEach((n) => {
+    const art = document.getElementById(`${id}--${n.uid}`); if (!art) return;
+    const box = art.querySelector('.nota-usuario'); const b = art.querySelector('.acao-nota');
+    const data = new Date(n.em);
+    box.innerHTML = `<div class="nota-cab"><span>Sua anotação${isNaN(data) ? '' : ' · ' + data.toLocaleDateString('pt-BR')}</span><button data-acao="nota">Editar</button></div><div class="nota-texto">${esc(n.texto)}</div>`;
+    box.hidden = false;
+    if (b) { b.classList.add('tem-nota'); b.querySelector('span').textContent = 'Editar anotação'; }
+  });
+}
+const ordemArt = (a, b) => a.nomeLei.localeCompare(b.nomeLei, 'pt-BR') || a.uid.localeCompare(b.uid, 'pt-BR', { numeric: true });
+function secaoArtigosENotas() {
+  const nomeDe = (x) => ((leis.find((l) => l.id === x.lei) || {}).nome) || x.nomeLei;
+  let h = `<section class="secao" id="secArtigos"><h2>Artigos favoritos</h2>`;
+  h += dados.artigos.length ? `<ul class="lista-marcas">${dados.artigos.slice().sort(ordemArt).map((a) => `<li><span class="estrela">★</span><a href="#/${esc(a.lei)}/${esc(a.uid)}"><b>${esc(a.rot)}</b> <span style="font-family:var(--ui);font-size:13px;color:var(--tinta2)">${esc(nomeDe(a))}</span></a><button class="x" data-remart="${esc(a.lei + '|' + a.uid)}" title="Remover dos favoritos" aria-label="Remover dos favoritos">✕</button></li>`).join('')}</ul>`
+    : '<p class="aviso-busca">Nenhum artigo favorito. Abra uma lei e toque na estrela <b>☆</b> ao lado do número do artigo.</p>';
+  h += `</section><section class="secao" id="secAnotacoes"><h2>Suas anotações</h2>`;
+  if (dados.notas.length) {
+    h += `<div class="grade-backup"><button class="btn prim" data-exp="md">Exportar anotações (.md)</button><button class="btn" data-exp="txt">Exportar anotações (.txt)</button></div>
+      <ul class="lista-marcas">${dados.notas.slice().sort(ordemArt).map((n) => { const d = new Date(n.em); return `<li>${artigoFav(n.lei, n.uid) ? '<span class="estrela">★</span>' : '<span class="cor amarelo"></span>'}<a href="#/${esc(n.lei)}/${esc(n.uid)}"><b>${esc(n.rot)}</b> <span style="font-family:var(--ui);font-size:13px;color:var(--tinta2)">${esc(nomeDe(n))}${isNaN(d) ? '' : ' · ' + d.toLocaleDateString('pt-BR')}</span><span class="nota-texto">${esc(n.texto.length > 600 ? n.texto.slice(0, 600) + '…' : n.texto)}</span></a><button class="x" data-remnota="${esc(n.lei + '|' + n.uid)}" title="Excluir anotação" aria-label="Excluir anotação">✕</button></li>`; }).join('')}</ul>`;
+  } else h += '<p class="aviso-busca">Nenhuma anotação. Abra uma lei e toque em <b>Anotar</b> no artigo.</p>';
+  return h + '</section>';
+}
+function ligarArtigosENotas() {
+  const raiz = $('#conteudo');
+  raiz.querySelectorAll('[data-remart]').forEach((b) => (b.onclick = () => {
+    const [lei, uid] = b.dataset.remart.split('|'); dados.artigos = dados.artigos.filter((a) => !(a.lei === lei && a.uid === uid)); salvarDados(); telaMarcacoes('artigos');
+  }));
+  raiz.querySelectorAll('[data-remnota]').forEach((b) => (b.onclick = () => {
+    if (!confirm('Excluir esta anotação?')) return;
+    const [lei, uid] = b.dataset.remnota.split('|'); dados.notas = dados.notas.filter((n) => !(n.lei === lei && n.uid === uid)); salvarDados(); telaMarcacoes('anotacoes');
+  }));
+  raiz.querySelectorAll('[data-exp]').forEach((b) => (b.onclick = () => exportarAnotacoes(b.dataset.exp)));
+}
+async function exportarAnotacoes(formato) {
+  if (!dados.notas.length) return aviso('Nenhuma anotação para exportar');
+  aviso('Preparando o arquivo…');
+  const porLei = {}; dados.notas.slice().sort(ordemArt).forEach((n) => (porLei[n.lei] = porLei[n.lei] || []).push(n));
+  const md = formato === 'md'; const agora = new Date();
+  const L = [md ? '# Minhas anotações — Lex Vade Mecum' : 'MINHAS ANOTAÇÕES — LEX VADE MECUM', '',
+    `Exportado em ${agora.toLocaleDateString('pt-BR')} às ${agora.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}${linhaPerfil() ? ' · ' + linhaPerfil().replace(/^Compartilhado por /, '') : ''}`, ''];
+  for (const id of Object.keys(porLei)) {
+    const lei = leis.find((l) => l.id === id); let d = null;
+    try { if (lei) d = await abrirLei(id); } catch (e) {}
+    const nome = lei ? lei.nome : porLei[id][0].nomeLei;
+    L.push(md ? `## ${nome}` : '='.repeat(60), ...(md ? [] : [nome.toUpperCase(), '='.repeat(60)]), '');
+    porLei[id].forEach((n) => {
+      const u = d && d.unidades.find((x) => x.id === n.uid);
+      const dt = new Date(n.em);
+      L.push(md ? `### ${n.rot}${artigoFav(n.lei, n.uid) ? ' ★' : ''}` : `${n.rot}${artigoFav(n.lei, n.uid) ? ' (favorito)' : ''}`, '');
+      if (u) { const txt = u.texto.map(linhaPlana).filter(Boolean); L.push(...(md ? txt.map((x) => '> ' + x) : txt.map((x) => '    ' + x)), ''); }
+      L.push(md ? `**Minha anotação${isNaN(dt) ? '' : ' (' + dt.toLocaleDateString('pt-BR') + ')'}:**` : `Minha anotação${isNaN(dt) ? '' : ' (' + dt.toLocaleDateString('pt-BR') + ')'}:`, '', n.texto, '');
+      L.push(md ? `[Abrir no Lex Vade Mecum](${urlDe(`#/${n.lei}/${n.uid}`)})` : urlDe(`#/${n.lei}/${n.uid}`), '', md ? '---' : '-'.repeat(60), '');
+    });
+  }
+  L.push('As anotações são pessoais. O texto dos artigos é o oficial, conferido com o Portal da Legislação do Planalto.');
+  const url = URL.createObjectURL(new Blob([L.join('\n')], { type: md ? 'text/markdown;charset=utf-8' : 'text/plain;charset=utf-8' }));
+  const a = document.createElement('a'); a.href = url; a.download = `lex-vade-mecum-anotacoes-${agora.toISOString().slice(0, 10)}.${md ? 'md' : 'txt'}`;
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 4000);
+  aviso(`${dados.notas.length} anotação(ões) exportada(s)`);
 }
 function exportarBackup() {
   const hoje = new Date().toISOString().slice(0, 10);
@@ -1311,21 +1469,24 @@ async function importarBackup(arquivo) {
   const ok = (m) => m && typeof m === 'object' && typeof m.lei === 'string' && typeof m.uid === 'string' && typeof m.t === 'string' && Number.isInteger(m.p) && Number.isInteger(m.ini) && Number.isInteger(m.fim);
   const marcas = x.marcas.filter(ok).map((m) => ({ id: String(m.id || novoId()), g: String(m.g || m.id || novoId()), lei: m.lei, nomeLei: String(m.nomeLei || m.lei), uid: m.uid, p: m.p, ini: m.ini, fim: m.fim, t: m.t, cor: CORES.includes(m.cor) ? m.cor : 'amarelo', em: String(m.em || new Date().toISOString()) }));
   const favs = x.favoritos.filter((f) => typeof f === 'string');
-  const juntar = dados.favoritos.length || dados.marcas.length || Object.keys(dados.leitura).length
+  const juntar = temDados()
     ? confirm('Juntar o backup com o que já está salvo neste navegador?\n\nOK = juntar · Cancelar = substituir pelo backup')
     : true;
   const perfilBk = limparPerfil(x.perfil);
   const leituraBk = limparLeitura(x.leitura);
+  const artigosBk = limparArtigos(x.artigos); const notasBk = limparNotas(x.notas);
   if (juntar) {
     Object.entries(leituraBk).forEach(([k, v]) => { const a = dados.leitura[k]; if (!a || (v.em || '') > (a.em || '')) dados.leitura[k] = v; });
     if (!dados.perfil.nome && !dados.perfil.arroba) dados.perfil = perfilBk;
     const ids = new Set(dados.marcas.map((m) => m.id));
     dados.marcas = dados.marcas.concat(marcas.filter((m) => !ids.has(m.id)));
     dados.favoritos = [...new Set(dados.favoritos.concat(favs))];
-  } else dados = { versao: 1, perfil: perfilBk, favoritos: [...new Set(favs)], marcas, leitura: leituraBk };
-  if (salvarDados()) aviso(`Backup importado: ${favs.length} favorita(s), ${marcas.length} marcação(ões) e ${Object.keys(leituraBk).length} leitura(s) em andamento`);
+    artigosBk.forEach((a) => { if (!artigoFav(a.lei, a.uid)) dados.artigos.push(a); });
+    notasBk.forEach((n) => { const a = notaDe(n.lei, n.uid); if (!a) dados.notas.push(n); else if (n.em > a.em) Object.assign(a, n); });
+  } else dados = { versao: 1, perfil: perfilBk, favoritos: [...new Set(favs)], marcas, leitura: leituraBk, artigos: artigosBk, notas: notasBk };
+  if (salvarDados()) aviso(`Backup importado: ${favs.length} lei(s) e ${artigosBk.length} artigo(s) favorito(s), ${notasBk.length} anotação(ões), ${marcas.length} marcação(ões) e ${Object.keys(leituraBk).length} leitura(s) em andamento`);
   desenharMenu();
-  if (atual === 'marcacoes') telaMarcacoes(); else if (atual && cache[atual]) { aplicarMarcas(atual); aplicarLeitura(atual); }
+  if (atual === 'marcacoes') telaMarcacoes(); else if (atual && cache[atual]) { aplicarMarcas(atual); aplicarLeitura(atual); aplicarArtigos(atual); }
 }
 
 /* ---------- Progresso de leitura ----------
@@ -1750,7 +1911,7 @@ async function rota() {
   const q = (new URLSearchParams(qs).get('q') || '').replace(/\|/g, ' ').trim();
   if (!id) return inicio();
   if (id === 'sobre') return sobre();
-  if (id === 'marcacoes') return telaMarcacoes();
+  if (id === 'marcacoes') return telaMarcacoes(alvo);
   if (id === 'manual') return manual(alvo);
   if (atual === id && $('#conteudo .titulo-obra') && !q) { desenharMenu(); return irPara(id, alvo); }
   esconderSugestoes();
