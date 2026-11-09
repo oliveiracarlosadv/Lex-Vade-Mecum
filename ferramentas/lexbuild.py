@@ -36,6 +36,7 @@ SOLTA = re.compile(r'^(DISPOSIÇÃO PRELIMINAR|DISPOSIÇÕES FINAIS E TRANSITÓR
 LEVEL = {'PARTE': 0, 'LIVRO': 1, 'TÍTULO': 2, 'SUBTÍTULO': 3, 'CAPÍTULO': 4, 'Capítulo': 4, 'SEÇÃO': 5, 'Seção': 5, 'SUBSEÇÃO': 6, 'Subseção': 6}
 
 def find(prefix, start=0):
+    if prefix == '$FIM': return len(L)  # parte que vai até o fim do texto (anexo final do LegisWeb)
     for i in range(start, len(L)):
         if L[i].startswith(prefix):
             return i
