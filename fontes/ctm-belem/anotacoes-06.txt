@@ -1,0 +1,224 @@
+@CTMB 185
+I: O termo de inscrição em dívida ativa deve indicar devedor e corresponsáveis com domicílio, valor e forma de calcular a multa, origem e fundamento legal do crédito, data da inscrição e número do processo; a certidão traz também livro e folha (CTN, art. 202; Lei nº 6.830/1980, art. 2º, § 5º). A falta desses requisitos gera nulidade (CTN, art. 203).
+P: Requisitos do termo de inscrição || Livro e folha na certidão || Nulidade por vício formal
+K: dívida ativa; certidão de dívida ativa; CDA; requisitos
+
+@CTMB 186
+I: Quem, espontaneamente e antes de ação fiscal, presta declarações ou paga débitos que não dependam de lançamento de ofício não sofre penalidade pela falta de pagamento; responde só pela mora (multa moratória e atualização) e por infrações formais. O STJ não reconhece denúncia espontânea em tributo declarado e pago com atraso (Súmula 360).
+P: Denúncia espontânea || Exclusão da multa punitiva || Manutenção da mora
+K: denúncia espontânea; CTN art. 138; multa; Súmula 360 do STJ
+
+@CTMB 186-A
+I: Incluído pela Lei nº 10.250/2025, permite à Secretaria de Finanças avisar o contribuinte de indício de irregularidade para que se autorregularize no prazo, sem penalidades. O aviso não inicia procedimento fiscal nem afasta a espontaneidade, que se limita às inconsistências apontadas. Sem regularização, segue-se o procedimento com penalidades.
+P: Autorregularização sem multa || Aviso não exclui espontaneidade || Limite às inconsistências comunicadas
+K: autorregularização; conformidade tributária; denúncia espontânea
+
+@CTMB 187
+I: Se o contribuinte paga o principal sem os acréscimos moratórios, estes viram débito autônomo, sujeito às mesmas multas.
+P: Acréscimos não pagos como débito autônomo
+K: mora; acréscimos; multa
+
+@CTMB 188
+I: O artigo foi revogado pela Lei municipal nº 8.269/2003 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; penalidades
+
+@CTMB 189
+I: Pagar multa não dispensa cumprir a obrigação que a originou, não impede ação penal cabível nem a cobrança do tributo.
+P: Multa não substitui a obrigação || Independência das esferas
+K: penalidades; obrigação tributária; ação penal
+
+@CTMB 190
+I: Infrações sem penalidade específica são punidas com multa de R$ 100,00.
+P: Multa genérica de R$ 100,00
+K: multa; infração; penalidade genérica
+
+@CTMB 191
+I: Serventuários da justiça, do registro de comércio e servidores que, nos casos legais, deixarem de exigir prova de quitação, imunidade ou isenção ou de anotá-la sofrem multa igual ao débito não pago (CTN, art. 134, VI).
+P: Responsabilidade de serventuários e servidores || Multa igual ao débito
+K: tabeliães; responsabilidade; certidão negativa
+
+@CTMB 192
+I: Quem, em 5 dias úteis, não presta informações, não exibe livros, documentos ou bens ou não franqueia o estabelecimento ao Fisco paga multa de R$ 100,00, R$ 150,00 e R$ 200,00 por intimação descumprida, mesmo após o arbitramento.
+P: Multas progressivas por embaraço || Prazo de 5 dias úteis
+K: embaraço à fiscalização; multa; intimação
+
+@CTMB 193
+I: Falsificar ou adulterar livros e documentos fiscais gera multa de R$ 500,00 por livro ou documento, sem prejuízo de outras sanções, inclusive penais.
+P: Multa por falsificação
+K: falsificação; documentos fiscais; multa
+
+@CTMB 194
+I: Podem ser apreendidos veículos, animais e objetos de propaganda em vias públicas sem tributos ou licenças pagos; mercadorias sem documento fiscal, com anotações falsas, de não inscritos ou com indício de fraude; e papéis que provem infração. O STF veda a apreensão de mercadorias como meio coercitivo de cobrança (Súmula 323).
+P: Hipóteses de apreensão || Limite da Súmula 323 do STF
+K: apreensão; mercadorias; Súmula 323 do STF
+
+@CTMB 195
+I: Respondem pessoalmente o adquirente de imóvel pelos débitos do alienante (salvo prova de quitação no título), o espólio, os sucessores e o meeiro (até o quinhão) e a pessoa jurídica resultante de fusão, transformação ou incorporação (CTN, arts. 130 a 132).
+P: Responsabilidade por sucessão imobiliária || Sucessão causa mortis || Sucessão empresarial
+K: responsabilidade tributária; sucessão; adquirente; espólio
+
+@CTMB 196
+I: Respondem solidariamente, quando não se puder cobrar do contribuinte, pais, tutores, curadores, administradores de bens, inventariantes, síndico e sócios na liquidação de sociedade de pessoas, quanto aos atos em que intervierem ou omissões; em penalidades, só as moratórias (CTN, art. 134).
+P: Responsabilidade de terceiros || Limite às multas moratórias
+K: responsabilidade de terceiros; inventariante; sócios; CTN art. 134
+
+@CTMB 197
+I: O infrator que se recusar a indicar os demais envolvidos paga também a multa a que eles estariam sujeitos.
+P: Multa pela não indicação de coautores
+K: infração; coautoria; multa
+
+@CTMB 198
+I: Quem colaborar com a sonegação sofre multa igual à do contribuinte beneficiado.
+P: Multa para colaboradores da sonegação
+K: sonegação; colaboração; multa
+
+@CTMB 199
+I: O processo administrativo fiscal é regido por esta lei e começa por petição do interessado ou de ofício; é fiscal o processo sobre interpretação ou aplicação da legislação tributária.
+P: Início por petição ou de ofício || Conceito de processo fiscal
+K: processo administrativo fiscal; PAF
+
+@CTMB 200
+I: O contribuinte pode postular pessoalmente ou por procurador, e entidades de classe podem defender interesses gerais da categoria.
+P: Postulação pessoal ou por mandato || Representação por órgãos de classe
+K: processo administrativo fiscal; representação; procurador
+
+@CTMB 201
+I: Os prazos são contínuos e peremptórios, excluindo-se o dia do início e incluindo-se o do vencimento (CTN, art. 210).
+P: Contagem dos prazos
+K: prazos; contagem; processo administrativo
+
+@CTMB 202
+I: Os prazos só começam ou vencem em dia de expediente normal da repartição.
+P: Início e fim em dia útil
+K: prazos; dia útil
+
+@CTMB 203
+I: Sem prazo específico, o contribuinte tem 15 dias para praticar atos, prorrogáveis por igual período se pedido antes do vencimento; o prazo de defesa pode ser acrescido de metade em circunstâncias especiais.
+P: Prazo geral de 15 dias || Prorrogação || Acréscimo de metade para defesa
+K: prazos; prorrogação; defesa
+
+@CTMB 204
+I: A petição deve conter nome, inscrição, endereço para intimações, pedido e fundamentos e o valor que se reputa devido. É indeferida se inepta ou de parte ilegítima, mas o protocolo não pode recusá-la; não se podem reunir tributos diversos ou vários autos numa mesma petição.
+P: Requisitos da petição || Dever de receber || Vedação de cumulação
+K: petição; processo administrativo fiscal; requisitos
+
+@CTMB 205
+I: Pela redação da Lei nº 10.182/2025, os interessados têm ciência do início do processo e dos atos decisórios ou que lhes imponham obrigações por intimação ou outro meio de comunicação previsto em regulamento (a nota do LegisWeb remete ao Decreto nº 114.074/2025).
+P: Ciência dos atos processuais || Meios definidos em regulamento
+K: intimação; processo administrativo fiscal; ciência
+
+@CTMB 205-A
+I: Incluído pela Lei nº 10.182/2025, institui o Domicílio Tributário Eletrônico (DT-e) para comunicação entre a Secretaria de Finanças e o contribuinte: ciência de atos e lançamentos, notificações, intimações e avisos, com valor de comunicação pessoal. A ciência ocorre na consulta eletrônica ou, se não houver consulta, 10 dias após o envio.
+P: Domicílio Tributário Eletrônico || Comunicação com valor pessoal || Ciência ficta após 10 dias
+K: domicílio tributário eletrônico; DT-e; intimação eletrônica; Lei nº 10.182/2025
+
+@CTMB 206
+I: A intimação pessoal é comprovada pela assinatura do intimado ou, na recusa, por declaração do servidor; pode ser postal ou telegráfica com aviso de recebimento, considerada feita em 15 dias da postagem se não constar data.
+P: Intimação pessoal ou postal || Presunção de 15 dias
+K: intimação; aviso de recebimento; prazo
+
+@CTMB 207
+I: Se o intimado não for encontrado, a intimação é por edital, considerada feita 20 dias após a publicação no órgão oficial e em jornal de grande circulação.
+P: Intimação por edital || Prazo de 20 dias
+K: intimação por edital; prazo
+
+@CTMB 208
+I: O procedimento fiscal começa com a ciência ao contribuinte de qualquer ato de servidor competente e exclui a espontaneidade (CTN, art. 138, parágrafo único). Alcança os atos anteriores e, nas infrações permanentes, vai até o fim da ação fiscal.
+P: Início do procedimento || Exclusão da espontaneidade || Infrações permanentes
+K: procedimento fiscal; espontaneidade; denúncia espontânea
+
+@CTMB 209
+I: O procedimento de exame deve terminar em 60 dias, prorrogáveis com ciência ao interessado; as prorrogações ininterruptas não podem passar de 120 dias.
+P: Prazo de 60 dias || Prorrogações até 120 dias
+K: fiscalização; prazo; prorrogação
+
+@CTMB 210
+I: A apreensão de livros, documentos e mercadorias é feita por auto circunstanciado, que pode constar do próprio auto de infração.
+P: Auto de apreensão
+K: apreensão; auto circunstanciado
+
+@CTMB 211
+I: O processo de ofício começa por auto de infração ou notificação de lançamento, um para cada tributo; infrações ou débitos conexos podem ser reunidos numa só autuação.
+P: Auto de infração e notificação de lançamento || Autuação única para fatos conexos
+K: auto de infração; notificação de lançamento
+
+@CTMB 212
+I: O auto de infração e a notificação de lançamento indicam autuado, local e data, descrição dos fatos, dispositivo infringido e penalidade, valores, prazos e reduções, prazo de defesa e assinatura do autuante (dispensada na notificação eletrônica).
+P: Requisitos do auto de infração || Notificação eletrônica sem assinatura
+K: auto de infração; requisitos; nulidade
+
+@CTMB 213
+I: Os atos e termos processuais devem ser lavrados sem espaços em branco, entrelinhas ou rasuras não ressalvadas, com clareza.
+P: Forma dos atos processuais
+K: atos processuais; forma
+
+@CTMB 214
+I: São nulos os atos de autoridade incompetente, as decisões sem fundamento e os que prejudiquem o direito de defesa (CF, art. 5º, LV).
+P: Hipóteses de nulidade
+K: nulidade; incompetência; ampla defesa
+
+@CTMB 215
+I: A nulidade de um ato só atinge os posteriores que dele dependam; a autoridade que a declara indica os atos alcançados e as providências.
+P: Alcance da nulidade || Providências na declaração
+K: nulidade; aproveitamento dos atos
+
+@CTMB 216
+I: Aplicam-se subsidiariamente ao processo fiscal as normas do processo administrativo em geral.
+P: Aplicação subsidiária
+K: processo administrativo fiscal; subsidiariedade
+
+@CTMB 217
+I: O contribuinte ou seu representante pode ter vista dos processos em que for parte, mas os autos não saem da repartição.
+P: Direito de vista || Autos na repartição
+K: vista dos autos; processo administrativo
+
+@CTMB 218
+I: Documentos apresentados podem ser devolvidos em qualquer fase, sem prejuízo do processo, mediante cópias autenticadas.
+P: Devolução de documentos
+K: documentos; devolução
+
+@CTMB 219
+I: A administração fornece certidão de peças dos autos a pedido do contribuinte, indicando se a decisão transitou em julgado na via administrativa.
+P: Certidão de peças || Indicação de trânsito em julgado
+K: certidão; processo administrativo
+
+@CTMB 220
+I: O interessado pode apresentar petições em duas vias, recebendo a segunda autenticada como prova da entrega.
+P: Comprovante de protocolo
+K: protocolo; petição
+
+@CTMB 221
+I: O litígio fiscal se instaura com a impugnação de auto de infração ou notificação, do indeferimento de restituição ou da recusa de receber tributo. Pagar ou pedir parcelamento reconhece a dívida e encerra o litígio.
+P: Instauração do litígio || Pagamento ou parcelamento encerra o litígio
+K: litígio fiscal; impugnação; parcelamento
+
+@CTMB 222
+I: A impugnação é feita por escrito em 30 dias da intimação, com documentos e indicação de provas, e suspende a cobrança até a decisão final (CTN, art. 151, III).
+P: Impugnação em 30 dias || Efeito suspensivo
+K: impugnação; prazo; suspensão da exigibilidade
+
+@CTMB 223
+I: Pela redação da Lei Complementar municipal nº 9.154/2015, o julgamento em primeira instância cabe à Julgadoria de Assuntos Tributários, com 4 julgadores da carreira de Auditor Fiscal da Receita Municipal.
+P: Julgadoria de Assuntos Tributários || Composição por auditores fiscais
+K: julgamento administrativo; primeira instância; auditor fiscal
+
+@CTMB 224
+I: As decisões devem ser fundamentadas, enfrentando os argumentos do contribuinte e citando os dispositivos legais.
+P: Dever de fundamentação
+K: decisão administrativa; fundamentação
+
+@CTMB 225
+I: Se a exigência não for cumprida nem impugnada, declara-se a revelia, intima-se o contribuinte e o processo segue à Procuradoria Fiscal para cobrança.
+P: Revelia || Remessa para cobrança
+K: revelia; Procuradoria Fiscal; cobrança
+
+@CTMB 226
+I: Da decisão de primeira instância cabe recurso, em 30 dias, de ofício ou voluntário.
+P: Recurso de ofício e voluntário || Prazo de 30 dias
+K: recurso administrativo; prazo
+
+@CTMB 227
+I: O recurso de ofício é obrigatório quando a decisão cancela ou reduz créditos de auto de infração ou notificação superiores a 20 Unidades Fiscais, salvo erro de fato e infrações a obrigações acessórias.
+P: Recurso de ofício obrigatório || Valor mínimo de 20 Unidades Fiscais || Exceções
+K: recurso de ofício; Unidade Fiscal; reexame
