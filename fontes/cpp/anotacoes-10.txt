@@ -1,0 +1,249 @@
+@CPP 460
+I: Antes da formação do Conselho de Sentença, as testemunhas ficam em local onde não ouçam os depoimentos umas das outras.
+P: Incomunicabilidade das testemunhas no júri
+K: testemunhas; incomunicabilidade; plenário
+
+@CPP 461
+I: O julgamento não é adiado pela falta de testemunha, salvo se a parte tiver pedido sua intimação por mandado declarando não prescindir dela. Nesse caso, o juiz manda conduzi-la ou adia o julgamento, mas este ocorre se a testemunha não for encontrada no endereço indicado.
+P: Testemunha imprescindível intimada por mandado || Condução ou adiamento || Julgamento se a testemunha não for encontrada
+K: testemunha; adiamento; plenário do júri
+
+@CPP 462
+I: Feitas as diligências preliminares, o juiz verifica se a urna contém as cédulas dos 25 jurados sorteados e manda chamá-los.
+P: Conferência das cédulas e chamada dos jurados
+K: jurados; chamada; urna
+
+@CPP 463
+I: Com pelo menos 15 jurados presentes, o juiz instala os trabalhos e anuncia o processo. Os excluídos por impedimento ou suspeição contam para esse número.
+P: Quórum mínimo de 15 jurados
+K: quórum; instalação da sessão; jurados
+
+@CPP 464
+I: Sem 15 jurados, sorteiam-se suplentes e designa-se nova data.
+P: Sorteio de suplentes e nova data
+K: suplentes; quórum; adiamento
+
+@CPP 465
+I: Os nomes dos suplentes são registrados em ata e convocados na forma dos arts. 434 e 435.
+P: Registro e convocação dos suplentes
+K: suplentes; convocação
+
+@CPP 466
+I: Antes do sorteio do Conselho, o juiz esclarece os impedimentos e adverte os jurados de que não podem se comunicar entre si nem com outros, nem opinar sobre o processo, sob pena de exclusão e multa. A incomunicabilidade é certificada nos autos.
+P: Advertência sobre impedimentos || Incomunicabilidade dos jurados || Certidão do oficial
+K: incomunicabilidade dos jurados; conselho de sentença
+
+@CPP 467
+I: O juiz sorteia 7 jurados entre os presentes para formar o Conselho de Sentença.
+P: Sorteio dos 7 jurados
+K: conselho de sentença; sorteio
+
+@CPP 468
+I: À medida que os jurados são sorteados, a defesa e depois a acusação podem recusar até 3 cada uma, sem motivar (recusa peremptória). O recusado é excluído daquela sessão.
+P: Recusas imotivadas, até 3 por parte || Defesa recusa primeiro
+K: recusa peremptória; jurados; conselho de sentença
+
+@CPP 469
+I: Havendo vários acusados, as recusas podem ser feitas por um só defensor. Os julgamentos só são separados se as recusas impedirem a formação do Conselho, julgando-se primeiro o autor do fato ou, na coautoria, segundo a ordem de preferência.
+P: Recusas com vários acusados || Separação dos julgamentos como exceção
+K: corréus; recusas; separação de julgamentos
+
+@CPP 470
+I: Rejeitada a arguição de impedimento ou suspeição contra o juiz, o promotor, jurado ou servidor, o julgamento não é suspenso, registrando-se em ata a arguição e a decisão.
+P: Julgamento não suspenso pela arguição rejeitada
+K: suspeição; impedimento; plenário
+
+@CPP 471
+I: Se, por impedimentos, dispensas ou recusas, não houver número para o Conselho, o julgamento é adiado após o sorteio de suplentes.
+P: Adiamento por falta de jurados
+K: adiamento; conselho de sentença
+
+@CPP 472
+I: Formado o Conselho, todos se levantam e o juiz faz a exortação aos jurados, que prometem julgar com imparcialidade, conforme sua consciência e os ditames da justiça. Os jurados recebem cópia da pronúncia e do relatório do processo.
+P: Compromisso dos jurados || Cópias da pronúncia e do relatório
+K: compromisso; jurados; exortação
+
+@CPP 473
+I: Na instrução em plenário, juiz, acusação, assistente e defesa ouvem diretamente o ofendido e as testemunhas de acusação; nas testemunhas de defesa, o defensor pergunta antes. Os jurados perguntam por meio do juiz. Admitem-se acareações, reconhecimentos, esclarecimentos de peritos e leitura de provas colhidas por precatória, cautelares, antecipadas ou não repetíveis.
+P: Inquirição direta em plenário || Perguntas dos jurados pelo juiz || Leitura restrita de peças
+K: instrução em plenário; inquirição; jurados
+
+@CPP 474
+I: Em seguida, o acusado é interrogado, podendo as partes perguntar diretamente e os jurados por meio do juiz. Não se usam algemas no plenário, salvo se absolutamente necessário à ordem, à segurança ou à integridade dos presentes.
+P: Interrogatório em plenário || Vedação de algemas, salvo necessidade
+K: interrogatório; plenário; algemas
+
+@CPP 474-A
+I: Incluído pela Lei nº 14.245/2021 (Lei Mariana Ferrer), o artigo obriga todos os presentes no plenário a respeitar a dignidade da vítima, vedando manifestações sobre fatos alheios ao processo e linguagem ou material ofensivo à vítima ou às testemunhas, sob pena de responsabilização.
+P: Proteção da dignidade da vítima no plenário || Lei Mariana Ferrer
+K: Lei Mariana Ferrer; vítima; plenário do júri
+
+@CPP 475
+I: Os depoimentos e o interrogatório em plenário são registrados por gravação ou técnica similar, e a transcrição é juntada aos autos.
+P: Gravação dos depoimentos em plenário
+K: gravação; plenário; registro
+
+@CPP 476
+I: Encerrada a instrução, o Ministério Público faz a acusação nos limites da pronúncia, seguido do assistente; na ação privada, fala primeiro o querelante. Depois fala a defesa. Pode haver réplica e tréplica, com reinquirição de testemunha.
+P: Ordem dos debates || Limites da pronúncia || Réplica e tréplica
+K: debates; acusação; defesa; réplica; tréplica
+
+@CPP 477
+I: Acusação e defesa têm uma hora e meia cada, e réplica e tréplica, uma hora cada. Com mais de um acusado, acrescenta-se uma hora e dobra-se o tempo de réplica e tréplica.
+P: Tempo dos debates || Acréscimo com vários acusados
+K: debates; tempo; plenário
+
+@CPP 478
+I: Nos debates, sob pena de nulidade, as partes não podem usar como argumento de autoridade a pronúncia ou o uso de algemas, nem o silêncio do acusado ou a falta de interrogatório em seu prejuízo.
+P: Vedação de argumento de autoridade || Vedação de explorar o silêncio
+K: debates; nulidade; silêncio; pronúncia
+
+@CPP 479
+I: No julgamento, não se pode ler documento ou exibir objeto não juntado com pelo menos 3 dias úteis de antecedência, com ciência da outra parte, incluindo jornais, vídeos, fotografias e laudos.
+P: Antecedência mínima de 3 dias úteis || Proibição de prova-surpresa
+K: documentos; plenário; prova-surpresa
+
+@CPP 480
+I: As partes e os jurados podem pedir que o orador indique a folha dos autos citada. Ao fim dos debates, o juiz pergunta se os jurados estão aptos a julgar, esclarece dúvidas de fato e lhes dá acesso aos autos e aos instrumentos do crime, se pedirem.
+P: Indicação das folhas citadas || Esclarecimentos aos jurados || Acesso aos autos
+K: jurados; esclarecimentos; debates
+
+@CPP 481
+I: Se for necessária diligência essencial que não possa ser feita na hora, o juiz dissolve o Conselho e ordena a diligência; se for perícia, nomeia perito e abre prazo para quesitos e assistentes técnicos.
+P: Dissolução do Conselho para diligência essencial
+K: dissolução do conselho; diligência; perícia
+
+@CPP 482
+I: O Conselho de Sentença responde a quesitos sobre matéria de fato e sobre se o acusado deve ser absolvido. Os quesitos são proposições afirmativas, simples e distintas, elaborados com base na pronúncia, no interrogatório e nas alegações das partes.
+P: Quesitos sobre fatos e absolvição || Redação simples e afirmativa
+K: quesitos; conselho de sentença; votação
+
+@CPP 483
+I: Os quesitos seguem a ordem: materialidade, autoria ou participação, se o acusado deve ser absolvido, causas de diminuição alegadas pela defesa e qualificadoras ou causas de aumento da pronúncia. Mais de 3 votos negativos à materialidade ou autoria absolvem. Afirmadas ambas, pergunta-se "O jurado absolve o acusado?" (quesito genérico, que permite absolver por qualquer razão, inclusive clemência). Há quesitos próprios para desclassificação e tentativa, e séries distintas para vários crimes ou acusados.
+P: Ordem dos quesitos || Quesito genérico de absolvição || Desclassificação e tentativa || Séries distintas
+K: quesitos; quesito genérico; absolvição; tribunal do júri
+
+@CPP 484
+I: O juiz lê os quesitos e pergunta às partes se têm requerimento ou reclamação, registrando em ata, e explica aos jurados o significado de cada quesito. A falta de impugnação no momento gera preclusão.
+P: Leitura e explicação dos quesitos || Impugnação imediata
+K: quesitos; impugnação; preclusão
+
+@CPP 485
+I: A votação ocorre na sala especial, com juiz, jurados, partes, escrivão e oficial, ou com a retirada do público. Não se admite intervenção que perturbe a livre manifestação do Conselho.
+P: Votação em sala secreta || Vedação de interferência
+K: sala secreta; votação; sigilo
+
+@CPP 486
+I: Para cada quesito, os jurados recebem cédulas opacas com "sim" e "não", depositando uma na urna.
+P: Cédulas de votação
+K: votação; cédulas; jurados
+
+@CPP 487
+I: O oficial recolhe em urnas separadas as cédulas usadas e as não utilizadas, para garantir o sigilo do voto.
+P: Sigilo das votações (CF, art. 5º, XXXVIII, "b")
+K: sigilo das votações; urna
+
+@CPP 488
+I: Após cada resposta, o escrivão registra no termo a votação e o resultado, com a conferência das cédulas não utilizadas.
+P: Registro da votação
+K: termo de votação; resultado
+
+@CPP 489
+I: As decisões do júri são tomadas por maioria de votos. Na prática, para preservar o sigilo, a contagem é interrompida quando se atinge a maioria (4 votos), o que a lei já sugere ao falar em "mais de 3" respostas (art. 483).
+P: Decisão por maioria || Contagem até atingir 4 votos
+K: maioria; votação; sigilo
+
+@CPP 490
+I: Se uma resposta contradisser outra, o juiz explica a contradição e submete os quesitos a nova votação. Se uma resposta prejudicar as seguintes, ele encerra a votação.
+P: Contradição entre respostas || Quesitos prejudicados
+K: quesitos; contradição; nova votação
+
+@CPP 491
+I: Encerrada a votação, o termo é assinado pelo juiz, pelos jurados e pelas partes.
+P: Assinatura do termo de votação
+K: termo; votação
+
+@CPP 492
+I: Na condenação, o juiz presidente fixa a pena considerando as agravantes e atenuantes debatidas e as causas reconhecidas pelos jurados, e decide sobre a prisão. Pela redação da lei, condenação a 15 anos ou mais leva à execução provisória, e a apelação não tem efeito suspensivo, salvo exceções. O STF (Tema 1.068) decidiu que a soberania dos veredictos autoriza a execução imediata da condenação do júri, qualquer que seja a pena. Na absolvição, o juiz manda soltar o acusado. Havendo desclassificação, o juiz presidente julga o crime e os conexos.
+P: Sentença do juiz presidente || Execução imediata da condenação (STF, Tema 1.068) || Desclassificação julgada pelo presidente
+K: sentença do júri; execução provisória; soberania dos veredictos; Tema 1.068
+
+@CPP 493
+I: A sentença é lida em plenário antes do encerramento da sessão.
+P: Leitura da sentença em plenário
+K: sentença; plenário
+
+@CPP 494
+I: De cada sessão o escrivão lavra ata, assinada pelo juiz e pelas partes.
+P: Ata da sessão
+K: ata; tribunal do júri
+
+@CPP 495
+I: A ata registra fielmente todas as ocorrências da sessão: instalação, presença de jurados e partes, sorteios, recusas, testemunhas, incidentes, debates e votação. Serve para documentar nulidades e protestos.
+P: Conteúdo obrigatório da ata
+K: ata; nulidades; registro
+
+@CPP 496
+I: A falta da ata sujeita o responsável a sanções administrativas e penais.
+P: Responsabilidade pela falta da ata
+K: ata; responsabilidade
+
+@CPP 497
+I: O juiz presidente regula a polícia das sessões, requisita força pública, dirige os debates intervindo em abusos, resolve incidentes, nomeia defensor ao acusado indefeso (podendo dissolver o Conselho), retira o acusado que tumultuar e suspende a sessão para diligências, entre outras atribuições.
+P: Poderes do juiz presidente || Defesa do acusado indefeso || Polícia da sessão
+K: juiz presidente; tribunal do júri; acusado indefeso
+
+@CPP 513
+I: Nos crimes de responsabilidade de funcionários públicos julgados por juízes de direito (crimes funcionais), a denúncia ou queixa deve ser instruída com documentos ou justificação que indiquem a existência do crime.
+P: Procedimento dos crimes funcionais || Instrução da denúncia com documentos
+K: crimes funcionais; funcionário público; procedimento especial
+
+@CPP 514
+I: Nos crimes funcionais afiançáveis, antes de receber a denúncia, o juiz notifica o acusado para resposta preliminar em 15 dias. Pela Súmula 330 do STJ, essa defesa é dispensável quando a denúncia se baseia em inquérito policial.
+P: Defesa preliminar em 15 dias || Dispensa se houver inquérito (Súmula 330 do STJ)
+K: defesa preliminar; crimes funcionais; Súmula 330
+
+@CPP 515
+I: Durante o prazo da resposta, os autos ficam em cartório para exame, e a resposta pode vir com documentos e justificações.
+P: Vista dos autos na defesa preliminar
+K: defesa preliminar; autos
+
+@CPP 516
+I: O juiz rejeita a denúncia se, pela resposta, se convencer da inexistência do crime ou da improcedência da ação.
+P: Rejeição após a defesa preliminar
+K: rejeição da denúncia; crimes funcionais
+
+@CPP 517
+I: Recebida a denúncia, o acusado é citado na forma geral.
+P: Citação após o recebimento
+K: citação; crimes funcionais
+
+@CPP 518
+I: A instrução e os demais atos seguem o procedimento comum.
+P: Aplicação do procedimento comum
+K: procedimento comum; crimes funcionais
+
+@CPP 519
+I: Nos crimes de calúnia e injúria (e difamação), sem lei especial, segue-se o procedimento comum com as modificações dos artigos seguintes. Se a pena máxima não passar de 2 anos, aplica-se o rito dos Juizados Especiais.
+P: Procedimento dos crimes contra a honra || Juizados Especiais para menor potencial ofensivo
+K: crimes contra a honra; procedimento especial
+
+@CPP 520
+I: Antes de receber a queixa, o juiz oferece às partes oportunidade de reconciliação, ouvindo-as separadamente, sem advogados.
+P: Audiência de reconciliação
+K: reconciliação; crimes contra a honra; queixa
+
+@CPP 521
+I: Se achar provável a reconciliação, o juiz promove o entendimento entre as partes na sua presença.
+P: Tentativa de acordo
+K: reconciliação; conciliação
+
+@CPP 522
+I: Havendo reconciliação, o querelante assina termo de desistência e a queixa é arquivada.
+P: Arquivamento pela reconciliação
+K: reconciliação; desistência; arquivamento
+
+@CPP 523
+I: Oferecida a exceção da verdade ou da notoriedade do fato, o querelante pode contestá-la em 2 dias, com inquirição de testemunhas.
+P: Exceção da verdade ou da notoriedade || Contestação em 2 dias
+K: exceção da verdade; crimes contra a honra
