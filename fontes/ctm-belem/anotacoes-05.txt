@@ -1,0 +1,249 @@
+@CTMB 144
+I: O Livro Segundo traz normas gerais aplicáveis a todos os impostos, taxas e contribuições do Município, sempre em harmonia com o CTN.
+P: Normas gerais para todos os tributos municipais
+K: normas gerais tributárias; tributos municipais
+
+@CTMB 145
+I: A relação tributária é regida pela lei vigente na data do fato gerador, salvo disposição em contrário (CTN, art. 144).
+P: Lei do tempo do fato gerador
+K: aplicação da lei no tempo; fato gerador; irretroatividade
+
+@CTMB 146
+I: Imunidade ou isenção não dispensa o interessado da inscrição no cadastro nem das demais obrigações legais (CTN, arts. 9º, § 1º, e 175, parágrafo único).
+P: Obrigações acessórias dos imunes e isentos
+K: imunidade; isenção; obrigação acessória; cadastro
+
+@CTMB 147
+I: A obrigação tributária é principal (pagar tributo ou penalidade, nascida com o fato gerador) ou acessória (deveres no interesse da arrecadação e fiscalização). Descumprida, a acessória converte-se em principal quanto à multa (CTN, art. 113).
+P: Obrigação principal || Obrigação acessória || Conversão em multa
+K: obrigação tributária; obrigação principal; obrigação acessória
+
+@CTMB 148
+I: O crédito tributário decorre da obrigação principal e tem a mesma natureza (CTN, art. 139).
+P: Crédito decorre da obrigação principal
+K: crédito tributário; obrigação tributária
+
+@CTMB 149
+I: Circunstâncias que modificam ou suspendem o crédito não afetam a obrigação que lhe deu origem (CTN, art. 140).
+P: Autonomia entre crédito e obrigação
+K: crédito tributário; exigibilidade
+
+@CTMB 150
+I: O lançamento é ato privativo da autoridade administrativa: verifica o fato gerador, define a matéria tributável, calcula o tributo, identifica o sujeito passivo e propõe a penalidade (CTN, art. 142).
+P: Lançamento como ato privativo || Elementos do lançamento
+K: lançamento; crédito tributário; autoridade administrativa
+
+@CTMB 151
+I: Declarações de vontade de particulares não podem impedir o nascimento do crédito tributário nem alterar seus elementos.
+P: Indisponibilidade do crédito por vontade privada
+K: crédito tributário; autonomia da vontade
+
+@CTMB 152
+I: Acordos particulares que transfiram a obrigação de pagar tributo não valem contra o Fisco (CTN, art. 123), embora valham entre as partes.
+P: Ineficácia das convenções particulares perante o Fisco
+K: convenções particulares; responsabilidade; CTN art. 123
+
+@CTMB 153
+I: O lançamento é feito ou revisto de ofício quando a lei determina, faltar declaração ou esclarecimento, houver falsidade, erro, omissão, dolo, fraude, simulação, fato novo ou falta funcional no lançamento anterior (CTN, art. 149). A revisão só cabe enquanto não extinto o direito da Fazenda (decadência).
+P: Hipóteses de lançamento e revisão de ofício || Limite da decadência
+K: lançamento de ofício; revisão; CTN art. 149; decadência
+
+@CTMB 154
+I: A legislação pode exigir o pagamento antecipado sem exame prévio da autoridade (lançamento por homologação). O pagamento extingue o crédito sob condição da homologação posterior (CTN, art. 150).
+P: Lançamento por homologação || Extinção sob condição resolutória
+K: lançamento por homologação; pagamento antecipado; ISS
+
+@CTMB 155
+I: Pela redação da Lei nº 9.609/2020, os tributos são pagos em moeda corrente. O Executivo pode admitir cheque visado, cartão de crédito ou débito, caixas eletrônicos e internet; a taxa da administradora do cartão é acrescida ao débito.
+P: Pagamento em moeda || Cartão, internet e caixas eletrônicos || Taxa do cartão a cargo do contribuinte
+K: pagamento; cartão de crédito; meios de pagamento
+
+@CTMB 156
+I: O pagamento é feito na Prefeitura ou em bancos autorizados. Não receber a guia não exime o contribuinte, se houve aviso público da emissão.
+P: Locais de pagamento || Dever de buscar a guia
+K: pagamento; guia; bancos
+
+@CTMB 157
+I: Os prazos de pagamento são fixados por calendário fiscal do Secretário de Finanças, publicado até 30 de dezembro para o ano seguinte.
+P: Calendário fiscal anual
+K: calendário fiscal; prazo de pagamento
+
+@CTMB 158
+I: O pagamento comprova apenas o valor recolhido e não dá quitação de diferenças apuradas depois; o que foi pago a mais pode ser compensado nos recolhimentos seguintes.
+P: Pagamento sem quitação plena || Compensação do excesso
+K: pagamento; quitação; compensação
+
+@CTMB 159
+I: A quitação de um crédito não presume a de créditos anteriores nem de outros tributos (CTN, art. 158).
+P: Ausência de presunção de pagamento
+K: pagamento; presunção; CTN art. 158
+
+@CTMB 160
+I: O Executivo pode permitir, excepcionalmente, o parcelamento de créditos vencidos, considerando a situação do contribuinte. A nota do LegisWeb remete ao Decreto nº 114.033/2025, que instituiu o Programa de Regularização Incentivada (PRI).
+P: Parcelamento excepcional || Programa de Regularização Incentivada
+K: parcelamento; regularização fiscal; PRI
+
+@CTMB 160-A
+I: Incluído pela Lei nº 10.338/2026, o artigo determina que o pedido de parcelamento implica confissão irrevogável e irretratável do débito e renúncia a defesas, recursos e ações sobre ele. A jurisprudência admite discutir em juízo vícios jurídicos da obrigação mesmo após a confissão.
+P: Confissão irrevogável || Renúncia a defesas e recursos
+K: parcelamento; confissão de dívida; Lei nº 10.338/2026
+
+@CTMB 160-B
+I: Incluído pela Lei nº 10.338/2026, permite parcelar em até 60 meses, com parcela mínima de R$ 50,00 (pessoa física) ou R$ 200,00 (pessoa jurídica), juros do art. 161 e primeira parcela paga na assinatura do termo. Empresas em recuperação judicial podem parcelar em até 120 meses.
+P: Até 60 parcelas || Parcelas mínimas || Até 120 parcelas na recuperação judicial
+K: parcelamento; recuperação judicial; Lei nº 10.338/2026
+
+@CTMB 160-C
+I: O atraso de 3 parcelas, consecutivas ou não, ou o descumprimento de condições rescinde o parcelamento; o saldo, com os acréscimos originais e descontados os pagamentos, vai para cobrança administrativa ou judicial.
+P: Rescisão por 3 parcelas em atraso || Exigibilidade imediata do saldo
+K: parcelamento; rescisão; inadimplemento
+
+@CTMB 160-D
+I: Incluído pela Lei nº 10.338/2026, dá redução de 20% sobre multas e juros de mora a quem pagar débitos à vista; o principal e a correção não são reduzidos.
+P: Desconto de 20% em multas e juros no pagamento à vista
+K: pagamento à vista; desconto; multa; juros
+
+@CTMB 160-E
+I: Incluído pela Lei nº 10.338/2026, exige entrada mínima no reparcelamento de 10% (primeiro), 30% (do segundo ao quinto) ou 50% (a partir do sexto ou débito protestado), sem inclusão de novos débitos.
+P: Entrada progressiva no reparcelamento || Vedação de novos débitos
+K: reparcelamento; entrada mínima; protesto
+
+@CTMB 161
+I: Pela redação da Lei nº 10.250/2025, créditos tributários e não tributários vencidos ou pagos a menor sofrem juros pela taxa SELIC acumulada, do mês seguinte ao vencimento até o mês anterior ao pagamento, mais 1% no mês do pagamento. Se a SELIC for extinta, usa-se a taxa que a substituir.
+P: Juros pela SELIC || 1% no mês do pagamento
+K: juros de mora; SELIC; créditos tributários
+
+@CTMB 162
+I: Créditos apurados depois da época própria por culpa do contribuinte são atualizados desde a data em que deveriam ter sido pagos.
+P: Atualização desde o vencimento original
+K: atualização; crédito tributário; mora
+
+@CTMB 163
+I: Pela redação da Lei nº 10.250/2025, o uso da SELIC não impede a multa de mora e a multa penal, calculadas sobre o crédito atualizado. Como a SELIC já engloba correção e juros, ela não se cumula com outro índice de correção.
+P: SELIC cumulada com multas || Multas sobre o crédito atualizado
+K: SELIC; multa de mora; multa punitiva
+
+@CTMB 164
+I: As regras de atualização e mora aplicam-se a créditos anteriores a esta lei.
+P: Aplicação a créditos antigos
+K: atualização; créditos anteriores
+
+@CTMB 165
+I: Pela redação da Lei nº 9.722/2021, a multa de mora é progressiva: 2% até 30 dias, 5% até 60, 10% até 90, 15% até 120 e 20% acima de 120 dias de atraso.
+P: Multa de mora progressiva de 2% a 20%
+K: multa de mora; atraso; percentuais
+
+@CTMB 166
+I: Se o contribuinte pagar o tributo espontaneamente sem os acréscimos de mora, estes passam a ser débito autônomo sujeito a cobrança e multas.
+P: Acréscimos não pagos como débito autônomo
+K: mora; acréscimos; pagamento espontâneo
+
+@CTMB 167
+I: Não há mora quando o pagamento deixou de ser feito por decisão da autoridade competente.
+P: Exclusão da mora por decisão administrativa
+K: mora; decisão administrativa
+
+@CTMB 168
+I: Impugnações, recursos e pedidos de reconsideração, mesmo em consulta, não interrompem a mora.
+P: Mora continua durante o litígio
+K: mora; impugnação; recurso
+
+@CTMB 169
+I: Se o contribuinte depositar no prazo o valor que entende devido, não incidem atualização nem multas até o limite do depósito; se depositar fora do prazo, recolhe a multa já devida.
+P: Depósito no prazo evita mora || Depósito tardio com multa
+K: depósito; mora; atualização
+
+@CTMB 170
+I: Ajuizada a cobrança, o devedor paga todo o débito: principal atualizado, multas e demais cominações.
+P: Execução abrange todos os acréscimos
+K: execução fiscal; dívida ativa
+
+@CTMB 171
+I: O depósito pode ser livre (espontâneo, para evitar a mora) ou vinculado (exigido por lei para praticar ato).
+P: Depósito livre || Depósito vinculado
+K: depósito; espécies
+
+@CTMB 172
+I: O depósito livre pode ser levantado a qualquer tempo e não impede a cobrança nem as multas; se devolvido por decisão favorável, é atualizado.
+P: Levantamento livre || Não suspende a cobrança || Devolução atualizada
+K: depósito livre; levantamento
+
+@CTMB 173
+I: Indébito é o valor pago indevidamente a título de tributo ou multa. Não se restitui o que foi pago antes de lei que remitiu, concedeu moratória ou aboliu a pena. O direito à restituição prescreve em 5 anos (CTN, art. 168), contados conforme a hipótese, e também em 5 anos se o interessado não buscar o valor após a remessa à tesouraria.
+P: Conceito de indébito || Prazo de 5 anos || Termos iniciais
+K: restituição; indébito tributário; prescrição; CTN art. 168
+
+@CTMB 174
+I: A restituição é feita a pedido do interessado, em processo com absoluta prioridade.
+P: Pedido de restituição prioritário
+K: restituição; processo
+
+@CTMB 175
+I: O processo de restituição começa na repartição que controla o crédito e deve conter os comprovantes do pagamento.
+P: Instrução do pedido
+K: restituição; comprovantes
+
+@CTMB 176
+I: Tributos que admitem repasse do encargo só são restituídos a quem prove tê-lo suportado ou estar autorizado por quem o suportou (CTN, art. 166).
+P: Prova do encargo financeiro
+K: restituição; repercussão; CTN art. 166
+
+@CTMB 177
+I: O processo instruído vai a despacho final até 15 dias antes de completar 90 dias do pedido.
+P: Prazo de 90 dias para decidir
+K: restituição; prazo
+
+@CTMB 178
+I: Deferida a restituição pelo Secretário de Finanças, com publicação no Diário Oficial, o processo vai à tesouraria (anulação de receita) ou ao órgão de empenho (dotação orçamentária).
+P: Deferimento e publicação || Pagamento pela tesouraria ou por empenho
+K: restituição; tesouraria; empenho
+
+@CTMB 179
+I: O comprovante de receita fica no processo, salvo na restituição parcial, em que é devolvido anotado.
+P: Destino do comprovante
+K: restituição; comprovante
+
+@CTMB 180
+I: O Executivo pode compensar créditos tributários com créditos líquidos e certos do contribuinte contra o Município, nas condições que fixar (CTN, art. 170).
+P: Compensação autorizada por lei
+K: compensação; crédito líquido e certo; CTN art. 170
+
+@CTMB 181
+I: Pela redação da Lei nº 10.155/2025, a transação faz-se por concessões mútuas para prevenir ou encerrar litígio, com extinção ou renovação do crédito, nos termos de legislação específica (CTN, art. 171). Os §§ 1º a 3º, que permitiam ao Prefeito reduzir juros e multas em até 50% e parcelar em 24 vezes, foram revogados.
+P: Transação por concessões mútuas || Remissão à legislação específica || Revogação das regras antigas
+K: transação tributária; litígio; Lei nº 10.155/2025
+
+@CTMB 182
+I: O artigo foi revogado pela Lei municipal nº 7.935/1998 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; dação em pagamento
+
+@CTMB 182-A
+I: Incluído pela Lei nº 8.108/2001, permite extinguir créditos inscritos em dívida ativa por dação em pagamento de imóvel situado em Belém, aceito expressamente pela Fazenda (CTN, art. 156, XI). Em execução fiscal, a proposta é feita antes da designação da praça.
+P: Dação de imóvel para créditos em dívida ativa || Aceitação pela Fazenda || Momento na execução fiscal
+K: dação em pagamento; imóvel; dívida ativa; CTN art. 156
+
+@CTMB 182-B
+I: Só se aceitam imóveis livres de ônus, salvo débitos com o próprio Município, com valor compatível ao crédito. O imóvel pode ser de terceiro, se ele anuir no pedido e na escritura.
+P: Imóvel livre de ônus || Valor compatível || Imóvel de terceiro anuente
+K: dação em pagamento; avaliação; terceiro
+
+@CTMB 182-C
+I: Uma comissão de servidores de Finanças e Assuntos Jurídicos avalia o interesse do Município no imóvel, considerando utilidade, custo de adaptação, compatibilidade de valor e uso em política habitacional.
+P: Comissão de avaliação || Critérios de conveniência
+K: dação em pagamento; comissão; política habitacional
+
+@CTMB 183
+I: Dívida ativa é o crédito inscrito na repartição competente depois de esgotado o prazo de pagamento legal ou fixado em decisão final (CTN, art. 201).
+P: Conceito de dívida ativa
+K: dívida ativa; inscrição; CTN art. 201
+
+@CTMB 184
+I: Pela redação da Lei nº 10.250/2025, a cobrança administrativa dos créditos não inscritos dura até 12 meses do vencimento; depois, a Procuradoria Fiscal inscreve em dívida ativa e cobra judicial ou extrajudicialmente.
+P: Cobrança administrativa por até 12 meses || Inscrição pela Procuradoria Fiscal
+K: cobrança administrativa; dívida ativa; Procuradoria Fiscal
+
+@CTMB 184-A
+I: Incluído pela Lei nº 10.250/2025, permite à Secretaria de Finanças usar instrumentos de cobrança como negativação em órgãos de proteção ao crédito, inscrição em cadastros de inadimplentes estaduais ou federais e regime especial de fiscalização. O STF admite o protesto de CDA (ADI 5.135).
+P: Negativação e cadastros de inadimplentes || Regime especial de fiscalização
+K: cobrança administrativa; negativação; protesto; inadimplência
