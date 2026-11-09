@@ -303,6 +303,14 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
 /* ---------- Início, busca e Sobre ---------- */
 .capa{text-align:center}
 .capa img{width:min(420px, 80%);height:auto;margin:6px auto 10px;display:block}
+.grupo-esfera{margin:14px 10px 2px;font-family:var(--ui);font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--titulo2)}
+.grupo-genero{margin:8px 10px 0;font-family:var(--display);font-variant:small-caps;font-weight:600;letter-spacing:.06em;font-size:15px;color:var(--titulo);border-bottom:1px solid var(--fio);padding-bottom:2px}
+.grupo-especie{margin:6px 10px 0;font-family:var(--ui);font-size:11.5px;font-style:italic;color:var(--tinta2)}
+#listaLeis .grupo-esfera:first-child{margin-top:4px}
+.capa .indice-esfera{font-family:var(--ui);font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--titulo2);margin:30px 0 0}
+.capa .indice-genero{font-family:var(--display);font-variant:small-caps;font-weight:600;letter-spacing:.08em;font-size:21px;color:var(--titulo);margin:18px auto 0;max-width:36rem;text-align:left;border-bottom:2px solid var(--fio);padding-bottom:3px}
+.capa .indice-especie{font-family:var(--ui);font-style:italic;font-size:13.5px;color:var(--tinta2);margin:12px auto 0;max-width:36rem;text-align:left}
+.capa .indice-genero + .indice,.capa .indice-especie + .indice{margin-top:4px}
 .capa .titulo-indice{font-family:var(--display);font-weight:600;font-variant:small-caps;letter-spacing:.1em;font-size:24px;color:var(--titulo);margin:26px 0 0}
 .capa .assinatura{font-family:var(--display);font-size:clamp(19px,1.8vw,23px);letter-spacing:.04em;color:var(--titulo);margin:0 0 14px}
 .capa .assinatura a{color:inherit;font-style:italic;text-decoration:none;border-bottom:1px solid var(--fio)}
@@ -590,13 +598,67 @@ function dataPublicacao(txt) {
   const mes = m ? MESES.indexOf(m[2].toLowerCase()) : -1;
   return mes < 0 ? Infinity : Number(m[3]) * 10000 + (mes + 1) * 100 + Number(m[1]); // sem data (precedentes) vai para o fim
 }
+/* ---------- Organização das leis como num vade mecum ----------
+   Esfera (federal; estadual, por estado; municipal, por município) › gênero
+   (Constituição, Códigos, Legislação, Normas infralegais, Jurisprudência) › espécie
+   (Lei Complementar, Lei, Decreto-Lei, Decreto, Portaria…). A espécie sai do número
+   da norma no README; o gênero sai do nome ("Código…", "Constituição…") ou de
+   CLASSIFICACAO. Norma estadual ou municipal: incluir aqui com esfera, uf e município. */
+const CLASSIFICACAO = {
+  clt: { genero: 'codigos' },
+  'nr-01': { genero: 'normas' },
+  'tst-precedentes': { genero: 'jurisprudencia' },
+  'trt8-precedentes': { genero: 'jurisprudencia' },
+  // exemplos: 'constituicao-para': { esfera: 'estadual', uf: 'Pará', genero: 'constituicao' },
+  //           'lom-belem': { esfera: 'municipal', uf: 'PA', municipio: 'Belém', genero: 'legislacao' },
+};
+const ESFERAS = { federal: 'Legislação Federal', estadual: 'Legislação Estadual', municipal: 'Legislação Municipal' };
+const GENEROS = [
+  ['constituicao', 'Constituição'], ['codigos', 'Códigos e Consolidações'], ['legislacao', 'Legislação Complementar e Estatutos'],
+  ['normas', 'Normas Infralegais'], ['jurisprudencia', 'Jurisprudência e Precedentes'],
+];
+const GENERO_POR_ESPECIE = new Set(['legislacao', 'normas']); // gêneros subdivididos por espécie
+const ESPECIES = [
+  ['emenda', 'Emendas Constitucionais', /^Emenda Constitucional/i], ['lc', 'Leis Complementares', /^Lei Complementar/i],
+  ['lom', 'Leis Orgânicas', /^Lei Orgânica/i], ['lei', 'Leis Ordinárias', /^Lei\s+n/i], ['dl', 'Decretos-Leis', /^Decreto-Lei/i], ['mp', 'Medidas Provisórias', /^Medida Provisória/i],
+  ['decreto', 'Decretos', /^Decreto\s+n/i], ['resolucao', 'Resoluções', /^Resolução/i],
+  ['portaria', 'Portarias e Normas Regulamentadoras', /Portaria|Norma Regulamentadora|Instrução Normativa/i],
+  ['outras', 'Outras normas', /.*/],
+];
+function classificar(l) {
+  const c = CLASSIFICACAO[l.id] || {};
+  const genero = c.genero || (/^Constitui/i.test(l.nome) ? 'constituicao' : /^(Código|Consolidação)/i.test(l.nome) ? 'codigos' : /^(Precedentes|Súmulas|Temas)/i.test(l.nome) ? 'jurisprudencia' : 'legislacao');
+  const especie = ESPECIES.find(([, , re]) => re.test(l.numero.replace(/^[—–(\s-]+/, '')))[0];
+  const esfera = ESFERAS[c.esfera] ? c.esfera : 'federal';
+  const local = esfera === 'estadual' ? (c.uf || 'Sem estado') : esfera === 'municipal' ? `${c.municipio || 'Sem município'}${c.uf ? ' (' + c.uf + ')' : ''}` : '';
+  return { esfera, local, genero, especie };
+}
+// Lista em grupos [{titulo, nivel, leis?}] na ordem do vade mecum; dentro de cada grupo, A–Z ou Data.
+function leisAgrupadas() {
+  const ord = leisOrdenadas(); const cl = new Map(ord.map((l) => [l.id, classificar(l)]));
+  const blocos = [];
+  const esferas = Object.keys(ESFERAS).flatMap((e) => [...new Set(ord.filter((l) => cl.get(l.id).esfera === e).map((l) => cl.get(l.id).local))]
+    .sort((a, b) => a.localeCompare(b, 'pt-BR')).map((local) => [e, local]));
+  esferas.forEach(([e, local]) => {
+    const daqui = ord.filter((l) => cl.get(l.id).esfera === e && cl.get(l.id).local === local);
+    blocos.push({ nivel: 'esfera', titulo: ESFERAS[e] + (local ? ' — ' + local : '') });
+    GENEROS.forEach(([g, rot]) => {
+      const doGenero = daqui.filter((l) => cl.get(l.id).genero === g); if (!doGenero.length) return;
+      if (!GENERO_POR_ESPECIE.has(g)) return blocos.push({ nivel: 'genero', titulo: rot, leis: doGenero });
+      blocos.push({ nivel: 'genero', titulo: rot });
+      ESPECIES.forEach(([s, rotS]) => { const ls = doGenero.filter((l) => cl.get(l.id).especie === s); if (ls.length) blocos.push({ nivel: 'especie', titulo: rotS, leis: ls }); });
+    });
+  });
+  return blocos;
+}
 function leisOrdenadas() {
   const alfa = (a, b) => a.nome.localeCompare(b.nome, 'pt-BR', { sensitivity: 'base' });
   return [...leis].sort(ordemLeis === 'data' ? (a, b) => (dataPublicacao(a.data) - dataPublicacao(b.data)) || alfa(a, b) : alfa);
 }
 function desenharMenu() {
   document.querySelectorAll('.ordem button').forEach((b) => { b.classList.toggle('ativo', b.dataset.ordem === ordemLeis); b.setAttribute('aria-pressed', b.dataset.ordem === ordemLeis); });
-  $('#listaLeis').innerHTML = leisOrdenadas().map((l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`).join('');
+  const item = (l) => `<button class="lei${atual === l.id ? ' ativa' : ''}" data-id="${l.id}">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}<small>${esc(l.numero)}${pctLeitura(l.id) != null ? ` · <span class="pct">${pctLeitura(l.id)}% lido</span>` : ''}</small></button>`;
+  $('#listaLeis').innerHTML = leisAgrupadas().map((b) => `<div class="grupo-${b.nivel}" role="heading" aria-level="${{ esfera: 3, genero: 4, especie: 5 }[b.nivel]}">${esc(b.titulo)}</div>${(b.leis || []).map(item).join('')}`).join('');
   document.querySelectorAll('#listaLeis .lei').forEach((b) => (b.onclick = () => { location.hash = `#/${b.dataset.id}`; fecharMenu(); }));
   $('#sobreBtn').classList.toggle('ativa', atual === 'sobre');
   $('#marcasBtn').classList.toggle('ativa', atual === 'marcacoes');
@@ -702,7 +764,7 @@ function inicio() {
     ${blocoLeituras()}
     ${blocoFavoritas()}
     <h2 class="titulo-indice">Leis disponíveis</h2>
-    <ol class="indice">${leisOrdenadas().map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>
+    ${leisAgrupadas().map((b) => `<h3 class="indice-${b.nivel}">${esc(b.titulo)}</h3>${b.leis ? `<ol class="indice">${b.leis.map((l) => `<li><a href="#/${l.id}"><span class="nome-lei">${ehFavorita(l.id) ? '<span class="estrela" title="Favorita">★</span>' : ''}${esc(l.nome)}</span><span class="num-lei">${esc(l.numero.replace(/^\((.*)\)$/, '$1'))}</span><span class="meta">Publicação: ${esc(l.data)}${l.conferido ? ` · conferido com a fonte oficial em ${esc(l.conferido)}` : ''}</span></a></li>`).join('')}</ol>` : ''}`).join('')}
     <div class="dica"><b>Como buscar:</b> digite uma palavra ou trecho (<code>dano moral</code>, <code>"direito adquirido"</code>), um artigo (<code>art. 5º</code>, <code>art 1.035-A</code>, <code>adct 10</code>) um tema do TST (<code>tema 75</code>) ou um precedente do TRT8 (<code>irdr 7</code>, <code>iac 5</code>) e escolha buscar <b>nesta lei</b> ou <b>em todas</b>. Palavras soltas são procuradas juntas, em qualquer ordem; entre aspas, a expressão exata.</div>
     </div>${rodape()}`;
   $('#main').scrollTop = 0;

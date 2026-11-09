@@ -17,6 +17,7 @@ Biblioteca de leis brasileiras em Markdown, extraídas do texto oficial publicad
 Página de leitura com todas as leis deste repositório, diagramada como um livro e adaptada a computador, tablet e celular:
 
 - **Menu de leis** à esquerda, em ordem alfabética ou pela data de publicação, e **sumário** da lei aberta (Títulos, Capítulos, Seções e partes de análise).
+- **Leis organizadas como num vade mecum:** por esfera (federal, estadual por estado, municipal por município), gênero (Constituição, Códigos, Legislação Complementar e Estatutos, Normas Infralegais, Jurisprudência) e espécie (Lei Complementar, Lei, Decreto-Lei…), no menu e na página inicial.
 - **Busca** rápida com sugestões enquanto você digita: palavras em qualquer ordem (plural e feminino não importam), expressão entre aspas, começo de palavra (`penhor`), correção de erros de digitação e artigo direto: `dano moral`, `"direito adquirido"`, `art. 5º`, `art 1.035`, `adct 10`, `tema 75`, `irdr 7`, `iac 5` — na lei aberta ou em todas, com filtro por lei.
 - **Compartilhar** (WhatsApp, e-mail, link ou texto), **Imprimir** e gerar **Imagem** de cada artigo; ao **selecionar um trecho**, a mesma barra permite compartilhar, copiar com a fonte, gerar imagem da citação ou um **Story** vertical com o logo do Lex Vade Mecum e a lei no rodapé.
 - **Marca-texto** em quatro cores nos trechos da lei, **leis favoritas** e **perfil** (seu nome e @ saem nos stories e imagens), tudo salvo no próprio navegador, com **backup** e **importação** em arquivo .json.
