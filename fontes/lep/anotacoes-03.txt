@@ -1,0 +1,199 @@
+@LEP 81-B
+I: A Defensoria pode requerer todas as providências da execução (lei mais benéfica, extinção da punibilidade, unificação, detração, remição, progressão, sursis, livramento, indulto, saídas, medidas de segurança, transferências), pedir o atestado anual de pena, recorrer, representar por apuração de irregularidades, visitar periodicamente os estabelecimentos e pedir sua interdição.
+P: Legitimidade ampla para requerer na execução || Recursos e representações || Visitas e pedido de interdição
+K: Defensoria Pública; requerimentos; interdição; visita
+
+@LEP 82
+I: Os estabelecimentos penais destinam-se ao condenado, ao internado, ao preso provisório e ao egresso. Mulheres e maiores de 60 anos ficam, separadamente, em estabelecimento próprio; o mesmo conjunto arquitetônico pode abrigar estabelecimentos diversos, desde que isolados.
+P: Destinatários dos estabelecimentos || Separação de mulheres e idosos
+K: estabelecimento penal; mulher presa; idoso
+
+@LEP 83
+I: O estabelecimento deve ter áreas de assistência, educação, trabalho, recreação e esporte, local para estágio universitário, salas de aula e instalação para a Defensoria. Os estabelecimentos femininos devem ter berçário para cuidar e amamentar os filhos até pelo menos 6 meses e só agentes mulheres na segurança interna.
+P: Estrutura mínima do estabelecimento || Berçário e amamentação até 6 meses || Agentes femininas nos presídios de mulheres
+K: estabelecimento penal; berçário; amamentação; sala de aula; Defensoria Pública
+
+@LEP 83-A
+I: Atividades acessórias (limpeza, informática, portaria, lavanderia, manutenção) e serviços ligados ao trabalho do preso podem ser terceirizados, sob supervisão do poder público.
+P: Execução indireta de atividades acessórias || Supervisão estatal
+K: terceirização; execução indireta; presídio
+
+@LEP 83-B
+I: São indelegáveis a direção, a chefia, a coordenação e as atividades com poder de polícia, como classificação de condenados, aplicação de sanções, controle de rebeliões e escolta de presos.
+P: Funções indelegáveis do Estado
+K: indelegabilidade; poder de polícia; terceirização
+
+@LEP 84
+I: O preso provisório fica separado do condenado definitivo. Provisórios e condenados são separados por tipo de crime (hediondo, violento, demais) e, entre condenados, também por reincidência; ex-funcionários da Justiça Criminal ficam em dependência separada, e o preso ameaçado fica em local próprio.
+P: Separação de provisórios e condenados || Critérios de separação || Proteção do preso ameaçado
+K: separação de presos; preso provisório; crime hediondo; reincidente
+
+@LEP 85
+I: A lotação deve ser compatível com a estrutura e finalidade do estabelecimento, e o CNPCP fixa a capacidade máxima.
+P: Lotação compatível || Limite fixado pelo CNPCP
+K: superlotação; capacidade; CNPCP
+
+@LEP 86
+I: A pena pode ser cumprida em outra unidade federativa ou em presídio da União, inclusive distante, por segurança. O juiz define o estabelecimento adequado em 24 horas, a pedido da administração. O autor de violência doméstica que ameace a vítima é transferido para outra unidade federativa (Lei nº 15.410/2026). Em motim ou rebelião, a administração pode transferir presos e comunica o juiz, que decide em 24 horas (Lei nº 15.358/2026).
+P: Execução em outra unidade ou presídio federal || Definição do estabelecimento em 24 horas || Transferência do agressor de violência doméstica || Transferência emergencial em rebelião
+K: transferência de presos; presídio federal; violência doméstica; rebelião
+
+@LEP 87
+I: A penitenciária destina-se ao condenado à reclusão em regime fechado; podem ser construídas penitenciárias exclusivas para presos em RDD.
+P: Penitenciária para o regime fechado || Penitenciárias para o RDD
+K: penitenciária; regime fechado; RDD
+
+@LEP 88
+I: O condenado deve ficar em cela individual com dormitório, sanitário e lavatório, ambiente salubre e área mínima de 6 m².
+P: Cela individual || Área mínima de 6 m² || Salubridade
+K: cela individual; salubridade; condições carcerárias
+
+@LEP 89
+I: A penitenciária feminina deve ter seção para gestante e parturiente e creche para crianças de 6 meses a 7 anos cuja responsável esteja presa, com pessoal qualificado.
+P: Seção para gestante e parturiente || Creche até 7 anos
+K: penitenciária feminina; gestante; creche
+
+@LEP 90
+I: A penitenciária masculina deve ficar afastada do centro urbano, mas a distância não pode restringir as visitas.
+P: Localização da penitenciária masculina
+K: penitenciária; localização; visitas
+
+@LEP 91
+I: A colônia agrícola, industrial ou similar destina-se ao regime semiaberto. Na falta de vaga, o STF (Súmula Vinculante 56) proíbe manter o condenado em regime mais gravoso.
+P: Colônia para o regime semiaberto || Súmula Vinculante 56
+K: colônia agrícola; regime semiaberto; falta de vagas
+
+@LEP 92
+I: Na colônia o condenado pode ficar em alojamento coletivo salubre, com seleção dos presos e limite de capacidade.
+P: Alojamento coletivo || Seleção e capacidade
+K: colônia; alojamento coletivo
+
+@LEP 93
+I: A Casa do Albergado destina-se ao regime aberto e à limitação de fim de semana.
+P: Regime aberto e limitação de fim de semana
+K: Casa do Albergado; regime aberto
+
+@LEP 94
+I: A Casa do Albergado fica em centro urbano, separada dos demais estabelecimentos, sem obstáculos físicos contra fuga, pois se baseia na autodisciplina.
+P: Localização urbana || Ausência de obstáculos contra fuga
+K: Casa do Albergado; autodisciplina
+
+@LEP 95
+I: Cada região deve ter ao menos uma Casa do Albergado, com local para cursos e palestras e serviços de fiscalização e orientação.
+P: Uma Casa do Albergado por região || Cursos e palestras
+K: Casa do Albergado; cursos
+
+@LEP 96
+I: No Centro de Observação fazem-se os exames gerais e o criminológico, enviados à Comissão Técnica de Classificação, e podem ser feitas pesquisas.
+P: Exames gerais e criminológico || Pesquisa criminológica
+K: Centro de Observação; exame criminológico
+
+@LEP 97
+I: O Centro de Observação pode ser unidade autônoma ou anexo de estabelecimento penal.
+P: Instalação do Centro de Observação
+K: Centro de Observação
+
+@LEP 98
+I: Na falta do Centro de Observação, os exames são feitos pela Comissão Técnica de Classificação.
+P: Exames pela Comissão na falta do Centro
+K: Comissão Técnica de Classificação; exames
+
+@LEP 99
+I: O Hospital de Custódia e Tratamento Psiquiátrico destina-se aos inimputáveis e semi-imputáveis (CP, art. 26) e deve observar os requisitos de salubridade das celas.
+P: Destinação aos inimputáveis e semi-imputáveis
+K: hospital de custódia; medida de segurança; inimputável
+
+@LEP 100
+I: O exame psiquiátrico e os demais exames do tratamento são obrigatórios para todos os internados.
+P: Exames obrigatórios
+K: exame psiquiátrico; internado
+
+@LEP 101
+I: O tratamento ambulatorial (CP, art. 97) é feito no hospital de custódia ou em outro local com dependência médica adequada.
+P: Local do tratamento ambulatorial
+K: tratamento ambulatorial; medida de segurança
+
+@LEP 102
+I: A cadeia pública destina-se aos presos provisórios.
+P: Cadeia pública para presos provisórios
+K: cadeia pública; preso provisório
+
+@LEP 103
+I: Cada comarca deve ter ao menos uma cadeia pública, para manter o preso perto de seu meio social e familiar.
+P: Cadeia pública em cada comarca || Proximidade da família
+K: cadeia pública; comarca; família
+
+@LEP 104
+I: A cadeia pública fica perto de centro urbano e segue os requisitos mínimos das celas.
+P: Localização e requisitos
+K: cadeia pública; condições carcerárias
+
+@LEP 105
+I: Transitada em julgado a condenação a pena privativa de liberdade, estando o réu preso ou vindo a sê-lo, o juiz expede a guia de recolhimento. Para o preso cautelar, expede-se guia provisória; a Súmula 716 do STF admite progressão antes do trânsito em julgado.
+P: Guia de recolhimento após o trânsito em julgado || Execução provisória (Súmula 716 do STF)
+K: guia de recolhimento; trânsito em julgado; execução provisória
+
+@LEP 106
+I: A guia de recolhimento contém nome e qualificação do condenado, teor da denúncia e da sentença, certidão de trânsito, antecedentes, grau de instrução e data do fim da pena; é comunicada ao MP e retificada quando mudar o início ou a duração da pena.
+P: Conteúdo da guia || Ciência ao MP || Retificação
+K: guia de recolhimento; requisitos; retificação
+
+@LEP 107
+I: Ninguém é recolhido para cumprir pena sem guia judicial. A administração dá recibo, informa o condenado e registra as guias, anotando remições e retificações.
+P: Guia como condição do recolhimento || Registro e anotações
+K: guia de recolhimento; legalidade; registro
+
+@LEP 108
+I: O condenado que adoecer mentalmente é internado em hospital de custódia; a pena pode ser convertida em medida de segurança (art. 183).
+P: Doença mental superveniente
+K: doença mental; hospital de custódia; conversão
+
+@LEP 109
+I: Cumprida ou extinta a pena, o condenado é solto por alvará, se não estiver preso por outro motivo.
+P: Alvará de soltura
+K: alvará de soltura; extinção da pena
+
+@LEP 110
+I: O juiz fixa na sentença o regime inicial, conforme o art. 33 do Código Penal.
+P: Fixação do regime inicial
+K: regime inicial; sentença; art. 33 do Código Penal
+
+@LEP 111
+I: Havendo condenação por mais de um crime, o regime é definido pela soma ou unificação das penas, considerando detração e remição. Nova condenação no curso da execução é somada ao restante da pena.
+P: Regime pela soma ou unificação || Nova condenação somada ao restante
+K: unificação de penas; soma de penas; regime
+
+@LEP 112
+I: A progressão é a regra: o preso passa a regime menos rigoroso após cumprir a fração exigida e ter mérito. Pela redação das Leis nº 15.402/2026 e 15.358/2026, a fração geral é 1/6. É de 25% para o primário em crime com violência ou grave ameaça e 30% para o reincidente nesses crimes; para os crimes do Título XII do Código Penal (contra o Estado Democrático de Direito) vale a regra geral. É de 20% para o reincidente em outros crimes, 70% no hediondo (primário), 75% no hediondo com morte, no comando de organização criminosa ultraviolenta, na milícia e no feminicídio (primário), 80% no hediondo reincidente e 85% no hediondo com morte reincidente. Nos casos com morte, comando e feminicídio, o livramento condicional é vedado. A progressão exige boa conduta e exame criminológico (Lei nº 14.843/2024), decisão motivada com oitiva do MP e da defesa. A gestante ou mãe de criança ou pessoa com deficiência progride com 1/8, se preenchidos os requisitos. O tráfico privilegiado não é hediondo, e a falta grave interrompe o prazo.
+P: Fração geral de 1/6 (Lei nº 15.402/2026) || 25% e 30% nos crimes com violência || 70% a 85% nos hediondos || Vedação de livramento em hipóteses graves || Exame criminológico obrigatório || Progressão especial da mulher (1/8) || Falta grave interrompe o prazo
+K: progressão de regime; frações; crime hediondo; feminicídio; milícia; exame criminológico; Lei nº 15.402/2026; Lei nº 15.358/2026
+
+@LEP 113
+I: O ingresso no regime aberto supõe que o condenado aceite o programa e as condições fixadas pelo juiz.
+P: Aceitação das condições do regime aberto
+K: regime aberto; condições
+
+@LEP 114
+I: Só ingressa no regime aberto quem trabalha ou pode trabalhar de imediato e apresenta, pelos antecedentes e pelo exame criminológico, indícios de autodisciplina, baixa periculosidade e responsabilidade. Idosos, doentes e mães do art. 117 podem ser dispensados do trabalho.
+P: Trabalho como requisito || Exame criminológico (Lei nº 14.843/2024) || Dispensa do trabalho
+K: regime aberto; trabalho; exame criminológico
+
+@LEP 115
+I: O juiz pode fixar condições especiais no regime aberto, inclusive monitoração eletrônica, além das obrigatórias: recolher-se no repouso e folgas, cumprir horários, não sair da cidade sem autorização e comparecer em juízo. A Súmula 493 do STJ veda impor como condição especial pena restritiva de direitos.
+P: Condições obrigatórias || Condições especiais e monitoração eletrônica || Súmula 493 do STJ
+K: regime aberto; condições; monitoração eletrônica
+
+@LEP 116
+I: O juiz pode modificar as condições do regime aberto de ofício ou a pedido do MP, da administração ou do condenado.
+P: Modificação das condições
+K: regime aberto; modificação
+
+@LEP 117
+I: O regime aberto em residência particular (prisão domiciliar) só é admitido para maiores de 70 anos, doentes graves, condenadas com filho menor ou deficiente e gestantes. A jurisprudência admite a domiciliar também quando falta Casa do Albergado (Súmula Vinculante 56).
+P: Hipóteses de prisão domiciliar || Falta de vagas
+K: prisão domiciliar; regime aberto; idoso; gestante
+
+@LEP 118
+I: Há regressão para regime mais rigoroso se o condenado praticar crime doloso ou falta grave, ou se nova condenação tornar o regime incabível. No regime aberto, também se frustrar os fins da execução ou não pagar a multa podendo. Nesses casos (crime, falta grave e hipóteses do regime aberto), o condenado é ouvido antes.
+P: Hipóteses de regressão || Regressão do regime aberto || Oitiva prévia
+K: regressão de regime; falta grave; crime doloso
