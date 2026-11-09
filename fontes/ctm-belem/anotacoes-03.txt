@@ -1,0 +1,224 @@
+@CTMB 50
+I: O ISS sobre o movimento econômico é recolhido depois de prestado o serviço, conforme o regulamento; sinais e adiantamentos também geram recolhimento. Quem paga em atraso espontaneamente tem redução de 50% da multa de mora. Após o auto de infração, renunciando à defesa, a multa cai 30% (pagamento em 15 dias), 20% (30 dias) ou 10% (60 dias). Os benefícios não valem em sonegação ou fraude.
+P: Recolhimento após a prestação || Adiantamentos tributados || Redução de 50% na denúncia espontânea || Reduções após o auto de infração || Exclusão em fraude
+K: ISS; pagamento; multa de mora; denúncia espontânea; auto de infração
+
+@CTMB 51
+I: O profissional autônomo recolhe o valor total do ISS fixo, qualquer que seja a época da inscrição.
+P: Pagamento integral do ISS fixo
+K: ISS fixo; profissional autônomo
+
+@CTMB 51-A
+I: Incluído pela Lei nº 9.330/2017, permite às sociedades de profissões regulamentadas (sociedade simples com profissionais habilitados que prestam serviço pessoal e com responsabilidade pessoal) dos subitens listados, como medicina, odontologia, engenharia, advocacia e contabilidade, recolher o ISS pelo movimento ou por estimativa simplificada de R$ 6.000,00 mensais por profissional habilitado.
+P: Sociedades de profissionais || Estimativa de R$ 6.000 por profissional || Requisitos de pessoalidade e responsabilidade
+K: ISS; sociedade de profissionais; sociedade uniprofissional; estimativa
+
+@CTMB 52
+I: O Executivo pode firmar convênios com hospitais para que paguem o ISS, no todo ou em parte, por meio de internações ou serviços.
+P: Pagamento do ISS em serviços hospitalares
+K: ISS; convênio; hospitais
+
+@CTMB 53
+I: Escolas particulares podem compensar o ISS, no todo ou em parte, com bolsas de estudo, conforme o regulamento.
+P: Compensação com bolsas de estudo
+K: ISS; bolsas de estudo; escolas particulares
+
+@CTMB 54
+I: Nos casos dos arts. 51 a 53, pode haver compromisso de retenção na fonte do imposto por quem preste serviços a esses contribuintes.
+P: Compromisso de retenção na fonte
+K: ISS; retenção na fonte
+
+@CTMB 55
+I: Todas as pessoas que participem de operações ligadas à prestação de serviços, mesmo imunes, isentas ou não contribuintes, devem cumprir as obrigações acessórias do Código e do regulamento.
+P: Obrigações acessórias para todos, inclusive imunes
+K: obrigações acessórias; ISS; imunidade
+
+@CTMB 56
+I: As obrigações acessórias do ISS não excluem outras, gerais, previstas na legislação.
+P: Cumulação de obrigações acessórias
+K: obrigações acessórias
+
+@CTMB 57
+I: O contribuinte pode obter regime especial de emissão e escrituração de documentos e livros, inclusive eletrônico, apresentando os modelos pretendidos.
+P: Regime especial de escrituração
+K: regime especial; escrituração; documentos fiscais
+
+@CTMB 58
+I: Empresas com sede em Belém e escrituração centralizada podem ser dispensadas de documentos e livros nas filiais e agências.
+P: Escrituração centralizada
+K: escrituração centralizada; filiais
+
+@CTMB 59
+I: Toda pessoa sujeita ao ISS, ainda que isenta ou imune, deve inscrever-se antes de iniciar as atividades, inclusive quem não é estabelecido em Belém mas aqui presta serviços.
+P: Inscrição prévia obrigatória || Prestadores de fora do Município
+K: inscrição mobiliária; cadastro; ISS
+
+@CTMB 60
+I: A inscrição é feita a pedido do contribuinte, em formulário próprio, ou de ofício.
+P: Inscrição a pedido ou de ofício
+K: inscrição mobiliária
+
+@CTMB 61
+I: Os dados da inscrição devem ser atualizados, e as alterações comunicadas em 30 dias.
+P: Comunicação de alterações em 30 dias
+K: cadastro; alteração cadastral; prazo
+
+@CTMB 62
+I: A cessação da atividade deve ser comunicada em 30 dias.
+P: Comunicação de encerramento em 30 dias
+K: cessação de atividade; cadastro
+
+@CTMB 63
+I: Constatado o encerramento das atividades, a repartição pode cancelar a inscrição de ofício.
+P: Cancelamento de ofício
+K: inscrição; cancelamento
+
+@CTMB 64
+I: A anotação de encerramento não quita débitos existentes.
+P: Encerramento não quita débitos
+K: cessação de atividade; débitos
+
+@CTMB 65
+I: O Município pode adotar a mesma inscrição e codificação cadastral do Estado.
+P: Cadastro integrado com o Estado
+K: cadastro; convênio; inscrição estadual
+
+@CTMB 66
+I: Livros, notas fiscais, declarações e demais documentos do ISS sobre o movimento econômico são instituídos em regulamento, hoje com a nota fiscal de serviços eletrônica.
+P: Documentos fiscais definidos em regulamento
+K: nota fiscal; livros fiscais; ISS
+
+@CTMB 67
+I: O contribuinte deve exibir livros e documentos e prestar informações à fiscalização em 48 horas da intimação.
+P: Exibição em 48 horas
+K: fiscalização; exibição de livros; prazo
+
+@CTMB 68
+I: Livros e documentos ficam no estabelecimento, à disposição do Fisco, e só saem para escritórios registrados ou por requisição de autoridade.
+P: Guarda no estabelecimento
+K: livros fiscais; guarda; fiscalização
+
+@CTMB 69
+I: Não se aplicam regras que limitem o exame de livros e documentos pelo Fisco, nem a obrigação de exibi-los, ainda que o contribuinte seja isento ou imune (CTN, art. 195).
+P: Amplo poder de exame do Fisco
+K: fiscalização; livros comerciais; CTN art. 195
+
+@CTMB 70
+I: Livros e comprovantes devem ser guardados por 5 anos (prazo do CTN, art. 195, parágrafo único, que vai até a prescrição).
+P: Guarda por 5 anos
+K: livros fiscais; prazo de guarda
+
+@CTMB 71
+I: Na forma do CTN (art. 197), são obrigados a prestar informações e exibir documentos ao Fisco, entre outros, servidores, tabeliães, bancos, administradoras de bens, corretores, leiloeiros, inventariantes, bolsas, armazéns, transportadoras e seguradoras. O sigilo bancário segue a LC nº 105/2001.
+P: Terceiros obrigados a informar || Remissão ao art. 197 do CTN
+K: dever de informação; terceiros; instituições financeiras; CTN art. 197
+
+@CTMB 72
+I: O artigo foi revogado pela Lei municipal nº 8.269/2003 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação
+
+@CTMB 73
+I: A fiscalização do ISS cabe à Secretaria de Finanças e alcança contribuintes e não contribuintes, inclusive imunes e isentos.
+P: Competência da Secretaria de Finanças
+K: fiscalização; ISS; Secretaria de Finanças
+
+@CTMB 74
+I: Em caso de embaraço ou desacato, ou para medidas de proteção ao Fisco, os agentes podem requisitar auxílio policial (CTN, art. 200).
+P: Requisição de força policial
+K: fiscalização; embaraço; força policial
+
+@CTMB 75
+I: Regimes especiais podem ser revogados se o beneficiário descumprir as condições.
+P: Revogação de regime especial
+K: regime especial; revogação
+
+@CTMB 76
+I: O Executivo pode instituir sistema especial de fiscalização quando os livros e documentos forem insatisfatórios.
+P: Fiscalização especial
+K: fiscalização; regime especial
+
+@CTMB 77
+I: Presume-se omissão de receitas tributáveis, para fins de penalidade, a existência de receitas sem origem comprovada, suprimentos de caixa sem documentação idônea e irregularidade em máquina registradora sem defeito comprovado.
+P: Presunções de omissão de receita
+K: omissão de receita; presunção; ISS
+
+@CTMB 78
+I: Não sofre penalidade quem age conforme decisão de autoridade competente ou está com consulta pendente, até o fim do prazo para cumprir a resposta.
+P: Proteção da boa-fé e da consulta
+K: penalidade; consulta fiscal; boa-fé
+
+@CTMB 79
+I: As penalidades do capítulo não excluem as de caráter geral do Código.
+P: Cumulação com penalidades gerais
+K: penalidades
+
+@CTMB 80
+I: O artigo fixa as multas do ISS (Lei nº 8.269/2003): por inscrição tardia, dados divergentes, falta de comunicação, nota sem autenticação, irregularidades de escrituração e livros, e falta de recolhimento (20% ou 40% do imposto). A multa é de 100% por omissão, subfaturamento ou fraude, de R$ 2.000 por embaraço à fiscalização, de 50% para autônomo em atraso e retenção não feita, além de multas pela DFMS. Na reincidência em 5 anos, a multa dobra.
+P: Multas por descumprimento de obrigações acessórias || 20% e 40% por falta de recolhimento || 100% em fraude || Multas da DFMS e reincidência
+K: multas; ISS; DFMS; embaraço à fiscalização; reincidência
+
+@CTMB 81
+I: Livros, documentos e papéis que provem infração podem ser apreendidos, mediante procedimento fiscal.
+P: Apreensão de provas
+K: apreensão; documentos; infração
+
+@CTMB 82
+I: A Taxa de Licença decorre do poder de polícia do Município sobre segurança, higiene, saúde, ordem, costumes, localização de estabelecimentos, construções, estética e tranquilidade (CTN, art. 78), observado o Código de Posturas. O STF exige exercício efetivo do poder de polícia, admitindo-o presumido quando há órgão estruturado (Tema 217).
+P: Fundamento no poder de polícia || Observância do Código de Posturas || Exigência de órgão de fiscalização estruturado
+K: Taxa de Licença; poder de polícia; Código de Posturas; CTN art. 78
+
+@CTMB 83
+I: A taxa é exigida na licença para localização e funcionamento de estabelecimentos e atividades profissionais, exploração de logradouros, obras e loteamentos, funcionamento em horário extraordinário, comércio eventual e abate fora do matadouro.
+P: Hipóteses de incidência da Taxa de Licença
+K: Taxa de Licença; alvará de funcionamento; obras; comércio eventual
+
+@CTMB 84
+I: São estabelecimentos distintos os de pessoas diferentes no mesmo local e os da mesma pessoa em locais diversos. Pela Lei nº 10.250/2025, havendo várias atividades no mesmo estabelecimento, cobra-se a de maior valor, e depósitos fechados também pagam a taxa; foram revogadas as reduções de 50% para depósitos e dependências industriais.
+P: Conceito de estabelecimento distinto || Atividade de maior valor || Revogação das reduções de 50%
+K: Taxa de Licença; estabelecimento; depósito fechado; Lei nº 10.250/2025
+
+@CTMB 85
+I: A taxa de localização é devida no licenciamento inicial, na renovação anual e em mudança de atividade. A Prefeitura revê anualmente, no local, se as condições do licenciamento permanecem, conforme o Código de Posturas e a Lei de Zoneamento.
+P: Licença inicial, renovação e alteração || Vistoria anual
+K: Taxa de Licença; renovação anual; vistoria
+
+@CTMB 86
+I: Na renovação anual, a taxa corresponde a 80% do valor do licenciamento inicial.
+P: Renovação a 80%
+K: Taxa de Licença; renovação
+
+@CTMB 87
+I: A Taxa de Licença é calculada pela Tabela III anexa; a licença inicial concedida após 30 de junho paga a metade.
+P: Cálculo pela Tabela III || Metade após 30 de junho
+K: Taxa de Licença; Tabela III; proporcionalidade
+
+@CTMB 88
+I: O artigo foi revogado pela Lei municipal nº 7.933/1998 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; isenção; Taxa de Licença
+
+@CTMB 89
+I: O artigo foi revogado pela Lei municipal nº 7.933/1998 e não tem mais conteúdo normativo.
+P: Dispositivo revogado
+K: revogação; isenção; Taxa de Licença
+
+@CTMB 90
+I: A licença de localização é concedida por alvará, na abertura ou instalação do estabelecimento.
+P: Alvará de licença
+K: alvará; localização; funcionamento
+
+@CTMB 91
+I: O alvará é expedido após a inscrição cadastral e o pagamento da taxa.
+P: Inscrição e pagamento como condição
+K: alvará; inscrição; Taxa de Licença
+
+@CTMB 92
+I: Quem se estabelece sem licença paga multa de R$ 500,00, renovada com 20% a cada intimação não atendida, e o estabelecimento pode ser embargado, sem dispensa da taxa e das multas.
+P: Multa de R$ 500 por falta de licença || Embargo do estabelecimento || Renovação da multa
+K: Taxa de Licença; multa; embargo; alvará
+
+@CTMB 93
+I: A Taxa de Licença é cobrada por guia, conhecimento ou autenticação mecânica, nas condições da Tabela III.
+P: Forma de cobrança
+K: Taxa de Licença; pagamento; Tabela III
