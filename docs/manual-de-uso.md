@@ -17,6 +17,7 @@ Endereço: [oliveiracarlosadv.github.io/Lex-Vade-Mecum](https://oliveiracarlosad
 ## 2. Primeiros passos
 
 - **Escolha uma lei:** na página inicial, em **Leis disponíveis**, ou no menu à esquerda. No celular, o menu abre pelo botão **☰**, no canto superior esquerdo.
+- **Procure a lei pela lupa:** no alto do menu de leis, digite parte do nome, o número, a sigla ou o ano (por exemplo `penal`, `8.906`, `CPC`, `1941`, `ética`). A lista mostra só as leis que combinam; **Enter** abre a primeira, e o **✕** limpa a procura.
 - **Leis organizadas como num vade mecum:** a lista vem agrupada por **esfera** (Legislação Federal; Estadual, por estado; Municipal, por município), por **gênero** (Constituição, Códigos e Consolidações, Legislação Complementar e Estatutos, Normas Infralegais, Jurisprudência e Precedentes) e, na legislação e nas normas, por **espécie** (Leis Complementares, Leis Ordinárias, Decretos-Leis, Decretos, Portarias…).
 - **Ordene a lista de leis:** no alto do menu, escolha **A–Z** (ordem alfabética) ou **Data** (pela data de publicação, da mais antiga à mais recente); a ordem vale dentro de cada grupo. A escolha vale também para a página inicial e fica salva no seu navegador.
 - **Navegue pela lei:** o **Sumário**, no menu, leva direto a cada Título, Capítulo ou Seção.
