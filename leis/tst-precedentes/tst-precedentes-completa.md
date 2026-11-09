@@ -13,7 +13,7 @@
 | Link oficial | https://www.tst.jus.br/nugep-sp/recursos-repetitivos/precedentes-vinculantes |
 | Informações atualizadas pelo TST | 6 de novembro de 2026 |
 | Temas na tabela | 219 |
-| Conferido com o site do TST em | 08/11/2026 |
+| Conferido com o site do TST em | 09/11/2026 |
 
 ## Resumo Executivo
 
