@@ -10,7 +10,7 @@ Este documento descreve como a página de consulta é construída, publicada e m
 | Hospedagem | GitHub Pages, ramo `main`, pasta raiz (`/`) |
 | Arquivo da página | `index.html` (HTML, CSS e JavaScript em um só arquivo, sem etapa de build) |
 | Dados | `README.md` (lista de leis) e `leis/<norma>/<norma>-completa.md` (conteúdo) |
-| Dependências externas | Google Fonts (Literata e Cormorant Garamond) e, só ao gerar imagem, `html2canvas` 1.4.1 do cdnjs |
+| Dependências externas | Google Fonts (Literata e Cormorant Garamond); nenhuma biblioteca externa para gerar imagens |
 | Cópia sem internet | Pasta do projeto no Google Drive, com `dados-offline.js` |
 
 A página **não tem conteúdo próprio**: ela lê os mesmos arquivos que a conferência automática atualiza a cada 12 horas. Assim, quando o Planalto, o TST, o TRT8 ou o MTE mudam um texto e a rotina publica a correção, a página passa a exibir o texto novo sem nenhuma outra ação.
@@ -110,7 +110,7 @@ O renderizador de Markdown é mínimo (títulos, parágrafos, listas, tabelas, c
 | Copiar seleção | Trecho entre aspas + fonte (`— Art. X, Lei`) + link |
 | Imprimir artigo | Clona o dispositivo em `#areaImpressao`, aplica `body.imprimindo` e chama `window.print()`; o CSS de impressão esconde o resto |
 | Imprimir lei | `window.print()` com CSS de impressão (sem menu, sem botões, cores claras, artigos sem quebra no meio quando possível) |
-| Imagem | Monta um cartão de 1080 px fora da tela e o converte em PNG com `html2canvas` (carregado só nesse momento). Computador: download; celular: tela de compartilhamento |
+| Imagem | `desenharCartao()` desenha o cartão de 1080 px direto em canvas (topo com ícone e lei, rótulo, texto justificado com hifenização, citação com fio verde, perfil e rodapé), em milissegundos e sem copiar a página. Artigos muito longos reduzem a letra para caber no limite de altura do canvas do celular. `entregarImagem()`: no computador, download; no celular, folha de compartilhamento e, se o aparelho recusar (toque expirado), a janela `#janelaImagem` com a prévia e os botões Compartilhar e Salvar imagem |
 | Story | `desenharStory()` desenha a imagem direto em canvas 1080 × 1920, sem depender da diagramação do navegador (resultado igual no iPhone, Android e computador): logo no topo, trecho no centro e dispositivo, lei, número e site no rodapé. As linhas são quebradas por `quebrarLinhas()` com hifenização em português (`pontosSilabicos()`) e justificadas por `escreverJustificado()`, que distribui a sobra igualmente entre as palavras; a última linha de cada parágrafo fica alinhada à esquerda. A fonte parte de 64 px e diminui até o trecho caber inteiro |
 | Ir à expressão buscada | Resultados levam `?q=termos`; `irPara()` rola até o primeiro `<mark>` do texto oficial (ou da análise), a um terço da altura da tela, e o destaca com `mark.foco` |
 | Marca-texto | Botão **Marcar** da barra de seleção. `trechosDaSelecao()` divide a seleção por parágrafo do texto oficial (`.oficial p`) e guarda, para cada parte: lei, dispositivo (`uid`), índice do parágrafo, posição inicial e final no `textContent` e o próprio trecho; partes de uma mesma seleção compartilham o grupo `g`. `aplicarMarcas()` remove e redesenha os `<mark class="mt">` a cada abertura da lei; `localizar()` confere o trecho na posição salva e, se o texto mudou, procura-o no mesmo dispositivo. Clique numa marca abre `menuMarca()` (cor, copiar, remover) |
@@ -186,6 +186,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 08/11/2026 | Menu: ordenar as leis em ordem alfabética (A–Z) ou pela data de publicação (Data), com a escolha salva no navegador (`lex-ordem`) |
 | 08/11/2026 | Código Eleitoral (Lei nº 4.737/1965) publicado; leitor reconhece PARTE PRIMEIRA a QUINTA e os rótulos "Ar."/"At." grafados assim no Planalto |
 | 08/11/2026 | Código Penal (Decreto-Lei nº 2.848/1940) publicado; leitor passa a tratar as rubricas (títulos marginais) e artigos com sufixo de duas letras (359-M-A) |
+| 09/11/2026 | Imagens do artigo e da citação passam a ser desenhadas em canvas (antes, `html2canvas` copiava a lei inteira e levava segundos, e o celular recusava o compartilhamento); janela de reserva com Compartilhar e Salvar imagem |
 | 09/11/2026 | Código de Ética e Disciplina da OAB (Resolução CFOAB nº 02/2015) publicado a partir do PDF oficial da OAB (`"tipo": "pdf-oab"`, texto montado por `ferramentas/oab-pdf2txt.py`); não entra na conferência automática |
 | 09/11/2026 | Lei de Execução Penal (Lei nº 7.210/1984) publicada, com 219 dispositivos e as reformas de 2024 a 2026 |
 | 09/11/2026 | Menu e página inicial agrupam as leis como num vade mecum: esfera › gênero › espécie (`leisAgrupadas()`, `classificar()`, `CLASSIFICACAO`), com A–Z/Data dentro de cada grupo |
