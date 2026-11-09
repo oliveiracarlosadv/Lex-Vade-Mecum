@@ -112,6 +112,21 @@ Regras de comparação:
 
 Para regenerar após revisar análises: `python3 ferramentas/trt8.py --fonte trt8-precedentes`.
 
+## Código de Ética e Disciplina da OAB (`fontes/ced-oab/`, `"tipo": "pdf-oab"`)
+
+O texto vem do PDF oficial publicado pelo Conselho Federal da OAB (link em `config.json`), não do Planalto. O download direto do PDF funciona; para remontar o texto:
+
+```bash
+curl -sL -o ced.pdf "<url do config.json>"
+pdftohtml -xml -i -q ced.pdf ced          # gera ced.xml
+python3 -I ferramentas/oab-pdf2txt.py ced.xml texto.txt
+python3 ferramentas/atualizar.py --lei ced-oab --texto texto.txt
+```
+
+`oab-pdf2txt.py` descarta o cabeçalho e o número das páginas, junta as linhas de cada dispositivo (mantendo o hífen das palavras compostas no fim da linha) e coloca cada nota de rodapé entre parênteses no fim do dispositivo que tem a chamada; notas em nomes de Capítulo ficam numa linha própria, como notas do cabeçalho. Os números de fonte usados (corpo, chamadas e rodapé) são os deste PDF e devem ser conferidos se a OAB publicar nova diagramação.
+
+**Esta norma não entra na conferência automática** (a tarefa agendada só cobre Planalto, TST e TRT8, e o workflow da nuvem só as NR). Deve ser conferida com o PDF da OAB quando houver nova resolução do Conselho Federal.
+
 ## Normas Regulamentadoras (`fontes/nr-01/`, `"tipo": "pdf-nr"`)
 
 As NR são publicadas pelo Ministério do Trabalho e Emprego em PDF no portal gov.br, que aceita download direto. É preciso ter o `pdftotext` (pacote poppler, `brew install poppler`).

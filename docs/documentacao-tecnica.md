@@ -186,6 +186,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 08/11/2026 | Menu: ordenar as leis em ordem alfabética (A–Z) ou pela data de publicação (Data), com a escolha salva no navegador (`lex-ordem`) |
 | 08/11/2026 | Código Eleitoral (Lei nº 4.737/1965) publicado; leitor reconhece PARTE PRIMEIRA a QUINTA e os rótulos "Ar."/"At." grafados assim no Planalto |
 | 08/11/2026 | Código Penal (Decreto-Lei nº 2.848/1940) publicado; leitor passa a tratar as rubricas (títulos marginais) e artigos com sufixo de duas letras (359-M-A) |
+| 09/11/2026 | Código de Ética e Disciplina da OAB (Resolução CFOAB nº 02/2015) publicado a partir do PDF oficial da OAB (`"tipo": "pdf-oab"`, texto montado por `ferramentas/oab-pdf2txt.py`); não entra na conferência automática |
 | 09/11/2026 | Lei de Execução Penal (Lei nº 7.210/1984) publicada, com 219 dispositivos e as reformas de 2024 a 2026 |
 | 09/11/2026 | Menu e página inicial agrupam as leis como num vade mecum: esfera › gênero › espécie (`leisAgrupadas()`, `classificar()`, `CLASSIFICACAO`), com A–Z/Data dentro de cada grupo |
 | 09/11/2026 | Menu: botão "Compartilhar o Lex Vade Mecum" abaixo de "Instalar como aplicativo" (folha de compartilhamento do celular ou WhatsApp, e-mail e copiar link; sempre com o endereço do site) |
