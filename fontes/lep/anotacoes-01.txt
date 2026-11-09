@@ -1,0 +1,224 @@
+@LEP 1
+I: A execução penal tem duas finalidades: cumprir o que a sentença ou decisão criminal determinou e oferecer condições para a integração social do condenado e do internado. A pena não é só castigo; a lei também busca a reinserção social.
+P: Efetivar a sentença ou decisão criminal || Integração social do condenado e do internado
+K: execução penal; finalidade da pena; ressocialização; integração social
+
+@LEP 2
+I: A jurisdição na execução penal é exercida pela justiça ordinária, conforme a LEP e o Código de Processo Penal. A lei vale também para o preso provisório e para o condenado pela Justiça Eleitoral ou Militar recolhido a estabelecimento sujeito à justiça comum.
+P: Jurisdição da justiça ordinária || Aplicação ao preso provisório || Condenados pela Justiça Eleitoral ou Militar
+K: jurisdição; execução penal; preso provisório; justiça militar; justiça eleitoral
+
+@LEP 3
+I: O condenado e o internado mantêm todos os direitos que não foram atingidos pela sentença ou pela lei. É proibida qualquer distinção de natureza racial, social, religiosa ou política.
+P: Preservação dos direitos não atingidos pela sentença || Vedação de discriminação
+K: direitos do preso; igualdade; não discriminação
+
+@LEP 4
+I: O Estado deve buscar a cooperação da comunidade na execução da pena e da medida de segurança, por meio de órgãos como o Conselho da Comunidade e o Patronato.
+P: Participação da comunidade na execução
+K: comunidade; cooperação; Conselho da Comunidade
+
+@LEP 5
+I: Os condenados são classificados conforme antecedentes e personalidade, para orientar a individualização da execução penal (CF, art. 5º, XLVI).
+P: Classificação dos condenados || Individualização da execução
+K: classificação; individualização da pena; antecedentes; personalidade
+
+@LEP 6
+I: A Comissão Técnica de Classificação faz a classificação e elabora o programa individualizador da pena privativa de liberdade, adequado ao condenado ou ao preso provisório.
+P: Comissão Técnica de Classificação || Programa individualizador
+K: Comissão Técnica de Classificação; programa individualizador; classificação
+
+@LEP 7
+I: Em cada estabelecimento, a Comissão é presidida pelo diretor e composta, no mínimo, por dois chefes de serviço, um psiquiatra, um psicólogo e um assistente social, quando se tratar de pena privativa de liberdade. Nos demais casos, atua junto ao juízo da execução, com fiscais do Serviço Social.
+P: Composição mínima da Comissão || Atuação junto ao juízo nas demais penas
+K: Comissão Técnica de Classificação; composição; psiquiatra; psicólogo; assistente social
+
+@LEP 8
+I: O condenado em regime fechado é submetido a exame criminológico para a classificação e a individualização da execução; no regime semiaberto, o exame é facultativo.
+P: Exame criminológico no regime fechado || Exame facultativo no semiaberto
+K: exame criminológico; regime fechado; regime semiaberto; classificação
+
+@LEP 9
+I: No exame da personalidade, a Comissão, respeitando a ética profissional e com base nas peças do processo, pode entrevistar pessoas, requisitar dados de repartições ou estabelecimentos privados e realizar outras diligências e exames.
+P: Poderes da Comissão no exame || Respeito à ética profissional
+K: Comissão Técnica de Classificação; exame de personalidade; diligências
+
+@LEP 9-A
+I: Pela redação da Lei nº 15.295/2025, o condenado à pena de reclusão em regime inicial fechado é submetido obrigatoriamente à identificação do perfil genético (DNA), por técnica indolor, ao ingressar no estabelecimento; quem não passou pela coleta no ingresso deve fazê-la durante a pena. O perfil fica em banco de dados sigiloso, com acesso da autoridade policial mediante autorização judicial e do próprio titular, inclusive à cadeia de custódia. A amostra só serve à identificação, é vedada a fenotipagem e deve ser descartada após a identificação, guardando-se material para nova perícia. A recusa constitui falta grave.
+P: Coleta obrigatória de DNA na reclusão em regime inicial fechado || Banco de dados sigiloso e acesso do titular || Uso exclusivo para identificação e vedação da fenotipagem || Recusa como falta grave || Processamento em até 30 dias nos crimes hediondos
+K: perfil genético; DNA; banco de dados; cadeia de custódia; falta grave; Lei nº 15.295/2025
+
+@LEP 10
+I: A assistência ao preso e ao internado é dever do Estado, para prevenir o crime e orientar o retorno à convivência social, e se estende ao egresso.
+P: Assistência como dever do Estado || Extensão ao egresso
+K: assistência ao preso; dever do Estado; egresso
+
+@LEP 11
+I: A assistência compreende seis formas: material, à saúde, jurídica, educacional, social e religiosa.
+P: Espécies de assistência
+K: assistência material; assistência à saúde; assistência jurídica; assistência educacional; assistência social; assistência religiosa
+
+@LEP 12
+I: A assistência material consiste no fornecimento de alimentação, vestuário e instalações higiênicas.
+P: Alimentação, vestuário e higiene
+K: assistência material; alimentação; vestuário; higiene
+
+@LEP 13
+I: O estabelecimento deve ter instalações e serviços para as necessidades pessoais dos presos e locais de venda de produtos permitidos não fornecidos pela Administração.
+P: Instalações para necessidades pessoais || Venda de produtos permitidos
+K: assistência material; cantina; estabelecimento penal
+
+@LEP 14
+I: A assistência à saúde, preventiva e curativa, inclui atendimento médico, farmacêutico e odontológico; se o estabelecimento não estiver aparelhado, é prestada em outro local com autorização da direção. A mulher tem acompanhamento médico no pré-natal e pós-parto, extensivo ao recém-nascido, e tratamento humanitário no parto e no puerpério (Lei nº 14.326/2022).
+P: Atendimento médico, farmacêutico e odontológico || Atendimento fora do estabelecimento || Proteção à gestante, à parturiente e ao recém-nascido
+K: assistência à saúde; gestante; parto; puerpério; recém-nascido
+
+@LEP 15
+I: A assistência jurídica destina-se aos presos e internados sem recursos para contratar advogado.
+P: Destinatários da assistência jurídica
+K: assistência jurídica; hipossuficiência; advogado
+
+@LEP 16
+I: Os Estados devem manter assistência jurídica integral e gratuita pela Defensoria Pública, dentro e fora dos estabelecimentos, com apoio estrutural, local de atendimento em cada estabelecimento e núcleos especializados para réus, sentenciados em liberdade, egressos e familiares.
+P: Assistência pela Defensoria Pública || Local de atendimento no estabelecimento || Núcleos especializados fora dos presídios
+K: Defensoria Pública; assistência jurídica gratuita; egresso
+
+@LEP 17
+I: A assistência educacional compreende a instrução escolar e a formação profissional do preso e do internado.
+P: Instrução escolar || Formação profissional
+K: assistência educacional; educação; formação profissional
+
+@LEP 18
+I: O ensino de primeiro grau (hoje ensino fundamental) é obrigatório e integra o sistema escolar da unidade federativa.
+P: Ensino fundamental obrigatório
+K: ensino fundamental; educação prisional
+
+@LEP 18-A
+I: O ensino médio, regular ou supletivo, deve ser implantado nos presídios, integrado aos sistemas estadual e municipal, com apoio da União, cursos de educação de jovens e adultos e inclusão em programas de educação a distância (Lei nº 13.163/2015).
+P: Ensino médio nos presídios || Educação de jovens e adultos || Educação a distância
+K: ensino médio; EJA; educação a distância; Lei nº 13.163/2015
+
+@LEP 19
+I: O ensino profissional é ministrado em nível de iniciação ou aperfeiçoamento técnico, e a mulher condenada deve ter ensino profissional adequado à sua condição.
+P: Níveis do ensino profissional || Ensino adequado à mulher
+K: ensino profissional; mulher presa
+
+@LEP 20
+I: As atividades educacionais podem ser feitas por convênio com entidades públicas ou privadas.
+P: Convênios educacionais
+K: convênio; educação prisional
+
+@LEP 21
+I: Cada estabelecimento deve ter biblioteca com livros instrutivos, recreativos e didáticos, para todos os presos.
+P: Biblioteca obrigatória
+K: biblioteca; leitura; educação
+
+@LEP 21-A
+I: O censo penitenciário deve apurar escolaridade dos presos, existência de cursos fundamental, médio e profissional e número de atendidos, bibliotecas e outros dados educacionais.
+P: Dados educacionais no censo penitenciário
+K: censo penitenciário; escolaridade; educação prisional
+
+@LEP 22
+I: A assistência social ampara o preso e o internado e os prepara para o retorno à liberdade.
+P: Finalidade da assistência social
+K: assistência social; retorno à liberdade
+
+@LEP 23
+I: O serviço social conhece os diagnósticos, relata ao diretor as dificuldades do assistido, acompanha saídas, promove recreação, orienta o liberando, providencia documentos e benefícios previdenciários e ampara a família do preso e da vítima.
+P: Atribuições do serviço social || Apoio à família do preso e da vítima
+K: assistência social; documentos; previdência social; família
+
+@LEP 24
+I: A assistência religiosa é prestada com liberdade de culto, com local apropriado e posse de livros religiosos. Ninguém pode ser obrigado a participar de atividade religiosa.
+P: Liberdade de culto || Local para cultos || Participação voluntária
+K: assistência religiosa; liberdade de culto; liberdade religiosa
+
+@LEP 25
+I: A assistência ao egresso consiste em orientação e apoio para a vida em liberdade e, se necessário, alojamento e alimentação por 2 meses, prorrogáveis uma vez se comprovado o empenho em obter emprego.
+P: Orientação ao egresso || Alojamento e alimentação por 2 meses || Prorrogação única
+K: egresso; alojamento; reintegração social
+
+@LEP 26
+I: É egresso o liberado definitivo, por 1 ano após a saída, e o liberado condicional, durante o período de prova.
+P: Conceito de egresso
+K: egresso; liberado definitivo; liberado condicional
+
+@LEP 27
+I: O serviço social ajuda o egresso a obter trabalho.
+P: Apoio na busca de emprego
+K: egresso; trabalho; assistência social
+
+@LEP 28
+I: O trabalho do condenado é dever social e condição de dignidade, com finalidade educativa e produtiva, observadas regras de segurança e higiene. Não se sujeita à CLT.
+P: Finalidade educativa e produtiva || Segurança e higiene || Fora do regime da CLT
+K: trabalho do preso; dignidade; CLT
+
+@LEP 29
+I: O trabalho do preso é remunerado por tabela, com valor mínimo de 3/4 do salário mínimo. A remuneração atende à indenização do dano, à família, a pequenas despesas e ao ressarcimento ao Estado; o restante forma o pecúlio, entregue na saída.
+P: Remuneração mínima de 3/4 do salário mínimo || Destinação da remuneração || Pecúlio
+K: remuneração; salário mínimo; pecúlio; indenização
+
+@LEP 30
+I: As tarefas de prestação de serviço à comunidade não são remuneradas.
+P: Gratuidade da prestação de serviços
+K: prestação de serviços à comunidade; remuneração
+
+@LEP 31
+I: O condenado à pena privativa de liberdade deve trabalhar conforme sua aptidão e capacidade. Para o preso provisório, o trabalho é facultativo e só no interior do estabelecimento.
+P: Trabalho obrigatório do condenado || Trabalho facultativo do preso provisório
+K: trabalho obrigatório; preso provisório
+
+@LEP 32
+I: Na atribuição do trabalho consideram-se habilitação, condição pessoal, necessidades futuras e mercado; limita-se o artesanato sem valor econômico, maiores de 60 anos podem pedir ocupação adequada e doentes ou deficientes exercem atividades compatíveis.
+P: Critérios para atribuir trabalho || Idosos e pessoas com deficiência
+K: trabalho do preso; idoso; deficiência; artesanato
+
+@LEP 33
+I: A jornada é de 6 a 8 horas, com descanso aos domingos e feriados; os presos dos serviços de conservação podem ter horário especial.
+P: Jornada de 6 a 8 horas || Horário especial na manutenção
+K: jornada de trabalho; descanso; trabalho interno
+
+@LEP 34
+I: O trabalho pode ser gerenciado por fundação ou empresa pública, com critérios empresariais e remuneração adequada; os governos podem firmar convênios com a iniciativa privada para oficinas.
+P: Gestão por fundação ou empresa pública || Convênios com a iniciativa privada
+K: trabalho prisional; fundação; empresa pública; convênio
+
+@LEP 35
+I: Órgãos públicos adquirem produtos do trabalho prisional com dispensa de licitação, quando não for possível ou recomendável a venda a particulares; a receita vai à entidade gestora ou ao estabelecimento.
+P: Aquisição pública sem licitação || Destino da receita
+K: trabalho prisional; dispensa de licitação; compras públicas
+
+@LEP 36
+I: No regime fechado, o trabalho externo só é admitido em serviços ou obras públicas, com cautelas contra a fuga, limite de 10% dos empregados da obra e consentimento do preso quando o tomador for entidade privada.
+P: Trabalho externo no regime fechado || Limite de 10% || Consentimento para entidade privada
+K: trabalho externo; regime fechado; obras públicas
+
+@LEP 37
+I: O trabalho externo é autorizado pela direção e exige aptidão, disciplina, responsabilidade e cumprimento de 1/6 da pena. É revogado se o preso cometer crime, falta grave ou deixar de atender aos requisitos. O STJ admite a dispensa do 1/6 para o condenado em regime semiaberto (entendimento jurisprudencial).
+P: Requisitos do trabalho externo || Cumprimento de 1/6 da pena || Revogação da autorização
+K: trabalho externo; requisitos; revogação; falta grave
+
+@LEP 38
+I: O condenado, além das obrigações próprias de sua condição, deve submeter-se às normas da execução.
+P: Submissão às normas de execução
+K: deveres do condenado; execução penal
+
+@LEP 39
+I: São deveres do condenado: disciplina e cumprimento da sentença, obediência e respeito, urbanidade, oposição a fugas e motins, execução do trabalho, submissão à sanção, indenização à vítima e ao Estado, higiene e conservação dos objetos. Aplica-se ao preso provisório no que couber.
+P: Rol de deveres do condenado || Aplicação ao preso provisório
+K: deveres do preso; disciplina; indenização; higiene
+
+@LEP 40
+I: Todas as autoridades devem respeitar a integridade física e moral dos condenados e presos provisórios (CF, art. 5º, XLIX).
+P: Integridade física e moral do preso
+K: integridade física; integridade moral; dignidade do preso
+
+@LEP 41
+I: O artigo lista os direitos do preso, como alimentação, trabalho remunerado, previdência, assistência, proteção contra sensacionalismo, entrevista reservada com advogado, visitas, contato com o mundo exterior e atestado anual de pena a cumprir. O juiz pode suspender ou restringir, por ato motivado, o tempo de recreação, as visitas e o contato exterior. O condenado por feminicídio não tem direito à visita íntima ou conjugal (Lei nº 14.994/2024).
+P: Rol de direitos do preso || Restrição motivada pelo juiz (incisos V, X e XV) || Vedação de visita íntima ao condenado por feminicídio
+K: direitos do preso; visita; advogado; atestado de pena; feminicídio; visita íntima
+
+@LEP 41-A
+I: Incluído pela Lei nº 15.358/2026, o artigo permite monitorar por captação audiovisual e gravação os encontros no parlatório ou virtuais entre visitantes e presos ligados a organizações criminosas ultraviolentas, grupos paramilitares ou milícias, a pedido do delegado, do Ministério Público ou da administração penitenciária. Nos presídios federais de segurança máxima valem as regras da Lei nº 11.671/2008.
+P: Monitoramento de visitas de presos de organizações criminosas || Legitimados para pedir || Regras dos presídios federais
+K: monitoramento; parlatório; organização criminosa; milícia; Lei nº 15.358/2026
