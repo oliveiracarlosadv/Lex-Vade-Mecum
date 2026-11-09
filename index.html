@@ -391,7 +391,7 @@ mark.mt.azul{background:var(--mt-azul)} mark.mt.rosa{background:var(--mt-rosa)}
   <aside id="lateral">
     <div class="cab-leis"><h2>Leis</h2><div class="ordem" role="group" aria-label="Ordenar as leis"><button type="button" data-ordem="alfa" title="Ordem alfabética">A–Z</button><button type="button" data-ordem="data" title="Pela data de publicação, da mais antiga à mais recente">Data</button></div></div>
     <div id="listaLeis"><div class="carregando">Carregando…</div></div>
-    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="instalarBtn">📲 Instalar como aplicativo<small>Salvar na tela inicial ou na área de trabalho</small></button></div>
+    <div class="menu-extra"><button class="lei" id="marcasBtn">★ Perfil, favoritos e marcações<small>Seu nome nos stories, leis favoritas, trechos marcados e backup</small></button><button class="lei" id="sobreBtn">Sobre o Lex Vade Mecum<small>Objetivo e criador</small></button><button class="lei" id="manualBtn">📘 Manual de uso<small>Para que serve, como estudar, marcar e compartilhar</small></button><button class="lei" id="instalarBtn">📲 Instalar como aplicativo<small>Salvar na tela inicial ou na área de trabalho</small></button><button class="lei" id="compartilharAppBtn">🔗 Compartilhar o Lex Vade Mecum<small>Enviar o link para colegas e amigos</small></button></div>
     <div id="sumario"></div>
   </aside>
   <main id="main"><div class="folha" id="conteudo"><div class="carregando">Carregando…</div></div></main>
@@ -1087,7 +1087,7 @@ function ligarAcoes() {
     if (b.dataset.sel === 'imagem') gerarImagem(pac);
     if (b.dataset.sel === 'story') pedirArrobaEGerar(pac);
   });
-  document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel], mark.mt')) fecharFlutuantes(); });
+  document.addEventListener('mousedown', (e) => { if (!e.target.closest('#popover, [data-acao="compartilhar"], [data-sel], mark.mt, #compartilharAppBtn')) fecharFlutuantes(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') { fecharFlutuantes(); $('#barraSel').hidden = true; } });
 }
 
@@ -1843,6 +1843,21 @@ function preCarregarBusca() {
 /* ---------- Instalar como aplicativo (web app) ---------- */
 let pedidoInstalacao = null;
 const emApp = () => matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+/* ---------- Compartilhar o Lex Vade Mecum ----------
+   No celular abre a folha de compartilhamento do aparelho; no computador (ou se ela
+   não existir), mostra WhatsApp, e-mail e copiar link. O link é sempre o do site. */
+function ligarCompartilharApp() {
+  const pac = { tipo: 'app', titulo: 'Lex Vade Mecum', link: SITE,
+    texto: `Conheça o Lex Vade Mecum: leis brasileiras com o texto oficial do Planalto, conferido duas vezes por dia, e uma análise de cada artigo. Gratuito, no celular e no computador.\n${SITE}` };
+  $('#compartilharAppBtn').onclick = async (e) => {
+    const b = e.currentTarget;
+    if (navigator.share && matchMedia('(pointer: coarse)').matches) {
+      try { await navigator.share({ title: pac.titulo, text: pac.texto.replace(/\n.*$/, ''), url: SITE }); fecharMenu(); return; }
+      catch (err) { if (err && err.name === 'AbortError') return; }
+    }
+    abrirPopover(b, pac);
+  };
+}
 function ligarInstalacao() {
   const b = $('#instalarBtn');
   if (emApp()) { b.hidden = true; return; }
@@ -1938,6 +1953,7 @@ function fecharMenu() { document.body.classList.remove('menu-aberto'); }
   $('#marcasBtn').onclick = () => { location.hash = '#/marcacoes'; fecharMenu(); };
   $('#manualBtn').onclick = () => { location.hash = '#/manual'; fecharMenu(); };
   ligarInstalacao();
+  ligarCompartilharApp();
   $('#arqBackup').onchange = (e) => { const f = e.target.files[0]; e.target.value = ''; if (f) importarBackup(f); };
   $('#formBusca').onsubmit = (e) => { e.preventDefault(); fecharMenu(); buscar($('#q').value, $('#escopo').value); };
   try { await carregarCatalogo(); } catch (e) { return erro(e); }

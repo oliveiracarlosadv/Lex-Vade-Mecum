@@ -78,6 +78,10 @@ Toque em **Anotar**, logo abaixo do número do artigo, escreva o que quiser (res
 
 Para levar as anotações para fora do site, vá a **★ Perfil, favoritos e marcações** › **Suas anotações** e toque em **Exportar anotações (.md)** ou **(.txt)**. O arquivo traz, para cada artigo, o texto oficial, a sua anotação, a data e o link. Pode ser aberto no Word, no Bloco de Notas ou em qualquer editor e impresso.
 
+### Indique o Lex Vade Mecum
+
+No menu, toque em **🔗 Compartilhar o Lex Vade Mecum** (abaixo de **Instalar como aplicativo**) para enviar o link do site por WhatsApp, e-mail ou outro aplicativo.
+
 ### Revise tudo em um só lugar
 
 Em **★ Perfil, favoritos e marcações** ficam as leis e os artigos favoritos, as suas anotações, o progresso de leitura e todos os trechos marcados, agrupados por lei, com link direto para cada artigo.
