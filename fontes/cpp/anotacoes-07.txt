@@ -1,0 +1,264 @@
+@CPP 303
+I: Nos crimes permanentes, como sequestro, tráfico na modalidade "guardar" ou posse ilegal de arma, o agente está em flagrante enquanto durar a permanência, o que permite a prisão e, presentes fundadas razões, a entrada em domicílio.
+P: Flagrante enquanto durar a permanência || Crimes permanentes
+K: crime permanente; flagrante; prisão em flagrante
+
+@CPP 304
+I: Apresentado o preso, a autoridade ouve o condutor, as testemunhas e interroga o preso, lavrando o auto de prisão em flagrante. Havendo fundada suspeita, recolhe o preso, salvo fiança. Sem testemunhas do fato, assinam duas pessoas que presenciaram a apresentação. O auto registra a existência de filhos e quem cuida deles.
+P: Rito do auto de prisão em flagrante || Testemunhas de apresentação || Informação sobre filhos do preso
+K: auto de prisão em flagrante; condutor; testemunhas; filhos do preso
+
+@CPP 305
+I: Na falta do escrivão, qualquer pessoa designada pela autoridade lavra o auto, após compromisso.
+P: Escrivão ad hoc
+K: auto de prisão em flagrante; escrivão
+
+@CPP 306
+I: A prisão e o local onde o preso se encontra são comunicados imediatamente ao juiz, ao Ministério Público e à família ou pessoa indicada. Em 24 horas, o auto vai ao juiz e, sem advogado, cópia à Defensoria, e o preso recebe a nota de culpa com o motivo da prisão e os nomes do condutor e das testemunhas.
+P: Comunicação imediata da prisão (CF, art. 5º, LXII) || Remessa do auto em 24 horas || Nota de culpa ao preso
+K: comunicação da prisão; nota de culpa; Defensoria Pública
+
+@CPP 307
+I: Se o crime for praticado na presença da autoridade ou contra ela, o auto registra o fato, a voz de prisão, as declarações do preso e os depoimentos, com as assinaturas.
+P: Flagrante na presença da autoridade
+K: auto de prisão em flagrante; autoridade
+
+@CPP 308
+I: Se não houver autoridade no lugar da prisão, o preso é apresentado à do lugar mais próximo.
+P: Apresentação à autoridade mais próxima
+K: prisão em flagrante; autoridade
+
+@CPP 309
+I: Se o réu se livrar solto, é posto em liberdade depois de lavrado o auto. Hoje, a liberdade segue as regras da liberdade provisória e das cautelares.
+P: Liberdade após a lavratura do auto
+K: liberdade provisória; flagrante
+
+@CPP 310
+I: Em até 24 horas após a prisão, o juiz realiza audiência de custódia com o preso, seu defensor e o Ministério Público, que, pela redação da Lei nº 15.358/2026, é feita por videoconferência, admitida a forma presencial em casos excepcionais de força maior. O juiz deve relaxar a prisão ilegal, convertê-la em preventiva ou conceder liberdade provisória. Deve negar a liberdade ao reincidente, ao integrante de organização criminosa armada ou milícia e a quem porta arma de uso restrito. A Lei nº 15.272/2025 lista circunstâncias que recomendam a conversão em preventiva, como reiteração, violência e fuga. A não realização injustificada da audiência gera responsabilidade e, após 24 horas adicionais, ilegalidade da prisão. São garantidas a entrevista reservada com o defensor e a privacidade do preso.
+P: Audiência de custódia em 24 horas, por videoconferência (Lei nº 15.358/2026) || Relaxamento, conversão em preventiva ou liberdade provisória || Vedação da liberdade em casos específicos || Circunstâncias que recomendam a preventiva (Lei nº 15.272/2025) || Garantias da defesa na videoconferência
+K: audiência de custódia; videoconferência; liberdade provisória; conversão em preventiva
+
+@CPP 310-A
+I: Incluído pela Lei nº 15.272/2025, o artigo manda o Ministério Público ou a polícia pedir ao juiz a coleta de material biológico para o perfil genético do preso em flagrante por crime violento, contra a dignidade sexual, hediondo ou ligado a organização criminosa armada. A coleta é feita preferencialmente na audiência de custódia ou em até 10 dias, por agente treinado e com cadeia de custódia.
+P: Coleta de DNA do preso em flagrante || Crimes violentos, sexuais, hediondos ou de organização armada || Coleta na audiência de custódia ou em 10 dias
+K: perfil genético; DNA; prisão em flagrante; banco de dados genéticos
+
+@CPP 311
+I: A prisão preventiva pode ser decretada em qualquer fase da investigação ou do processo, sempre a pedido do Ministério Público, querelante, assistente ou por representação da polícia. Desde a Lei nº 13.964/2019, não pode ser decretada de ofício.
+P: Cabimento em qualquer fase || Vedação de decretação de ofício
+K: prisão preventiva; legitimidade; Pacote Anticrime
+
+@CPP 312
+I: A preventiva exige prova do crime, indício suficiente de autoria e perigo gerado pela liberdade do acusado, para garantir a ordem pública ou econômica, a instrução ou a aplicação da lei penal. Também cabe pelo descumprimento de outras cautelares. A decisão deve indicar fatos novos ou contemporâneos. A Lei nº 15.272/2025 listou critérios de periculosidade (modo de execução, organização criminosa, natureza e quantidade de drogas e armas, risco de reiteração) e proibiu a preventiva baseada na gravidade abstrata do crime.
+P: Fumus comissi delicti e periculum libertatis || Fundamentos da preventiva || Contemporaneidade || Critérios de periculosidade e vedação da gravidade abstrata (Lei nº 15.272/2025)
+K: prisão preventiva; ordem pública; periculosidade; contemporaneidade
+
+@CPP 313
+I: A preventiva só cabe em crimes dolosos com pena máxima superior a 4 anos, para reincidente em crime doloso, para garantir medidas protetivas em violência doméstica, para integrantes de organizações criminosas ultraviolentas ou milícias (Lei nº 15.358/2026) e em crimes sexuais contra crianças e adolescentes (Lei nº 15.487/2026). Também cabe na dúvida sobre a identidade civil, até a identificação. É proibida para antecipar a pena ou como consequência automática da investigação ou da denúncia.
+P: Hipóteses de admissibilidade da preventiva || Novas hipóteses: crime organizado e crimes sexuais contra crianças || Vedação de antecipação da pena
+K: prisão preventiva; admissibilidade; crime organizado; violência doméstica
+
+@CPP 314
+I: A preventiva nunca é decretada se as provas indicarem que o agente agiu em estado de necessidade, legítima defesa, estrito cumprimento de dever legal ou exercício regular de direito.
+P: Vedação da preventiva diante de excludente de ilicitude
+K: prisão preventiva; excludentes de ilicitude; legítima defesa
+
+@CPP 315
+I: A decisão sobre preventiva deve ser sempre motivada, indicando fatos novos ou contemporâneos. O § 2º, em linha com o CPC, considera não fundamentada a decisão que apenas repete a lei, usa conceitos vagos sem explicá-los, serve para qualquer caso, não enfrenta os argumentos relevantes ou invoca precedentes sem demonstrar sua aplicação.
+P: Dever de fundamentação concreta || Hipóteses de decisão não fundamentada || Contemporaneidade dos fatos
+K: fundamentação; prisão preventiva; decisão judicial; nulidade
+
+@CPP 316
+I: O juiz pode revogar a preventiva quando faltar motivo e voltar a decretá-la se surgirem novas razões. O órgão que a decretou deve revisar sua necessidade a cada 90 dias, sob pena de ilegalidade. O STF (SL 1.395) entendeu que o atraso na revisão não gera soltura automática, devendo o juízo ser instado a reavaliá-la.
+P: Revogação e nova decretação || Revisão obrigatória a cada 90 dias || Sem soltura automática pelo atraso (STF)
+K: prisão preventiva; revisão periódica; 90 dias
+
+@CPP 317
+I: A prisão domiciliar é o recolhimento do acusado em sua residência, de onde só sai com autorização judicial. Substitui a preventiva nos casos legais.
+P: Conceito de prisão domiciliar
+K: prisão domiciliar; preventiva
+
+@CPP 318
+I: O juiz pode substituir a preventiva pela domiciliar quando o acusado tiver mais de 80 anos, estiver extremamente debilitado por doença grave, for imprescindível aos cuidados de criança menor de 6 anos ou pessoa com deficiência, for gestante, mulher com filho de até 12 anos incompletos ou homem único responsável por filho nessa idade, mediante prova idônea.
+P: Hipóteses de prisão domiciliar substitutiva || Prova idônea dos requisitos
+K: prisão domiciliar; gestante; mãe; idoso; doença grave
+
+@CPP 318-A
+I: A preventiva da gestante ou da mãe ou responsável por crianças ou pessoas com deficiência deve ser substituída pela domiciliar, salvo crime com violência ou grave ameaça ou praticado contra o próprio filho ou dependente. A regra consolidou o habeas corpus coletivo do STF (HC 143.641).
+P: Substituição obrigatória para gestantes e mães || Exceções da violência e do crime contra o filho || HC coletivo 143.641
+K: prisão domiciliar; gestante; mãe; HC 143.641
+
+@CPP 318-B
+I: A substituição pela domiciliar pode ser cumulada com as medidas cautelares diversas da prisão do art. 319.
+P: Cumulação com outras cautelares
+K: prisão domiciliar; medidas cautelares
+
+@CPP 319
+I: As medidas cautelares diversas da prisão são: comparecimento periódico em juízo, proibição de frequentar lugares, proibição de contato com pessoa determinada, proibição de sair da comarca, recolhimento domiciliar noturno, suspensão de função pública ou atividade econômica, internação provisória do inimputável, fiança e monitoração eletrônica. Podem ser aplicadas isoladas ou cumuladas.
+P: Rol das medidas cautelares alternativas || Monitoração eletrônica || Preferência sobre a prisão
+K: medidas cautelares diversas da prisão; monitoração eletrônica; fiança
+
+@CPP 320
+I: A proibição de sair do país é comunicada às autoridades de fronteira, e o acusado deve entregar o passaporte em 24 horas.
+P: Retenção do passaporte || Comunicação às autoridades de fronteira
+K: proibição de sair do país; passaporte
+
+@CPP 321
+I: Ausentes os requisitos da preventiva, o juiz deve conceder liberdade provisória, impondo, se for o caso, medidas cautelares do art. 319.
+P: Liberdade provisória como regra || Cautelares alternativas
+K: liberdade provisória; medidas cautelares
+
+@CPP 322
+I: A autoridade policial pode conceder fiança nas infrações com pena máxima de até 4 anos. Nos demais casos, a fiança é pedida ao juiz, que decide em 48 horas.
+P: Fiança pelo delegado até 4 anos de pena máxima || Fiança judicial em 48 horas
+K: fiança; autoridade policial; juiz
+
+@CPP 323
+I: Não cabe fiança nos crimes de racismo, tortura, tráfico de drogas, terrorismo, hediondos e de grupos armados contra a ordem constitucional (CF, art. 5º, XLII a XLIV). A inafiançabilidade não impede a liberdade provisória sem fiança.
+P: Crimes inafiançáveis || Possibilidade de liberdade provisória sem fiança
+K: inafiançabilidade; crimes hediondos; racismo; tortura
+
+@CPP 324
+I: Também não se concede fiança a quem quebrou fiança anterior no mesmo processo, na prisão civil ou militar e quando presentes os motivos da preventiva.
+P: Outras vedações à fiança
+K: fiança; quebra de fiança; prisão preventiva
+
+@CPP 325
+I: A fiança vai de 1 a 100 salários-mínimos se a pena máxima não passar de 4 anos, e de 10 a 200 salários-mínimos acima disso. Conforme a situação econômica, pode ser dispensada, reduzida em até dois terços ou aumentada em até mil vezes.
+P: Faixas de valor da fiança || Dispensa, redução ou aumento conforme a capacidade econômica
+K: valor da fiança; salário-mínimo; capacidade econômica
+
+@CPP 326
+I: Para fixar a fiança, consideram-se a natureza da infração, as condições econômicas e a vida pregressa do acusado, sua periculosidade e as custas prováveis do processo.
+P: Critérios para o valor da fiança
+K: fiança; critérios
+
+@CPP 327
+I: O afiançado deve comparecer sempre que intimado para atos do inquérito, da instrução e do julgamento. Se não comparecer, a fiança é considerada quebrada.
+P: Dever de comparecimento || Quebra da fiança
+K: fiança; comparecimento; quebra
+
+@CPP 328
+I: O afiançado não pode mudar de residência sem permissão nem se ausentar por mais de 8 dias sem informar onde estará, sob pena de quebra da fiança.
+P: Restrições ao afiançado || Mudança e ausência
+K: fiança; obrigações do afiançado
+
+@CPP 329
+I: Os termos de fiança são lavrados em livro especial nos juízos e delegacias, e o réu e o fiador são notificados das obrigações e sanções.
+P: Livro de fiança || Notificação das obrigações
+K: termo de fiança; registro
+
+@CPP 330
+I: A fiança é sempre definitiva e pode consistir em depósito de dinheiro, pedras, objetos ou metais preciosos, títulos da dívida pública ou hipoteca, com avaliação por perito.
+P: Formas de prestar fiança || Avaliação dos bens
+K: fiança; caução; hipoteca
+
+@CPP 331
+I: O valor da fiança é recolhido à repartição arrecadadora ou ao depositário público. Onde não houver, fica com o escrivão ou pessoa abonada por até três dias.
+P: Depósito do valor da fiança
+K: fiança; depósito
+
+@CPP 332
+I: No flagrante, concede a fiança a autoridade que preside o auto; na prisão por mandado, o juiz que o expediu ou a autoridade a quem a prisão foi requisitada.
+P: Competência para conceder fiança
+K: fiança; competência
+
+@CPP 333
+I: A fiança é concedida sem ouvir previamente o Ministério Público, que depois tem vista do processo.
+P: Concessão sem oitiva prévia do Ministério Público
+K: fiança; Ministério Público
+
+@CPP 334
+I: A fiança pode ser prestada enquanto não houver condenação definitiva.
+P: Fiança até o trânsito em julgado
+K: fiança; prazo
+
+@CPP 335
+I: Se o delegado recusar ou retardar a fiança, o preso ou alguém por ele pode pedi-la ao juiz, que decide em 48 horas.
+P: Fiança diretamente ao juiz em caso de recusa
+K: fiança; recusa; juiz
+
+@CPP 336
+I: O valor da fiança serve para pagar custas, indenização, prestação pecuniária e multa, se o réu for condenado, inclusive no caso de prescrição após a condenação.
+P: Destinação da fiança na condenação
+K: fiança; custas; indenização; multa
+
+@CPP 337
+I: Se a fiança ficar sem efeito ou o réu for absolvido ou extinta a ação, o valor é devolvido atualizado e sem desconto, salvo a hipótese do art. 336, parágrafo único.
+P: Restituição da fiança atualizada
+K: fiança; restituição; absolvição
+
+@CPP 338
+I: A fiança concedida em caso em que não era cabível é cassada em qualquer fase do processo.
+P: Cassação da fiança incabível
+K: cassação da fiança
+
+@CPP 339
+I: A fiança também é cassada se, com nova classificação, o crime passar a ser inafiançável.
+P: Cassação por reclassificação do crime
+K: cassação da fiança; inafiançável
+
+@CPP 340
+I: Exige-se reforço da fiança se ela foi fixada por engano em valor insuficiente, se os bens se desvalorizaram ou se o crime foi reclassificado. Sem reforço, a fiança perde efeito e o réu é preso.
+P: Reforço da fiança || Consequência da falta de reforço
+K: reforço da fiança
+
+@CPP 341
+I: A fiança é quebrada quando o acusado falta a ato do processo sem justificativa, obstrui o processo, descumpre cautelar cumulada, resiste a ordem judicial ou pratica novo crime doloso.
+P: Hipóteses de quebra da fiança
+K: quebra da fiança; obstrução
+
+@CPP 342
+I: Se for reformada a decisão que declarou quebrada a fiança, ela subsiste em todos os seus efeitos.
+P: Restabelecimento da fiança
+K: quebra da fiança; recurso
+
+@CPP 343
+I: A quebra injustificada causa a perda de metade do valor, podendo o juiz impor outras cautelares ou, se for o caso, a preventiva.
+P: Perda de metade do valor || Novas cautelares ou preventiva
+K: quebra da fiança; perda do valor
+
+@CPP 344
+I: O valor da fiança é perdido por inteiro se o condenado não se apresentar para começar a cumprir a pena definitiva.
+P: Perda total da fiança
+K: perda da fiança; cumprimento da pena
+
+@CPP 345
+I: Perdida a fiança, o valor, deduzidas custas e encargos, vai para o fundo penitenciário.
+P: Destinação ao fundo penitenciário
+K: perda da fiança; fundo penitenciário
+
+@CPP 346
+I: Na quebra da fiança, o valor restante, feitas as deduções, também vai para o fundo penitenciário.
+P: Destinação na quebra
+K: quebra da fiança; fundo penitenciário
+
+@CPP 347
+I: Não havendo perda, o saldo é devolvido a quem prestou a fiança, deduzidos os encargos do réu.
+P: Devolução do saldo
+K: fiança; restituição
+
+@CPP 348
+I: Se a fiança foi prestada por hipoteca, a execução é promovida no juízo cível pelo Ministério Público.
+P: Execução da hipoteca no cível
+K: fiança; hipoteca; execução
+
+@CPP 349
+I: Se a fiança consistir em pedras, objetos ou metais preciosos, o juiz determina sua venda por leiloeiro ou corretor.
+P: Venda de bens dados em fiança
+K: fiança; leilão
+
+@CPP 350
+I: Nos casos em que cabe fiança, o juiz pode conceder liberdade provisória sem fiança ao preso pobre, sujeitando-o às obrigações dos arts. 327 e 328 e a outras cautelares. O descumprimento permite substituir a medida ou decretar a preventiva.
+P: Liberdade provisória sem fiança por pobreza || Obrigações do beneficiado
+K: liberdade provisória; dispensa de fiança; pobreza
+
+@CPP 350-A
+I: Incluído pela Lei nº 15.280/2025 (Título IX-A), o artigo permite ao juiz, havendo indícios de crime contra a dignidade sexual, aplicar de imediato medidas protetivas ao autor: suspensão do porte de armas, afastamento do lar, proibição de aproximação e contato com a vítima, restrição de visitas a filhos menores, alimentos provisórios e programas de reeducação. As medidas são cumuladas com monitoração eletrônica, e a vítima recebe dispositivo que alerta sobre a aproximação. Valem também para crimes contra vítimas vulneráveis, como crianças e pessoas com deficiência.
+P: Medidas protetivas nos crimes sexuais (Lei nº 15.280/2025) || Monitoração eletrônica obrigatória com alerta à vítima || Extensão a vítimas vulneráveis
+K: medidas protetivas de urgência; crimes sexuais; monitoração eletrônica; Lei nº 15.280/2025
+
+@CPP 350-B
+I: Incluído pela Lei nº 15.280/2025, o artigo permite ao juiz, a pedido da polícia, do Ministério Público ou da vítima, proibir o autor de exercer atividades com contato direto com pessoas vulneráveis, havendo prova do crime, indício de autoria e perigo da liberdade.
+P: Proibição de atividades com pessoas vulneráveis || Requisitos de prova e perigo
+K: medidas protetivas; pessoa vulnerável; Lei nº 15.280/2025
