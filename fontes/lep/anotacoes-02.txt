@@ -144,7 +144,7 @@ P: Natureza consultiva e fiscalizadora || Composição e mandato de 4 anos
 K: Conselho Penitenciário; composição; mandato
 
 @LEP 70
-I: O Conselho Penitenciário opina sobre indulto e comutação (salvo indulto por estado de saúde), inspeciona estabelecimentos, apresenta relatório anual ao CNPCP e supervisiona patronatos e assistência aos egressos. Desde a Lei nº 10.792/2003 não opina mais sobre livramento condicional.
+I: O Conselho Penitenciário opina sobre indulto e comutação (salvo indulto por estado de saúde), inspeciona estabelecimentos, apresenta relatório anual ao CNPCP e supervisiona patronatos e assistência aos egressos. Desde a Lei nº 10.792/2003 o inciso I não menciona o livramento condicional, embora o art. 131 ainda preveja a oitiva do Conselho; a jurisprudência tem considerado esse parecer dispensável.
 P: Parecer sobre indulto e comutação || Inspeção || Supervisão de patronatos
 K: Conselho Penitenciário; indulto; comutação; parecer
 
