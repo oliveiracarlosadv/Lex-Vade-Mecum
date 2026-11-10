@@ -96,7 +96,7 @@ Dispositivos afastados pelo STF que o Planalto mantém tachados: art. 1º, I ("q
 
 Art. 1º São atividades privativas de advocacia:
 
-I - a postulação a ~~qualquer~~ órgão do Poder Judiciário e aos juizados especiais;        (Vide ADIN 1.127-8)
+I - a postulação a ~~qualquer~~ órgão do Poder Judiciário e aos juizados especiais; (Vide ADIN 1.127-8)
 
 II - as atividades de consultoria, assessoria e direção jurídicas.
 
@@ -144,7 +144,7 @@ Art. 2º O advogado é indispensável à administração da justiça.
 
 § 2º No processo judicial, o advogado contribui, na postulação de decisão favorável ao seu constituinte, ao convencimento do julgador, e seus atos constituem múnus público.
 
-§ 2º-A. No processo administrativo, o advogado contribui com a postulação de decisão favorável ao seu constituinte, e os seus atos constituem múnus público.     (Incluído pela Lei nº 14.365, de 2022)
+§ 2º-A. No processo administrativo, o advogado contribui com a postulação de decisão favorável ao seu constituinte, e os seus atos constituem múnus público. (Incluído pela Lei nº 14.365, de 2022)
 
 § 3º No exercício da profissão, o advogado é inviolável por seus atos e manifestações, nos limites desta lei.
 
@@ -178,7 +178,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO I — Da Atividade de Advocacia
 
-Art. 2º-A. O advogado pode contribuir com o processo legislativo e com a elaboração de normas jurídicas, no âmbito dos Poderes da República.        (Incluído pela Lei nº 14.365, de 2022)
+Art. 2º-A. O advogado pode contribuir com o processo legislativo e com a elaboração de normas jurídicas, no âmbito dos Poderes da República. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -210,7 +210,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 3º O exercício da atividade de advocacia no território brasileiro e a denominação de advogado são privativos dos inscritos na Ordem dos Advogados do Brasil (OAB),
 
-§ 1º Exercem atividade de advocacia, sujeitando-se ao regime desta lei, além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e das respectivas entidades de administração indireta e fundacional.     (Vide ADIN 4636)   (Vide ADIN 6021)
+§ 1º Exercem atividade de advocacia, sujeitando-se ao regime desta lei, além do regime próprio a que se subordinem, os integrantes da Advocacia-Geral da União, da Procuradoria da Fazenda Nacional, da Defensoria Pública e das Procuradorias e Consultorias Jurídicas dos Estados, do Distrito Federal, dos Municípios e das respectivas entidades de administração indireta e fundacional. (Vide ADIN 4636) (Vide ADIN 6021)
 
 § 2º O estagiário de advocacia, regularmente inscrito, pode praticar os atos previstos no art. 1º, na forma do regimento geral, em conjunto com advogado e sob responsabilidade deste.
 
@@ -250,9 +250,9 @@ O exercício da advocacia e o título de advogado são privativos dos inscritos 
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO I — Da Atividade de Advocacia
 
-Art.  3º-A.  Os serviços profissionais de advogado são, por sua natureza, técnicos e singulares, quando comprovada sua notória especialização, nos termos da lei.     (Incluído pela Lei nº 14.039, de 2020)
+Art. 3º-A. Os serviços profissionais de advogado são, por sua natureza, técnicos e singulares, quando comprovada sua notória especialização, nos termos da lei. (Incluído pela Lei nº 14.039, de 2020)
 
-Parágrafo único. Considera-se notória especialização o profissional ou a sociedade de advogados cujo conceito no campo de sua especialidade, decorrente de desempenho anterior, estudos, experiências, publicações, organização, aparelhamento, equipe técnica ou de outros requisitos relacionados com suas atividades, permita inferir que o seu trabalho é essencial e indiscutivelmente o mais adequado à plena satisfação do objeto do contrato.     (Incluído pela Lei nº 14.039, de 2020)
+Parágrafo único. Considera-se notória especialização o profissional ou a sociedade de advogados cujo conceito no campo de sua especialidade, decorrente de desempenho anterior, estudos, experiências, publicações, organização, aparelhamento, equipe técnica ou de outros requisitos relacionados com suas atividades, permita inferir que o seu trabalho é essencial e indiscutivelmente o mais adequado à plena satisfação do objeto do contrato. (Incluído pela Lei nº 14.039, de 2020)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.039, de 2020.
 
@@ -323,7 +323,7 @@ Art. 5º O advogado postula, em juízo ou fora dele, fazendo prova do mandato.
 
 § 3º O advogado que renunciar ao mandato continuará, durante os dez dias seguintes à notificação da renúncia, a representar o mandante, salvo se for substituído antes do término desse prazo.
 
-§ 4º As atividades de consultoria e assessoria jurídicas podem ser exercidas de modo verbal ou por escrito, a critério do advogado e do cliente, e independem de outorga de mandato ou de formalização por contrato de honorários.       (Incluído pela Lei nº 14.365, de 2022)
+§ 4º As atividades de consultoria e assessoria jurídicas podem ser exercidas de modo verbal ou por escrito, a critério do advogado e do cliente, e independem de outorga de mandato ou de formalização por contrato de honorários. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -358,9 +358,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 6º Não há hierarquia nem subordinação entre advogados, magistrados e membros do Ministério Público, devendo todos tratar-se com consideração e respeito recíprocos.
 
-§ 1º As autoridades e os servidores públicos dos Poderes da República, os serventuários da Justiça e os membros do Ministério Público devem dispensar ao advogado, no exercício da profissão, tratamento compatível com a dignidade da advocacia e condições adequadas a seu desempenho, preservando e resguardando, de ofício, a imagem, a reputação e a integridade do advogado nos termos desta Lei.     (Redação dada pela Lei nº 14.365, de 2022)   (Renumerado do parágrafo único pela Lei nº 14.508, de 2022)
+§ 1º As autoridades e os servidores públicos dos Poderes da República, os serventuários da Justiça e os membros do Ministério Público devem dispensar ao advogado, no exercício da profissão, tratamento compatível com a dignidade da advocacia e condições adequadas a seu desempenho, preservando e resguardando, de ofício, a imagem, a reputação e a integridade do advogado nos termos desta Lei. (Redação dada pela Lei nº 14.365, de 2022) (Renumerado do parágrafo único pela Lei nº 14.508, de 2022)
 
-§ 2º Durante as audiências de instrução e julgamento realizadas no Poder Judiciário, nos procedimentos de jurisdição contenciosa ou voluntária, os advogados do autor e do requerido devem permanecer no mesmo plano topográfico e em posição equidistante em relação ao magistrado que as presidir.   (Incluído pela Lei nº 14.508, de 2022)
+§ 2º Durante as audiências de instrução e julgamento realizadas no Poder Judiciário, nos procedimentos de jurisdição contenciosa ou voluntária, os advogados do autor e do requerido devem permanecer no mesmo plano topográfico e em posição equidistante em relação ao magistrado que as presidir. (Incluído pela Lei nº 14.508, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.365, de 2022; renumeração — Lei nº 14.508, de 2022; inclusão — Lei nº 14.508, de 2022.
 
@@ -402,7 +402,7 @@ III - comunicar-se com seus clientes, pessoal e reservadamente, mesmo sem procur
 
 IV - ter a presença de representante da OAB, quando preso em flagrante, por motivo ligado ao exercício da advocacia, para lavratura do auto respectivo, sob pena de nulidade e, nos demais casos, a comunicação expressa à seccional da OAB;
 
-V - não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, ~~assim reconhecidas pela OAB,~~ e, na sua falta, em prisão domiciliar;         (Vide ADIN 1.127-8)
+V - não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, ~~assim reconhecidas pela OAB,~~ e, na sua falta, em prisão domiciliar; (Vide ADIN 1.127-8)
 
 VI - ingressar livremente:
 
@@ -418,19 +418,19 @@ VII - permanecer sentado ou em pé e retirar-se de quaisquer locais indicados no
 
 VIII - dirigir-se diretamente aos magistrados nas salas e gabinetes de trabalho, independentemente de horário previamente marcado ou outra condição, observando-se a ordem de chegada;
 
-IX - ~~sustentar oralmente as razões de qualquer recurso ou processo, nas sessões de julgamento, após o voto do relator, em instância judicial ou administrativa, pelo prazo de quinze minutos, salvo se prazo maior for concedido;~~       (Vide ADIN 1.127-8)      (Vide ADIN 1.105-7)
+IX - ~~sustentar oralmente as razões de qualquer recurso ou processo, nas sessões de julgamento, após o voto do relator, em instância judicial ou administrativa, pelo prazo de quinze minutos, salvo se prazo maior for concedido;~~ (Vide ADIN 1.127-8) (Vide ADIN 1.105-7)
 
-IX-A - (VETADO);   (Incluído pela Lei nº 14.365, de 2022)
+IX-A - (VETADO); (Incluído pela Lei nº 14.365, de 2022)
 
-X - usar da palavra, pela ordem, em qualquer tribunal judicial ou administrativo, órgão de deliberação coletiva da administração pública ou comissão parlamentar de inquérito, mediante intervenção pontual e sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, a documentos ou a afirmações que influam na decisão;      (Redação dada pela Lei nº 14.365, de 2022)
+X - usar da palavra, pela ordem, em qualquer tribunal judicial ou administrativo, órgão de deliberação coletiva da administração pública ou comissão parlamentar de inquérito, mediante intervenção pontual e sumária, para esclarecer equívoco ou dúvida surgida em relação a fatos, a documentos ou a afirmações que influam na decisão; (Redação dada pela Lei nº 14.365, de 2022)
 
 XI - reclamar, verbalmente ou por escrito, perante qualquer juízo, tribunal ou autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;
 
 XII - falar, sentado ou em pé, em juízo, tribunal ou órgão de deliberação coletiva da Administração Pública ou do Poder Legislativo;
 
-XIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estiverem sujeitos a sigilo ou segredo de justiça, assegurada a obtenção de cópias, com possibilidade de tomar apontamentos;             (Redação dada pela Lei nº 13.793, de 2019)
+XIII - examinar, em qualquer órgão dos Poderes Judiciário e Legislativo, ou da Administração Pública em geral, autos de processos findos ou em andamento, mesmo sem procuração, quando não estiverem sujeitos a sigilo ou segredo de justiça, assegurada a obtenção de cópias, com possibilidade de tomar apontamentos; (Redação dada pela Lei nº 13.793, de 2019)
 
-XIV - examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital;             (Redação dada pela Lei nº 13.245, de 2016)
+XIV - examinar, em qualquer instituição responsável por conduzir investigação, mesmo sem procuração, autos de flagrante e de investigações de qualquer natureza, findos ou em andamento, ainda que conclusos à autoridade, podendo copiar peças e tomar apontamentos, em meio físico ou digital; (Redação dada pela Lei nº 13.245, de 2016)
 
 XV - ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais;
 
@@ -444,83 +444,83 @@ XIX - recusar-se a depor como testemunha em processo no qual funcionou ou deva f
 
 XX - retirar-se do recinto onde se encontre aguardando pregão para ato judicial, após trinta minutos do horário designado e ao qual ainda não tenha comparecido a autoridade que deva presidir a ele, mediante comunicação protocolizada em juízo.
 
-XXI - assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração:         (Incluído pela Lei nº 13.245, de 2016)
+XXI - assistir a seus clientes investigados durante a apuração de infrações, sob pena de nulidade absoluta do respectivo interrogatório ou depoimento e, subsequentemente, de todos os elementos investigatórios e probatórios dele decorrentes ou derivados, direta ou indiretamente, podendo, inclusive, no curso da respectiva apuração: (Incluído pela Lei nº 13.245, de 2016)
 
-a) apresentar razões e quesitos;         (Incluído pela Lei nº 13.245, de 2016)
+a) apresentar razões e quesitos; (Incluído pela Lei nº 13.245, de 2016)
 
-b) (VETADO).         (Incluído pela Lei nº 13.245, de 2016)
+b) (VETADO). (Incluído pela Lei nº 13.245, de 2016)
 
-§ 1º (Revogado).        (Redação dada pela Lei nº 14.365, de 2022)   (Vide ADI 7231)
+§ 1º (Revogado). (Redação dada pela Lei nº 14.365, de 2022) (Vide ADI 7231)
 
-1\) (revogado);         (Redação dada pela Lei nº 14.365, de 2022)
+1\) (revogado); (Redação dada pela Lei nº 14.365, de 2022)
 
-2\) (revogado);       (Redação dada pela Lei nº 14.365, de 2022)
+2\) (revogado); (Redação dada pela Lei nº 14.365, de 2022)
 
-3\) (revogado).       (Redação dada pela Lei nº 14.365, de 2022)
+3\) (revogado). (Redação dada pela Lei nº 14.365, de 2022)
 
-§ 2º (Revogado).       (Redação dada pela Lei nº 14.365, de 2022)    (Vide ADI 7231)
+§ 2º (Revogado). (Redação dada pela Lei nº 14.365, de 2022) (Vide ADI 7231)
 
-§ 2º-A. (VETADO).        (Incluído pela Lei nº 14.365, de 2022)
+§ 2º-A. (VETADO). (Incluído pela Lei nº 14.365, de 2022)
 
-§ 2º-B. Poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações:      (Incluído pela Lei nº 14.365, de 2022)
+§ 2º-B. Poderá o advogado realizar a sustentação oral no recurso interposto contra a decisão monocrática de relator que julgar o mérito ou não conhecer dos seguintes recursos ou ações: (Incluído pela Lei nº 14.365, de 2022)
 
-I - recurso de apelação;      (Incluído pela Lei nº 14.365, de 2022)
+I - recurso de apelação; (Incluído pela Lei nº 14.365, de 2022)
 
-II - recurso ordinário;       (Incluído pela Lei nº 14.365, de 2022)
+II - recurso ordinário; (Incluído pela Lei nº 14.365, de 2022)
 
-III - recurso especial;       (Incluído pela Lei nº 14.365, de 2022)
+III - recurso especial; (Incluído pela Lei nº 14.365, de 2022)
 
-IV - recurso extraordinário;       (Incluído pela Lei nº 14.365, de 2022)
+IV - recurso extraordinário; (Incluído pela Lei nº 14.365, de 2022)
 
-V - embargos de divergência;      (Incluído pela Lei nº 14.365, de 2022)
+V - embargos de divergência; (Incluído pela Lei nº 14.365, de 2022)
 
-VI - ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária.      (Incluído pela Lei nº 14.365, de 2022)
+VI - ação rescisória, mandado de segurança, reclamação, habeas corpus e outras ações de competência originária. (Incluído pela Lei nº 14.365, de 2022)
 
 § 3º O advogado somente poderá ser preso em flagrante, por motivo de exercício da profissão, em caso de crime inafiançável, observado o disposto no inciso IV deste artigo.
 
-§ 4º O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso ~~e controle~~ assegurados à OAB.     (Vide ADIN 1.127-8)
+§ 4º O Poder Judiciário e o Poder Executivo devem instalar, em todos os juizados, fóruns, tribunais, delegacias de polícia e presídios, salas especiais permanentes para os advogados, com uso ~~e controle~~ assegurados à OAB. (Vide ADIN 1.127-8)
 
 § 5º No caso de ofensa a inscrito na OAB, no exercício da profissão ou de cargo ou função de órgão da OAB, o conselho competente deve promover o desagravo público do ofendido, sem prejuízo da responsabilidade criminal em que incorrer o infrator.
 
-§ 6o  Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes.             (Incluído pela Lei nº 11.767, de 2008)
+§ 6o Presentes indícios de autoria e materialidade da prática de crime por parte de advogado, a autoridade judiciária competente poderá decretar a quebra da inviolabilidade de que trata o inciso II do caput deste artigo, em decisão motivada, expedindo mandado de busca e apreensão, específico e pormenorizado, a ser cumprido na presença de representante da OAB, sendo, em qualquer hipótese, vedada a utilização dos documentos, das mídias e dos objetos pertencentes a clientes do advogado averiguado, bem como dos demais instrumentos de trabalho que contenham informações sobre clientes. (Incluído pela Lei nº 11.767, de 2008)
 
-§ 6º-A. A medida judicial cautelar que importe na violação do escritório ou do local de trabalho do advogado será determinada em hipótese excepcional, desde que exista fundamento em indício, pelo órgão acusatório.        (Promulgação partes vetadas)       (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-A. A medida judicial cautelar que importe na violação do escritório ou do local de trabalho do advogado será determinada em hipótese excepcional, desde que exista fundamento em indício, pelo órgão acusatório. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-B. É vedada a determinação da medida cautelar prevista no § 6º-A deste artigo se fundada exclusivamente em elementos produzidos em declarações do colaborador sem confirmação por outros meios de prova.         (Promulgação partes vetadas)        (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-B. É vedada a determinação da medida cautelar prevista no § 6º-A deste artigo se fundada exclusivamente em elementos produzidos em declarações do colaborador sem confirmação por outros meios de prova. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-C. O representante da OAB referido no § 6º deste artigo tem o direito a ser respeitado pelos agentes responsáveis pelo cumprimento do mandado de busca e apreensão, sob pena de abuso de autoridade, e o dever de zelar pelo fiel cumprimento do objeto da investigação, bem como de impedir que documentos, mídias e objetos não relacionados à investigação, especialmente de outros processos do mesmo cliente ou de outros clientes que não sejam pertinentes à persecução penal, sejam analisados, fotografados, filmados, retirados ou apreendidos do escritório de advocacia.      (Promulgação partes vetadas)        (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-C. O representante da OAB referido no § 6º deste artigo tem o direito a ser respeitado pelos agentes responsáveis pelo cumprimento do mandado de busca e apreensão, sob pena de abuso de autoridade, e o dever de zelar pelo fiel cumprimento do objeto da investigação, bem como de impedir que documentos, mídias e objetos não relacionados à investigação, especialmente de outros processos do mesmo cliente ou de outros clientes que não sejam pertinentes à persecução penal, sejam analisados, fotografados, filmados, retirados ou apreendidos do escritório de advocacia. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-D. No caso de inviabilidade técnica quanto à segregação da documentação, da mídia ou dos objetos não relacionados à investigação, em razão da sua natureza ou volume, no momento da execução da decisão judicial de apreensão ou de retirada do material, a cadeia de custódia preservará o sigilo do seu conteúdo, assegurada a presença do representante da OAB, nos termos dos §§ 6º-F e 6º-G deste artigo.     (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-D. No caso de inviabilidade técnica quanto à segregação da documentação, da mídia ou dos objetos não relacionados à investigação, em razão da sua natureza ou volume, no momento da execução da decisão judicial de apreensão ou de retirada do material, a cadeia de custódia preservará o sigilo do seu conteúdo, assegurada a presença do representante da OAB, nos termos dos §§ 6º-F e 6º-G deste artigo. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-E. Na hipótese de inobservância do § 6º-D deste artigo pelo agente público responsável pelo cumprimento do mandado de busca e apreensão, o representante da OAB fará o relatório do fato ocorrido, com a inclusão dos nomes dos servidores, dará conhecimento à autoridade judiciária e o encaminhará à OAB para a elaboração de notícia-crime.     (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-E. Na hipótese de inobservância do § 6º-D deste artigo pelo agente público responsável pelo cumprimento do mandado de busca e apreensão, o representante da OAB fará o relatório do fato ocorrido, com a inclusão dos nomes dos servidores, dará conhecimento à autoridade judiciária e o encaminhará à OAB para a elaboração de notícia-crime. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-F. É garantido o direito de acompanhamento por representante da OAB e pelo profissional investigado durante a análise dos documentos e dos dispositivos de armazenamento de informação pertencentes a advogado, apreendidos ou interceptados, em todos os atos, para assegurar o cumprimento do disposto no inciso II do caput deste artigo.      (Promulgação partes vetadas).       (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-F. É garantido o direito de acompanhamento por representante da OAB e pelo profissional investigado durante a análise dos documentos e dos dispositivos de armazenamento de informação pertencentes a advogado, apreendidos ou interceptados, em todos os atos, para assegurar o cumprimento do disposto no inciso II do caput deste artigo. (Promulgação partes vetadas). (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-G. A autoridade responsável informará, com antecedência mínima de 24 (vinte e quatro) horas, à seccional da OAB a data, o horário e o local em que serão analisados os documentos e os equipamentos apreendidos, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo.   (Promulgação partes vetadas)      (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-G. A autoridade responsável informará, com antecedência mínima de 24 (vinte e quatro) horas, à seccional da OAB a data, o horário e o local em que serão analisados os documentos e os equipamentos apreendidos, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-H. Em casos de urgência devidamente fundamentada pelo juiz, a análise dos documentos e dos equipamentos apreendidos poderá acontecer em prazo inferior a 24 (vinte e quatro) horas, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo.     (Promulgação partes vetadas)     (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-H. Em casos de urgência devidamente fundamentada pelo juiz, a análise dos documentos e dos equipamentos apreendidos poderá acontecer em prazo inferior a 24 (vinte e quatro) horas, garantido o direito de acompanhamento, em todos os atos, pelo representante da OAB e pelo profissional investigado para assegurar o disposto no § 6º-C deste artigo. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º-I. É vedado ao advogado efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância disso importará em processo disciplinar, que poderá culminar com a aplicação do disposto no inciso III do caput do art. 35 desta Lei, sem prejuízo das penas previstas no art. 154 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).      (Incluído pela Lei nº 14.365, de 2022)
+§ 6º-I. É vedado ao advogado efetuar colaboração premiada contra quem seja ou tenha sido seu cliente, e a inobservância disso importará em processo disciplinar, que poderá culminar com a aplicação do disposto no inciso III do caput do art. 35 desta Lei, sem prejuízo das penas previstas no art. 154 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal). (Incluído pela Lei nº 14.365, de 2022)
 
-§ 7o  A ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade.            (Incluído pela Lei nº 11.767, de 2008)
+§ 7o A ressalva constante do § 6o deste artigo não se estende a clientes do advogado averiguado que estejam sendo formalmente investigados como seus partícipes ou co-autores pela prática do mesmo crime que deu causa à quebra da inviolabilidade. (Incluído pela Lei nº 11.767, de 2008)
 
-§ 8o  (VETADO)             (Incluído pela Lei nº 11.767, de 2008)
+§ 8o (VETADO) (Incluído pela Lei nº 11.767, de 2008)
 
-§ 9o  (VETADO)             (Incluído pela Lei nº 11.767, de 2008)
+§ 9o (VETADO) (Incluído pela Lei nº 11.767, de 2008)
 
-§ 10.  Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV.          (Incluído pela Lei nº 13.245, de 2016)
+§ 10. Nos autos sujeitos a sigilo, deve o advogado apresentar procuração para o exercício dos direitos de que trata o inciso XIV. (Incluído pela Lei nº 13.245, de 2016)
 
-§ 11.  No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências.          (Incluído pela Lei nº 13.245, de 2016)
+§ 11. No caso previsto no inciso XIV, a autoridade competente poderá delimitar o acesso do advogado aos elementos de prova relacionados a diligências em andamento e ainda não documentados nos autos, quando houver risco de comprometimento da eficiência, da eficácia ou da finalidade das diligências. (Incluído pela Lei nº 13.245, de 2016)
 
-§ 12.  A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente.              (Incluído pela Lei nº 13.245, de 2016)
+§ 12. A inobservância aos direitos estabelecidos no inciso XIV, o fornecimento incompleto de autos ou o fornecimento de autos em que houve a retirada de peças já incluídas no caderno investigativo implicará responsabilização criminal e funcional por abuso de autoridade do responsável que impedir o acesso do advogado com o intuito de prejudicar o exercício da defesa, sem prejuízo do direito subjetivo do advogado de requerer acesso aos autos ao juiz competente. (Incluído pela Lei nº 13.245, de 2016)
 
-§ 13.  O disposto nos incisos XIII e XIV do caput deste artigo aplica-se integralmente a processos e a procedimentos eletrônicos, ressalvado o disposto nos §§ 10 e 11 deste artigo.              (Incluído pela Lei nº 13.793, de 2019)
+§ 13. O disposto nos incisos XIII e XIV do caput deste artigo aplica-se integralmente a processos e a procedimentos eletrônicos, ressalvado o disposto nos §§ 10 e 11 deste artigo. (Incluído pela Lei nº 13.793, de 2019)
 
-§ 14. Cabe, privativamente, ao Conselho Federal da OAB, em processo disciplinar próprio, dispor, analisar e decidir sobre a prestação efetiva do serviço jurídico realizado pelo advogado.      (Incluído pela Lei nº 14.365, de 2022)
+§ 14. Cabe, privativamente, ao Conselho Federal da OAB, em processo disciplinar próprio, dispor, analisar e decidir sobre a prestação efetiva do serviço jurídico realizado pelo advogado. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 15. Cabe ao Conselho Federal da OAB dispor, analisar e decidir sobre os honorários advocatícios dos serviços jurídicos realizados pelo advogado, resguardado o sigilo, nos termos do Capítulo VI desta Lei, e observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal.         (Incluído pela Lei nº 14.365, de 2022)
+§ 15. Cabe ao Conselho Federal da OAB dispor, analisar e decidir sobre os honorários advocatícios dos serviços jurídicos realizados pelo advogado, resguardado o sigilo, nos termos do Capítulo VI desta Lei, e observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 16. É nulo, em qualquer esfera de responsabilização, o ato praticado com violação da competência privativa do Conselho Federal da OAB prevista no § 14 deste artigo.     (Incluído pela Lei nº 14.365, de 2022)
+§ 16. É nulo, em qualquer esfera de responsabilização, o ato praticado com violação da competência privativa do Conselho Federal da OAB prevista no § 14 deste artigo. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.767, de 2008; inclusão — Lei nº 14.365, de 2022; redação — Lei nº 14.365, de 2022; redação — Lei nº 13.793, de 2019; redação — Lei nº 13.245, de 2016; inclusão — Lei nº 13.245, de 2016; inclusão — Lei nº 11.767, de 2008; inclusão — Lei nº 13.793, de 2019.
 
@@ -566,25 +566,25 @@ Lista as prerrogativas do advogado: liberdade profissional, inviolabilidade do e
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO II — Dos Direitos do Advogado
 
-Art. 7o-A. São direitos da advogada:               (Incluído pela Lei nº 13.363, de 2016)
+Art. 7o-A. São direitos da advogada: (Incluído pela Lei nº 13.363, de 2016)
 
-I - gestante:             (Incluído pela Lei nº 13.363, de 2016)
+I - gestante: (Incluído pela Lei nº 13.363, de 2016)
 
-a) entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X;          (Incluído pela Lei nº 13.363, de 2016)
+a) entrada em tribunais sem ser submetida a detectores de metais e aparelhos de raios X; (Incluído pela Lei nº 13.363, de 2016)
 
-b) reserva de vaga em garagens dos fóruns dos tribunais;          (Incluído pela Lei nº 13.363, de 2016)
+b) reserva de vaga em garagens dos fóruns dos tribunais; (Incluído pela Lei nº 13.363, de 2016)
 
-II - lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê;          (Incluído pela Lei nº 13.363, de 2016)
+II - lactante, adotante ou que der à luz, acesso a creche, onde houver, ou a local adequado ao atendimento das necessidades do bebê; (Incluído pela Lei nº 13.363, de 2016)
 
-III - gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição;          (Incluído pela Lei nº 13.363, de 2016)
+III - gestante, lactante, adotante ou que der à luz, preferência na ordem das sustentações orais e das audiências a serem realizadas a cada dia, mediante comprovação de sua condição; (Incluído pela Lei nº 13.363, de 2016)
 
-IV - adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente.          (Incluído pela Lei nº 13.363, de 2016)
+IV - adotante ou que der à luz, suspensão de prazos processuais quando for a única patrona da causa, desde que haja notificação por escrito ao cliente. (Incluído pela Lei nº 13.363, de 2016)
 
-§ 1o  Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação.         (Incluído pela Lei nº 13.363, de 2016)
+§ 1o Os direitos previstos à advogada gestante ou lactante aplicam-se enquanto perdurar, respectivamente, o estado gravídico ou o período de amamentação. (Incluído pela Lei nº 13.363, de 2016)
 
-§ 2o  Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho).         (Incluído pela Lei nº 13.363, de 2016)
+§ 2o Os direitos assegurados nos incisos II e III deste artigo à advogada adotante ou que der à luz serão concedidos pelo prazo previsto no art. 392 do Decreto-Lei no 5.452, de 1o de maio de 1943 (Consolidação das Leis do Trabalho). (Incluído pela Lei nº 13.363, de 2016)
 
-§ 3o O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no § 6o do art. 313 da Lei no 13.105, de 16 de março de 2015 (Código de Processo Civil).         (Incluído pela Lei nº 13.363, de 2016)
+§ 3o O direito assegurado no inciso IV deste artigo à advogada adotante ou que der à luz será concedido pelo prazo previsto no § 6o do art. 313 da Lei no 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 13.363, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.363, de 2016.
 
@@ -625,9 +625,9 @@ Garante direitos específicos à advogada gestante, lactante, adotante ou que de
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO II — Dos Direitos do Advogado
 
-Art. 7º-B  Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:      (Incluído pela Lei nº 13.869. de 2019)
+Art. 7º-B Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei: (Incluído pela Lei nº 13.869. de 2019)
 
-Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.        (Redação dada pela Lei nº 14.365, de 2022)
+Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.869.; redação — Lei nº 14.365, de 2022.
 
@@ -727,9 +727,9 @@ II - ter sido admitido em estágio profissional de advocacia.
 
 § 4º O estágio profissional poderá ser cumprido por bacharel em Direito que queira se inscrever na Ordem.
 
-§ 5º Em caso de pandemia ou em outras situações excepcionais que impossibilitem as atividades presenciais, declaradas pelo poder público, o estágio profissional poderá ser realizado no regime de teletrabalho ou de trabalho a distância em sistema remoto ou não, por qualquer meio telemático, sem configurar vínculo de emprego a adoção de qualquer uma dessas modalidades.      (Incluído pela Lei nº 14.365, de 2022)
+§ 5º Em caso de pandemia ou em outras situações excepcionais que impossibilitem as atividades presenciais, declaradas pelo poder público, o estágio profissional poderá ser realizado no regime de teletrabalho ou de trabalho a distância em sistema remoto ou não, por qualquer meio telemático, sem configurar vínculo de emprego a adoção de qualquer uma dessas modalidades. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º Se houver concessão, pela parte contratante ou conveniada, de equipamentos, sistemas e materiais ou reembolso de despesas de infraestrutura ou instalação, todos destinados a viabilizar a realização da atividade de estágio prevista no § 5º deste artigo, essa informação deverá constar, expressamente, do convênio de estágio e do termo de estágio.       (Incluído pela Lei nº 14.365, de 2022)
+§ 6º Se houver concessão, pela parte contratante ou conveniada, de equipamentos, sistemas e materiais ou reembolso de despesas de infraestrutura ou instalação, todos destinados a viabilizar a realização da atividade de estágio prevista no § 5º deste artigo, essa informação deverá constar, expressamente, do convênio de estágio e do termo de estágio. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -944,31 +944,31 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IV — Da Sociedade de Advogados
 
-Art. 15.  Os advogados podem reunir-se em sociedade simples de prestação de serviços de advocacia ou constituir sociedade unipessoal de advocacia, na forma disciplinada nesta Lei e no regulamento geral.          (Redação dada pela Lei nº 13.247, de 2016)
+Art. 15. Os advogados podem reunir-se em sociedade simples de prestação de serviços de advocacia ou constituir sociedade unipessoal de advocacia, na forma disciplinada nesta Lei e no regulamento geral. (Redação dada pela Lei nº 13.247, de 2016)
 
-§ 1o  A sociedade de advogados e a sociedade unipessoal de advocacia adquirem personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede.           (Redação dada pela Lei nº 13.247, de 2016)
+§ 1o A sociedade de advogados e a sociedade unipessoal de advocacia adquirem personalidade jurídica com o registro aprovado dos seus atos constitutivos no Conselho Seccional da OAB em cuja base territorial tiver sede. (Redação dada pela Lei nº 13.247, de 2016)
 
-§ 2o  Aplica-se à sociedade de advogados e à sociedade unipessoal de advocacia o Código de Ética e Disciplina, no que couber.           (Redação dada pela Lei nº 13.247, de 2016)
+§ 2o Aplica-se à sociedade de advogados e à sociedade unipessoal de advocacia o Código de Ética e Disciplina, no que couber. (Redação dada pela Lei nº 13.247, de 2016)
 
 § 3º As procurações devem ser outorgadas individualmente aos advogados e indicar a sociedade de que façam parte.
 
-§ 4o Nenhum advogado pode integrar mais de uma sociedade de advogados, constituir mais de uma sociedade unipessoal de advocacia, ou integrar, simultaneamente, uma sociedade de advogados e uma sociedade unipessoal de advocacia, com sede ou filial na mesma área territorial do respectivo Conselho Seccional.           (Redação dada pela Lei nº 13.247, de 2016)
+§ 4o Nenhum advogado pode integrar mais de uma sociedade de advogados, constituir mais de uma sociedade unipessoal de advocacia, ou integrar, simultaneamente, uma sociedade de advogados e uma sociedade unipessoal de advocacia, com sede ou filial na mesma área territorial do respectivo Conselho Seccional. (Redação dada pela Lei nº 13.247, de 2016)
 
-§ 5o  O ato de constituição de filial deve ser averbado no registro da sociedade e arquivado no Conselho Seccional onde se instalar, ficando os sócios, inclusive o titular da sociedade unipessoal de advocacia, obrigados à inscrição suplementar.              (Redação dada pela Lei nº 13.247, de 2016)
+§ 5o O ato de constituição de filial deve ser averbado no registro da sociedade e arquivado no Conselho Seccional onde se instalar, ficando os sócios, inclusive o titular da sociedade unipessoal de advocacia, obrigados à inscrição suplementar. (Redação dada pela Lei nº 13.247, de 2016)
 
 § 6º Os advogados sócios de uma mesma sociedade profissional não podem representar em juízo clientes de interesses opostos.
 
-§ 7o  A sociedade unipessoal de advocacia pode resultar da concentração por um advogado das quotas de uma sociedade de advogados, independentemente das razões que motivaram tal concentração.             (Incluído pela Lei nº 13.247, de 2016)
+§ 7o A sociedade unipessoal de advocacia pode resultar da concentração por um advogado das quotas de uma sociedade de advogados, independentemente das razões que motivaram tal concentração. (Incluído pela Lei nº 13.247, de 2016)
 
-§ 8º Nas sociedades de advogados, a escolha do sócio-administrador poderá recair sobre advogado que atue como servidor da administração direta, indireta e fundacional, desde que não esteja sujeito ao regime de dedicação exclusiva, não lhe sendo aplicável o disposto no inciso X do caput do art. 117 da Lei nº 8.112, de 11 de dezembro de 1990, no que se refere à sociedade de advogados. (Promulgação partes vetadas)        (Incluído pela Lei nº 14.365, de 2022)
+§ 8º Nas sociedades de advogados, a escolha do sócio-administrador poderá recair sobre advogado que atue como servidor da administração direta, indireta e fundacional, desde que não esteja sujeito ao regime de dedicação exclusiva, não lhe sendo aplicável o disposto no inciso X do caput do art. 117 da Lei nº 8.112, de 11 de dezembro de 1990, no que se refere à sociedade de advogados. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 9º A sociedade de advogados e a sociedade unipessoal de advocacia deverão recolher seus tributos sobre a parcela da receita que efetivamente lhes couber, com a exclusão da receita que for transferida a outros advogados ou a sociedades que atuem em forma de parceria para o atendimento do cliente.      (Promulgação partes vetadas)        (Incluído pela Lei nº 14.365, de 2022)
+§ 9º A sociedade de advogados e a sociedade unipessoal de advocacia deverão recolher seus tributos sobre a parcela da receita que efetivamente lhes couber, com a exclusão da receita que for transferida a outros advogados ou a sociedades que atuem em forma de parceria para o atendimento do cliente. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
-§ 10. Cabem ao Conselho Federal da OAB a fiscalização, o acompanhamento e a definição de parâmetros e de diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício autorizada expressamente neste artigo.       (Incluído pela Lei nº 14.365, de 2022)
+§ 10. Cabem ao Conselho Federal da OAB a fiscalização, o acompanhamento e a definição de parâmetros e de diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício autorizada expressamente neste artigo. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 11. Não será admitida a averbação do contrato de associação que contenha, em conjunto, os elementos caracterizadores de relação de emprego previstos na Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943.          (Incluído pela Lei nº 14.365, de 2022)
+§ 11. Não será admitida a averbação do contrato de associação que contenha, em conjunto, os elementos caracterizadores de relação de emprego previstos na Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 12. A sociedade de advogados e a sociedade unipessoal de advocacia podem ter como sede, filial ou local de trabalho espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas nesta Lei e no Código de Ética e Disciplina.        (Incluído pela Lei nº 14.365, de 2022)
+§ 12. A sociedade de advogados e a sociedade unipessoal de advocacia podem ter como sede, filial ou local de trabalho espaço de uso individual ou compartilhado com outros escritórios de advocacia ou empresas, desde que respeitadas as hipóteses de sigilo previstas nesta Lei e no Código de Ética e Disciplina. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.247, de 2016; inclusão — Lei nº 13.247, de 2016; inclusão — Lei nº 14.365, de 2022.
 
@@ -1008,15 +1008,15 @@ Os advogados podem formar sociedade simples de prestação de serviços de advoc
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IV — Da Sociedade de Advogados
 
-Art. 16.  Não são admitidas a registro nem podem funcionar todas as espécies de sociedades de advogados que apresentem forma ou características de sociedade empresária, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam como sócio ou titular de sociedade unipessoal de advocacia pessoa não inscrita como advogado ou totalmente proibida de advogar.    (Redação dada pela Lei nº 13.247, de 2016)
+Art. 16. Não são admitidas a registro nem podem funcionar todas as espécies de sociedades de advogados que apresentem forma ou características de sociedade empresária, que adotem denominação de fantasia, que realizem atividades estranhas à advocacia, que incluam como sócio ou titular de sociedade unipessoal de advocacia pessoa não inscrita como advogado ou totalmente proibida de advogar. (Redação dada pela Lei nº 13.247, de 2016)
 
 § 1º A razão social deve ter, obrigatoriamente, o nome de, pelo menos, um advogado responsável pela sociedade, podendo permanecer o de sócio falecido, desde que prevista tal possibilidade no ato constitutivo.
 
-§ 2º O impedimento ou a incompatibilidade em caráter temporário do advogado não o exclui da sociedade de advogados à qual pertença e deve ser averbado no registro da sociedade, observado o disposto nos arts. 27, 28, 29 e 30 desta Lei e proibida, em qualquer hipótese, a exploração de seu nome e de sua imagem em favor da sociedade.      (Redação dada pela Lei nº 14.365, de 2022)
+§ 2º O impedimento ou a incompatibilidade em caráter temporário do advogado não o exclui da sociedade de advogados à qual pertença e deve ser averbado no registro da sociedade, observado o disposto nos arts. 27, 28, 29 e 30 desta Lei e proibida, em qualquer hipótese, a exploração de seu nome e de sua imagem em favor da sociedade. (Redação dada pela Lei nº 14.365, de 2022)
 
 § 3º É proibido o registro, nos cartórios de registro civil de pessoas jurídicas e nas juntas comerciais, de sociedade que inclua, entre outras finalidades, a atividade de advocacia.
 
-§ 4o  A denominação da sociedade unipessoal de advocacia deve ser obrigatoriamente formada pelo nome do seu titular, completo ou parcial, com a expressão ‘Sociedade Individual de Advocacia’.            (Incluído pela Lei nº 13.247, de 2016)
+§ 4o A denominação da sociedade unipessoal de advocacia deve ser obrigatoriamente formada pelo nome do seu titular, completo ou parcial, com a expressão ‘Sociedade Individual de Advocacia’. (Incluído pela Lei nº 13.247, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.247, de 2016; redação — Lei nº 14.365, de 2022; inclusão — Lei nº 13.247, de 2016.
 
@@ -1051,7 +1051,7 @@ Proíbe o registro de sociedades de advogados com forma ou características de s
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IV — Da Sociedade de Advogados
 
-Art. 17.  Além da sociedade, o sócio e o titular da sociedade individual de advocacia respondem subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possam incorrer.               (Redação dada pela Lei nº 13.247, de 2016)
+Art. 17. Além da sociedade, o sócio e o titular da sociedade individual de advocacia respondem subsidiária e ilimitadamente pelos danos causados aos clientes por ação ou omissão no exercício da advocacia, sem prejuízo da responsabilidade disciplinar em que possam incorrer. (Redação dada pela Lei nº 13.247, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.247, de 2016.
 
@@ -1082,7 +1082,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IV — Da Sociedade de Advogados
 
-Art. 17-A. O advogado poderá associar-se a uma ou mais sociedades de advogados ou sociedades unipessoais de advocacia, sem que estejam presentes os requisitos legais de vínculo empregatício, para prestação de serviços e participação nos resultados, na forma do Regulamento Geral e de Provimentos do Conselho Federal da OAB.      (Incluído pela Lei nº 14.365, de 2022)
+Art. 17-A. O advogado poderá associar-se a uma ou mais sociedades de advogados ou sociedades unipessoais de advocacia, sem que estejam presentes os requisitos legais de vínculo empregatício, para prestação de serviços e participação nos resultados, na forma do Regulamento Geral e de Provimentos do Conselho Federal da OAB. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1113,19 +1113,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IV — Da Sociedade de Advogados
 
-Art. 17-B. A associação de que trata o art. 17-A desta Lei dar-se-á por meio de pactuação de contrato próprio, que poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho e que deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados que dele tomar parte.       (Incluído pela Lei nº 14.365, de 2022)
+Art. 17-B. A associação de que trata o art. 17-A desta Lei dar-se-á por meio de pactuação de contrato próprio, que poderá ser de caráter geral ou restringir-se a determinada causa ou trabalho e que deverá ser registrado no Conselho Seccional da OAB em cuja base territorial tiver sede a sociedade de advogados que dele tomar parte. (Incluído pela Lei nº 14.365, de 2022)
 
-Parágrafo único. No contrato de associação, o advogado sócio ou associado e a sociedade pactuarão as condições para o desempenho da atividade advocatícia e estipularão livremente os critérios para a partilha dos resultados dela decorrentes, devendo o contrato conter, no mínimo:       (Incluído pela Lei nº 14.365, de 2022)
+Parágrafo único. No contrato de associação, o advogado sócio ou associado e a sociedade pactuarão as condições para o desempenho da atividade advocatícia e estipularão livremente os critérios para a partilha dos resultados dela decorrentes, devendo o contrato conter, no mínimo: (Incluído pela Lei nº 14.365, de 2022)
 
-I - qualificação das partes, com referência expressa à inscrição no Conselho Seccional da OAB competente;       (Incluído pela Lei nº 14.365, de 2022)
+I - qualificação das partes, com referência expressa à inscrição no Conselho Seccional da OAB competente; (Incluído pela Lei nº 14.365, de 2022)
 
-II - especificação e delimitação do serviço a ser prestado;       (Incluído pela Lei nº 14.365, de 2022)
+II - especificação e delimitação do serviço a ser prestado; (Incluído pela Lei nº 14.365, de 2022)
 
-III - forma de repartição dos riscos e das receitas entre as partes, vedada a atribuição da totalidade dos riscos ou das receitas exclusivamente a uma delas;      (Incluído pela Lei nº 14.365, de 2022)
+III - forma de repartição dos riscos e das receitas entre as partes, vedada a atribuição da totalidade dos riscos ou das receitas exclusivamente a uma delas; (Incluído pela Lei nº 14.365, de 2022)
 
-IV - responsabilidade pelo fornecimento de condições materiais e pelo custeio das despesas necessárias à execução dos serviços;      (Incluído pela Lei nº 14.365, de 2022)
+IV - responsabilidade pelo fornecimento de condições materiais e pelo custeio das despesas necessárias à execução dos serviços; (Incluído pela Lei nº 14.365, de 2022)
 
-V - prazo de duração do contrato.      (Incluído pela Lei nº 14.365, de 2022)
+V - prazo de duração do contrato. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1160,17 +1160,17 @@ A associação do art. 17-A é feita por contrato próprio, registrado na seccio
 
 Art. 18. A relação de emprego, na qualidade de advogado, não retira a isenção técnica nem reduz a independência profissional inerentes à advocacia.
 
-§ 1º O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego.       (Incluído pela Lei nº 14.365, de 2022)
+§ 1º O advogado empregado não está obrigado à prestação de serviços profissionais de interesse pessoal dos empregadores, fora da relação de emprego. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 2º As atividades do advogado empregado poderão ser realizadas, a critério do empregador, em qualquer um dos seguintes regimes:       (Incluído pela Lei nº 14.365, de 2022)
+§ 2º As atividades do advogado empregado poderão ser realizadas, a critério do empregador, em qualquer um dos seguintes regimes: (Incluído pela Lei nº 14.365, de 2022)
 
-I - exclusivamente presencial: modalidade na qual o advogado empregado, desde o início da contratação, realizará o trabalho nas dependências ou locais indicados pelo empregador;      (Incluído pela Lei nº 14.365, de 2022)
+I - exclusivamente presencial: modalidade na qual o advogado empregado, desde o início da contratação, realizará o trabalho nas dependências ou locais indicados pelo empregador; (Incluído pela Lei nº 14.365, de 2022)
 
-II - não presencial, teletrabalho ou trabalho a distância: modalidade na qual, desde o início da contratação, o trabalho será preponderantemente realizado fora das dependências do empregador, observado que o comparecimento nas dependências de forma não permanente, variável ou para participação em reuniões ou em eventos presenciais não descaracterizará o regime não presencial;       (Incluído pela Lei nº 14.365, de 2022)
+II - não presencial, teletrabalho ou trabalho a distância: modalidade na qual, desde o início da contratação, o trabalho será preponderantemente realizado fora das dependências do empregador, observado que o comparecimento nas dependências de forma não permanente, variável ou para participação em reuniões ou em eventos presenciais não descaracterizará o regime não presencial; (Incluído pela Lei nº 14.365, de 2022)
 
-III - misto: modalidade na qual as atividades do advogado poderão ser presenciais, no estabelecimento do contratante ou onde este indicar, ou não presenciais, conforme as condições definidas pelo empregador em seu regulamento empresarial, independentemente de preponderância ou não.      (Incluído pela Lei nº 14.365, de 2022)
+III - misto: modalidade na qual as atividades do advogado poderão ser presenciais, no estabelecimento do contratante ou onde este indicar, ou não presenciais, conforme as condições definidas pelo empregador em seu regulamento empresarial, independentemente de preponderância ou não. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 3º Na vigência da relação de emprego, as partes poderão pactuar, por acordo individual simples, a alteração de um regime para outro.      (Incluído pela Lei nº 14.365, de 2022)
+§ 3º Na vigência da relação de emprego, as partes poderão pactuar, por acordo individual simples, a alteração de um regime para outro. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1231,7 +1231,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO V — Do Advogado Empregado
 
-Art. 20. A jornada de trabalho do advogado empregado, quando prestar serviço para empresas, não poderá exceder a duração diária de 8 (oito) horas contínuas e a de 40 (quarenta) horas semanais.     (Redação dada pela Lei nº 14.365, de 2022)
+Art. 20. A jornada de trabalho do advogado empregado, quando prestar serviço para empresas, não poderá exceder a duração diária de 8 (oito) horas contínuas e a de 40 (quarenta) horas semanais. (Redação dada pela Lei nº 14.365, de 2022)
 
 § 1º Para efeitos deste artigo, considera-se como período de trabalho o tempo em que o advogado estiver à disposição do empregador, aguardando ou executando ordens, no seu escritório ou em atividades externas, sendo-lhe reembolsadas as despesas feitas com transporte, hospedagem e alimentação.
 
@@ -1304,7 +1304,7 @@ Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o 
 
 § 1º O advogado, quando indicado para patrocinar causa de juridicamente necessitado, no caso de impossibilidade da Defensoria Pública no local da prestação de serviço, tem direito aos honorários fixados pelo juiz, segundo tabela organizada pelo Conselho Seccional da OAB, e pagos pelo Estado.
 
-§ 2º Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).         (Redação dada pela Lei nº 14.365, de 2022)
+§ 2º Na falta de estipulação ou de acordo, os honorários são fixados por arbitramento judicial, em remuneração compatível com o trabalho e o valor econômico da questão, observado obrigatoriamente o disposto nos §§ 2º, 3º, 4º, 5º, 6º, 6º-A, 8º, 8º-A, 9º e 10 do art. 85 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Redação dada pela Lei nº 14.365, de 2022)
 
 § 3º Salvo estipulação em contrário, um terço dos honorários é devido no início do serviço, outro terço até a decisão de primeira instância e o restante no final.
 
@@ -1312,13 +1312,13 @@ Art. 22. A prestação de serviço profissional assegura aos inscritos na OAB o 
 
 § 5º O disposto neste artigo não se aplica quando se tratar de mandato outorgado por advogado para defesa em processo oriundo de ato ou omissão praticada no exercício da profissão.
 
-§ 6º  O disposto neste artigo aplica-se aos honorários assistenciais, compreendidos como os fixados em ações coletivas propostas por entidades de classe em substituição processual, sem prejuízo aos honorários convencionais.   (Incluído pela Lei nº 13.725, de 2018)
+§ 6º O disposto neste artigo aplica-se aos honorários assistenciais, compreendidos como os fixados em ações coletivas propostas por entidades de classe em substituição processual, sem prejuízo aos honorários convencionais. (Incluído pela Lei nº 13.725, de 2018)
 
-§ 7º  Os honorários convencionados com entidades de classe para atuação em substituição processual poderão prever a faculdade de indicar os beneficiários que, ao optarem por adquirir os direitos, assumirão as obrigações decorrentes do contrato originário a partir do momento em que este foi celebrado, sem a necessidade de mais formalidades.   (Incluído pela Lei nº 13.725, de 2018)
+§ 7º Os honorários convencionados com entidades de classe para atuação em substituição processual poderão prever a faculdade de indicar os beneficiários que, ao optarem por adquirir os direitos, assumirão as obrigações decorrentes do contrato originário a partir do momento em que este foi celebrado, sem a necessidade de mais formalidades. (Incluído pela Lei nº 13.725, de 2018)
 
-§ 8º Consideram-se também honorários convencionados aqueles decorrentes da indicação de cliente entre advogados ou sociedade de advogados, aplicada a regra prevista no § 9º do art. 15 desta Lei.    (Incluído pela Lei nº 14.365, de 2022)
+§ 8º Consideram-se também honorários convencionados aqueles decorrentes da indicação de cliente entre advogados ou sociedade de advogados, aplicada a regra prevista no § 9º do art. 15 desta Lei. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 9º Os honorários decorrentes da prestação de serviço profissional constituem direito dos inscritos na OAB, têm natureza alimentar e gozam dos mesmos privilégios dos créditos oriundos da legislação do trabalho, sejam eles convencionados, fixados ou arbitrados por ato judicial ou de sucumbência, sendo-lhes assegurado tratamento privilegiado em qualquer modalidade de concurso de credores.    (Incluído pela Lei nº 15.472, de 2026)
+§ 9º Os honorários decorrentes da prestação de serviço profissional constituem direito dos inscritos na OAB, têm natureza alimentar e gozam dos mesmos privilégios dos créditos oriundos da legislação do trabalho, sejam eles convencionados, fixados ou arbitrados por ato judicial ou de sucumbência, sendo-lhes assegurado tratamento privilegiado em qualquer modalidade de concurso de credores. (Incluído pela Lei nº 15.472, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.365, de 2022; inclusão — Lei nº 13.725, de 2018; inclusão — Lei nº 14.365, de 2022; inclusão — Lei nº 15.472, de 2026.
 
@@ -1358,9 +1358,9 @@ Assegura ao advogado honorários convencionados, arbitrados judicialmente e de s
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO VI — Dos Honorários Advocatícios
 
-Art. 22-A. Fica permitida a dedução de honorários advocatícios contratuais dos valores acrescidos, a título de juros de mora, ao montante repassado aos Estados e aos Municípios na forma de precatórios, como complementação de fundos constitucionais.        (Incluído pela Lei nº 14.365, de 2022)
+Art. 22-A. Fica permitida a dedução de honorários advocatícios contratuais dos valores acrescidos, a título de juros de mora, ao montante repassado aos Estados e aos Municípios na forma de precatórios, como complementação de fundos constitucionais. (Incluído pela Lei nº 14.365, de 2022)
 
-Parágrafo único. A dedução a que se refere o caput deste artigo não será permitida aos advogados nas causas que decorram da execução de título judicial constituído em ação civil pública ajuizada pelo Ministério Público Federal.       (Promulgação partes vetadas)      (Incluído pela Lei nº 14.365, de 2022)
+Parágrafo único. A dedução a que se refere o caput deste artigo não será permitida aos advogados nas causas que decorram da execução de título judicial constituído em ação civil pública ajuizada pelo Ministério Público Federal. (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1392,7 +1392,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO VI — Dos Honorários Advocatícios
 
-Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor.    (Vide ADI 6053)
+Art. 23. Os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido em seu favor. (Vide ADI 6053)
 
 #### Interpretação
 
@@ -1424,7 +1424,7 @@ Os honorários incluídos na condenação, por arbitramento ou sucumbência, per
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO VI — Dos Honorários Advocatícios
 
-Art. 24. O ato judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, na concordata, na recuperação judicial e extrajudicial, no concurso de credores, na insolvência civil e na liquidação extrajudicial.    (Redação dada pela Lei nº 15.472, de 2026)
+Art. 24. O ato judicial que fixar ou arbitrar honorários e o contrato escrito que os estipular são títulos executivos e constituem crédito privilegiado na falência, na concordata, na recuperação judicial e extrajudicial, no concurso de credores, na insolvência civil e na liquidação extrajudicial. (Redação dada pela Lei nº 15.472, de 2026)
 
 § 1º A execução dos honorários pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, se assim lhe convier.
 
@@ -1432,15 +1432,15 @@ Art. 24. O ato judicial que fixar ou arbitrar honorários e o contrato escrito q
 
 § 3º ~~É nula qualquer disposição, cláusula, regulamento ou convenção individual ou coletiva que retire do advogado o direito ao recebimento dos honorários de sucumbência.~~ (Vide ADIN 1.194-4)
 
-§ 3º-A. Nos casos judiciais e administrativos, as disposições, as cláusulas, os regulamentos ou as convenções individuais ou coletivas que retirem do sócio o direito ao recebimento dos honorários de sucumbência serão válidos somente após o protocolo de petição que revogue os poderes que lhe foram outorgados ou que noticie a renúncia a eles, e os honorários serão devidos proporcionalmente ao trabalho realizado nos processos.    (Incluído pela Lei nº 14.365, de 2022)
+§ 3º-A. Nos casos judiciais e administrativos, as disposições, as cláusulas, os regulamentos ou as convenções individuais ou coletivas que retirem do sócio o direito ao recebimento dos honorários de sucumbência serão válidos somente após o protocolo de petição que revogue os poderes que lhe foram outorgados ou que noticie a renúncia a eles, e os honorários serão devidos proporcionalmente ao trabalho realizado nos processos. (Incluído pela Lei nº 14.365, de 2022)
 
 § 4º O acordo feito pelo cliente do advogado e a parte contrária, salvo aquiescência do profissional, não lhe prejudica os honorários, quer os convencionados, quer os concedidos por sentença.
 
-§ 5º Salvo renúncia expressa do advogado aos honorários pactuados na hipótese de encerramento da relação contratual com o cliente, o advogado mantém o direito aos honorários proporcionais ao trabalho realizado nos processos judiciais e administrativos em que tenha atuado, nos exatos termos do contrato celebrado, inclusive em relação aos eventos de sucesso que porventura venham a ocorrer após o encerramento da relação contratual.   (Incluído pela Lei nº 14.365, de 2022)
+§ 5º Salvo renúncia expressa do advogado aos honorários pactuados na hipótese de encerramento da relação contratual com o cliente, o advogado mantém o direito aos honorários proporcionais ao trabalho realizado nos processos judiciais e administrativos em que tenha atuado, nos exatos termos do contrato celebrado, inclusive em relação aos eventos de sucesso que porventura venham a ocorrer após o encerramento da relação contratual. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 6º O distrato e a rescisão do contrato de prestação de serviços advocatícios, mesmo que formalmente celebrados, não configuram renúncia expressa aos honorários pactuados.      (Incluído pela Lei nº 14.365, de 2022)
+§ 6º O distrato e a rescisão do contrato de prestação de serviços advocatícios, mesmo que formalmente celebrados, não configuram renúncia expressa aos honorários pactuados. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 7º Na ausência do contrato referido no § 6º deste artigo, os honorários advocatícios serão arbitrados conforme o disposto no art. 22 desta Lei.       (Incluído pela Lei nº 14.365, de 2022)
+§ 7º Na ausência do contrato referido no § 6º deste artigo, os honorários advocatícios serão arbitrados conforme o disposto no art. 22 desta Lei. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.472, de 2026; inclusão — Lei nº 14.365, de 2022.
 
@@ -1479,17 +1479,17 @@ A decisão que fixa honorários e o contrato escrito são títulos executivos e 
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO VI — Dos Honorários Advocatícios
 
-Art. 24-A. No caso de bloqueio universal do patrimônio do cliente por decisão judicial, garantir-se-á ao advogado a liberação de até 20% (vinte por cento) dos bens bloqueados para fins de recebimento de honorários e reembolso de gastos com a defesa, ressalvadas as causas relacionadas aos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), e observado o disposto no parágrafo único do art. 243 da Constituição Federal.          (Incluído pela Lei nº 14.365, de 2022)
+Art. 24-A. No caso de bloqueio universal do patrimônio do cliente por decisão judicial, garantir-se-á ao advogado a liberação de até 20% (vinte por cento) dos bens bloqueados para fins de recebimento de honorários e reembolso de gastos com a defesa, ressalvadas as causas relacionadas aos crimes previstos na Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), e observado o disposto no parágrafo único do art. 243 da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 1º O pedido de desbloqueio de bens será feito em autos apartados, que permanecerão em sigilo, mediante a apresentação do respectivo contrato.        (Incluído pela Lei nº 14.365, de 2022)
+§ 1º O pedido de desbloqueio de bens será feito em autos apartados, que permanecerão em sigilo, mediante a apresentação do respectivo contrato. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 2º O desbloqueio de bens observará, preferencialmente, a ordem estabelecida no art. 835 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).       (Incluído pela Lei nº 14.365, de 2022)
+§ 2º O desbloqueio de bens observará, preferencialmente, a ordem estabelecida no art. 835 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.365, de 2022)
 
-§ 3º Quando se tratar de dinheiro em espécie, de depósito ou de aplicação em instituição financeira, os valores serão transferidos diretamente para a conta do advogado ou do escritório de advocacia responsável pela defesa.       (Incluído pela Lei nº 14.365, de 2022)
+§ 3º Quando se tratar de dinheiro em espécie, de depósito ou de aplicação em instituição financeira, os valores serão transferidos diretamente para a conta do advogado ou do escritório de advocacia responsável pela defesa. (Incluído pela Lei nº 14.365, de 2022)
 
-§ 4º Nos demais casos, o advogado poderá optar pela adjudicação do próprio bem ou por sua venda em hasta pública para satisfação dos honorários devidos, nos termos do art. 879 e seguintes da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).        (Incluído pela Lei nº 14.365, de 2022)
+§ 4º Nos demais casos, o advogado poderá optar pela adjudicação do próprio bem ou por sua venda em hasta pública para satisfação dos honorários devidos, nos termos do art. 879 e seguintes da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Incluído pela Lei nº 14.365, de 2022)
 
-§ 5º O valor excedente deverá ser depositado em conta vinculada ao processo judicial.       (Incluído pela Lei nº 14.365, de 2022)
+§ 5º O valor excedente deverá ser depositado em conta vinculada ao processo judicial. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1569,7 +1569,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO VI — Dos Honorários Advocatícios
 
-Art. 25-A.  Prescreve em cinco anos a ação de prestação de contas pelas quantias recebidas pelo advogado de seu cliente, ou de terceiros por conta dele (art. 34, XXI).          (Incluído pela Lei nº 11.902, de 2009)
+Art. 25-A. Prescreve em cinco anos a ação de prestação de contas pelas quantias recebidas pelo advogado de seu cliente, ou de terceiros por conta dele (art. 34, XXI). (Incluído pela Lei nº 11.902, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.902, de 2009.
 
@@ -1604,7 +1604,7 @@ Prescreve em cinco anos a ação de prestação de contas pelas quantias que o a
 
 Art. 26. O advogado substabelecido, com reserva de poderes, não pode cobrar honorários sem a intervenção daquele que lhe conferiu o substabelecimento.
 
-Parágrafo único. O disposto no caput deste artigo não se aplica na hipótese de o advogado substabelecido, com reservas de poderes, possuir contrato celebrado com o cliente.      (Incluído pela Lei nº 14.365, de 2022)
+Parágrafo único. O disposto no caput deste artigo não se aplica na hipótese de o advogado substabelecido, com reservas de poderes, possuir contrato celebrado com o cliente. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1667,7 +1667,7 @@ Art. 28. A advocacia é incompatível, mesmo em causa própria, com as seguintes
 
 I - chefe do Poder Executivo e membros da Mesa do Poder Legislativo e seus substitutos legais;
 
-II - membros de órgãos do Poder Judiciário, do Ministério Público, dos tribunais e conselhos de contas, dos juizados especiais, da justiça de paz, juízes classistas, bem como de todos os que exerçam função de julgamento em órgãos de deliberação coletiva da administração pública direta e indireta;         (Vide ADIN 1.127-8)
+II - membros de órgãos do Poder Judiciário, do Ministério Público, dos tribunais e conselhos de contas, dos juizados especiais, da justiça de paz, juízes classistas, bem como de todos os que exerçam função de julgamento em órgãos de deliberação coletiva da administração pública direta e indireta; (Vide ADIN 1.127-8)
 
 III - ocupantes de cargos ou funções de direção em Órgãos da Administração Pública direta ou indireta, em suas fundações e em suas empresas controladas ou concessionárias de serviço público;
 
@@ -1685,9 +1685,9 @@ VIII - ocupantes de funções de direção e gerência em instituições finance
 
 § 2º Não se incluem nas hipóteses do inciso III os que não detenham poder de decisão relevante sobre interesses de terceiro, a juízo do conselho competente da OAB, bem como a administração acadêmica diretamente relacionada ao magistério jurídico.
 
-§ 3º As causas de incompatibilidade previstas nas hipóteses dos incisos V e VI do caput deste artigo não se aplicam ao exercício da advocacia em causa própria, estritamente para fins de defesa e tutela de direitos pessoais, desde que mediante inscrição especial na OAB, vedada a participação em sociedade de advogados.         (Incluído pela Lei nº 14.365, de 2022)    (Vide ADI 7227)
+§ 3º As causas de incompatibilidade previstas nas hipóteses dos incisos V e VI do caput deste artigo não se aplicam ao exercício da advocacia em causa própria, estritamente para fins de defesa e tutela de direitos pessoais, desde que mediante inscrição especial na OAB, vedada a participação em sociedade de advogados. (Incluído pela Lei nº 14.365, de 2022) (Vide ADI 7227)
 
-§ 4º A inscrição especial a que se refere o § 3º deste artigo deverá constar do documento profissional de registro na OAB e não isenta o profissional do pagamento da contribuição anual, de multas e de preços de serviços devidos à OAB, na forma por ela estabelecida, vedada cobrança em valor superior ao exigido para os demais membros inscritos.      (Incluído pela Lei nº 14.365, de 2022)    (Vide ADI 7227)
+§ 4º A inscrição especial a que se refere o § 3º deste artigo deverá constar do documento profissional de registro na OAB e não isenta o profissional do pagamento da contribuição anual, de multas e de preços de serviços devidos à OAB, na forma por ela estabelecida, vedada cobrança em valor superior ao exigido para os demais membros inscritos. (Incluído pela Lei nº 14.365, de 2022) (Vide ADI 7227)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -1896,7 +1896,7 @@ III - valer-se de agenciador de causas, mediante participação nos honorários 
 
 IV - angariar ou captar causas, com ou sem a intervenção de terceiros;
 
-V - assinar qualquer escrito destinado a processo judicial ou para fim extrajudicial que não tenha feito, ou em que não tenha     colaborado;
+V - assinar qualquer escrito destinado a processo judicial ou para fim extrajudicial que não tenha feito, ou em que não tenha colaborado;
 
 VI - advogar contra literal disposição de lei, presumindo-se a boa-fé quando fundamentado na inconstitucionalidade, na injustiça da lei ou em pronunciamento judicial anterior;
 
@@ -1932,7 +1932,7 @@ XXI - recusar-se, injustificadamente, a prestar contas ao cliente de quantias re
 
 XXII - reter, abusivamente, ou extraviar autos recebidos com vista ou em confiança;
 
-XXIII - deixar de pagar as contribuições, multas e preços de serviços devidos à OAB, depois de regularmente notificado a fazê-lo;     (Vide ADI 7020)
+XXIII - deixar de pagar as contribuições, multas e preços de serviços devidos à OAB, depois de regularmente notificado a fazê-lo; (Vide ADI 7020)
 
 XXIV - incidir em erros reiterados que evidenciem inépcia profissional;
 
@@ -1946,9 +1946,9 @@ XXVIII - praticar crime infamante;
 
 XXIX - praticar, o estagiário, ato excedente de sua habilitação.
 
-XXX - praticar assédio moral, assédio sexual ou discriminação.   (Incluído pela Lei nº 14.612, de 2023)
+XXX - praticar assédio moral, assédio sexual ou discriminação. (Incluído pela Lei nº 14.612, de 2023)
 
-§1º Inclui-se na conduta incompatível:   (Renumerado do parágrafo único pela Lei nº 14.612, de 2023)
+§1º Inclui-se na conduta incompatível: (Renumerado do parágrafo único pela Lei nº 14.612, de 2023)
 
 a) prática reiterada de jogo de azar, não autorizado por lei;
 
@@ -1956,13 +1956,13 @@ b) incontinência pública e escandalosa;
 
 c) embriaguez ou toxicomania habituais.
 
-§ 2º Para os fins desta Lei, considera-se:   (Incluído pela Lei nº 14.612, de 2023)
+§ 2º Para os fins desta Lei, considera-se: (Incluído pela Lei nº 14.612, de 2023)
 
-I - assédio moral: a conduta praticada no exercício profissional ou em razão dele, por meio da repetição deliberada de gestos, palavras faladas ou escritas ou comportamentos que exponham o estagiário, o advogado ou qualquer outro profissional que esteja prestando seus serviços a situações humilhantes e constrangedoras, capazes de lhes causar ofensa à personalidade, à dignidade e à integridade psíquica ou física, com o objetivo de excluí-los das suas funções ou de desestabilizá-los emocionalmente, deteriorando o ambiente profissional;   (Incluído pela Lei nº 14.612, de 2023)
+I - assédio moral: a conduta praticada no exercício profissional ou em razão dele, por meio da repetição deliberada de gestos, palavras faladas ou escritas ou comportamentos que exponham o estagiário, o advogado ou qualquer outro profissional que esteja prestando seus serviços a situações humilhantes e constrangedoras, capazes de lhes causar ofensa à personalidade, à dignidade e à integridade psíquica ou física, com o objetivo de excluí-los das suas funções ou de desestabilizá-los emocionalmente, deteriorando o ambiente profissional; (Incluído pela Lei nº 14.612, de 2023)
 
-II - assédio sexual: a conduta de conotação sexual praticada no exercício profissional ou em razão dele, manifestada fisicamente ou por palavras, gestos ou outros meios, proposta ou imposta à pessoa contra sua vontade, causando-lhe constrangimento e violando a sua liberdade sexual;   (Incluído pela Lei nº 14.612, de 2023)
+II - assédio sexual: a conduta de conotação sexual praticada no exercício profissional ou em razão dele, manifestada fisicamente ou por palavras, gestos ou outros meios, proposta ou imposta à pessoa contra sua vontade, causando-lhe constrangimento e violando a sua liberdade sexual; (Incluído pela Lei nº 14.612, de 2023)
 
-III - discriminação: a conduta comissiva ou omissiva que dispense tratamento constrangedor ou humilhante a pessoa ou grupo de pessoas, em razão de sua deficiência, pertença a determinada raça, cor ou sexo, procedência nacional ou regional, origem étnica, condição de gestante, lactante ou nutriz, faixa etária, religião ou outro fator.   (Incluído pela Lei nº 14.612, de 2023)
+III - discriminação: a conduta comissiva ou omissiva que dispense tratamento constrangedor ou humilhante a pessoa ou grupo de pessoas, em razão de sua deficiência, pertença a determinada raça, cor ou sexo, procedência nacional ou regional, origem étnica, condição de gestante, lactante ou nutriz, faixa etária, religião ou outro fator. (Incluído pela Lei nº 14.612, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.612, de 2023; renumeração — Lei nº 14.612, de 2023.
 
@@ -2078,15 +2078,15 @@ A censura se aplica às infrações dos incisos I a XVI e XXIX do art. 34, à vi
 
 **Localização:** TÍTULO I — Da Advocacia › CAPÍTULO IX — Das Infrações e Sanções Disciplinares
 
-Art. 37. A suspensão é aplicável nos casos de:     (Vide ADI 7020)
+Art. 37. A suspensão é aplicável nos casos de: (Vide ADI 7020)
 
-I - infrações definidas nos incisos XVII a XXV e XXX do caput do art. 34 desta Lei;    (Redação dada pela Lei nº 14.612, de 2023)
+I - infrações definidas nos incisos XVII a XXV e XXX do caput do art. 34 desta Lei; (Redação dada pela Lei nº 14.612, de 2023)
 
 II - reincidência em infração disciplinar.
 
 § 1º A suspensão acarreta ao infrator a interdição do exercício profissional, em todo o território nacional, pelo prazo de trinta dias a doze meses, de acordo com os critérios de individualização previstos neste capítulo.
 
-§ 2º Nas hipóteses dos incisos XXI e XXIII do art. 34, a suspensão perdura até que satisfaça integralmente a dívida, inclusive com correção monetária.   (Vide RE 647885)
+§ 2º Nas hipóteses dos incisos XXI e XXIII do art. 34, a suspensão perdura até que satisfaça integralmente a dívida, inclusive com correção monetária. (Vide RE 647885)
 
 § 3º Na hipótese do inciso XXIV do art. 34, a suspensão perdura até que preste novas provas de habilitação.
 
@@ -2392,7 +2392,7 @@ IV - as Caixas de Assistência dos Advogados.
 
 § 5º A OAB, por constituir serviço público, goza de imunidade tributária total em relação a seus bens, rendas e serviços.
 
-§ 6º Os atos, as notificações e as decisões dos órgãos da OAB, salvo quando reservados ou de administração interna, serão publicados no Diário Eletrônico da Ordem dos Advogados do Brasil, a ser disponibilizado na internet, podendo ser afixados no fórum local, na íntegra ou em resumo.         (Redação dada Lei nº 13.688, de 2018)      (Vigência)
+§ 6º Os atos, as notificações e as decisões dos órgãos da OAB, salvo quando reservados ou de administração interna, serão publicados no Diário Eletrônico da Ordem dos Advogados do Brasil, a ser disponibilizado na internet, podendo ser afixados no fórum local, na íntegra ou em resumo. (Redação dada Lei nº 13.688, de 2018) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.688, de 2018.
 
@@ -2545,7 +2545,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — Da Ordem dos Advogados do Brasil › CAPÍTULO I — Dos Fins e da Organização
 
-Art. 50. Para os fins desta lei, os Presidentes dos Conselhos da OAB e das Subseções podem requisitar cópias de peças de autos e documentos a qualquer tribunal, magistrado, cartório e órgão da Administração Pública direta, indireta e fundacional.           (Vide ADIN 1.127-8)
+Art. 50. Para os fins desta lei, os Presidentes dos Conselhos da OAB e das Subseções podem requisitar cópias de peças de autos e documentos a qualquer tribunal, magistrado, cartório e órgão da Administração Pública direta, indireta e fundacional. (Vide ADIN 1.127-8)
 
 #### Interpretação
 
@@ -2586,7 +2586,7 @@ II - dos seus ex-presidentes, na qualidade de membros honorários vitalícios.
 
 § 2º Os ex-presidentes têm direito apenas a voz nas sessões.
 
-§ 3º O Instituto dos Advogados Brasileiros e a Federação Nacional dos Institutos dos Advogados do Brasil são membros honorários, somente com direito a voz nas sessões do Conselho Federal.’ (NR)”       (Promulgação partes vetadas)        (Incluído pela Lei nº 14.365, de 2022)
+§ 3º O Instituto dos Advogados Brasileiros e a Federação Nacional dos Institutos dos Advogados do Brasil são membros honorários, somente com direito a voz nas sessões do Conselho Federal.’ (NR)” (Promulgação partes vetadas) (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -2651,7 +2651,7 @@ Art. 53. O Conselho Federal tem sua estrutura e funcionamento definidos no Regul
 
 § 2º O voto é tomado por delegação, e não pode ser exercido nas matérias de interesse da unidade que represente.
 
-§ 3o Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios.         (Incluído pela Lei nº 11.179, de 2005)
+§ 3o Na eleição para a escolha da Diretoria do Conselho Federal, cada membro da delegação terá direito a 1 (um) voto, vedado aos membros honorários vitalícios. (Incluído pela Lei nº 11.179, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.179, de 2005.
 
@@ -2720,9 +2720,9 @@ XVII - participar de concursos públicos, nos casos previstos na Constituição 
 
 XVIII - resolver os casos omissos neste estatuto.
 
-XIX - fiscalizar, acompanhar e definir parâmetros e diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício;      (Incluído pela Lei nº 14.365, de 2022)
+XIX - fiscalizar, acompanhar e definir parâmetros e diretrizes da relação jurídica mantida entre advogados e sociedades de advogados ou entre escritório de advogados sócios e advogado associado, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício; (Incluído pela Lei nº 14.365, de 2022)
 
-XX - promover, por intermédio da Câmara de Mediação e Arbitragem, a solução sobre questões atinentes à relação entre advogados sócios ou associados e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal.        (Incluído pela Lei nº 14.365, de 2022)
+XX - promover, por intermédio da Câmara de Mediação e Arbitragem, a solução sobre questões atinentes à relação entre advogados sócios ou associados e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)
 
 Parágrafo único. A intervenção referida no inciso VII deste artigo depende de prévia aprovação por dois terços das delegações, garantido o amplo direito de defesa do Conselho Seccional respectivo, nomeando-se diretoria provisória para o prazo que se fixar.
 
@@ -2759,9 +2759,9 @@ Lista as competências do Conselho Federal, entre elas representar os advogados,
 
 **Localização:** TÍTULO II — Da Ordem dos Advogados do Brasil › CAPÍTULO II — Do Conselho Federal
 
-Art. 55. A Diretoria do Conselho Federal é composta de 1 (um) Presidente, 1 (um) Vice-Presidente, 1 (um) Secretário-Geral, 1 (um) Corregedor-Geral, 1 (um) Diretor Tesoureiro, 1 (um) Diretor Administrativo e 1 (um) Diretor Executivo.   (Redação dada pela Lei nº 15.511, de 2026)
+Art. 55. A Diretoria do Conselho Federal é composta de 1 (um) Presidente, 1 (um) Vice-Presidente, 1 (um) Secretário-Geral, 1 (um) Corregedor-Geral, 1 (um) Diretor Tesoureiro, 1 (um) Diretor Administrativo e 1 (um) Diretor Executivo. (Redação dada pela Lei nº 15.511, de 2026)
 
-§ 1º O Presidente exerce a representação nacional e internacional da OAB, competindo-lhe convocar o Conselho Federal, presidi-lo, representá-lo ativa e passivamente, em juízo ou fora dele, promover-lhe a administração patrimonial e dar execução às      suas decisões.
+§ 1º O Presidente exerce a representação nacional e internacional da OAB, competindo-lhe convocar o Conselho Federal, presidi-lo, representá-lo ativa e passivamente, em juízo ou fora dele, promover-lhe a administração patrimonial e dar execução às suas decisões.
 
 § 2º O regulamento geral define as atribuições dos membros da diretoria e a ordem de substituição em caso de vacância, licença, falta ou impedimento.
 
@@ -2833,7 +2833,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 57. O Conselho Seccional exerce e observa, no respectivo território, as competências, vedações e funções atribuídas ao Conselho Federal, no que couber e no âmbito de sua competência material e territorial, e as normas gerais estabelecidas nesta lei, no regulamento geral, no Código de Ética e Disciplina, e nos Provimentos.
 
-Parágrafo único. É facultada aos Conselhos Seccionais, na forma do Regulamento Geral, a criação de diretorias regimentais temporárias de caráter temático.   (Incluído pela Lei nº 15.511, de 2026)
+Parágrafo único. É facultada aos Conselhos Seccionais, na forma do Regulamento Geral, a criação de diretorias regimentais temporárias de caráter temático. (Incluído pela Lei nº 15.511, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.511, de 2026.
 
@@ -2898,9 +2898,9 @@ XV - intervir nas Subseções e na Caixa de Assistência dos Advogados;
 
 XVI - desempenhar outras atribuições previstas no regulamento geral.
 
-XVII - fiscalizar, por designação expressa do Conselho Federal da OAB, a relação jurídica mantida entre advogados e sociedades de advogados e o advogado associado em atividade na circunscrição territorial de cada seccional, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício;       (Incluído pela Lei nº 14.365, de 2022)
+XVII - fiscalizar, por designação expressa do Conselho Federal da OAB, a relação jurídica mantida entre advogados e sociedades de advogados e o advogado associado em atividade na circunscrição territorial de cada seccional, inclusive no que se refere ao cumprimento dos requisitos norteadores da associação sem vínculo empregatício; (Incluído pela Lei nº 14.365, de 2022)
 
-XVIII - promover, por intermédio da Câmara de Mediação e Arbitragem, por designação do Conselho Federal da OAB, a solução sobre questões atinentes à relação entre advogados sócios ou associados e os escritórios de advocacia sediados na base da seccional e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal.   (Incluído pela Lei nº 14.365, de 2022)
+XVIII - promover, por intermédio da Câmara de Mediação e Arbitragem, por designação do Conselho Federal da OAB, a solução sobre questões atinentes à relação entre advogados sócios ou associados e os escritórios de advocacia sediados na base da seccional e homologar, caso necessário, quitações de honorários entre advogados e sociedades de advogados, observado o disposto no inciso XXXV do caput do art. 5º da Constituição Federal. (Incluído pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.365, de 2022.
 
@@ -3100,7 +3100,7 @@ Art. 63. A eleição dos membros de todos os órgãos da OAB será realizada na 
 
 § 1º A eleição, na forma e segundo os critérios e procedimentos estabelecidos no regulamento geral, é de comparecimento obrigatório para todos os advogados inscritos na OAB.
 
-§ 2º  O candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de 3 (três) anos, nas eleições para os cargos de Conselheiro Seccional e das Subseções, quando houver, e há mais de 5 (cinco) anos, nas eleições para os demais cargos.   (Redação dada pela Lei nº 13.875, de 2019)
+§ 2º O candidato deve comprovar situação regular perante a OAB, não ocupar cargo exonerável ad nutum, não ter sido condenado por infração disciplinar, salvo reabilitação, e exercer efetivamente a profissão há mais de 3 (três) anos, nas eleições para os cargos de Conselheiro Seccional e das Subseções, quando houver, e há mais de 5 (cinco) anos, nas eleições para os demais cargos. (Redação dada pela Lei nº 13.875, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.875, de 2019.
 
@@ -3240,9 +3240,9 @@ II - o requerimento de registro deverá vir acompanhado do apoiamento de, no mí
 
 III - até um mês antes das eleições, deverá ser requerido o registro da chapa completa, sob pena de cancelamento da candidatura respectiva;
 
-IV – no dia 31 de janeiro do ano seguinte ao da eleição, o Conselho Federal elegerá, em reunião presidida pelo conselheiro mais antigo, por voto secreto e para mandato de 3 (três) anos, sua diretoria, que tomará posse no dia seguinte;          (Redação dada pela Lei nº 11.179, de 2005)
+IV – no dia 31 de janeiro do ano seguinte ao da eleição, o Conselho Federal elegerá, em reunião presidida pelo conselheiro mais antigo, por voto secreto e para mandato de 3 (três) anos, sua diretoria, que tomará posse no dia seguinte; (Redação dada pela Lei nº 11.179, de 2005)
 
-V – será considerada eleita a chapa que obtiver maioria simples dos votos dos Conselheiros Federais, presente a metade mais 1 (um) de seus membros.          (Redação dada pela Lei nº 11.179, de 2005)
+V – será considerada eleita a chapa que obtiver maioria simples dos votos dos Conselheiros Federais, presente a metade mais 1 (um) de seus membros. (Redação dada pela Lei nº 11.179, de 2005)
 
 Parágrafo único. Com exceção do candidato a Presidente, os demais integrantes da chapa deverão ser conselheiros federais eleitos.
 
@@ -3306,9 +3306,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 69. Todos os prazos necessários à manifestação de advogados, estagiários e terceiros, nos processos em geral da OAB, são de quinze dias, inclusive para interposição de recursos.
 
-§ 1º Nos casos de comunicação por ofício reservado ou de notificação pessoal, considera-se dia do começo do prazo o primeiro dia útil imediato ao da juntada aos autos do respectivo aviso de recebimento.   (Redação dada pela Lei nº 14.365, de 2022)
+§ 1º Nos casos de comunicação por ofício reservado ou de notificação pessoal, considera-se dia do começo do prazo o primeiro dia útil imediato ao da juntada aos autos do respectivo aviso de recebimento. (Redação dada pela Lei nº 14.365, de 2022)
 
-§ 2º No caso de atos, notificações e decisões divulgados por meio do Diário Eletrônico da Ordem dos Advogados do Brasil, o prazo terá início no primeiro dia útil seguinte à publicação, assim considerada o primeiro dia útil seguinte ao da disponibilização da informação no Diário.         (Redação dada Lei nº 13.688, de 2018)      (Vigência)
+§ 2º No caso de atos, notificações e decisões divulgados por meio do Diário Eletrônico da Ordem dos Advogados do Brasil, o prazo terá início no primeiro dia útil seguinte à publicação, assim considerada o primeiro dia útil seguinte ao da disponibilização da informação no Diário. (Redação dada Lei nº 13.688, de 2018) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.365, de 2022; redação — Lei nº 13.688, de 2018.
 
@@ -3624,7 +3624,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO IV — Das Disposições Gerais e Transitórias
 
-Art. 79. Aos servidores da OAB, aplica-se o regime trabalhista.         (Vide ADIN 3026-4)
+Art. 79. Aos servidores da OAB, aplica-se o regime trabalhista. (Vide ADIN 3026-4)
 
 § 1º Aos servidores da OAB, sujeitos ao regime da Lei nº 8.112, de 11 de dezembro de 1990, é concedido o direito de opção pelo regime trabalhista, no prazo de noventa dias a partir da vigência desta lei, sendo assegurado aos optantes o pagamento de indenização, quando da aposentadoria, correspondente a cinco vezes o valor da última remuneração.
 
@@ -3716,7 +3716,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO IV — Das Disposições Gerais e Transitórias
 
-Art. 82. Aplicam-se as alterações previstas nesta lei, quanto a mandatos, eleições, composição e atribuições dos órgãos da OAB, a partir do término do mandato dos atuais membros, devendo os Conselhos Federal e Seccionais disciplinarem os      respectivos procedimentos de adaptação.
+Art. 82. Aplicam-se as alterações previstas nesta lei, quanto a mandatos, eleições, composição e atribuições dos órgãos da OAB, a partir do término do mandato dos atuais membros, devendo os Conselhos Federal e Seccionais disciplinarem os respectivos procedimentos de adaptação.
 
 Parágrafo único. Os mandatos dos membros dos órgãos da OAB, eleitos na primeira eleição sob a vigência desta lei, e na forma do Capítulo VI do Título II, terão início no dia seguinte ao término dos atuais mandatos, encerrando-se em 31 de dezembro do terceiro ano do mandato e em 31 de janeiro do terceiro ano do mandato, neste caso com relação ao Conselho Federal.
 
@@ -3807,7 +3807,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO IV — Das Disposições Gerais e Transitórias
 
-Art. 85. O Instituto dos Advogados Brasileiros, a Federação Nacional dos Institutos dos Advogados do Brasil e as instituições a eles filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer de seus membros.       (Redação dada pela Lei nº 14.365, de 2022)
+Art. 85. O Instituto dos Advogados Brasileiros, a Federação Nacional dos Institutos dos Advogados do Brasil e as instituições a eles filiadas têm qualidade para promover perante a OAB o que julgarem do interesse dos advogados em geral ou de qualquer de seus membros. (Redação dada pela Lei nº 14.365, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.365, de 2022.
 

@@ -133,9 +133,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Lei penal no tempo
 
-Art. 2º - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 2º - Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -168,7 +168,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Lei excepcional ou temporária (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-Art. 3º - A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.   (Redação dada pela Lei nº 7.209, de 1984)
+Art. 3º - A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência. (Redação dada pela Lei nº 7.209, de 1984)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 7.209, de 11.7.1984; redação — Lei nº 7.209, de 1984.
 
@@ -311,7 +311,7 @@ c) contra a administração pública, por quem está a seu serviço; (Incluído 
 
 d) de genocídio, quando o agente for brasileiro ou domiciliado no Brasil; (Incluído pela Lei nº 7.209, de 1984)
 
-II - os crimes:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - os crimes: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 a) que, por tratado ou convenção, o Brasil se obrigou a reprimir; (Incluído pela Lei nº 7.209, de 1984)
 
@@ -370,7 +370,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Pena cumprida no estrangeiro (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Art. 8º - A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 8º - A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -404,7 +404,7 @@ Eficácia de sentença estrangeira (Redação dada pela Lei nº 7.209, de 11.7.1
 
 Art. 9º - A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas conseqüências, pode ser homologada no Brasil para: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis;   (Incluído pela Lei nº 7.209, de 11.7.1984)
+I - obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
 II - sujeitá-lo a medida de segurança.(Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -589,7 +589,7 @@ Art. 14 - Diz-se o crime: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Crime consumado (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-I - consumado, quando nele se reúnem todos os elementos de sua definição legal; (Incluído pela Lei nº 7.209, de 11.7.1984)
+I - consumado, quando nele se reúnem todos os elementos de sua definição legal; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
 Tentativa (Incluído pela Lei nº 7.209, de 11.7.1984)
 
@@ -879,7 +879,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Coação irresistível e obediência hierárquica (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Art. 22 - Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 22 - Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -909,19 +909,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO II — DO CRIME
 
-Exclusão de ilicitude         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Exclusão de ilicitude (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Art. 23 - Não há crime quando o agente pratica o fato:         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 23 - Não há crime quando o agente pratica o fato: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - em estado de necessidade;         (Incluído pela Lei nº 7.209, de 11.7.1984)
+I - em estado de necessidade; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-II - em legítima defesa;        (Incluído pela Lei nº 7.209, de 11.7.1984)     (Vide ADPF 779)
+II - em legítima defesa; (Incluído pela Lei nº 7.209, de 11.7.1984) (Vide ADPF 779)
 
-III - em estrito cumprimento de dever legal ou no exercício regular de direito.        (Incluído pela Lei nº 7.209, de 11.7.1984)
+III - em estrito cumprimento de dever legal ou no exercício regular de direito. (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-Excesso punível         (Incluído pela Lei nº 7.209, de 11.7.1984)
+Excesso punível (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - O agente, em qualquer das hipóteses deste artigo, responderá pelo excesso doloso ou culposo.        (Incluído pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - O agente, em qualquer das hipóteses deste artigo, responderá pelo excesso doloso ou culposo. (Incluído pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 7.209, de 11.7.1984.
 
@@ -956,11 +956,11 @@ Não há crime quando o fato é praticado em estado de necessidade, legítima de
 
 Estado de necessidade
 
-Art. 24 - Considera-se em estado de necessidade quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 24 - Considera-se em estado de necessidade quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - Não pode alegar estado de necessidade quem tinha o dever legal de enfrentar o perigo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - Embora seja razoável exigir-se o sacrifício do direito ameaçado, a pena poderá ser reduzida de um a dois terços.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Embora seja razoável exigir-se o sacrifício do direito ameaçado, a pena poderá ser reduzida de um a dois terços. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -992,9 +992,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Legítima defesa
 
-Art. 25 - Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.        (Redação dada pela Lei nº 7.209, de 11.7.1984)    (Vide ADPF 779)
+Art. 25 - Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem. (Redação dada pela Lei nº 7.209, de 11.7.1984) (Vide ADPF 779)
 
-Parágrafo único. Observados os requisitos previstos no caput deste artigo, considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes.            (Incluído pela Lei nº 13.964, de 2019)        (Vide ADPF 779)
+Parágrafo único. Observados os requisitos previstos no caput deste artigo, considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes. (Incluído pela Lei nº 13.964, de 2019) (Vide ADPF 779)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 13.964, de 2019.
 
@@ -1031,11 +1031,11 @@ Age em legítima defesa quem, usando moderadamente dos meios necessários, repel
 
 Inimputáveis
 
-Art. 26 - É isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 26 - É isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Redução de pena
 
-Parágrafo único - A pena pode ser reduzida de um a dois terços, se o agente, em virtude de perturbação de saúde mental ou por desenvolvimento mental incompleto ou retardado não era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - A pena pode ser reduzida de um a dois terços, se o agente, em virtude de perturbação de saúde mental ou por desenvolvimento mental incompleto ou retardado não era inteiramente capaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -1068,7 +1068,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Menores de dezoito anos
 
-Art. 27 - Os menores de 18 (dezoito) anos são penalmente inimputáveis, ficando sujeitos às normas estabelecidas na legislação especial.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 27 - Os menores de 18 (dezoito) anos são penalmente inimputáveis, ficando sujeitos às normas estabelecidas na legislação especial. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -1101,17 +1101,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Emoção e paixão
 
-Art. 28 - Não excluem a imputabilidade penal:         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 28 - Não excluem a imputabilidade penal: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - a emoção ou a paixão;         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - a emoção ou a paixão; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Embriaguez
 
-II - a embriaguez, voluntária ou culposa, pelo álcool ou substância de efeitos análogos.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - a embriaguez, voluntária ou culposa, pelo álcool ou substância de efeitos análogos. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - É isento de pena o agente que, por embriaguez completa, proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - É isento de pena o agente que, por embriaguez completa, proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - A pena pode ser reduzida de um a dois terços, se o agente, por embriaguez, proveniente de caso fortuito ou força maior, não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - A pena pode ser reduzida de um a dois terços, se o agente, por embriaguez, proveniente de caso fortuito ou força maior, não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -1689,13 +1689,13 @@ II – o réu não for reincidente em crime doloso; (Redação dada pela Lei nº
 
 III – a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente. (Redação dada pela Lei nº 9.714, de 1998)
 
-§ 1o (VETADO)  (Incluído pela Lei nº 9.714, de 1998)
+§ 1o (VETADO) (Incluído pela Lei nº 9.714, de 1998)
 
-§ 2o Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos.  (Incluído pela Lei nº 9.714, de 1998)
+§ 2o Na condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos. (Incluído pela Lei nº 9.714, de 1998)
 
 § 3o Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime. (Incluído pela Lei nº 9.714, de 1998)
 
-§ 4o A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão.  (Incluído pela Lei nº 9.714, de 1998)
+§ 4o A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão. (Incluído pela Lei nº 9.714, de 1998)
 
 § 5o Sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão, podendo deixar de aplicá-la se for possível ao condenado cumprir a pena substitutiva anterior. (Incluído pela Lei nº 9.714, de 1998)
 
@@ -1776,7 +1776,7 @@ Prestação de serviços à comunidade ou a entidades públicas
 
 Art. 46. A prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações superiores a seis meses de privação da liberdade. (Redação dada pela Lei nº 9.714, de 1998)
 
-§ 1o A prestação de serviços à comunidade ou a entidades públicas consiste na atribuição de tarefas gratuitas ao condenado.  (Incluído pela Lei nº 9.714, de 1998)
+§ 1o A prestação de serviços à comunidade ou a entidades públicas consiste na atribuição de tarefas gratuitas ao condenado. (Incluído pela Lei nº 9.714, de 1998)
 
 § 2o A prestação de serviço à comunidade dar-se-á em entidades assistenciais, hospitais, escolas, orfanatos e outros estabelecimentos congêneres, em programas comunitários ou estatais. (Incluído pela Lei nº 9.714, de 1998)
 
@@ -1816,7 +1816,7 @@ A prestação de serviços à comunidade cabe em condenações superiores a seis
 
 Interdição temporária de direitos (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Art. 47 - As penas de interdição temporária de direitos são:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 47 - As penas de interdição temporária de direitos são: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - proibição do exercício de cargo, função ou atividade pública, bem como de mandato eletivo; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1826,7 +1826,7 @@ III - suspensão de autorização ou de habilitação para dirigir veículo. (Re
 
 IV – proibição de freqüentar determinados lugares. (Incluído pela Lei nº 9.714, de 1998)
 
-V - proibição de inscrever-se em concurso, avaliação ou exame públicos.    (Incluído pela Lei nº 12.550, de 2011)
+V - proibição de inscrever-se em concurso, avaliação ou exame públicos. (Incluído pela Lei nº 12.550, de 2011)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 9.714, de 1998; inclusão — Lei nº 12.550, de 2011.
 
@@ -1859,7 +1859,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Limitação de fim de semana
 
-Art. 48 - A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 48 - A limitação de fim de semana consiste na obrigação de permanecer, aos sábados e domingos, por 5 (cinco) horas diárias, em casa de albergado ou outro estabelecimento adequado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Parágrafo único - Durante a permanência poderão ser ministrados ao condenado cursos e palestras ou atribuídas atividades educativas.(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1892,7 +1892,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Multa
 
-Art. 49 - A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 49 - A pena de multa consiste no pagamento ao fundo penitenciário da quantia fixada na sentença e calculada em dias-multa. Será, no mínimo, de 10 (dez) e, no máximo, de 360 (trezentos e sessenta) dias-multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - O valor do dia-multa será fixado pelo juiz não podendo ser inferior a um trigésimo do maior salário mínimo mensal vigente ao tempo do fato, nem superior a 5 (cinco) vezes esse salário. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -1928,17 +1928,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Pagamento da multa
 
-Art. 50 - A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 50 - A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - A cobrança da multa pode efetuar-se mediante desconto no vencimento ou salário do condenado quando:         (Incluído pela Lei nº 7.209, de 11.7.1984)
+§ 1º - A cobrança da multa pode efetuar-se mediante desconto no vencimento ou salário do condenado quando: (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-a) aplicada isoladamente;         (Incluído pela Lei nº 7.209, de 11.7.1984)
+a) aplicada isoladamente; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-b) aplicada cumulativamente com pena restritiva de direitos;        (Incluído pela Lei nº 7.209, de 11.7.1984)
+b) aplicada cumulativamente com pena restritiva de direitos; (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-c) concedida a suspensão condicional da pena.         (Incluído pela Lei nº 7.209, de 11.7.1984)
+c) concedida a suspensão condicional da pena. (Incluído pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - O desconto não deve incidir sobre os recursos indispensáveis ao sustento do condenado e de sua família.        (Incluído pela Lei nº 7.209, de 11.7.1984)
+§ 2º - O desconto não deve incidir sobre os recursos indispensáveis ao sustento do condenado e de sua família. (Incluído pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 7.209, de 11.7.1984.
 
@@ -1968,13 +1968,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO I — DAS ESPÉCIES DE PENA › SEÇÃO III — DA PENA DE MULTA
 
-Conversão da Multa e revogação         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Conversão da Multa e revogação (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição.            (Redação dada pela Lei nº 13.964, de 2019)   (Vide ADI 7032)
+Art. 51. Transitada em julgado a sentença condenatória, a multa será executada perante o juiz da execução penal e será considerada dívida de valor, aplicáveis as normas relativas à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição. (Redação dada pela Lei nº 13.964, de 2019) (Vide ADI 7032)
 
-§ 1º -          (Revogado pela Lei nº 9.268, de 1º.4.1996)
+§ 1º - (Revogado pela Lei nº 9.268, de 1º.4.1996)
 
-§ 2º -           (Revogado pela Lei nº 9.268, de 1º.4.1996)
+§ 2º - (Revogado pela Lei nº 9.268, de 1º.4.1996)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 13.964, de 2019; revogação — Lei nº 9.268, de 1.
 
@@ -2010,7 +2010,7 @@ Transitada em julgado a condenação, a multa é executada perante o juiz da exe
 
 Suspensão da execução da multa
 
-Art. 52 - É suspensa a execução da pena de multa, se sobrevém ao condenado doença mental.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 52 - É suspensa a execução da pena de multa, se sobrevém ao condenado doença mental. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2040,7 +2040,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Penas privativas de liberdade
 
-Art. 53 - As penas privativas de liberdade têm seus limites estabelecidos na sanção correspondente a cada tipo legal de crime.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 53 - As penas privativas de liberdade têm seus limites estabelecidos na sanção correspondente a cada tipo legal de crime. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2132,7 +2132,7 @@ As restritivas de direitos de prestação de serviços, interdição temporária
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO II — DA COMINAÇÃO DAS PENAS
 
-Art. 56 - As penas de interdição, previstas nos incisos I e II do art. 47 deste Código, aplicam-se para todo o crime cometido no exercício de profissão, atividade, ofício, cargo ou função, sempre que houver violação dos deveres que lhes são inerentes.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 56 - As penas de interdição, previstas nos incisos I e II do art. 47 deste Código, aplicam-se para todo o crime cometido no exercício de profissão, atividade, ofício, cargo ou função, sempre que houver violação dos deveres que lhes são inerentes. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2233,7 +2233,7 @@ A multa prevista em cada crime segue os limites do art. 49. A multa substitutiva
 
 Fixação da pena
 
-Art. 59 - O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime: (Redação dada pela Lei nº 7.209, de 11.7.1984)   (Vide ADPF 1107)
+Art. 59 - O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime: (Redação dada pela Lei nº 7.209, de 11.7.1984) (Vide ADPF 1107)
 
 I - as penas aplicáveis dentre as cominadas;(Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -2345,7 +2345,7 @@ j) em ocasião de incêndio, naufrágio, inundação ou qualquer calamidade púb
 
 l) em estado de embriaguez preordenada.
 
-m) nas dependências de instituição de ensino.     (Incluído pela Lei nº 15.159, de 2025)
+m) nas dependências de instituição de ensino. (Incluído pela Lei nº 15.159, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 11.340, de 2006; redação — Lei nº 10.741, de 2003; inclusão — Lei nº 15.159, de 2025.
 
@@ -2489,7 +2489,7 @@ Circunstâncias atenuantes
 
 Art. 65 - São circunstâncias que sempre atenuam a pena: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - ser o agente menor de 21 (vinte e um) anos, na data do fato, ou maior de 70 (setenta) anos, na data da sentença, salvo se o crime envolver violência sexual contra a mulher;      (Redação dada pela Lei nº 15.160, de 2025)
+I - ser o agente menor de 21 (vinte e um) anos, na data do fato, ou maior de 70 (setenta) anos, na data da sentença, salvo se o crime envolver violência sexual contra a mulher; (Redação dada pela Lei nº 15.160, de 2025)
 
 II - o desconhecimento da lei; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -2710,9 +2710,9 @@ No concurso formal, uma só conduta produz dois ou mais crimes: aplica-se a pena
 
 Crime continuado
 
-Art. 71 - Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subseqüentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 71 - Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subseqüentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - Nos crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, poderá o juiz, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo, observadas as regras do parágrafo único do art. 70 e do art. 75 deste Código.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Nos crimes dolosos, contra vítimas diferentes, cometidos com violência ou grave ameaça à pessoa, poderá o juiz, considerando a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, bem como os motivos e as circunstâncias, aumentar a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, até o triplo, observadas as regras do parágrafo único do art. 70 e do art. 75 deste Código. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2747,7 +2747,7 @@ No crime continuado, vários crimes da mesma espécie, com condições semelhant
 
 Multas no concurso de crimes
 
-Art. 72 - No concurso de crimes, as penas de multa são aplicadas distinta e integralmente.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 72 - No concurso de crimes, as penas de multa são aplicadas distinta e integralmente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2777,7 +2777,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Erro na execução
 
-Art. 73 - Quando, por acidente ou erro no uso dos meios de execução, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa, responde como se tivesse praticado o crime contra aquela, atendendo-se ao disposto no § 3º do art. 20 deste Código. No caso de ser também atingida a pessoa que o agente pretendia ofender, aplica-se a regra do art. 70 deste Código.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 73 - Quando, por acidente ou erro no uso dos meios de execução, o agente, ao invés de atingir a pessoa que pretendia ofender, atinge pessoa diversa, responde como se tivesse praticado o crime contra aquela, atendendo-se ao disposto no § 3º do art. 20 deste Código. No caso de ser também atingida a pessoa que o agente pretendia ofender, aplica-se a regra do art. 70 deste Código. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2812,7 +2812,7 @@ No erro na execução (aberratio ictus), o agente atinge pessoa diversa da prete
 
 Resultado diverso do pretendido
 
-Art. 74 - Fora dos casos do artigo anterior, quando, por acidente ou erro na execução do crime, sobrevém resultado diverso do pretendido, o agente responde por culpa, se o fato é previsto como crime culposo; se ocorre também o resultado pretendido, aplica-se a regra do art. 70 deste Código.          (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 74 - Fora dos casos do artigo anterior, quando, por acidente ou erro na execução do crime, sobrevém resultado diverso do pretendido, o agente responde por culpa, se o fato é previsto como crime culposo; se ocorre também o resultado pretendido, aplica-se a regra do art. 70 deste Código. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2846,11 +2846,11 @@ No resultado diverso do pretendido (aberratio criminis), o agente atinge bem jur
 
 Limite das penas
 
-Art. 75. O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 (quarenta) anos.            (Redação dada pela Lei nº 13.964, de 2019)
+Art. 75. O tempo de cumprimento das penas privativas de liberdade não pode ser superior a 40 (quarenta) anos. (Redação dada pela Lei nº 13.964, de 2019)
 
-§ 1º Quando o agente for condenado a penas privativas de liberdade cuja soma seja superior a 40 (quarenta) anos, devem elas ser unificadas para atender ao limite máximo deste artigo.             (Redação dada pela Lei nº 13.964, de 2019)
+§ 1º Quando o agente for condenado a penas privativas de liberdade cuja soma seja superior a 40 (quarenta) anos, devem elas ser unificadas para atender ao limite máximo deste artigo. (Redação dada pela Lei nº 13.964, de 2019)
 
-§ 2º - Sobrevindo condenação por fato posterior ao início do cumprimento da pena, far-se-á nova unificação, desprezando-se, para esse fim, o período de pena já cumprido.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Sobrevindo condenação por fato posterior ao início do cumprimento da pena, far-se-á nova unificação, desprezando-se, para esse fim, o período de pena já cumprido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.964, de 2019; redação — Lei nº 7.209, de 11.7.1984.
 
@@ -2913,17 +2913,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Requisitos da suspensão da pena
 
-Art. 77 - A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que:         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 77 - A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - o condenado não seja reincidente em crime doloso;         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - o condenado não seja reincidente em crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - a culpabilidade, os antecedentes, a conduta social e personalidade do agente, bem como os motivos e as circunstâncias autorizem a concessão do benefício;        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - a culpabilidade, os antecedentes, a conduta social e personalidade do agente, bem como os motivos e as circunstâncias autorizem a concessão do benefício; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - Não seja indicada ou cabível a substituição prevista no art. 44 deste Código.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - Não seja indicada ou cabível a substituição prevista no art. 44 deste Código. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - A condenação anterior a pena de multa não impede a concessão do benefício.        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - A condenação anterior a pena de multa não impede a concessão do benefício. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2o A execução da pena privativa de liberdade, não superior a quatro anos, poderá ser suspensa, por quatro a seis anos, desde que o condenado seja maior de setenta anos de idade, ou razões de saúde justifiquem a suspensão.         (Redação dada pela Lei nº 9.714, de 1998)
+§ 2o A execução da pena privativa de liberdade, não superior a quatro anos, poderá ser suspensa, por quatro a seis anos, desde que o condenado seja maior de setenta anos de idade, ou razões de saúde justifiquem a suspensão. (Redação dada pela Lei nº 9.714, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 9.714, de 1998.
 
@@ -2956,7 +2956,7 @@ A suspensão condicional da pena (sursis) cabe para pena de prisão de até dois
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO IV — DA SUSPENSÃO CONDICIONAL DA PENA
 
-Art. 78 - Durante o prazo da suspensão, o condenado ficará sujeito à observação e ao cumprimento das condições estabelecidas pelo juiz. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 78 - Durante o prazo da suspensão, o condenado ficará sujeito à observação e ao cumprimento das condições estabelecidas pelo juiz. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 § 1º - No primeiro ano do prazo, deverá o condenado prestar serviços à comunidade (art. 46) ou submeter-se à limitação de fim de semana (art. 48). (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -2964,9 +2964,9 @@ Art. 78 - Durante o prazo da suspensão, o condenado ficará sujeito à observa�
 
 a) proibição de freqüentar determinados lugares; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-b) proibição de ausentar-se da comarca onde reside, sem autorização do juiz;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+b) proibição de ausentar-se da comarca onde reside, sem autorização do juiz; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-c) comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+c) comparecimento pessoal e obrigatório a juízo, mensalmente, para informar e justificar suas atividades. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 9.268, de 1.
 
@@ -3000,7 +3000,7 @@ Durante a suspensão, o condenado cumpre condições fixadas pelo juiz. No prime
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO IV — DA SUSPENSÃO CONDICIONAL DA PENA
 
-Art. 79 - A sentença poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do condenado.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 79 - A sentença poderá especificar outras condições a que fica subordinada a suspensão, desde que adequadas ao fato e à situação pessoal do condenado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3028,7 +3028,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO IV — DA SUSPENSÃO CONDICIONAL DA PENA
 
-Art. 80 - A suspensão não se estende às penas restritivas de direitos nem à multa.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 80 - A suspensão não se estende às penas restritivas de direitos nem à multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3058,23 +3058,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Revogação obrigatória
 
-Art. 81 - A suspensão será revogada se, no curso do prazo, o beneficiário:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 81 - A suspensão será revogada se, no curso do prazo, o beneficiário: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - é condenado, em sentença irrecorrível, por crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - é condenado, em sentença irrecorrível, por crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - frustra, embora solvente, a execução de pena de multa ou não efetua, sem motivo justificado, a reparação do dano; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - frustra, embora solvente, a execução de pena de multa ou não efetua, sem motivo justificado, a reparação do dano; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - descumpre a condição do § 1º do art. 78 deste Código.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - descumpre a condição do § 1º do art. 78 deste Código. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Revogação facultativa
 
-§ 1º - A suspensão poderá ser revogada se o condenado descumpre qualquer outra condição imposta ou é irrecorrivelmente condenado, por crime culposo ou por contravenção, a pena privativa de liberdade ou restritiva de direitos.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - A suspensão poderá ser revogada se o condenado descumpre qualquer outra condição imposta ou é irrecorrivelmente condenado, por crime culposo ou por contravenção, a pena privativa de liberdade ou restritiva de direitos. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Prorrogação do período de prova
 
-§ 2º - Se o beneficiário está sendo processado por outro crime ou contravenção, considera-se prorrogado o prazo da suspensão até o julgamento definitivo.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Se o beneficiário está sendo processado por outro crime ou contravenção, considera-se prorrogado o prazo da suspensão até o julgamento definitivo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 3º - Quando facultativa a revogação, o juiz pode, ao invés de decretá-la, prorrogar o período de prova até o máximo, se este não foi o fixado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 3º - Quando facultativa a revogação, o juiz pode, ao invés de decretá-la, prorrogar o período de prova até o máximo, se este não foi o fixado. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3108,7 +3108,7 @@ O sursis é revogado obrigatoriamente se o beneficiário for condenado definitiv
 
 Cumprimento das condições
 
-Art. 82 - Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade.                 (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 82 - Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3137,27 +3137,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Requisitos do livramento condicional
 
-Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:          (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - cumprida mais da metade se o condenado for reincidente em crime doloso;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - cumprida mais da metade se o condenado for reincidente em crime doloso; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - comprovado:             (Redação dada pela Lei nº 13.964, de 2019)
+III - comprovado: (Redação dada pela Lei nº 13.964, de 2019)
 
-a) bom comportamento durante a execução da pena;             (Incluído pela Lei nº 13.964, de 2019)
+a) bom comportamento durante a execução da pena; (Incluído pela Lei nº 13.964, de 2019)
 
-b) não cometimento de falta grave nos últimos 12 (doze) meses;             (Incluído pela Lei nº 13.964, de 2019)
+b) não cometimento de falta grave nos últimos 12 (doze) meses; (Incluído pela Lei nº 13.964, de 2019)
 
-c) bom desempenho no trabalho que lhe foi atribuído; e             (Incluído pela Lei nº 13.964, de 2019)
+c) bom desempenho no trabalho que lhe foi atribuído; e (Incluído pela Lei nº 13.964, de 2019)
 
-d) aptidão para prover a própria subsistência mediante trabalho honesto;             (Incluído pela Lei nº 13.964, de 2019)
+d) aptidão para prover a própria subsistência mediante trabalho honesto; (Incluído pela Lei nº 13.964, de 2019)
 
-IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;            (Redação dada pela Lei nº 7.209, de 11.7.1984)
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.             (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 13.964, de 2019; inclusão — Lei nº 13.964, de 2019; inclusão — Lei nº 13.344, de 2016.
 
@@ -3191,7 +3191,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Soma de penas
 
-Art. 84 - As penas que correspondem a infrações diversas devem somar-se para efeito do livramento.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 84 - As penas que correspondem a infrações diversas devem somar-se para efeito do livramento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3220,7 +3220,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Especificações das condições
 
-Art. 85 - A sentença especificará as condições a que fica subordinado o livramento.         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 85 - A sentença especificará as condições a que fica subordinado o livramento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3403,19 +3403,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Efeitos genéricos e específicos
 
-Art. 91 - São efeitos da condenação:         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 91 - São efeitos da condenação: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - tornar certa a obrigação de indenizar o dano causado pelo crime;         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - tornar certa a obrigação de indenizar o dano causado pelo crime; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - a perda em favor da União, ressalvado o direito do lesado ou de terceiro de boa-fé:         (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - a perda em favor da União, ressalvado o direito do lesado ou de terceiro de boa-fé: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 a) dos instrumentos do crime, desde que consistam em coisas cujo fabrico, alienação, uso, porte ou detenção constitua fato ilícito;
 
-b) do produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso.   (Vide ADPF 569)
+b) do produto do crime ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso. (Vide ADPF 569)
 
-§ 1o  Poderá ser decretada a perda de bens ou valores equivalentes ao produto ou proveito do crime quando estes não forem encontrados ou quando se localizarem no exterior.          (Incluído pela Lei nº 12.694, de 2012)
+§ 1o Poderá ser decretada a perda de bens ou valores equivalentes ao produto ou proveito do crime quando estes não forem encontrados ou quando se localizarem no exterior. (Incluído pela Lei nº 12.694, de 2012)
 
-§ 2o  Na hipótese do § 1o, as medidas assecuratórias previstas na legislação processual poderão abranger bens ou valores equivalentes do investigado ou acusado para posterior decretação de perda.          (Incluído pela Lei nº 12.694, de 2012)
+§ 2o Na hipótese do § 1o, as medidas assecuratórias previstas na legislação processual poderão abranger bens ou valores equivalentes do investigado ou acusado para posterior decretação de perda. (Incluído pela Lei nº 12.694, de 2012)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 12.694, de 2012.
 
@@ -3448,21 +3448,21 @@ São efeitos automáticos da condenação: tornar certa a obrigação de indeniz
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO VI — DOS EFEITOS DA CONDENAÇÃO
 
-Art. 91-A. Na hipótese de condenação por infrações às quais a lei comine pena máxima superior a 6 (seis) anos de reclusão, poderá ser decretada a perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele que seja compatível com o seu rendimento lícito.             (Incluído pela Lei nº 13.964, de 2019)
+Art. 91-A. Na hipótese de condenação por infrações às quais a lei comine pena máxima superior a 6 (seis) anos de reclusão, poderá ser decretada a perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele que seja compatível com o seu rendimento lícito. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 1º Para efeito da perda prevista no caput deste artigo, entende-se por patrimônio do condenado todos os bens:             (Incluído pela Lei nº 13.964, de 2019)
+§ 1º Para efeito da perda prevista no caput deste artigo, entende-se por patrimônio do condenado todos os bens: (Incluído pela Lei nº 13.964, de 2019)
 
-I - de sua titularidade, ou em relação aos quais ele tenha o domínio e o benefício direto ou indireto, na data da infração penal ou recebidos posteriormente; e             (Incluído pela Lei nº 13.964, de 2019)
+I - de sua titularidade, ou em relação aos quais ele tenha o domínio e o benefício direto ou indireto, na data da infração penal ou recebidos posteriormente; e (Incluído pela Lei nº 13.964, de 2019)
 
-II - transferidos a terceiros a título gratuito ou mediante contraprestação irrisória, a partir do início da atividade criminal.             (Incluído pela Lei nº 13.964, de 2019)
+II - transferidos a terceiros a título gratuito ou mediante contraprestação irrisória, a partir do início da atividade criminal. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 2º O condenado poderá demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio.             (Incluído pela Lei nº 13.964, de 2019)
+§ 2º O condenado poderá demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 3º A perda prevista neste artigo deverá ser requerida expressamente pelo Ministério Público, por ocasião do oferecimento da denúncia, com indicação da diferença apurada.             (Incluído pela Lei nº 13.964, de 2019)
+§ 3º A perda prevista neste artigo deverá ser requerida expressamente pelo Ministério Público, por ocasião do oferecimento da denúncia, com indicação da diferença apurada. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 4º Na sentença condenatória, o juiz deve declarar o valor da diferença apurada e especificar os bens cuja perda for decretada.             (Incluído pela Lei nº 13.964, de 2019)
+§ 4º Na sentença condenatória, o juiz deve declarar o valor da diferença apurada e especificar os bens cuja perda for decretada. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 5º Os instrumentos utilizados para a prática de crimes por organizações criminosas e milícias deverão ser declarados perdidos em favor da União, do Estado ou do Distrito Federal, dependendo da Justiça onde tramita a ação penal, ainda que não ponham em perigo a segurança das pessoas, a moral ou a ordem pública, nem ofereçam sério risco de ser utilizados para o cometimento de novos crimes.     (Redação dada pela Lei nº 15.358, de 2026)
+§ 5º Os instrumentos utilizados para a prática de crimes por organizações criminosas e milícias deverão ser declarados perdidos em favor da União, do Estado ou do Distrito Federal, dependendo da Justiça onde tramita a ação penal, ainda que não ponham em perigo a segurança das pessoas, a moral ou a ordem pública, nem ofereçam sério risco de ser utilizados para o cometimento de novos crimes. (Redação dada pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.964, de 2019; redação — Lei nº 15.358, de 2026.
 
@@ -3494,33 +3494,33 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO VI — DOS EFEITOS DA CONDENAÇÃO
 
-Art. 92 - São também efeitos da condenação:        (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 92 - São também efeitos da condenação: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - a perda de cargo, função pública ou mandato eletivo:         (Redação dada pela Lei nº 9.268, de 1º.4.1996)
+I - a perda de cargo, função pública ou mandato eletivo: (Redação dada pela Lei nº 9.268, de 1º.4.1996)
 
-a) quando aplicada pena privativa de liberdade por tempo igual ou superior a um ano, nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública;         (Incluído pela Lei nº 9.268, de 1º.4.1996)
+a) quando aplicada pena privativa de liberdade por tempo igual ou superior a um ano, nos crimes praticados com abuso de poder ou violação de dever para com a Administração Pública; (Incluído pela Lei nº 9.268, de 1º.4.1996)
 
-b) quando for aplicada pena privativa de liberdade por tempo superior a 4 (quatro) anos nos demais casos.         (Incluído pela Lei nº 9.268, de 1º.4.1996)
+b) quando for aplicada pena privativa de liberdade por tempo superior a 4 (quatro) anos nos demais casos. (Incluído pela Lei nº 9.268, de 1º.4.1996)
 
-II – a incapacidade para o exercício do poder familiar, da tutela ou da curatela nos crimes dolosos sujeitos à pena de reclusão cometidos contra outrem igualmente titular do mesmo poder familiar, contra filho, filha ou outro descendente, tutelado ou curatelado, bem como nos crimes cometidos contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código;     (Redação dada pela Lei nº 14.994, de 2024)
+II – a incapacidade para o exercício do poder familiar, da tutela ou da curatela nos crimes dolosos sujeitos à pena de reclusão cometidos contra outrem igualmente titular do mesmo poder familiar, contra filho, filha ou outro descendente, tutelado ou curatelado, bem como nos crimes cometidos contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código; (Redação dada pela Lei nº 14.994, de 2024)
 
-III - a inabilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso.           (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - a inabilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-IV - a suspensão, pelo prazo de 180 (cento e oitenta) dias, da eficácia da inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do estabelecimento que, no exercício de atividade comercial ou industrial, for constituída ou utilizada com o fim de permitir, facilitar ou ocultar a prática dos crimes definidos no caput e no § 1º do art. 180 deste Código.      (Incluído pela Lei nº 15.358, de 2026)
+IV - a suspensão, pelo prazo de 180 (cento e oitenta) dias, da eficácia da inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do estabelecimento que, no exercício de atividade comercial ou industrial, for constituída ou utilizada com o fim de permitir, facilitar ou ocultar a prática dos crimes definidos no caput e no § 1º do art. 180 deste Código. (Incluído pela Lei nº 15.358, de 2026)
 
-§ 1º Os efeitos de que trata este artigo não são automáticos, devendo ser motivadamente declarados na sentença pelo juiz, mas independem de pedido expresso da acusação, observado o disposto no inciso III do § 2º deste artigo.      (Incluído pela Lei nº 14.994, de 2024)
+§ 1º Os efeitos de que trata este artigo não são automáticos, devendo ser motivadamente declarados na sentença pelo juiz, mas independem de pedido expresso da acusação, observado o disposto no inciso III do § 2º deste artigo. (Incluído pela Lei nº 14.994, de 2024)
 
-§ 2º Ao condenado por crime praticado contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, e ao condenado por crime previsto no caput e nos §§ 1º e 2º do art. 240, no caput e no parágrafo único do art. 241, no caput e nos §§ 1º e 3º do art. 241-A, no caput do art. 241-B, no caput e nos §§ 1º e 2º do art. 241-D e no caput e no § 1º do art. 244-A da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), serão:      (Redação dada pela Lei nº 15.487, de 2026)
+§ 2º Ao condenado por crime praticado contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, e ao condenado por crime previsto no caput e nos §§ 1º e 2º do art. 240, no caput e no parágrafo único do art. 241, no caput e nos §§ 1º e 3º do art. 241-A, no caput do art. 241-B, no caput e nos §§ 1º e 2º do art. 241-D e no caput e no § 1º do art. 244-A da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), serão: (Redação dada pela Lei nº 15.487, de 2026)
 
-I – aplicados os efeitos previstos nos incisos I e II do caput deste artigo;     (Incluído pela Lei nº 14.994, de 2024)
+I – aplicados os efeitos previstos nos incisos I e II do caput deste artigo; (Incluído pela Lei nº 14.994, de 2024)
 
-II – vedadas a sua nomeação, designação ou diplomação em qualquer cargo, função pública ou mandato eletivo entre o trânsito em julgado da condenação até o efetivo cumprimento da pena;     (Incluído pela Lei nº 14.994, de 2024)
+II – vedadas a sua nomeação, designação ou diplomação em qualquer cargo, função pública ou mandato eletivo entre o trânsito em julgado da condenação até o efetivo cumprimento da pena; (Incluído pela Lei nº 14.994, de 2024)
 
-III – automáticos os efeitos dos incisos I e II do caput e do inciso II do § 2º deste artigo.     (Incluído pela Lei nº 14.994, de 2024)
+III – automáticos os efeitos dos incisos I e II do caput e do inciso II do § 2º deste artigo. (Incluído pela Lei nº 14.994, de 2024)
 
-§ 3º Em caso de reincidência da conduta prevista no inciso IV do caput deste artigo, a empresa será considerada inidônea e terá sua inscrição no CNPJ considerada inapta, com os efeitos previstos na Lei nº 9.430, de 27 de dezembro de 1996.     (Incluído pela Lei nº 15.358, de 2026)
+§ 3º Em caso de reincidência da conduta prevista no inciso IV do caput deste artigo, a empresa será considerada inidônea e terá sua inscrição no CNPJ considerada inapta, com os efeitos previstos na Lei nº 9.430, de 27 de dezembro de 1996. (Incluído pela Lei nº 15.358, de 2026)
 
-§ 4º Na hipótese da reincidência descrita no § 3º deste artigo, o administrador, direta ou indiretamente responsável pela infração cometida, será interditado para o exercício do comércio pelo período de 5 (cinco) anos.    (Incluído pela Lei nº 15.358, de 2026)
+§ 4º Na hipótese da reincidência descrita no § 3º deste artigo, o administrador, direta ou indiretamente responsável pela infração cometida, será interditado para o exercício do comércio pelo período de 5 (cinco) anos. (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 9.268, de 1; inclusão — Lei nº 9.268, de 1; redação — Lei nº 14.994, de 2024; inclusão — Lei nº 15.358, de 2026; inclusão — Lei nº 14.994, de 2024; redação — Lei nº 15.487, de 2026.
 
@@ -3555,7 +3555,7 @@ São efeitos específicos da condenação, que devem ser declarados de forma fun
 - art. 241-A (deste Código)
 - art. 241-B (deste Código)
 - art. 241-D (deste Código)
-- art. 244-A (Lei nº 8.069, de 13 de julho de 1990)
+- art. 244-A (Lei nº 8.069, de 13 de julho de 1990)
 
 **Normas citadas ou indicadas (inclusive em notas "Vide"):**
 
@@ -3570,9 +3570,9 @@ São efeitos específicos da condenação, que devem ser declarados de forma fun
 
 Reabilitação
 
-Art. 93 - A reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 93 - A reabilitação alcança quaisquer penas aplicadas em sentença definitiva, assegurando ao condenado o sigilo dos registros sobre o seu processo e condenação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - A reabilitação poderá, também, atingir os efeitos da condenação, previstos no art. 92 deste Código, vedada reintegração na situação anterior, nos casos dos incisos I e II do mesmo artigo.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - A reabilitação poderá, também, atingir os efeitos da condenação, previstos no art. 92 deste Código, vedada reintegração na situação anterior, nos casos dos incisos I e II do mesmo artigo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3604,15 +3604,15 @@ A reabilitação alcança quaisquer penas aplicadas em sentença definitiva e ga
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO VII — DA REABILITAÇÃO
 
-Art. 94 - A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 94 - A reabilitação poderá ser requerida, decorridos 2 (dois) anos do dia em que for extinta, de qualquer modo, a pena ou terminar sua execução, computando-se o período de prova da suspensão e o do livramento condicional, se não sobrevier revogação, desde que o condenado: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - tenha tido domicílio no País no prazo acima referido;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - tenha tido domicílio no País no prazo acima referido; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - tenha dado, durante esse tempo, demonstração efetiva e constante de bom comportamento público e privado;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - tenha dado, durante esse tempo, demonstração efetiva e constante de bom comportamento público e privado; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - Negada a reabilitação, poderá ser requerida, a qualquer tempo, desde que o pedido seja instruído com novos elementos comprobatórios dos requisitos necessários.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Negada a reabilitação, poderá ser requerida, a qualquer tempo, desde que o pedido seja instruído com novos elementos comprobatórios dos requisitos necessários. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3642,7 +3642,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO V — DAS PENAS › CAPÍTULO VII — DA REABILITAÇÃO
 
-Art. 95 - A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 95 - A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for condenado, como reincidente, por decisão definitiva, a pena que não seja de multa. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3672,13 +3672,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Espécies de medidas de segurança
 
-Art. 96. As medidas de segurança são:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 96. As medidas de segurança são: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - Internação em hospital de custódia e tratamento psiquiátrico ou, à falta, em outro estabelecimento adequado; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - Internação em hospital de custódia e tratamento psiquiátrico ou, à falta, em outro estabelecimento adequado; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - sujeição a tratamento ambulatorial.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - sujeição a tratamento ambulatorial. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - Extinta a punibilidade, não se impõe medida de segurança nem subsiste a que tenha sido imposta.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Extinta a punibilidade, não se impõe medida de segurança nem subsiste a que tenha sido imposta. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3714,17 +3714,17 @@ Art. 97 - Se o agente for inimputável, o juiz determinará sua internação (ar
 
 Prazo
 
-§ 1º - A internação, ou tratamento ambulatorial, será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação de periculosidade. O prazo mínimo deverá ser de 1 (um) a 3 (três) anos.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - A internação, ou tratamento ambulatorial, será por tempo indeterminado, perdurando enquanto não for averiguada, mediante perícia médica, a cessação de periculosidade. O prazo mínimo deverá ser de 1 (um) a 3 (três) anos. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Perícia médica
 
-§ 2º - A perícia médica realizar-se-á ao termo do prazo mínimo fixado e deverá ser repetida de ano em ano, ou a qualquer tempo, se o determinar o juiz da execução.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - A perícia médica realizar-se-á ao termo do prazo mínimo fixado e deverá ser repetida de ano em ano, ou a qualquer tempo, se o determinar o juiz da execução. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 Desinternação ou liberação condicional
 
-§ 3º - A desinternação, ou a liberação, será sempre condicional devendo ser restabelecida a situação anterior se o agente, antes do decurso de 1 (um) ano, pratica fato indicativo de persistência de sua periculosidade.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 3º - A desinternação, ou a liberação, será sempre condicional devendo ser restabelecida a situação anterior se o agente, antes do decurso de 1 (um) ano, pratica fato indicativo de persistência de sua periculosidade. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 4º - Em qualquer fase do tratamento ambulatorial, poderá o juiz determinar a internação do agente, se essa providência for necessária para fins curativos.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 4º - Em qualquer fase do tratamento ambulatorial, poderá o juiz determinar a internação do agente, se essa providência for necessária para fins curativos. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3761,7 +3761,7 @@ Ao inimputável, o juiz impõe internação ou, se o crime for punido com deten�
 
 Substituição da pena por medida de segurança para o semi-imputável
 
-Art. 98 - Na hipótese do parágrafo único do art. 26 deste Código e necessitando o condenado de especial tratamento curativo, a pena privativa de liberdade pode ser substituída pela internação, ou tratamento ambulatorial, pelo prazo mínimo de 1 (um) a 3 (três) anos, nos termos do artigo anterior e respectivos §§ 1º a 4º.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 98 - Na hipótese do parágrafo único do art. 26 deste Código e necessitando o condenado de especial tratamento curativo, a pena privativa de liberdade pode ser substituída pela internação, ou tratamento ambulatorial, pelo prazo mínimo de 1 (um) a 3 (três) anos, nos termos do artigo anterior e respectivos §§ 1º a 4º. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3795,7 +3795,7 @@ Ao semi-imputável que necessite de tratamento curativo, a pena de prisão pode 
 
 Direitos do internado
 
-Art. 99 - O internado será recolhido a estabelecimento dotado de características hospitalares e será submetido a tratamento.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 99 - O internado será recolhido a estabelecimento dotado de características hospitalares e será submetido a tratamento. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3826,15 +3826,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Ação pública e de iniciativa privada
 
-Art. 100 - A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 100 - A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de representação do ofendido ou de requisição do Ministro da Justiça.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - A ação pública é promovida pelo Ministério Público, dependendo, quando a lei o exige, de representação do ofendido ou de requisição do Ministro da Justiça. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - A ação de iniciativa privada é promovida mediante queixa do ofendido ou de quem tenha qualidade para representá-lo.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - A ação de iniciativa privada é promovida mediante queixa do ofendido ou de quem tenha qualidade para representá-lo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 3º - A ação de iniciativa privada pode intentar-se nos crimes de ação pública, se o Ministério Público não oferece denúncia no prazo legal.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 3º - A ação de iniciativa privada pode intentar-se nos crimes de ação pública, se o Ministério Público não oferece denúncia no prazo legal. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 4º - No caso de morte do ofendido ou de ter sido declarado ausente por decisão judicial, o direito de oferecer queixa ou de prosseguir na ação passa ao cônjuge, ascendente, descendente ou irmão.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 4º - No caso de morte do ofendido ou de ter sido declarado ausente por decisão judicial, o direito de oferecer queixa ou de prosseguir na ação passa ao cônjuge, ascendente, descendente ou irmão. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3869,7 +3869,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 A ação penal no crime complexo
 
-Art. 101 - Quando a lei considera como elemento ou circunstâncias do tipo legal fatos que, por si mesmos, constituem crimes, cabe ação pública em relação àquele, desde que, em relação a qualquer destes, se deva proceder por iniciativa do Ministério Público.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 101 - Quando a lei considera como elemento ou circunstâncias do tipo legal fatos que, por si mesmos, constituem crimes, cabe ação pública em relação àquele, desde que, em relação a qualquer destes, se deva proceder por iniciativa do Ministério Público. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3899,7 +3899,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Irretratabilidade da representação
 
-Art. 102 - A representação será irretratável depois de oferecida a denúncia.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 102 - A representação será irretratável depois de oferecida a denúncia. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -3930,9 +3930,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Decadência do direito de queixa ou de representação
 
-Art. 103 - Salvo disposição expressa em contrário, o ofendido decai do direito de queixa ou de representação se não o exerce dentro do prazo de 6 (seis) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do § 3º do art. 100 deste Código, do dia em que se esgota o prazo para oferecimento da denúncia.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 103 - Salvo disposição expressa em contrário, o ofendido decai do direito de queixa ou de representação se não o exerce dentro do prazo de 6 (seis) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do § 3º do art. 100 deste Código, do dia em que se esgota o prazo para oferecimento da denúncia. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único. Nos crimes praticados no âmbito de violência doméstica e familiar contra a mulher, a ofendida decai do direito de queixa ou de representação se não o exerce no prazo de 12 (doze) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do § 3º do art. 100 deste Código, do dia em que se esgota o prazo para oferecimento da denúncia.   (Incluído pela Lei nº 15.438, de 2026)
+Parágrafo único. Nos crimes praticados no âmbito de violência doméstica e familiar contra a mulher, a ofendida decai do direito de queixa ou de representação se não o exerce no prazo de 12 (doze) meses, contado do dia em que veio a saber quem é o autor do crime, ou, no caso do § 3º do art. 100 deste Código, do dia em que se esgota o prazo para oferecimento da denúncia. (Incluído pela Lei nº 15.438, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; inclusão — Lei nº 15.438, de 2026.
 
@@ -3968,9 +3968,9 @@ Salvo regra especial, o ofendido perde o direito de queixa ou representação (d
 
 Renúncia expressa ou tácita do direito de queixa
 
-Art. 104 - O direito de queixa não pode ser exercido quando renunciado expressa ou tacitamente.    (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 104 - O direito de queixa não pode ser exercido quando renunciado expressa ou tacitamente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-Parágrafo único - Importa renúncia tácita ao direito de queixa a prática de ato incompatível com a vontade de exercê-lo; não a implica, todavia, o fato de receber o ofendido a indenização do dano causado pelo crime.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Importa renúncia tácita ao direito de queixa a prática de ato incompatível com a vontade de exercê-lo; não a implica, todavia, o fato de receber o ofendido a indenização do dano causado pelo crime. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4001,7 +4001,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Perdão do ofendido
 
-Art. 105 - O perdão do ofendido, nos crimes em que somente se procede mediante queixa, obsta ao prosseguimento da ação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 105 - O perdão do ofendido, nos crimes em que somente se procede mediante queixa, obsta ao prosseguimento da ação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4029,17 +4029,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO VII — DA AÇÃO PENAL
 
-Art. 106 - O perdão, no processo ou fora dele, expresso ou tácito:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 106 - O perdão, no processo ou fora dele, expresso ou tácito: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - se concedido a qualquer dos querelados, a todos aproveita;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - se concedido a qualquer dos querelados, a todos aproveita; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - se concedido por um dos ofendidos, não prejudica o direito dos outros;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - se concedido por um dos ofendidos, não prejudica o direito dos outros; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - se o querelado o recusa, não produz efeito. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - se o querelado o recusa, não produz efeito. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1º - Perdão tácito é o que resulta da prática de ato incompatível com a vontade de prosseguir na ação.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - Perdão tácito é o que resulta da prática de ato incompatível com a vontade de prosseguir na ação. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - Não é admissível o perdão depois que passa em julgado a sentença condenatória.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Não é admissível o perdão depois que passa em julgado a sentença condenatória. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4071,7 +4071,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Extinção da punibilidade
 
-Art. 107 - Extingue-se a punibilidade:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 107 - Extingue-se a punibilidade: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 I - pela morte do agente;
 
@@ -4085,9 +4085,9 @@ V - pela renúncia do direito de queixa ou pelo perdão aceito, nos crimes de a�
 
 VI - pela retratação do agente, nos casos em que a lei a admite;
 
-VII -         (Revogado pela Lei nº 11.106, de 2005)
+VII - (Revogado pela Lei nº 11.106, de 2005)
 
-VIII -         (Revogado pela Lei nº 11.106, de 2005)
+VIII - (Revogado pela Lei nº 11.106, de 2005)
 
 IX - pelo perdão judicial, nos casos previstos em lei.
 
@@ -4122,7 +4122,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO VIII — DA EXTINÇÃO DA PUNIBILIDADE
 
-Art. 108 - A extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão.          (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 108 - A extinção da punibilidade de crime que é pressuposto, elemento constitutivo ou circunstância agravante de outro não se estende a este. Nos crimes conexos, a extinção da punibilidade de um deles não impede, quanto aos outros, a agravação da pena resultante da conexão. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4153,7 +4153,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Prescrição antes de transitar em julgado a sentença
 
-Art. 109.  A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se:         (Redação dada pela Lei nº 12.234, de 2010).
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1o do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
 
 I - em vinte anos, se o máximo da pena é superior a doze;
 
@@ -4165,11 +4165,11 @@ IV - em oito anos, se o máximo da pena é superior a dois anos e não excede a 
 
 V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois;
 
-VI - em 3 (três) anos, se o máximo da pena é inferior a 1 (um) ano.         (Redação dada pela Lei nº 12.234, de 2010).
+VI - em 3 (três) anos, se o máximo da pena é inferior a 1 (um) ano. (Redação dada pela Lei nº 12.234, de 2010).
 
 Prescrição das penas restritivas de direito
 
-Parágrafo único - Aplicam-se às penas restritivas de direito os mesmos prazos previstos para as privativas de liberdade.          (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Parágrafo único - Aplicam-se às penas restritivas de direito os mesmos prazos previstos para as privativas de liberdade. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.234, de 2010; redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4205,11 +4205,11 @@ Antes do trânsito em julgado, a prescrição regula-se pela pena máxima comina
 
 Prescrição depois de transitar em julgado sentença final condenatória
 
-Art. 110 - A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente.          (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 110 - A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 1o  A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa.         (Redação dada pela Lei nº 12.234, de 2010).
+§ 1o A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa. (Redação dada pela Lei nº 12.234, de 2010).
 
-§ 2o          (Revogado pela Lei nº 12.234, de 2010).
+§ 2o (Revogado pela Lei nº 12.234, de 2010).
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 12.234, de 2010; revogação — Lei nº 12.234, de 2010.
 
@@ -4243,17 +4243,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Termo inicial da prescrição antes de transitar em julgado a sentença final
 
-Art. 111 - A prescrição, antes de transitar em julgado a sentença final, começa a correr:  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 111 - A prescrição, antes de transitar em julgado a sentença final, começa a correr: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - do dia em que o crime se consumou; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - do dia em que o crime se consumou; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - no caso de tentativa, do dia em que cessou a atividade criminosa;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - no caso de tentativa, do dia em que cessou a atividade criminosa; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - nos crimes permanentes, do dia em que cessou a permanência;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - nos crimes permanentes, do dia em que cessou a permanência; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-IV - nos de bigamia e nos de falsificação ou alteração de assentamento do registro civil, da data em que o fato se tornou conhecido.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+IV - nos de bigamia e nos de falsificação ou alteração de assentamento do registro civil, da data em que o fato se tornou conhecido. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-V - nos crimes contra a dignidade sexual ou que envolvam violência contra a criança e o adolescente, previstos neste Código ou em legislação especial, da data em que a vítima completar 18 (dezoito) anos, salvo se a esse tempo já houver sido proposta a ação penal.        (Redação dada pela Lei nº 14.344, de 2022)     Vigência
+V - nos crimes contra a dignidade sexual ou que envolvam violência contra a criança e o adolescente, previstos neste Código ou em legislação especial, da data em que a vítima completar 18 (dezoito) anos, salvo se a esse tempo já houver sido proposta a ação penal. (Redação dada pela Lei nº 14.344, de 2022) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 14.344, de 2022.
 
@@ -4287,11 +4287,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Termo inicial da prescrição após a sentença condenatória irrecorrível
 
-Art. 112 - No caso do art. 110 deste Código, a prescrição começa a correr: (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 112 - No caso do art. 110 deste Código, a prescrição começa a correr: (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-I - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+I - do dia em que transita em julgado a sentença condenatória, para a acusação, ou a que revoga a suspensão condicional da pena ou o livramento condicional; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - do dia em que se interrompe a execução, salvo quando o tempo da interrupção deva computar-se na pena.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - do dia em que se interrompe a execução, salvo quando o tempo da interrupção deva computar-se na pena. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4326,7 +4326,7 @@ Após a condenação definitiva, a prescrição da pena começa a correr do trâ
 
 Prescrição no caso de evasão do condenado ou de revogação do livramento condicional
 
-Art. 113 - No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a prescrição é regulada pelo tempo que resta da pena.   (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 113 - No caso de evadir-se o condenado ou de revogar-se o livramento condicional, a prescrição é regulada pelo tempo que resta da pena. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4392,7 +4392,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Redução dos prazos de prescrição
 
-Art. 115. São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos ou, na data da sentença, maior de 70 (setenta) anos, salvo se o crime envolver violência sexual contra a mulher.     (Redação dada pela Lei nº 15.160, de 2025)
+Art. 115. São reduzidos de metade os prazos de prescrição quando o criminoso era, ao tempo do crime, menor de 21 (vinte e um) anos ou, na data da sentença, maior de 70 (setenta) anos, salvo se o crime envolver violência sexual contra a mulher. (Redação dada pela Lei nº 15.160, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.160, de 2025.
 
@@ -4429,11 +4429,11 @@ Art. 116 - Antes de passar em julgado a sentença final, a prescrição não cor
 
 I - enquanto não resolvida, em outro processo, questão de que dependa o reconhecimento da existência do crime; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - enquanto o agente cumpre pena no exterior;              (Redação dada pela Lei nº 13.964, de 2019)
+II - enquanto o agente cumpre pena no exterior; (Redação dada pela Lei nº 13.964, de 2019)
 
-III - na pendência de embargos de declaração ou de recursos aos Tribunais Superiores, quando inadmissíveis; e             (Incluído pela Lei nº 13.964, de 2019)
+III - na pendência de embargos de declaração ou de recursos aos Tribunais Superiores, quando inadmissíveis; e (Incluído pela Lei nº 13.964, de 2019)
 
-IV - enquanto não cumprido ou não rescindido o acordo de não persecução penal.             (Incluído pela Lei nº 13.964, de 2019)
+IV - enquanto não cumprido ou não rescindido o acordo de não persecução penal. (Incluído pela Lei nº 13.964, de 2019)
 
 Parágrafo único - Depois de passada em julgado a sentença condenatória, a prescrição não corre durante o tempo em que o condenado está preso por outro motivo. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
@@ -4473,9 +4473,9 @@ Art. 117 - O curso da prescrição interrompe-se: (Redação dada pela Lei nº 7
 
 I - pelo recebimento da denúncia ou da queixa; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-II - pela pronúncia; (Redação dada pela Lei nº 7.209, de 11.7.1984)
+II - pela pronúncia; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-III - pela decisão confirmatória da pronúncia;  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+III - pela decisão confirmatória da pronúncia; (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 IV - pela publicação da sentença ou acórdão condenatórios recorríveis; (Redação dada pela Lei nº 11.596, de 2007).
 
@@ -4483,9 +4483,9 @@ V - pelo início ou continuação do cumprimento da pena; (Redação dada pela L
 
 VI - pela reincidência. (Redação dada pela Lei nº 9.268, de 1º.4.1996)
 
-§ 1º - Excetuados os casos dos incisos V e VI deste artigo, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime. Nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção relativa a qualquer deles.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 1º - Excetuados os casos dos incisos V e VI deste artigo, a interrupção da prescrição produz efeitos relativamente a todos os autores do crime. Nos crimes conexos, que sejam objeto do mesmo processo, estende-se aos demais a interrupção relativa a qualquer deles. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
-§ 2º - Interrompida a prescrição, salvo a hipótese do inciso V deste artigo, todo o prazo começa a correr, novamente, do dia da interrupção.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+§ 2º - Interrompida a prescrição, salvo a hipótese do inciso V deste artigo, todo o prazo começa a correr, novamente, do dia da interrupção. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984; redação — Lei nº 11.596, de 2007; redação — Lei nº 9.268, de 1.
 
@@ -4516,7 +4516,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO VIII — DA EXTINÇÃO DA PUNIBILIDADE
 
-Art. 118 - As penas mais leves prescrevem com as mais graves.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 118 - As penas mais leves prescrevem com as mais graves. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4543,7 +4543,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE GERAL › TÍTULO VIII — DA EXTINÇÃO DA PUNIBILIDADE
 
-Art. 119 - No caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 119 - No caso de concurso de crimes, a extinção da punibilidade incidirá sobre a pena de cada um, isoladamente. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4574,7 +4574,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Perdão judicial
 
-Art. 120 - A sentença que conceder perdão judicial não será considerada para efeitos de reincidência.  (Redação dada pela Lei nº 7.209, de 11.7.1984)
+Art. 120 - A sentença que conceder perdão judicial não será considerada para efeitos de reincidência. (Redação dada pela Lei nº 7.209, de 11.7.1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.209, de 11.7.1984.
 
@@ -4629,45 +4629,45 @@ V - para assegurar a execução, a ocultação, a impunidade ou vantagem de outr
 
 Pena - reclusão, de doze a trinta anos.
 
-Feminicídio       (Incluído pela Lei nº 13.104, de 2015)
+Feminicídio (Incluído pela Lei nº 13.104, de 2015)
 
 VI - (Revogado pela Lei nº 14.994, de 2024)
 
-VII – contra:    (Redação dada pela Lei nº 15.134, de 2025)
+VII – contra: (Redação dada pela Lei nº 15.134, de 2025)
 
-a) autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição;     (Incluída pela Lei nº 15.134, de 2025)
+a) autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até o terceiro grau, em razão dessa condição; (Incluída pela Lei nº 15.134, de 2025)
 
-b) membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição;     (Incluída pela Lei nº 15.134, de 2025)
+b) membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição; (Incluída pela Lei nº 15.134, de 2025)
 
-VIII - com emprego de arma de fogo de uso restrito ou proibido:         (Incluído pela Lei nº 13.964, de 2019)       (Vigência)
+VIII - com emprego de arma de fogo de uso restrito ou proibido: (Incluído pela Lei nº 13.964, de 2019) (Vigência)
 
-Homicídio contra menor de 14 (quatorze) anos        (Incluído pela Lei nº 14.344, de 2022)     Vigência
+Homicídio contra menor de 14 (quatorze) anos (Incluído pela Lei nº 14.344, de 2022) Vigência
 
-IX - contra menor de 14 (quatorze) anos:       (Incluído pela Lei nº 14.344, de 2022)     Vigência
+IX - contra menor de 14 (quatorze) anos: (Incluído pela Lei nº 14.344, de 2022) Vigência
 
-X - nas dependências de instituição de ensino:     (Incluído pela Lei nº 15.159, de 2025)
+X - nas dependências de instituição de ensino: (Incluído pela Lei nº 15.159, de 2025)
 
 Pena - reclusão, de doze a trinta anos.
 
-§ 2o-A  (Revogado pela Lei nº 14.994, de 2024)
+§ 2o-A (Revogado pela Lei nº 14.994, de 2024)
 
-§ 2º-B. A pena do homicídio contra menor de 14 (quatorze) anos é aumentada de:      (Incluído pela Lei nº 14.344, de 2022)     Vigência
+§ 2º-B. A pena do homicídio contra menor de 14 (quatorze) anos é aumentada de: (Incluído pela Lei nº 14.344, de 2022) Vigência
 
-I - 1/3 (um terço) até a metade se a vítima é pessoa com deficiência ou com doença que implique o aumento de sua vulnerabilidade;       (Incluído pela Lei nº 14.344, de 2022)     Vigência
+I - 1/3 (um terço) até a metade se a vítima é pessoa com deficiência ou com doença que implique o aumento de sua vulnerabilidade; (Incluído pela Lei nº 14.344, de 2022) Vigência
 
-II - 2/3 (dois terços) se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela.     (Incluído pela Lei nº 14.344, de 2022)     Vigência
+II - 2/3 (dois terços) se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela. (Incluído pela Lei nº 14.344, de 2022) Vigência
 
-III - 2/3 (dois terços) se o crime for praticado em instituição de educação básica pública ou privada.   (Incluído pela Lei nº 14.811, de 2024)
+III - 2/3 (dois terços) se o crime for praticado em instituição de educação básica pública ou privada. (Incluído pela Lei nº 14.811, de 2024)
 
-§ 2º-C. A pena do homicídio cometido nas dependências de instituição de ensino é aumentada de:      (Incluído pela Lei nº 15.159, de 2025)
+§ 2º-C. A pena do homicídio cometido nas dependências de instituição de ensino é aumentada de: (Incluído pela Lei nº 15.159, de 2025)
 
-I - 1/3 (um terço) até a metade se a vítima é pessoa com deficiência ou com doença que acarrete condição limitante ou de vulnerabilidade física ou mental;     (Incluído pela Lei nº 15.159, de 2025)
+I - 1/3 (um terço) até a metade se a vítima é pessoa com deficiência ou com doença que acarrete condição limitante ou de vulnerabilidade física ou mental; (Incluído pela Lei nº 15.159, de 2025)
 
-II - 2/3 (dois terços) se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tem autoridade sobre ela ou, ainda, se é professor ou funcionário da instituição de ensino.    (Incluído pela Lei nº 15.159, de 2025)
+II - 2/3 (dois terços) se o autor é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tem autoridade sobre ela ou, ainda, se é professor ou funcionário da instituição de ensino. (Incluído pela Lei nº 15.159, de 2025)
 
-§ 2º-D. Se o homicídio doloso é cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.   (Incluído pela Lei nº 15.358, de 2026)
+§ 2º-D. Se o homicídio doloso é cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil. (Incluído pela Lei nº 15.358, de 2026)
 
-Pena - reclusão, de 20 (vinte) a 40 (quarenta anos).     (Incluído pela Lei nº 15.358, de 2026)
+Pena - reclusão, de 20 (vinte) a 40 (quarenta anos). (Incluído pela Lei nº 15.358, de 2026)
 
 Homicídio culposo
 
@@ -4681,9 +4681,9 @@ Aumento de pena
 
 § 5º - Na hipótese de homicídio culposo, o juiz poderá deixar de aplicar a pena, se as conseqüências da infração atingirem o próprio agente de forma tão grave que a sanção penal se torne desnecessária. (Incluído pela Lei nº 6.416, de 24.5.1977)
 
-§ 6o  A pena é aumentada de 1/3 (um terço) até a metade se o crime for praticado por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio.       (Incluído pela Lei nº 12.720, de 2012)
+§ 6o A pena é aumentada de 1/3 (um terço) até a metade se o crime for praticado por milícia privada, sob o pretexto de prestação de serviço de segurança, ou por grupo de extermínio. (Incluído pela Lei nº 12.720, de 2012)
 
-§ 7o   (Revogado pela Lei nº 14.994, de 2024)
+§ 7o (Revogado pela Lei nº 14.994, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.104, de 2015; revogação — Lei nº 14.994, de 2024; redação — Lei nº 15.134, de 2025; inclusão — Lei nº 15.134, de 2025; inclusão — Lei nº 13.964, de 2019; inclusão — Lei nº 14.344, de 2022; inclusão — Lei nº 15.159, de 2025; inclusão — Lei nº 14.811, de 2024; inclusão — Lei nº 15.358, de 2026; redação — Lei nº 10.741, de 2003; inclusão — Lei nº 6.416, de 24.5.1977; inclusão — Lei nº 12.720, de 2012.
 
@@ -4726,33 +4726,33 @@ Homicídio é matar alguém, com pena de 6 a 20 anos. A pena pode ser reduzida d
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO I — DOS CRIMES CONTRA A VIDA
 
-Feminicídio     (Incluído pela Lei nº 14.994, de 2024)
+Feminicídio (Incluído pela Lei nº 14.994, de 2024)
 
-Art. 121-A. Matar mulher por razões da condição do sexo feminino:      (Incluído pela Lei nº 14.994, de 2024)
+Art. 121-A. Matar mulher por razões da condição do sexo feminino: (Incluído pela Lei nº 14.994, de 2024)
 
-Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos.     (Incluído pela Lei nº 14.994, de 2024)
+Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos. (Incluído pela Lei nº 14.994, de 2024)
 
-§ 1º Considera-se que há razões da condição do sexo feminino quando o crime envolve:     (Incluído pela Lei nº 14.994, de 2024)
+§ 1º Considera-se que há razões da condição do sexo feminino quando o crime envolve: (Incluído pela Lei nº 14.994, de 2024)
 
-I – violência doméstica e familiar;     (Incluído pela Lei nº 14.994, de 2024)
+I – violência doméstica e familiar; (Incluído pela Lei nº 14.994, de 2024)
 
-II – menosprezo ou discriminação à condição de mulher.     (Incluído pela Lei nº 14.994, de 2024)
+II – menosprezo ou discriminação à condição de mulher. (Incluído pela Lei nº 14.994, de 2024)
 
-§ 2º A pena do feminicídio é aumentada de 1/3 (um terço) até a metade se o crime é praticado:     (Incluído pela Lei nº 14.994, de 2024)
+§ 2º A pena do feminicídio é aumentada de 1/3 (um terço) até a metade se o crime é praticado: (Incluído pela Lei nº 14.994, de 2024)
 
-I – durante a gestação, nos 3 (três) meses posteriores ao parto ou se a vítima é a mãe ou a responsável por criança, adolescente ou pessoa com deficiência de qualquer idade;     (Incluído pela Lei nº 14.994, de 2024)
+I – durante a gestação, nos 3 (três) meses posteriores ao parto ou se a vítima é a mãe ou a responsável por criança, adolescente ou pessoa com deficiência de qualquer idade; (Incluído pela Lei nº 14.994, de 2024)
 
-II – contra pessoa menor de 14 (catorze) anos, maior de 60 (sessenta) anos, com deficiência ou portadora de doenças degenerativas que acarretem condição limitante ou de vulnerabilidade física ou mental;     (Incluído pela Lei nº 14.994, de 2024)
+II – contra pessoa menor de 14 (catorze) anos, maior de 60 (sessenta) anos, com deficiência ou portadora de doenças degenerativas que acarretem condição limitante ou de vulnerabilidade física ou mental; (Incluído pela Lei nº 14.994, de 2024)
 
-III – na presença física ou virtual de descendente ou de ascendente da vítima;     (Incluído pela Lei nº 14.994, de 2024)
+III – na presença física ou virtual de descendente ou de ascendente da vítima; (Incluído pela Lei nº 14.994, de 2024)
 
-IV – em descumprimento das medidas protetivas de urgência previstas nos incisos I, II e III do caput do art. 22 da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha);     (Incluído pela Lei nº 14.994, de 2024)
+IV – em descumprimento das medidas protetivas de urgência previstas nos incisos I, II e III do caput do art. 22 da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha); (Incluído pela Lei nº 14.994, de 2024)
 
-V – nas circunstâncias previstas nos incisos III, IV e VIII do § 2º do  art. 121 deste Código.       (Incluído pela Lei nº 14.994, de 2024)
+V – nas circunstâncias previstas nos incisos III, IV e VIII do § 2º do art. 121 deste Código. (Incluído pela Lei nº 14.994, de 2024)
 
-Coautoria      (Incluído pela Lei nº 14.994, de 2024)
+Coautoria (Incluído pela Lei nº 14.994, de 2024)
 
-§ 3º Comunicam-se ao coautor ou partícipe as circunstâncias pessoais elementares do crime previstas no § 1º deste artigo.      (Incluído pela Lei nº 14.994, de 2024)
+§ 3º Comunicam-se ao coautor ou partícipe as circunstâncias pessoais elementares do crime previstas no § 1º deste artigo. (Incluído pela Lei nº 14.994, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.994, de 2024.
 
@@ -4792,19 +4792,19 @@ Incluído pela Lei nº 14.994/2024, o feminicídio é crime autônomo: matar mul
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO I — DOS CRIMES CONTRA A VIDA
 
-Vicaricídio     (Incluído pela Lei nº 15.384, de 2026)
+Vicaricídio (Incluído pela Lei nº 15.384, de 2026)
 
-Art. 121-B. Matar descendente, ascendente, dependente, enteado ou pessoa sob guarda ou responsabilidade direta da mulher, com o fim específico de causar-lhe sofrimento, punição ou controle, no contexto de violência doméstica e familiar.   (Incluído pela Lei nº 15.384, de 2026)
+Art. 121-B. Matar descendente, ascendente, dependente, enteado ou pessoa sob guarda ou responsabilidade direta da mulher, com o fim específico de causar-lhe sofrimento, punição ou controle, no contexto de violência doméstica e familiar. (Incluído pela Lei nº 15.384, de 2026)
 
-Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos.   (Incluído pela Lei nº 15.384, de 2026)
+Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos. (Incluído pela Lei nº 15.384, de 2026)
 
-Parágrafo único. A pena do vicaricídio é aumentada de 1/3 (um terço) até a metade se o crime for praticado:   (Incluído pela Lei nº 15.384, de 2026)
+Parágrafo único. A pena do vicaricídio é aumentada de 1/3 (um terço) até a metade se o crime for praticado: (Incluído pela Lei nº 15.384, de 2026)
 
-I – na presença da mulher a quem se pretende causar sofrimento, punição ou controle;   (Incluído pela Lei nº 15.384, de 2026)
+I – na presença da mulher a quem se pretende causar sofrimento, punição ou controle; (Incluído pela Lei nº 15.384, de 2026)
 
-II – contra criança ou adolescente ou pessoa idosa ou com deficiência;    (Incluído pela Lei nº 15.384, de 2026)
+II – contra criança ou adolescente ou pessoa idosa ou com deficiência; (Incluído pela Lei nº 15.384, de 2026)
 
-III – em descumprimento de medida protetiva de urgência.   (Incluído pela Lei nº 15.384, de 2026)
+III – em descumprimento de medida protetiva de urgência. (Incluído pela Lei nº 15.384, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.384, de 2026.
 
@@ -4835,33 +4835,33 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO I — DOS CRIMES CONTRA A VIDA
 
-Induzimento, instigação ou auxílio a suicídio ou a automutilação           (Redação dada pela Lei nº 13.968, de 2019)
+Induzimento, instigação ou auxílio a suicídio ou a automutilação (Redação dada pela Lei nº 13.968, de 2019)
 
-Art. 122. Induzir ou instigar alguém a suicidar-se ou a praticar automutilação ou prestar-lhe auxílio material para que o faça:   (Redação dada pela Lei nº 13.968, de 2019)
+Art. 122. Induzir ou instigar alguém a suicidar-se ou a praticar automutilação ou prestar-lhe auxílio material para que o faça: (Redação dada pela Lei nº 13.968, de 2019)
 
-Pena - reclusão, de 6 (seis) meses a 2 (dois) anos.   (Redação dada pela Lei nº 13.968, de 2019)
+Pena - reclusão, de 6 (seis) meses a 2 (dois) anos. (Redação dada pela Lei nº 13.968, de 2019)
 
-§ 1º Se da automutilação ou da tentativa de suicídio resulta lesão corporal de natureza grave ou gravíssima, nos termos dos §§ 1º e 2º do art. 129 deste Código:   (Incluído pela Lei nº 13.968, de 2019)
+§ 1º Se da automutilação ou da tentativa de suicídio resulta lesão corporal de natureza grave ou gravíssima, nos termos dos §§ 1º e 2º do art. 129 deste Código: (Incluído pela Lei nº 13.968, de 2019)
 
-Pena - reclusão, de 1 (um) a 3 (três) anos.   (Incluído pela Lei nº 13.968, de 2019)
+Pena - reclusão, de 1 (um) a 3 (três) anos. (Incluído pela Lei nº 13.968, de 2019)
 
-§ 2º Se o suicídio se consuma ou se da automutilação resulta morte:    (Incluído pela Lei nº 13.968, de 2019)
+§ 2º Se o suicídio se consuma ou se da automutilação resulta morte: (Incluído pela Lei nº 13.968, de 2019)
 
-Pena - reclusão, de 2 (dois) a 6 (seis) anos.   (Incluído pela Lei nº 13.968, de 2019)
+Pena - reclusão, de 2 (dois) a 6 (seis) anos. (Incluído pela Lei nº 13.968, de 2019)
 
-§ 3º A pena é duplicada:   (Incluído pela Lei nº 13.968, de 2019)
+§ 3º A pena é duplicada: (Incluído pela Lei nº 13.968, de 2019)
 
-I - se o crime é praticado por motivo egoístico, torpe ou fútil;   (Incluído pela Lei nº 13.968, de 2019)
+I - se o crime é praticado por motivo egoístico, torpe ou fútil; (Incluído pela Lei nº 13.968, de 2019)
 
-II - se a vítima é menor ou tem diminuída, por qualquer causa, a capacidade de resistência.   (Incluído pela Lei nº 13.968, de 2019)
+II - se a vítima é menor ou tem diminuída, por qualquer causa, a capacidade de resistência. (Incluído pela Lei nº 13.968, de 2019)
 
-§ 4º A pena é aumentada até o dobro se a conduta é realizada por meio da rede de computadores, de rede social ou transmitida em tempo real.   (Incluído pela Lei nº 13.968, de 2019)
+§ 4º A pena é aumentada até o dobro se a conduta é realizada por meio da rede de computadores, de rede social ou transmitida em tempo real. (Incluído pela Lei nº 13.968, de 2019)
 
-§ 5º Aplica-se a pena em dobro se o autor é líder, coordenador ou administrador de grupo, de comunidade ou de rede virtual, ou por estes é responsável.   (Redação dada pela Lei nº 14.811, de 2024)
+§ 5º Aplica-se a pena em dobro se o autor é líder, coordenador ou administrador de grupo, de comunidade ou de rede virtual, ou por estes é responsável. (Redação dada pela Lei nº 14.811, de 2024)
 
-§ 6º Se o crime de que trata o § 1º deste artigo resulta em lesão corporal de natureza gravíssima e é cometido contra menor de 14 (quatorze) anos ou contra quem, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência, responde o agente pelo crime descrito no § 2º do art. 129 deste Código.   (Incluído pela Lei nº 13.968, de 2019)
+§ 6º Se o crime de que trata o § 1º deste artigo resulta em lesão corporal de natureza gravíssima e é cometido contra menor de 14 (quatorze) anos ou contra quem, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência, responde o agente pelo crime descrito no § 2º do art. 129 deste Código. (Incluído pela Lei nº 13.968, de 2019)
 
-§ 7º Se o crime de que trata o § 2º deste artigo é cometido contra menor de 14 (quatorze) anos ou contra quem não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência, responde o agente pelo crime de homicídio, nos termos do art. 121 deste Código.   (Incluído pela Lei nº 13.968, de 2019)
+§ 7º Se o crime de que trata o § 2º deste artigo é cometido contra menor de 14 (quatorze) anos ou contra quem não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência, responde o agente pelo crime de homicídio, nos termos do art. 121 deste Código. (Incluído pela Lei nº 13.968, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.968, de 2019; inclusão — Lei nº 13.968, de 2019; redação — Lei nº 14.811, de 2024.
 
@@ -4929,7 +4929,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Aborto provocado pela gestante ou com seu consentimento
 
-Art. 124 - Provocar aborto em si mesma ou consentir que outrem lho provoque:  (Vide ADPF 54)
+Art. 124 - Provocar aborto em si mesma ou consentir que outrem lho provoque: (Vide ADPF 54)
 
 Pena - detenção, de um a três anos.
 
@@ -4993,7 +4993,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO I — DOS CRIMES CONTRA A VIDA
 
-Art. 126 - Provocar aborto com o consentimento da gestante:   (Vide ADPF 54)
+Art. 126 - Provocar aborto com o consentimento da gestante: (Vide ADPF 54)
 
 Pena - reclusão, de um a quatro anos.
 
@@ -5028,7 +5028,7 @@ Parágrafo único. Aplica-se a pena do artigo anterior, se a gestante não é ma
 
 Forma qualificada
 
-Art. 127 - As penas cominadas nos dois artigos anteriores são aumentadas de um terço, se, em conseqüência do aborto ou dos meios empregados para provocá-lo, a gestante sofre lesão corporal de natureza grave; e são duplicadas, se, por qualquer dessas      causas, lhe sobrevém a morte.
+Art. 127 - As penas cominadas nos dois artigos anteriores são aumentadas de um terço, se, em conseqüência do aborto ou dos meios empregados para provocá-lo, a gestante sofre lesão corporal de natureza grave; e são duplicadas, se, por qualquer dessas causas, lhe sobrevém a morte.
 
 #### Interpretação
 
@@ -5055,7 +5055,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO I — DOS CRIMES CONTRA A VIDA
 
-Art. 128 - Não se pune o aborto praticado por médico:   (Vide ADPF 54)    (Vide ADPF 1207 MC/DF)
+Art. 128 - Não se pune o aborto praticado por médico: (Vide ADPF 54) (Vide ADPF 1207 MC/DF)
 
 Aborto necessário
 
@@ -5131,13 +5131,13 @@ Pena - reclusão, de dois a oito anos.
 
 Lesão corporal seguida de morte
 
-§ 3° Se resulta morte e as circunstâncias evidenciam que o agente não quís o resultado, nem assumiu o risco de produzí-lo:           (Vide Lei nº 4.611, de 1965)
+§ 3° Se resulta morte e as circunstâncias evidenciam que o agente não quís o resultado, nem assumiu o risco de produzí-lo: (Vide Lei nº 4.611, de 1965)
 
 Pena - reclusão, de quatro a doze anos.
 
-§ 3º-A. No crime previsto no § 3º deste artigo, se cometido no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil:     (Incluído pela Lei nº 15.358, de 2026)
+§ 3º-A. No crime previsto no § 3º deste artigo, se cometido no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil: (Incluído pela Lei nº 15.358, de 2026)
 
-Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos.       (Incluído pela Lei nº 15.358, de 2026)
+Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos. (Incluído pela Lei nº 15.358, de 2026)
 
 Diminuição de pena
 
@@ -5153,47 +5153,47 @@ II - se as lesões são recíprocas.
 
 Lesão corporal culposa
 
-§ 6° Se a lesão é culposa:      (Vide Lei nº 4.611, de 1965)
+§ 6° Se a lesão é culposa: (Vide Lei nº 4.611, de 1965)
 
 Pena - detenção, de dois meses a um ano.
 
 Aumento de pena
 
-§ 7o  Aumenta-se a pena de 1/3 (um terço) se ocorrer qualquer das hipóteses dos §§ 4o e 6o do art. 121 deste Código.        (Redação dada pela Lei nº 12.720, de 2012)
+§ 7o Aumenta-se a pena de 1/3 (um terço) se ocorrer qualquer das hipóteses dos §§ 4o e 6o do art. 121 deste Código. (Redação dada pela Lei nº 12.720, de 2012)
 
 § 8º - Aplica-se à lesão culposa o disposto no § 5º do art. 121.(Redação dada pela Lei nº 8.069, de 1990)
 
-§ 8º-A. Com exceção do disposto no § 3º-A deste artigo, aumenta-se a pena em 2/3 (dois terços) se a lesão é praticada por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.     (Incluído pela Lei nº 15.358, de 2026)
+§ 8º-A. Com exceção do disposto no § 3º-A deste artigo, aumenta-se a pena em 2/3 (dois terços) se a lesão é praticada por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil. (Incluído pela Lei nº 15.358, de 2026)
 
-Violência Doméstica    (Incluído pela Lei nº 10.886, de 2004)
+Violência Doméstica (Incluído pela Lei nº 10.886, de 2004)
 
-§ 9º Se a lesão for praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, pessoa com relação de trabalho doméstico ou com quem conviva ou tenha convivido, ou, ainda, prevalecendo-se o agente das relações domésticas, de trabalho doméstico, de coabitação ou de hospitalidade:   (Redação dada pela Lei nº 15.455, de 2026)
+§ 9º Se a lesão for praticada contra ascendente, descendente, irmão, cônjuge ou companheiro, pessoa com relação de trabalho doméstico ou com quem conviva ou tenha convivido, ou, ainda, prevalecendo-se o agente das relações domésticas, de trabalho doméstico, de coabitação ou de hospitalidade: (Redação dada pela Lei nº 15.455, de 2026)
 
-Pena – reclusão, de 2 (dois) a 5 (cinco) anos.      (Redação dada pela Lei nº 14.994, de 2024)
+Pena – reclusão, de 2 (dois) a 5 (cinco) anos. (Redação dada pela Lei nº 14.994, de 2024)
 
 § 10. Nos casos previstos nos §§ 1o a 3o deste artigo, se as circunstâncias são as indicadas no § 9o deste artigo, aumenta-se a pena em 1/3 (um terço). (Incluído pela Lei nº 10.886, de 2004)
 
-§ 11.  Na hipótese do § 9o deste artigo, a pena será aumentada de um terço se o crime for cometido contra pessoa portadora de deficiência. (Incluído pela Lei nº 11.340, de 2006)
+§ 11. Na hipótese do § 9o deste artigo, a pena será aumentada de um terço se o crime for cometido contra pessoa portadora de deficiência. (Incluído pela Lei nº 11.340, de 2006)
 
-§ 12. Aumenta-se a pena de:       (Redação dada pela Lei nº 15.159, de 2025)
+§ 12. Aumenta-se a pena de: (Redação dada pela Lei nº 15.159, de 2025)
 
-I - 1/3 (um terço) a 2/3 (dois terços) se a lesão dolosa for praticada:     (Redação dada pela Lei nº 15.159, de 2025)
+I - 1/3 (um terço) a 2/3 (dois terços) se a lesão dolosa for praticada: (Redação dada pela Lei nº 15.159, de 2025)
 
-a) contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal ou integrantes do sistema prisional ou da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até terceiro grau, em razão dessa condição;      (Incluído pela Lei nº 15.159, de 2025)
+a) contra autoridade ou agente descrito nos arts. 142 e 144 da Constituição Federal ou integrantes do sistema prisional ou da Força Nacional de Segurança Pública, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente consanguíneo até terceiro grau, em razão dessa condição; (Incluído pela Lei nº 15.159, de 2025)
 
-b) contra membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição; ou       (Incluído pela Lei nº 15.159, de 2025)
+b) contra membro do Poder Judiciário, do Ministério Público, da Defensoria Pública ou da Advocacia Pública, de que tratam os arts. 131 e 132 da Constituição Federal, ou oficial de justiça, no exercício da função ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição; ou (Incluído pela Lei nº 15.159, de 2025)
 
-c) nas dependências de instituição de ensino;      (Incluído pela Lei nº 15.159, de 2025)
+c) nas dependências de instituição de ensino; (Incluído pela Lei nº 15.159, de 2025)
 
-II - 2/3 (dois terços) ao dobro se a lesão dolosa for praticada nas dependências de instituição de ensino e:    (Redação dada pela Lei nº 15.159, de 2025)
+II - 2/3 (dois terços) ao dobro se a lesão dolosa for praticada nas dependências de instituição de ensino e: (Redação dada pela Lei nº 15.159, de 2025)
 
-a) a vítima for pessoa com deficiência ou com doença que acarrete condição limitante ou de vulnerabilidade física ou mental; ou     (Incluído pela Lei nº 15.159, de 2025)
+a) a vítima for pessoa com deficiência ou com doença que acarrete condição limitante ou de vulnerabilidade física ou mental; ou (Incluído pela Lei nº 15.159, de 2025)
 
-b) o autor for ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela ou, ainda, for professor ou funcionário da instituição de ensino.    (Incluído pela Lei nº 15.159, de 2025)
+b) o autor for ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela ou, ainda, for professor ou funcionário da instituição de ensino. (Incluído pela Lei nº 15.159, de 2025)
 
-§ 13. Se a lesão é praticada contra a mulher, por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código:      (Redação dada pela Lei nº 14.994, de 2024)
+§ 13. Se a lesão é praticada contra a mulher, por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código: (Redação dada pela Lei nº 14.994, de 2024)
 
-Pena – reclusão, de 2 (dois) a 5 (cinco) anos.    (Redação dada pela Lei nº 14.994, de 2024)
+Pena – reclusão, de 2 (dois) a 5 (cinco) anos. (Redação dada pela Lei nº 14.994, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.358, de 2026; redação — Lei nº 12.720, de 2012; redação — Lei nº 8.069, de 1990; inclusão — Lei nº 10.886, de 2004; redação — Lei nº 15.455, de 2026; redação — Lei nº 14.994, de 2024; inclusão — Lei nº 11.340, de 2006; redação — Lei nº 15.159, de 2025; inclusão — Lei nº 15.159, de 2025.
 
@@ -5346,15 +5346,15 @@ Abandono de incapaz
 
 Art. 133 - Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono:
 
-Pena - reclusão, de 2 (dois) a 5 (cinco) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 2 (dois) a 5 (cinco) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
 § 1º - Se do abandono resulta lesão corporal de natureza grave:
 
-Pena - reclusão, de 3 (três) a 7 (sete) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 3 (três) a 7 (sete) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
 § 2º - Se resulta a morte:
 
-Pena - reclusão, de 8 (oito) a 14 (quatorze) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 8 (oito) a 14 (quatorze) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
 Aumento de pena
 
@@ -5467,13 +5467,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO III — DA PERICLITAÇÃO DA VIDA E DA SAÚDE
 
-Condicionamento de atendimento médico-hospitalar emergencial (Incluído pela Lei nº 12.653, de 2012).
+Condicionamento de atendimento médico-hospitalar emergencial (Incluído pela Lei nº 12.653, de 2012).
 
-Art. 135-A.  Exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos, como condição para o atendimento médico-hospitalar emergencial:  (Incluído pela Lei nº 12.653, de 2012).
+Art. 135-A. Exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos, como condição para o atendimento médico-hospitalar emergencial: (Incluído pela Lei nº 12.653, de 2012).
 
-Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa. (Incluído pela Lei nº 12.653, de 2012).
+Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa. (Incluído pela Lei nº 12.653, de 2012).
 
-Parágrafo único.  A pena é aumentada até o dobro se da negativa de atendimento resulta lesão corporal de natureza grave, e até o triplo se resulta a morte. (Incluído pela Lei nº 12.653, de 2012).
+Parágrafo único. A pena é aumentada até o dobro se da negativa de atendimento resulta lesão corporal de natureza grave, e até o triplo se resulta a morte. (Incluído pela Lei nº 12.653, de 2012).
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.653, de 2012.
 
@@ -5507,17 +5507,17 @@ Maus-tratos
 
 Art. 136 - Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina:
 
-Pena - reclusão, de 2 (dois) a 5 (cinco) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 2 (dois) a 5 (cinco) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
 § 1º - Se do fato resulta lesão corporal de natureza grave:
 
-Pena - reclusão, de 3 (três) a 7 (sete) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 3 (três) a 7 (sete) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
 § 2º - Se resulta a morte:
 
-Pena - reclusão, de 8 (oito) a 14 (quatorze) anos.   (Redação dada pela Lei nº 15.163, de 2025)
+Pena - reclusão, de 8 (oito) a 14 (quatorze) anos. (Redação dada pela Lei nº 15.163, de 2025)
 
-§ 3º - Aumenta-se a pena de um terço, se o crime é praticado contra pessoa menor de 14 (catorze) anos.           (Incluído pela Lei nº 8.069, de 1990)
+§ 3º - Aumenta-se a pena de um terço, se o crime é praticado contra pessoa menor de 14 (catorze) anos. (Incluído pela Lei nº 8.069, de 1990)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.163, de 2025; inclusão — Lei nº 8.069, de 1990.
 
@@ -5685,9 +5685,9 @@ II - no caso de retorsão imediata, que consista em outra injúria.
 
 Pena - detenção, de três meses a um ano, e multa, além da pena correspondente à violência.
 
-§ 3º Se a injúria consiste na utilização de elementos referentes a religião ou à condição de pessoa idosa ou com deficiência:        (Redação dada pela Lei nº 14.532, de 2023)
+§ 3º Se a injúria consiste na utilização de elementos referentes a religião ou à condição de pessoa idosa ou com deficiência: (Redação dada pela Lei nº 14.532, de 2023)
 
-Pena - reclusão, de 1 (um) a 3 (três) anos, e multa.       (Redação dada pela Lei nº 14.532, de 2023)
+Pena - reclusão, de 1 (um) a 3 (três) anos, e multa. (Redação dada pela Lei nº 14.532, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.532, de 2023.
 
@@ -5726,17 +5726,17 @@ Art. 141 - As penas cominadas neste Capítulo aumentam-se de um terço, se qualq
 
 I - contra o Presidente da República, ou contra chefe de governo estrangeiro;
 
-II - contra funcionário público, em razão de suas funções, ou contra os Presidentes do Senado Federal, da Câmara dos Deputados ou do Supremo Tribunal Federal;        (Redação dada pela Lei nº 14.197, de 2021)        (Vigência)
+II - contra funcionário público, em razão de suas funções, ou contra os Presidentes do Senado Federal, da Câmara dos Deputados ou do Supremo Tribunal Federal; (Redação dada pela Lei nº 14.197, de 2021) (Vigência)
 
 III - na presença de várias pessoas, ou por meio que facilite a divulgação da calúnia, da difamação ou da injúria.
 
-IV - contra criança, adolescente, pessoa maior de 60 (sessenta) anos ou pessoa com deficiência, exceto na hipótese prevista no § 3º do art. 140 deste Código.      (Redação dada pela Lei nº 14.344, de 2022)     Vigência
+IV - contra criança, adolescente, pessoa maior de 60 (sessenta) anos ou pessoa com deficiência, exceto na hipótese prevista no § 3º do art. 140 deste Código. (Redação dada pela Lei nº 14.344, de 2022) Vigência
 
-§ 1º - Se o crime é cometido mediante paga ou promessa de recompensa, aplica-se a pena em dobro.              (Redação dada pela Lei nº 13.964, de 2019)
+§ 1º - Se o crime é cometido mediante paga ou promessa de recompensa, aplica-se a pena em dobro. (Redação dada pela Lei nº 13.964, de 2019)
 
-§ 2º Se o crime é cometido ou divulgado em quaisquer modalidades das redes sociais da rede mundial de computadores, aplica-se em triplo a pena.        (Incluído pela Lei nº 13.964, de 2019)       (Vigência)
+§ 2º Se o crime é cometido ou divulgado em quaisquer modalidades das redes sociais da rede mundial de computadores, aplica-se em triplo a pena. (Incluído pela Lei nº 13.964, de 2019) (Vigência)
 
-§ 3º Se o crime é cometido contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, aplica-se a pena em dobro.     (Incluído pela Lei nº 14.994, de 2024)
+§ 3º Se o crime é cometido contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, aplica-se a pena em dobro. (Incluído pela Lei nº 14.994, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.197, de 2021; redação — Lei nº 14.344, de 2022; redação — Lei nº 13.964, de 2019; inclusão — Lei nº 13.964, de 2019; inclusão — Lei nº 14.994, de 2024.
 
@@ -5813,7 +5813,7 @@ Retratação
 
 Art. 143 - O querelado que, antes da sentença, se retrata cabalmente da calúnia ou da difamação, fica isento de pena.
 
-Parágrafo único.  Nos casos em que o querelado tenha praticado a calúnia ou a difamação utilizando-se de meios de comunicação, a retratação dar-se-á, se assim desejar o ofendido, pelos mesmos meios em que se praticou a ofensa.      (Incluído pela Lei nº 13.188, de 2015)
+Parágrafo único. Nos casos em que o querelado tenha praticado a calúnia ou a difamação utilizando-se de meios de comunicação, a retratação dar-se-á, se assim desejar o ofendido, pelos mesmos meios em que se praticou a ofensa. (Incluído pela Lei nº 13.188, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.188, de 2015.
 
@@ -5874,7 +5874,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 145 - Nos crimes previstos neste Capítulo somente se procede mediante queixa, salvo quando, no caso do art. 140, § 2º, da violência resulta lesão corporal.
 
-Parágrafo único.  Procede-se mediante requisição do Ministro da Justiça, no caso do inciso I do caput do art. 141 deste Código, e mediante representação do ofendido, no caso do inciso II do mesmo artigo, bem como no caso do § 3o do art. 140 deste Código.       (Redação dada pela Lei nº 12.033.  de 2009)
+Parágrafo único. Procede-se mediante requisição do Ministro da Justiça, no caso do inciso I do caput do art. 141 deste Código, e mediante representação do ofendido, no caso do inciso II do mesmo artigo, bem como no caso do § 3o do art. 140 deste Código. (Redação dada pela Lei nº 12.033. de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.033..
 
@@ -5956,15 +5956,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Intimidação sistemática (bullying)
 
-Art. 146-A. Intimidar sistematicamente, individualmente ou em grupo, mediante violência física ou psicológica, uma ou mais pessoas, de modo intencional e repetitivo, sem motivação evidente, por meio de atos de intimidação, de humilhação ou de discriminação ou de ações verbais, morais, sexuais, sociais, psicológicas, físicas, materiais ou virtuais:   (Incluído pela Lei nº 14.811, de 2024)
+Art. 146-A. Intimidar sistematicamente, individualmente ou em grupo, mediante violência física ou psicológica, uma ou mais pessoas, de modo intencional e repetitivo, sem motivação evidente, por meio de atos de intimidação, de humilhação ou de discriminação ou de ações verbais, morais, sexuais, sociais, psicológicas, físicas, materiais ou virtuais: (Incluído pela Lei nº 14.811, de 2024)
 
-Pena - multa, se a conduta não constituir crime mais grave.   (Incluído pela Lei nº 14.811, de 2024)
+Pena - multa, se a conduta não constituir crime mais grave. (Incluído pela Lei nº 14.811, de 2024)
 
-Intimidação sistemática virtual (cyberbullying)   (Incluído pela Lei nº 14.811, de 2024)
+Intimidação sistemática virtual (cyberbullying) (Incluído pela Lei nº 14.811, de 2024)
 
-Parágrafo único. Se a conduta é realizada por meio da rede de computadores, de rede social, de aplicativos, de jogos on-line ou por qualquer outro meio ou ambiente digital, ou transmitida em tempo real:   (Incluído pela Lei nº 14.811, de 2024)
+Parágrafo único. Se a conduta é realizada por meio da rede de computadores, de rede social, de aplicativos, de jogos on-line ou por qualquer outro meio ou ambiente digital, ou transmitida em tempo real: (Incluído pela Lei nº 14.811, de 2024)
 
-Pena - reclusão, de 2 (dois) anos a 4 (quatro) anos, e multa, se a conduta não constituir crime mais grave.   (Incluído pela Lei nº 14.811, de 2024)
+Pena - reclusão, de 2 (dois) anos a 4 (quatro) anos, e multa, se a conduta não constituir crime mais grave. (Incluído pela Lei nº 14.811, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.811, de 2024.
 
@@ -6001,9 +6001,9 @@ Art. 147 - Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro me
 
 Pena - detenção, de um a seis meses, ou multa.
 
-§ 1º Se o crime é cometido contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, aplica-se a pena em dobro.     (Incluído pela Lei nº 14.994, de 2024)
+§ 1º Se o crime é cometido contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A deste Código, aplica-se a pena em dobro. (Incluído pela Lei nº 14.994, de 2024)
 
-§ 2º Somente se procede mediante representação, exceto na hipótese prevista no § 1º deste artigo.    (Incluído pela Lei nº 14.994, de 2024)
+§ 2º Somente se procede mediante representação, exceto na hipótese prevista no § 1º deste artigo. (Incluído pela Lei nº 14.994, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.994, de 2024.
 
@@ -6038,21 +6038,21 @@ Ameaça é prometer a alguém, por palavra, escrito, gesto ou outro meio, mal in
 
 Perseguição
 
-Art. 147-A.  Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade.       (Incluído pela Lei nº 14.132, de 2021)
+Art. 147-A. Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade. (Incluído pela Lei nº 14.132, de 2021)
 
-Pena – reclusão, de 6 (seis) meses a 2 (dois) anos, e multa.       (Incluído pela Lei nº 14.132, de 2021)
+Pena – reclusão, de 6 (seis) meses a 2 (dois) anos, e multa. (Incluído pela Lei nº 14.132, de 2021)
 
-§ 1º A pena é aumentada de metade se o crime é cometido:        (Incluído pela Lei nº 14.132, de 2021)
+§ 1º A pena é aumentada de metade se o crime é cometido: (Incluído pela Lei nº 14.132, de 2021)
 
-I – contra criança, adolescente ou idoso;      (Incluído pela Lei nº 14.132, de 2021)
+I – contra criança, adolescente ou idoso; (Incluído pela Lei nº 14.132, de 2021)
 
-II – contra mulher por razões da condição de sexo feminino, nos termos do § 2º-A do art. 121 deste Código;       (Incluído pela Lei nº 14.132, de 2021)
+II – contra mulher por razões da condição de sexo feminino, nos termos do § 2º-A do art. 121 deste Código; (Incluído pela Lei nº 14.132, de 2021)
 
-III – mediante concurso de 2 (duas) ou mais pessoas ou com o emprego de arma.        (Incluído pela Lei nº 14.132, de 2021)
+III – mediante concurso de 2 (duas) ou mais pessoas ou com o emprego de arma. (Incluído pela Lei nº 14.132, de 2021)
 
-§ 2º  As penas deste artigo são aplicáveis sem prejuízo das correspondentes à violência.       (Incluído pela Lei nº 14.132, de 2021)
+§ 2º As penas deste artigo são aplicáveis sem prejuízo das correspondentes à violência. (Incluído pela Lei nº 14.132, de 2021)
 
-§ 3º  Somente se procede mediante representação.      (Incluído pela Lei nº 14.132, de 2021)
+§ 3º Somente se procede mediante representação. (Incluído pela Lei nº 14.132, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.132, de 2021.
 
@@ -6085,13 +6085,13 @@ Incluído pela Lei nº 14.132/2021, o crime de perseguição (stalking) é perse
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO VI — DOS CRIMES CONTRA A LIBERDADE INDIVIDUAL › SEÇÃO I — DOS CRIMES CONTRA A LIBERDADE PESSOAL
 
-Violência psicológica contra a mulher   (Incluído pela Lei nº 14.188, de 2021)
+Violência psicológica contra a mulher (Incluído pela Lei nº 14.188, de 2021)
 
-Art. 147-B.  Causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação:     (Incluído pela Lei nº 14.188, de 2021)
+Art. 147-B. Causar dano emocional à mulher que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que cause prejuízo à sua saúde psicológica e autodeterminação: (Incluído pela Lei nº 14.188, de 2021)
 
-Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa, se a conduta não constitui crime mais grave.    (Incluído pela Lei nº 14.188, de 2021)
+Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa, se a conduta não constitui crime mais grave. (Incluído pela Lei nº 14.188, de 2021)
 
-Parágrafo único. A pena é aumentada de metade se o crime é cometido mediante uso de inteligência artificial ou de qualquer outro recurso tecnológico que altere imagem ou som da vítima.    (Incluído pela Lei nº 15.123, de 2025)
+Parágrafo único. A pena é aumentada de metade se o crime é cometido mediante uso de inteligência artificial ou de qualquer outro recurso tecnológico que altere imagem ou som da vítima. (Incluído pela Lei nº 15.123, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.188, de 2021; inclusão — Lei nº 15.123, de 2025.
 
@@ -6122,9 +6122,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO VI — DOS CRIMES CONTRA A LIBERDADE INDIVIDUAL › SEÇÃO I — DOS CRIMES CONTRA A LIBERDADE PESSOAL
 
-Art. 147-C. Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil:     (Incluído pela Lei nº 15.358, de 2026)
+Art. 147-C. Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil: (Incluído pela Lei nº 15.358, de 2026)
 
-Pena - reclusão, de 1 (um) a 3 (três) anos.    (Incluído pela Lei nº 15.358, de 2026)
+Pena - reclusão, de 1 (um) a 3 (três) anos. (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.358, de 2026.
 
@@ -6158,29 +6158,29 @@ Incluído pela Lei nº 15.358/2026, o artigo pune com reclusão de 1 a 3 anos a 
 
 Seqüestro e cárcere privado
 
-Art. 148 - Privar alguém de sua liberdade, mediante seqüestro ou cárcere privado:         (Vide Lei nº 10.446, de 2002)
+Art. 148 - Privar alguém de sua liberdade, mediante seqüestro ou cárcere privado: (Vide Lei nº 10.446, de 2002)
 
 Pena - reclusão, de um a três anos.
 
 § 1º - A pena é de reclusão, de dois a cinco anos:
 
-I – se a vítima é ascendente, descendente, cônjuge ou companheiro do agente ou maior de 60 (sessenta) anos;         (Redação dada pela Lei nº 11.106, de 2005)
+I – se a vítima é ascendente, descendente, cônjuge ou companheiro do agente ou maior de 60 (sessenta) anos; (Redação dada pela Lei nº 11.106, de 2005)
 
 II - se o crime é praticado mediante internação da vítima em casa de saúde ou hospital;
 
 III - se a privação da liberdade dura mais de quinze dias.
 
-IV – se o crime é praticado contra menor de 18 (dezoito) anos;          (Incluído pela Lei nº 11.106, de 2005)
+IV – se o crime é praticado contra menor de 18 (dezoito) anos; (Incluído pela Lei nº 11.106, de 2005)
 
-V – se o crime é praticado com fins libidinosos.          (Incluído pela Lei nº 11.106, de 2005)
+V – se o crime é praticado com fins libidinosos. (Incluído pela Lei nº 11.106, de 2005)
 
 § 2º - Se resulta à vítima, em razão de maus-tratos ou da natureza da detenção, grave sofrimento físico ou moral:
 
 Pena - reclusão, de dois a oito anos.
 
-§ 3º Se cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil:    (Incluído pela Lei nº 15.358, de 2026)
+§ 3º Se cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil: (Incluído pela Lei nº 15.358, de 2026)
 
-Pena - reclusão, de 12 (doze) a 20 (vinte) anos.    (Incluído pela Lei nº 15.358, de 2026)
+Pena - reclusão, de 12 (doze) a 20 (vinte) anos. (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.106, de 2005; inclusão — Lei nº 11.106, de 2005; inclusão — Lei nº 15.358, de 2026.
 
@@ -6220,21 +6220,21 @@ Sequestro e cárcere privado é privar alguém da liberdade (reclusão de 1 a 3 
 
 Redução a condição análoga à de escravo
 
-Art. 149. Reduzir alguém a condição análoga à de escravo, quer submetendo-o a trabalhos forçados ou a jornada exaustiva, quer sujeitando-o a condições degradantes de trabalho, quer restringindo, por qualquer meio, sua locomoção em razão de dívida contraída com o empregador ou preposto:        (Redação dada pela Lei nº 10.803, de 11.12.2003)
+Art. 149. Reduzir alguém a condição análoga à de escravo, quer submetendo-o a trabalhos forçados ou a jornada exaustiva, quer sujeitando-o a condições degradantes de trabalho, quer restringindo, por qualquer meio, sua locomoção em razão de dívida contraída com o empregador ou preposto: (Redação dada pela Lei nº 10.803, de 11.12.2003)
 
-Pena - reclusão, de dois a oito anos, e multa, além da pena correspondente à violência.        (Redação dada pela Lei nº 10.803, de 11.12.2003)
+Pena - reclusão, de dois a oito anos, e multa, além da pena correspondente à violência. (Redação dada pela Lei nº 10.803, de 11.12.2003)
 
-§ 1o Nas mesmas penas incorre quem:          (Incluído pela Lei nº 10.803, de 11.12.2003)
+§ 1o Nas mesmas penas incorre quem: (Incluído pela Lei nº 10.803, de 11.12.2003)
 
-I – cerceia o uso de qualquer meio de transporte por parte do trabalhador, com o fim de retê-lo no local de trabalho;         (Incluído pela Lei nº 10.803, de 11.12.2003)
+I – cerceia o uso de qualquer meio de transporte por parte do trabalhador, com o fim de retê-lo no local de trabalho; (Incluído pela Lei nº 10.803, de 11.12.2003)
 
-II – mantém vigilância ostensiva no local de trabalho ou se apodera de documentos ou objetos pessoais do trabalhador, com o fim de retê-lo no local de trabalho.        (Incluído pela Lei nº 10.803, de 11.12.2003)
+II – mantém vigilância ostensiva no local de trabalho ou se apodera de documentos ou objetos pessoais do trabalhador, com o fim de retê-lo no local de trabalho. (Incluído pela Lei nº 10.803, de 11.12.2003)
 
-§ 2o A pena é aumentada de metade, se o crime é cometido:        (Incluído pela Lei nº 10.803, de 11.12.2003)
+§ 2o A pena é aumentada de metade, se o crime é cometido: (Incluído pela Lei nº 10.803, de 11.12.2003)
 
-I – contra criança ou adolescente;          (Incluído pela Lei nº 10.803, de 11.12.2003)
+I – contra criança ou adolescente; (Incluído pela Lei nº 10.803, de 11.12.2003)
 
-II – por motivo de preconceito de raça, cor, etnia, religião ou origem.          (Incluído pela Lei nº 10.803, de 11.12.2003)
+II – por motivo de preconceito de raça, cor, etnia, religião ou origem. (Incluído pela Lei nº 10.803, de 11.12.2003)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.803, de 11.12.2003; inclusão — Lei nº 10.803, de 11.12.2003.
 
@@ -6266,33 +6266,33 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO VI — DOS CRIMES CONTRA A LIBERDADE INDIVIDUAL › SEÇÃO I — DOS CRIMES CONTRA A LIBERDADE PESSOAL
 
-Tráfico de Pessoas               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+Tráfico de Pessoas (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-Art. 149-A.  Agenciar, aliciar, recrutar, transportar, transferir, comprar, alojar ou acolher pessoa, mediante grave ameaça, violência, coação, fraude ou abuso, com a finalidade de:              (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+Art. 149-A. Agenciar, aliciar, recrutar, transportar, transferir, comprar, alojar ou acolher pessoa, mediante grave ameaça, violência, coação, fraude ou abuso, com a finalidade de: (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-I - remover-lhe órgãos, tecidos ou partes do corpo;               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+I - remover-lhe órgãos, tecidos ou partes do corpo; (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-II - submetê-la a trabalho em condições análogas à de escravo;               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+II - submetê-la a trabalho em condições análogas à de escravo; (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-III - submetê-la a qualquer tipo de servidão;               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+III - submetê-la a qualquer tipo de servidão; (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-IV - adoção ilegal; ou               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+IV - adoção ilegal; ou (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-V - exploração sexual.               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+V - exploração sexual. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-§ 1o A pena é aumentada de um terço até a metade se:               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+§ 1o A pena é aumentada de um terço até a metade se: (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-I - o crime for cometido por funcionário público no exercício de suas funções ou a pretexto de exercê-las;               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+I - o crime for cometido por funcionário público no exercício de suas funções ou a pretexto de exercê-las; (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-II - o crime for cometido contra criança, adolescente ou pessoa idosa ou com deficiência;               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+II - o crime for cometido contra criança, adolescente ou pessoa idosa ou com deficiência; (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-III - o agente se prevalecer de relações de parentesco, domésticas, de coabitação, de hospitalidade, de dependência econômica, de autoridade ou de superioridade hierárquica inerente ao exercício de emprego, cargo ou função; ou               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+III - o agente se prevalecer de relações de parentesco, domésticas, de coabitação, de hospitalidade, de dependência econômica, de autoridade ou de superioridade hierárquica inerente ao exercício de emprego, cargo ou função; ou (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-IV - a vítima do tráfico de pessoas for retirada do território nacional.               (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+IV - a vítima do tráfico de pessoas for retirada do território nacional. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
-§ 2o A pena é reduzida de um a dois terços se o agente for primário e não integrar organização criminosa.              (Incluído pela Lei nº 13.344, de 2016)          (Vigência)
+§ 2o A pena é reduzida de um a dois terços se o agente for primário e não integrar organização criminosa. (Incluído pela Lei nº 13.344, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.344, de 2016.
 
@@ -6334,7 +6334,7 @@ Pena - detenção, de um a três meses, ou multa.
 
 Pena - detenção, de seis meses a dois anos, além da pena correspondente à violência.
 
-§ 2º -  (Revogado pela Lei nº 13.869, de 2019)      (Vigência)
+§ 2º - (Revogado pela Lei nº 13.869, de 2019) (Vigência)
 
 § 3º - Não constitui crime a entrada ou permanência em casa alheia ou em suas dependências:
 
@@ -6478,7 +6478,7 @@ Divulgação de segredo
 
 Art. 153 - Divulgar alguém, sem justa causa, conteúdo de documento particular ou de correspondência confidencial, de que é destinatário ou detentor, e cuja divulgação possa produzir dano a outrem:
 
-Pena - detenção, de um a seis meses, ou multa, de trezentos mil réis a dois contos de réis.   (Vide Lei nº 7.209, de 1984)
+Pena - detenção, de um a seis meses, ou multa, de trezentos mil réis a dois contos de réis. (Vide Lei nº 7.209, de 1984)
 
 § 1º Somente se procede mediante representação. (Parágrafo único renumerado pela Lei nº 9.983, de 2000)
 
@@ -6523,7 +6523,7 @@ Violação do segredo profissional
 
 Art. 154 - Revelar alguém, sem justa causa, segredo, de que tem ciência em razão de função, ministério, ofício ou profissão, e cuja revelação possa produzir dano a outrem:
 
-Pena - detenção, de três meses a um ano, ou multa de um conto a dez contos de réis.   (Vide Lei nº 7.209, de 1984)
+Pena - detenção, de três meses a um ano, ou multa de um conto a dez contos de réis. (Vide Lei nº 7.209, de 1984)
 
 Parágrafo único - Somente se procede mediante representação.
 
@@ -6555,31 +6555,31 @@ Parágrafo único - Somente se procede mediante representação.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO VI — DOS CRIMES CONTRA A LIBERDADE INDIVIDUAL › SEÇÃO IV — DOS CRIMES CONTRA A INVIOLABILIDADE DOS SEGREDOS
 
-Invasão de dispositivo informático  (Incluído pela Lei nº 12.737, de 2012)      Vigência
+Invasão de dispositivo informático (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-Art. 154-A. Invadir dispositivo informático de uso alheio, conectado ou não à rede de computadores, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do usuário do dispositivo ou de instalar vulnerabilidades para obter vantagem ilícita:      (Redação dada pela Lei nº 14.155, de 2021)
+Art. 154-A. Invadir dispositivo informático de uso alheio, conectado ou não à rede de computadores, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do usuário do dispositivo ou de instalar vulnerabilidades para obter vantagem ilícita: (Redação dada pela Lei nº 14.155, de 2021)
 
-Pena – reclusão, de 1 (um) a 4 (quatro) anos, e multa.     (Redação dada pela Lei nº 14.155, de 2021)
+Pena – reclusão, de 1 (um) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 14.155, de 2021)
 
-§ 1o  Na mesma pena incorre quem produz, oferece, distribui, vende ou difunde dispositivo ou programa de computador com o intuito de permitir a prática da conduta definida no caput.        (Incluído pela Lei nº 12.737, de 2012)     Vigência
+§ 1o Na mesma pena incorre quem produz, oferece, distribui, vende ou difunde dispositivo ou programa de computador com o intuito de permitir a prática da conduta definida no caput. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-§ 2º Aumenta-se a pena de 1/3 (um terço) a 2/3 (dois terços) se da invasão resulta prejuízo econômico.       (Redação dada pela Lei nº 14.155, de 2021)
+§ 2º Aumenta-se a pena de 1/3 (um terço) a 2/3 (dois terços) se da invasão resulta prejuízo econômico. (Redação dada pela Lei nº 14.155, de 2021)
 
-§ 3o  Se da invasão resultar a obtenção de conteúdo de comunicações eletrônicas privadas, segredos comerciais ou industriais, informações sigilosas, assim definidas em lei, ou o controle remoto não autorizado do dispositivo invadido:        (Incluído pela Lei nº 12.737, de 2012)     Vigência
+§ 3o Se da invasão resultar a obtenção de conteúdo de comunicações eletrônicas privadas, segredos comerciais ou industriais, informações sigilosas, assim definidas em lei, ou o controle remoto não autorizado do dispositivo invadido: (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.      (Redação dada pela Lei nº 14.155, de 2021)
+Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 14.155, de 2021)
 
-§ 4o  Na hipótese do § 3o, aumenta-se a pena de um a dois terços se houver divulgação, comercialização ou transmissão a terceiro, a qualquer título, dos dados ou informações obtidos.        (Incluído pela Lei nº 12.737, de 2012)    Vigência
+§ 4o Na hipótese do § 3o, aumenta-se a pena de um a dois terços se houver divulgação, comercialização ou transmissão a terceiro, a qualquer título, dos dados ou informações obtidos. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-§ 5o  Aumenta-se a pena de um terço à metade se o crime for praticado contra:        (Incluído pela Lei nº 12.737, de 2012)     Vigência
+§ 5o Aumenta-se a pena de um terço à metade se o crime for praticado contra: (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-I - Presidente da República, governadores e prefeitos;        (Incluído pela Lei nº 12.737, de 2012)      Vigência
+I - Presidente da República, governadores e prefeitos; (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-II - Presidente do Supremo Tribunal Federal;        (Incluído pela Lei nº 12.737, de 2012)     Vigência
+II - Presidente do Supremo Tribunal Federal; (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-III - Presidente da Câmara dos Deputados, do Senado Federal, de Assembleia Legislativa de Estado, da Câmara Legislativa do Distrito Federal ou de Câmara Municipal; ou        (Incluído pela Lei nº 12.737, de 2012) Vigência
+III - Presidente da Câmara dos Deputados, do Senado Federal, de Assembleia Legislativa de Estado, da Câmara Legislativa do Distrito Federal ou de Câmara Municipal; ou (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-IV - dirigente máximo da administração direta e indireta federal, estadual, municipal ou do Distrito Federal.      (Incluído pela Lei nº 12.737, de 2012)    Vigência
+IV - dirigente máximo da administração direta e indireta federal, estadual, municipal ou do Distrito Federal. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.737, de 2012; redação — Lei nº 14.155, de 2021.
 
@@ -6611,9 +6611,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO I — DOS CRIMES CONTRA A PESSOA › CAPÍTULO VI — DOS CRIMES CONTRA A LIBERDADE INDIVIDUAL › SEÇÃO IV — DOS CRIMES CONTRA A INVIOLABILIDADE DOS SEGREDOS
 
-Ação penal       (Incluído pela Lei nº 12.737, de 2012)     Vigência
+Ação penal (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-Art. 154-B.  Nos crimes definidos no art. 154-A, somente se procede mediante representação, salvo se o crime é cometido contra a administração pública direta ou indireta de qualquer dos Poderes da União, Estados, Distrito Federal ou Municípios ou contra empresas concessionárias de serviços públicos.      (Incluído pela Lei nº 12.737, de 2012)      Vigência
+Art. 154-B. Nos crimes definidos no art. 154-A, somente se procede mediante representação, salvo se o crime é cometido contra a administração pública direta ou indireta de qualquer dos Poderes da União, Estados, Distrito Federal ou Municípios ou contra empresas concessionárias de serviços públicos. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.737, de 2012.
 
@@ -6648,9 +6648,9 @@ Furto
 
 Art. 155 - Subtrair, para si ou para outrem, coisa alheia móvel:
 
-Pena – reclusão, de 1 (um) a 6 (seis) anos, e multa.   (Redação dada pela Lei nº 15.397, de 2026)
+Pena – reclusão, de 1 (um) a 6 (seis) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 1º A pena aumenta-se de metade, se o crime é praticado durante o repouso noturno.   (Redação dada pela Lei nº 15.397, de 2026)
+§ 1º A pena aumenta-se de metade, se o crime é praticado durante o repouso noturno. (Redação dada pela Lei nº 15.397, de 2026)
 
 § 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa.
 
@@ -6658,7 +6658,7 @@ Pena – reclusão, de 1 (um) a 6 (seis) anos, e multa.   (Redação dada pela
 
 Furto qualificado
 
-§ 4º A pena é de reclusão, de 2 (dois) a 8 (oito) anos, e multa, se o crime é cometido:   (Redação dada pela Lei nº 15.397, de 2026)
+§ 4º A pena é de reclusão, de 2 (dois) a 8 (oito) anos, e multa, se o crime é cometido: (Redação dada pela Lei nº 15.397, de 2026)
 
 I - com destruição ou rompimento de obstáculo à subtração da coisa;
 
@@ -6668,61 +6668,61 @@ III - com emprego de chave falsa;
 
 IV - mediante concurso de duas ou mais pessoas.
 
-V – contra quaisquer bens que comprometam o funcionamento de órgãos da União, de Estado, do Distrito Federal ou de Município ou de estabelecimentos públicos ou privados que prestem serviços essenciais.   (Redação dada pela Lei nº 15.397, de 2026)
+V – contra quaisquer bens que comprometam o funcionamento de órgãos da União, de Estado, do Distrito Federal ou de Município ou de estabelecimentos públicos ou privados que prestem serviços essenciais. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 4º-A A pena é de reclusão de 4 (quatro) a 10 (dez) anos e multa, se houver emprego de explosivo ou de artefato análogo que cause perigo comum.                 (Incluído pela Lei nº 13.654, de 2018)
+§ 4º-A A pena é de reclusão de 4 (quatro) a 10 (dez) anos e multa, se houver emprego de explosivo ou de artefato análogo que cause perigo comum. (Incluído pela Lei nº 13.654, de 2018)
 
-§ 4º-B. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se o furto mediante fraude é cometido por meio de dispositivo eletrônico ou informático, conectado ou não à rede de computadores, com ou sem a violação de mecanismo de segurança ou a utilização de programa malicioso, ou por qualquer outro meio fraudulento análogo.   (Redação dada pela Lei nº 15.397, de 2026)
+§ 4º-B. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se o furto mediante fraude é cometido por meio de dispositivo eletrônico ou informático, conectado ou não à rede de computadores, com ou sem a violação de mecanismo de segurança ou a utilização de programa malicioso, ou por qualquer outro meio fraudulento análogo. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 4º-C. A pena prevista no § 4º-B deste artigo, considerada a relevância do resultado gravoso:      (Incluído pela Lei nº 14.155, de 2021)
+§ 4º-C. A pena prevista no § 4º-B deste artigo, considerada a relevância do resultado gravoso: (Incluído pela Lei nº 14.155, de 2021)
 
-I – aumenta-se de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado mediante a utilização de servidor mantido fora do território nacional;      (Incluído pela Lei nº 14.155, de 2021)
+I – aumenta-se de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado mediante a utilização de servidor mantido fora do território nacional; (Incluído pela Lei nº 14.155, de 2021)
 
-II – aumenta-se de 1/3 (um terço) ao dobro, se o crime é praticado contra idoso ou vulnerável.   (Incluído pela Lei nº 14.155, de 2021)
+II – aumenta-se de 1/3 (um terço) ao dobro, se o crime é praticado contra idoso ou vulnerável. (Incluído pela Lei nº 14.155, de 2021)
 
-§ 5º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior.   (Redação dada pela Lei nº 15.397, de 2026)
+§ 5º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 6º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for:   (Redação dada pela Lei nº 15.397, de 2026)
+§ 6º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for: (Redação dada pela Lei nº 15.397, de 2026)
 
-I – de semovente domesticável de produção, ainda que abatido ou dividido em partes no local da subtração, ou de animal doméstico;   (Redação dada pela Lei nº 15.397, de 2026)
+I – de semovente domesticável de produção, ainda que abatido ou dividido em partes no local da subtração, ou de animal doméstico; (Redação dada pela Lei nº 15.397, de 2026)
 
-II – de aparelho de telefonia celular, de computador, inclusive portátil ou do tipo prancheta, ou de qualquer dispositivo eletrônico ou informático semelhante.    (Redação dada pela Lei nº 15.397, de 2026)
+II – de aparelho de telefonia celular, de computador, inclusive portátil ou do tipo prancheta, ou de qualquer dispositivo eletrônico ou informático semelhante. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 7º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for:   (Redação dada pela Lei nº 15.397, de 2026)
+§ 7º A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for: (Redação dada pela Lei nº 15.397, de 2026)
 
-I – de substâncias explosivas ou de acessórios que, conjunta ou isoladamente, possibilitem sua fabricação, montagem ou emprego;    (Incluído pela Lei nº 15.397, de 2026)
+I – de substâncias explosivas ou de acessórios que, conjunta ou isoladamente, possibilitem sua fabricação, montagem ou emprego; (Incluído pela Lei nº 15.397, de 2026)
 
-II – de arma de fogo.     (Incluído pela Lei nº 15.397, de 2026)
+II – de arma de fogo. (Incluído pela Lei nº 15.397, de 2026)
 
-§ 8º A pena é de reclusão, de 2 (dois) a 8 (oito) anos, e multa, se a subtração for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados, bem como equipamentos ou materiais ferroviários ou metroviários, aplicável, em qualquer caso, o disposto no § 2º deste artigo.     (Redação dada pela Lei nº 15.397, de 2026)
+§ 8º A pena é de reclusão, de 2 (dois) a 8 (oito) anos, e multa, se a subtração for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados, bem como equipamentos ou materiais ferroviários ou metroviários, aplicável, em qualquer caso, o disposto no § 2º deste artigo. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 9º A pena é de reclusão de 4 (quatro) a 10 (dez) anos e multa, se a subtração, para si ou para outrem, de coisa alheia móvel é cometida por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil.      (Incluído pela Lei nº 15.358, de 2026)
+§ 9º A pena é de reclusão de 4 (quatro) a 10 (dez) anos e multa, se a subtração, para si ou para outrem, de coisa alheia móvel é cometida por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil. (Incluído pela Lei nº 15.358, de 2026)
 
-§ 10. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.   (Incluído pela Lei nº 15.517, de 2026)
+§ 10. A pena é de reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal. (Incluído pela Lei nº 15.517, de 2026)
 
-§ 11. Na hipótese do § 10 deste artigo, a pena é aumentada de 1/3 (um terço), se o crime é praticado:   (Incluído pela Lei nº 15.517, de 2026)
+§ 11. Na hipótese do § 10 deste artigo, a pena é aumentada de 1/3 (um terço), se o crime é praticado: (Incluído pela Lei nº 15.517, de 2026)
 
-I – com destruição, rompimento de obstáculo à subtração da coisa ou dano de qualquer natureza;   (Incluído pela Lei nº 15.517, de 2026)
+I – com destruição, rompimento de obstáculo à subtração da coisa ou dano de qualquer natureza; (Incluído pela Lei nº 15.517, de 2026)
 
-II – mediante o concurso de 2 (duas) ou mais pessoas;   (Incluído pela Lei nº 15.517, de 2026)
+II – mediante o concurso de 2 (duas) ou mais pessoas; (Incluído pela Lei nº 15.517, de 2026)
 
-III – com abuso de confiança ou valendo-se de vínculo atual ou passado com o ente lesado; ou   (Incluído pela Lei nº 15.517, de 2026)
+III – com abuso de confiança ou valendo-se de vínculo atual ou passado com o ente lesado; ou (Incluído pela Lei nº 15.517, de 2026)
 
-IV – por ocupante de cargo, de emprego ou de função pública.   (Incluído pela Lei nº 15.517, de 2026)
+IV – por ocupante de cargo, de emprego ou de função pública. (Incluído pela Lei nº 15.517, de 2026)
 
-§ 12. Na hipótese do § 10 deste artigo, a pena é aumentada de 2/3 (dois terços) se do crime resulta:   (Incluído pela Lei nº 15.517, de 2026)
+§ 12. Na hipótese do § 10 deste artigo, a pena é aumentada de 2/3 (dois terços) se do crime resulta: (Incluído pela Lei nº 15.517, de 2026)
 
-I – suspensão ou paralisação das atividades do estabelecimento;   (Incluído pela Lei nº 15.517, de 2026)
+I – suspensão ou paralisação das atividades do estabelecimento; (Incluído pela Lei nº 15.517, de 2026)
 
-II – desabastecimento;   (Incluído pela Lei nº 15.517, de 2026)
+II – desabastecimento; (Incluído pela Lei nº 15.517, de 2026)
 
-III – incêndio;   (Incluído pela Lei nº 15.517, de 2026)
+III – incêndio; (Incluído pela Lei nº 15.517, de 2026)
 
-IV – poluição efetiva ou potencial ao meio ambiente;   (Incluído pela Lei nº 15.517, de 2026)
+IV – poluição efetiva ou potencial ao meio ambiente; (Incluído pela Lei nº 15.517, de 2026)
 
-V – lesão corporal grave; ou   (Incluído pela Lei nº 15.517, de 2026)
+V – lesão corporal grave; ou (Incluído pela Lei nº 15.517, de 2026)
 
-VI – morte.   (Incluído pela Lei nº 15.517, de 2026)
+VI – morte. (Incluído pela Lei nº 15.517, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.397, de 2026; inclusão — Lei nº 13.654, de 2018; inclusão — Lei nº 14.155, de 2021; inclusão — Lei nº 15.397, de 2026; inclusão — Lei nº 15.358, de 2026; inclusão — Lei nº 15.517, de 2026.
 
@@ -6798,67 +6798,67 @@ Roubo
 
 Art. 157 - Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência:
 
-Pena – reclusão, de 6 (seis) a 10 (dez) anos, e multa.   (Redação dada pela Lei nº 15.397, de 2026)
+Pena – reclusão, de 6 (seis) a 10 (dez) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
 § 1º - Na mesma pena incorre quem, logo depois de subtraída a coisa, emprega violência contra pessoa ou grave ameaça, a fim de assegurar a impunidade do crime ou a detenção da coisa para si ou para terceiro.
 
-§ 1º-A. A pena é de reclusão, de 6 (seis) a 12 (doze) anos, e multa, se a subtração for cometida contra quaisquer bens que comprometam o funcionamento de órgãos da União, de Estado, do Distrito Federal ou de Município ou de estabelecimentos públicos ou privados que prestem serviços públicos essenciais.    (Redação dada pela Lei nº 15.397, de 2026)
+§ 1º-A. A pena é de reclusão, de 6 (seis) a 12 (doze) anos, e multa, se a subtração for cometida contra quaisquer bens que comprometam o funcionamento de órgãos da União, de Estado, do Distrito Federal ou de Município ou de estabelecimentos públicos ou privados que prestem serviços públicos essenciais. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 2º  A pena aumenta-se de 1/3 (um terço) até metade:                 (Redação dada pela Lei nº 13.654, de 2018)
+§ 2º A pena aumenta-se de 1/3 (um terço) até metade: (Redação dada pela Lei nº 13.654, de 2018)
 
-I – (revogado);                (Redação dada pela Lei nº 13.654, de 2018)
+I – (revogado); (Redação dada pela Lei nº 13.654, de 2018)
 
 II - se há o concurso de duas ou mais pessoas;
 
 III - se a vítima está em serviço de transporte de valores e o agente conhece tal circunstância.
 
-IV - se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior;                   (Incluído pela Lei nº 9.426, de 1996)
+IV - se a subtração for de veículo automotor que venha a ser transportado para outro Estado ou para o exterior; (Incluído pela Lei nº 9.426, de 1996)
 
-V - se o agente mantém a vítima em seu poder, restringindo sua liberdade.                   (Incluído pela Lei nº 9.426, de 1996)
+V - se o agente mantém a vítima em seu poder, restringindo sua liberdade. (Incluído pela Lei nº 9.426, de 1996)
 
-VI – se a subtração for de substâncias explosivas ou de acessórios que, conjunta ou isoladamente, possibilitem sua fabricação, montagem ou emprego.                 (Incluído pela Lei nº 13.654, de 2018)
+VI – se a subtração for de substâncias explosivas ou de acessórios que, conjunta ou isoladamente, possibilitem sua fabricação, montagem ou emprego. (Incluído pela Lei nº 13.654, de 2018)
 
-VII - se a violência ou grave ameaça é exercida com emprego de arma branca;            (Incluído pela Lei nº 13.964, de 2019)
+VII - se a violência ou grave ameaça é exercida com emprego de arma branca; (Incluído pela Lei nº 13.964, de 2019)
 
-VIII – se a subtração for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados, bem como equipamentos ou materiais ferroviários ou metroviários.    (Incluído pela Lei nº 15.181, de 2025)
+VIII – se a subtração for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia ou para transferência de dados, bem como equipamentos ou materiais ferroviários ou metroviários. (Incluído pela Lei nº 15.181, de 2025)
 
-IX – se a subtração for de aparelho de telefonia celular, de computador, inclusive portátil ou do tipo prancheta, ou de qualquer dispositivo eletrônico ou informático semelhante;    (Incluído pela Lei nº 15.397, de 2026)
+IX – se a subtração for de aparelho de telefonia celular, de computador, inclusive portátil ou do tipo prancheta, ou de qualquer dispositivo eletrônico ou informático semelhante; (Incluído pela Lei nº 15.397, de 2026)
 
-X – se a subtração for de arma de fogo.    (Incluído pela Lei nº 15.397, de 2026)
+X – se a subtração for de arma de fogo. (Incluído pela Lei nº 15.397, de 2026)
 
-XI – se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal.   (Incluído pela Lei nº 15.517, de 2026)
+XI – se a subtração for de petróleo e derivados, gás natural e suas frações recuperáveis, álcool etílico hidratado carburante e demais combustíveis fluidos carburantes, inclusive biocombustíveis, e óleos lubrificantes, removidos dos estabelecimentos de produção ou de quaisquer instalações de armazenamento e de transporte de combustíveis, incluídos dutos e unidades de transporte em qualquer modal. (Incluído pela Lei nº 15.517, de 2026)
 
-§ 2º-A  A pena aumenta-se de 2/3 (dois terços):                 (Incluído pela Lei nº 13.654, de 2018)
+§ 2º-A A pena aumenta-se de 2/3 (dois terços): (Incluído pela Lei nº 13.654, de 2018)
 
-I – se a violência ou ameaça é exercida com emprego de arma de fogo;                 (Incluído pela Lei nº 13.654, de 2018)
+I – se a violência ou ameaça é exercida com emprego de arma de fogo; (Incluído pela Lei nº 13.654, de 2018)
 
-II – se há destruição ou rompimento de obstáculo mediante o emprego de explosivo ou de artefato análogo que cause perigo comum.                 (Incluído pela Lei nº 13.654, de 2018)
+II – se há destruição ou rompimento de obstáculo mediante o emprego de explosivo ou de artefato análogo que cause perigo comum. (Incluído pela Lei nº 13.654, de 2018)
 
-III – se do crime previsto no inciso XI do § 2º deste artigo resulta:   (Incluído pela Lei nº 15.517, de 2026)
+III – se do crime previsto no inciso XI do § 2º deste artigo resulta: (Incluído pela Lei nº 15.517, de 2026)
 
-a) suspensão ou paralisação das atividades do estabelecimento;   (Incluído pela Lei nº 15.517, de 2026)
+a) suspensão ou paralisação das atividades do estabelecimento; (Incluído pela Lei nº 15.517, de 2026)
 
-b) desabastecimento;   (Incluído pela Lei nº 15.517, de 2026)
+b) desabastecimento; (Incluído pela Lei nº 15.517, de 2026)
 
-c) incêndio;   (Incluído pela Lei nº 15.517, de 2026)
+c) incêndio; (Incluído pela Lei nº 15.517, de 2026)
 
-d) poluição efetiva ou potencial ao meio ambiente; ou   (Incluído pela Lei nº 15.517, de 2026)
+d) poluição efetiva ou potencial ao meio ambiente; ou (Incluído pela Lei nº 15.517, de 2026)
 
-e) (VETADO).   (Incluído pela Lei nº 15.517, de 2026)
+e) (VETADO). (Incluído pela Lei nº 15.517, de 2026)
 
-§ 2º-B.  Se a violência ou grave ameaça é exercida com emprego de arma de fogo de uso restrito ou proibido, aplica-se em dobro a pena prevista no caput deste artigo.            (Incluído pela Lei nº 13.964, de 2019)
+§ 2º-B. Se a violência ou grave ameaça é exercida com emprego de arma de fogo de uso restrito ou proibido, aplica-se em dobro a pena prevista no caput deste artigo. (Incluído pela Lei nº 13.964, de 2019)
 
-§ 3º  Se da violência resulta:                 (Redação dada pela Lei nº 13.654, de 2018)
+§ 3º Se da violência resulta: (Redação dada pela Lei nº 13.654, de 2018)
 
-I – lesão corporal grave, a pena é de reclusão de 7 (sete) a 18 (dezoito) anos, e multa;                  (Incluído pela Lei nº 13.654, de 2018)
+I – lesão corporal grave, a pena é de reclusão de 7 (sete) a 18 (dezoito) anos, e multa; (Incluído pela Lei nº 13.654, de 2018)
 
-II – morte, a pena é de reclusão, de 24 (vinte e quatro) a 30 (trinta) anos, e multa.    (Redação dada pela Lei nº 15.397, de 2026)
+II – morte, a pena é de reclusão, de 24 (vinte e quatro) a 30 (trinta) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 4º Se a violência ou grave ameaça é cometida por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aplica-se em triplo a pena prevista no caput deste artigo, desprezadas as demais causas de aumento.     (Incluído pela Lei nº 15.358, de 2026)
+§ 4º Se a violência ou grave ameaça é cometida por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aplica-se em triplo a pena prevista no caput deste artigo, desprezadas as demais causas de aumento. (Incluído pela Lei nº 15.358, de 2026)
 
-§ 5º Se o crime previsto no inciso II do § 3º deste artigo é cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, e da violência resulta morte:     (Incluído pela Lei nº 15.358, de 2026)
+§ 5º Se o crime previsto no inciso II do § 3º deste artigo é cometido por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, e da violência resulta morte: (Incluído pela Lei nº 15.358, de 2026)
 
-Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa.    (Incluído pela Lei nº 15.358, de 2026)
+Pena - reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa. (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.397, de 2026; redação — Lei nº 13.654, de 2018; inclusão — Lei nº 9.426, de 1996; inclusão — Lei nº 13.654, de 2018; inclusão — Lei nº 13.964, de 2019; inclusão — Lei nº 15.181, de 2025; inclusão — Lei nº 15.397, de 2026; inclusão — Lei nº 15.517, de 2026; inclusão — Lei nº 15.358, de 2026.
 
@@ -6902,11 +6902,11 @@ Pena - reclusão, de quatro a dez anos, e multa.
 
 § 1º - Se o crime é cometido por duas ou mais pessoas, ou com emprego de arma, aumenta-se a pena de um terço até metade.
 
-§ 2º - Aplica-se à extorsão praticada mediante violência o disposto no § 3º do artigo anterior.                     Vide Lei nº 8.072, de 25.7.90
+§ 2º - Aplica-se à extorsão praticada mediante violência o disposto no § 3º do artigo anterior. Vide Lei nº 8.072, de 25.7.90
 
-§ 3o  Se o crime é cometido mediante a restrição da liberdade da vítima, e essa condição é necessária para a obtenção da vantagem econômica, a pena é de reclusão, de 6 (seis) a 12 (doze) anos, além da multa; se resulta lesão corporal grave ou morte, aplicam-se as penas previstas no art. 159, §§ 2o e 3o, respectivamente.                  (Incluído pela Lei nº 11.923, de 2009)
+§ 3o Se o crime é cometido mediante a restrição da liberdade da vítima, e essa condição é necessária para a obtenção da vantagem econômica, a pena é de reclusão, de 6 (seis) a 12 (doze) anos, além da multa; se resulta lesão corporal grave ou morte, aplicam-se as penas previstas no art. 159, §§ 2o e 3o, respectivamente. (Incluído pela Lei nº 11.923, de 2009)
 
-§ 4º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas, aplica-se em triplo a respectiva pena.    (Incluído pela Lei nº 15.358, de 2026)
+§ 4º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas, aplica-se em triplo a respectiva pena. (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.923, de 2009; inclusão — Lei nº 15.358, de 2026.
 
@@ -6945,25 +6945,25 @@ Extorsão é constranger alguém, por violência ou grave ameaça, a fazer, tole
 
 Extorsão mediante seqüestro
 
-Art. 159 - Seqüestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate:                 Vide Lei nº 8.072, de 25.7.90                  (Vide Lei nº 10.446, de 2002)
+Art. 159 - Seqüestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate: Vide Lei nº 8.072, de 25.7.90 (Vide Lei nº 10.446, de 2002)
 
-Pena - reclusão, de oito a quinze anos..                 (Redação dada pela Lei nº 8.072, de 25.7.1990)
+Pena - reclusão, de oito a quinze anos.. (Redação dada pela Lei nº 8.072, de 25.7.1990)
 
-§ 1o Se o seqüestro dura mais de 24 (vinte e quatro) horas, se o seqüestrado é menor de 18 (dezoito) ou maior de 60 (sessenta) anos, ou se o crime é cometido por bando ou quadrilha.                Vide Lei nº 8.072, de 25.7.90                  (Redação dada pela Lei nº 10.741, de 2003)
+§ 1o Se o seqüestro dura mais de 24 (vinte e quatro) horas, se o seqüestrado é menor de 18 (dezoito) ou maior de 60 (sessenta) anos, ou se o crime é cometido por bando ou quadrilha. Vide Lei nº 8.072, de 25.7.90 (Redação dada pela Lei nº 10.741, de 2003)
 
-Pena - reclusão, de doze a vinte anos.              (Redação dada pela Lei nº 8.072, de 25.7.1990)
+Pena - reclusão, de doze a vinte anos. (Redação dada pela Lei nº 8.072, de 25.7.1990)
 
-§ 2º - Se do fato resulta lesão corporal de natureza grave:               Vide Lei nº 8.072, de 25.7.90
+§ 2º - Se do fato resulta lesão corporal de natureza grave: Vide Lei nº 8.072, de 25.7.90
 
-Pena - reclusão, de dezesseis a vinte e quatro anos.                (Redação dada pela Lei nº 8.072, de 25.7.1990)
+Pena - reclusão, de dezesseis a vinte e quatro anos. (Redação dada pela Lei nº 8.072, de 25.7.1990)
 
-§ 3º - Se resulta a morte:                Vide Lei nº 8.072, de 25.7.90
+§ 3º - Se resulta a morte: Vide Lei nº 8.072, de 25.7.90
 
-Pena - reclusão, de vinte e quatro a trinta anos.                  (Redação dada pela Lei nº 8.072, de 25.7.1990)
+Pena - reclusão, de vinte e quatro a trinta anos. (Redação dada pela Lei nº 8.072, de 25.7.1990)
 
-§ 4º - Se o crime é cometido em concurso, o concorrente que o denunciar à autoridade, facilitando a libertação do seqüestrado, terá sua pena reduzida de um a dois terços.                   (Redação dada pela Lei nº 9.269, de 1996)
+§ 4º - Se o crime é cometido em concurso, o concorrente que o denunciar à autoridade, facilitando a libertação do seqüestrado, terá sua pena reduzida de um a dois terços. (Redação dada pela Lei nº 9.269, de 1996)
 
-§ 5º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aumenta-se a respectiva pena em 2/3 (dois terços).     (Incluído pela Lei nº 15.358, de 2026)
+§ 5º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aumenta-se a respectiva pena em 2/3 (dois terços). (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 8.072, de 25.7.1990; redação — Lei nº 10.741, de 2003; redação — Lei nº 9.269, de 1996; inclusão — Lei nº 15.358, de 2026.
 
@@ -7126,7 +7126,7 @@ I - com violência à pessoa ou grave ameaça;
 
 II - com emprego de substância inflamável ou explosiva, se o fato não constitui crime mais grave
 
-III - contra o patrimônio da União, de Estado, do Distrito Federal, de Município ou de autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa concessionária de serviços públicos;                 (Redação dada pela Lei nº 13.531, de 2017)
+III - contra o patrimônio da União, de Estado, do Distrito Federal, de Município ou de autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa concessionária de serviços públicos; (Redação dada pela Lei nº 13.531, de 2017)
 
 IV - por motivo egoístico ou com prejuízo considerável para a vítima:
 
@@ -7337,25 +7337,25 @@ Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Incluído pela Lei n
 
 § 1o Nas mesmas penas incorre quem deixar de: (Incluído pela Lei nº 9.983, de 2000)
 
-I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada do público;  (Incluído pela Lei nº 9.983, de 2000)
+I – recolher, no prazo legal, contribuição ou outra importância destinada à previdência social que tenha sido descontada de pagamento efetuado a segurados, a terceiros ou arrecadada do público; (Incluído pela Lei nº 9.983, de 2000)
 
-II – recolher contribuições devidas à previdência social que tenham integrado despesas contábeis ou custos relativos à venda de produtos ou à prestação de serviços;  (Incluído pela Lei nº 9.983, de 2000)
+II – recolher contribuições devidas à previdência social que tenham integrado despesas contábeis ou custos relativos à venda de produtos ou à prestação de serviços; (Incluído pela Lei nº 9.983, de 2000)
 
-III - pagar benefício devido a segurado, quando as respectivas cotas ou valores já tiverem sido reembolsados à empresa pela previdência social.  (Incluído pela Lei nº 9.983, de 2000)
+III - pagar benefício devido a segurado, quando as respectivas cotas ou valores já tiverem sido reembolsados à empresa pela previdência social. (Incluído pela Lei nº 9.983, de 2000)
 
-§ 2o É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o pagamento das contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal. (Incluído pela Lei nº 9.983, de 2000)
+§ 2o É extinta a punibilidade se o agente, espontaneamente, declara, confessa e efetua o pagamento das contribuições, importâncias ou valores e presta as informações devidas à previdência social, na forma definida em lei ou regulamento, antes do início da ação fiscal. (Incluído pela Lei nº 9.983, de 2000)
 
-§ 3o É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que:  (Incluído pela Lei nº 9.983, de 2000)
+§ 3o É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que: (Incluído pela Lei nº 9.983, de 2000)
 
-I – tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios; ou  (Incluído pela Lei nº 9.983, de 2000)
+I – tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios; ou (Incluído pela Lei nº 9.983, de 2000)
 
-II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela previdência social, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais. (Incluído pela Lei nº 9.983, de 2000)
+II – o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela previdência social, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais. (Incluído pela Lei nº 9.983, de 2000)
 
-§ 4o  A faculdade prevista no § 3o deste artigo não se aplica aos casos de parcelamento de contribuições cujo valor, inclusive dos acessórios, seja superior àquele estabelecido, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais.   (Incluído pela Lei nº 13.606, de 2018)
+§ 4o A faculdade prevista no § 3o deste artigo não se aplica aos casos de parcelamento de contribuições cujo valor, inclusive dos acessórios, seja superior àquele estabelecido, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais. (Incluído pela Lei nº 13.606, de 2018)
 
-§ 5º A extinção de punibilidade de que trata o § 2º deste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002.     (Incluído pela Lei Complementar nº 225, de 2026)
+§ 5º A extinção de punibilidade de que trata o § 2º deste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002. (Incluído pela Lei Complementar nº 225, de 2026)
 
-§ 6º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 5º deste artigo em relação aos atos praticados no período em que era assim considerado.     (Incluído pela Lei Complementar nº 225, de 2026)
+§ 6º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 5º deste artigo em relação aos atos praticados no período em que era assim considerado. (Incluído pela Lei Complementar nº 225, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 9.983, de 2000; inclusão — Lei nº 13.606, de 2018; inclusão — Lei Complementar nº 225, de 2026.
 
@@ -7465,7 +7465,7 @@ Estelionato
 
 Art. 171 - Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento:
 
-Pena – reclusão, de 1 (um) a 5 (cinco) anos, e multa.     (Redação dada pela Lei nº 15.397, de 2026)
+Pena – reclusão, de 1 (um) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
 § 1º - Se o criminoso é primário, e é de pequeno valor o prejuízo, o juiz pode aplicar a pena conforme o disposto no art. 155, § 2º.
 
@@ -7495,31 +7495,31 @@ Fraude no pagamento por meio de cheque
 
 VI - emite cheque, sem suficiente provisão de fundos em poder do sacado, ou lhe frustra o pagamento.
 
-Cessão de conta laranja    (Incluído pela Lei nº 15.397, de 2026)
+Cessão de conta laranja (Incluído pela Lei nº 15.397, de 2026)
 
-VII – cede, gratuita ou onerosamente, conta bancária para que nela transitem recursos destinados ao financiamento de atividade criminosa ou que dela sejam fruto.     (Incluído pela Lei nº 15.397, de 2026)
+VII – cede, gratuita ou onerosamente, conta bancária para que nela transitem recursos destinados ao financiamento de atividade criminosa ou que dela sejam fruto. (Incluído pela Lei nº 15.397, de 2026)
 
 Fraude eletrônica
 
-§ 2º-A. A pena é de reclusão, de 4 (quatro) a 8 (oito) anos, e multa, se a fraude é cometida com a utilização de informações fornecidas pela vítima ou por terceiro induzido a erro por meio de redes sociais, contatos telefônicos, envio de correio eletrônico fraudulento, duplicação de dispositivo eletrônico ou aplicação de internet, ou por qualquer outro meio fraudulento análogo.    (Redação dada pela Lei nº 15.397, de 2026)
+§ 2º-A. A pena é de reclusão, de 4 (quatro) a 8 (oito) anos, e multa, se a fraude é cometida com a utilização de informações fornecidas pela vítima ou por terceiro induzido a erro por meio de redes sociais, contatos telefônicos, envio de correio eletrônico fraudulento, duplicação de dispositivo eletrônico ou aplicação de internet, ou por qualquer outro meio fraudulento análogo. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 2º-B. A pena prevista no § 2º-A deste artigo, considerada a relevância do resultado gravoso, aumenta-se de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado mediante a utilização de servidor mantido fora do território nacional.     (Incluído pela Lei nº 14.155, de 2021)
+§ 2º-B. A pena prevista no § 2º-A deste artigo, considerada a relevância do resultado gravoso, aumenta-se de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado mediante a utilização de servidor mantido fora do território nacional. (Incluído pela Lei nº 14.155, de 2021)
 
 § 3º - A pena aumenta-se de um terço, se o crime é cometido em detrimento de entidade de direito público ou de instituto de economia popular, assistência social ou beneficência.
 
-Estelionato contra idoso ou vulnerável        (Redação dada pela Lei nº 14.155, de 2021)
+Estelionato contra idoso ou vulnerável (Redação dada pela Lei nº 14.155, de 2021)
 
-§ 4º A pena aumenta-se de 1/3 (um terço) ao dobro, se o crime é cometido contra idoso ou vulnerável, considerada a relevância do resultado gravoso.        (Redação dada pela Lei nº 14.155, de 2021)
+§ 4º A pena aumenta-se de 1/3 (um terço) ao dobro, se o crime é cometido contra idoso ou vulnerável, considerada a relevância do resultado gravoso. (Redação dada pela Lei nº 14.155, de 2021)
 
-§ 5º (Revogado).   (Redação dada pela Lei nº 15.397, de 2026)
+§ 5º (Revogado). (Redação dada pela Lei nº 15.397, de 2026)
 
-I – (Revogado);    (Redação dada pela Lei nº 15.397, de 2026)
+I – (Revogado); (Redação dada pela Lei nº 15.397, de 2026)
 
-II – (Revogado);    (Redação dada pela Lei nº 15.397, de 2026)
+II – (Revogado); (Redação dada pela Lei nº 15.397, de 2026)
 
-III – (Revogado);    (Redação dada pela Lei nº 15.397, de 2026)
+III – (Revogado); (Redação dada pela Lei nº 15.397, de 2026)
 
-IV – (Revogado).    (Redação dada pela Lei nº 15.397, de 2026)
+IV – (Revogado). (Redação dada pela Lei nº 15.397, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.397, de 2026; inclusão — Lei nº 15.397, de 2026; inclusão — Lei nº 14.155, de 2021; redação — Lei nº 14.155, de 2021.
 
@@ -7555,9 +7555,9 @@ Estelionato é obter vantagem ilícita em prejuízo alheio, induzindo ou mantend
 
 **Localização:** PARTE ESPECIAL › TÍTULO II — DOS CRIMES CONTRA O PATRIMÔNIO › CAPÍTULO VI — DO ESTELIONATO E OUTRAS FRAUDES
 
-Art. 171-A. Organizar, gerir, ofertar ou distribuir carteiras ou intermediar operações que envolvam ativos virtuais, valores mobiliários ou quaisquer ativos financeiros com o fim de obter vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil ou qualquer outro meio fraudulento.        (Incluído pela Lei nº 14.478, de 2022)   Vigência
+Art. 171-A. Organizar, gerir, ofertar ou distribuir carteiras ou intermediar operações que envolvam ativos virtuais, valores mobiliários ou quaisquer ativos financeiros com o fim de obter vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil ou qualquer outro meio fraudulento. (Incluído pela Lei nº 14.478, de 2022) Vigência
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.       (Incluído pela Lei nº 14.478, de 2022)   Vigência
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.478, de 2022) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.478, de 2022.
 
@@ -7592,7 +7592,7 @@ Duplicata simulada
 
 Art. 172 - Emitir fatura, duplicata ou nota de venda que não corresponda à mercadoria vendida, em quantidade ou qualidade, ou ao serviço prestado. (Redação dada pela Lei nº 8.137, de 27.12.1990)
 
-Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.  (Redação dada pela Lei nº 8.137, de 27.12.1990)
+Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 8.137, de 27.12.1990)
 
 Parágrafo único. Nas mesmas penas incorrerá aquêle que falsificar ou adulterar a escrituração do Livro de Registro de Duplicatas. (Incluído pela Lei nº 5.474. de 1968)
 
@@ -7885,31 +7885,31 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Receptação
 
-Art. 180 - Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte:            (Redação dada pela Lei nº 9.426, de 1996)
+Art. 180 - Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte: (Redação dada pela Lei nº 9.426, de 1996)
 
 Pena – reclusão, de 2 (dois) a 6 (seis) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
-Receptação qualificada          (Redação dada pela Lei nº 9.426, de 1996)
+Receptação qualificada (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 1º - Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, coisa que deve saber ser produto de crime:           (Redação dada pela Lei nº 9.426, de 1996)
+§ 1º - Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, coisa que deve saber ser produto de crime: (Redação dada pela Lei nº 9.426, de 1996)
 
-Pena - reclusão, de três a oito anos, e multa.          (Redação dada pela Lei nº 9.426, de 1996)
+Pena - reclusão, de três a oito anos, e multa. (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 2º - Equipara-se à atividade comercial, para efeito do parágrafo anterior, qualquer forma de comércio irregular ou clandestino, inclusive o exercício em residência.          (Redação dada pela Lei nº 9.426, de 1996)
+§ 2º - Equipara-se à atividade comercial, para efeito do parágrafo anterior, qualquer forma de comércio irregular ou clandestino, inclusive o exercício em residência. (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 3º - Adquirir ou receber coisa que, por sua natureza ou pela desproporção entre o valor e o preço, ou pela condição de quem a oferece, deve presumir-se obtida por meio criminoso:         (Redação dada pela Lei nº 9.426, de 1996)
+§ 3º - Adquirir ou receber coisa que, por sua natureza ou pela desproporção entre o valor e o preço, ou pela condição de quem a oferece, deve presumir-se obtida por meio criminoso: (Redação dada pela Lei nº 9.426, de 1996)
 
-Pena - detenção, de um mês a um ano, ou multa, ou ambas as penas.           (Redação dada pela Lei nº 9.426, de 1996)
+Pena - detenção, de um mês a um ano, ou multa, ou ambas as penas. (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 4º - A receptação é punível, ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa.            (Redação dada pela Lei nº 9.426, de 1996)
+§ 4º - A receptação é punível, ainda que desconhecido ou isento de pena o autor do crime de que proveio a coisa. (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 5º (Revogado).      (Redação dada pela Lei nº 15.358, de 2026)
+§ 5º (Revogado). (Redação dada pela Lei nº 15.358, de 2026)
 
-§ 6o  Tratando-se de bens do patrimônio da União, de Estado, do Distrito Federal, de Município ou de autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa concessionária de serviços públicos, aplica-se em dobro a pena prevista no caput deste artigo.                 (Redação dada pela Lei nº 13.531, de 2017)
+§ 6o Tratando-se de bens do patrimônio da União, de Estado, do Distrito Federal, de Município ou de autarquia, fundação pública, empresa pública, sociedade de economia mista ou empresa concessionária de serviços públicos, aplica-se em dobro a pena prevista no caput deste artigo. (Redação dada pela Lei nº 13.531, de 2017)
 
-§ 7º Se a receptação for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia, transferência de dados, ou de cargas transportadas em modais logísticos ferroviários ou metroviários, aplica-se em dobro a pena prevista no caput ou no § 1º deste artigo, conforme o caso.    (Incluído pela Lei nº 15.181, de 2025)
+§ 7º Se a receptação for de fios, cabos ou equipamentos utilizados para fornecimento ou transmissão de energia elétrica ou de telefonia, transferência de dados, ou de cargas transportadas em modais logísticos ferroviários ou metroviários, aplica-se em dobro a pena prevista no caput ou no § 1º deste artigo, conforme o caso. (Incluído pela Lei nº 15.181, de 2025)
 
-§ 8º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aumenta-se a respectiva pena em 2/3 (dois terços).     (Incluído pela Lei nº 15.358, de 2026)
+§ 8º Se os crimes previstos neste artigo são cometidos por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil, aumenta-se a respectiva pena em 2/3 (dois terços). (Incluído pela Lei nº 15.358, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.426, de 1996; redação — Lei nº 15.397, de 2026; redação — Lei nº 15.358, de 2026; redação — Lei nº 13.531, de 2017; inclusão — Lei nº 15.181, de 2025; inclusão — Lei nº 15.358, de 2026.
 
@@ -7945,9 +7945,9 @@ Receptação é adquirir, receber, transportar, conduzir ou ocultar coisa que se
 
 Receptação de animal
 
-Art. 180-A. Adquirir, receber, transportar, conduzir, ocultar, ter em depósito ou vender, com a finalidade de produção ou de comercialização, semovente domesticável de produção, ainda que abatido ou dividido em partes, ou animal doméstico, que sabe ou deve saber ser produto de crime:     (Redação dada pela Lei nº 15.397, de 2026)
+Art. 180-A. Adquirir, receber, transportar, conduzir, ocultar, ter em depósito ou vender, com a finalidade de produção ou de comercialização, semovente domesticável de produção, ainda que abatido ou dividido em partes, ou animal doméstico, que sabe ou deve saber ser produto de crime: (Redação dada pela Lei nº 15.397, de 2026)
 
-Pena – reclusão, de 3 (três) a 8 (oito) anos, e multa.     (Redação dada pela Lei nº 15.397, de 2026)
+Pena – reclusão, de 3 (três) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.397, de 2026.
 
@@ -7977,7 +7977,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO II — DOS CRIMES CONTRA O PATRIMÔNIO › CAPÍTULO VIII — DISPOSIÇÕES GERAIS
 
-Art. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo:            (Vide Lei nº 10.741, de 2003)
+Art. 181 - É isento de pena quem comete qualquer dos crimes previstos neste título, em prejuízo: (Vide Lei nº 10.741, de 2003)
 
 I - do cônjuge, na constância da sociedade conjugal;
 
@@ -8012,7 +8012,7 @@ II - de ascendente ou descendente, seja o parentesco legítimo ou ilegítimo, se
 
 **Localização:** PARTE ESPECIAL › TÍTULO II — DOS CRIMES CONTRA O PATRIMÔNIO › CAPÍTULO VIII — DISPOSIÇÕES GERAIS
 
-Art. 182 - Somente se procede mediante representação, se o crime previsto neste título é cometido em prejuízo:          (Vide Lei nº 10.741, de 2003)
+Art. 182 - Somente se procede mediante representação, se o crime previsto neste título é cometido em prejuízo: (Vide Lei nº 10.741, de 2003)
 
 I - do cônjuge desquitado ou judicialmente separado;
 
@@ -8053,7 +8053,7 @@ I - se o crime é de roubo ou de extorsão, ou, em geral, quando haja emprego de
 
 II - ao estranho que participa do crime.
 
-III – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos.    (Incluído pela Lei nº 10.741, de 2003)
+III – se o crime é praticado contra pessoa com idade igual ou superior a 60 (sessenta) anos. (Incluído pela Lei nº 10.741, de 2003)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 10.741, de 2003.
 
@@ -8084,7 +8084,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO II — DOS CRIMES CONTRA O PATRIMÔNIO › CAPÍTULO VIII — DISPOSIÇÕES GERAIS
 
-Art. 183-A. Nos crimes de que trata este Título, quando cometidos contra as instituições financeiras e os prestadores de serviço de segurança privada, de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, as penas serão aumentadas de 1/3 (um terço) até o dobro.   (Incluído pela Lei nº 14.967, de 2024)
+Art. 183-A. Nos crimes de que trata este Título, quando cometidos contra as instituições financeiras e os prestadores de serviço de segurança privada, de que trata o Estatuto da Segurança Privada e da Segurança das Instituições Financeiras, as penas serão aumentadas de 1/3 (um terço) até o dobro. (Incluído pela Lei nº 14.967, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.967, de 2024.
 
@@ -8116,21 +8116,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Violação de direito autoral
 
-Art. 184. Violar direitos de autor e os que lhe são conexos:             (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+Art. 184. Violar direitos de autor e os que lhe são conexos: (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-Pena – detenção, de 3 (três) meses a 1 (um) ano, ou multa.            (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+Pena – detenção, de 3 (três) meses a 1 (um) ano, ou multa. (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-§ 1o Se a violação consistir em reprodução total ou parcial, com intuito de lucro direto ou indireto, por qualquer meio ou processo, de obra intelectual, interpretação, execução ou fonograma, sem autorização expressa do autor, do artista intérprete ou executante, do produtor, conforme o caso, ou de quem os represente:            (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+§ 1o Se a violação consistir em reprodução total ou parcial, com intuito de lucro direto ou indireto, por qualquer meio ou processo, de obra intelectual, interpretação, execução ou fonograma, sem autorização expressa do autor, do artista intérprete ou executante, do produtor, conforme o caso, ou de quem os represente: (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.           (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-§ 2o Na mesma pena do § 1o incorre quem, com o intuito de lucro direto ou indireto, distribui, vende, expõe à venda, aluga, introduz no País, adquire, oculta, tem em depósito, original ou cópia de obra intelectual ou fonograma reproduzido com violação do direito de autor, do direito de artista intérprete ou executante ou do direito do produtor de fonograma, ou, ainda, aluga original ou cópia de obra intelectual ou fonograma, sem a expressa autorização dos titulares dos direitos ou de quem os represente.          (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+§ 2o Na mesma pena do § 1o incorre quem, com o intuito de lucro direto ou indireto, distribui, vende, expõe à venda, aluga, introduz no País, adquire, oculta, tem em depósito, original ou cópia de obra intelectual ou fonograma reproduzido com violação do direito de autor, do direito de artista intérprete ou executante ou do direito do produtor de fonograma, ou, ainda, aluga original ou cópia de obra intelectual ou fonograma, sem a expressa autorização dos titulares dos direitos ou de quem os represente. (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-§ 3o Se a violação consistir no oferecimento ao público, mediante cabo, fibra ótica, satélite, ondas ou qualquer outro sistema que permita ao usuário realizar a seleção da obra ou produção para recebê-la em um tempo e lugar previamente determinados por quem formula a demanda, com intuito de lucro, direto ou indireto, sem autorização expressa, conforme o caso, do autor, do artista intérprete ou executante, do produtor de fonograma, ou de quem os represente:          (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+§ 3o Se a violação consistir no oferecimento ao público, mediante cabo, fibra ótica, satélite, ondas ou qualquer outro sistema que permita ao usuário realizar a seleção da obra ou produção para recebê-la em um tempo e lugar previamente determinados por quem formula a demanda, com intuito de lucro, direto ou indireto, sem autorização expressa, conforme o caso, do autor, do artista intérprete ou executante, do produtor de fonograma, ou de quem os represente: (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.          (Incluído pela Lei nº 10.695, de 1º.7.2003)
+Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa. (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
-§ 4o O disposto nos §§ 1o, 2o e 3o não se aplica quando se tratar de exceção ou limitação ao direito de autor ou os que lhe são conexos, em conformidade com o previsto na Lei nº 9.610, de 19 de fevereiro de 1998, nem a cópia de obra intelectual ou fonograma, em um só exemplar, para uso privado do copista, sem intuito de lucro direto ou indireto.        (Incluído pela Lei nº 10.695, de 1º.7.2003)
+§ 4o O disposto nos §§ 1o, 2o e 3o não se aplica quando se tratar de exceção ou limitação ao direito de autor ou os que lhe são conexos, em conformidade com o previsto na Lei nº 9.610, de 19 de fevereiro de 1998, nem a cópia de obra intelectual ou fonograma, em um só exemplar, para uso privado do copista, sem intuito de lucro direto ou indireto. (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.695, de 1; inclusão — Lei nº 10.695, de 1.
 
@@ -8166,7 +8166,7 @@ Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.          (I
 
 Usurpação de nome ou pseudônimo alheio
 
-Art. 185 -          (Revogado pela Lei nº 10.695, de 1º.7.2003)
+Art. 185 - (Revogado pela Lei nº 10.695, de 1º.7.2003)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 10.695, de 1.
 
@@ -8196,15 +8196,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO III — DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL › CAPÍTULO I — DOS CRIMES CONTRA A PROPRIEDADE INTELECTUAL
 
-Art. 186. Procede-se mediante:          (Redação dada pela Lei nº 10.695, de 1º.7.2003)
+Art. 186. Procede-se mediante: (Redação dada pela Lei nº 10.695, de 1º.7.2003)
 
-I – queixa, nos crimes previstos no caput do art. 184;         (Incluído pela Lei nº 10.695, de 1º.7.2003)
+I – queixa, nos crimes previstos no caput do art. 184; (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
-II – ação penal pública incondicionada, nos crimes previstos nos §§ 1o e 2o do art. 184;          (Incluído pela Lei nº 10.695, de 1º.7.2003)
+II – ação penal pública incondicionada, nos crimes previstos nos §§ 1o e 2o do art. 184; (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
-III – ação penal pública incondicionada, nos crimes cometidos em desfavor de entidades de direito público, autarquia, empresa pública, sociedade de economia mista ou fundação instituída pelo Poder Público;            (Incluído pela Lei nº 10.695, de 1º.7.2003)
+III – ação penal pública incondicionada, nos crimes cometidos em desfavor de entidades de direito público, autarquia, empresa pública, sociedade de economia mista ou fundação instituída pelo Poder Público; (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
-IV – ação penal pública condicionada à representação, nos crimes previstos no § 3o do art. 184.             (Incluído pela Lei nº 10.695, de 1º.7.2003)
+IV – ação penal pública condicionada à representação, nos crimes previstos no § 3o do art. 184. (Incluído pela Lei nº 10.695, de 1º.7.2003)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.695, de 1; inclusão — Lei nº 10.695, de 1.
 
@@ -8237,7 +8237,7 @@ Na violação de direito autoral, a ação é privada no caput do art. 184, púb
 
 Violação de privilégio de invenção
 
-Art 187.              (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art 187. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8269,7 +8269,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Falsa atribuição de privilégio
 
-Art 188.            (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art 188. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8301,7 +8301,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Usurpação ou indevida exploração de modelo ou desenho privilegiado
 
-Art. 189.            (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 189. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8333,7 +8333,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Falsa declaração de depósito em modelo ou desenho
 
-Art. 190.               (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 190. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8363,7 +8363,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO III — DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL › CAPÍTULO II — DOS CRIMES CONTRA O PRIVILÉGIO DE INVENÇÃO
 
-Art. 191.           (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 191. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8394,7 +8394,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Violação do direito de marca
 
-Art. 192.              (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 192. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8426,7 +8426,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Uso indevido de armas, brasões e distintivos públicos
 
-Art. 193.             (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 193. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8458,7 +8458,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Marca com falsa indicação de procedência
 
-Art. 194.         (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 194. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8488,7 +8488,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO III — DOS CRIMES CONTRA A PROPRIEDADE IMATERIAL › CAPÍTULO III — DOS CRIMES CONTRA AS MARCAS DE INDÚSTRIA E COMÉRCIO
 
-Art. 195.         (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 195. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8519,7 +8519,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Concorrência desleal
 
-Art. 196.         (Revogado pela Lei nº 9.279, de 14.5.1996)
+Art. 196. (Revogado pela Lei nº 9.279, de 14.5.1996)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.279, de 14.5.1996.
 
@@ -8654,7 +8654,7 @@ Art. 200 - Participar de suspensão ou abandono coletivo de trabalho, praticando
 
 Pena - detenção, de um mês a um ano, e multa, além da pena correspondente à violência.
 
-Parágrafo único - Para que se considere coletivo o abandono de trabalho é indispensável o concurso de, pelo menos, três     empregados.
+Parágrafo único - Para que se considere coletivo o abandono de trabalho é indispensável o concurso de, pelo menos, três empregados.
 
 #### Interpretação
 
@@ -8753,11 +8753,11 @@ Pena - detenção de um ano a dois anos, e multa, além da pena correspondente �
 
 § 1º Na mesma pena incorre quem: (Incluído pela Lei nº 9.777, de 1998)
 
-I - obriga ou coage alguém a usar mercadorias de determinado estabelecimento, para impossibilitar o desligamento do serviço em virtude de dívida;  (Incluído pela Lei nº 9.777, de 1998)
+I - obriga ou coage alguém a usar mercadorias de determinado estabelecimento, para impossibilitar o desligamento do serviço em virtude de dívida; (Incluído pela Lei nº 9.777, de 1998)
 
 II - impede alguém de se desligar de serviços de qualquer natureza, mediante coação ou por meio da retenção de seus documentos pessoais ou contratuais. (Incluído pela Lei nº 9.777, de 1998)
 
-§ 2º A pena é aumentada de um sexto a um terço se a vítima é menor de dezoito anos, idosa, gestante, indígena ou portadora de deficiência física ou mental.  (Incluído pela Lei nº 9.777, de 1998)
+§ 2º A pena é aumentada de um sexto a um terço se a vítima é menor de dezoito anos, idosa, gestante, indígena ou portadora de deficiência física ou mental. (Incluído pela Lei nº 9.777, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.777, de 29.12.1998; inclusão — Lei nº 9.777, de 1998.
 
@@ -8885,11 +8885,11 @@ Aliciamento de trabalhadores de um local para outro do território nacional
 
 Art. 207 - Aliciar trabalhadores, com o fim de levá-los de uma para outra localidade do território nacional:
 
-Pena - detenção de um a três anos, e multa.  (Redação dada pela Lei nº 9.777, de 29.12.1998)
+Pena - detenção de um a três anos, e multa. (Redação dada pela Lei nº 9.777, de 29.12.1998)
 
-§ 1º Incorre na mesma pena quem recrutar trabalhadores fora da localidade de execução do trabalho, dentro do território nacional, mediante fraude ou cobrança de qualquer quantia do trabalhador, ou, ainda, não assegurar condições do seu retorno ao local de origem.   (Incluído pela Lei nº 9.777, de 1998)
+§ 1º Incorre na mesma pena quem recrutar trabalhadores fora da localidade de execução do trabalho, dentro do território nacional, mediante fraude ou cobrança de qualquer quantia do trabalhador, ou, ainda, não assegurar condições do seu retorno ao local de origem. (Incluído pela Lei nº 9.777, de 1998)
 
-§ 2º A pena é aumentada de um sexto a um terço se a vítima é menor de dezoito anos, idosa, gestante, indígena ou portadora de deficiência física ou mental.  (Incluído pela Lei nº 9.777, de 1998)
+§ 2º A pena é aumentada de um sexto a um terço se a vítima é menor de dezoito anos, idosa, gestante, indígena ou portadora de deficiência física ou mental. (Incluído pela Lei nº 9.777, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.777, de 29.12.1998; inclusão — Lei nº 9.777, de 1998.
 
@@ -9078,17 +9078,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Estupro
 
-Art. 213.  Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso:          (Redação dada pela Lei nº 12.015, de 2009)
+Art. 213. Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 6 (seis) a 10 (dez) anos.          (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 6 (seis) a 10 (dez) anos. (Redação dada pela Lei nº 12.015, de 2009)
 
-§ 1o  Se da conduta resulta lesão corporal de natureza grave ou se a vítima é menor de 18 (dezoito) ou maior de 14 (catorze) anos:           (Incluído pela Lei nº 12.015, de 2009)
+§ 1o Se da conduta resulta lesão corporal de natureza grave ou se a vítima é menor de 18 (dezoito) ou maior de 14 (catorze) anos: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 8 (oito) a 12 (doze) anos.             (Incluído pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 8 (oito) a 12 (doze) anos. (Incluído pela Lei nº 12.015, de 2009)
 
-§ 2o  Se da conduta resulta morte:             (Incluído pela Lei nº 12.015, de 2009)
+§ 2o Se da conduta resulta morte: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 12 (doze) a 30 (trinta) anos              (Incluído pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 12 (doze) a 30 (trinta) anos (Incluído pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.015, de 2009; inclusão — Lei nº 12.015, de 2009.
 
@@ -9121,7 +9121,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL
 
-Art. 214 -              (Revogado pela Lei nº 12.015, de 2009)
+Art. 214 - (Revogado pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.015, de 2009.
 
@@ -9150,13 +9150,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL
 
-Violação sexual mediante fraude            (Redação dada pela Lei nº 12.015, de 2009)
+Violação sexual mediante fraude (Redação dada pela Lei nº 12.015, de 2009)
 
-Art. 215.  Ter conjunção carnal ou praticar outro ato libidinoso com alguém, mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima:            (Redação dada pela Lei nº 12.015, de 2009)
+Art. 215. Ter conjunção carnal ou praticar outro ato libidinoso com alguém, mediante fraude ou outro meio que impeça ou dificulte a livre manifestação de vontade da vítima: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 2 (dois) a 6 (seis) anos.             (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 2 (dois) a 6 (seis) anos. (Redação dada pela Lei nº 12.015, de 2009)
 
-Parágrafo único.  Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa.          (Redação dada pela Lei nº 12.015, de 2009)
+Parágrafo único. Se o crime é cometido com o fim de obter vantagem econômica, aplica-se também multa. (Redação dada pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.015, de 2009.
 
@@ -9186,9 +9186,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL
 
-Importunação sexual   (Incluído pela Lei nº 13.718, de 2018)
+Importunação sexual (Incluído pela Lei nº 13.718, de 2018)
 
-Art. 215-A. Praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro:  (Incluído pela Lei nº 13.718, de 2018)
+Art. 215-A. Praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro: (Incluído pela Lei nº 13.718, de 2018)
 
 Pena - reclusão, de 1 (um) a 5 (cinco) anos, se o ato não constitui crime mais grave. (Incluído pela Lei nº 13.718, de 2018)
 
@@ -9220,7 +9220,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL
 
-Art. 216.             (Revogado pela Lei nº 12.015, de 2009)
+Art. 216. (Revogado pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.015, de 2009.
 
@@ -9249,15 +9249,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO I — DOS CRIMES CONTRA A LIBERDADE SEXUAL
 
-Assédio sexual             (Incluído pela Lei nº 10.224, de 15 de 2001)
+Assédio sexual (Incluído pela Lei nº 10.224, de 15 de 2001)
 
-Art. 216-A. Constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função.                (Incluído pela Lei nº 10.224, de 15 de 2001)
+Art. 216-A. Constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função. (Incluído pela Lei nº 10.224, de 15 de 2001)
 
-Pena – detenção, de 1 (um) a 2 (dois) anos.              (Incluído pela Lei nº 10.224, de 15 de 2001)
+Pena – detenção, de 1 (um) a 2 (dois) anos. (Incluído pela Lei nº 10.224, de 15 de 2001)
 
-Parágrafo único. (VETADO)               (Incluído pela Lei nº 10.224, de 15 de 2001)
+Parágrafo único. (VETADO) (Incluído pela Lei nº 10.224, de 15 de 2001)
 
-§ 2o  A pena é aumentada em até um terço se a vítima é menor de 18 (dezoito) anos.             (Incluído pela Lei nº 12.015, de 2009)
+§ 2o A pena é aumentada em até um terço se a vítima é menor de 18 (dezoito) anos. (Incluído pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 10.224, de 15; inclusão — Lei nº 12.015, de 2009.
 
@@ -9289,11 +9289,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Registro não autorizado da intimidade sexual
 
-Art. 216-B.  Produzir, fotografar, filmar ou registrar, por qualquer meio, conteúdo com cena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado sem autorização dos participantes:  (Incluído pela Lei nº 13.772, de 2018)
+Art. 216-B. Produzir, fotografar, filmar ou registrar, por qualquer meio, conteúdo com cena de nudez ou ato sexual ou libidinoso de caráter íntimo e privado sem autorização dos participantes: (Incluído pela Lei nº 13.772, de 2018)
 
 Pena - detenção, de 6 (seis) meses a 1 (um) ano, e multa.
 
-Parágrafo único.  Na mesma pena incorre quem realiza montagem em fotografia, vídeo, áudio ou qualquer outro registro com o fim de incluir pessoa em cena de nudez ou ato sexual ou libidinoso de caráter íntimo.   (Incluído pela Lei nº 13.772, de 2018)
+Parágrafo único. Na mesma pena incorre quem realiza montagem em fotografia, vídeo, áudio ou qualquer outro registro com o fim de incluir pessoa em cena de nudez ou ato sexual ou libidinoso de caráter íntimo. (Incluído pela Lei nº 13.772, de 2018)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.772, de 2018.
 
@@ -9325,7 +9325,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Sedução
 
-Art. 217 -            (Revogado pela Lei nº 11.106, de 2005)
+Art. 217 - (Revogado pela Lei nº 11.106, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 11.106, de 2005.
 
@@ -9355,27 +9355,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO II — DOS CRIMES SEXUAIS CONTRA VULNERÁVEL
 
-Estupro de vulnerável                (Incluído pela Lei nº 12.015, de 2009)
+Estupro de vulnerável (Incluído pela Lei nº 12.015, de 2009)
 
-Art. 217-A.  Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 (catorze) anos:               (Incluído pela Lei nº 12.015, de 2009)
+Art. 217-A. Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 (catorze) anos: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 10 (dez) a 18 (dezoito) anos, e multa.    (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 10 (dez) a 18 (dezoito) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
-§ 1o  Incorre na mesma pena quem pratica as ações descritas no caput com alguém que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência.             (Incluído pela Lei nº 12.015, de 2009)
+§ 1o Incorre na mesma pena quem pratica as ações descritas no caput com alguém que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, ou que, por qualquer outra causa, não pode oferecer resistência. (Incluído pela Lei nº 12.015, de 2009)
 
-§ 2o  (VETADO)               (Incluído pela Lei nº 12.015, de 2009)
+§ 2o (VETADO) (Incluído pela Lei nº 12.015, de 2009)
 
-§ 3o  Se da conduta resulta lesão corporal de natureza grave:            (Incluído pela Lei nº 12.015, de 2009)
+§ 3o Se da conduta resulta lesão corporal de natureza grave: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 12 (doze) a 24 (vinte e quatro) anos, e multa.    (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 12 (doze) a 24 (vinte e quatro) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
-§ 4o  Se da conduta resulta morte:              (Incluído pela Lei nº 12.015, de 2009)
+§ 4o Se da conduta resulta morte: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa.      (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 20 (vinte) a 40 (quarenta) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
-§ 4º-A. É absoluta a presunção de vulnerabilidade da vítima e inadmissível sua relativização.     (Incluído pela Lei nº 15.353, de 2026)
+§ 4º-A. É absoluta a presunção de vulnerabilidade da vítima e inadmissível sua relativização. (Incluído pela Lei nº 15.353, de 2026)
 
-§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima, de sua experiência sexual, do fato de ela ter mantido relações sexuais anteriormente ao crime ou da ocorrência de gravidez resultante da prática do crime.    (Redação dada pela Lei nº 15.353, de 2026)
+§ 5º As penas previstas no caput e nos §§ 1º, 3º e 4º deste artigo aplicam-se independentemente do consentimento da vítima, de sua experiência sexual, do fato de ela ter mantido relações sexuais anteriormente ao crime ou da ocorrência de gravidez resultante da prática do crime. (Redação dada pela Lei nº 15.353, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.015, de 2009; redação — Lei nº 15.280, de 2025; inclusão — Lei nº 15.353, de 2026; redação — Lei nº 15.353, de 2026.
 
@@ -9409,11 +9409,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Corrupção de menores
 
-Art. 218.  Induzir alguém menor de 14 (catorze) anos a satisfazer a lascívia de outrem:           (Redação dada pela Lei nº 12.015, de 2009)
+Art. 218. Induzir alguém menor de 14 (catorze) anos a satisfazer a lascívia de outrem: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 6 (seis) a 14 (quatorze) anos, e multa.     (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 6 (seis) a 14 (quatorze) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
-Parágrafo único.  (VETADO).            (Incluído pela Lei nº 12.015, de 2009)
+Parágrafo único. (VETADO). (Incluído pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.015, de 2009; redação — Lei nº 15.280, de 2025; inclusão — Lei nº 12.015, de 2009.
 
@@ -9441,11 +9441,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO II — DOS CRIMES SEXUAIS CONTRA VULNERÁVEL
 
-Satisfação de lascívia mediante presença de criança ou adolescente              (Incluído pela Lei nº 12.015, de 2009)
+Satisfação de lascívia mediante presença de criança ou adolescente (Incluído pela Lei nº 12.015, de 2009)
 
-Art. 218-A.  Praticar, na presença de alguém menor de 14 (catorze) anos, ou induzi-lo a presenciar, conjunção carnal ou outro ato libidinoso, a fim de satisfazer lascívia própria ou de outrem:          (Incluído pela Lei nº 12.015, de 2009)
+Art. 218-A. Praticar, na presença de alguém menor de 14 (catorze) anos, ou induzi-lo a presenciar, conjunção carnal ou outro ato libidinoso, a fim de satisfazer lascívia própria ou de outrem: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 5 (cinco) a 12 (doze) anos, e multa.     (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 5 (cinco) a 12 (doze) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.015, de 2009; redação — Lei nº 15.280, de 2025.
 
@@ -9474,21 +9474,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO II — DOS CRIMES SEXUAIS CONTRA VULNERÁVEL
 
-Favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável.                 (Redação dada pela Lei nº 12.978, de 2014)
+Favorecimento da prostituição ou de outra forma de exploração sexual de criança ou adolescente ou de vulnerável. (Redação dada pela Lei nº 12.978, de 2014)
 
-Art. 218-B.  Submeter, induzir ou atrair à prostituição ou outra forma de exploração sexual alguém menor de 18 (dezoito) anos ou que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, facilitá-la, impedir ou dificultar que a abandone:               (Incluído pela Lei nº 12.015, de 2009)
+Art. 218-B. Submeter, induzir ou atrair à prostituição ou outra forma de exploração sexual alguém menor de 18 (dezoito) anos ou que, por enfermidade ou deficiência mental, não tem o necessário discernimento para a prática do ato, facilitá-la, impedir ou dificultar que a abandone: (Incluído pela Lei nº 12.015, de 2009)
 
-Pena – reclusão, de 7 (sete) a 16 (dezesseis) anos, e multa.     (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 7 (sete) a 16 (dezesseis) anos, e multa. (Redação dada pela Lei nº 15.280, de 2025)
 
-§ 1º (Revogado).    (Redação dada pela Lei nº 15.280, de 2025)
+§ 1º (Revogado). (Redação dada pela Lei nº 15.280, de 2025)
 
-§ 2o  Incorre nas mesmas penas:             (Incluído pela Lei nº 12.015, de 2009)
+§ 2o Incorre nas mesmas penas: (Incluído pela Lei nº 12.015, de 2009)
 
-I - quem pratica conjunção carnal ou outro ato libidinoso com alguém menor de 18 (dezoito) e maior de 14 (catorze) anos na situação descrita no caput deste artigo;          (Incluído pela Lei nº 12.015, de 2009)
+I - quem pratica conjunção carnal ou outro ato libidinoso com alguém menor de 18 (dezoito) e maior de 14 (catorze) anos na situação descrita no caput deste artigo; (Incluído pela Lei nº 12.015, de 2009)
 
-II - o proprietário, o gerente ou o responsável pelo local em que se verifiquem as práticas referidas no caput deste artigo.              (Incluído pela Lei nº 12.015, de 2009)
+II - o proprietário, o gerente ou o responsável pelo local em que se verifiquem as práticas referidas no caput deste artigo. (Incluído pela Lei nº 12.015, de 2009)
 
-§ 3o  Na hipótese do inciso II do § 2o, constitui efeito obrigatório da condenação a cassação da licença de localização e de funcionamento do estabelecimento.                (Incluído pela Lei nº 12.015, de 2009)
+§ 3o Na hipótese do inciso II do § 2o, constitui efeito obrigatório da condenação a cassação da licença de localização e de funcionamento do estabelecimento. (Incluído pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.978, de 2014; inclusão — Lei nº 12.015, de 2009; redação — Lei nº 15.280, de 2025.
 
@@ -9518,19 +9518,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO II — DOS CRIMES SEXUAIS CONTRA VULNERÁVEL
 
-Divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia  (Incluído pela Lei nº 13.718, de 2018)
+Divulgação de cena de estupro ou de cena de estupro de vulnerável, de cena de sexo ou de pornografia (Incluído pela Lei nº 13.718, de 2018)
 
-Art. 218-C.  Oferecer, trocar, disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou divulgar, por qualquer meio - inclusive por meio de comunicação de massa ou sistema de informática ou telemática -, fotografia, vídeo ou outro registro audiovisual que contenha cena de estupro ou de estupro de vulnerável ou que faça apologia ou induza a sua prática, ou, sem o consentimento da vítima, cena de sexo, nudez ou pornografia:  (Incluído pela Lei nº 13.718, de 2018)
+Art. 218-C. Oferecer, trocar, disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou divulgar, por qualquer meio - inclusive por meio de comunicação de massa ou sistema de informática ou telemática -, fotografia, vídeo ou outro registro audiovisual que contenha cena de estupro ou de estupro de vulnerável ou que faça apologia ou induza a sua prática, ou, sem o consentimento da vítima, cena de sexo, nudez ou pornografia: (Incluído pela Lei nº 13.718, de 2018)
 
-Pena – reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se o fato não constitui crime mais grave.      (Redação dada pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 4 (quatro) a 10 (dez) anos, e multa, se o fato não constitui crime mais grave. (Redação dada pela Lei nº 15.280, de 2025)
 
-Aumento de pena   (Incluído pela Lei nº 13.718, de 2018)
+Aumento de pena (Incluído pela Lei nº 13.718, de 2018)
 
-§ 1º  A pena é aumentada de 1/3 (um terço) a 2/3 (dois terços) se o crime é praticado por agente que mantém ou tenha mantido relação íntima de afeto com a vítima ou com o fim de vingança ou humilhação.   (Incluído pela Lei nº 13.718, de 2018)
+§ 1º A pena é aumentada de 1/3 (um terço) a 2/3 (dois terços) se o crime é praticado por agente que mantém ou tenha mantido relação íntima de afeto com a vítima ou com o fim de vingança ou humilhação. (Incluído pela Lei nº 13.718, de 2018)
 
-Exclusão de ilicitude   (Incluído pela Lei nº 13.718, de 2018)
+Exclusão de ilicitude (Incluído pela Lei nº 13.718, de 2018)
 
-§ 2º  Não há crime quando o agente pratica as condutas descritas no caput deste artigo em publicação de natureza jornalística, científica, cultural ou acadêmica com a adoção de recurso que impossibilite a identificação da vítima, ressalvada sua prévia autorização, caso seja maior de 18 (dezoito) anos.  (Incluído pela Lei nº 13.718, de 2018)
+§ 2º Não há crime quando o agente pratica as condutas descritas no caput deste artigo em publicação de natureza jornalística, científica, cultural ou acadêmica com a adoção de recurso que impossibilite a identificação da vítima, ressalvada sua prévia autorização, caso seja maior de 18 (dezoito) anos. (Incluído pela Lei nº 13.718, de 2018)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.718, de 2018; redação — Lei nº 15.280, de 2025.
 
@@ -9563,7 +9563,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Rapto violento ou mediante fraude
 
-Art. 219 -            (Revogado pela Lei nº 11.106, de 2005)
+Art. 219 - (Revogado pela Lei nº 11.106, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 11.106, de 2005.
 
@@ -9595,7 +9595,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Rapto consensual
 
-Art. 220 -             (Revogado pela Lei nº 11.106, de 2005)
+Art. 220 - (Revogado pela Lei nº 11.106, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 11.106, de 2005.
 
@@ -9627,7 +9627,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Diminuição de pena
 
-Art. 221 -              (Revogado pela Lei nº 11.106, de 2005)
+Art. 221 - (Revogado pela Lei nº 11.106, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 11.106, de 2005.
 
@@ -9659,7 +9659,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Concurso de rapto e outro crime
 
-Art. 222 -              (Revogado pela Lei nº 11.106, de 2005)
+Art. 222 - (Revogado pela Lei nº 11.106, de 2005)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 11.106, de 2005.
 
@@ -9689,7 +9689,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO IV — DISPOSIÇÕES GERAIS
 
-Art. 223 -              (Revogado pela Lei nº 12.015, de 2009)
+Art. 223 - (Revogado pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.015, de 2009.
 
@@ -9718,7 +9718,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO IV — DISPOSIÇÕES GERAIS
 
-Art. 224 -                (Revogado pela Lei nº 12.015, de 2009)
+Art. 224 - (Revogado pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.015, de 2009.
 
@@ -9749,9 +9749,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Ação penal
 
-Art. 225.  Nos crimes definidos nos Capítulos I e II deste Título, procede-se mediante ação penal pública incondicionada.  (Redação dada pela Lei nº 13.718, de 2018)
+Art. 225. Nos crimes definidos nos Capítulos I e II deste Título, procede-se mediante ação penal pública incondicionada. (Redação dada pela Lei nº 13.718, de 2018)
 
-Parágrafo único. (Revogado).    (Redação dada pela Lei nº 13.718, de 2018)
+Parágrafo único. (Revogado). (Redação dada pela Lei nº 13.718, de 2018)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.718, de 2018.
 
@@ -9782,23 +9782,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Aumento de pena
 
-Art. 226. A pena é aumentada:               (Redação dada pela Lei nº 11.106, de 2005)
+Art. 226. A pena é aumentada: (Redação dada pela Lei nº 11.106, de 2005)
 
-I – de quarta parte, se o crime é cometido com o concurso de 2 (duas) ou mais pessoas;          (Redação dada pela Lei nº 11.106, de 2005)
+I – de quarta parte, se o crime é cometido com o concurso de 2 (duas) ou mais pessoas; (Redação dada pela Lei nº 11.106, de 2005)
 
-II - de metade, se o agente é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela;  (Redação dada pela Lei nº 13.718, de 2018)
+II - de metade, se o agente é ascendente, padrasto ou madrasta, tio, irmão, cônjuge, companheiro, tutor, curador, preceptor ou empregador da vítima ou por qualquer outro título tiver autoridade sobre ela; (Redação dada pela Lei nº 13.718, de 2018)
 
-III -   (Revogado pela Lei nº 11.106, de 2005)
+III - (Revogado pela Lei nº 11.106, de 2005)
 
-IV - de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado:   (Incluído pela Lei nº 13.718, de 2018)
+IV - de 1/3 (um terço) a 2/3 (dois terços), se o crime é praticado: (Incluído pela Lei nº 13.718, de 2018)
 
-Estupro coletivo   (Incluído pela Lei nº 13.718, de 2018)
+Estupro coletivo (Incluído pela Lei nº 13.718, de 2018)
 
-a) mediante concurso de 2 (dois) ou mais agentes;   (Incluído pela Lei nº 13.718, de 2018)
+a) mediante concurso de 2 (dois) ou mais agentes; (Incluído pela Lei nº 13.718, de 2018)
 
-Estupro corretivo   (Incluído pela Lei nº 13.718, de 2018)
+Estupro corretivo (Incluído pela Lei nº 13.718, de 2018)
 
-b) para controlar o comportamento social ou sexual da vítima.  (Incluído pela Lei nº 13.718, de 2018)
+b) para controlar o comportamento social ou sexual da vítima. (Incluído pela Lei nº 13.718, de 2018)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.106, de 2005; redação — Lei nº 13.718, de 2018; revogação — Lei nº 11.106, de 2005; inclusão — Lei nº 13.718, de 2018.
 
@@ -9835,7 +9835,7 @@ Art. 227 - Induzir alguém a satisfazer a lascívia de outrem:
 
 Pena - reclusão, de um a três anos.
 
-§ 1o Se a vítima é maior de 14 (catorze) e menor de 18 (dezoito) anos, ou se o agente é seu ascendente, descendente, cônjuge ou companheiro, irmão, tutor ou curador ou pessoa a quem esteja confiada para fins de educação, de tratamento ou de guarda:                 (Redação dada pela Lei nº 11.106, de 2005)
+§ 1o Se a vítima é maior de 14 (catorze) e menor de 18 (dezoito) anos, ou se o agente é seu ascendente, descendente, cônjuge ou companheiro, irmão, tutor ou curador ou pessoa a quem esteja confiada para fins de educação, de tratamento ou de guarda: (Redação dada pela Lei nº 11.106, de 2005)
 
 Pena - reclusão, de dois a cinco anos.
 
@@ -9873,15 +9873,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO V — DO LENOCÍNIO E DO TRÁFICO DE PESSOA PARA FIM DE PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL
 
-Favorecimento da prostituição ou outra forma de exploração sexual               (Redação dada pela Lei nº 12.015, de 2009)
+Favorecimento da prostituição ou outra forma de exploração sexual (Redação dada pela Lei nº 12.015, de 2009)
 
-Art. 228.  Induzir ou atrair alguém à prostituição ou outra forma de exploração sexual, facilitá-la, impedir ou dificultar que alguém a abandone:            (Redação dada pela Lei nº 12.015, de 2009)
+Art. 228. Induzir ou atrair alguém à prostituição ou outra forma de exploração sexual, facilitá-la, impedir ou dificultar que alguém a abandone: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.                   (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 12.015, de 2009)
 
-§ 1o  Se o agente é ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, tutor ou curador, preceptor ou empregador da vítima, ou se assumiu, por lei ou outra forma, obrigação de cuidado, proteção ou vigilância:               (Redação dada pela Lei nº 12.015, de 2009)
+§ 1o Se o agente é ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, tutor ou curador, preceptor ou empregador da vítima, ou se assumiu, por lei ou outra forma, obrigação de cuidado, proteção ou vigilância: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 3 (três) a 8 (oito) anos.                 (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 3 (três) a 8 (oito) anos. (Redação dada pela Lei nº 12.015, de 2009)
 
 § 2º - Se o crime, é cometido com emprego de violência, grave ameaça ou fraude:
 
@@ -9919,7 +9919,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Casa de prostituição
 
-Art. 229.  Manter, por conta própria ou de terceiro, estabelecimento em que ocorra exploração sexual, haja, ou não, intuito de lucro ou mediação direta do proprietário ou gerente:                  (Redação dada pela Lei nº 12.015, de 2009)
+Art. 229. Manter, por conta própria ou de terceiro, estabelecimento em que ocorra exploração sexual, haja, ou não, intuito de lucro ou mediação direta do proprietário ou gerente: (Redação dada pela Lei nº 12.015, de 2009)
 
 Pena - reclusão, de dois a cinco anos, e multa.
 
@@ -9956,13 +9956,13 @@ Art. 230 - Tirar proveito da prostituição alheia, participando diretamente de 
 
 Pena - reclusão, de um a quatro anos, e multa.
 
-§ 1o  Se a vítima é menor de 18 (dezoito) e maior de 14 (catorze) anos ou se o crime é cometido por ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, tutor ou curador, preceptor ou empregador da vítima, ou por quem assumiu, por lei ou outra forma, obrigação de cuidado, proteção ou vigilância:                (Redação dada pela Lei nº 12.015, de 2009)
+§ 1o Se a vítima é menor de 18 (dezoito) e maior de 14 (catorze) anos ou se o crime é cometido por ascendente, padrasto, madrasta, irmão, enteado, cônjuge, companheiro, tutor ou curador, preceptor ou empregador da vítima, ou por quem assumiu, por lei ou outra forma, obrigação de cuidado, proteção ou vigilância: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.               (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa. (Redação dada pela Lei nº 12.015, de 2009)
 
-§ 2o  Se o crime é cometido mediante violência, grave ameaça, fraude ou outro meio que impeça ou dificulte a livre manifestação da vontade da vítima:           (Redação dada pela Lei nº 12.015, de 2009)
+§ 2o Se o crime é cometido mediante violência, grave ameaça, fraude ou outro meio que impeça ou dificulte a livre manifestação da vontade da vítima: (Redação dada pela Lei nº 12.015, de 2009)
 
-Pena - reclusão, de 2 (dois) a 8 (oito) anos, sem prejuízo da pena correspondente à violência.                (Redação dada pela Lei nº 12.015, de 2009)
+Pena - reclusão, de 2 (dois) a 8 (oito) anos, sem prejuízo da pena correspondente à violência. (Redação dada pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.015, de 2009.
 
@@ -9991,9 +9991,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO V — DO LENOCÍNIO E DO TRÁFICO DE PESSOA PARA FIM DE PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL
 
-Tráfico internacional de pessoa para fim de exploração sexual             (Redação dada pela Lei nº 12.015, de 2009)
+Tráfico internacional de pessoa para fim de exploração sexual (Redação dada pela Lei nº 12.015, de 2009)
 
-Art. 231.               (Revogado pela Lei nº 13.344, de 2016)          (Vigência)
+Art. 231. (Revogado pela Lei nº 13.344, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.015, de 2009; revogação — Lei nº 13.344, de 2016.
 
@@ -10023,7 +10023,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO V — DO LENOCÍNIO E DO TRÁFICO DE PESSOA PARA FIM DE PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL
 
-Art. 231-A.               (Revogado pela Lei nº 13.344, de 2016)          (Vigência)
+Art. 231-A. (Revogado pela Lei nº 13.344, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.344, de 2016.
 
@@ -10053,7 +10053,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO V — DO LENOCÍNIO E DO TRÁFICO DE PESSOA PARA FIM DE PROSTITUIÇÃO OU OUTRA FORMA DE EXPLORAÇÃO SEXUAL
 
-Art. 232 -              (Revogado pela Lei nº 12.015, de 2009)
+Art. 232 - (Revogado pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.015, de 2009.
 
@@ -10084,19 +10084,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Promoção de migração ilegal
 
-Art. 232-A. Promover, por qualquer meio, com o fim de obter vantagem econômica, a entrada ilegal de estrangeiro em território nacional ou de brasileiro em país estrangeiro:        Incluído pela Lei nº 13.445, de 2017   Vigência
+Art. 232-A. Promover, por qualquer meio, com o fim de obter vantagem econômica, a entrada ilegal de estrangeiro em território nacional ou de brasileiro em país estrangeiro: Incluído pela Lei nº 13.445, de 2017 Vigência
 
-Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.        Incluído pela Lei nº 13.445, de 2017   Vigência
+Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa. Incluído pela Lei nº 13.445, de 2017 Vigência
 
-§ 1º  Na mesma pena incorre quem promover, por qualquer meio, com o fim de obter vantagem econômica, a saída de estrangeiro do território nacional para ingressar ilegalmente em país estrangeiro.        Incluído pela Lei nº 13.445, de 2017   Vigência
+§ 1º Na mesma pena incorre quem promover, por qualquer meio, com o fim de obter vantagem econômica, a saída de estrangeiro do território nacional para ingressar ilegalmente em país estrangeiro. Incluído pela Lei nº 13.445, de 2017 Vigência
 
-§ 2º  A pena é aumentada de 1/6 (um sexto) a 1/3 (um terço) se:        Incluído pela Lei nº 13.445, de 2017   Vigência
+§ 2º A pena é aumentada de 1/6 (um sexto) a 1/3 (um terço) se: Incluído pela Lei nº 13.445, de 2017 Vigência
 
-I - o crime é cometido com violência; ou        Incluído pela Lei nº 13.445, de 2017   Vigência
+I - o crime é cometido com violência; ou Incluído pela Lei nº 13.445, de 2017 Vigência
 
-II - a vítima é submetida a condição desumana ou degradante.        Incluído pela Lei nº 13.445, de 2017   Vigência
+II - a vítima é submetida a condição desumana ou degradante. Incluído pela Lei nº 13.445, de 2017 Vigência
 
-§ 3º  A pena prevista para o crime será aplicada sem prejuízo das correspondentes às infrações conexas.         Incluído pela Lei nº 13.445, de 2017   Vigência
+§ 3º A pena prevista para o crime será aplicada sem prejuízo das correspondentes às infrações conexas. Incluído pela Lei nº 13.445, de 2017 Vigência
 
 #### Interpretação
 
@@ -10196,17 +10196,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO VII — DISPOSIÇÕES GERAIS
 
-Aumento de pena                (Incluído pela Lei nº 12.015, de 2009)
+Aumento de pena (Incluído pela Lei nº 12.015, de 2009)
 
-Art. 234-A.  Nos crimes previstos neste Título a pena é aumentada:                (Incluído pela Lei nº 12.015, de 2009)
+Art. 234-A. Nos crimes previstos neste Título a pena é aumentada: (Incluído pela Lei nº 12.015, de 2009)
 
-I – (VETADO);               (Incluído pela Lei nº 12.015, de 2009)
+I – (VETADO); (Incluído pela Lei nº 12.015, de 2009)
 
-II – (VETADO);              (Incluído pela Lei nº 12.015, de 2009)
+II – (VETADO); (Incluído pela Lei nº 12.015, de 2009)
 
-III - de metade a 2/3 (dois terços), se do crime resulta gravidez;     (Redação dada pela Lei nº 13.718, de 2018)
+III - de metade a 2/3 (dois terços), se do crime resulta gravidez; (Redação dada pela Lei nº 13.718, de 2018)
 
-IV - de 1/3 (um terço) a 2/3 (dois terços), se o agente transmite à vítima doença sexualmente transmissível de que sabe ou deveria saber ser portador, ou se a vítima é idosa ou pessoa com deficiência.   (Redação dada pela Lei nº 13.718, de 2018)
+IV - de 1/3 (um terço) a 2/3 (dois terços), se o agente transmite à vítima doença sexualmente transmissível de que sabe ou deveria saber ser portador, ou se a vítima é idosa ou pessoa com deficiência. (Redação dada pela Lei nº 13.718, de 2018)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.015, de 2009; redação — Lei nº 13.718, de 2018.
 
@@ -10236,13 +10236,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO VII — DISPOSIÇÕES GERAIS
 
-Art. 234-B.  Os processos em que se apuram crimes definidos neste Título correrão em segredo de justiça.               (Incluído pela Lei nº 12.015, de 2009)
+Art. 234-B. Os processos em que se apuram crimes definidos neste Título correrão em segredo de justiça. (Incluído pela Lei nº 12.015, de 2009)
 
-§ 1º O sistema de consulta processual tornará de acesso público o nome completo do réu, seu número de inscrição no Cadastro de Pessoas Físicas (CPF) e a tipificação penal do fato a partir da condenação em primeira instância pelos crimes tipificados nos arts. 213, 216-B, 217-A, 218-B, 227, 228, 229 e 230 deste Código, inclusive com os dados da pena ou da medida de segurança imposta, ressalvada a possibilidade de o juiz fundamentadamente determinar a manutenção do sigilo.    (Incluído pela Lei nº 15.035, de 2024)
+§ 1º O sistema de consulta processual tornará de acesso público o nome completo do réu, seu número de inscrição no Cadastro de Pessoas Físicas (CPF) e a tipificação penal do fato a partir da condenação em primeira instância pelos crimes tipificados nos arts. 213, 216-B, 217-A, 218-B, 227, 228, 229 e 230 deste Código, inclusive com os dados da pena ou da medida de segurança imposta, ressalvada a possibilidade de o juiz fundamentadamente determinar a manutenção do sigilo. (Incluído pela Lei nº 15.035, de 2024)
 
-§ 2º Caso o réu seja absolvido em grau recursal, será restabelecido o sigilo sobre as informações a que se refere o § 1º deste artigo.     (Incluído pela Lei nº 15.035, de 2024)
+§ 2º Caso o réu seja absolvido em grau recursal, será restabelecido o sigilo sobre as informações a que se refere o § 1º deste artigo. (Incluído pela Lei nº 15.035, de 2024)
 
-§ 3º O réu condenado passará a ser monitorado por dispositivo eletrônico.     (Incluído pela Lei nº 15.035, de 2024)
+§ 3º O réu condenado passará a ser monitorado por dispositivo eletrônico. (Incluído pela Lei nº 15.035, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.015, de 2009; inclusão — Lei nº 15.035, de 2024.
 
@@ -10275,7 +10275,7 @@ Os processos de crimes contra a dignidade sexual correm em segredo de justiça. 
 
 **Localização:** PARTE ESPECIAL › TÍTULO VI — DOS CRIMES CONTRA A DIGNIDADE SEXUAL › CAPÍTULO VII — DISPOSIÇÕES GERAIS
 
-Art. 234-C.  (VETADO).                (Incluído pela Lei nº 12.015, de 2009)
+Art. 234-C. (VETADO). (Incluído pela Lei nº 12.015, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.015, de 2009.
 
@@ -10639,9 +10639,9 @@ Art. 245 - Entregar filho menor de 18 (dezoito) anos a pessoa em cuja companhia 
 
 Pena - detenção, de 1 (um) a 2 (dois) anos. (Redação dada pela Lei nº 7.251, de 1984)
 
-§ 1º - A pena é de 1 (um) a 4 (quatro) anos de reclusão, se o agente pratica delito para obter lucro, ou se o menor é enviado para o exterior.  (Incluído pela Lei nº 7.251, de 1984)
+§ 1º - A pena é de 1 (um) a 4 (quatro) anos de reclusão, se o agente pratica delito para obter lucro, ou se o menor é enviado para o exterior. (Incluído pela Lei nº 7.251, de 1984)
 
-§ 2º - Incorre, também, na pena do parágrafo anterior quem, embora excluído o perigo moral ou material, auxilia a efetivação de ato destinado ao envio de menor para o exterior, com o fito de obter lucro.  (Incluído pela Lei nº 7.251, de 1984)
+§ 2º - Incorre, também, na pena do parágrafo anterior quem, embora excluído o perigo moral ou material, auxilia a efetivação de ato destinado ao envio de menor para o exterior, com o fito de obter lucro. (Incluído pela Lei nº 7.251, de 1984)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.251, de 1984; inclusão — Lei nº 7.251, de 1984.
 
@@ -11383,7 +11383,7 @@ Art. 265 - Atentar contra a segurança ou o funcionamento de serviço de água, 
 
 Pena - reclusão, de um a cinco anos, e multa.
 
-Parágrafo único - Aumentar-se-á a pena de 1/3 (um terço) até a metade, se o dano ocorrer em virtude de subtração de material essencial ao funcionamento dos serviços.     (Incluído pela Lei nº 5.346, de 3.11.1967)
+Parágrafo único - Aumentar-se-á a pena de 1/3 (um terço) até a metade, se o dano ocorrer em virtude de subtração de material essencial ao funcionamento dos serviços. (Incluído pela Lei nº 5.346, de 3.11.1967)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 5.346, de 3.11.1967.
 
@@ -11413,19 +11413,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VIII — DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA › CAPÍTULO II — DOS CRIMES CONTRA A SEGURANÇA DOS MEIOS DE COMUNICAÇÃO E TRANSPORTE E OUTROS SERVIÇOS PÚBLICOS
 
-Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública    (Redação dada pela Lei nº 12.737, de 2012)    Vigência
+Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública (Redação dada pela Lei nº 12.737, de 2012) Vigência
 
 Art. 266 - Interromper ou perturbar serviço telegráfico, radiotelegráfico ou telefônico, impedir ou dificultar-lhe o restabelecimento:
 
-Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.    (Redação dada pela Lei nº 15.397, de 2026)
+Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 15.397, de 2026)
 
-§ 1o  Incorre na mesma pena quem interrompe serviço telemático ou de informação de utilidade pública, ou impede ou dificulta-lhe o restabelecimento.      (Incluído pela Lei nº 12.737, de 2012)     Vigência
+§ 1o Incorre na mesma pena quem interrompe serviço telemático ou de informação de utilidade pública, ou impede ou dificulta-lhe o restabelecimento. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-§ 2º Aplicam-se as penas em dobro se o crime é cometido:    (Redação dada pela Lei nº 15.397, de 2026)
+§ 2º Aplicam-se as penas em dobro se o crime é cometido: (Redação dada pela Lei nº 15.397, de 2026)
 
-I – por ocasião de calamidade pública;    (Incluído pela Lei nº 15.397, de 2026)
+I – por ocasião de calamidade pública; (Incluído pela Lei nº 15.397, de 2026)
 
-II – mediante subtração, dano ou destruição de equipamento instalado em estrutura utilizada para a prestação de serviços de telecomunicações.    (Incluído pela Lei nº 15.397, de 2026)
+II – mediante subtração, dano ou destruição de equipamento instalado em estrutura utilizada para a prestação de serviços de telecomunicações. (Incluído pela Lei nº 15.397, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.737, de 2012; redação — Lei nº 15.397, de 2026; inclusão — Lei nº 12.737, de 2012; inclusão — Lei nº 15.397, de 2026.
 
@@ -11647,7 +11647,7 @@ Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Redação dada pela L
 
 § 1º-A - Incorre nas penas deste artigo quem fabrica, vende, expõe à venda, importa, tem em depósito para vender ou, de qualquer forma, distribui ou entrega a consumo a substância alimentícia ou o produto falsificado, corrompido ou adulterado. (Incluído pela Lei nº 9.677, de 2.7.1998)
 
-§ 1º - Está sujeito às mesmas penas quem pratica as ações previstas neste artigo em relação a bebidas, com ou sem teor alcoólico.  (Redação dada pela Lei nº 9.677, de 2.7.1998)
+§ 1º - Está sujeito às mesmas penas quem pratica as ações previstas neste artigo em relação a bebidas, com ou sem teor alcoólico. (Redação dada pela Lei nº 9.677, de 2.7.1998)
 
 Modalidade culposa
 
@@ -11777,7 +11777,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Invólucro ou recipiente com falsa indicação
 
-Art. 275 - Inculcar, em invólucro ou recipiente de produtos alimentícios, terapêuticos ou medicinais, a existência de substância que não se encontra em seu conteúdo ou que nele existe em quantidade menor que a mencionada:  (Redação dada pela Lei nº 9.677, de 2.7.1998)
+Art. 275 - Inculcar, em invólucro ou recipiente de produtos alimentícios, terapêuticos ou medicinais, a existência de substância que não se encontra em seu conteúdo ou que nele existe em quantidade menor que a mencionada: (Redação dada pela Lei nº 9.677, de 2.7.1998)
 
 Pena - reclusão, de 1 (um) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 9.677, de 2.7.1998)
 
@@ -11977,9 +11977,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VIII — DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA › CAPÍTULO III — DOS CRIMES CONTRA A SAÚDE PÚBLICA
 
-COMÉRCIO, POSSE OU USO DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA. (Redação dada pela Lei nº 5.726, de 1971)      (Revogado pela Lei nº 6.368, 1976)
+COMÉRCIO, POSSE OU USO DE ENTORPECENTE OU SUBSTÂNCIA QUE DETERMINE DEPENDÊNCIA FÍSICA OU PSÍQUICA. (Redação dada pela Lei nº 5.726, de 1971) (Revogado pela Lei nº 6.368, 1976)
 
-Art. 281.   (Revogado pela Lei nº 6.368, 1976)
+Art. 281. (Revogado pela Lei nº 6.368, 1976)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 5.726, de 1971; revogação — Lei nº 6.368.
 
@@ -12008,21 +12008,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO VIII — DOS CRIMES CONTRA A INCOLUMIDADE PÚBLICA › CAPÍTULO III — DOS CRIMES CONTRA A SAÚDE PÚBLICA
 
-Exercício ilegal da medicina, medicina veterinária, arte dentária ou farmacêutica    (Redação dada pela Lei nº 15.425, de 2026)
+Exercício ilegal da medicina, medicina veterinária, arte dentária ou farmacêutica (Redação dada pela Lei nº 15.425, de 2026)
 
-Art. 282. Exercer, ainda que a título gratuito, a profissão de médico, médico veterinário, dentista ou farmacêutico, sem autorização legal ou excedendo-lhe os limites:     (Redação dada pela Lei nº 15.425, de 2026)
+Art. 282. Exercer, ainda que a título gratuito, a profissão de médico, médico veterinário, dentista ou farmacêutico, sem autorização legal ou excedendo-lhe os limites: (Redação dada pela Lei nº 15.425, de 2026)
 
-Pena – detenção, de 6 (seis) meses a 2 (dois) anos.     (Redação dada pela Lei nº 15.425, de 2026)
+Pena – detenção, de 6 (seis) meses a 2 (dois) anos. (Redação dada pela Lei nº 15.425, de 2026)
 
-§ 1º Se o crime é praticado com o fim de lucro, aplica-se também multa.     (Redação dada pela Lei nº 15.425, de 2026)
+§ 1º Se o crime é praticado com o fim de lucro, aplica-se também multa. (Redação dada pela Lei nº 15.425, de 2026)
 
-§ 2º Se do crime resulta lesão corporal de natureza grave ou gravíssima, responde também o agente pelos crimes descritos nos §§ 1º e 2º do art. 129 deste Código.     (Incluído pela Lei nº 15.425, de 2026)
+§ 2º Se do crime resulta lesão corporal de natureza grave ou gravíssima, responde também o agente pelos crimes descritos nos §§ 1º e 2º do art. 129 deste Código. (Incluído pela Lei nº 15.425, de 2026)
 
-§ 3º Se do crime resulta morte, responde também o agente pelo crime de homicídio, nos termos do art. 121 deste Código.     (Incluído pela Lei nº 15.425, de 2026)
+§ 3º Se do crime resulta morte, responde também o agente pelo crime de homicídio, nos termos do art. 121 deste Código. (Incluído pela Lei nº 15.425, de 2026)
 
-§ 4º Se do crime resulta lesão ou morte de animal, responde também o agente pelo crime previsto no art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais).     (Incluído pela Lei nº 15.425, de 2026)
+§ 4º Se do crime resulta lesão ou morte de animal, responde também o agente pelo crime previsto no art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais). (Incluído pela Lei nº 15.425, de 2026)
 
-§ 5º Incorre na conduta prevista no caput deste artigo o agente que exerce a profissão durante o período de suspensão ou após o cancelamento da habilitação ou do registro profissional.     (Incluído pela Lei nº 15.425, de 2026)
+§ 5º Incorre na conduta prevista no caput deste artigo o agente que exerce a profissão durante o período de suspensão ou após o cancelamento da habilitação ou do registro profissional. (Incluído pela Lei nº 15.425, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.425, de 2026; inclusão — Lei nº 15.425, de 2026.
 
@@ -12168,7 +12168,7 @@ Art. 286 - Incitar, publicamente, a prática de crime:
 
 Pena - detenção, de três a seis meses, ou multa.
 
-Parágrafo único. Incorre na mesma pena quem incita, publicamente, animosidade entre as Forças Armadas, ou delas contra os poderes constitucionais, as instituições civis ou a sociedade.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Parágrafo único. Incorre na mesma pena quem incita, publicamente, animosidade entre as Forças Armadas, ou delas contra os poderes constitucionais, as instituições civis ou a sociedade. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -12231,13 +12231,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Associação Criminosa
 
-Art. 288.  Associarem-se 3 (três) ou mais pessoas, para o fim específico de cometer crimes:     (Redação dada pela Lei nº 12.850, de 2013)     (Vigência)
+Art. 288. Associarem-se 3 (três) ou mais pessoas, para o fim específico de cometer crimes: (Redação dada pela Lei nº 12.850, de 2013) (Vigência)
 
-Pena - reclusão, de 1 (um) a 3 (três) anos.     (Redação dada pela Lei nº 12.850, de 2013)     (Vigência)
+Pena - reclusão, de 1 (um) a 3 (três) anos. (Redação dada pela Lei nº 12.850, de 2013) (Vigência)
 
-§ 1º A pena aumenta-se até a metade se a associação é armada ou se houver a participação de criança ou adolescente.    (Incluído pela Lei nº 15.245, de 2025)
+§ 1º A pena aumenta-se até a metade se a associação é armada ou se houver a participação de criança ou adolescente. (Incluído pela Lei nº 15.245, de 2025)
 
-§ 2º Incorre na pena prevista no caput deste artigo quem, de qualquer modo, solicitar ou contratar o cometimento de crime a integrante de associação criminosa, independentemente da aplicação da pena correspondente ao crime solicitado ou contratado.    (Incluído pela Lei nº 15.245, de 2025)
+§ 2º Incorre na pena prevista no caput deste artigo quem, de qualquer modo, solicitar ou contratar o cometimento de crime a integrante de associação criminosa, independentemente da aplicação da pena correspondente ao crime solicitado ou contratado. (Incluído pela Lei nº 15.245, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.850, de 2013; inclusão — Lei nº 15.245, de 2025.
 
@@ -12269,11 +12269,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO IX — DOS CRIMES CONTRA A PAZ PÚBLICA
 
-Constituição de milícia privada          (Incluído dada pela Lei nº 12.720, de 2012)
+Constituição de milícia privada (Incluído dada pela Lei nº 12.720, de 2012)
 
-Art. 288-A.  Constituir, organizar, integrar, manter ou custear organização paramilitar, milícia particular, grupo ou esquadrão com a finalidade de praticar qualquer dos crimes previstos neste Código:         (Incluído dada pela Lei nº 12.720, de 2012)
+Art. 288-A. Constituir, organizar, integrar, manter ou custear organização paramilitar, milícia particular, grupo ou esquadrão com a finalidade de praticar qualquer dos crimes previstos neste Código: (Incluído dada pela Lei nº 12.720, de 2012)
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos.         (Incluído dada pela Lei nº 12.720, de 2012)
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos. (Incluído dada pela Lei nº 12.720, de 2012)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.720, de 2012.
 
@@ -12668,15 +12668,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO X — DOS CRIMES CONTRA A FÉ PÚBLICA › CAPÍTULO III — DA FALSIDADE DOCUMENTAL
 
-Falsificação de documento particular    (Redação dada pela Lei nº 12.737, de 2012)    Vigência
+Falsificação de documento particular (Redação dada pela Lei nº 12.737, de 2012) Vigência
 
 Art. 298 - Falsificar, no todo ou em parte, documento particular ou alterar documento particular verdadeiro:
 
 Pena - reclusão, de um a cinco anos, e multa.
 
-Falsificação de cartão        (Incluído pela Lei nº 12.737, de 2012)     Vigência
+Falsificação de cartão (Incluído pela Lei nº 12.737, de 2012) Vigência
 
-Parágrafo único.  Para fins do disposto no caput, equipara-se a documento particular o cartão de crédito ou débito.      (Incluído pela Lei nº 12.737, de 2012)     Vigência
+Parágrafo único. Para fins do disposto no caput, equipara-se a documento particular o cartão de crédito ou débito. (Incluído pela Lei nº 12.737, de 2012) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.737, de 2012; inclusão — Lei nº 12.737, de 2012.
 
@@ -12709,7 +12709,7 @@ Falsidade ideológica
 
 Art. 299 - Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante:
 
-Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, de quinhentos mil réis a cinco contos de réis, se o documento é particular.     (Vide Lei nº 7.209, de 1984)
+Pena - reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, de quinhentos mil réis a cinco contos de réis, se o documento é particular. (Vide Lei nº 7.209, de 1984)
 
 Parágrafo único - Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.
 
@@ -13077,7 +13077,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 310 - Prestar-se a figurar como proprietário ou possuidor de ação, título ou valor pertencente a estrangeiro, nos casos em que a este é vedada por lei a propriedade ou a posse de tais bens: (Redação dada pela Lei nº 9.426, de 1996)
 
-Pena - detenção, de seis meses a três anos, e multa.  (Redação dada pela Lei nº 9.426, de 1996)
+Pena - detenção, de seis meses a três anos, e multa. (Redação dada pela Lei nº 9.426, de 1996)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.426, de 1996.
 
@@ -13106,27 +13106,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO X — DOS CRIMES CONTRA A FÉ PÚBLICA › CAPÍTULO IV — DE OUTRAS FALSIDADES
 
-Adulteração de sinal identificador de veículo   (Redação dada pela Lei nº 14.562, de 2023)
+Adulteração de sinal identificador de veículo (Redação dada pela Lei nº 14.562, de 2023)
 
-Art. 311. Adulterar, remarcar ou suprimir número de chassi, monobloco, motor, placa de identificação, ou qualquer sinal identificador de veículo automotor, elétrico, híbrido, de reboque, de semirreboque ou de suas combinações, bem como de seus componentes ou equipamentos, sem autorização do órgão competente:   (Redação dada pela Lei nº 14.562, de 2023)
+Art. 311. Adulterar, remarcar ou suprimir número de chassi, monobloco, motor, placa de identificação, ou qualquer sinal identificador de veículo automotor, elétrico, híbrido, de reboque, de semirreboque ou de suas combinações, bem como de seus componentes ou equipamentos, sem autorização do órgão competente: (Redação dada pela Lei nº 14.562, de 2023)
 
-Pena - reclusão, de três a seis anos, e multa.  (Redação dada pela Lei nº 9.426, de 1996)
+Pena - reclusão, de três a seis anos, e multa. (Redação dada pela Lei nº 9.426, de 1996)
 
-§ 1º - Se o agente comete o crime no exercício da função pública ou em razão dela, a pena é aumentada de um terço.  (Incluído pela Lei nº 9.426, de 1996)
+§ 1º - Se o agente comete o crime no exercício da função pública ou em razão dela, a pena é aumentada de um terço. (Incluído pela Lei nº 9.426, de 1996)
 
-§ 2º Incorrem nas mesmas penas do caput deste artigo:   (Redação dada pela Lei nº 14.562, de 2023)
+§ 2º Incorrem nas mesmas penas do caput deste artigo: (Redação dada pela Lei nº 14.562, de 2023)
 
-I – o funcionário público que contribui para o licenciamento ou registro do veículo remarcado ou adulterado, fornecendo indevidamente material ou informação oficial;   (Incluído pela Lei nº 14.562, de 2023)
+I – o funcionário público que contribui para o licenciamento ou registro do veículo remarcado ou adulterado, fornecendo indevidamente material ou informação oficial; (Incluído pela Lei nº 14.562, de 2023)
 
-II – aquele que adquire, recebe, transporta, oculta, mantém em depósito, fabrica, fornece, a título oneroso ou gratuito, possui ou guarda maquinismo, aparelho, instrumento ou objeto especialmente destinado à falsificação e/ou adulteração de que trata o caput deste artigo; ou   (Incluído pela Lei nº 14.562, de 2023)
+II – aquele que adquire, recebe, transporta, oculta, mantém em depósito, fabrica, fornece, a título oneroso ou gratuito, possui ou guarda maquinismo, aparelho, instrumento ou objeto especialmente destinado à falsificação e/ou adulteração de que trata o caput deste artigo; ou (Incluído pela Lei nº 14.562, de 2023)
 
-III – aquele que adquire, recebe, transporta, conduz, oculta, mantém em depósito, desmonta, monta, remonta, vende, expõe à venda, ou de qualquer forma utiliza, em proveito próprio ou alheio, veículo automotor, elétrico, híbrido, de reboque, semirreboque ou suas combinações ou partes, com número de chassi ou monobloco, placa de identificação ou qualquer sinal identificador veicular que devesse saber estar adulterado ou remarcado.   (Incluído pela Lei nº 14.562, de 2023)
+III – aquele que adquire, recebe, transporta, conduz, oculta, mantém em depósito, desmonta, monta, remonta, vende, expõe à venda, ou de qualquer forma utiliza, em proveito próprio ou alheio, veículo automotor, elétrico, híbrido, de reboque, semirreboque ou suas combinações ou partes, com número de chassi ou monobloco, placa de identificação ou qualquer sinal identificador veicular que devesse saber estar adulterado ou remarcado. (Incluído pela Lei nº 14.562, de 2023)
 
-§ 3º Praticar as condutas de que tratam os incisos II ou III do § 2º deste artigo no exercício de atividade comercial ou industrial:   (Incluído pela Lei nº 14.562, de 2023)
+§ 3º Praticar as condutas de que tratam os incisos II ou III do § 2º deste artigo no exercício de atividade comercial ou industrial: (Incluído pela Lei nº 14.562, de 2023)
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.   (Incluído pela Lei nº 14.562, de 2023)
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.562, de 2023)
 
-§ 4º Equipara-se a atividade comercial, para efeito do disposto no § 3º deste artigo, qualquer forma de comércio irregular ou clandestino, inclusive aquele exercido em residência.   (Incluído pela Lei nº 14.562, de 2023)
+§ 4º Equipara-se a atividade comercial, para efeito do disposto no § 3º deste artigo, qualquer forma de comércio irregular ou clandestino, inclusive aquele exercido em residência. (Incluído pela Lei nº 14.562, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.562, de 2023; redação — Lei nº 9.426, de 1996; inclusão — Lei nº 9.426, de 1996; inclusão — Lei nº 14.562, de 2023.
 
@@ -13157,27 +13157,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO X — DOS CRIMES CONTRA A FÉ PÚBLICA › CAPÍTULO V — DAS FRAUDES EM CERTAMES DE INTERESSE PÚBLICO
 
-Fraudes em certames de interesse público   (Incluído pela Lei 12.550. de 2011)
+Fraudes em certames de interesse público (Incluído pela Lei 12.550. de 2011)
 
-Art. 311-A.  Utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de:    (Incluído pela Lei 12.550. de 2011)
+Art. 311-A. Utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de: (Incluído pela Lei 12.550. de 2011)
 
-I - concurso público;    (Incluído pela Lei 12.550. de 2011)
+I - concurso público; (Incluído pela Lei 12.550. de 2011)
 
-II - avaliação ou exame públicos;    (Incluído pela Lei 12.550. de 2011)
+II - avaliação ou exame públicos; (Incluído pela Lei 12.550. de 2011)
 
-III - processo seletivo para ingresso no ensino superior; ou    (Incluído pela Lei 12.550. de 2011)
+III - processo seletivo para ingresso no ensino superior; ou (Incluído pela Lei 12.550. de 2011)
 
-IV - exame ou processo seletivo previstos em lei:    (Incluído pela Lei 12.550. de 2011)
+IV - exame ou processo seletivo previstos em lei: (Incluído pela Lei 12.550. de 2011)
 
-Pena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.    (Incluído pela Lei 12.550. de 2011)
+Pena - reclusão, de 1 (um) a 4 (quatro) anos, e multa. (Incluído pela Lei 12.550. de 2011)
 
-§ 1o  Nas mesmas penas incorre quem permite ou facilita, por qualquer meio, o acesso de pessoas não autorizadas às informações mencionadas no caput.    (Incluído pela Lei 12.550. de 2011)
+§ 1o Nas mesmas penas incorre quem permite ou facilita, por qualquer meio, o acesso de pessoas não autorizadas às informações mencionadas no caput. (Incluído pela Lei 12.550. de 2011)
 
-§ 2o  Se da ação ou omissão resulta dano à administração pública:    (Incluído pela Lei 12.550. de 2011)
+§ 2o Se da ação ou omissão resulta dano à administração pública: (Incluído pela Lei 12.550. de 2011)
 
-Pena - reclusão, de 2 (dois) a 6 (seis) anos, e multa.    (Incluído pela Lei 12.550. de 2011)
+Pena - reclusão, de 2 (dois) a 6 (seis) anos, e multa. (Incluído pela Lei 12.550. de 2011)
 
-§ 3o  Aumenta-se a pena de 1/3 (um terço) se o fato é cometido por funcionário público.   (Incluído pela Lei 12.550. de 2011)
+§ 3o Aumenta-se a pena de 1/3 (um terço) se o fato é cometido por funcionário público. (Incluído pela Lei 12.550. de 2011)
 
 #### Interpretação
 
@@ -13415,13 +13415,13 @@ Concussão
 
 Art. 316 - Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida:
 
-Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.           (Redação dada pela Lei nº 13.964, de 2019)
+Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa. (Redação dada pela Lei nº 13.964, de 2019)
 
 Excesso de exação
 
-§ 1º - Se o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza:          (Redação dada pela Lei nº 8.137, de 27.12.1990)
+§ 1º - Se o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza: (Redação dada pela Lei nº 8.137, de 27.12.1990)
 
-Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.         (Redação dada pela Lei nº 8.137, de 27.12.1990)
+Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 8.137, de 27.12.1990)
 
 § 2º - Se o funcionário desvia, em proveito próprio ou de outrem, o que recebeu indevidamente para recolher aos cofres públicos:
 
@@ -13460,7 +13460,7 @@ Corrupção passiva
 
 Art. 317 - Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem:
 
-Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa.         (Redação dada pela Lei nº 10.763, de 12.11.2003)
+Pena – reclusão, de 2 (dois) a 12 (doze) anos, e multa. (Redação dada pela Lei nº 10.763, de 12.11.2003)
 
 § 1º - A pena é aumentada de um terço, se, em conseqüência da vantagem ou promessa, o funcionário retarda ou deixa de praticar qualquer ato de ofício ou o pratica infringindo dever funcional.
 
@@ -13501,7 +13501,7 @@ Facilitação de contrabando ou descaminho
 
 Art. 318 - Facilitar, com infração de dever funcional, a prática de contrabando ou descaminho (art. 334):
 
-Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.         (Redação dada pela Lei nº 8.137, de 27.12.1990)
+Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa. (Redação dada pela Lei nº 8.137, de 27.12.1990)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 8.137, de 27.12.1990.
 
@@ -13534,7 +13534,7 @@ Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.         (Redaç
 
 Prevaricação
 
-Art. 319 - Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal:      (Vide ADPF 881)
+Art. 319 - Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal: (Vide ADPF 881)
 
 Pena - detenção, de três meses a um ano, e multa.
 
@@ -13565,7 +13565,7 @@ Prevaricação é o funcionário retardar ou deixar de praticar ato de ofício, 
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO I — DOS CRIMES PRATICADOS POR FUNCIONÁRIO PÚBLICO CONTRA A ADMINISTRAÇÃO EM GERAL
 
-Art. 319-A.  Deixar o Diretor de Penitenciária e/ou agente público, de cumprir seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo:         (Incluído pela Lei nº 11.466, de 2007).
+Art. 319-A. Deixar o Diretor de Penitenciária e/ou agente público, de cumprir seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo: (Incluído pela Lei nº 11.466, de 2007).
 
 Pena: detenção, de 3 (três) meses a 1 (um) ano.
 
@@ -13843,7 +13843,7 @@ Funcionário público
 
 Art. 327 - Considera-se funcionário público, para os efeitos penais, quem, embora transitoriamente ou sem remuneração, exerce cargo, emprego ou função pública.
 
-§ 1º - Equipara-se a funcionário público quem exerce cargo, emprego ou função em entidade paraestatal, e quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica da Administração Pública.      (Incluído pela Lei nº 9.983, de 2000)
+§ 1º - Equipara-se a funcionário público quem exerce cargo, emprego ou função em entidade paraestatal, e quem trabalha para empresa prestadora de serviço contratada ou conveniada para a execução de atividade típica da Administração Pública. (Incluído pela Lei nº 9.983, de 2000)
 
 § 2º - A pena será aumentada da terça parte quando os autores dos crimes previstos neste Capítulo forem ocupantes de cargos em comissão ou de função de direção ou assessoramento de órgão da administração direta, sociedade de economia mista, empresa pública ou fundação instituída pelo poder público. (Incluído pela Lei nº 6.799, de 1980)
 
@@ -14016,7 +14016,7 @@ Art. 332 - Solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem 
 
 Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Redação dada pela Lei nº 9.127, de 1995)
 
-Parágrafo único - A pena é aumentada da metade, se o agente alega ou insinua que a vantagem é também destinada ao funcionário.  (Redação dada pela Lei nº 9.127, de 1995)
+Parágrafo único - A pena é aumentada da metade, se o agente alega ou insinua que a vantagem é também destinada ao funcionário. (Redação dada pela Lei nº 9.127, de 1995)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.127, de 1995.
 
@@ -14084,23 +14084,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Descaminho
 
-Art. 334.  Iludir, no todo ou em parte, o pagamento de direito ou imposto devido pela entrada, pela saída ou pelo consumo de mercadoria (Redação dada pela Lei nº 13.008, de 26.6.2014)
+Art. 334. Iludir, no todo ou em parte, o pagamento de direito ou imposto devido pela entrada, pela saída ou pelo consumo de mercadoria (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
 Pena - reclusão, de 1 (um) a 4 (quatro) anos. (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-§ 1o  Incorre na mesma pena quem:  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+§ 1o Incorre na mesma pena quem: (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-I - pratica navegação de cabotagem, fora dos casos permitidos em lei;  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+I - pratica navegação de cabotagem, fora dos casos permitidos em lei; (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-II - pratica fato assimilado, em lei especial, a descaminho;  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+II - pratica fato assimilado, em lei especial, a descaminho; (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
 III - vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria de procedência estrangeira que introduziu clandestinamente no País ou importou fraudulentamente ou que sabe ser produto de introdução clandestina no território nacional ou de importação fraudulenta por parte de outrem; (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-IV - adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria de procedência estrangeira, desacompanhada de documentação legal ou acompanhada de documentos que sabe serem falsos.  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+IV - adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria de procedência estrangeira, desacompanhada de documentação legal ou acompanhada de documentos que sabe serem falsos. (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-§ 2o Equipara-se às atividades comerciais, para os efeitos deste artigo, qualquer forma de comércio irregular ou clandestino de mercadorias estrangeiras, inclusive o exercido em residências.  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+§ 2o Equipara-se às atividades comerciais, para os efeitos deste artigo, qualquer forma de comércio irregular ou clandestino de mercadorias estrangeiras, inclusive o exercido em residências. (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
-§ 3o A pena aplica-se em dobro se o crime de descaminho é praticado em transporte aéreo, marítimo ou fluvial.  (Redação dada pela Lei nº 13.008, de 26.6.2014)
+§ 3o A pena aplica-se em dobro se o crime de descaminho é praticado em transporte aéreo, marítimo ou fluvial. (Redação dada pela Lei nº 13.008, de 26.6.2014)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.008, de 26.6.2014.
 
@@ -14134,23 +14134,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Contrabando
 
-Art. 334-A. Importar ou exportar mercadoria proibida:  (Incluído pela Lei nº 13.008, de 26.6.2014)
+Art. 334-A. Importar ou exportar mercadoria proibida: (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-Pena - reclusão, de 2 (dois) a 5 ( cinco) anos.  (Incluído pela Lei nº 13.008, de 26.6.2014)
+Pena - reclusão, de 2 (dois) a 5 ( cinco) anos. (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-§ 1o Incorre na mesma pena quem:  (Incluído pela Lei nº 13.008, de 26.6.2014)
+§ 1o Incorre na mesma pena quem: (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-I - pratica fato assimilado, em lei especial, a contrabando;  (Incluído pela Lei nº 13.008, de 26.6.2014)
+I - pratica fato assimilado, em lei especial, a contrabando; (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-II - importa ou exporta clandestinamente mercadoria que dependa de registro, análise ou autorização de órgão público competente;  (Incluído pela Lei nº 13.008, de 26.6.2014)
+II - importa ou exporta clandestinamente mercadoria que dependa de registro, análise ou autorização de órgão público competente; (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-III - reinsere no território nacional mercadoria brasileira destinada à exportação;  (Incluído pela Lei nº 13.008, de 26.6.2014)
+III - reinsere no território nacional mercadoria brasileira destinada à exportação; (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-IV - vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria proibida pela lei brasileira;  (Incluído pela Lei nº 13.008, de 26.6.2014)
+IV - vende, expõe à venda, mantém em depósito ou, de qualquer forma, utiliza em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria proibida pela lei brasileira; (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-V - adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria proibida pela lei brasileira.  (Incluído pela Lei nº 13.008, de 26.6.2014)
+V - adquire, recebe ou oculta, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, mercadoria proibida pela lei brasileira. (Incluído pela Lei nº 13.008, de 26.6.2014)
 
-§ 2º - Equipara-se às atividades comerciais, para os efeitos deste artigo, qualquer forma de comércio irregular ou clandestino de mercadorias estrangeiras, inclusive o exercido em residências.  (Incluído pela Lei nº 4.729, de 14.7.1965)
+§ 2º - Equipara-se às atividades comerciais, para os efeitos deste artigo, qualquer forma de comércio irregular ou clandestino de mercadorias estrangeiras, inclusive o exercido em residências. (Incluído pela Lei nº 4.729, de 14.7.1965)
 
 § 3o A pena aplica-se em dobro se o crime de contrabando é praticado em transporte aéreo, marítimo ou fluvial. (Incluído pela Lei nº 13.008, de 26.6.2014)
 
@@ -14303,9 +14303,9 @@ II – o valor das contribuições devidas, inclusive acessórios, seja igual ou
 
 § 4o O valor a que se refere o parágrafo anterior será reajustado nas mesmas datas e nos mesmos índices do reajuste dos benefícios da previdência social. (Incluído pela Lei nº 9.983, de 2000)
 
-§ 5º A extinção de punibilidade de que trata o § 1º deste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002.      (Incluído pela Lei Complementar nº 225, de 2026)
+§ 5º A extinção de punibilidade de que trata o § 1º deste artigo não se aplica ao agente declarado devedor contumaz em decisão administrativa definitiva e inscrito no Cadastro Informativo dos créditos não quitados do setor público federal (Cadin), previsto na Lei nº 10.522, de 19 de julho de 2002. (Incluído pela Lei Complementar nº 225, de 2026)
 
-§ 6º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 5º deste artigo em relação aos atos praticados no período em que era assim considerado.     (Incluído pela Lei Complementar nº 225, de 2026)
+§ 6º O fato de o agente deixar de ser considerado devedor contumaz não afasta o disposto no § 5º deste artigo em relação aos atos praticados no período em que era assim considerado. (Incluído pela Lei Complementar nº 225, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 9.983, de 2000; inclusão — Lei Complementar nº 225, de 2026.
 
@@ -14341,7 +14341,7 @@ Sonegação de contribuição previdenciária é suprimir ou reduzir contribuiç
 
 Corrupção ativa em transação comercial internacional
 
-Art. 337-B. Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a funcionário público estrangeiro, ou a terceira pessoa, para determiná-lo a praticar, omitir ou retardar ato de ofício relacionado à transação comercial internacional:  (Incluído pela Lei nº 10.467, de 11.6.2002)
+Art. 337-B. Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a funcionário público estrangeiro, ou a terceira pessoa, para determiná-lo a praticar, omitir ou retardar ato de ofício relacionado à transação comercial internacional: (Incluído pela Lei nº 10.467, de 11.6.2002)
 
 Pena – reclusão, de 1 (um) a 8 (oito) anos, e multa. (Incluído pela Lei nº 10.467, de 11.6.2002)
 
@@ -14443,11 +14443,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Contratação direta ilegal       (Incluído pela Lei nº 14.133, de 2021)
+Contratação direta ilegal (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-E. Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei:       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-E. Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.      (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14477,11 +14477,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Frustração do caráter competitivo de licitação      (Incluído pela Lei nº 14.133, de 2021)
+Frustração do caráter competitivo de licitação (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-F. Frustrar ou fraudar, com o intuito de obter para si ou para outrem vantagem decorrente da adjudicação do objeto da licitação, o caráter competitivo do processo licitatório:       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-F. Frustrar ou fraudar, com o intuito de obter para si ou para outrem vantagem decorrente da adjudicação do objeto da licitação, o caráter competitivo do processo licitatório: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14510,11 +14510,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Patrocínio de contratação indevida     (Incluído pela Lei nº 14.133, de 2021)
+Patrocínio de contratação indevida (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-G. Patrocinar, direta ou indiretamente, interesse privado perante a Administração Pública, dando causa à instauração de licitação ou à celebração de contrato cuja invalidação vier a ser decretada pelo Poder Judiciário:     (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-G. Patrocinar, direta ou indiretamente, interesse privado perante a Administração Pública, dando causa à instauração de licitação ou à celebração de contrato cuja invalidação vier a ser decretada pelo Poder Judiciário: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14542,11 +14542,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Modificação ou pagamento irregular em contrato administrativo       (Incluído pela Lei nº 14.133, de 2021)
+Modificação ou pagamento irregular em contrato administrativo (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-H. Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem, inclusive prorrogação contratual, em favor do contratado, durante a execução dos contratos celebrados com a Administração Pública, sem autorização em lei, no edital da licitação ou nos respectivos instrumentos contratuais, ou, ainda, pagar fatura com preterição da ordem cronológica de sua exigibilidade:       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-H. Admitir, possibilitar ou dar causa a qualquer modificação ou vantagem, inclusive prorrogação contratual, em favor do contratado, durante a execução dos contratos celebrados com a Administração Pública, sem autorização em lei, no edital da licitação ou nos respectivos instrumentos contratuais, ou, ainda, pagar fatura com preterição da ordem cronológica de sua exigibilidade: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa.      (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14575,11 +14575,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Perturbação de processo licitatório       (Incluído pela Lei nº 14.133, de 2021)
+Perturbação de processo licitatório (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-I. Impedir, perturbar ou fraudar a realização de qualquer ato de processo licitatório:      (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-I. Impedir, perturbar ou fraudar a realização de qualquer ato de processo licitatório: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - detenção, de 6 (seis) meses a 3 (três) anos, e multa.      (Incluído pela Lei nº 14.133, de 2021)
+Pena - detenção, de 6 (seis) meses a 3 (três) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14607,11 +14607,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Violação de sigilo em licitação      (Incluído pela Lei nº 14.133, de 2021)
+Violação de sigilo em licitação (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-J. Devassar o sigilo de proposta apresentada em processo licitatório ou proporcionar a terceiro o ensejo de devassá-lo:      (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-J. Devassar o sigilo de proposta apresentada em processo licitatório ou proporcionar a terceiro o ensejo de devassá-lo: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - detenção, de 2 (dois) anos a 3 (três) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - detenção, de 2 (dois) anos a 3 (três) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14638,13 +14638,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Afastamento de licitante       (Incluído pela Lei nº 14.133, de 2021)
+Afastamento de licitante (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-K. Afastar ou tentar afastar licitante por meio de violência, grave ameaça, fraude ou oferecimento de vantagem de qualquer tipo:        (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-K. Afastar ou tentar afastar licitante por meio de violência, grave ameaça, fraude ou oferecimento de vantagem de qualquer tipo: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 3 (três) anos a 5 (cinco) anos, e multa, além da pena correspondente à violência.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 3 (três) anos a 5 (cinco) anos, e multa, além da pena correspondente à violência. (Incluído pela Lei nº 14.133, de 2021)
 
-Parágrafo único. Incorre na mesma pena quem se abstém ou desiste de licitar em razão de vantagem oferecida.        (Incluído pela Lei nº 14.133, de 2021)
+Parágrafo único. Incorre na mesma pena quem se abstém ou desiste de licitar em razão de vantagem oferecida. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14673,21 +14673,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Fraude em licitação ou contrato       (Incluído pela Lei nº 14.133, de 2021)
+Fraude em licitação ou contrato (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-L. Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela decorrente, mediante:        (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-L. Fraudar, em prejuízo da Administração Pública, licitação ou contrato dela decorrente, mediante: (Incluído pela Lei nº 14.133, de 2021)
 
-I - entrega de mercadoria ou prestação de serviços com qualidade ou em quantidade diversas das previstas no edital ou nos instrumentos contratuais;      (Incluído pela Lei nº 14.133, de 2021)
+I - entrega de mercadoria ou prestação de serviços com qualidade ou em quantidade diversas das previstas no edital ou nos instrumentos contratuais; (Incluído pela Lei nº 14.133, de 2021)
 
-II - fornecimento, como verdadeira ou perfeita, de mercadoria falsificada, deteriorada, inservível para consumo ou com prazo de validade vencido;       (Incluído pela Lei nº 14.133, de 2021)
+II - fornecimento, como verdadeira ou perfeita, de mercadoria falsificada, deteriorada, inservível para consumo ou com prazo de validade vencido; (Incluído pela Lei nº 14.133, de 2021)
 
-III - entrega de uma mercadoria por outra;        (Incluído pela Lei nº 14.133, de 2021)
+III - entrega de uma mercadoria por outra; (Incluído pela Lei nº 14.133, de 2021)
 
-IV - alteração da substância, qualidade ou quantidade da mercadoria ou do serviço fornecido;       (Incluído pela Lei nº 14.133, de 2021)
+IV - alteração da substância, qualidade ou quantidade da mercadoria ou do serviço fornecido; (Incluído pela Lei nº 14.133, de 2021)
 
-V - qualquer meio fraudulento que torne injustamente mais onerosa para a Administração Pública a proposta ou a execução do contrato:       (Incluído pela Lei nº 14.133, de 2021)
+V - qualquer meio fraudulento que torne injustamente mais onerosa para a Administração Pública a proposta ou a execução do contrato: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 4 (quatro) anos a 8 (oito) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14716,17 +14716,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Contratação inidônea        (Incluído pela Lei nº 14.133, de 2021)
+Contratação inidônea (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-M. Admitir à licitação empresa ou profissional declarado inidôneo:       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-M. Admitir à licitação empresa ou profissional declarado inidôneo: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 1 (um) ano a 3 (três) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 1 (um) ano a 3 (três) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
-§ 1º Celebrar contrato com empresa ou profissional declarado inidôneo:        (Incluído pela Lei nº 14.133, de 2021)
+§ 1º Celebrar contrato com empresa ou profissional declarado inidôneo: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 3 (três) anos a 6 (seis) anos, e multa.        (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 3 (três) anos a 6 (seis) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
-§ 2º Incide na mesma pena do caput deste artigo aquele que, declarado inidôneo, venha a participar de licitação e, na mesma pena do § 1º deste artigo, aquele que, declarado inidôneo, venha a contratar com a Administração Pública.       (Incluído pela Lei nº 14.133, de 2021)
+§ 2º Incide na mesma pena do caput deste artigo aquele que, declarado inidôneo, venha a participar de licitação e, na mesma pena do § 1º deste artigo, aquele que, declarado inidôneo, venha a contratar com a Administração Pública. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14755,11 +14755,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Impedimento indevido       (Incluído pela Lei nº 14.133, de 2021)
+Impedimento indevido (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-N. Obstar, impedir ou dificultar injustamente a inscrição de qualquer interessado nos registros cadastrais ou promover indevidamente a alteração, a suspensão ou o cancelamento de registro do inscrito:     (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-N. Obstar, impedir ou dificultar injustamente a inscrição de qualquer interessado nos registros cadastrais ou promover indevidamente a alteração, a suspensão ou o cancelamento de registro do inscrito: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa.       (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14787,15 +14787,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Omissão grave de dado ou de informação por projetista        (Incluído pela Lei nº 14.133, de 2021)
+Omissão grave de dado ou de informação por projetista (Incluído pela Lei nº 14.133, de 2021)
 
-Art. 337-O. Omitir, modificar ou entregar à Administração Pública levantamento cadastral ou condição de contorno em relevante dissonância com a realidade, em frustração ao caráter competitivo da licitação ou em detrimento da seleção da proposta mais vantajosa para a Administração Pública, em contratação para a elaboração de projeto básico, projeto executivo ou anteprojeto, em diálogo competitivo ou em procedimento de manifestação de interesse:       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-O. Omitir, modificar ou entregar à Administração Pública levantamento cadastral ou condição de contorno em relevante dissonância com a realidade, em frustração ao caráter competitivo da licitação ou em detrimento da seleção da proposta mais vantajosa para a Administração Pública, em contratação para a elaboração de projeto básico, projeto executivo ou anteprojeto, em diálogo competitivo ou em procedimento de manifestação de interesse: (Incluído pela Lei nº 14.133, de 2021)
 
-Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa.         (Incluído pela Lei nº 14.133, de 2021)
+Pena - reclusão, de 6 (seis) meses a 3 (três) anos, e multa. (Incluído pela Lei nº 14.133, de 2021)
 
-§ 1º Consideram-se condição de contorno as informações e os levantamentos suficientes e necessários para a definição da solução de projeto e dos respectivos preços pelo licitante, incluídos sondagens, topografia, estudos de demanda, condições ambientais e demais elementos ambientais impactantes, considerados requisitos mínimos ou obrigatórios em normas técnicas que orientam a elaboração de projetos.       (Incluído pela Lei nº 14.133, de 2021)
+§ 1º Consideram-se condição de contorno as informações e os levantamentos suficientes e necessários para a definição da solução de projeto e dos respectivos preços pelo licitante, incluídos sondagens, topografia, estudos de demanda, condições ambientais e demais elementos ambientais impactantes, considerados requisitos mínimos ou obrigatórios em normas técnicas que orientam a elaboração de projetos. (Incluído pela Lei nº 14.133, de 2021)
 
-§ 2º Se o crime é praticado com o fim de obter benefício, direto ou indireto, próprio ou de outrem, aplica-se em dobro a pena prevista no caput deste artigo.         (Incluído pela Lei nº 14.133, de 2021)
+§ 2º Se o crime é praticado com o fim de obter benefício, direto ou indireto, próprio ou de outrem, aplica-se em dobro a pena prevista no caput deste artigo. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14824,7 +14824,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO II-B — DOS CRIMES EM LICITAÇÕES E CONTRATOS ADMINISTRATIVOS
 
-Art. 337-P. A pena de multa cominada aos crimes previstos neste Capítulo seguirá a metodologia de cálculo prevista neste Código e não poderá ser inferior a 2% (dois por cento) do valor do contrato licitado ou celebrado com contratação direta.       (Incluído pela Lei nº 14.133, de 2021)
+Art. 337-P. A pena de multa cominada aos crimes previstos neste Capítulo seguirá a metodologia de cálculo prevista neste Código e não poderá ser inferior a 2% (dois por cento) do valor do contrato licitado ou celebrado com contratação direta. (Incluído pela Lei nº 14.133, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.133, de 2021.
 
@@ -14883,17 +14883,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO III — DOS CRIMES CONTRA A ADMINISTRAÇÃO DA JUSTIÇA
 
-Descumprimento de medidas protetivas de urgência      (Incluído pela Lei nº 15.280, de 2025)
+Descumprimento de medidas protetivas de urgência (Incluído pela Lei nº 15.280, de 2025)
 
-Art. 338-A. Descumprir decisão judicial que defere medidas protetivas de urgência:     (Incluído pela Lei nº 15.280, de 2025)
+Art. 338-A. Descumprir decisão judicial que defere medidas protetivas de urgência: (Incluído pela Lei nº 15.280, de 2025)
 
-Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.      (Incluído pela Lei nº 15.280, de 2025)
+Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa. (Incluído pela Lei nº 15.280, de 2025)
 
-§ 1º A configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas.     (Incluído pela Lei nº 15.280, de 2025)
+§ 1º A configuração do crime independe da competência civil ou criminal do juiz que deferiu as medidas. (Incluído pela Lei nº 15.280, de 2025)
 
-§ 2º Na hipótese de prisão em flagrante, apenas a autoridade judicial pode conceder fiança.    (Incluído pela Lei nº 15.280, de 2025)
+§ 2º Na hipótese de prisão em flagrante, apenas a autoridade judicial pode conceder fiança. (Incluído pela Lei nº 15.280, de 2025)
 
-§ 3º O disposto neste artigo não exclui a aplicação de outras sanções cabíveis.    (Incluído pela Lei nº 15.280, de 2025)
+§ 3º O disposto neste artigo não exclui a aplicação de outras sanções cabíveis. (Incluído pela Lei nº 15.280, de 2025)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.280, de 2025.
 
@@ -14927,7 +14927,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Denunciação caluniosa
 
-Art. 339. Dar causa à instauração de inquérito policial, de procedimento investigatório criminal, de processo judicial, de processo administrativo disciplinar, de inquérito civil ou de ação de improbidade administrativa contra alguém, imputando-lhe crime, infração ético-disciplinar ou ato ímprobo de que o sabe inocente:        (Redação dada pela Lei nº 14.110, de 2020)
+Art. 339. Dar causa à instauração de inquérito policial, de procedimento investigatório criminal, de processo judicial, de processo administrativo disciplinar, de inquérito civil ou de ação de improbidade administrativa contra alguém, imputando-lhe crime, infração ético-disciplinar ou ato ímprobo de que o sabe inocente: (Redação dada pela Lei nº 14.110, de 2020)
 
 Pena - reclusão, de dois a oito anos, e multa.
 
@@ -15026,7 +15026,7 @@ Falso testemunho ou falsa perícia
 
 Art. 342. Fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, ou administrativo, inquérito policial, ou em juízo arbitral: (Redação dada pela Lei nº 10.268, de 28.8.2001)
 
-Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.     (Redação dada pela Lei nº 12.850, de 2013)     (Vigência)
+Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa. (Redação dada pela Lei nº 12.850, de 2013) (Vigência)
 
 § 1o As penas aumentam-se de um sexto a um terço, se o crime é praticado mediante suborno ou se cometido com o fim de obter prova destinada a produzir efeito em processo penal, ou em processo civil em que for parte entidade da administração pública direta ou indireta.(Redação dada pela Lei nº 10.268, de 28.8.2001)
 
@@ -15101,7 +15101,7 @@ Art. 344 - Usar de violência ou grave ameaça, com o fim de favorecer interesse
 
 Pena - reclusão, de um a quatro anos, e multa, além da pena correspondente à violência.
 
-Parágrafo único. A pena aumenta-se de 1/3 (um terço) até a metade se o processo envolver crime contra a dignidade sexual.       (Incluído pela Lei nº 14.245, de 2021)
+Parágrafo único. A pena aumenta-se de 1/3 (um terço) até a metade se o processo envolver crime contra a dignidade sexual. (Incluído pela Lei nº 14.245, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.245, de 2021.
 
@@ -15296,7 +15296,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO III — DOS CRIMES CONTRA A ADMINISTRAÇÃO DA JUSTIÇA
 
-Art. 349-A.  Ingressar, promover, intermediar, auxiliar ou facilitar a entrada de aparelho telefônico de comunicação móvel, de rádio ou similar, sem autorização legal, em estabelecimento prisional. (Incluído pela Lei nº 12.012, de 2009).
+Art. 349-A. Ingressar, promover, intermediar, auxiliar ou facilitar a entrada de aparelho telefônico de comunicação móvel, de rádio ou similar, sem autorização legal, em estabelecimento prisional. (Incluído pela Lei nº 12.012, de 2009).
 
 Pena: detenção, de 3 (três) meses a 1 (um) ano. (Incluído pela Lei nº 12.012, de 2009).
 
@@ -15329,7 +15329,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Exercício arbitrário ou abuso de poder
 
-Art. 350 -  (Revogado pela Lei nº 13.869, de 2019)      (Vigência)
+Art. 350 - (Revogado pela Lei nº 13.869, de 2019) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.869, de 2019.
 
@@ -15852,7 +15852,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XI — DOS CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA › CAPÍTULO IV — DOS CRIMES CONTRA AS FINANÇAS PÚBLICAS
 
-Aumento de despesa total com pessoal no último ano do mandato ou legislatura  (Incluído pela Lei nº 10.028, de 2000)
+Aumento de despesa total com pessoal no último ano do mandato ou legislatura (Incluído pela Lei nº 10.028, de 2000)
 
 Art. 359-G. Ordenar, autorizar ou executar ato que acarrete aumento de despesa total com pessoal, nos cento e oitenta dias anteriores ao final do mandato ou da legislatura: (Incluído pela Lei nº 10.028, de 2000))
 
@@ -15917,17 +15917,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO I — DOS CRIMES CONTRA A SOBERANIA NACIONAL
 
-Atentado à soberania         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Atentado à soberania (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-I. Negociar com governo ou grupo estrangeiro, ou seus agentes, com o fim de provocar atos típicos de guerra contra o País ou invadi-lo:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-I. Negociar com governo ou grupo estrangeiro, ou seus agentes, com o fim de provocar atos típicos de guerra contra o País ou invadi-lo: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 3 (três) a 8 (oito) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 3 (três) a 8 (oito) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 1º Aumenta-se a pena de metade até o dobro, se declarada guerra em decorrência das condutas previstas no caput deste artigo.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 1º Aumenta-se a pena de metade até o dobro, se declarada guerra em decorrência das condutas previstas no caput deste artigo. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 2º Se o agente participa de operação bélica com o fim de submeter o território nacional, ou parte dele, ao domínio ou à soberania de outro país:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 2º Se o agente participa de operação bélica com o fim de submeter o território nacional, ou parte dele, ao domínio ou à soberania de outro país: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 4 (quatro) a 12 (doze) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 4 (quatro) a 12 (doze) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -15957,11 +15957,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO I — DOS CRIMES CONTRA A SOBERANIA NACIONAL
 
-Atentado à integridade nacional         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Atentado à integridade nacional (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-J. Praticar violência ou grave ameaça com a finalidade de desmembrar parte do território nacional para constituir país independente:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-J. Praticar violência ou grave ameaça com a finalidade de desmembrar parte do território nacional para constituir país independente: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 2 (dois) a 6 (seis) anos, além da pena correspondente à violência.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 2 (dois) a 6 (seis) anos, além da pena correspondente à violência. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -15990,23 +15990,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO I — DOS CRIMES CONTRA A SOBERANIA NACIONAL
 
-Espionagem         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Espionagem (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-K. Entregar a governo estrangeiro, a seus agentes, ou a organização criminosa estrangeira, em desacordo com determinação legal ou regulamentar, documento ou informação classificados como secretos ou ultrassecretos nos termos da lei, cuja revelação possa colocar em perigo a preservação da ordem constitucional ou a soberania nacional:          (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-K. Entregar a governo estrangeiro, a seus agentes, ou a organização criminosa estrangeira, em desacordo com determinação legal ou regulamentar, documento ou informação classificados como secretos ou ultrassecretos nos termos da lei, cuja revelação possa colocar em perigo a preservação da ordem constitucional ou a soberania nacional: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 3 (três) a 12 (doze) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 3 (três) a 12 (doze) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 1º Incorre na mesma pena quem presta auxílio a espião, conhecendo essa circunstância, para subtraí-lo à ação da autoridade pública.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 1º Incorre na mesma pena quem presta auxílio a espião, conhecendo essa circunstância, para subtraí-lo à ação da autoridade pública. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 2º Se o documento, dado ou informação é transmitido ou revelado com violação do dever de sigilo:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 2º Se o documento, dado ou informação é transmitido ou revelado com violação do dever de sigilo: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 6 (seis) a 15 (quinze) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 6 (seis) a 15 (quinze) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 3º Facilitar a prática de qualquer dos crimes previstos neste artigo mediante atribuição, fornecimento ou empréstimo de senha, ou de qualquer outra forma de acesso de pessoas não autorizadas a sistemas de informações:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 3º Facilitar a prática de qualquer dos crimes previstos neste artigo mediante atribuição, fornecimento ou empréstimo de senha, ou de qualquer outra forma de acesso de pessoas não autorizadas a sistemas de informações: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - detenção, de 1 (um) a 4 (quatro) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - detenção, de 1 (um) a 4 (quatro) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-§ 4º Não constitui crime a comunicação, a entrega ou a publicação de informações ou de documentos com o fim de expor a prática de crime ou a violação de direitos humanos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+§ 4º Não constitui crime a comunicação, a entrega ou a publicação de informações ou de documentos com o fim de expor a prática de crime ou a violação de direitos humanos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16036,11 +16036,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO II — DOS CRIMES CONTRA AS INSTITUIÇÕES DEMOCRÁTICAS
 
-Abolição violenta do Estado Democrático de Direito         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Abolição violenta do Estado Democrático de Direito (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-L. Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-L. Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 4 (quatro) a 8 (oito) anos, além da pena correspondente à violência.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, além da pena correspondente à violência. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16070,11 +16070,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO II — DOS CRIMES CONTRA AS INSTITUIÇÕES DEMOCRÁTICAS
 
-Golpe de Estado         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Golpe de Estado (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-M. Tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-M. Tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 4 (quatro) a 12 (doze) anos, além da pena correspondente à violência.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 4 (quatro) a 12 (doze) anos, além da pena correspondente à violência. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16104,7 +16104,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO II — DOS CRIMES CONTRA AS INSTITUIÇÕES DEMOCRÁTICAS
 
-Art. 359-M-A. Quando os delitos deste Capítulo estão inseridos no mesmo contexto, a pena deverá ser aplicada, ainda que existente desígnio autônomo, na forma do concurso formal próprio de que trata a primeira parte do art. 70, vedando-se a aplicação do cômputo cumulativo previsto na segunda parte desse dispositivo e no art. 69, todos deste Código.     (Incluído pela Lei nº 15.402, de 2026)
+Art. 359-M-A. Quando os delitos deste Capítulo estão inseridos no mesmo contexto, a pena deverá ser aplicada, ainda que existente desígnio autônomo, na forma do concurso formal próprio de que trata a primeira parte do art. 70, vedando-se a aplicação do cômputo cumulativo previsto na segunda parte desse dispositivo e no art. 69, todos deste Código. (Incluído pela Lei nº 15.402, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.402, de 2026.
 
@@ -16138,7 +16138,7 @@ Incluído pela Lei nº 15.402/2026, o artigo determina que, quando os crimes con
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO II — DOS CRIMES CONTRA AS INSTITUIÇÕES DEMOCRÁTICAS
 
-Art. 359-M-B. Quando os crimes previstos neste Capítulo forem praticados em contexto de multidão, a pena será reduzida de 1/3 (um terço) a 2/3 (dois terços), desde que o agente não tenha praticado ato de financiamento ou exercido papel de liderança.   (Incluído pela Lei nº 15.402, de 2026)
+Art. 359-M-B. Quando os crimes previstos neste Capítulo forem praticados em contexto de multidão, a pena será reduzida de 1/3 (um terço) a 2/3 (dois terços), desde que o agente não tenha praticado ato de financiamento ou exercido papel de liderança. (Incluído pela Lei nº 15.402, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.402, de 2026.
 
@@ -16169,13 +16169,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO III — DOS CRIMES CONTRA O FUNCIONAMENTO DAS INSTITUIÇÕES DEMOCRÁTICAS NO PROCESSO ELEITORAL
 
-Interrupção do processo eleitoral         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Interrupção do processo eleitoral (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-N. Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-N. Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecido pela Justiça Eleitoral: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-(VETADO)         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+(VETADO) (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16204,7 +16204,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO III — DOS CRIMES CONTRA O FUNCIONAMENTO DAS INSTITUIÇÕES DEMOCRÁTICAS NO PROCESSO ELEITORAL
 
-Art. 359-O. (VETADO).         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-O. (VETADO). (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16233,13 +16233,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO III — DOS CRIMES CONTRA O FUNCIONAMENTO DAS INSTITUIÇÕES DEMOCRÁTICAS NO PROCESSO ELEITORAL
 
-Violência política         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Violência política (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-P. Restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-P. Restringir, impedir ou dificultar, com emprego de violência física, sexual ou psicológica, o exercício de direitos políticos a qualquer pessoa em razão de seu sexo, raça, cor, etnia, religião ou procedência nacional: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa, além da pena correspondente à violência.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa, além da pena correspondente à violência. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-(VETADO)         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+(VETADO) (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16268,7 +16268,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO III — DOS CRIMES CONTRA O FUNCIONAMENTO DAS INSTITUIÇÕES DEMOCRÁTICAS NO PROCESSO ELEITORAL
 
-Art. 359-Q. (VETADO).         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-Q. (VETADO). (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16297,11 +16297,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO IV — DOS CRIMES CONTRA O FUNCIONAMENTO DOS SERVIÇOS ESSENCIAIS
 
-Sabotagem         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Sabotagem (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Art. 359-R. Destruir ou inutilizar meios de comunicação ao público, estabelecimentos, instalações ou serviços destinados à defesa nacional, com o fim de abolir o Estado Democrático de Direito:         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-R. Destruir ou inutilizar meios de comunicação ao público, estabelecimentos, instalações ou serviços destinados à defesa nacional, com o fim de abolir o Estado Democrático de Direito: (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-Pena - reclusão, de 2 (dois) a 8 (oito) anos.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Pena - reclusão, de 2 (dois) a 8 (oito) anos. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16330,9 +16330,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO VI — DISPOSIÇÕES COMUNS
 
-Art. 359-T. Não constitui crime previsto neste Título a manifestação crítica aos poderes constitucionais nem a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, de reuniões, de greves, de aglomerações ou de qualquer outra forma de manifestação política com propósitos sociais.         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-T. Não constitui crime previsto neste Título a manifestação crítica aos poderes constitucionais nem a atividade jornalística ou a reivindicação de direitos e garantias constitucionais por meio de passeatas, de reuniões, de greves, de aglomerações ou de qualquer outra forma de manifestação política com propósitos sociais. (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
-(VETADO)         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+(VETADO) (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 
@@ -16362,7 +16362,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** PARTE ESPECIAL › TÍTULO XII — DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO › CAPÍTULO VI — DISPOSIÇÕES COMUNS
 
-Art. 359-U. (VETADO).”         (Incluído pela Lei nº 14.197, de 2021)        (Vigência)
+Art. 359-U. (VETADO).” (Incluído pela Lei nº 14.197, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.197, de 2021.
 

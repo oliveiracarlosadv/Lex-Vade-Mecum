@@ -153,6 +153,11 @@ I: Após 12 meses de contrato (período aquisitivo), o empregado tem férias de 
 P: 30 dias com até 5 faltas, com redução escalonada || Mais de 32 faltas injustificadas afastam o direito || Vedado descontar faltas das férias (§ 1º)
 K: período aquisitivo; duração das férias; faltas injustificadas
 
+@CLT 130-A
+I: O artigo tratava das férias proporcionais no regime de tempo parcial (de 8 a 18 dias, conforme a jornada semanal, com redução à metade para quem tivesse mais de 7 faltas injustificadas). Foi revogado pela Lei nº 13.467/2017 (Reforma Trabalhista): hoje o empregado em tempo parcial tem férias nas mesmas proporções do art. 130 (art. 58-A, § 7º).
+P: Dispositivo revogado pela Reforma Trabalhista || Férias do tempo parcial seguem o art. 130
+K: tempo parcial; férias; revogação; Lei nº 13.467/2017
+
 @CLT 131
 I: Lista ausências que não contam como falta para férias: as do art. 473, licença-maternidade ou aborto, acidente do trabalho ou doença atestada pelo INSS (salvo o caso do art. 133, IV), ausências justificadas pela empresa, suspensão preventiva seguida de absolvição e dias sem serviço.
 P: Ausências legais não reduzem as férias || Inclui licença-maternidade e acidente || Ausência abonada pela empresa também não conta
