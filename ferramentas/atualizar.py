@@ -93,10 +93,13 @@ def so_forma(a, b):
     x, y = _plano(a), _plano(b)
     if x == y:
         return True
-    tira = lambda s: re.sub(r'~~|⟦|⟧', '', s)
+    tira = lambda s: re.sub(r'~~|⟦|⟧|\s', '', s)   # sem marcas de riscado e sem espaços
     if tira(x) != tira(y):
         return False
-    riscado = lambda s: re.sub(r'\W', '', ''.join(re.findall(r'~~(.*?)~~', s)))
+    # Notas de alteração ("(Revogado pela ...)", "(Redação dada ...)") que entram ou saem do riscado
+    # também são só forma: o texto, com as notas, é o mesmo.
+    nota = re.compile(r'\((?:Revogad|Redação|Incluíd|Acrescentad|Renumerad|Extint|Vide|Vigência|Suprimid)[^()]*(?:\([^()]*\)[^()]*)*\)')
+    riscado = lambda s: re.sub(r'\W', '', nota.sub('', ''.join(re.findall(r'~~(.*?)~~', s))))
     return abs(len(riscado(x)) - len(riscado(y))) <= 16   # só o rótulo ("Art. 59.", "§ 4o", "IV -") mudou de lado
 
 

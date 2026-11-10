@@ -2,7 +2,4 @@
 
 ## 10/11/2026
 
-- Artigos com texto alterado no Planalto: 15, 18, 19, 21, 27, 28, 30, 43, 44, 80, 86, 89, 158, 212, 264, 278, 285, 314, 324, 374, 375, 378, 379, 380, 387, 418, 419, 422, 430, 446, 518, 519, 529, 544, 555, 556, 558, 595, 601, 709, 723, 857
-- Artigos incluídos: —
-- Artigos retirados do texto: —
-- Interpretações dos artigos alterados ou incluídos marcadas como pendentes de revisão.
+- Conferência das 19h: a extração do Planalto foi atualizada (tratamento do texto riscado). Nenhum dispositivo vigente mudou; mudou só a marcação de trechos revogados: notas "(Revogado ...)" fora do riscado e retirada de fragmentos de redações antigas já substituídas. Nenhuma interpretação ficou pendente de revisão.

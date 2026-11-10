@@ -204,8 +204,6 @@ c) três representantes dos empregadores. (Redação dada pela Lei nº 8.619, de
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Institui o Conselho Nacional de Previdência Social (CNPS), órgão colegiado com 6 representantes do Governo e 9 da sociedade civil (aposentados, trabalhadores e empregadores), com mandato de 2 anos. Os representantes dos trabalhadores têm abono das faltas e estabilidade da nomeação até um ano após o mandato, salvo falta grave apurada judicialmente.
 
 #### Pontos Importantes
@@ -919,8 +917,6 @@ Art. 17. O Regulamento disciplinará a forma de inscrição do segurado e dos de
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.403, de 8.1.2002; revogação — Medida Provisória nº 664, de 2014; revogação — Lei nº 13.135, de 2015; revogação — Lei nº 11.718, de 2008; redação — Lei nº 12.873, de 2013; inclusão — Lei nº 11.718, de 2008; revogação — Lei nº 12.873, de 2013; inclusão — Lei nº 13.846, de 2019.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O regulamento disciplina a inscrição de segurados e dependentes; o dependente se inscreve ao requerer o benefício. A inscrição do segurado especial vincula-o ao grupo familiar e ao imóvel rural, e é vedada a inscrição após a morte de contribuinte individual ou facultativo.
 
@@ -2099,8 +2095,6 @@ Parágrafo único. ~~Havendo divergências de informações, para fins de reconh
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 O INSS comprova a atividade do segurado especial pelo cadastro do art. 38-A: a partir de 2023, exclusivamente por ele; para períodos anteriores, por autodeclaração ratificada por entidades credenciadas e órgãos públicos. Havendo divergência, pode exigir os documentos do art. 106.
 
 #### Pontos Importantes
@@ -2243,8 +2237,6 @@ IV - ~~variação de preços de produtos necessários e relevantes para a aferi�
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.699, de 9.7.2003; revogação — lei nº 11.430, de 2006; redação — Medida Provisória nº 2.187; revogação — Medida Provisória nº 316, de 2006; revogação — Lei nº 11.430, de 2006; revogação — Lei nº 8.542, de 1992; inclusão — Medida Provisória nº 2.187; revogação — Medida Provisória nº 2.187; inclusão — Lei nº 8.444, de 1992; renumeração — Lei nº 8.444, de 1992; revogação — Lei nº 8.880, de 1994.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo revogado pela Lei nº 11.430, de 2006. Tratava do reajustamento dos benefícios, hoje disciplinado no art. 41-A. A numeração é mantida para preservar as remissões e o histórico da lei.
 
@@ -2991,8 +2983,6 @@ Parágrafo único. ~~Não será devido auxílio-doença ao segurado que se filia
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 O auxílio-doença, hoje auxílio por incapacidade temporária (EC nº 103/2019), é devido ao segurado incapaz para seu trabalho ou atividade habitual por mais de 15 dias, cumprida a carência quando exigida. Não é devido por doença preexistente à filiação, salvo agravamento, nem ao preso em regime fechado; o benefício é suspenso com a prisão e cessa após 60 dias.
 
 #### Pontos Importantes
@@ -3068,8 +3058,6 @@ III - ~~(VETADO). (Incluído pela Lei nº 13.135, de 2015)~~ (Revogado pela Medi
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.876, de 26.11.99; revogação — Lei nº 9.032, de 1995; inclusão — Lei nº 13.135, de 2015; revogação — Medida Provisória nº 871, de 2019; revogação — Lei nº 13.846, de 2019; inclusão — Lei nº 13.457, de 2017; revogação — Medida Provisória nº 1.113, de 2022; redação — Lei nº 15.265, de 2025; inclusão — Lei nº 15.265, de 2025; inclusão — Lei nº 14.441, de 2022; inclusão — Lei nº 15.157, de 2025.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O auxílio-doença começa no 16º dia de afastamento para o empregado (a empresa paga os 15 primeiros dias) e na data da incapacidade para os demais, ou no requerimento se passados mais de 30 dias. O ato deve fixar prazo estimado (alta programada) e, sem ele, o benefício cessa em 120 dias, salvo pedido de prorrogação. A perícia pode ser por telemedicina ou análise documental, mas o benefício documental dura no máximo 30 dias (Lei nº 15.265/2025). Portadores de AIDS, Alzheimer, Parkinson e ELA ficam dispensados de reavaliação (Lei nº 15.157/2025).
 
@@ -3966,8 +3954,6 @@ Art. 79. ~~Não se aplica o disposto no art. 103 desta Lei ao pensionista menor,
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo revogado pela Medida Provisória nº 871, de 2019. Tratava da não aplicação do prazo do art. 103 ao pensionista menor, incapaz ou ausente. A numeração é mantida para preservar as remissões e o histórico da lei.
 
 #### Pontos Importantes
@@ -4229,8 +4215,6 @@ Art. 86. O auxílio-acidente será concedido, como indenização, ao segurado qu
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.528, de 1997; revogação — Lei nº 9.032, de 1995.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O auxílio-acidente é indenização de 50% do salário de benefício ao segurado que, após consolidadas as lesões de acidente de qualquer natureza, ficar com sequela que reduza a capacidade para o trabalho habitual. Começa no dia seguinte à cessação do auxílio-doença, acumula-se com salário e outros benefícios, mas não com aposentadoria, e cessa na véspera dela. A perda auditiva só gera o benefício se reduzir a capacidade de trabalho. O STJ dispensa grau mínimo de redução (Tema 416).
 
@@ -4790,8 +4774,6 @@ III - subsidiar autoridade judiciária na concessão de curatela, conforme disp�
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Os beneficiários de auxílio por incapacidade temporária, auxílio-acidente, aposentadoria por incapacidade permanente e o pensionista inválido devem, sob pena de suspensão, submeter-se a exame médico, reabilitação e tratamento gratuito (exceto cirurgia e transfusão, que são facultativas). Ficam isentos do exame os aposentados e pensionistas com 55 anos e 15 de benefício ou com 60 anos, salvo para acréscimo de 25%, recuperação a pedido ou curatela. A perícia pode ser domiciliar, por telemedicina ou documental.
 
 #### Pontos Importantes
@@ -5025,8 +5007,6 @@ X – licença de ocupação ou permissão outorgada pelo Incra. (Incluído pela
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.846, de 2019; redação — Lei nº 11.718, de 2008; revogação — Medida Provisória nº 871, de 2019; inclusão — Lei nº 11.718, de 2008.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Lista documentos que complementam a autodeclaração e o cadastro do segurado especial para provar a atividade rural, como contratos de arrendamento ou parceria, DAP do Pronaf, bloco de notas do produtor, notas fiscais de venda, comprovantes de contribuição sobre a comercialização, declaração de IR e licença do Incra. O rol é exemplificativo ("entre outros"), e a declaração de sindicato deixou de valer como prova (Lei nº 13.846/2019). O inciso I (contrato de trabalho ou CTPS) aparece tachado no Planalto, sem nota de revogação.
 
@@ -5393,8 +5373,6 @@ II – assinatura eletrônica qualificada de que trata a Lei nº 14.063, de 23 d
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.846, de 2019; revogação — Lei nº 15.327, de 2026; redação — Lei nº 15.327, de 2026; redação — Lei nº 14.431, de 2022; inclusão — Lei nº 15.327, de 2026; renumeração — Lei nº 10.820, de 17.12.2003; inclusão — Lei nº 10.820, de 17.12.2003; redação — Lei nº 14.131, de 2021; revogação — Lei nº 14.438, de 2022.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Podem ser descontados do benefício contribuições devidas, valores pagos indevidamente (até 30% por mês, inclusive após revogação de decisão judicial), imposto de renda, pensão alimentícia e empréstimos consignados até 45% (35% para empréstimos, 5% para cartão de crédito consignado e 5% para cartão consignado de benefício). A Lei nº 15.327/2026 revogou o desconto de mensalidades de associações de aposentados. Os créditos por pagamento indevido são inscritos em dívida ativa, inclusive contra terceiros que sabiam da fraude.
 
@@ -6110,8 +6088,6 @@ II - ~~convertido em pagamento, devidamente deduzido do valor da exigência, se 
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 O Conselho de Recursos da Previdência Social (CRPS) julga recursos contra decisões do INSS sobre benefícios, contestações do Fator Acidentário de Prevenção, prova da atividade rural e CNIS, e compensação entre regimes. Entrar com ação judicial sobre o mesmo pedido implica renúncia ao recurso administrativo, e o recurso pode ser interposto direto no CRPS, que manda o INSS reanalisar em até 30 dias.
 
 #### Pontos Importantes
@@ -6455,8 +6431,6 @@ Parágrafo único. ~~A autoridade que reduzir ou relevar multa já aplicada reco
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 449, de 2008; revogação — Lei nº 11.941, de 2009.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Infrações a esta lei sem penalidade específica sujeitam o responsável a multa variável conforme a gravidade, com valores atualizados por atos infralegais.
 
@@ -6877,8 +6851,6 @@ Meses de contribuição exigidos
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.032, de 1995.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Tabela de transição da carência para quem se inscreveu na Previdência urbana até 24/7/1991 e para trabalhadores e empregadores rurais, de 60 meses em 1991 a 180 em 2011, conforme o ano em que se completaram os requisitos.
 
