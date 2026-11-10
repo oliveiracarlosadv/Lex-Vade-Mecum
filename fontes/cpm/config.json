@@ -1,0 +1,16 @@
+{
+ "nome": "Código Penal Militar — CPM (Decreto-Lei nº 1.001/1969)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1001.htm",
+ "saida": "leis/cpm/cpm-completa.md",
+ "minimo_artigos": 400,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CPM",
+   "start": "PARTE GERAL",
+   "end": "Brasília, 21 de outubro de 1969",
+   "self_name": "deste Código",
+   "rubricas": true
+  }
+ ]
+}

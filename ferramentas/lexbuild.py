@@ -62,10 +62,15 @@ pos = 0
 # com "rubricas": true na parte, a linha solta logo antes de um artigo passa a ser a primeira
 # linha desse artigo, e não a última do artigo anterior nem parte do nome do Título/Capítulo.
 RUB_NAO = re.compile(r'^(Arts?\.|Ar\.|At\.|§|Parágrafo|Pena\s*[-–—]|[IVXLCl]+(-[A-Z])?\s*[-–]|[a-z]\)|\(|⟦|~~)')
+# Rubrica revogada, riscada com a nota da revogação ("~~Pena de reforma~~ (Revogado pela ...) Vigência", CPM).
+RUB_RISCADA = re.compile(r'^~~([^~]+)~~\s*\(Revogad[^)]*\)(?:\s*Vigência)?$')
 def rubrica(k, fim, maiusc=False):
     # Logo depois de um Título/Capítulo, a linha em maiúsculas é o nome da divisão; entre artigos,
     # é rubrica (ex.: art. 281 do CP). Rubricas com nota de alteração podem passar de 160 caracteres.
-    if not L[k] or RUB_NAO.match(L[k]) or HEAD.match(L[k]) or len(L[k]) > 260 or (L[k] == L[k].upper() and not maiusc): return False
+    if not L[k]: return False
+    rr = RUB_RISCADA.match(L[k])
+    txt = rr.group(1).strip() if rr else L[k]
+    if (not rr and RUB_NAO.match(txt)) or (rr and (RUB_NAO.match(txt) or ART.match(txt))) or HEAD.match(txt) or len(L[k]) > 260 or (txt == txt.upper() and not maiusc): return False
     # Notas de alteração entre a rubrica e o artigo ("Juiz das Garantias" / "(Incluído ...)") são puladas.
     j = k + 1
     while j < fim and (not L[j] or L[j].startswith('(')): j += 1

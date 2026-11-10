@@ -28,8 +28,12 @@
     const struck = [...p.querySelectorAll('strike,s,del,[data-struck]')].filter(
       (e) => !e.parentElement.closest('strike,s,del,[data-struck]')
     );
-    const pst = p.hasAttribute('data-struck');
-    if (!struck.length && !pst) return;
+    if (!struck.length && !p.hasAttribute('data-struck')) return;
+    // Parte não riscada do parágrafo, sem a nota "(Revogado ...)". Se sobrar só uma letra ou
+    // espaços (o Planalto às vezes deixa o "A" de "Art." fora do riscado, como no CPM), o
+    // parágrafo conta como inteiramente riscado.
+    const restoSemRisco = (() => { const s = p.cloneNode(true); s.querySelectorAll('strike,s,del,[data-struck]').forEach((e) => e.remove()); return s.textContent.replace(/\(Revogad[\s\S]*$/, '').replace(/[\s.,;:()]+/g, ''); })();
+    const pst = p.hasAttribute('data-struck') || restoSemRisco.length <= 1;
     const revoked = /Revogad/.test(p.innerText);
     const targets = pst ? [p] : struck;
     if (revoked) {
