@@ -736,8 +736,6 @@ Parágrafo único. ~~A Carteira de Trabalho e Previdência Social será fornecid
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Os procedimentos de emissão da CTPS são definidos em regulamento do Ministério competente, com prioridade para o formato eletrônico.
 
 #### Pontos Importantes
@@ -851,8 +849,6 @@ Art. 18 ~~- A anotação da profissão na Carteira de Trabalho e Previdência So
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pelo Decreto-lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -882,8 +878,6 @@ Art. 19 ~~- Além do interessado, o empregador ou o sindicato poderão solicitar
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 926, de 10.10.1969; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -944,8 +938,6 @@ Art. 21 ~~- Em caso de imprestabilidade ou esgotamento do espaço destinado a re
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 5.686, de 3.8.1971; revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1131,8 +1123,6 @@ Art. 27. ~~Se o candidato à Carteira Profissional não a houver recebido, dentr
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -1166,8 +1156,6 @@ Parágrafo único. ~~A entrega das carteiras arquivadas ficará sujeita ao emolu
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1329,8 +1317,6 @@ Art. 30 ~~- Os acidentes do trabalho serão obrigatoriamente anotados pelo Insti
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 926, de 10.10.1969; revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1752,8 +1738,6 @@ Art. 43 ~~- Para o registro dos livros ou fichas a que se refere o artigo 42 nã
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -1785,8 +1769,6 @@ Art. 44 ~~- As Delegacias Regionais e órgãos autorizados remeterão mensalment
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -3341,8 +3323,6 @@ Parágrafo único ~~- Considera-se aprendiz a menor de 12 (doze) a 18 (dezoito) 
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei 10.097, de 2000). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -3541,8 +3521,6 @@ Art. 86 ~~- Sempre que, em uma região ou zona, se verifiquem diferenças de pad
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -3644,8 +3622,6 @@ Art. 89 ~~- De cada Comissão não poderá participar como representante dos emp
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 4.589, de 11.12.1964.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -5994,8 +5970,6 @@ b) ao uso dos equipamentos de proteção individual fornecidos pela empresa. (In
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Os empregados devem observar as normas de segurança e as instruções do empregador e colaborar com sua aplicação. A recusa injustificada a seguir as instruções ou a usar os equipamentos de proteção individual fornecidos é ato faltoso, que pode levar a sanções disciplinares e até justa causa.
 
 #### Pontos Importantes
@@ -7861,8 +7835,6 @@ Parágrafo único. ~~Não está compreendida na proibição deste artigo a remo�
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-Lei nº 229, de 28.2.1967; revogação — Lei nº 6.514, de 22.12.1977; inclusão — Decreto-Lei nº 229, de 28.2.1967.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -10180,8 +10152,6 @@ Art. 264 ~~- O serviço de estiva será executado com o melhor aproveitamento po
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 2.872, de 18.9.1956). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -10612,8 +10582,6 @@ Art. 278 ~~-O horário de trabalho na estiva, em cada porto do país, será fixa
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -10839,8 +10807,6 @@ f) ~~aplica-se à mão de obra dos trabalhos no movimento de mercadorias o dispo
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 8.630, de 25.2.1993.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -11731,8 +11697,6 @@ Art. 314. ~~Excetuam-se do disposto no artigo anterior os favores da alínea c d
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 972, de 17.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -12050,8 +12014,6 @@ Parágrafo único. ~~Cada estabelecimento deverá possuir, escriturado em dia, u
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13766,8 +13728,6 @@ Art. 374 ~~- A duração normal diária do trabalho da mulher poderá ser no má
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -13799,8 +13759,6 @@ Parágrafo único. ~~Nas localidades em que não houver serviço médico oficial
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13892,8 +13850,6 @@ Art. 378. ~~Na carteira profissional da mulher, serão feitas, em folhas especia
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -13925,8 +13881,6 @@ Art. 379 ~~- É permitido o trabalho noturno da mulher maior de 18 (dezoito) ano
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.189, de 4.6.1984; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13960,8 +13914,6 @@ b) ~~atestado de capacidade física e mental, passado por médico oficial.~~ (Re
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 7.855, de 24.10.1989; revogação — Medida provisória nº 89, de 1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -14171,8 +14123,6 @@ b) ~~nas atividades perigosas ou insalubres, especificadas nos quadros para este
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -15621,8 +15571,6 @@ Parágrafo único. ~~O atestado de vacina a que se refere o item V do artigo 417
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -15660,8 +15608,6 @@ Art. 419 ~~- A prova de saber ler, escrever e contar, a que se refere a alínea 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -15774,8 +15720,6 @@ Art. 422 ~~- Nas localidades em que não houver serviço de emissão de carteira
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -16065,8 +16009,6 @@ Parágrafo único. ~~Aos candidatos rejeitados pela seleção profissional dever
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.097, de 2000; inclusão — Lei nº 10.097, de 2000; inclusão — Lei nº 13.420, de 2017; redação — Lei nº 13.420, de 2017; revogação — Medida Provisória nº 1.116, de 2022.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Se os Serviços Nacionais de Aprendizagem (Sistema S) não tiverem vagas suficientes, a formação pode ser feita por escolas técnicas, entidades sem fins lucrativos registradas no conselho de direitos da criança e entidades desportivas, entre outras.
 
@@ -16683,8 +16625,6 @@ Parágrafo único. ~~Ao marido ou pai é facultado pleitear a recisão do contra
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 7.855, de 24.10.1989; revogação — Medida provisória nº 89, de 1989.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -19765,8 +19705,6 @@ c) ~~o valor do patrimônio.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.194
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Regulava o pedido de reconhecimento sindical ao Ministro e o conteúdo dos estatutos, com cláusulas de subordinação ao interesse nacional. Hoje vale a autonomia estatutária (CF, art. 8º, I), restando o registro administrativo.
 
 #### Pontos Importantes
@@ -19806,8 +19744,6 @@ Parágrafo único. ~~O reconhecimento investe a associação nas prerrogativas d
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Previa a investidura sindical da associação mais representativa a juízo do Ministro, por número de associados, serviços e patrimônio. A escolha estatal é incompatível com a autonomia sindical; a representatividade hoje é discutida no registro e na Justiça.
 
@@ -20194,8 +20130,6 @@ a) ~~os que professarem ideologias incompatíveis com as instituições ou os in
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 8.080; inclusão — Decreto-lei nº 229, de 28.2.1967; redação — Decreto-lei nº 8.740, de 19.1.1946; revogação — Lei nº 1.667, de 1952.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Fixa condições para votar e ser votado em eleições sindicais: mais de 6 meses de associação e 2 anos de atividade, maioridade e gozo dos direitos sindicais, com voto obrigatório. Os estatutos podem dispor de modo diverso, em respeito à autonomia.
 
@@ -20776,8 +20710,6 @@ IX - na concessão de bolsas de estudo para si ou para seus filhos, obedecida a 
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 A associação sindical é livre, mas o sindicalizado tem preferência, em igualdade de condições, em admissões em empresas públicas, concursos habitacionais e outros benefícios. Preferências assim são discutidas à luz da liberdade sindical negativa (CF, art. 8º, V).
 
 #### Pontos Importantes
@@ -21206,8 +21138,6 @@ c) que criar obstáculos à execução da política econômica adotada pelo Gove
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Previa a cassação da carta sindical por descumprimento de condições legais ou por obstáculos à política econômica do governo. Não foi recepcionado pela Constituição, que garante autonomia sindical.
 
 #### Pontos Importantes
@@ -21247,8 +21177,6 @@ Parágrafo único - No caso de dissolução, por se achar a associação incursa
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 A cassação da carta não cancelava o registro nem dissolvia a entidade, cuja dissolução seguia a lei civil. Hoje a dissolução compulsória de associações exige decisão judicial transitada em julgado (CF, art. 5º, XIX).
 
@@ -21331,8 +21259,6 @@ Art. 558 - São obrigadas ao registro todas as associações profissionais const
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 925, de 10.10.1969; revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Determinava o registro das associações profissionais, que poderiam representar os interesses individuais dos associados. O registro sindical persiste no Ministério do Trabalho para controle da unicidade (Súmula 677 do STF).
 
@@ -22788,8 +22714,6 @@ c) ~~de três pessoas de conhecimentos especializados respectivamente em assunto
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -22988,8 +22912,6 @@ Art. 601 ~~- No ato da admissão de qualquer empregado, dele exigirá o empregad
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.467, de 2017.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -27435,8 +27357,6 @@ III - ~~Julgar os recursos das decisões dos presidentes dos Tribunais Regionais
 
 #### Interpretação
 
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
-
 Dispositivo integralmente revogado (Revogado pela Lei nº 14.824, de 2024). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
 #### Pontos Importantes
@@ -27931,8 +27851,6 @@ c) ~~suspensão, pelo prazo de dois anos a cinco anos, do direito de serem eleit
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.842, de 7.10.1999.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 9.842, de 7.10.1999). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -33097,8 +33015,6 @@ Parágrafo único. Quando não houver sindicato representativo da categoria econ
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 7.321, de 14.2.1945; revogação — Decreto-lei nº 7.321, de 14.2.1945; redação — Lei nº 2.693, de 23.12.1955.
 
 #### Interpretação
-
-> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 A legitimidade para o dissídio coletivo é das entidades sindicais; sem sindicato da categoria, cabe à federação e, na falta, à confederação. Desde a EC nº 45/2004, o dissídio de natureza econômica exige comum acordo das partes (CF, art. 114, § 2º).
 
