@@ -1,0 +1,224 @@
+@CPM 1
+I: Consagra o princípio da legalidade no direito penal militar: não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal (CF, art. 5º, XXXIX).
+P: Reserva legal || Anterioridade da lei penal militar
+K: princípio da legalidade; anterioridade; crime militar
+
+@CPM 2
+I: A lei posterior que deixa de considerar o fato crime (abolitio criminis) faz cessar a execução e os efeitos penais da condenação. A lei posterior que de qualquer modo favorece o agente retroage, mesmo após a condenação definitiva. Para saber qual é mais benéfica, cada lei é considerada no conjunto de suas normas, sem combinar partes de leis diferentes.
+P: Abolitio criminis || Retroatividade da lei mais benéfica || Vedação de combinar leis
+K: retroatividade; lei mais benéfica; abolitio criminis; lei penal no tempo
+
+@CPM 3
+I: As medidas de segurança seguem a lei vigente ao tempo da sentença, mas prevalece a lei do tempo da execução se for diferente. Por força da Constituição (art. 5º, XL), a lei posterior mais gravosa não deve prejudicar o réu.
+P: Lei aplicável às medidas de segurança || Leitura conforme a irretroatividade da lei mais grave
+K: medida de segurança; lei penal no tempo
+
+@CPM 4
+I: A lei excepcional ou temporária aplica-se aos fatos praticados durante sua vigência, mesmo depois de terminado o seu prazo ou as circunstâncias que a motivaram (ultra-atividade).
+P: Ultra-atividade da lei excepcional ou temporária
+K: lei temporária; lei excepcional; ultra-atividade
+
+@CPM 5
+I: Adota a teoria da atividade: o crime considera-se praticado no momento da ação ou omissão, ainda que o resultado ocorra depois.
+P: Teoria da atividade
+K: tempo do crime; teoria da atividade
+
+@CPM 6
+I: Quanto ao lugar, o crime considera-se praticado onde se desenvolveu a atividade criminosa, no todo ou em parte, e onde se produziu ou deveria produzir-se o resultado (teoria da ubiquidade). Nos crimes omissivos, é o lugar em que a ação deveria ser realizada.
+P: Teoria da ubiquidade || Lugar dos crimes omissivos
+K: lugar do crime; ubiquidade
+
+@CPM 7
+I: A lei penal militar aplica-se aos crimes cometidos no território nacional ou fora dele, mesmo que o agente seja processado no exterior, ressalvados tratados. Aeronaves e navios brasileiros sob comando militar são extensão do território, e a lei alcança crimes a bordo de embarcações estrangeiras em lugar sujeito à administração militar que atentem contra as instituições militares.
+P: Territorialidade e extraterritorialidade || Território por extensão || Conceito de navio
+K: territorialidade; extraterritorialidade; navio; aeronave
+
+@CPM 8
+I: A pena cumprida no estrangeiro pelo mesmo crime é descontada da pena imposta no Brasil, se idêntica, ou a atenua, se diversa.
+P: Desconto da pena cumprida no estrangeiro
+K: pena cumprida no estrangeiro; detração
+
+@CPM 9
+I: Define os crimes militares em tempo de paz. São crimes militares os previstos só no CPM ou nele de modo diverso; e, desde a Lei nº 13.491/2017, também os crimes da legislação penal comum quando praticados nas situações do inciso II, como por militar da ativa contra militar da ativa, em lugar sujeito à administração militar ou em serviço. Civis e militares inativos cometem crime militar contra as instituições militares nas hipóteses do inciso III. Crimes dolosos contra a vida cometidos por militares contra civil são do júri, salvo os de militares das Forças Armadas nos contextos do § 2º, julgados pela Justiça Militar da União. A Justiça Militar estadual não julga civis (CF, art. 125, § 4º).
+P: Crimes militares próprios e impróprios || Crimes da legislação comum como crimes militares (Lei nº 13.491/2017) || Civil e inativo como sujeitos ativos || Júri nos crimes dolosos contra a vida de civil || Exceção das Forças Armadas (§ 2º)
+K: crime militar; tempo de paz; Lei nº 13.491/2017; júri; Justiça Militar da União; Justiça Militar estadual
+
+@CPM 10
+I: Em tempo de guerra, são crimes militares os previstos especialmente para a guerra, os crimes militares de tempo de paz, os crimes do CPM também previstos na lei comum quando praticados em território ocupado ou que comprometam as operações militares e a segurança externa, e os crimes comuns praticados em zona de operações ou território ocupado.
+P: Crimes militares em tempo de guerra || Ampliação nas zonas de operação
+K: crime militar; tempo de guerra; segurança externa
+
+@CPM 11
+I: Militares estrangeiros em comissão ou estágio em instituições militares brasileiras sujeitam-se à lei penal militar brasileira, ressalvados tratados e convenções (Lei nº 14.688/2023).
+P: Sujeição de militares estrangeiros || Ressalva dos tratados
+K: militar estrangeiro; tratados
+
+@CPM 12
+I: O militar da reserva ou reformado empregado na administração militar equipara-se ao da ativa para aplicação da lei penal militar.
+P: Equiparação ao militar da ativa
+K: militar da reserva; militar reformado; equiparação
+
+@CPM 13
+I: O militar da reserva ou reformado conserva as responsabilidades e prerrogativas do posto ou graduação quando pratica ou sofre crime militar.
+P: Manutenção de prerrogativas e responsabilidades
+K: militar inativo; posto; graduação
+
+@CPM 14
+I: O defeito no ato de incorporação ou matrícula não afasta a lei penal militar, salvo se alegado ou conhecido antes do crime.
+P: Defeito de incorporação ou matrícula
+K: incorporação; matrícula
+
+@CPM 15
+I: O tempo de guerra começa com a declaração ou reconhecimento do estado de guerra, ou com o decreto de mobilização que o inclua, e termina quando ordenada a cessação das hostilidades.
+P: Início e fim do tempo de guerra
+K: tempo de guerra; mobilização
+
+@CPM 16
+I: Nos prazos penais militares inclui-se o dia do começo; dias, meses e anos contam-se pelo calendário comum.
+P: Inclusão do dia do começo || Calendário comum
+K: contagem de prazo; prazo penal
+
+@CPM 17
+I: As regras gerais do CPM aplicam-se às leis penais militares especiais que não disponham de modo diverso. Para efeitos penais, salário mínimo é o maior vigente no país ao tempo da sentença.
+P: Aplicação subsidiária às leis especiais || Salário mínimo de referência
+K: legislação especial; salário mínimo
+
+@CPM 18
+I: O CPM alcança crimes praticados em prejuízo de país aliado em guerra contra inimigo do Brasil, se cometidos por brasileiro ou em território nacional ou ocupado por força brasileira.
+P: Proteção de país aliado
+K: país aliado; tempo de guerra
+
+@CPM 19
+I: O Código não abrange as infrações disciplinares, reguladas pelos regulamentos disciplinares de cada força.
+P: Distinção entre crime militar e infração disciplinar
+K: infração disciplinar; regulamento disciplinar
+
+@CPM 20
+I: Aos crimes praticados em tempo de guerra aplicam-se as penas do tempo de paz aumentadas de um terço, salvo disposição especial.
+P: Aumento de um terço em tempo de guerra
+K: tempo de guerra; aumento de pena
+
+@CPM 21
+I: O artigo, que definia o assemelhado (servidor civil das Forças sujeito à disciplina militar), foi revogado pela Lei nº 14.688/2023.
+P: Figura do assemelhado revogada
+K: assemelhado; revogação; Lei nº 14.688/2023
+
+@CPM 22
+I: É militar, para o CPM, quem, em paz ou guerra, é incorporado a instituições militares ou nelas matriculado para servir em posto, graduação ou regime de sujeição à disciplina militar (Lei nº 14.688/2023).
+P: Conceito penal de militar
+K: militar; incorporação; disciplina militar
+
+@CPM 23
+I: Toda autoridade com função de direção equipara-se ao comandante para fins penais militares.
+P: Equiparação ao comandante
+K: comandante; função de direção
+
+@CPM 24
+I: Superior é o militar de nível hierárquico, posto ou graduação superior, conforme a antiguidade (Estatuto dos Militares e leis estaduais), ou o que exerce autoridade funcional sobre outro de igual posto. Quem se submete a essa autoridade é o inferior hierárquico (Lei nº 14.688/2023).
+P: Superior por hierarquia ou por função || Conceito de inferior hierárquico
+K: superior hierárquico; inferior hierárquico; Estatuto dos Militares
+
+@CPM 25
+I: Crime em presença do inimigo é o praticado em zona de efetivas operações militares, na iminência ou em situação de hostilidade.
+P: Conceito de presença do inimigo
+K: presença do inimigo; operações militares
+
+@CPM 26
+I: "Brasileiro" ou "nacional" abrange quem a Constituição considera brasileiro; apátridas e quem perdeu a nacionalidade são estrangeiros para a lei penal militar.
+P: Conceito de brasileiro || Conceito de estrangeiro
+K: brasileiro; estrangeiro; apátrida
+
+@CPM 27
+I: Servidores da Justiça Militar, para o CPM, são os juízes, servidores públicos e auxiliares dessa Justiça (Lei nº 14.688/2023).
+P: Conceito de servidor da Justiça Militar
+K: Justiça Militar; servidor
+
+@CPM 28
+I: Os crimes contra a segurança externa do país ou contra as instituições militares definidos no CPM prevalecem sobre os de mesma natureza de outras leis (especialidade).
+P: Prevalência do CPM
+K: especialidade; segurança externa; instituições militares
+
+@CPM 29
+I: Adota a teoria da equivalência dos antecedentes: causa é a ação ou omissão sem a qual o resultado não ocorreria. A causa superveniente relativamente independente que por si só produz o resultado exclui a imputação. A omissão é relevante quando o omitente devia e podia agir: dever legal, assunção de responsabilidade ou criação do risco.
+P: Equivalência dos antecedentes || Causa superveniente || Relevância da omissão e dever de agir
+K: nexo causal; causalidade; omissão imprópria; garante
+
+@CPM 30
+I: O crime é consumado quando reúne todos os elementos da definição legal, e tentado quando iniciada a execução não se consuma por circunstâncias alheias à vontade do agente. A tentativa tem a pena do crime reduzida de um a dois terços, mas o juiz pode aplicar a pena do consumado em caso de excepcional gravidade, peculiaridade do CPM.
+P: Consumação e tentativa || Redução de 1/3 a 2/3 || Pena do consumado em casos de excepcional gravidade
+K: crime consumado; tentativa; redução de pena
+
+@CPM 31
+I: Na desistência voluntária e no arrependimento eficaz, o agente só responde pelos atos já praticados.
+P: Desistência voluntária || Arrependimento eficaz
+K: desistência voluntária; arrependimento eficaz
+
+@CPM 32
+I: Não há pena no crime impossível, por ineficácia absoluta do meio ou absoluta impropriedade do objeto.
+P: Crime impossível
+K: crime impossível; tentativa inidônea
+
+@CPM 33
+I: O crime é doloso quando o agente quis o resultado ou assumiu o risco de produzi-lo, e culposo quando, por falta de cautela, não previu o previsível ou supôs levianamente que não ocorreria. Só há punição por culpa nos casos expressos em lei.
+P: Dolo direto e eventual || Culpa consciente e inconsciente || Excepcionalidade do crime culposo
+K: dolo; culpa; crime culposo
+
+@CPM 34
+I: Pelos resultados que agravam a pena, o agente só responde se os causou ao menos culposamente, afastando a responsabilidade objetiva.
+P: Vedação da responsabilidade objetiva
+K: culpabilidade; crime qualificado pelo resultado
+
+@CPM 35
+I: O erro de direito escusável (ignorância ou erro de interpretação da lei) permite atenuar ou substituir a pena, salvo nos crimes contra o dever militar.
+P: Erro de direito como atenuante || Exceção dos crimes contra o dever militar
+K: erro de direito; erro de proibição
+
+@CPM 36
+I: O erro de fato plenamente escusável sobre elemento do crime ou sobre situação que tornaria a ação legítima isenta de pena. Se o erro deriva de culpa, o agente responde por crime culposo, se previsto; se provocado por terceiro, este responde pelo crime.
+P: Erro de fato escusável || Erro culposo || Erro provocado por terceiro
+K: erro de fato; erro de tipo; descriminante putativa
+
+@CPM 37
+I: No erro sobre a pessoa ou na execução, o agente responde como se tivesse atingido a vítima pretendida. Se atinge bem jurídico diverso, responde por culpa, se previsto; havendo duplo resultado, aplica-se a regra do concurso (art. 79).
+P: Erro sobre a pessoa || Erro quanto ao bem jurídico || Duplicidade do resultado
+K: erro sobre a pessoa; aberratio ictus; aberratio criminis
+
+@CPM 38
+I: Não é culpado quem age sob coação irresistível ou em estrita obediência a ordem direta de superior em matéria de serviço; responde o autor da coação ou da ordem. Se a ordem for manifestamente criminosa ou houver excesso, o inferior também é punido (Lei nº 14.688/2023).
+P: Coação irresistível || Obediência hierárquica || Ordem manifestamente criminosa
+K: coação irresistível; obediência hierárquica; inexigibilidade de conduta diversa
+
+@CPM 39
+I: O estado de necessidade exculpante isenta de culpa quem sacrifica direito alheio, até superior, para proteger direito próprio ou de pessoa próxima contra perigo certo e atual que não provocou, quando não lhe era razoavelmente exigível outra conduta. O CPM adota a teoria diferenciadora.
+P: Estado de necessidade exculpante || Teoria diferenciadora
+K: estado de necessidade; excludente de culpabilidade
+
+@CPM 40
+I: Nos crimes com violação do dever militar, o agente só pode alegar coação irresistível física ou material, não a moral.
+P: Restrição da coação nos crimes contra o dever militar
+K: coação física; dever militar
+
+@CPM 41
+I: Se era possível resistir à coação, se a ordem não era manifestamente ilegal ou se era exigível o sacrifício do direito, o juiz pode atenuar a pena.
+P: Atenuação facultativa
+K: atenuação de pena; coação; obediência hierárquica
+
+@CPM 42
+I: Não há crime no estado de necessidade, na legítima defesa, no estrito cumprimento do dever legal e no exercício regular de direito. Também não há crime quando o comandante, diante de perigo iminente ou calamidade, compele subalternos com violência a executar serviços urgentes para salvar a unidade ou vidas.
+P: Excludentes de ilicitude || Excludente especial do comandante
+K: excludentes de ilicitude; legítima defesa; estrito cumprimento do dever legal
+
+@CPM 43
+I: O estado de necessidade justificante exige perigo certo e atual, não provocado nem evitável, e que o mal causado seja consideravelmente inferior ao evitado, sem dever legal de enfrentar o perigo.
+P: Requisitos do estado de necessidade justificante || Mal causado consideravelmente inferior
+K: estado de necessidade; excludente de ilicitude
+
+@CPM 44
+I: Age em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.
+P: Requisitos da legítima defesa
+K: legítima defesa; injusta agressão
+
+@CPM 45
+I: Quem excede culposamente os limites de uma excludente responde a título de culpa, se o fato for punível assim. O excesso não é punível quando decorre de surpresa ou perturbação de ânimo escusável.
+P: Excesso culposo || Excesso escusável
+K: excesso culposo; excesso exculpante
