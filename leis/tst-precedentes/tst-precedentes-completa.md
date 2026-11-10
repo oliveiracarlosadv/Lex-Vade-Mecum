@@ -11,9 +11,9 @@
 | Órgão | Tribunal Superior do Trabalho — Secretaria de Gestão de Precedentes (NUGEP-SP) |
 | Fonte oficial | Portal do Tribunal Superior do Trabalho |
 | Link oficial | https://www.tst.jus.br/nugep-sp/recursos-repetitivos/precedentes-vinculantes |
-| Informações atualizadas pelo TST | 6 de novembro de 2026 |
+| Informações atualizadas pelo TST | 9 de novembro de 2026 |
 | Temas na tabela | 219 |
-| Conferido com o site do TST em | 09/11/2026 |
+| Conferido com o site do TST em | 10/11/2026 |
 
 ## Resumo Executivo
 
@@ -62,9 +62,8 @@ A tabela oficial não se divide em títulos ou capítulos; cada tema é uma unid
 | Situação informada pelo TST (último movimento) | Quantidade | Temas |
 | --- | --- | --- |
 | Transitado em julgado | 177 | 1, 3, 4, 5, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 23, 41, 50, 51, 52, 53, 55, 56, 57, 58, 60, 61, 62, 63, 64, 65, 66, 67, 68, 70, 71, 72, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 85, 86, 87, 88, 118, 119, 120, 121, 123, 124, 125, 127, 128, 130, 131, 132, 133, 135, 136, 137, 139, 140, 141, 142, 143, 144, 146, 155, 156, 157, 158, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 178, 179, 180, 182, 183, 184, 185, 186, 188, 189, 190, 191, 192, 215, 216, 217, 218, 219, 220, 221, 223, 224, 225, 226, 227, 228, 229, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 246, 249, 250, 251, 252, 254, 255, 256, 257, 258, 259, 262, 263, 264, 265, 266, 267, 268, 269, 271, 272, 273, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 304, 305, 306, 307, 308, 309, 310 |
-| Acórdão publicado | 30 | 11, 20, 21, 24, 54, 59, 69, 73, 84, 122, 126, 129, 134, 138, 145, 159, 177, 181, 187, 193, 194, 222, 230, 245, 247, 248, 253, 260, 261, 303 |
+| Acórdão publicado | 31 | 11, 20, 21, 24, 54, 59, 69, 73, 84, 122, 126, 129, 134, 138, 145, 159, 177, 181, 187, 193, 194, 222, 230, 245, 247, 248, 253, 260, 261, 303, 316 |
 | Concluso ao relator em 31/3/2025 | 2 | 101, 115 |
-| Tema julgado | 2 | 316, 317 |
 | Transitado em julgado (acordo homologado no cumprimento de sentença nº 0010794-74.2025.5.03.0138) | 1 | 2 |
 | Concluso ao relator em 7/2/2025 | 1 | 26 |
 | Concluso ao relator em 07/3/2025 | 1 | 27 |
@@ -73,6 +72,7 @@ A tabela oficial não se divide em títulos ou capítulos; cada tema é uma unid
 | Concluso ao relator em 7/4/2025 | 1 | 91 |
 | Concluso ao relator em 1°/7/2025 | 1 | 214 |
 | Transitado em julgado (acordo homologado) | 1 | 270 |
+| Tema julgado | 1 | 317 |
 | **Total** | **219** | Temas 1 a 317 (a numeração tem lacunas, pois a tabela traz apenas os precedentes vinculantes) |
 
 ## Texto Estruturado
@@ -8649,13 +8649,13 @@ Nos acordos homologados sem reconhecimento de vínculo, incide contribuição pr
 
 ### Tema 316 — Divisor 220 fixado por negociação coletiva
 
-**Situação (último movimento, conforme o TST):** Tema Julgado
+**Situação (último movimento, conforme o TST):** Acórdão Publicado
 
 **Há decisão de suspensão?** —
 
 **Relator(a):** Ministro Luiz Philippe Vieira de Mello Filho
 
-**Representativo(s) da controvérsia:** RR - 0001026-90.2018.5.10.0004 · Certidão de Julgamento · (julgado em 23/10/2026 - aguardando publicação do acórdão)
+**Representativo(s) da controvérsia:** RR - 0001026-90.2018.5.10.0004 · Acórdão · (publicado em 9/11/2026)
 
 **Tese / Questão jurídica (texto oficial):**
 

@@ -194,7 +194,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO II — Da Política Nacional de Relações de Consumo
 
-Art. 4º A Política Nacional das Relações de Consumo tem por objetivo o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e harmonia das relações de consumo, atendidos os seguintes princípios:             (Redação dada pela Lei nº 9.008, de 21.3.1995)
+Art. 4º A Política Nacional das Relações de Consumo tem por objetivo o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e harmonia das relações de consumo, atendidos os seguintes princípios: (Redação dada pela Lei nº 9.008, de 21.3.1995)
 
 I - reconhecimento da vulnerabilidade do consumidor no mercado de consumo;
 
@@ -220,9 +220,9 @@ VII - racionalização e melhoria dos serviços públicos;
 
 VIII - estudo constante das modificações do mercado de consumo.
 
-IX - fomento de ações direcionadas à educação financeira e ambiental dos consumidores;     (Incluído pela Lei nº 14.181, de 2021)
+IX - fomento de ações direcionadas à educação financeira e ambiental dos consumidores; (Incluído pela Lei nº 14.181, de 2021)
 
-X - prevenção e tratamento do superendividamento como forma de evitar a exclusão social do consumidor.       (Incluído pela Lei nº 14.181, de 2021)
+X - prevenção e tratamento do superendividamento como forma de evitar a exclusão social do consumidor. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.008, de 21.3.1995; inclusão — Lei nº 14.181, de 2021.
 
@@ -267,9 +267,9 @@ IV - criação de Juizados Especiais de Pequenas Causas e Varas Especializadas p
 
 V - concessão de estímulos à criação e desenvolvimento das Associações de Defesa do Consumidor.
 
-VI - instituição de mecanismos de prevenção e tratamento extrajudicial e judicial do superendividamento e de proteção do consumidor pessoa natural;       (Incluído pela Lei nº 14.181, de 2021)
+VI - instituição de mecanismos de prevenção e tratamento extrajudicial e judicial do superendividamento e de proteção do consumidor pessoa natural; (Incluído pela Lei nº 14.181, de 2021)
 
-VII - instituição de núcleos de conciliação e mediação de conflitos oriundos de superendividamento.     (Incluído pela Lei nº 14.181, de 2021)
+VII - instituição de núcleos de conciliação e mediação de conflitos oriundos de superendividamento. (Incluído pela Lei nº 14.181, de 2021)
 
 § 1° (Vetado).
 
@@ -310,7 +310,7 @@ I - a proteção da vida, saúde e segurança contra os riscos provocados por pr
 
 II - a educação e divulgação sobre o consumo adequado dos produtos e serviços, asseguradas a liberdade de escolha e a igualdade nas contratações;
 
-III - a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem;             (Redação dada pela Lei nº 12.741, de 2012)   Vigência
+III - a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem; (Redação dada pela Lei nº 12.741, de 2012) Vigência
 
 IV - a proteção contra a publicidade enganosa e abusiva, métodos comerciais coercitivos ou desleais, bem como contra práticas e cláusulas abusivas ou impostas no fornecimento de produtos e serviços;
 
@@ -326,13 +326,13 @@ IX - (Vetado);
 
 X - a adequada e eficaz prestação dos serviços públicos em geral.
 
-XI - a garantia de práticas de crédito responsável, de educação financeira e de prevenção e tratamento de situações de superendividamento, preservado o mínimo existencial, nos termos da regulamentação, por meio da revisão e da repactuação da dívida, entre outras medidas;       (Incluído pela Lei nº 14.181, de 2021)
+XI - a garantia de práticas de crédito responsável, de educação financeira e de prevenção e tratamento de situações de superendividamento, preservado o mínimo existencial, nos termos da regulamentação, por meio da revisão e da repactuação da dívida, entre outras medidas; (Incluído pela Lei nº 14.181, de 2021)
 
-XII - a preservação do mínimo existencial, nos termos da regulamentação, na repactuação de dívidas e na concessão de crédito;        (Incluído pela Lei nº 14.181, de 2021)
+XII - a preservação do mínimo existencial, nos termos da regulamentação, na repactuação de dívidas e na concessão de crédito; (Incluído pela Lei nº 14.181, de 2021)
 
-XIII - a informação acerca dos preços dos produtos por unidade de medida, tal como por quilo, por litro, por metro ou por outra unidade, conforme o caso.      (Incluído pela Lei nº 14.181, de 2021)
+XIII - a informação acerca dos preços dos produtos por unidade de medida, tal como por quilo, por litro, por metro ou por outra unidade, conforme o caso. (Incluído pela Lei nº 14.181, de 2021)
 
-Parágrafo único.  A informação de que trata o inciso III do caput deste artigo deve ser acessível à pessoa com deficiência, observado o disposto em regulamento.              (Incluído pela Lei nº 13.146, de 2015)    (Vigência)
+Parágrafo único. A informação de que trata o inciso III do caput deste artigo deve ser acessível à pessoa com deficiência, observado o disposto em regulamento. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.741, de 2012; inclusão — Lei nº 14.181, de 2021; inclusão — Lei nº 13.146, de 2015.
 
@@ -396,9 +396,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 8° Os produtos e serviços colocados no mercado de consumo não acarretarão riscos à saúde ou segurança dos consumidores, exceto os considerados normais e previsíveis em decorrência de sua natureza e fruição, obrigando-se os fornecedores, em qualquer hipótese, a dar as informações necessárias e adequadas a seu respeito.
 
-§ 1º  Em se tratando de produto industrial, ao fabricante cabe prestar as informações a que se refere este artigo, através de impressos apropriados que devam acompanhar o produto.   (Redação dada pela Lei nº 13.486, de 2017)
+§ 1º Em se tratando de produto industrial, ao fabricante cabe prestar as informações a que se refere este artigo, através de impressos apropriados que devam acompanhar o produto. (Redação dada pela Lei nº 13.486, de 2017)
 
-§ 2º  O fornecedor deverá higienizar os equipamentos e utensílios utilizados no fornecimento de produtos ou serviços, ou colocados à disposição do consumidor, e informar, de maneira ostensiva e adequada, quando for o caso, sobre o risco de contaminação.   (Incluído pela Lei nº 13.486, de 2017)
+§ 2º O fornecedor deverá higienizar os equipamentos e utensílios utilizados no fornecimento de produtos ou serviços, ou colocados à disposição do consumidor, e informar, de maneira ostensiva e adequada, quando for o caso, sobre o risco de contaminação. (Incluído pela Lei nº 13.486, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.486, de 2017; inclusão — Lei nº 13.486, de 2017.
 
@@ -865,7 +865,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO IV — Da Qualidade de Produtos e Serviços, da Prevenção e da Reparação dos Danos › SEÇÃO III — Da Responsabilidade por Vício do Produto e do Serviço
 
-Art. 21. No fornecimento de serviços que tenham por objetivo a reparação de qualquer produto considerar-se-á implícita a obrigação do fornecedor de empregar componentes de reposição originais adequados e novos, ou que mantenham as especificações técnicas do fabricante, salvo, quanto a estes últimos, autorização em contrário do     consumidor.
+Art. 21. No fornecimento de serviços que tenham por objetivo a reparação de qualquer produto considerar-se-á implícita a obrigação do fornecedor de empregar componentes de reposição originais adequados e novos, ou que mantenham as especificações técnicas do fabricante, salvo, quanto a estes últimos, autorização em contrário do consumidor.
 
 #### Interpretação
 
@@ -1181,7 +1181,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 31. A oferta e apresentação de produtos ou serviços devem assegurar informações corretas, claras, precisas, ostensivas e em língua portuguesa sobre suas características, qualidades, quantidade, composição, preço, garantia, prazos de validade e origem, entre outros dados, bem como sobre os riscos que apresentam à saúde e segurança dos consumidores.
 
-Parágrafo único.  As informações de que trata este artigo, nos produtos refrigerados oferecidos ao consumidor, serão gravadas de forma indelével.             (Incluído pela Lei nº 11.989, de 2009)
+Parágrafo único. As informações de que trata este artigo, nos produtos refrigerados oferecidos ao consumidor, serão gravadas de forma indelével. (Incluído pela Lei nº 11.989, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.989, de 2009.
 
@@ -1242,7 +1242,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 33. Em caso de oferta ou venda por telefone ou reembolso postal, deve constar o nome do fabricante e endereço na embalagem, publicidade e em todos os impressos utilizados na transação comercial.
 
-Parágrafo único.  É proibida a publicidade de bens e serviços por telefone, quando a chamada for onerosa ao consumidor que a origina.             (Incluído pela Lei nº 11.800, de 2008).
+Parágrafo único. É proibida a publicidade de bens e serviços por telefone, quando a chamada for onerosa ao consumidor que a origina. (Incluído pela Lei nº 11.800, de 2008).
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.800, de 2008.
 
@@ -1427,7 +1427,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO V — Das Práticas Comerciais › SEÇÃO IV — Das Práticas Abusivas
 
-Art. 39. É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas:            (Redação dada pela Lei nº 8.884, de 11.6.1994)
+Art. 39. É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas: (Redação dada pela Lei nº 8.884, de 11.6.1994)
 
 I - condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos;
 
@@ -1445,17 +1445,17 @@ VII - repassar informação depreciativa, referente a ato praticado pelo consumi
 
 VIII - colocar, no mercado de consumo, qualquer produto ou serviço em desacordo com as normas expedidas pelos órgãos oficiais competentes ou, se normas específicas não existirem, pela Associação Brasileira de Normas Técnicas ou outra entidade credenciada pelo Conselho Nacional de Metrologia, Normalização e Qualidade Industrial (Conmetro);
 
-IX - recusar a venda de bens ou a prestação de serviços, diretamente a quem se disponha a adquiri-los mediante pronto pagamento, ressalvados os casos de intermediação regulados em leis especiais;             (Redação dada pela Lei nº 8.884, de 11.6.1994)
+IX - recusar a venda de bens ou a prestação de serviços, diretamente a quem se disponha a adquiri-los mediante pronto pagamento, ressalvados os casos de intermediação regulados em leis especiais; (Redação dada pela Lei nº 8.884, de 11.6.1994)
 
-X - elevar sem justa causa o preço de produtos ou serviços.             (Incluído pela Lei nº 8.884, de 11.6.1994)
+X - elevar sem justa causa o preço de produtos ou serviços. (Incluído pela Lei nº 8.884, de 11.6.1994)
 
-XI -  Dispositivo  incluído pela MPV  nº 1.890-67, de 22.10.1999, transformado em inciso  XIII, quando da conversão na Lei nº 9.870, de 23.11.1999
+XI - Dispositivo incluído pela MPV nº 1.890-67, de 22.10.1999, transformado em inciso XIII, quando da conversão na Lei nº 9.870, de 23.11.1999
 
-XII - deixar de estipular prazo para o cumprimento de sua obrigação ou deixar a fixação de seu termo inicial a seu exclusivo critério.            (Incluído pela Lei nº 9.008, de 21.3.1995)
+XII - deixar de estipular prazo para o cumprimento de sua obrigação ou deixar a fixação de seu termo inicial a seu exclusivo critério. (Incluído pela Lei nº 9.008, de 21.3.1995)
 
-XIII - aplicar fórmula ou índice de reajuste diverso do legal ou contratualmente estabelecido.             (Incluído pela Lei nº 9.870, de 23.11.1999)
+XIII - aplicar fórmula ou índice de reajuste diverso do legal ou contratualmente estabelecido. (Incluído pela Lei nº 9.870, de 23.11.1999)
 
-XIV - permitir o ingresso em estabelecimentos comerciais ou de serviços de um número maior de consumidores que o fixado pela autoridade administrativa como máximo.                   (Incluído pela Lei nº 13.425, de 2017)
+XIV - permitir o ingresso em estabelecimentos comerciais ou de serviços de um número maior de consumidores que o fixado pela autoridade administrativa como máximo. (Incluído pela Lei nº 13.425, de 2017)
 
 Parágrafo único. Os serviços prestados e os produtos remetidos ou entregues ao consumidor, na hipótese prevista no inciso III, equiparam-se às amostras grátis, inexistindo obrigação de pagamento.
 
@@ -1581,7 +1581,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO V — Das Práticas Comerciais › SEÇÃO V — Da Cobrança de Dívidas
 
-Art. 42-A.  Em todos os documentos de cobrança de débitos apresentados ao consumidor, deverão constar o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas – CPF ou no Cadastro Nacional de Pessoa Jurídica – CNPJ do fornecedor do produto ou serviço correspondente.             (Incluído pela Lei nº 12.039, de 2009)
+Art. 42-A. Em todos os documentos de cobrança de débitos apresentados ao consumidor, deverão constar o nome, o endereço e o número de inscrição no Cadastro de Pessoas Físicas – CPF ou no Cadastro Nacional de Pessoa Jurídica – CNPJ do fornecedor do produto ou serviço correspondente. (Incluído pela Lei nº 12.039, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.039, de 2009.
 
@@ -1623,7 +1623,7 @@ Art. 43. O consumidor, sem prejuízo do disposto no art. 86, terá acesso às in
 
 § 5° Consumada a prescrição relativa à cobrança de débitos do consumidor, não serão fornecidas, pelos respectivos Sistemas de Proteção ao Crédito, quaisquer informações que possam impedir ou dificultar novo acesso ao crédito junto aos fornecedores.
 
-§ 6o  Todas as informações de que trata o caput deste artigo devem ser disponibilizadas em formatos acessíveis, inclusive para a pessoa com deficiência, mediante solicitação do consumidor. (Incluído pela Lei nº 13.146, de 2015)    (Vigência)
+§ 6o Todas as informações de que trata o caput deste artigo devem ser disponibilizadas em formatos acessíveis, inclusive para a pessoa com deficiência, mediante solicitação do consumidor. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.146, de 2015.
 
@@ -1900,11 +1900,11 @@ XV - estejam em desacordo com o sistema de proteção ao consumidor;
 
 XVI - possibilitem a renúncia do direito de indenização por benfeitorias necessárias.
 
-XVII - condicionem ou limitem de qualquer forma o acesso aos órgãos do Poder Judiciário;         (Incluído pela Lei nº 14.181, de 2021)
+XVII - condicionem ou limitem de qualquer forma o acesso aos órgãos do Poder Judiciário; (Incluído pela Lei nº 14.181, de 2021)
 
-XVIII - estabeleçam prazos de carência em caso de impontualidade das prestações mensais ou impeçam o restabelecimento integral dos direitos do consumidor e de seus meios de pagamento a partir da purgação da mora ou do acordo com os credores;         (Incluído pela Lei nº 14.181, de 2021)
+XVIII - estabeleçam prazos de carência em caso de impontualidade das prestações mensais ou impeçam o restabelecimento integral dos direitos do consumidor e de seus meios de pagamento a partir da purgação da mora ou do acordo com os credores; (Incluído pela Lei nº 14.181, de 2021)
 
-XIX - (VETADO).        (Incluído pela Lei nº 14.181, de 2021)
+XIX - (VETADO). (Incluído pela Lei nº 14.181, de 2021)
 
 § 1º Presume-se exagerada, entre outros casos, a vantagem que:
 
@@ -1961,7 +1961,7 @@ IV - número e periodicidade das prestações;
 
 V - soma total a pagar, com e sem financiamento.
 
-§ 1° As multas de mora decorrentes do inadimplemento de obrigações no seu termo não poderão ser superiores a dois por cento do valor da prestação.            (Redação dada pela Lei nº 9.298, de 1º.8.1996)
+§ 1° As multas de mora decorrentes do inadimplemento de obrigações no seu termo não poderão ser superiores a dois por cento do valor da prestação. (Redação dada pela Lei nº 9.298, de 1º.8.1996)
 
 § 2º É assegurado ao consumidor a liquidação antecipada do débito, total ou parcialmente, mediante redução proporcional dos juros e demais acréscimos.
 
@@ -2037,7 +2037,7 @@ Art. 54. Contrato de adesão é aquele cujas cláusulas tenham sido aprovadas pe
 
 § 2° Nos contratos de adesão admite-se cláusula resolutória, desde que a alternativa, cabendo a escolha ao consumidor, ressalvando-se o disposto no § 2° do artigo anterior.
 
-§ 3o  Os contratos de adesão escritos serão redigidos em termos claros e com caracteres ostensivos e legíveis, cujo tamanho da fonte não será inferior ao corpo doze, de modo a facilitar sua compreensão pelo consumidor.    (Redação dada pela nº 11.785, de 2008)
+§ 3o Os contratos de adesão escritos serão redigidos em termos claros e com caracteres ostensivos e legíveis, cujo tamanho da fonte não será inferior ao corpo doze, de modo a facilitar sua compreensão pelo consumidor. (Redação dada pela nº 11.785, de 2008)
 
 § 4° As cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão.
 
@@ -2069,13 +2069,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-A. Este Capítulo dispõe sobre a prevenção do superendividamento da pessoa natural, sobre o crédito responsável e sobre a educação financeira do consumidor.     (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-A. Este Capítulo dispõe sobre a prevenção do superendividamento da pessoa natural, sobre o crédito responsável e sobre a educação financeira do consumidor. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º Entende-se por superendividamento a impossibilidade manifesta de o consumidor pessoa natural, de boa-fé, pagar a totalidade de suas dívidas de consumo, exigíveis e vincendas, sem comprometer seu mínimo existencial, nos termos da regulamentação.      (Incluído pela Lei nº 14.181, de 2021)
+§ 1º Entende-se por superendividamento a impossibilidade manifesta de o consumidor pessoa natural, de boa-fé, pagar a totalidade de suas dívidas de consumo, exigíveis e vincendas, sem comprometer seu mínimo existencial, nos termos da regulamentação. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º As dívidas referidas no § 1º deste artigo englobam quaisquer compromissos financeiros assumidos decorrentes de relação de consumo, inclusive operações de crédito, compras a prazo e serviços de prestação continuada.     (Incluído pela Lei nº 14.181, de 2021)
+§ 2º As dívidas referidas no § 1º deste artigo englobam quaisquer compromissos financeiros assumidos decorrentes de relação de consumo, inclusive operações de crédito, compras a prazo e serviços de prestação continuada. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 3º O disposto neste Capítulo não se aplica ao consumidor cujas dívidas tenham sido contraídas mediante fraude ou má-fé, sejam oriundas de contratos celebrados dolosamente com o propósito de não realizar o pagamento ou decorram da aquisição ou contratação de produtos e serviços de luxo de alto valor.       (Incluído pela Lei nº 14.181, de 2021)
+§ 3º O disposto neste Capítulo não se aplica ao consumidor cujas dívidas tenham sido contraídas mediante fraude ou má-fé, sejam oriundas de contratos celebrados dolosamente com o propósito de não realizar o pagamento ou decorram da aquisição ou contratação de produtos e serviços de luxo de alto valor. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2106,23 +2106,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-B. No fornecimento de crédito e na venda a prazo, além das informações obrigatórias previstas no art. 52 deste Código e na legislação aplicável à matéria, o fornecedor ou o intermediário deverá informar o consumidor, prévia e adequadamente, no momento da oferta, sobre:       (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-B. No fornecimento de crédito e na venda a prazo, além das informações obrigatórias previstas no art. 52 deste Código e na legislação aplicável à matéria, o fornecedor ou o intermediário deverá informar o consumidor, prévia e adequadamente, no momento da oferta, sobre: (Incluído pela Lei nº 14.181, de 2021)
 
-I - o custo efetivo total e a descrição dos elementos que o compõem;      (Incluído pela Lei nº 14.181, de 2021)
+I - o custo efetivo total e a descrição dos elementos que o compõem; (Incluído pela Lei nº 14.181, de 2021)
 
-II - a taxa efetiva mensal de juros, bem como a taxa dos juros de mora e o total de encargos, de qualquer natureza, previstos para o atraso no pagamento;      (Incluído pela Lei nº 14.181, de 2021)
+II - a taxa efetiva mensal de juros, bem como a taxa dos juros de mora e o total de encargos, de qualquer natureza, previstos para o atraso no pagamento; (Incluído pela Lei nº 14.181, de 2021)
 
-III - o montante das prestações e o prazo de validade da oferta, que deve ser, no mínimo, de 2 (dois) dias;       (Incluído pela Lei nº 14.181, de 2021)
+III - o montante das prestações e o prazo de validade da oferta, que deve ser, no mínimo, de 2 (dois) dias; (Incluído pela Lei nº 14.181, de 2021)
 
-IV - o nome e o endereço, inclusive o eletrônico, do fornecedor;      (Incluído pela Lei nº 14.181, de 2021)
+IV - o nome e o endereço, inclusive o eletrônico, do fornecedor; (Incluído pela Lei nº 14.181, de 2021)
 
-V - o direito do consumidor à liquidação antecipada e não onerosa do débito, nos termos do § 2º do art. 52 deste Código e da regulamentação em vigor.       (Incluído pela Lei nº 14.181, de 2021)
+V - o direito do consumidor à liquidação antecipada e não onerosa do débito, nos termos do § 2º do art. 52 deste Código e da regulamentação em vigor. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º As informações referidas no art. 52 deste Código e no caput deste artigo devem constar de forma clara e resumida do próprio contrato, da fatura ou de instrumento apartado, de fácil acesso ao consumidor.    (Incluído pela Lei nº 14.181, de 2021)
+§ 1º As informações referidas no art. 52 deste Código e no caput deste artigo devem constar de forma clara e resumida do próprio contrato, da fatura ou de instrumento apartado, de fácil acesso ao consumidor. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º Para efeitos deste Código, o custo efetivo total da operação de crédito ao consumidor consistirá em taxa percentual anual e compreenderá todos os valores cobrados do consumidor, sem prejuízo do cálculo padronizado pela autoridade reguladora do sistema financeiro.       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º Para efeitos deste Código, o custo efetivo total da operação de crédito ao consumidor consistirá em taxa percentual anual e compreenderá todos os valores cobrados do consumidor, sem prejuízo do cálculo padronizado pela autoridade reguladora do sistema financeiro. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 3º Sem prejuízo do disposto no art. 37 deste Código, a oferta de crédito ao consumidor e a oferta de venda a prazo, ou a fatura mensal, conforme o caso, devem indicar, no mínimo, o custo efetivo total, o agente financiador e a soma total a pagar, com e sem financiamento.       (Incluído pela Lei nº 14.181, de 2021)
+§ 3º Sem prejuízo do disposto no art. 37 deste Código, a oferta de crédito ao consumidor e a oferta de venda a prazo, ou a fatura mensal, conforme o caso, devem indicar, no mínimo, o custo efetivo total, o agente financiador e a soma total a pagar, com e sem financiamento. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2156,19 +2156,19 @@ Na oferta de crédito e venda a prazo, o fornecedor deve informar o custo efetiv
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-C. É vedado, expressa ou implicitamente, na oferta de crédito ao consumidor, publicitária ou não:      (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-C. É vedado, expressa ou implicitamente, na oferta de crédito ao consumidor, publicitária ou não: (Incluído pela Lei nº 14.181, de 2021)
 
-I - (VETADO);      (Incluído pela Lei nº 14.181, de 2021)
+I - (VETADO); (Incluído pela Lei nº 14.181, de 2021)
 
-II - indicar que a operação de crédito poderá ser concluída sem consulta a serviços de proteção ao crédito ou sem avaliação da situação financeira do consumidor;      (Incluído pela Lei nº 14.181, de 2021)
+II - indicar que a operação de crédito poderá ser concluída sem consulta a serviços de proteção ao crédito ou sem avaliação da situação financeira do consumidor; (Incluído pela Lei nº 14.181, de 2021)
 
-III - ocultar ou dificultar a compreensão sobre os ônus e os riscos da contratação do crédito ou da venda a prazo;      (Incluído pela Lei nº 14.181, de 2021)
+III - ocultar ou dificultar a compreensão sobre os ônus e os riscos da contratação do crédito ou da venda a prazo; (Incluído pela Lei nº 14.181, de 2021)
 
-IV - assediar ou pressionar o consumidor para contratar o fornecimento de produto, serviço ou crédito, principalmente se se tratar de consumidor idoso, analfabeto, doente ou em estado de vulnerabilidade agravada ou se a contratação envolver prêmio;       (Incluído pela Lei nº 14.181, de 2021)
+IV - assediar ou pressionar o consumidor para contratar o fornecimento de produto, serviço ou crédito, principalmente se se tratar de consumidor idoso, analfabeto, doente ou em estado de vulnerabilidade agravada ou se a contratação envolver prêmio; (Incluído pela Lei nº 14.181, de 2021)
 
-V - condicionar o atendimento de pretensões do consumidor ou o início de tratativas à renúncia ou à desistência de demandas judiciais, ao pagamento de honorários advocatícios ou a depósitos judiciais.      (Incluído pela Lei nº 14.181, de 2021)
+V - condicionar o atendimento de pretensões do consumidor ou o início de tratativas à renúncia ou à desistência de demandas judiciais, ao pagamento de honorários advocatícios ou a depósitos judiciais. (Incluído pela Lei nº 14.181, de 2021)
 
-Parágrafo único. (VETADO).     (Incluído pela Lei nº 14.181, de 2021)
+Parágrafo único. (VETADO). (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2199,15 +2199,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-D. Na oferta de crédito, previamente à contratação, o fornecedor ou o intermediário deverá, entre outras condutas:       (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-D. Na oferta de crédito, previamente à contratação, o fornecedor ou o intermediário deverá, entre outras condutas: (Incluído pela Lei nº 14.181, de 2021)
 
-I - informar e esclarecer adequadamente o consumidor, considerada sua idade, sobre a natureza e a modalidade do crédito oferecido, sobre todos os custos incidentes, observado o disposto nos arts. 52 e 54-B deste Código, e sobre as consequências genéricas e específicas do inadimplemento;       (Incluído pela Lei nº 14.181, de 2021)
+I - informar e esclarecer adequadamente o consumidor, considerada sua idade, sobre a natureza e a modalidade do crédito oferecido, sobre todos os custos incidentes, observado o disposto nos arts. 52 e 54-B deste Código, e sobre as consequências genéricas e específicas do inadimplemento; (Incluído pela Lei nº 14.181, de 2021)
 
-II - avaliar, de forma responsável, as condições de crédito do consumidor, mediante análise das informações disponíveis em bancos de dados de proteção ao crédito, observado o disposto neste Código e na legislação sobre proteção de dados;      (Incluído pela Lei nº 14.181, de 2021)
+II - avaliar, de forma responsável, as condições de crédito do consumidor, mediante análise das informações disponíveis em bancos de dados de proteção ao crédito, observado o disposto neste Código e na legislação sobre proteção de dados; (Incluído pela Lei nº 14.181, de 2021)
 
-III - informar a identidade do agente financiador e entregar ao consumidor, ao garante e a outros coobrigados cópia do contrato de crédito.      (Incluído pela Lei nº 14.181, de 2021)
+III - informar a identidade do agente financiador e entregar ao consumidor, ao garante e a outros coobrigados cópia do contrato de crédito. (Incluído pela Lei nº 14.181, de 2021)
 
-Parágrafo único. O descumprimento de qualquer dos deveres previstos no caput deste artigo e nos arts. 52 e 54-C deste Código poderá acarretar judicialmente a redução dos juros, dos encargos ou de qualquer acréscimo ao principal e a dilação do prazo de pagamento previsto no contrato original, conforme a gravidade da conduta do fornecedor e as possibilidades financeiras do consumidor, sem prejuízo de outras sanções e de indenização por perdas e danos, patrimoniais e morais, ao consumidor.    (Incluído pela Lei nº 14.181, de 2021)
+Parágrafo único. O descumprimento de qualquer dos deveres previstos no caput deste artigo e nos arts. 52 e 54-C deste Código poderá acarretar judicialmente a redução dos juros, dos encargos ou de qualquer acréscimo ao principal e a dilação do prazo de pagamento previsto no contrato original, conforme a gravidade da conduta do fornecedor e as possibilidades financeiras do consumidor, sem prejuízo de outras sanções e de indenização por perdas e danos, patrimoniais e morais, ao consumidor. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2240,7 +2240,7 @@ Antes de contratar crédito, o fornecedor deve esclarecer natureza, custos e con
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-E. (VETADO).      (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-E. (VETADO). (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2269,23 +2269,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-F. São conexos, coligados ou interdependentes, entre outros, o contrato principal de fornecimento de produto ou serviço e os contratos acessórios de crédito que lhe garantam o financiamento quando o fornecedor de crédito:       (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-F. São conexos, coligados ou interdependentes, entre outros, o contrato principal de fornecimento de produto ou serviço e os contratos acessórios de crédito que lhe garantam o financiamento quando o fornecedor de crédito: (Incluído pela Lei nº 14.181, de 2021)
 
-I - recorrer aos serviços do fornecedor de produto ou serviço para a preparação ou a conclusão do contrato de crédito;       (Incluído pela Lei nº 14.181, de 2021)
+I - recorrer aos serviços do fornecedor de produto ou serviço para a preparação ou a conclusão do contrato de crédito; (Incluído pela Lei nº 14.181, de 2021)
 
-II - oferecer o crédito no local da atividade empresarial do fornecedor de produto ou serviço financiado ou onde o contrato principal for celebrado.      (Incluído pela Lei nº 14.181, de 2021)
+II - oferecer o crédito no local da atividade empresarial do fornecedor de produto ou serviço financiado ou onde o contrato principal for celebrado. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º O exercício do direito de arrependimento nas hipóteses previstas neste Código, no contrato principal ou no contrato de crédito, implica a resolução de pleno direito do contrato que lhe seja conexo.     (Incluído pela Lei nº 14.181, de 2021)
+§ 1º O exercício do direito de arrependimento nas hipóteses previstas neste Código, no contrato principal ou no contrato de crédito, implica a resolução de pleno direito do contrato que lhe seja conexo. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º Nos casos dos incisos I e II do caput deste artigo, se houver inexecução de qualquer das obrigações e deveres do fornecedor de produto ou serviço, o consumidor poderá requerer a rescisão do contrato não cumprido contra o fornecedor do crédito.       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º Nos casos dos incisos I e II do caput deste artigo, se houver inexecução de qualquer das obrigações e deveres do fornecedor de produto ou serviço, o consumidor poderá requerer a rescisão do contrato não cumprido contra o fornecedor do crédito. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 3º O direito previsto no § 2º deste artigo caberá igualmente ao consumidor:       (Incluído pela Lei nº 14.181, de 2021)
+§ 3º O direito previsto no § 2º deste artigo caberá igualmente ao consumidor: (Incluído pela Lei nº 14.181, de 2021)
 
-I - contra o portador de cheque pós-datado emitido para aquisição de produto ou serviço a prazo;      (Incluído pela Lei nº 14.181, de 2021)
+I - contra o portador de cheque pós-datado emitido para aquisição de produto ou serviço a prazo; (Incluído pela Lei nº 14.181, de 2021)
 
-II - contra o administrador ou o emitente de cartão de crédito ou similar quando o cartão de crédito ou similar e o produto ou serviço forem fornecidos pelo mesmo fornecedor ou por entidades pertencentes a um mesmo grupo econômico.        (Incluído pela Lei nº 14.181, de 2021)
+II - contra o administrador ou o emitente de cartão de crédito ou similar quando o cartão de crédito ou similar e o produto ou serviço forem fornecidos pelo mesmo fornecedor ou por entidades pertencentes a um mesmo grupo econômico. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 4º A invalidade ou a ineficácia do contrato principal implicará, de pleno direito, a do contrato de crédito que lhe seja conexo, nos termos do caput deste artigo, ressalvado ao fornecedor do crédito o direito de obter do fornecedor do produto ou serviço a devolução dos valores entregues, inclusive relativamente a tributos.       (Incluído pela Lei nº 14.181, de 2021)
+§ 4º A invalidade ou a ineficácia do contrato principal implicará, de pleno direito, a do contrato de crédito que lhe seja conexo, nos termos do caput deste artigo, ressalvado ao fornecedor do crédito o direito de obter do fornecedor do produto ou serviço a devolução dos valores entregues, inclusive relativamente a tributos. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2316,17 +2316,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO I — Dos Direitos do Consumidor › CAPÍTULO VI-A — DA PREVENÇÃO E DO TRATAMENTO DO SUPERENDIVIDAMENTO
 
-Art. 54-G. Sem prejuízo do disposto no art. 39 deste Código e na legislação aplicável à matéria, é vedado ao fornecedor de produto ou serviço que envolva crédito, entre outras condutas:      (Incluído pela Lei nº 14.181, de 2021)
+Art. 54-G. Sem prejuízo do disposto no art. 39 deste Código e na legislação aplicável à matéria, é vedado ao fornecedor de produto ou serviço que envolva crédito, entre outras condutas: (Incluído pela Lei nº 14.181, de 2021)
 
-I - realizar ou proceder à cobrança ou ao débito em conta de qualquer quantia que houver sido contestada pelo consumidor em compra realizada com cartão de crédito ou similar, enquanto não for adequadamente solucionada a controvérsia, desde que o consumidor haja notificado a administradora do cartão com antecedência de pelo menos 10 (dez) dias contados da data de vencimento da fatura, vedada a manutenção do valor na fatura seguinte e assegurado ao consumidor o direito de deduzir do total da fatura o valor em disputa e efetuar o pagamento da parte não contestada, podendo o emissor lançar como crédito em confiança o valor idêntico ao da transação contestada que tenha sido cobrada, enquanto não encerrada a apuração da contestação;     (Incluído pela Lei nº 14.181, de 2021)
+I - realizar ou proceder à cobrança ou ao débito em conta de qualquer quantia que houver sido contestada pelo consumidor em compra realizada com cartão de crédito ou similar, enquanto não for adequadamente solucionada a controvérsia, desde que o consumidor haja notificado a administradora do cartão com antecedência de pelo menos 10 (dez) dias contados da data de vencimento da fatura, vedada a manutenção do valor na fatura seguinte e assegurado ao consumidor o direito de deduzir do total da fatura o valor em disputa e efetuar o pagamento da parte não contestada, podendo o emissor lançar como crédito em confiança o valor idêntico ao da transação contestada que tenha sido cobrada, enquanto não encerrada a apuração da contestação; (Incluído pela Lei nº 14.181, de 2021)
 
-II - recusar ou não entregar ao consumidor, ao garante e aos outros coobrigados cópia da minuta do contrato principal de consumo ou do contrato de crédito, em papel ou outro suporte duradouro, disponível e acessível, e, após a conclusão, cópia do contrato;      (Incluído pela Lei nº 14.181, de 2021)
+II - recusar ou não entregar ao consumidor, ao garante e aos outros coobrigados cópia da minuta do contrato principal de consumo ou do contrato de crédito, em papel ou outro suporte duradouro, disponível e acessível, e, após a conclusão, cópia do contrato; (Incluído pela Lei nº 14.181, de 2021)
 
-III - impedir ou dificultar, em caso de utilização fraudulenta do cartão de crédito ou similar, que o consumidor peça e obtenha, quando aplicável, a anulação ou o imediato bloqueio do pagamento, ou ainda a restituição dos valores indevidamente recebidos.       (Incluído pela Lei nº 14.181, de 2021)
+III - impedir ou dificultar, em caso de utilização fraudulenta do cartão de crédito ou similar, que o consumidor peça e obtenha, quando aplicável, a anulação ou o imediato bloqueio do pagamento, ou ainda a restituição dos valores indevidamente recebidos. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º Sem prejuízo do dever de informação e esclarecimento do consumidor e de entrega da minuta do contrato, no empréstimo cuja liquidação seja feita mediante consignação em folha de pagamento, a formalização e a entrega da cópia do contrato ou do instrumento de contratação ocorrerão após o fornecedor do crédito obter da fonte pagadora a indicação sobre a existência de margem consignável.     (Incluído pela Lei nº 14.181, de 2021)
+§ 1º Sem prejuízo do dever de informação e esclarecimento do consumidor e de entrega da minuta do contrato, no empréstimo cuja liquidação seja feita mediante consignação em folha de pagamento, a formalização e a entrega da cópia do contrato ou do instrumento de contratação ocorrerão após o fornecedor do crédito obter da fonte pagadora a indicação sobre a existência de margem consignável. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º Nos contratos de adesão, o fornecedor deve prestar ao consumidor, previamente, as informações de que tratam o art. 52 e o caput do art. 54-B deste Código, além de outras porventura determinadas na legislação em vigor, e fica obrigado a entregar ao consumidor cópia do contrato, após a sua conclusão       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º Nos contratos de adesão, o fornecedor deve prestar ao consumidor, previamente, as informações de que tratam o art. 52 e o caput do art. 54-B deste Código, além de outras porventura determinadas na legislação em vigor, e fica obrigado a entregar ao consumidor cópia do contrato, após a sua conclusão (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -2454,9 +2454,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 57. A pena de multa, graduada de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor, será aplicada mediante procedimento administrativo, revertendo para o Fundo de que trata a Lei nº 7.347, de 24 de julho de 1985, os valores cabíveis à União, ou para os Fundos estaduais ou municipais de proteção ao consumidor nos demais casos. (Redação dada pela Lei nº 8.656, de 21.5.1993)
 
-§ 1º A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo.     (Redação dada pela Medida Provisória nº 1.393, de 2026)
+§ 1º A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo. (Redação dada pela Medida Provisória nº 1.393, de 2026)
 
-§ 2º Quando as condutas previstas no art. 39, caput, incisos II e X, forem praticadas por importadores, produtores, distribuidoras, transportadores-revendedores-retalhistas ou revendedores varejistas de combustíveis, biocombustíveis ou derivados de petróleo, em qualquer etapa da cadeia de comercialização, a multa será de R$ 20.000,00 (vinte mil reais) a R$ 500.000.000,00 (quinhentos milhões de reais), hipótese em que não se aplica o limite previsto no § 1º.    (Incluído pela Medida Provisória nº 1.393, de 2026)
+§ 2º Quando as condutas previstas no art. 39, caput, incisos II e X, forem praticadas por importadores, produtores, distribuidoras, transportadores-revendedores-retalhistas ou revendedores varejistas de combustíveis, biocombustíveis ou derivados de petróleo, em qualquer etapa da cadeia de comercialização, a multa será de R$ 20.000,00 (vinte mil reais) a R$ 500.000.000,00 (quinhentos milhões de reais), hipótese em que não se aplica o limite previsto no § 1º. (Incluído pela Medida Provisória nº 1.393, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 8.656, de 21.5.1993; redação — Medida Provisória nº 1.393, de 2026; inclusão — Medida Provisória nº 1.393, de 2026.
 
@@ -2717,9 +2717,9 @@ Art. 65. Executar serviço de alto grau de periculosidade, contrariando determin
 
 Pena Detenção de seis meses a dois anos e multa.
 
-§ 1º As penas deste artigo são aplicáveis sem prejuízo das correspondentes à lesão corporal e à morte.                         (Redação dada pela Lei nº 13.425, de 2017)
+§ 1º As penas deste artigo são aplicáveis sem prejuízo das correspondentes à lesão corporal e à morte. (Redação dada pela Lei nº 13.425, de 2017)
 
-§ 2º A prática do disposto no inciso XIV do art. 39 desta Lei também caracteriza o crime previsto no caput deste artigo.                         (Incluído pela Lei nº 13.425, de 2017)
+§ 2º A prática do disposto no inciso XIV do art. 39 desta Lei também caracteriza o crime previsto no caput deste artigo. (Incluído pela Lei nº 13.425, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.425, de 2017; inclusão — Lei nº 13.425, de 2017.
 
@@ -3259,13 +3259,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO I — Disposições Gerais
 
-Art. 82. Para os fins do art. 81, parágrafo único, são legitimados concorrentemente:             (Redação dada pela Lei nº 9.008, de 21.3.1995)
+Art. 82. Para os fins do art. 81, parágrafo único, são legitimados concorrentemente: (Redação dada pela Lei nº 9.008, de 21.3.1995)
 
 I - o Ministério Público,
 
 II - a União, os Estados, os Municípios e o Distrito Federal;
 
-III - as entidades e órgãos da Administração Pública, direta ou indireta, ainda que sem personalidade jurídica,      especificamente destinados à defesa dos interesses e direitos protegidos por este código;
+III - as entidades e órgãos da Administração Pública, direta ou indireta, ainda que sem personalidade jurídica, especificamente destinados à defesa dos interesses e direitos protegidos por este código;
 
 IV - as associações legalmente constituídas há pelo menos um ano e que incluam entre seus fins institucionais a defesa dos interesses e direitos protegidos por este código, dispensada a autorização assemblear.
 
@@ -3553,7 +3553,7 @@ Art. 90. Aplicam-se às ações previstas neste título as normas do Código de 
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO II — Das Ações Coletivas Para a Defesa de Interesses Individuais Homogêneos
 
-Art. 91. Os legitimados de que trata o art. 82 poderão propor, em nome próprio e no interesse das vítimas ou seus sucessores, ação civil coletiva de responsabilidade pelos danos individualmente sofridos, de acordo com o disposto nos artigos seguintes.             (Redação dada pela Lei nº 9.008, de 21.3.1995)
+Art. 91. Os legitimados de que trata o art. 82 poderão propor, em nome próprio e no interesse das vítimas ou seus sucessores, ação civil coletiva de responsabilidade pelos danos individualmente sofridos, de acordo com o disposto nos artigos seguintes. (Redação dada pela Lei nº 9.008, de 21.3.1995)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.008, de 21.3.1995.
 
@@ -3761,7 +3761,7 @@ A liquidação e a execução da sentença coletiva podem ser promovidas pela pr
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO II — Das Ações Coletivas Para a Defesa de Interesses Individuais Homogêneos
 
-Art. 98. A execução poderá ser coletiva, sendo promovida pelos legitimados de que trata o art. 82, abrangendo as vítimas cujas indenizações já tiveram sido fixadas em sentença de liquidação, sem prejuízo do ajuizamento de outras execuções.             (Redação dada pela Lei nº 9.008, de 21.3.1995)
+Art. 98. A execução poderá ser coletiva, sendo promovida pelos legitimados de que trata o art. 82, abrangendo as vítimas cujas indenizações já tiveram sido fixadas em sentença de liquidação, sem prejuízo do ajuizamento de outras execuções. (Redação dada pela Lei nº 9.008, de 21.3.1995)
 
 § 1° A execução coletiva far-se-á com base em certidão das sentenças de liquidação, da qual deverá constar a ocorrência ou não do trânsito em julgado.
 
@@ -4012,25 +4012,25 @@ A ação coletiva não induz litispendência para as individuais, mas o autor in
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO V — DA CONCILIAÇÃO NO SUPERENDIVIDAMENTO
 
-Art. 104-A. A requerimento do consumidor superendividado pessoa natural, o juiz poderá instaurar processo de repactuação de dívidas, com vistas à realização de audiência conciliatória, presidida por ele ou por conciliador credenciado no juízo, com a presença de todos os credores de dívidas previstas no art. 54-A deste Código, na qual o consumidor apresentará proposta de plano de pagamento com prazo máximo de 5 (cinco) anos, preservados o mínimo existencial, nos termos da regulamentação, e as garantias e as formas de pagamento originalmente pactuadas.        (Incluído pela Lei nº 14.181, de 2021)
+Art. 104-A. A requerimento do consumidor superendividado pessoa natural, o juiz poderá instaurar processo de repactuação de dívidas, com vistas à realização de audiência conciliatória, presidida por ele ou por conciliador credenciado no juízo, com a presença de todos os credores de dívidas previstas no art. 54-A deste Código, na qual o consumidor apresentará proposta de plano de pagamento com prazo máximo de 5 (cinco) anos, preservados o mínimo existencial, nos termos da regulamentação, e as garantias e as formas de pagamento originalmente pactuadas. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º Excluem-se do processo de repactuação as dívidas, ainda que decorrentes de relações de consumo, oriundas de contratos celebrados dolosamente sem o propósito de realizar pagamento, bem como as dívidas provenientes de contratos de crédito com garantia real, de financiamentos imobiliários e de crédito rural.       (Incluído pela Lei nº 14.181, de 2021)
+§ 1º Excluem-se do processo de repactuação as dívidas, ainda que decorrentes de relações de consumo, oriundas de contratos celebrados dolosamente sem o propósito de realizar pagamento, bem como as dívidas provenientes de contratos de crédito com garantia real, de financiamentos imobiliários e de crédito rural. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º O não comparecimento injustificado de qualquer credor, ou de seu procurador com poderes especiais e plenos para transigir, à audiência de conciliação de que trata o caput deste artigo acarretará a suspensão da exigibilidade do débito e a interrupção dos encargos da mora, bem como a sujeição compulsória ao plano de pagamento da dívida se o montante devido ao credor ausente for certo e conhecido pelo consumidor, devendo o pagamento a esse credor ser estipulado para ocorrer apenas após o pagamento aos credores presentes à audiência conciliatória.       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º O não comparecimento injustificado de qualquer credor, ou de seu procurador com poderes especiais e plenos para transigir, à audiência de conciliação de que trata o caput deste artigo acarretará a suspensão da exigibilidade do débito e a interrupção dos encargos da mora, bem como a sujeição compulsória ao plano de pagamento da dívida se o montante devido ao credor ausente for certo e conhecido pelo consumidor, devendo o pagamento a esse credor ser estipulado para ocorrer apenas após o pagamento aos credores presentes à audiência conciliatória. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 3º No caso de conciliação, com qualquer credor, a sentença judicial que homologar o acordo descreverá o plano de pagamento da dívida e terá eficácia de título executivo e força de coisa julgada.      (Incluído pela Lei nº 14.181, de 2021)
+§ 3º No caso de conciliação, com qualquer credor, a sentença judicial que homologar o acordo descreverá o plano de pagamento da dívida e terá eficácia de título executivo e força de coisa julgada. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 4º Constarão do plano de pagamento referido no § 3º deste artigo:       (Incluído pela Lei nº 14.181, de 2021)
+§ 4º Constarão do plano de pagamento referido no § 3º deste artigo: (Incluído pela Lei nº 14.181, de 2021)
 
-I - medidas de dilação dos prazos de pagamento e de redução dos encargos da dívida ou da remuneração do fornecedor, entre outras destinadas a facilitar o pagamento da dívida;      (Incluído pela Lei nº 14.181, de 2021)
+I - medidas de dilação dos prazos de pagamento e de redução dos encargos da dívida ou da remuneração do fornecedor, entre outras destinadas a facilitar o pagamento da dívida; (Incluído pela Lei nº 14.181, de 2021)
 
-II - referência à suspensão ou à extinção das ações judiciais em curso;       (Incluído pela Lei nº 14.181, de 2021)
+II - referência à suspensão ou à extinção das ações judiciais em curso; (Incluído pela Lei nº 14.181, de 2021)
 
-III - data a partir da qual será providenciada a exclusão do consumidor de bancos de dados e de cadastros de inadimplentes;       (Incluído pela Lei nº 14.181, de 2021)
+III - data a partir da qual será providenciada a exclusão do consumidor de bancos de dados e de cadastros de inadimplentes; (Incluído pela Lei nº 14.181, de 2021)
 
-IV - condicionamento de seus efeitos à abstenção, pelo consumidor, de condutas que importem no agravamento de sua situação de superendividamento.      (Incluído pela Lei nº 14.181, de 2021)
+IV - condicionamento de seus efeitos à abstenção, pelo consumidor, de condutas que importem no agravamento de sua situação de superendividamento. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 5º O pedido do consumidor a que se refere o caput deste artigo não importará em declaração de insolvência civil e poderá ser repetido somente após decorrido o prazo de 2 (dois) anos, contado da liquidação das obrigações previstas no plano de pagamento homologado, sem prejuízo de eventual repactuação.       (Incluído pela Lei nº 14.181, de 2021)
+§ 5º O pedido do consumidor a que se refere o caput deste artigo não importará em declaração de insolvência civil e poderá ser repetido somente após decorrido o prazo de 2 (dois) anos, contado da liquidação das obrigações previstas no plano de pagamento homologado, sem prejuízo de eventual repactuação. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -4063,15 +4063,15 @@ O consumidor superendividado pode pedir ao juiz a repactuação das dívidas em 
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO V — DA CONCILIAÇÃO NO SUPERENDIVIDAMENTO
 
-Art. 104-B. Se não houver êxito na conciliação em relação a quaisquer credores, o juiz, a pedido do consumidor, instaurará processo por superendividamento para revisão e integração dos contratos e repactuação das dívidas remanescentes mediante plano judicial compulsório e procederá à citação de todos os credores cujos créditos não tenham integrado o acordo porventura celebrado.      (Incluído pela Lei nº 14.181, de 2021)
+Art. 104-B. Se não houver êxito na conciliação em relação a quaisquer credores, o juiz, a pedido do consumidor, instaurará processo por superendividamento para revisão e integração dos contratos e repactuação das dívidas remanescentes mediante plano judicial compulsório e procederá à citação de todos os credores cujos créditos não tenham integrado o acordo porventura celebrado. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º Serão considerados no processo por superendividamento, se for o caso, os documentos e as informações prestadas em audiência.       (Incluído pela Lei nº 14.181, de 2021)
+§ 1º Serão considerados no processo por superendividamento, se for o caso, os documentos e as informações prestadas em audiência. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º No prazo de 15 (quinze) dias, os credores citados juntarão documentos e as razões da negativa de aceder ao plano voluntário ou de renegociar.       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º No prazo de 15 (quinze) dias, os credores citados juntarão documentos e as razões da negativa de aceder ao plano voluntário ou de renegociar. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 3º O juiz poderá nomear administrador, desde que isso não onere as partes, o qual, no prazo de até 30 (trinta) dias, após cumpridas as diligências eventualmente necessárias, apresentará plano de pagamento que contemple medidas de temporização ou de atenuação dos encargos.       (Incluído pela Lei nº 14.181, de 2021)
+§ 3º O juiz poderá nomear administrador, desde que isso não onere as partes, o qual, no prazo de até 30 (trinta) dias, após cumpridas as diligências eventualmente necessárias, apresentará plano de pagamento que contemple medidas de temporização ou de atenuação dos encargos. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 4º O plano judicial compulsório assegurará aos credores, no mínimo, o valor do principal devido, corrigido monetariamente por índices oficiais de preço, e preverá a liquidação total da dívida, após a quitação do plano de pagamento consensual previsto no art. 104-A deste Código, em, no máximo, 5 (cinco) anos, sendo que a primeira parcela será devida no prazo máximo de 180 (cento e oitenta) dias, contado de sua homologação judicial, e o restante do saldo será devido em parcelas mensais iguais e sucessivas.       (Incluído pela Lei nº 14.181, de 2021)
+§ 4º O plano judicial compulsório assegurará aos credores, no mínimo, o valor do principal devido, corrigido monetariamente por índices oficiais de preço, e preverá a liquidação total da dívida, após a quitação do plano de pagamento consensual previsto no art. 104-A deste Código, em, no máximo, 5 (cinco) anos, sendo que a primeira parcela será devida no prazo máximo de 180 (cento e oitenta) dias, contado de sua homologação judicial, e o restante do saldo será devido em parcelas mensais iguais e sucessivas. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 
@@ -4103,11 +4103,11 @@ Fracassada a conciliação, o juiz instaura, a pedido do consumidor, processo po
 
 **Localização:** TÍTULO III — Da Defesa do Consumidor em Juízo › CAPÍTULO V — DA CONCILIAÇÃO NO SUPERENDIVIDAMENTO
 
-Art. 104-C. Compete concorrente e facultativamente aos órgãos públicos integrantes do Sistema Nacional de Defesa do Consumidor a fase conciliatória e preventiva do processo de repactuação de dívidas, nos moldes do art. 104-A deste Código, no que couber, com possibilidade de o processo ser regulado por convênios específicos celebrados entre os referidos órgãos e as instituições credoras ou suas associações.      (Incluído pela Lei nº 14.181, de 2021)
+Art. 104-C. Compete concorrente e facultativamente aos órgãos públicos integrantes do Sistema Nacional de Defesa do Consumidor a fase conciliatória e preventiva do processo de repactuação de dívidas, nos moldes do art. 104-A deste Código, no que couber, com possibilidade de o processo ser regulado por convênios específicos celebrados entre os referidos órgãos e as instituições credoras ou suas associações. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 1º Em caso de conciliação administrativa para prevenir o superendividamento do consumidor pessoa natural, os órgãos públicos poderão promover, nas reclamações individuais, audiência global de conciliação com todos os credores e, em todos os casos, facilitar a elaboração de plano de pagamento, preservado o mínimo existencial, nos termos da regulamentação, sob a supervisão desses órgãos, sem prejuízo das demais atividades de reeducação financeira cabíveis.      (Incluído pela Lei nº 14.181, de 2021)
+§ 1º Em caso de conciliação administrativa para prevenir o superendividamento do consumidor pessoa natural, os órgãos públicos poderão promover, nas reclamações individuais, audiência global de conciliação com todos os credores e, em todos os casos, facilitar a elaboração de plano de pagamento, preservado o mínimo existencial, nos termos da regulamentação, sob a supervisão desses órgãos, sem prejuízo das demais atividades de reeducação financeira cabíveis. (Incluído pela Lei nº 14.181, de 2021)
 
-§ 2º O acordo firmado perante os órgãos públicos de defesa do consumidor, em caso de superendividamento do consumidor pessoa natural, incluirá a data a partir da qual será providenciada a exclusão do consumidor de bancos de dados e de cadastros de inadimplentes, bem como o condicionamento de seus efeitos à abstenção, pelo consumidor, de condutas que importem no agravamento de sua situação de superendividamento, especialmente a de contrair novas dívidas.       (Incluído pela Lei nº 14.181, de 2021)
+§ 2º O acordo firmado perante os órgãos públicos de defesa do consumidor, em caso de superendividamento do consumidor pessoa natural, incluirá a data a partir da qual será providenciada a exclusão do consumidor de bancos de dados e de cadastros de inadimplentes, bem como o condicionamento de seus efeitos à abstenção, pelo consumidor, de condutas que importem no agravamento de sua situação de superendividamento, especialmente a de contrair novas dívidas. (Incluído pela Lei nº 14.181, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.181, de 2021.
 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Conferência autônoma do Lex Vade Mecum às 7h e às 19h (sem o Claude).
+     Instalar em ~/Library/LaunchAgents/ e carregar com:
+     launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/br.lextecnologias.lexvademecum.conferencia.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>br.lextecnologias.lexvademecum.conferencia</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/opt/homebrew/bin/node</string>
+    <string>/Users/usuario/Library/Application Support/LexVadeMecum/repo/ferramentas/conferencia-local.mjs</string>
+  </array>
+  <key>WorkingDirectory</key><string>/Users/usuario/Library/Application Support/LexVadeMecum/repo</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key><string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    <key>LANG</key><string>en_US.UTF-8</string>
+  </dict>
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Hour</key><integer>19</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>StandardOutPath</key><string>/Users/usuario/Library/Logs/LexVadeMecum/conferencia.log</string>
+  <key>StandardErrorPath</key><string>/Users/usuario/Library/Logs/LexVadeMecum/conferencia.log</string>
+  <key>ProcessType</key><string>Background</string>
+</dict>
+</plist>

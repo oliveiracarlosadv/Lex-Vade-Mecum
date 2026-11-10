@@ -143,7 +143,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 2º São vias terrestres urbanas e rurais as ruas, as avenidas, os logradouros, os caminhos, as passagens, as estradas e as rodovias, que terão seu uso regulamentado pelo órgão ou entidade com circunscrição sobre elas, de acordo com as peculiaridades locais e as circunstâncias especiais.
 
-Parágrafo único.  Para os efeitos deste Código, são consideradas vias terrestres as praias abertas à circulação pública, as vias internas pertencentes aos condomínios constituídos por unidades autônomas e as vias e áreas de estacionamento de estabelecimentos privados de uso coletivo.             (Redação dada pela Lei nº 13.146, de 2015)      (Vigência)
+Parágrafo único. Para os efeitos deste Código, são consideradas vias terrestres as praias abertas à circulação pública, as vias internas pertencentes aos condomínios constituídos por unidades autônomas e as vias e áreas de estacionamento de estabelecimentos privados de uso coletivo. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.146, de 2015.
 
@@ -335,13 +335,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 7o-A.  A autoridade portuária ou a entidade concessionária de porto organizado poderá celebrar convênios com os órgãos previstos no art. 7o, com a interveniência dos Municípios e Estados, juridicamente interessados, para o fim específico de facilitar a autuação por descumprimento da legislação de trânsito.      (Incluído pela Lei nº 12.058, de 2009)
+Art. 7o-A. A autoridade portuária ou a entidade concessionária de porto organizado poderá celebrar convênios com os órgãos previstos no art. 7o, com a interveniência dos Municípios e Estados, juridicamente interessados, para o fim específico de facilitar a autuação por descumprimento da legislação de trânsito. (Incluído pela Lei nº 12.058, de 2009)
 
-§ 1o  O convênio valerá para toda a área física do porto organizado, inclusive, nas áreas dos terminais alfandegados, nas estações de transbordo, nas instalações portuárias públicas de pequeno porte e nos respectivos estacionamentos ou vias de trânsito internas.      (Incluído pela Lei nº 12.058, de 2009)
+§ 1o O convênio valerá para toda a área física do porto organizado, inclusive, nas áreas dos terminais alfandegados, nas estações de transbordo, nas instalações portuárias públicas de pequeno porte e nos respectivos estacionamentos ou vias de trânsito internas. (Incluído pela Lei nº 12.058, de 2009)
 
-§ 2o  (VETADO)        (Incluído pela Lei nº 12.058, de 2009)
+§ 2o (VETADO) (Incluído pela Lei nº 12.058, de 2009)
 
-§ 3o   (VETADO)        (Incluído pela Lei nº 12.058, de 2009)
+§ 3o (VETADO) (Incluído pela Lei nº 12.058, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.058, de 2009.
 
@@ -429,23 +429,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 10. O Contran, com sede no Distrito Federal, é composto dos Ministros de Estado responsáveis pelas seguintes áreas de competência:      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 10. O Contran, com sede no Distrito Federal, é composto dos Ministros de Estado responsáveis pelas seguintes áreas de competência: (Redação dada pela Lei nº 14.599, de 2023)
 
 I - (VETADO)
 
 II - (VETADO)
 
-II-A - (revogado);        (Redação dada pela Lei nº 14.599, de 2023)
+II-A - (revogado); (Redação dada pela Lei nº 14.599, de 2023)
 
-III - ciência, tecnologia e inovações;     (Redação dada pela Lei nº 14.599, de 2023)
+III - ciência, tecnologia e inovações; (Redação dada pela Lei nº 14.599, de 2023)
 
-IV - educação;        (Redação dada pela Lei nº 14.599, de 2023)
+IV - educação; (Redação dada pela Lei nº 14.599, de 2023)
 
-V - defesa;       (Redação dada pela Lei nº 14.599, de 2023)
+V - defesa; (Redação dada pela Lei nº 14.599, de 2023)
 
-VI - meio ambiente;      (Redação dada pela Lei nº 14.599, de 2023)
+VI - meio ambiente; (Redação dada pela Lei nº 14.599, de 2023)
 
-VII - (revogado);       (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+VII - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 VIII - (VETADO)
 
@@ -471,27 +471,27 @@ XVIII - (VETADO)
 
 XIX - (VETADO)
 
-XX - (revogado);        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+XX - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 XXI - (VETADO)
 
-XXII - saúde;     (Redação dada pela Lei nº 14.599, de 2023)
+XXII - saúde; (Redação dada pela Lei nº 14.599, de 2023)
 
-XXIII - justiça;      (Redação dada pela Lei nº 14.599, de 2023)
+XXIII - justiça; (Redação dada pela Lei nº 14.599, de 2023)
 
-XXIV - relações exteriores;      (Redação dada pela Lei nº 14.599, de 2023)
+XXIV - relações exteriores; (Redação dada pela Lei nº 14.599, de 2023)
 
-XXV - (revogado);         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+XXV - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-XXVI - indústria e comércio;       (Redação dada pela Lei nº 14.599, de 2023)
+XXVI - indústria e comércio; (Redação dada pela Lei nº 14.599, de 2023)
 
-XXVII - agropecuária;       (Redação dada pela Lei nº 14.599, de 2023)
+XXVII - agropecuária; (Redação dada pela Lei nº 14.599, de 2023)
 
-XXVIII - transportes terrestres;      (Incluído pela Lei nº 14.599, de 2023)
+XXVIII - transportes terrestres; (Incluído pela Lei nº 14.599, de 2023)
 
-XXIX - segurança pública;       (Incluído pela Lei nº 14.599, de 2023)
+XXIX - segurança pública; (Incluído pela Lei nº 14.599, de 2023)
 
-XXX - mobilidade urbana.       (Incluído pela Lei nº 14.599, de 2023)
+XXX - mobilidade urbana. (Incluído pela Lei nº 14.599, de 2023)
 
 § 1º (VETADO)
 
@@ -499,13 +499,13 @@ XXX - mobilidade urbana.       (Incluído pela Lei nº 14.599, de 2023)
 
 § 3º (VETADO)
 
-§ 3º-A. O Contran será presidido pelo Ministro de Estado ao qual estiver subordinado o órgão máximo executivo de trânsito da União.        (Incluído pela Lei nº 14.599, de 2023)
+§ 3º-A. O Contran será presidido pelo Ministro de Estado ao qual estiver subordinado o órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 4º Os Ministros de Estado poderão fazer-se representar por servidores de nível hierárquico igual ou superior ao Cargo Comissionado Executivo (CCE) nível 17, ou por oficial-general, na hipótese de tratar-se de militar.      (Redação dada pela Lei nº 14.599, de 2023)
+§ 4º Os Ministros de Estado poderão fazer-se representar por servidores de nível hierárquico igual ou superior ao Cargo Comissionado Executivo (CCE) nível 17, ou por oficial-general, na hipótese de tratar-se de militar. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 5º  Compete ao dirigente do órgão máximo executivo de trânsito da União atuar como Secretário-Executivo do Contran.        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 5º Compete ao dirigente do órgão máximo executivo de trânsito da União atuar como Secretário-Executivo do Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 6º  O quórum de votação e de aprovação no Contran é o de maioria absoluta.          (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 6º O quórum de votação e de aprovação no Contran é o de maioria absoluta. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.599, de 2023.
 
@@ -536,7 +536,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 10-A.  Poderão ser convidados a participar de reuniões do Contran, sem direito a voto, representantes de órgãos e entidades setoriais responsáveis ou impactados pelas propostas ou matérias em exame.       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+Art. 10-A. Poderão ser convidados a participar de reuniões do Contran, sem direito a voto, representantes de órgãos e entidades setoriais responsáveis ou impactados pelas propostas ou matérias em exame. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -600,7 +600,7 @@ I - estabelecer as normas regulamentares referidas neste Código e as diretrizes
 
 II - coordenar os órgãos do Sistema Nacional de Trânsito, objetivando a integração de suas atividades;
 
-III -  (VETADO)
+III - (VETADO)
 
 IV - criar Câmaras Temáticas;
 
@@ -610,7 +610,7 @@ VI - estabelecer as diretrizes do regimento das JARI;
 
 VII - zelar pela uniformidade e cumprimento das normas contidas neste Código e nas resoluções complementares;
 
-VIII - estabelecer e normatizar os procedimentos para o enquadramento das condutas expressamente referidas neste Código, para a fiscalização e a aplicação das medidas administrativas e das penalidades por infrações e para a arrecadação das multas aplicadas e o repasse dos valores arrecadados;         (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+VIII - estabelecer e normatizar os procedimentos para o enquadramento das condutas expressamente referidas neste Código, para a fiscalização e a aplicação das medidas administrativas e das penalidades por infrações e para a arrecadação das multas aplicadas e o repasse dos valores arrecadados; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 IX - responder às consultas que lhe forem formuladas, relativas à aplicação da legislação de trânsito;
 
@@ -618,27 +618,27 @@ X - normatizar os procedimentos sobre a aprendizagem, habilitação, expedição
 
 XI - aprovar, complementar ou alterar os dispositivos de sinalização e os dispositivos e equipamentos de trânsito;
 
-XII - (revogado);          (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+XII - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 XIII - avocar, para análise e soluções, processos sobre conflitos de competência ou circunscrição, ou, quando necessário, unificar as decisões administrativas; e
 
 XIV - dirimir conflitos sobre circunscrição e competência de trânsito no âmbito da União, dos Estados e do Distrito Federal.
 
-XV - normatizar o processo de formação do candidato à obtenção da Carteira Nacional de Habilitação, estabelecendo seu conteúdo didático-pedagógico, carga horária, avaliações, exames, execução e fiscalização.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+XV - normatizar o processo de formação do candidato à obtenção da Carteira Nacional de Habilitação, estabelecendo seu conteúdo didático-pedagógico, carga horária, avaliações, exames, execução e fiscalização. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 1º  As propostas de normas regulamentares de que trata o inciso I do caput deste artigo serão submetidas a prévia consulta pública, por meio da rede mundial de computadores, pelo período mínimo de 30 (trinta) dias, antes do exame da matéria pelo Contran.          (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 1º As propostas de normas regulamentares de que trata o inciso I do caput deste artigo serão submetidas a prévia consulta pública, por meio da rede mundial de computadores, pelo período mínimo de 30 (trinta) dias, antes do exame da matéria pelo Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  As contribuições recebidas na consulta pública de que trata o § 1º deste artigo ficarão à disposição do público pelo prazo de 2 (dois) anos, contado da data de encerramento da consulta pública.      (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 2º As contribuições recebidas na consulta pública de que trata o § 1º deste artigo ficarão à disposição do público pelo prazo de 2 (dois) anos, contado da data de encerramento da consulta pública. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3º Em caso de urgência e de relevante interesse público, o presidente do Contran poderá editar deliberação, ad referendum do Plenário, para fins do disposto no inciso I do caput deste artigo.      (Redação dada pela Lei nº 14.599, de 2023)
+§ 3º Em caso de urgência e de relevante interesse público, o presidente do Contran poderá editar deliberação, ad referendum do Plenário, para fins do disposto no inciso I do caput deste artigo. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 4º A deliberação de que trata o § 3º deste artigo:      (Redação dada pela Lei nº 14.599, de 2023)
+§ 4º A deliberação de que trata o § 3º deste artigo: (Redação dada pela Lei nº 14.599, de 2023)
 
-I - na hipótese de não ser aprovada pelo Plenário do Contran no prazo de 120 (cento e vinte) dias, perderá sua eficácia, com manutenção dos efeitos dela decorrentes; e       (Incluído pela Lei nº 14.599, de 2023)
+I - na hipótese de não ser aprovada pelo Plenário do Contran no prazo de 120 (cento e vinte) dias, perderá sua eficácia, com manutenção dos efeitos dela decorrentes; e (Incluído pela Lei nº 14.599, de 2023)
 
-II - não está sujeita ao disposto nos §§ 1º e 2º deste artigo, vedada sua reedição.      (Incluído pela Lei nº 14.599, de 2023)
+II - não está sujeita ao disposto nos §§ 1º e 2º deste artigo, vedada sua reedição. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 5º Norma do Contran poderá dispor sobre o uso de sinalização horizontal ou vertical que utilize técnicas de estímulos comportamentais para a redução de sinistros de trânsito.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 5º Norma do Contran poderá dispor sobre o uso de sinalização horizontal ou vertical que utilize técnicas de estímulos comportamentais para a redução de sinistros de trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 14.071, de 2020; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.599, de 2023.
 
@@ -675,15 +675,15 @@ Art. 13. As Câmaras Temáticas, órgãos técnicos vinculados ao CONTRAN, são 
 
 § 2º Os segmentos da sociedade, relacionados no parágrafo anterior, serão representados por pessoa jurídica e devem atender aos requisitos estabelecidos pelo CONTRAN.
 
-§ 3º  A coordenação das Câmaras Temáticas será exercida por representantes do órgão máximo executivo de trânsito da União ou dos Ministérios representados no Contran, conforme definido no ato de criação de cada Câmara Temática.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 3º A coordenação das Câmaras Temáticas será exercida por representantes do órgão máximo executivo de trânsito da União ou dos Ministérios representados no Contran, conforme definido no ato de criação de cada Câmara Temática. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 4º  (VETADO)
+§ 4º (VETADO)
 
-I -  (VETADO)
+I - (VETADO)
 
-II -  (VETADO)
+II - (VETADO)
 
-III -  (VETADO)
+III - (VETADO)
 
 IV - (VETADO)
 
@@ -741,7 +741,7 @@ IX - dirimir conflitos sobre circunscrição e competência de trânsito no âmb
 
 X - informar o CONTRAN sobre o cumprimento das exigências definidas nos §§ 1º e 2º do art. 333.
 
-XI - designar, em caso de recursos deferidos e na hipótese de reavaliação dos exames, junta especial de saúde para examinar os candidatos à habilitação para conduzir veículos automotores.          (Incluído pela Lei nº 9.602, de 1998)
+XI - designar, em caso de recursos deferidos e na hipótese de reavaliação dos exames, junta especial de saúde para examinar os candidatos à habilitação para conduzir veículos automotores. (Incluído pela Lei nº 9.602, de 1998)
 
 Parágrafo único. Dos casos previstos no inciso V, julgados pelo órgão, não cabe recurso na esfera administrativa.
 
@@ -925,15 +925,15 @@ IX - organizar e manter o Registro Nacional de Veículos Automotores - RENAVAM;
 
 X - organizar a estatística geral de trânsito no território nacional, definindo os dados a serem fornecidos pelos demais órgãos e promover sua divulgação;
 
-XI - estabelecer modelo padrão de coleta de informações sobre as ocorrências de sinistros de trânsito e as estatísticas de trânsito;      (Redação dada pela Lei nº 14.599, de 2023)
+XI - estabelecer modelo padrão de coleta de informações sobre as ocorrências de sinistros de trânsito e as estatísticas de trânsito; (Redação dada pela Lei nº 14.599, de 2023)
 
 XII - administrar fundo de âmbito nacional destinado à segurança e à educação de trânsito;
 
-XIII - coordenar a administração do registro das infrações de trânsito, da pontuação e das penalidades aplicadas no prontuário do infrator, da arrecadação de multas e do repasse de que trata o § 1º do art. 320;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+XIII - coordenar a administração do registro das infrações de trânsito, da pontuação e das penalidades aplicadas no prontuário do infrator, da arrecadação de multas e do repasse de que trata o § 1º do art. 320; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 XIV - fornecer aos órgãos e entidades do Sistema Nacional de Trânsito informações sobre registros de veículos e de condutores, mantendo o fluxo permanente de informações com os demais órgãos do Sistema;
 
-XV - promover, em conjunto com os órgãos competentes do Ministério da Educação, de acordo com as diretrizes do Contran, a elaboração e a implementação de programas de educação de trânsito nos estabelecimentos de ensino;     (Redação dada pela Lei nº 14.599, de 2023)
+XV - promover, em conjunto com os órgãos competentes do Ministério da Educação, de acordo com as diretrizes do Contran, a elaboração e a implementação de programas de educação de trânsito nos estabelecimentos de ensino; (Redação dada pela Lei nº 14.599, de 2023)
 
 XVI - elaborar e distribuir conteúdos programáticos para a educação de trânsito;
 
@@ -943,7 +943,7 @@ XVIII - elaborar, juntamente com os demais órgãos e entidades do Sistema Nacio
 
 XIX - organizar, elaborar, complementar e alterar os manuais e normas de projetos de implementação da sinalização, dos dispositivos e equipamentos de trânsito aprovados pelo CONTRAN;
 
-XX – expedir a permissão internacional para conduzir veículo e o certificado de passagem nas alfândegas mediante delegação aos órgãos executivos dos Estados e do Distrito Federal ou a entidade habilitada para esse fim pelo poder público federal;         (Redação dada pela Lei nº 13.258, de 2016)
+XX – expedir a permissão internacional para conduzir veículo e o certificado de passagem nas alfândegas mediante delegação aos órgãos executivos dos Estados e do Distrito Federal ou a entidade habilitada para esse fim pelo poder público federal; (Redação dada pela Lei nº 13.258, de 2016)
 
 XXI - promover a realização periódica de reuniões regionais e congressos nacionais de trânsito, bem como propor a representação do Brasil em congressos ou reuniões internacionais;
 
@@ -963,11 +963,11 @@ XXVIII - estudar os casos omissos na legislação de trânsito e submetê-los, c
 
 XXIX - prestar suporte técnico, jurídico, administrativo e financeiro ao CONTRAN.
 
-XXX - organizar e manter o Registro Nacional de Infrações de Trânsito (Renainf).          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+XXX - organizar e manter o Registro Nacional de Infrações de Trânsito (Renainf). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-XXXI - organizar, manter e atualizar o Registro Nacional Positivo de Condutores (RNPC).         (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+XXXI - organizar, manter e atualizar o Registro Nacional Positivo de Condutores (RNPC). (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-XXXII - organizar e manter o Registro Nacional de Sinistros e Estatísticas de Trânsito (Renaest).       (Incluído pela Lei nº 14.599, de 2023)
+XXXII - organizar e manter o Registro Nacional de Sinistros e Estatísticas de Trânsito (Renaest). (Incluído pela Lei nº 14.599, de 2023)
 
 § 1º Comprovada, por meio de sindicância, a deficiência técnica ou administrativa ou a prática constante de atos de improbidade contra a fé pública, contra o patrimônio ou contra a administração pública, o órgão executivo de trânsito da União, mediante aprovação do CONTRAN, assumirá diretamente ou por delegação, a execução total ou parcial das atividades do órgão executivo de trânsito estadual que tenha motivado a investigação, até que as irregularidades sejam sanadas.
 
@@ -975,9 +975,9 @@ XXXII - organizar e manter o Registro Nacional de Sinistros e Estatísticas de T
 
 § 3º Os órgãos e entidades executivos de trânsito e executivos rodoviários da União, dos Estados, do Distrito Federal e dos Municípios fornecerão, obrigatoriamente, mês a mês, os dados estatísticos para os fins previstos no inciso X.
 
-§ 4º  (VETADO).          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 4º (VETADO). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 5º As informações constantes do Renach e do Renavam deverão ser disponibilizadas na internet para consulta, pelo motorista habilitado, dos dados de sua habilitação, e, pelo proprietário de veículo, dos dados de veículo de sua propriedade. (Incluído pela Lei nº 14.861, de 2024)    Vigência
+§ 5º As informações constantes do Renach e do Renavam deverão ser disponibilizadas na internet para consulta, pelo motorista habilitado, dos dados de sua habilitação, e, pelo proprietário de veículo, dos dados de veículo de sua propriedade. (Incluído pela Lei nº 14.861, de 2024) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; redação — Lei nº 13.281, de 2016; redação — Lei nº 13.258, de 2016; inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.599, de 2023; inclusão — Lei nº 14.861, de 2024.
 
@@ -1016,15 +1016,15 @@ I - cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito 
 
 II - realizar o patrulhamento ostensivo, executando operações relacionadas com a segurança pública, com o objetivo de preservar a ordem, incolumidade das pessoas, o patrimônio da União e o de terceiros;
 
-III - executar a fiscalização de trânsito, aplicar as penalidades de advertência por escrito e multa e as medidas administrativas cabíveis, com a notificação dos infratores e a arrecadação das multas aplicadas e dos valores provenientes de estadia e remoção de veículos, objetos e animais e de escolta de veículos de cargas superdimensionadas ou perigosas;      (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+III - executar a fiscalização de trânsito, aplicar as penalidades de advertência por escrito e multa e as medidas administrativas cabíveis, com a notificação dos infratores e a arrecadação das multas aplicadas e dos valores provenientes de estadia e remoção de veículos, objetos e animais e de escolta de veículos de cargas superdimensionadas ou perigosas; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-IV - efetuar levantamento dos locais de sinistros de trânsito e dos serviços de atendimento, socorro e salvamento de vítimas;      (Redação dada pela Lei nº 14.599, de 2023)
+IV - efetuar levantamento dos locais de sinistros de trânsito e dos serviços de atendimento, socorro e salvamento de vítimas; (Redação dada pela Lei nº 14.599, de 2023)
 
 V - credenciar os serviços de escolta, fiscalizar e adotar medidas de segurança relativas aos serviços de remoção de veículos, escolta e transporte de carga indivisível;
 
 VI - assegurar a livre circulação nas rodovias federais, podendo solicitar ao órgão rodoviário a adoção de medidas emergenciais, e zelar pelo cumprimento das normas legais relativas ao direito de vizinhança, promovendo a interdição de construções e instalações não autorizadas;
 
-VII - coletar dados estatísticos e elaborar estudos sobre sinistros de trânsito e suas causas, adotando ou indicando medidas operacionais preventivas e encaminhando-os ao órgão rodoviário federal;       (Redação dada pela Lei nº 14.599, de 2023)
+VII - coletar dados estatísticos e elaborar estudos sobre sinistros de trânsito e suas causas, adotando ou indicando medidas operacionais preventivas e encaminhando-os ao órgão rodoviário federal; (Redação dada pela Lei nº 14.599, de 2023)
 
 VIII - implementar as medidas da Política Nacional de Segurança e Educação de Trânsito;
 
@@ -1034,9 +1034,9 @@ X - integrar-se a outros órgãos e entidades do Sistema Nacional de Trânsito p
 
 XI - fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores ou pela sua carga, de acordo com o estabelecido no art. 66, além de dar apoio, quando solicitado, às ações específicas dos órgãos ambientais.
 
-XII - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União.      (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+XII - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-XIII - realizar perícia administrativa nos locais de sinistros de  trânsito.       (Redação dada pela Lei nº 14.599, de 2023)
+XIII - realizar perícia administrativa nos locais de sinistros de trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020.
 
@@ -1077,7 +1077,7 @@ II - planejar, projetar, regulamentar e operar o trânsito de veículos, de pede
 
 III - implantar, manter e operar o sistema de sinalização, os dispositivos e os equipamentos de controle viário;
 
-IV - coletar dados e elaborar estudos sobre os sinistros de trânsito e suas causas;      (Redação dada pela Lei nº 14.599, de 2023)
+IV - coletar dados e elaborar estudos sobre os sinistros de trânsito e suas causas; (Redação dada pela Lei nº 14.599, de 2023)
 
 V - estabelecer, em conjunto com os órgãos de policiamento ostensivo de trânsito, as respectivas diretrizes para o policiamento ostensivo de trânsito;
 
@@ -1099,9 +1099,9 @@ XIII - fiscalizar o nível de emissão de poluentes e ruído produzidos pelos ve
 
 XIV - vistoriar veículos que necessitem de autorização especial para transitar e estabelecer os requisitos técnicos a serem observados para a circulação desses veículos.
 
-XV - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União.     (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+XV - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único.  (VETADO)
+Parágrafo único. (VETADO)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020.
 
@@ -1139,21 +1139,21 @@ Art. 22. Compete aos órgãos ou entidades executivos de trânsito dos Estados e
 
 I - cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito das respectivas atribuições;
 
-II - realizar, fiscalizar e controlar o processo de formação, de aperfeiçoamento, de reciclagem e de suspensão de condutores e expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante delegação do órgão máximo executivo de trânsito da União;        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+II - realizar, fiscalizar e controlar o processo de formação, de aperfeiçoamento, de reciclagem e de suspensão de condutores e expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante delegação do órgão máximo executivo de trânsito da União; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-III - vistoriar, inspecionar as condições de segurança veicular, registrar, emplacar e licenciar veículos, com a expedição dos Certificados de Registro de Veículo e de Licenciamento Anual, mediante delegação do órgão máximo executivo de trânsito da União;         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+III - vistoriar, inspecionar as condições de segurança veicular, registrar, emplacar e licenciar veículos, com a expedição dos Certificados de Registro de Veículo e de Licenciamento Anual, mediante delegação do órgão máximo executivo de trânsito da União; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 IV - estabelecer, em conjunto com as Polícias Militares, as diretrizes para o policiamento ostensivo de trânsito;
 
-V - executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas cabíveis pelas infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos e entidades executivos de trânsito dos Municípios previstas no § 4º do art. 24 deste Código, no exercício regular do poder de polícia de trânsito;        (Redação dada pela Lei nº 14.599, de 2023)
+V - executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas cabíveis pelas infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos e entidades executivos de trânsito dos Municípios previstas no § 4º do art. 24 deste Código, no exercício regular do poder de polícia de trânsito; (Redação dada pela Lei nº 14.599, de 2023)
 
-VI - aplicar as penalidades por infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos e entidades executivos de trânsito dos Municípios previstas no § 4º do art. 24 deste Código, notificando os infratores e arrecadando as multas que aplicar;       (Redação dada pela Lei nº 14.599, de 2023)
+VI - aplicar as penalidades por infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos e entidades executivos de trânsito dos Municípios previstas no § 4º do art. 24 deste Código, notificando os infratores e arrecadando as multas que aplicar; (Redação dada pela Lei nº 14.599, de 2023)
 
 VII - arrecadar valores provenientes de estada e remoção de veículos e objetos;
 
 VIII - comunicar ao órgão executivo de trânsito da União a suspensão e a cassação do direito de dirigir e o recolhimento da Carteira Nacional de Habilitação;
 
-IX - coletar dados estatísticos e elaborar estudos sobre sinistros de trânsito e suas causas;       (Redação dada pela Lei nº 14.599, de 2023)
+IX - coletar dados estatísticos e elaborar estudos sobre sinistros de trânsito e suas causas; (Redação dada pela Lei nº 14.599, de 2023)
 
 X - credenciar órgãos ou entidades para a execução de atividades previstas na legislação de trânsito, na forma estabelecida em norma do CONTRAN;
 
@@ -1169,15 +1169,15 @@ XV - fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veí
 
 XVI - articular-se com os demais órgãos do Sistema Nacional de Trânsito no Estado, sob coordenação do respectivo CETRAN.
 
-XVII - criar, implantar e manter escolas públicas de trânsito, destinadas à educação de crianças, adolescentes, jovens e adultos, por meio de aulas teóricas e práticas sobre legislação, sinalização e comportamento no trânsito.      (Redação dada pela Lei nº 14.440, de 2022)
+XVII - criar, implantar e manter escolas públicas de trânsito, destinadas à educação de crianças, adolescentes, jovens e adultos, por meio de aulas teóricas e práticas sobre legislação, sinalização e comportamento no trânsito. (Redação dada pela Lei nº 14.440, de 2022)
 
-§ 1º. As competências descritas no inciso II do caput deste artigo relativas ao processo de suspensão de condutores serão exercidas quando:     (Incluído pela Lei nº 14.599, de 2023)
+§ 1º. As competências descritas no inciso II do caput deste artigo relativas ao processo de suspensão de condutores serão exercidas quando: (Incluído pela Lei nº 14.599, de 2023)
 
-I - o condutor atingir o limite de pontos estabelecido no inciso I do art. 261 deste Código;     (Incluído pela Lei nº 14.599, de 2023)
+I - o condutor atingir o limite de pontos estabelecido no inciso I do art. 261 deste Código; (Incluído pela Lei nº 14.599, de 2023)
 
-II - a infração previr a penalidade de suspensão do direito de dirigir de forma específica e a autuação tiver sido efetuada pelo próprio órgão executivo estadual de trânsito.   (Incluído pela Lei nº 14.599, de 2023)
+II - a infração previr a penalidade de suspensão do direito de dirigir de forma específica e a autuação tiver sido efetuada pelo próprio órgão executivo estadual de trânsito. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 2º Compete privativamente aos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas nos arts. 165-D, 233, 240, 241, 242 e 243 e no § 5º do art. 330 deste Código.      (Incluído pela Lei nº 14.599, de 2023)
+§ 2º Compete privativamente aos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas nos arts. 165-D, 233, 240, 241, 242 e 243 e no § 5º do art. 330 deste Código. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.599, de 2023; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 14.599, de 2023.
 
@@ -1216,7 +1216,7 @@ Os Detrans dos Estados e do DF formam, habilitam, suspendem e cassam condutores,
 
 Art. 23. Compete às Polícias Militares dos Estados e do Distrito Federal:
 
-I -  (VETADO)
+I - (VETADO)
 
 II - (VETADO)
 
@@ -1228,11 +1228,11 @@ V - (VETADO)
 
 VI - (VETADO)
 
-VII -  (VETADO)
+VII - (VETADO)
 
-VIII - (VETADO).     (Incluído pela Lei nº 14.599, de 2023)
+VIII - (VETADO). (Incluído pela Lei nº 14.599, de 2023)
 
-Parágrafo único.  (VETADO)
+Parágrafo único. (VETADO)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -1262,23 +1262,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 24. Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição:           (Redação dada pela Lei nº 13.154, de 2015)
+Art. 24. Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição: (Redação dada pela Lei nº 13.154, de 2015)
 
 I - cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições;
 
-II - planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento, temporário ou definitivo, da circulação, da segurança e das áreas de proteção de ciclistas;    (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+II - planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais e promover o desenvolvimento, temporário ou definitivo, da circulação, da segurança e das áreas de proteção de ciclistas; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 III - implantar, manter e operar o sistema de sinalização, os dispositivos e os equipamentos de controle viário;
 
-IV - coletar dados estatísticos e elaborar estudos sobre os sinistros de trânsito e suas causas;       (Redação dada pela Lei nº 14.599, de 2023)
+IV - coletar dados estatísticos e elaborar estudos sobre os sinistros de trânsito e suas causas; (Redação dada pela Lei nº 14.599, de 2023)
 
 V - estabelecer, em conjunto com os órgãos de polícia ostensiva de trânsito, as diretrizes para o policiamento ostensivo de trânsito;
 
-VI - executar a fiscalização de trânsito em vias terrestres, edificações de uso público e edificações privadas de uso coletivo, autuar e aplicar as penalidades de advertência por escrito e multa e as medidas administrativas cabíveis pelas infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal previstas no § 2º do art. 22 deste Código, notificando os infratores e arrecadando as multas que aplicar;    (Redação dada pela Lei nº 14.599, de 2023)
+VI - executar a fiscalização de trânsito em vias terrestres, edificações de uso público e edificações privadas de uso coletivo, autuar e aplicar as penalidades de advertência por escrito e multa e as medidas administrativas cabíveis pelas infrações previstas neste Código, excetuadas aquelas de competência privativa dos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal previstas no § 2º do art. 22 deste Código, notificando os infratores e arrecadando as multas que aplicar; (Redação dada pela Lei nº 14.599, de 2023)
 
-VII - (revogado);        (Redação dada pela Lei nº 14.599, de 2023)
+VII - (revogado); (Redação dada pela Lei nº 14.599, de 2023)
 
-VIII - (revogado);      (Redação dada pela Lei nº 14.599, de 2023)
+VIII - (revogado); (Redação dada pela Lei nº 14.599, de 2023)
 
 IX - fiscalizar o cumprimento da norma contida no art. 95, aplicando as penalidades e arrecadando as multas nele previstas;
 
@@ -1296,7 +1296,7 @@ XV - promover e participar de projetos e programas de educação e segurança de
 
 XVI - planejar e implantar medidas para redução da circulação de veículos e reorientação do tráfego, com o objetivo de diminuir a emissão global de poluentes;
 
-XVII - registrar e licenciar, na forma da legislação, veículos de tração e propulsão humana e de tração animal, fiscalizando, autuando, aplicando penalidades e arrecadando multas decorrentes de infrações;           (Redação dada pela Lei nº 13.154, de 2015)
+XVII - registrar e licenciar, na forma da legislação, veículos de tração e propulsão humana e de tração animal, fiscalizando, autuando, aplicando penalidades e arrecadando multas decorrentes de infrações; (Redação dada pela Lei nº 13.154, de 2015)
 
 XVIII - conceder autorização para conduzir veículos de propulsão humana e de tração animal;
 
@@ -1306,17 +1306,17 @@ XX - fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veí
 
 XXI - vistoriar veículos que necessitem de autorização especial para transitar e estabelecer os requisitos técnicos a serem observados para a circulação desses veículos.
 
-XXII - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União;     (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+XXII - aplicar a penalidade de suspensão do direito de dirigir, quando prevista de forma específica para a infração cometida, e comunicar a aplicação da penalidade ao órgão máximo executivo de trânsito da União; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-XXIII - criar, implantar e manter escolas públicas de trânsito, destinadas à educação de crianças, adolescentes, jovens e adultos, por meio de aulas teóricas e práticas sobre legislação, sinalização e comportamento no trânsito.       (Redação dada pela Lei nº 14.440, de 2022)
+XXIII - criar, implantar e manter escolas públicas de trânsito, destinadas à educação de crianças, adolescentes, jovens e adultos, por meio de aulas teóricas e práticas sobre legislação, sinalização e comportamento no trânsito. (Redação dada pela Lei nº 14.440, de 2022)
 
 § 1º As competências relativas a órgão ou entidade municipal serão exercidas no Distrito Federal por seu órgão ou entidade executivos de trânsito.
 
-§ 2º Para exercer as competências estabelecidas neste artigo, os Municípios deverão integrar-se ao Sistema Nacional de Trânsito, por meio de órgão ou entidade executivos de trânsito ou diretamente por meio da prefeitura municipal, conforme previsto no art. 333 deste Código.         (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2º Para exercer as competências estabelecidas neste artigo, os Municípios deverão integrar-se ao Sistema Nacional de Trânsito, por meio de órgão ou entidade executivos de trânsito ou diretamente por meio da prefeitura municipal, conforme previsto no art. 333 deste Código. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3º O exercício das atribuições previstas no inciso VI do caput deste artigo no âmbito de edificações privadas de uso coletivo somente se aplica para infrações de uso de vagas reservadas em estacionamentos.      (Incluído pela Lei nº 14.599, de 2023)
+§ 3º O exercício das atribuições previstas no inciso VI do caput deste artigo no âmbito de edificações privadas de uso coletivo somente se aplica para infrações de uso de vagas reservadas em estacionamentos. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 4º Compete privativamente aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição, executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas nos arts. 95, 181, 182, 183, 218 e 219, nos incisos V e X do caput do art. 231 e nos arts. 245, 246 e 279-A deste Código.       (Incluído pela Lei nº 14.599, de 2023)
+§ 4º Compete privativamente aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição, executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas nos arts. 95, 181, 182, 183, 218 e 219, nos incisos V e X do caput do art. 231 e nos arts. 245, 246 e 279-A deste Código. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.154, de 2015; redação — Lei nº 14.071, de 2020; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 14.599, de 2023.
 
@@ -1354,9 +1354,9 @@ Os órgãos municipais de trânsito planejam e operam o trânsito urbano, implan
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 24-A. Compete concorrentemente aos órgãos e entidades executivos de trânsito dos Estados, do Distrito Federal e dos Municípios executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas neste Código, observado o disposto no § 2º do art. 22 e no § 4º do art. 24 deste Código.         (Incluído pela Lei nº 14.599, de 2023)
+Art. 24-A. Compete concorrentemente aos órgãos e entidades executivos de trânsito dos Estados, do Distrito Federal e dos Municípios executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas e penalidades previstas neste Código, observado o disposto no § 2º do art. 22 e no § 4º do art. 24 deste Código. (Incluído pela Lei nº 14.599, de 2023)
 
-Parágrafo único. As competências privativas previstas no § 2º do art. 22 e no § 4º do art. 24 podem ser delegadas por meio do convênio de que trata o art. 25 deste Código.      (Incluído pela Lei nº 14.599, de 2023)
+Parágrafo único. As competências privativas previstas no § 2º do art. 22 e no § 4º do art. 24 podem ser delegadas por meio do convênio de que trata o art. 25 deste Código. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -1392,9 +1392,9 @@ Estados, DF e Municípios têm competência concorrente para fiscalizar, autuar 
 
 Art. 25. Os órgãos e entidades executivos do Sistema Nacional de Trânsito poderão celebrar convênio delegando as atividades previstas neste Código, com vistas à maior eficiência e à segurança para os usuários da via.
 
-§ 1º. Os órgãos e entidades de trânsito poderão prestar serviços de capacitação técnica, assessoria e monitoramento das atividades relativas ao trânsito durante prazo a ser estabelecido entre as partes, com ressarcimento dos custos apropriados.       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 1º. Os órgãos e entidades de trânsito poderão prestar serviços de capacitação técnica, assessoria e monitoramento das atividades relativas ao trânsito durante prazo a ser estabelecido entre as partes, com ressarcimento dos custos apropriados. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  Quando não houver órgão ou entidade executivos de trânsito no respectivo Município, o convênio de que trata o caput deste artigo poderá ser celebrado diretamente pela prefeitura municipal com órgão ou entidade que integre o Sistema Nacional de Trânsito, permitido, inclusive, o consórcio com outro ente federativo.       (Incluído pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2º Quando não houver órgão ou entidade executivos de trânsito no respectivo Município, o convênio de que trata o caput deste artigo poderá ser celebrado diretamente pela prefeitura municipal com órgão ou entidade que integre o Sistema Nacional de Trânsito, permitido, inclusive, o consórcio com outro ente federativo. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020.
 
@@ -1424,9 +1424,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO II — DO SISTEMA NACIONAL DE TRÂNSITO › SEÇÃO II — Da Composição e da Competência do Sistema Nacional de Trânsito
 
-Art. 25-A.  Os agentes dos órgãos policiais da Câmara dos Deputados e do Senado Federal, a que se referem o inciso IV do caput do art. 51 e o inciso XIII do caput do art. 52 da Constituição Federal , respectivamente, mediante convênio com o órgão ou entidade de trânsito com circunscrição sobre a via, poderão lavrar auto de infração de trânsito e remetê-lo ao órgão competente, nos casos em que a infração cometida nas adjacências do Congresso Nacional ou nos locais sob sua responsabilidade comprometer objetivamente os serviços ou colocar em risco a incolumidade das pessoas ou o patrimônio das respectivas Casas Legislativas.    (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 25-A. Os agentes dos órgãos policiais da Câmara dos Deputados e do Senado Federal, a que se referem o inciso IV do caput do art. 51 e o inciso XIII do caput do art. 52 da Constituição Federal , respectivamente, mediante convênio com o órgão ou entidade de trânsito com circunscrição sobre a via, poderão lavrar auto de infração de trânsito e remetê-lo ao órgão competente, nos casos em que a infração cometida nas adjacências do Congresso Nacional ou nos locais sob sua responsabilidade comprometer objetivamente os serviços ou colocar em risco a incolumidade das pessoas ou o patrimônio das respectivas Casas Legislativas. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. Para atuarem na fiscalização de trânsito, os agentes mencionados no caput deste artigo deverão receber treinamento específico para o exercício das atividades, conforme regulamentação do Contran.    (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Parágrafo único. Para atuarem na fiscalização de trânsito, os agentes mencionados no caput deste artigo deverão receber treinamento específico para o exercício das atividades, conforme regulamentação do Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -1567,19 +1567,19 @@ V - o trânsito de veículos sobre passeios, calçadas e nos acostamentos, só p
 
 VI - os veículos precedidos de batedores terão prioridade de passagem, respeitadas as demais normas de circulação;
 
-VII - os veículos destinados a socorro de incêndio e salvamento, os de polícia, os de fiscalização e operação de trânsito e as ambulâncias, além de prioridade no trânsito, gozam de livre circulação, estacionamento e parada, quando em serviço de urgência, de policiamento ostensivo ou de preservação da ordem pública, observadas as seguintes disposições:     (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+VII - os veículos destinados a socorro de incêndio e salvamento, os de polícia, os de fiscalização e operação de trânsito e as ambulâncias, além de prioridade no trânsito, gozam de livre circulação, estacionamento e parada, quando em serviço de urgência, de policiamento ostensivo ou de preservação da ordem pública, observadas as seguintes disposições: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-a) quando os dispositivos regulamentares de alarme sonoro e iluminação intermitente estiverem acionados, indicando a proximidade dos veículos, todos os condutores deverão deixar livre a passagem pela faixa da esquerda, indo para a direita da via e parando, se necessário;        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+a) quando os dispositivos regulamentares de alarme sonoro e iluminação intermitente estiverem acionados, indicando a proximidade dos veículos, todos os condutores deverão deixar livre a passagem pela faixa da esquerda, indo para a direita da via e parando, se necessário; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-b) os pedestres, ao ouvirem o alarme sonoro ou avistarem a luz intermitente, deverão aguardar no passeio e somente atravessar a via quando o veículo já tiver passado pelo local;       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+b) os pedestres, ao ouvirem o alarme sonoro ou avistarem a luz intermitente, deverão aguardar no passeio e somente atravessar a via quando o veículo já tiver passado pelo local; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-c) o uso de dispositivos de alarme sonoro e de iluminação intermitente somente poderá ocorrer por ocasião da efetiva prestação de serviço de urgência;     (Redação dada pela Lei nº 14.440, de 2022)
+c) o uso de dispositivos de alarme sonoro e de iluminação intermitente somente poderá ocorrer por ocasião da efetiva prestação de serviço de urgência; (Redação dada pela Lei nº 14.440, de 2022)
 
 d) a prioridade de passagem na via e no cruzamento deverá se dar com velocidade reduzida e com os devidos cuidados de segurança, obedecidas as demais normas deste Código;
 
-e) as prerrogativas de livre circulação e de parada serão aplicadas somente quando os veículos estiverem identificados por dispositivos regulamentares de alarme sonoro e iluminação intermitente;    (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+e) as prerrogativas de livre circulação e de parada serão aplicadas somente quando os veículos estiverem identificados por dispositivos regulamentares de alarme sonoro e iluminação intermitente; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-f) a prerrogativa de livre estacionamento será aplicada somente quando os veículos estiverem identificados por dispositivos regulamentares de iluminação intermitente;      (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+f) a prerrogativa de livre estacionamento será aplicada somente quando os veículos estiverem identificados por dispositivos regulamentares de iluminação intermitente; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 VIII - os veículos prestadores de serviços de utilidade pública, quando em atendimento na via, gozam de livre parada e estacionamento no local da prestação de serviço, desde que devidamente sinalizados, devendo estar identificados na forma estabelecida pelo CONTRAN;
 
@@ -1603,15 +1603,15 @@ c) retomar, após a efetivação da manobra, a faixa de trânsito de origem, aci
 
 XII - os veículos que se deslocam sobre trilhos terão preferência de passagem sobre os demais, respeitadas as normas de circulação.
 
-XIII - (VETADO).          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+XIII - (VETADO). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 § 1º As normas de ultrapassagem previstas nas alíneas a e b do inciso X e a e b do inciso XI aplicam-se à transposição de faixas, que pode ser realizada tanto pela faixa da esquerda como pela da direita.
 
 § 2º Respeitadas as normas de circulação e conduta estabelecidas neste artigo, em ordem decrescente, os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos pedestres.
 
-§ 3º  Compete ao Contran regulamentar os dispositivos de alarme sonoro e iluminação intermitente previstos no inciso VII do caput deste artigo.      (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+§ 3º Compete ao Contran regulamentar os dispositivos de alarme sonoro e iluminação intermitente previstos no inciso VII do caput deste artigo. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 4º  Em situações especiais, ato da autoridade máxima federal de segurança pública poderá dispor sobre a aplicação das exceções tratadas no inciso VII do caput deste artigo aos veículos oficiais descaracterizados.     (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 4º Em situações especiais, ato da autoridade máxima federal de segurança pública poderá dispor sobre a aplicação das exceções tratadas no inciso VII do caput deste artigo aos veículos oficiais descaracterizados. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 13.281, de 2016.
 
@@ -1934,17 +1934,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 40. O uso de luzes em veículo obedecerá às seguintes determinações:
 
-I - o condutor manterá acesos os faróis do veículo, por meio da utilização da luz baixa:       (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+I - o condutor manterá acesos os faróis do veículo, por meio da utilização da luz baixa: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-a) à noite;        (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+a) à noite; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-b) mesmo durante o dia, em túneis e sob chuva, neblina ou cerração;        (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+b) mesmo durante o dia, em túneis e sob chuva, neblina ou cerração; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 II - nas vias não iluminadas o condutor deve usar luz alta, exceto ao cruzar com outro veículo ou ao segui-lo;
 
 III - a troca de luz baixa e alta, de forma intermitente e por curto período de tempo, com o objetivo de advertir outros motoristas, só poderá ser utilizada para indicar a intenção de ultrapassar o veículo que segue à frente ou para indicar a existência de risco à segurança para os veículos que circulam no sentido contrário;
 
-IV - (revogado);         (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+IV - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 V - O condutor utilizará o pisca-alerta nas seguintes situações:
 
@@ -1956,9 +1956,9 @@ VI - durante a noite, em circulação, o condutor manterá acesa a luz de placa;
 
 VII - o condutor manterá acesas, à noite, as luzes de posição quando o veículo estiver parado para fins de embarque ou desembarque de passageiros e carga ou descarga de mercadorias.
 
-§ 1º  Os veículos de transporte coletivo de passageiros, quando circularem em faixas ou pistas a eles destinadas, e as motocicletas, motonetas e ciclomotores deverão utilizar-se de farol de luz baixa durante o dia e à noite.  (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 1º Os veículos de transporte coletivo de passageiros, quando circularem em faixas ou pistas a eles destinadas, e as motocicletas, motonetas e ciclomotores deverão utilizar-se de farol de luz baixa durante o dia e à noite. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  Os veículos que não dispuserem de luzes de rodagem diurna deverão manter acesos os faróis nas rodovias de pista simples situadas fora dos perímetros urbanos, mesmo durante o dia.      (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 2º Os veículos que não dispuserem de luzes de rodagem diurna deverão manter acesos os faróis nas rodovias de pista simples situadas fora dos perímetros urbanos, mesmo durante o dia. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020.
 
@@ -1991,7 +1991,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 41. O condutor de veículo só poderá fazer uso de buzina, desde que em toque breve, nas seguintes situações:
 
-I - para fazer as advertências necessárias a fim de evitar sinistros;        (Redação dada pela Lei nº 14.599, de 2023)
+I - para fazer as advertências necessárias a fim de evitar sinistros; (Redação dada pela Lei nº 14.599, de 2023)
 
 II - fora das áreas urbanas, quando for conveniente advertir a um condutor que se tem o propósito de ultrapassá-lo.
 
@@ -2111,7 +2111,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 44-A.  É livre o movimento de conversão à direita diante de sinal vermelho do semáforo onde houver sinalização indicativa que permita essa conversão, observados os arts. 44, 45 e 70 deste Código.        (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 44-A. É livre o movimento de conversão à direita diante de sinal vermelho do semáforo onde houver sinalização indicativa que permita essa conversão, observados os arts. 44, 45 e 70 deste Código. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -2475,7 +2475,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 56.  (VETADO)
+Art. 56. (VETADO)
 
 #### Interpretação
 
@@ -2503,7 +2503,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 56-A.  (VETADO).    (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 56-A. (VETADO). (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -2682,21 +2682,21 @@ d) trinta quilômetros por hora, nas vias locais;
 
 II - nas vias rurais:
 
-a) nas rodovias de pista dupla:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+a) nas rodovias de pista dupla: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-1\. 110 km/h (cento e dez quilômetros por hora) para automóveis, camionetas, caminhonetes e motocicletas;      (Redação dada pela Lei nº 14.440, de 2022)
+1\. 110 km/h (cento e dez quilômetros por hora) para automóveis, camionetas, caminhonetes e motocicletas; (Redação dada pela Lei nº 14.440, de 2022)
 
-2\. 90 km/h (noventa quilômetros por hora) para os demais veículos;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+2\. 90 km/h (noventa quilômetros por hora) para os demais veículos; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-3\. (revogado);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+3\. (revogado); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-b) nas rodovias de pista simples:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+b) nas rodovias de pista simples: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-1\. 100 km/h (cem quilômetros por hora) para automóveis, camionetas, caminhonetes e motocicletas;       (Redação dada pela Lei nº 14.440, de 2022)
+1\. 100 km/h (cem quilômetros por hora) para automóveis, camionetas, caminhonetes e motocicletas; (Redação dada pela Lei nº 14.440, de 2022)
 
-2\. 90 km/h (noventa quilômetros por hora) para os demais veículos;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+2\. 90 km/h (noventa quilômetros por hora) para os demais veículos; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-c) nas estradas: 60 km/h (sessenta quilômetros por hora).          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+c) nas estradas: 60 km/h (sessenta quilômetros por hora). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 § 2º O órgão ou entidade de trânsito ou rodoviário com circunscrição sobre a via poderá regulamentar, por meio de sinalização, velocidades superiores ou inferiores àquelas estabelecidas no parágrafo anterior.
 
@@ -2755,7 +2755,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 63.  (VETADO)
+Art. 63. (VETADO)
 
 #### Interpretação
 
@@ -2783,9 +2783,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 64.  As crianças com idade inferior a 10 (dez) anos que não tenham atingido 1,45 m (um metro e quarenta e cinco centímetros) de altura devem ser transportadas nos bancos traseiros, em dispositivo de retenção adequado para cada idade, peso e altura, salvo exceções relacionadas a tipos específicos de veículos regulamentadas pelo Contran.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 64. As crianças com idade inferior a 10 (dez) anos que não tenham atingido 1,45 m (um metro e quarenta e cinco centímetros) de altura devem ser transportadas nos bancos traseiros, em dispositivo de retenção adequado para cada idade, peso e altura, salvo exceções relacionadas a tipos específicos de veículos regulamentadas pelo Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. O Contran disciplinará o uso excepcional de dispositivos de retenção no banco dianteiro do veículo e as especificações técnicas dos dispositivos de retenção a que se refere o caput deste artigo.     (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+Parágrafo único. O Contran disciplinará o uso excepcional de dispositivos de retenção no banco dianteiro do veículo e as especificações técnicas dos dispositivos de retenção a que se refere o caput deste artigo. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020.
 
@@ -2842,7 +2842,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III — DAS NORMAS GERAIS DE CIRCULAÇÃO E CONDUTA
 
-Art. 66.  (VETADO)
+Art. 66. (VETADO)
 
 #### Interpretação
 
@@ -2876,7 +2876,7 @@ I - autorização expressa da respectiva confederação desportiva ou de entidad
 
 II - caução ou fiança para cobrir possíveis danos materiais à via;
 
-III - contrato de seguro contra riscos e sinistros em favor de terceiros;      (Redação dada pela Lei nº 14.599, de 2023)
+III - contrato de seguro contra riscos e sinistros em favor de terceiros; (Redação dada pela Lei nº 14.599, de 2023)
 
 IV - prévio recolhimento do valor correspondente aos custos operacionais em que o órgão ou entidade permissionária incorrerá.
 
@@ -2910,27 +2910,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III-A — DA CONDUÇÃO DE VEÍCULOS POR MOTORISTAS PROFISSIONAIS
 
-Art. 67-A.  O disposto neste Capítulo aplica-se aos motoristas profissionais:          (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+Art. 67-A. O disposto neste Capítulo aplica-se aos motoristas profissionais: (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-I - de transporte rodoviário coletivo de passageiros;         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+I - de transporte rodoviário coletivo de passageiros; (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-II - de transporte rodoviário de cargas.           (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+II - de transporte rodoviário de cargas. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 1o  (Revogado).           (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 1o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 2o  (Revogado).            (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 2o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 3o  (Revogado).            (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 3o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 4o  (Revogado).           (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 4o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 5o  (Revogado).            (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 5o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 6o  (Revogado).            (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 6o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 7o  (Revogado).           (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+§ 7o (Revogado). (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 8o  (VETADO).          (Incluído Lei nº 12.619, de 2012) (Vigência)
+§ 8o (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.103, de 2015; inclusão — Lei nº 13.103, de 2015; inclusão — Lei nº 12.619, de 2012.
 
@@ -2960,7 +2960,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III-A — DA CONDUÇÃO DE VEÍCULOS POR MOTORISTAS PROFISSIONAIS
 
-Art 67-B.  (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)
+Art 67-B. (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.619, de 2012.
 
@@ -2990,27 +2990,27 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III-A — DA CONDUÇÃO DE VEÍCULOS POR MOTORISTAS PROFISSIONAIS
 
-Art. 67-C.  É vedado ao motorista profissional dirigir por mais de 5 (cinco) horas e meia ininterruptas veículos de transporte rodoviário coletivo de passageiros ou de transporte rodoviário de cargas.        (Redação dada pela Lei nº 13.103, de 2015)     (Vigência)
+Art. 67-C. É vedado ao motorista profissional dirigir por mais de 5 (cinco) horas e meia ininterruptas veículos de transporte rodoviário coletivo de passageiros ou de transporte rodoviário de cargas. (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 1o Serão observados 30 (trinta) minutos para descanso dentro de cada 6 (seis) horas na condução de veículo de transporte de carga, sendo facultado o seu fracionamento e o do tempo de direção desde que não ultrapassadas 5 (cinco) horas e meia contínuas no exercício da condução.        (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 1o Serão observados 30 (trinta) minutos para descanso dentro de cada 6 (seis) horas na condução de veículo de transporte de carga, sendo facultado o seu fracionamento e o do tempo de direção desde que não ultrapassadas 5 (cinco) horas e meia contínuas no exercício da condução. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 1o-A.  Serão observados 30 (trinta) minutos para descanso a cada 4 (quatro) horas na condução de veículo rodoviário de passageiros, sendo facultado o seu fracionamento e o do tempo de direção.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 1o-A. Serão observados 30 (trinta) minutos para descanso a cada 4 (quatro) horas na condução de veículo rodoviário de passageiros, sendo facultado o seu fracionamento e o do tempo de direção. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 2o Em situações excepcionais de inobservância justificada do tempo de direção, devidamente registradas, o tempo de direção poderá ser elevado pelo período necessário para que o condutor, o veículo e a carga cheguem a um lugar que ofereça a segurança e o atendimento demandados, desde que não haja comprometimento da segurança rodoviária.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 2o Em situações excepcionais de inobservância justificada do tempo de direção, devidamente registradas, o tempo de direção poderá ser elevado pelo período necessário para que o condutor, o veículo e a carga cheguem a um lugar que ofereça a segurança e o atendimento demandados, desde que não haja comprometimento da segurança rodoviária. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 3o O condutor é obrigado, dentro do período de 24 (vinte e quatro) horas, a observar o mínimo de 11 (onze) horas de descanso, que podem ser fracionadas, usufruídas no veículo e coincidir com os intervalos mencionados no § 1o, observadas no primeiro período 8 (oito) horas ininterruptas de descanso.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)     (Vide ADI 5322)
+§ 3o O condutor é obrigado, dentro do período de 24 (vinte e quatro) horas, a observar o mínimo de 11 (onze) horas de descanso, que podem ser fracionadas, usufruídas no veículo e coincidir com os intervalos mencionados no § 1o, observadas no primeiro período 8 (oito) horas ininterruptas de descanso. (Incluído pela Lei nº 13.103, de 2015) (Vigência) (Vide ADI 5322)
 
-§ 4o Entende-se como tempo de direção ou de condução apenas o período em que o condutor estiver efetivamente ao volante, em curso entre a origem e o destino.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 4o Entende-se como tempo de direção ou de condução apenas o período em que o condutor estiver efetivamente ao volante, em curso entre a origem e o destino. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 5o Entende-se como início de viagem a partida do veículo na ida ou no retorno, com ou sem carga, considerando-se como sua continuação as partidas nos dias subsequentes até o destino.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 5o Entende-se como início de viagem a partida do veículo na ida ou no retorno, com ou sem carga, considerando-se como sua continuação as partidas nos dias subsequentes até o destino. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 6o O condutor somente iniciará uma viagem após o cumprimento integral do intervalo de descanso previsto no § 3o deste artigo.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 6o O condutor somente iniciará uma viagem após o cumprimento integral do intervalo de descanso previsto no § 3o deste artigo. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 7o Nenhum transportador de cargas ou coletivo de passageiros, embarcador, consignatário de cargas, operador de terminais de carga, operador de transporte multimodal de cargas ou agente de cargas ordenará a qualquer motorista a seu serviço, ainda que subcontratado, que conduza veículo referido no caput sem a observância do disposto no § 6o.        (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 7o Nenhum transportador de cargas ou coletivo de passageiros, embarcador, consignatário de cargas, operador de terminais de carga, operador de transporte multimodal de cargas ou agente de cargas ordenará a qualquer motorista a seu serviço, ainda que subcontratado, que conduza veículo referido no caput sem a observância do disposto no § 6o. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 8º Regulamentação do Contran definirá as situações excepcionais de inobservância justificada do tempo de direção e de descanso pelos motoristas profissionais condutores de veículos ou composições de transporte rodoviário de cargas justificadas por indisponibilidade de pontos de parada e de descanso na rota programada para a viagem ou por exaurimento das vagas de estacionamento neles disponíveis.      (Redação dada pela Lei nº 14.599, de 2023)
+§ 8º Regulamentação do Contran definirá as situações excepcionais de inobservância justificada do tempo de direção e de descanso pelos motoristas profissionais condutores de veículos ou composições de transporte rodoviário de cargas justificadas por indisponibilidade de pontos de parada e de descanso na rota programada para a viagem ou por exaurimento das vagas de estacionamento neles disponíveis. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 9º O órgão competente da União ou, conforme o caso, a autoridade do ente da Federação com circunscrição sobre a via publicará e revisará, periodicamente, relação dos espaços destinados a pontos de parada e de descanso disponibilizados aos motoristas profissionais condutores de veículos ou composições de transporte rodoviário de cargas, especialmente entre os previstos no art. 10 da Lei nº 13.103, de 2 de março de 2015, indicando o número de vagas de estacionamento disponíveis em cada localidade.      (Incluído pela Lei nº 14.440, de 2022)
+§ 9º O órgão competente da União ou, conforme o caso, a autoridade do ente da Federação com circunscrição sobre a via publicará e revisará, periodicamente, relação dos espaços destinados a pontos de parada e de descanso disponibilizados aos motoristas profissionais condutores de veículos ou composições de transporte rodoviário de cargas, especialmente entre os previstos no art. 10 da Lei nº 13.103, de 2 de março de 2015, indicando o número de vagas de estacionamento disponíveis em cada localidade. (Incluído pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.103, de 2015; inclusão — Lei nº 13.103, de 2015; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.440, de 2022.
 
@@ -3048,7 +3048,7 @@ O motorista profissional não pode dirigir mais de 5h30 ininterruptas; deve desc
 
 **Localização:** CAPÍTULO III-A — DA CONDUÇÃO DE VEÍCULOS POR MOTORISTAS PROFISSIONAIS
 
-Art. 67-D.  (VETADO).  (Incluído Lei nº 12.619, de 2012) (Vigência)
+Art. 67-D. (VETADO). (Incluído Lei nº 12.619, de 2012) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.619, de 2012.
 
@@ -3078,17 +3078,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO III-A — DA CONDUÇÃO DE VEÍCULOS POR MOTORISTAS PROFISSIONAIS
 
-Art. 67-E.  O motorista profissional é responsável por controlar e registrar o tempo de condução estipulado no art. 67-C, com vistas à sua estrita observância.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+Art. 67-E. O motorista profissional é responsável por controlar e registrar o tempo de condução estipulado no art. 67-C, com vistas à sua estrita observância. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 1o A não observância dos períodos de descanso estabelecidos no art. 67-C sujeitará o motorista profissional às penalidades daí decorrentes, previstas neste Código.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 1o A não observância dos períodos de descanso estabelecidos no art. 67-C sujeitará o motorista profissional às penalidades daí decorrentes, previstas neste Código. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 1º-A. Não estará sujeito às penalidades previstas neste Código o motorista profissional condutor de veículos ou composições de transporte rodoviário de cargas que não observar os períodos de direção e de descanso quando ocorrer a situação excepcional descrita no § 8º do art. 67-C deste Código.     (Incluído pela Lei nº 14.440, de 2022)
+§ 1º-A. Não estará sujeito às penalidades previstas neste Código o motorista profissional condutor de veículos ou composições de transporte rodoviário de cargas que não observar os períodos de direção e de descanso quando ocorrer a situação excepcional descrita no § 8º do art. 67-C deste Código. (Incluído pela Lei nº 14.440, de 2022)
 
-§ 2o O tempo de direção será controlado mediante registrador instantâneo inalterável de velocidade e tempo e, ou por meio de anotação em diário de bordo, ou papeleta ou ficha de trabalho externo, ou por meios eletrônicos instalados no veículo, conforme norma do Contran.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 2o O tempo de direção será controlado mediante registrador instantâneo inalterável de velocidade e tempo e, ou por meio de anotação em diário de bordo, ou papeleta ou ficha de trabalho externo, ou por meios eletrônicos instalados no veículo, conforme norma do Contran. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 3o O equipamento eletrônico ou registrador deverá funcionar de forma independente de qualquer interferência do condutor, quanto aos dados registrados.         (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 3o O equipamento eletrônico ou registrador deverá funcionar de forma independente de qualquer interferência do condutor, quanto aos dados registrados. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 4o A guarda, a preservação e a exatidão das informações contidas no equipamento registrador instantâneo inalterável de velocidade e de tempo são de responsabilidade do condutor.        (Incluído pela Lei nº 13.103, de 2015)     (Vigência)
+§ 4o A guarda, a preservação e a exatidão das informações contidas no equipamento registrador instantâneo inalterável de velocidade e de tempo são de responsabilidade do condutor. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.103, de 2015; inclusão — Lei nº 14.440, de 2022.
 
@@ -3381,7 +3381,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 76. A educação para o trânsito será promovida na pré-escola e nas escolas de 1º, 2º e 3º graus, por meio de planejamento e ações coordenadas entre os órgãos e entidades do Sistema Nacional de Trânsito e de Educação, da União, dos Estados, do Distrito Federal e dos Municípios, nas respectivas áreas de atuação.
 
-Parágrafo único. Para a finalidade prevista neste artigo, o Ministério da Educação, mediante proposta do Contran e do Conselho de Reitores das Universidades Brasileiras, diretamente ou mediante convênio, promoverá:     (Redação dada pela Lei nº 14.599, de 2023)
+Parágrafo único. Para a finalidade prevista neste artigo, o Ministério da Educação, mediante proposta do Contran e do Conselho de Reitores das Universidades Brasileiras, diretamente ou mediante convênio, promoverá: (Redação dada pela Lei nº 14.599, de 2023)
 
 I - a adoção, em todos os níveis de ensino, de um currículo interdisciplinar com conteúdo programático sobre segurança de trânsito;
 
@@ -3389,7 +3389,7 @@ II - a adoção de conteúdos relativos à educação para o trânsito nas escol
 
 III - a criação de corpos técnicos interprofissionais para levantamento e análise de dados estatísticos relativos ao trânsito;
 
-IV - a elaboração de planos de redução de sinistros de trânsito com os núcleos interdisciplinares universitários de trânsito, com vistas à integração universidades-sociedade na área de trânsito.   (Redação dada pela Lei nº 14.599, de 2023)
+IV - a elaboração de planos de redução de sinistros de trânsito com os núcleos interdisciplinares universitários de trânsito, com vistas à integração universidades-sociedade na área de trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -3419,7 +3419,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77. No âmbito da educação para o trânsito, caberá ao Ministério da Saúde, mediante proposta do Contran, estabelecer campanha nacional para esclarecer condutas a serem seguidas nos primeiros socorros em caso de sinistros de trânsito.   (Redação dada pela Lei nº 14.599, de 2023)
+Art. 77. No âmbito da educação para o trânsito, caberá ao Ministério da Saúde, mediante proposta do Contran, estabelecer campanha nacional para esclarecer condutas a serem seguidas nos primeiros socorros em caso de sinistros de trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 Parágrafo único. As campanhas terão caráter permanente por intermédio do Sistema Único de Saúde - SUS, sendo intensificadas nos períodos e na forma estabelecidos no art. 76.
 
@@ -3453,7 +3453,7 @@ O Ministério da Saúde, por proposta do CONTRAN, mantém campanha permanente pe
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-A.  São assegurados aos órgãos ou entidades componentes do Sistema Nacional de Trânsito os mecanismos instituídos nos arts. 77-B a 77-E para a veiculação de mensagens educativas de trânsito em todo o território nacional, em caráter suplementar às campanhas previstas nos arts. 75 e 77.       (Incluído pela Lei nº 12.006, de 2009)
+Art. 77-A. São assegurados aos órgãos ou entidades componentes do Sistema Nacional de Trânsito os mecanismos instituídos nos arts. 77-B a 77-E para a veiculação de mensagens educativas de trânsito em todo o território nacional, em caráter suplementar às campanhas previstas nos arts. 75 e 77. (Incluído pela Lei nº 12.006, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.006, de 2009.
 
@@ -3485,27 +3485,27 @@ Garante aos órgãos do SNT os mecanismos dos arts. 77-B a 77-E para veicular me
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-B.  Toda peça publicitária destinada à divulgação ou promoção, nos meios de comunicação social, de produto oriundo da indústria automobilística ou afim, incluirá, obrigatoriamente, mensagem educativa de trânsito a ser conjuntamente veiculada.          (Incluído pela Lei nº 12.006, de 2009)
+Art. 77-B. Toda peça publicitária destinada à divulgação ou promoção, nos meios de comunicação social, de produto oriundo da indústria automobilística ou afim, incluirá, obrigatoriamente, mensagem educativa de trânsito a ser conjuntamente veiculada. (Incluído pela Lei nº 12.006, de 2009)
 
-§ 1o  Para os efeitos dos arts. 77-A a 77-E, consideram-se produtos oriundos da indústria automobilística ou afins:        (Incluído pela Lei nº 12.006, de 2009)
+§ 1o Para os efeitos dos arts. 77-A a 77-E, consideram-se produtos oriundos da indústria automobilística ou afins: (Incluído pela Lei nº 12.006, de 2009)
 
-I – os veículos rodoviários automotores de qualquer espécie, incluídos os de passageiros e os de carga;       (Incluído pela Lei nº 12.006, de 2009)
+I – os veículos rodoviários automotores de qualquer espécie, incluídos os de passageiros e os de carga; (Incluído pela Lei nº 12.006, de 2009)
 
-II – os componentes, as peças e os acessórios utilizados nos veículos mencionados no inciso I.         (Incluído pela Lei nº 12.006, de 2009)
+II – os componentes, as peças e os acessórios utilizados nos veículos mencionados no inciso I. (Incluído pela Lei nº 12.006, de 2009)
 
-§ 2o  O disposto no caput deste artigo aplica-se à propaganda de natureza comercial, veiculada por iniciativa do fabricante do produto, em qualquer das seguintes modalidades:         (Incluído pela Lei nº 12.006, de 2009)
+§ 2o O disposto no caput deste artigo aplica-se à propaganda de natureza comercial, veiculada por iniciativa do fabricante do produto, em qualquer das seguintes modalidades: (Incluído pela Lei nº 12.006, de 2009)
 
-I – rádio;       (Incluído pela Lei nº 12.006, de 2009)
+I – rádio; (Incluído pela Lei nº 12.006, de 2009)
 
-II – televisão;        (Incluído pela Lei nº 12.006, de 2009)
+II – televisão; (Incluído pela Lei nº 12.006, de 2009)
 
-III – jornal;        (Incluído pela Lei nº 12.006, de 2009)
+III – jornal; (Incluído pela Lei nº 12.006, de 2009)
 
-IV – revista;       (Incluído pela Lei nº 12.006, de 2009)
+IV – revista; (Incluído pela Lei nº 12.006, de 2009)
 
-V – outdoor.        (Incluído pela Lei nº 12.006, de 2009)
+V – outdoor. (Incluído pela Lei nº 12.006, de 2009)
 
-§ 3o  Para efeito do disposto no § 2o, equiparam-se ao fabricante o montador, o encarroçador, o importador e o revendedor autorizado dos veículos e demais produtos discriminados no § 1o deste artigo. (Incluído pela Lei nº 12.006, de 2009)
+§ 3o Para efeito do disposto no § 2o, equiparam-se ao fabricante o montador, o encarroçador, o importador e o revendedor autorizado dos veículos e demais produtos discriminados no § 1o deste artigo. (Incluído pela Lei nº 12.006, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.006, de 2009.
 
@@ -3536,7 +3536,7 @@ Toda publicidade de veículos, peças e acessórios em rádio, TV, jornal, revis
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-C.  Quando se tratar de publicidade veiculada em outdoor instalado à margem de rodovia, dentro ou fora da respectiva faixa de domínio, a obrigação prevista no art. 77-B estende-se à propaganda de qualquer tipo de produto e anunciante, inclusive àquela de caráter institucional ou eleitoral.       (Incluído pela Lei nº 12.006, de 2009)
+Art. 77-C. Quando se tratar de publicidade veiculada em outdoor instalado à margem de rodovia, dentro ou fora da respectiva faixa de domínio, a obrigação prevista no art. 77-B estende-se à propaganda de qualquer tipo de produto e anunciante, inclusive àquela de caráter institucional ou eleitoral. (Incluído pela Lei nº 12.006, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.006, de 2009.
 
@@ -3568,7 +3568,7 @@ Em outdoors à margem de rodovias, a mensagem educativa é obrigatória em qualq
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-D.  O Conselho Nacional de Trânsito (Contran) especificará o conteúdo e o padrão de apresentação das mensagens, bem como os procedimentos envolvidos na respectiva veiculação, em conformidade com as diretrizes fixadas para as campanhas educativas de trânsito a que se refere o art. 75.        (Incluído pela Lei nº 12.006, de 2009)
+Art. 77-D. O Conselho Nacional de Trânsito (Contran) especificará o conteúdo e o padrão de apresentação das mensagens, bem como os procedimentos envolvidos na respectiva veiculação, em conformidade com as diretrizes fixadas para as campanhas educativas de trânsito a que se refere o art. 75. (Incluído pela Lei nº 12.006, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.006, de 2009.
 
@@ -3599,17 +3599,17 @@ O CONTRAN especifica o conteúdo, o padrão e os procedimentos de veiculação d
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-E.  A veiculação de publicidade feita em desacordo com as condições fixadas nos arts. 77-A a 77-D constitui infração punível com as seguintes sanções:        (Incluído pela Lei nº 12.006, de 2009)
+Art. 77-E. A veiculação de publicidade feita em desacordo com as condições fixadas nos arts. 77-A a 77-D constitui infração punível com as seguintes sanções: (Incluído pela Lei nº 12.006, de 2009)
 
-I – advertência por escrito;        (Incluído pela Lei nº 12.006, de 2009)
+I – advertência por escrito; (Incluído pela Lei nº 12.006, de 2009)
 
-II – suspensão, nos veículos de divulgação da publicidade, de qualquer outra propaganda do produto, pelo prazo de até 60 (sessenta) dias;        (Incluído pela Lei nº 12.006, de 2009)
+II – suspensão, nos veículos de divulgação da publicidade, de qualquer outra propaganda do produto, pelo prazo de até 60 (sessenta) dias; (Incluído pela Lei nº 12.006, de 2009)
 
-III - multa de R$ 1.627,00 (mil, seiscentos e vinte e sete reais) a R$ 8.135,00 (oito mil, cento e trinta e cinco reais), cobrada do dobro até o quíntuplo em caso de reincidência.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+III - multa de R$ 1.627,00 (mil, seiscentos e vinte e sete reais) a R$ 8.135,00 (oito mil, cento e trinta e cinco reais), cobrada do dobro até o quíntuplo em caso de reincidência. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 1o  As sanções serão aplicadas isolada ou cumulativamente, conforme dispuser o regulamento.          (Incluído pela Lei nº 12.006, de 2009)
+§ 1o As sanções serão aplicadas isolada ou cumulativamente, conforme dispuser o regulamento. (Incluído pela Lei nº 12.006, de 2009)
 
-§ 2o  Sem prejuízo do disposto no caput deste artigo, qualquer infração acarretará a imediata suspensão da veiculação da peça publicitária até que sejam cumpridas as exigências fixadas nos arts. 77-A a 77-D.         (Incluído pela Lei nº 12.006, de 2009)
+§ 2o Sem prejuízo do disposto no caput deste artigo, qualquer infração acarretará a imediata suspensão da veiculação da peça publicitária até que sejam cumpridas as exigências fixadas nos arts. 77-A a 77-D. (Incluído pela Lei nº 12.006, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.006, de 2009; redação — Lei nº 13.281, de 2016.
 
@@ -3641,7 +3641,7 @@ A publicidade sem a mensagem educativa sujeita a advertência, suspensão de out
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 77-F. (VETADO).      (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+Art. 77-F. (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.304, de 2022.
 
@@ -3671,9 +3671,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO VI — DA EDUCAÇÃO PARA O TRÂNSITO
 
-Art. 78. Os Ministérios da Saúde, da Educação, do Trabalho e Emprego, dos Transportes e da Justiça e Segurança Pública, por intermédio do Contran, desenvolverão e implementarão programas destinados à prevenção de sinistros.     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 78. Os Ministérios da Saúde, da Educação, do Trabalho e Emprego, dos Transportes e da Justiça e Segurança Pública, por intermédio do Contran, desenvolverão e implementarão programas destinados à prevenção de sinistros. (Redação dada pela Lei nº 14.599, de 2023)
 
-Parágrafo único. Será repassado, mensalmente, ao Coordenador do Sistema Nacional de Trânsito, para aplicação nos programas de que trata o caput deste artigo e na divulgação do SPVAT, o montante equivalente a até 5% (cinco por cento) do total dos valores arrecadados destinados à Seguridade Social dos prêmios do Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT).      (Redação dada pela Lei Complementar nº 207, de 2024)
+Parágrafo único. Será repassado, mensalmente, ao Coordenador do Sistema Nacional de Trânsito, para aplicação nos programas de que trata o caput deste artigo e na divulgação do SPVAT, o montante equivalente a até 5% (cinco por cento) do total dos valores arrecadados destinados à Seguridade Social dos prêmios do Seguro Obrigatório para Proteção de Vítimas de Acidentes de Trânsito (SPVAT). (Redação dada pela Lei Complementar nº 207, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; redação — Lei Complementar nº 207, de 2024.
 
@@ -3735,9 +3735,9 @@ Art. 80. Sempre que necessário, será colocada ao longo da via, sinalização p
 
 § 1º A sinalização será colocada em posição e condições que a tornem perfeitamente visível e legível durante o dia e a noite, em distância compatível com a segurança do trânsito, conforme normas e especificações do CONTRAN.
 
-§ 2º O órgão máximo executivo de trânsito da União poderá autorizar, em caráter experimental e por período prefixado, a utilização de sinalização e equipamentos não previstos neste Código.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 2º O órgão máximo executivo de trânsito da União poderá autorizar, em caráter experimental e por período prefixado, a utilização de sinalização e equipamentos não previstos neste Código. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 3º  A responsabilidade pela instalação da sinalização nas vias internas pertencentes aos condomínios constituídos por unidades autônomas e nas vias e áreas de estacionamento de estabelecimentos privados de uso coletivo é de seu proprietário.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º A responsabilidade pela instalação da sinalização nas vias internas pertencentes aos condomínios constituídos por unidades autônomas e nas vias e áreas de estacionamento de estabelecimentos privados de uso coletivo é de seu proprietário. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 13.281, de 2016.
 
@@ -3934,7 +3934,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO VII — DA SINALIZAÇÃO DE TRÂNSITO
 
-Art. 86-A.  As vagas de estacionamento regulamentado de que trata o inciso XVII do art. 181 desta Lei deverão ser sinalizadas com as respectivas placas indicativas de destinação e com placas informando os dados sobre a infração por estacionamento indevido.          (Incluído pela Lei nº 13.146, de 2015)      (Vigência)
+Art. 86-A. As vagas de estacionamento regulamentado de que trata o inciso XVII do art. 181 desta Lei deverão ser sinalizadas com as respectivas placas indicativas de destinação e com placas informando os dados sobre a infração por estacionamento indevido. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.146, de 2015.
 
@@ -4128,7 +4128,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO VIII — DA ENGENHARIA DE TRÁFEGO, DA OPERAÇÃO, DA FISCALIZAÇÃO E DO POLICIAMENTO OSTENSIVO DE TRÂNSITO
 
-Art. 92.  (VETADO)
+Art. 92. (VETADO)
 
 #### Interpretação
 
@@ -4220,7 +4220,7 @@ Art. 95. Nenhuma obra ou evento que possa perturbar ou interromper a livre circu
 
 § 2º Salvo em casos de emergência, a autoridade de trânsito com circunscrição sobre a via avisará a comunidade, por intermédio dos meios de comunicação social, com quarenta e oito horas de antecedência, de qualquer interdição da via, indicando-se os caminhos alternativos a serem utilizados.
 
-§ 3º  O descumprimento do disposto neste artigo será punido com multa de R$ 81,35 (oitenta e um reais e trinta e cinco centavos) a R$ 488,10 (quatrocentos e oitenta e oito reais e dez centavos), independentemente das cominações cíveis e penais cabíveis, além de multa diária no mesmo valor até a regularização da situação, a partir do prazo final concedido pela autoridade de trânsito, levando-se em consideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º O descumprimento do disposto neste artigo será punido com multa de R$ 81,35 (oitenta e um reais e trinta e cinco centavos) a R$ 488,10 (quatrocentos e oitenta e oito reais e dez centavos), independentemente das cominações cíveis e penais cabíveis, além de multa diária no mesmo valor até a regularização da situação, a partir do prazo final concedido pela autoridade de trânsito, levando-se em consideração a dimensão da obra ou do evento e o prejuízo causado ao trânsito. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 § 4º Ao servidor público responsável pela inobservância de qualquer das normas previstas neste e nos arts. 93 e 94, a autoridade de trânsito aplicará multa diária na base de cinqüenta por cento do dia de vencimento ou remuneração devida enquanto permanecer a irregularidade.
 
@@ -4261,7 +4261,7 @@ I - quanto à tração:
 
 a) automotor;
 
-b) (revogada);       (Redação dada pela Lei nº 14.599, de 2023)
+b) (revogada); (Redação dada pela Lei nº 14.599, de 2023)
 
 c) de propulsão humana;
 
@@ -4337,31 +4337,31 @@ e) de tração:
 
 4 - trator misto;
 
-f) especial:       (Redação dada pela Lei nº 14.599, de 2023)
+f) especial: (Redação dada pela Lei nº 14.599, de 2023)
 
-1\. motocicleta;      (Incluído pela Lei nº 14.599, de 2023)
+1\. motocicleta; (Incluído pela Lei nº 14.599, de 2023)
 
-2\. triciclo;      (Incluído pela Lei nº 14.599, de 2023)
+2\. triciclo; (Incluído pela Lei nº 14.599, de 2023)
 
-3\. automóvel;      (Incluído pela Lei nº 14.599, de 2023)
+3\. automóvel; (Incluído pela Lei nº 14.599, de 2023)
 
-4\. micro-ônibus;       (Incluído pela Lei nº 14.599, de 2023)
+4\. micro-ônibus; (Incluído pela Lei nº 14.599, de 2023)
 
-5\. ônibus;        (Incluído pela Lei nº 14.599, de 2023)
+5\. ônibus; (Incluído pela Lei nº 14.599, de 2023)
 
-6\. reboque ou semirreboque;      (Incluído pela Lei nº 14.599, de 2023)
+6\. reboque ou semirreboque; (Incluído pela Lei nº 14.599, de 2023)
 
-7\. camioneta;      (Incluído pela Lei nº 14.599, de 2023)
+7\. camioneta; (Incluído pela Lei nº 14.599, de 2023)
 
-8\. caminhão;      (Incluído pela Lei nº 14.599, de 2023)
+8\. caminhão; (Incluído pela Lei nº 14.599, de 2023)
 
-9\. caminhão-trator;      (Incluído pela Lei nº 14.599, de 2023)
+9\. caminhão-trator; (Incluído pela Lei nº 14.599, de 2023)
 
-10\. caminhonete;     (Incluído pela Lei nº 14.599, de 2023)
+10\. caminhonete; (Incluído pela Lei nº 14.599, de 2023)
 
-11\. utilitário;      (Incluído pela Lei nº 14.599, de 2023)
+11\. utilitário; (Incluído pela Lei nº 14.599, de 2023)
 
-12\. motor-casa;     (Incluído pela Lei nº 14.599, de 2023)
+12\. motor-casa; (Incluído pela Lei nº 14.599, de 2023)
 
 g) de coleção;
 
@@ -4434,9 +4434,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 98. Nenhum proprietário ou responsável poderá, sem prévia autorização da autoridade competente, fazer ou ordenar que sejam feitas no veículo modificações de suas características de fábrica.
 
-§ 1º Os veículos e motores novos ou usados que sofrerem alterações ou conversões são obrigados a atender aos mesmos limites e exigências de emissão de poluentes e ruído previstos pelos órgãos ambientais competentes e pelo CONTRAN, cabendo à entidade executora das modificações e ao proprietário do veículo a responsabilidade pelo cumprimento das exigências.        (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+§ 1º Os veículos e motores novos ou usados que sofrerem alterações ou conversões são obrigados a atender aos mesmos limites e exigências de emissão de poluentes e ruído previstos pelos órgãos ambientais competentes e pelo CONTRAN, cabendo à entidade executora das modificações e ao proprietário do veículo a responsabilidade pelo cumprimento das exigências. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  Veículos classificados na espécie misto, tipo utilitário, carroçaria jipe poderão ter alterado o diâmetro externo do conjunto formado por roda e pneu, observadas restrições impostas pelo fabricante e exigências fixadas pelo Contran.        (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 2º Veículos classificados na espécie misto, tipo utilitário, carroçaria jipe poderão ter alterado o diâmetro externo do conjunto formado por roda e pneu, observadas restrições impostas pelo fabricante e exigências fixadas pelo Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020.
 
@@ -4474,9 +4474,9 @@ Art. 99. Somente poderá transitar pelas vias terrestres o veículo cujo peso e 
 
 § 3º Os equipamentos fixos ou móveis utilizados na pesagem de veículos serão aferidos de acordo com a metodologia e na periodicidade estabelecidas pelo CONTRAN, ouvido o órgão ou entidade de metrologia legal.
 
-§ 4º Somente poderá haver autuação, por ocasião da pesagem do veículo, quando o veículo ou a combinação de veículos ultrapassar os limites de peso fixados, acrescidos da respectiva tolerância.       (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+§ 4º Somente poderá haver autuação, por ocasião da pesagem do veículo, quando o veículo ou a combinação de veículos ultrapassar os limites de peso fixados, acrescidos da respectiva tolerância. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
-§ 5º O fabricante fará constar em lugar visível da estrutura do veículo e no Renavam o limite técnico de peso por eixo, na forma definida pelo Contran.        (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+§ 5º O fabricante fará constar em lugar visível da estrutura do veículo e no Renavam o limite técnico de peso por eixo, na forma definida pelo Contran. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.229, de 2021.
 
@@ -4508,11 +4508,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 100. Nenhum veículo ou combinação de veículos poderá transitar com lotação de passageiros, com peso bruto total, ou com peso bruto total combinado com peso por eixo, superior ao fixado pelo fabricante, nem ultrapassar a capacidade máxima de tração da unidade tratora.
 
-§ 1º  Os veículos de transporte coletivo de passageiros poderão ser dotados de pneus extralargos.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1º Os veículos de transporte coletivo de passageiros poderão ser dotados de pneus extralargos. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 2º  O Contran regulamentará o uso de pneus extralargos para os demais veículos.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 2º O Contran regulamentará o uso de pneus extralargos para os demais veículos. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 3º  É permitida a fabricação de veículos de transporte de passageiros de até 15 m (quinze metros) de comprimento na configuração de chassi 8x2.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º É permitida a fabricação de veículos de transporte de passageiros de até 15 m (quinze metros) de comprimento na configuração de chassi 8x2. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016.
 
@@ -4542,7 +4542,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO IX — DOS VEÍCULOS › SEÇÃO I — Disposições Gerais
 
-Art. 101.  Ao veículo ou à combinação de veículos utilizados no transporte de carga que não se enquadre nos limites de peso e dimensões estabelecidos pelo Contran, poderá ser concedida, pela autoridade com circunscrição sobre a via, autorização especial de trânsito, com prazo certo, válida para cada viagem ou por período, atendidas as medidas de segurança consideradas necessárias, conforme regulamentação do Contran.  (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 101. Ao veículo ou à combinação de veículos utilizados no transporte de carga que não se enquadre nos limites de peso e dimensões estabelecidos pelo Contran, poderá ser concedida, pela autoridade com circunscrição sobre a via, autorização especial de trânsito, com prazo certo, válida para cada viagem ou por período, atendidas as medidas de segurança consideradas necessárias, conforme regulamentação do Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 § 1º A autorização será concedida mediante requerimento que especificará as características do veículo ou combinação de veículos e de carga, o percurso, a data e o horário do deslocamento inicial.
 
@@ -4550,7 +4550,7 @@ Art. 101.  Ao veículo ou à combinação de veículos utilizados no transporte
 
 § 3º Aos guindastes autopropelidos ou sobre caminhões poderá ser concedida, pela autoridade com circunscrição sobre a via, autorização especial de trânsito, com prazo de seis meses, atendidas as medidas de segurança consideradas necessárias.
 
-§ 4º O Contran estabelecerá os requisitos mínimos e específicos a serem observados pela autoridade com circunscrição sobre a via para a concessão da autorização de que trata o caput deste artigo quando o veículo ou a combinação de veículos trafegar exclusivamente em via rural não pavimentada, os quais deverão contemplar o caráter diferenciado e regional dessas vias.      (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+§ 4º O Contran estabelecerá os requisitos mínimos e específicos a serem observados pela autoridade com circunscrição sobre a via para a concessão da autorização de que trata o caput deste artigo quando o veículo ou a combinação de veículos trafegar exclusivamente em via rural não pavimentada, os quais deverão contemplar o caráter diferenciado e regional dessas vias. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.229, de 2021.
 
@@ -4616,7 +4616,7 @@ Art. 103. O veículo só poderá transitar pela via quando atendidos os requisit
 
 § 2º O CONTRAN deverá especificar os procedimentos e a periodicidade para que os fabricantes, os importadores, os montadores e os encarroçadores comprovem o atendimento aos requisitos de segurança veicular, devendo, para isso, manter disponíveis a qualquer tempo os resultados dos testes e ensaios dos sistemas e componentes abrangidos pela legislação de segurança veicular.
 
-§ 3º O Contran poderá autorizar, em caráter experimental e por período prefixado, a circulação de veículos ou combinação de veículos em condições não previstas no caput deste artigo.     (Incluído pela Lei nº 14.599, de 2023)
+§ 3º O Contran poderá autorizar, em caráter experimental e por período prefixado, a circulação de veículos ou combinação de veículos em condições não previstas no caput deste artigo. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -4648,19 +4648,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 104. Os veículos em circulação terão suas condições de segurança, de controle de emissão de gases poluentes e de ruído avaliadas mediante inspeção, que será obrigatória, na forma e periodicidade estabelecidas pelo CONTRAN para os itens de segurança e pelo CONAMA para emissão de gases poluentes e ruído.
 
-§ 1º  (VETADO)
+§ 1º (VETADO)
 
-§ 2º  (VETADO)
+§ 2º (VETADO)
 
-§ 3º  (VETADO)
+§ 3º (VETADO)
 
-§ 4º  (VETADO)
+§ 4º (VETADO)
 
 § 5º Será aplicada a medida administrativa de retenção aos veículos reprovados na inspeção de segurança e na de emissão de gases poluentes e ruído.
 
-§ 6º Estarão isentos da inspeção de que trata o caput deste artigo, durante 3 (três) anos a partir do primeiro licenciamento, os veículos novos classificados na categoria particular, com capacidade para até 7 (sete) passageiros, desde que mantenham suas características originais de fábrica e não se envolvam em sinistro de trânsito com danos de média ou grande monta.       (Redação dada pela Lei nº 14.599, de 2023)
+§ 6º Estarão isentos da inspeção de que trata o caput deste artigo, durante 3 (três) anos a partir do primeiro licenciamento, os veículos novos classificados na categoria particular, com capacidade para até 7 (sete) passageiros, desde que mantenham suas características originais de fábrica e não se envolvam em sinistro de trânsito com danos de média ou grande monta. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 7º Para os demais veículos novos, o período de que trata o § 6º deste artigo será de 2 (dois) anos, desde que mantenham suas características originais de fábrica e não se envolvam em sinistro de trânsito com danos de média ou grande monta.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 7º Para os demais veículos novos, o período de que trata o § 6º deste artigo será de 2 (dois) anos, desde que mantenham suas características originais de fábrica e não se envolvam em sinistro de trânsito com danos de média ou grande monta. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -4704,9 +4704,9 @@ V - dispositivo destinado ao controle de emissão de gases poluentes e de ruído
 
 VI - para as bicicletas, a campainha, sinalização noturna dianteira, traseira, lateral e nos pedais, e espelho retrovisor do lado esquerdo.
 
-VII - equipamento suplementar de retenção - air bag frontal para o condutor e o passageiro do banco dianteiro.          (Incluído pela Lei nº 11.910, de 2009)
+VII - equipamento suplementar de retenção - air bag frontal para o condutor e o passageiro do banco dianteiro. (Incluído pela Lei nº 11.910, de 2009)
 
-VIII - luzes de rodagem diurna.       (Incluído pela Lei nº 14.071, de 2020)    (Vigência)     (Vide Lei nº 14.071, de 2020)
+VIII - luzes de rodagem diurna. (Incluído pela Lei nº 14.071, de 2020) (Vigência) (Vide Lei nº 14.071, de 2020)
 
 § 1º O CONTRAN disciplinará o uso dos equipamentos obrigatórios dos veículos e determinará suas especificações técnicas.
 
@@ -4716,9 +4716,9 @@ VIII - luzes de rodagem diurna.       (Incluído pela Lei nº 14.071, de 2
 
 § 4º O CONTRAN estabelecerá o prazo para o atendimento do disposto neste artigo.
 
-§ 5o  A exigência estabelecida no inciso VII do caput deste artigo será progressivamente incorporada aos novos projetos de automóveis e dos veículos deles derivados, fabricados, importados, montados ou encarroçados, a partir do 1o (primeiro) ano após a definição pelo Contran das especificações técnicas pertinentes e do respectivo cronograma de implantação e a partir do 5o (quinto) ano, após esta definição, para os demais automóveis zero quilômetro de modelos ou projetos já existentes e veículos deles derivados.         (Incluído pela Lei nº 11.910, de 2009)
+§ 5o A exigência estabelecida no inciso VII do caput deste artigo será progressivamente incorporada aos novos projetos de automóveis e dos veículos deles derivados, fabricados, importados, montados ou encarroçados, a partir do 1o (primeiro) ano após a definição pelo Contran das especificações técnicas pertinentes e do respectivo cronograma de implantação e a partir do 5o (quinto) ano, após esta definição, para os demais automóveis zero quilômetro de modelos ou projetos já existentes e veículos deles derivados. (Incluído pela Lei nº 11.910, de 2009)
 
-§ 6o  A exigência estabelecida no inciso VII do caput deste artigo não se aplica aos veículos destinados à exportação.          (Incluído pela Lei nº 11.910, de 2009)
+§ 6o A exigência estabelecida no inciso VII do caput deste artigo não se aplica aos veículos destinados à exportação. (Incluído pela Lei nº 11.910, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 11.910, de 2009; inclusão — Lei nº 14.071, de 2020.
 
@@ -4753,7 +4753,7 @@ São equipamentos obrigatórios, entre outros do CONTRAN: cinto de segurança, t
 
 Art. 106. No caso de fabricação artesanal ou de modificação de veículo ou, ainda, quando ocorrer substituição de equipamento de segurança especificado pelo fabricante, será exigido, para licenciamento e registro, certificado de segurança expedido por instituição técnica credenciada por órgão ou entidade de metrologia legal, conforme norma elaborada pelo CONTRAN.
 
-Parágrafo único. Quando se tratar de blindagem de veículo, não será exigido qualquer outro documento ou autorização para o registro ou o licenciamento.        (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+Parágrafo único. Quando se tratar de blindagem de veículo, não será exigido qualquer outro documento ou autorização para o registro ou o licenciamento. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -4813,7 +4813,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 108. Onde não houver linha regular de ônibus, a autoridade com circunscrição sobre a via poderá autorizar, a título precário, o transporte de passageiros em veículo de carga ou misto, desde que obedecidas as condições de segurança estabelecidas neste Código e pelo CONTRAN.
 
-Parágrafo único. A autorização citada no caput não poderá exceder a doze meses, prazo a partir do qual a autoridade pública responsável deverá implantar o serviço regular de transporte coletivo de passageiros, em conformidade com a legislação pertinente e com os dispositivos deste Código.          (Incluído pela Lei nº 9.602, de 1998)
+Parágrafo único. A autorização citada no caput não poderá exceder a doze meses, prazo a partir do qual a autoridade pública responsável deverá implantar o serviço regular de transporte coletivo de passageiros, em conformidade com a legislação pertinente e com os dispositivos deste Código. (Incluído pela Lei nº 9.602, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 9.602, de 1998.
 
@@ -4903,7 +4903,7 @@ I - (VETADO)
 
 II - o uso de cortinas, persianas fechadas ou similares nos veículos em movimento, salvo nos que possuam espelhos retrovisores em ambos os lados.
 
-III - aposição de inscrições, películas refletivas ou não, painéis decorativos ou pinturas, quando comprometer a segurança do veículo, na forma de regulamentação do CONTRAN.          (Incluído pela Lei nº 9.602, de 1998)
+III - aposição de inscrições, películas refletivas ou não, painéis decorativos ou pinturas, quando comprometer a segurança do veículo, na forma de regulamentação do CONTRAN. (Incluído pela Lei nº 9.602, de 1998)
 
 Parágrafo único. É proibido o uso de inscrição de caráter publicitário ou qualquer outra que possa desviar a atenção dos condutores em toda a extensão do pára-brisa e da traseira dos veículos, salvo se não colocar em risco a segurança do trânsito.
 
@@ -4936,7 +4936,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO IX — DOS VEÍCULOS › SEÇÃO II — Da Segurança dos Veículos
 
-Art. 112.       (Revogado pela Lei nº 9.792, de 1999)
+Art. 112. (Revogado pela Lei nº 9.792, de 1999)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.792, de 1999.
 
@@ -5036,21 +5036,21 @@ Art. 115. O veículo será identificado externamente por meio de placas dianteir
 
 § 3º Os veículos de representação dos Presidentes dos Tribunais Federais, dos Governadores, Prefeitos, Secretários Estaduais e Municipais, dos Presidentes das Assembléias Legislativas, das Câmaras Municipais, dos Presidentes dos Tribunais Estaduais e do Distrito Federal, e do respectivo chefe do Ministério Público e ainda dos Oficiais Generais das Forças Armadas terão placas especiais, de acordo com os modelos estabelecidos pelo CONTRAN.
 
-§ 4o Os aparelhos automotores destinados a puxar ou a arrastar maquinaria de qualquer natureza ou a executar trabalhos de construção ou de pavimentação são sujeitos ao registro na repartição competente, se transitarem em via pública, dispensados o licenciamento e o emplacamento.          (Redação dada pela Lei nº 13.154, de 2015)      (Vide)
+§ 4o Os aparelhos automotores destinados a puxar ou a arrastar maquinaria de qualquer natureza ou a executar trabalhos de construção ou de pavimentação são sujeitos ao registro na repartição competente, se transitarem em via pública, dispensados o licenciamento e o emplacamento. (Redação dada pela Lei nº 13.154, de 2015) (Vide)
 
-§ 4º-A. Os tratores e demais aparelhos automotores destinados a puxar ou a arrastar maquinaria agrícola ou a executar trabalhos agrícolas, desde que facultados a transitar em via pública, são sujeitos ao registro único, sem ônus, em cadastro específico do Ministério da Agricultura e Pecuária, acessível aos componentes do Sistema Nacional de Trânsito.       (Redação dada pela Lei nº 14.599, de 2023)
+§ 4º-A. Os tratores e demais aparelhos automotores destinados a puxar ou a arrastar maquinaria agrícola ou a executar trabalhos agrícolas, desde que facultados a transitar em via pública, são sujeitos ao registro único, sem ônus, em cadastro específico do Ministério da Agricultura e Pecuária, acessível aos componentes do Sistema Nacional de Trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 § 5º O disposto neste artigo não se aplica aos veículos de uso bélico.
 
 § 6º Os veículos de duas ou três rodas são dispensados da placa dianteira.
 
-§ 7o  Excepcionalmente, mediante autorização específica e fundamentada das respectivas corregedorias e com a devida comunicação aos órgãos de trânsito competentes, os veículos utilizados por membros do Poder Judiciário e do Ministério Público que exerçam competência ou atribuição criminal poderão temporariamente ter placas especiais, de forma a impedir a identificação de seus usuários específicos, na forma de regulamento a ser emitido, conjuntamente, pelo Conselho Nacional de Justiça - CNJ, pelo Conselho Nacional do Ministério Público - CNMP e pelo Conselho Nacional de Trânsito - CONTRAN.        (Incluído pela Lei nº 12.694, de 2012)
+§ 7o Excepcionalmente, mediante autorização específica e fundamentada das respectivas corregedorias e com a devida comunicação aos órgãos de trânsito competentes, os veículos utilizados por membros do Poder Judiciário e do Ministério Público que exerçam competência ou atribuição criminal poderão temporariamente ter placas especiais, de forma a impedir a identificação de seus usuários específicos, na forma de regulamento a ser emitido, conjuntamente, pelo Conselho Nacional de Justiça - CNJ, pelo Conselho Nacional do Ministério Público - CNMP e pelo Conselho Nacional de Trânsito - CONTRAN. (Incluído pela Lei nº 12.694, de 2012)
 
-§ 8o Os veículos artesanais utilizados para trabalho agrícola (jericos), para efeito do registro de que trata o § 4o-A, ficam dispensados da exigência prevista no art. 106.         (Incluído pela Lei nº 13.154, de 2015)
+§ 8o Os veículos artesanais utilizados para trabalho agrícola (jericos), para efeito do registro de que trata o § 4o-A, ficam dispensados da exigência prevista no art. 106. (Incluído pela Lei nº 13.154, de 2015)
 
-§ 9º  As placas que possuírem tecnologia que permita a identificação do veículo ao qual estão atreladas são dispensadas da utilização do lacre previsto no caput, na forma a ser regulamentada pelo Contran.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 9º As placas que possuírem tecnologia que permita a identificação do veículo ao qual estão atreladas são dispensadas da utilização do lacre previsto no caput, na forma a ser regulamentada pelo Contran. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 10.  O Contran estabelecerá os meios técnicos, de uso obrigatório, para garantir a identificação dos veículos que transitarem por rodovias e vias urbanas com cobrança de uso pelo sistema de livre passagem.     (Incluído pela Lei nº 14.157, de 2021)
+§ 10. O Contran estabelecerá os meios técnicos, de uso obrigatório, para garantir a identificação dos veículos que transitarem por rodovias e vias urbanas com cobrança de uso pelo sistema de livre passagem. (Incluído pela Lei nº 14.157, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.154, de 2015; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 12.694, de 2012; inclusão — Lei nº 13.154, de 2015; inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 14.157, de 2021.
 
@@ -5083,9 +5083,9 @@ O veículo é identificado por placas dianteira e traseira (lacrada), com caract
 
 **Localização:** CAPÍTULO IX — DOS VEÍCULOS › SEÇÃO III — Da Identificação do Veículo
 
-Art. 116. Os veículos de propriedade da União, dos Estados e do Distrito Federal, devidamente registrados e licenciados, ou aqueles sob posse dos órgãos de segurança pública, somente quando estritamente usados em serviço reservado de caráter policial, poderão usar placas particulares, obedecidos os critérios e os limites estabelecidos pela legislação que regula o uso de veículo oficial.     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 116. Os veículos de propriedade da União, dos Estados e do Distrito Federal, devidamente registrados e licenciados, ou aqueles sob posse dos órgãos de segurança pública, somente quando estritamente usados em serviço reservado de caráter policial, poderão usar placas particulares, obedecidos os critérios e os limites estabelecidos pela legislação que regula o uso de veículo oficial. (Redação dada pela Lei nº 14.599, de 2023)
 
-Parágrafo único. As placas a que se refere o caput deste artigo serão concedidas mediante solicitação aos órgãos executivos de trânsito dos Estados e do Distrito Federal e serão vinculadas ao órgão de segurança pública solicitante.      (Redação dada pela Lei nº 14.599, de 2023)
+Parágrafo único. As placas a que se refere o caput deste artigo serão concedidas mediante solicitação aos órgãos executivos de trânsito dos Estados e do Distrito Federal e serão vinculadas ao órgão de segurança pública solicitante. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -5172,9 +5172,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 119. As repartições aduaneiras e os órgãos de controle de fronteira comunicarão diretamente ao RENAVAM a entrada e saída temporária ou definitiva de veículos.
 
-§ 1º  Os veículos licenciados no exterior não poderão sair do território nacional sem o prévio pagamento ou o depósito, judicial ou administrativo, dos valores correspondentes às infrações de trânsito cometidas e ao ressarcimento de danos que tiverem causado ao patrimônio público ou de particulares, independentemente da fase do processo administrativo ou judicial envolvendo a questão.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1º Os veículos licenciados no exterior não poderão sair do território nacional sem o prévio pagamento ou o depósito, judicial ou administrativo, dos valores correspondentes às infrações de trânsito cometidas e ao ressarcimento de danos que tiverem causado ao patrimônio público ou de particulares, independentemente da fase do processo administrativo ou judicial envolvendo a questão. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 2º  Os veículos que saírem do território nacional sem o cumprimento do disposto no § 1º e que posteriormente forem flagrados tentando ingressar ou já em circulação no território nacional serão retidos até a regularização da situação.          (Incluído pela Lei nº 13. 281, de 2016)      (Vigência)
+§ 2º Os veículos que saírem do território nacional sem o cumprimento do disposto no § 1º e que posteriormente forem flagrados tentando ingressar ou já em circulação no território nacional serão retidos até a regularização da situação. (Incluído pela Lei nº 13. 281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 13..
 
@@ -5204,7 +5204,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 120. Todo veículo automotor, articulado, reboque ou semirreboque, deve ser registrado perante o órgão executivo de trânsito do Estado ou do Distrito Federal, no Município de domicílio ou residência de seu proprietário, na forma da lei.    (Redação dada pela Lei nº 14.599, de 2023)
+Art. 120. Todo veículo automotor, articulado, reboque ou semirreboque, deve ser registrado perante o órgão executivo de trânsito do Estado ou do Distrito Federal, no Município de domicílio ou residência de seu proprietário, na forma da lei. (Redação dada pela Lei nº 14.599, de 2023)
 
 § 1º Os órgãos executivos de trânsito dos Estados e do Distrito Federal somente registrarão veículos oficiais de propriedade da administração direta, da União, dos Estados, do Distrito Federal e dos Municípios, de qualquer um dos poderes, com indicação expressa, por pintura nas portas, do nome, sigla ou logotipo do órgão ou entidade em cujo nome o veículo será registrado, excetuando-se os veículos de representação e os previstos no art. 116.
 
@@ -5240,7 +5240,7 @@ Todo veículo automotor, articulado, reboque ou semirreboque deve ser registrado
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 121.  Registrado o veículo, expedir-se-á o Certificado de Registro de Veículo (CRV), em meio físico e/ou digital, à escolha do proprietário, de acordo com os modelos e com as especificações estabelecidos pelo Contran, com as características e as condições de invulnerabilidade à falsificação e à adulteração.          (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 121. Registrado o veículo, expedir-se-á o Certificado de Registro de Veículo (CRV), em meio físico e/ou digital, à escolha do proprietário, de acordo com os modelos e com as especificações estabelecidos pelo Contran, com as características e as condições de invulnerabilidade à falsificação e à adulteração. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -5318,17 +5318,17 @@ IV - houver mudança de categoria.
 
 § 3º A expedição do novo certificado será comunicada ao órgão executivo de trânsito que expediu o anterior e ao RENAVAM.
 
-§ 4º A transferência de propriedade referida no inciso I do caput deste artigo poderá ser realizada integralmente por meio eletrônico pelo órgão máximo executivo de trânsito da União ou pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, observadas as seguintes regras:   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+§ 4º A transferência de propriedade referida no inciso I do caput deste artigo poderá ser realizada integralmente por meio eletrônico pelo órgão máximo executivo de trânsito da União ou pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, observadas as seguintes regras: (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-I - no caso de transferência de propriedade realizada em meio eletrônico, o contrato de compra e venda de veículo deverá conter as assinaturas eletrônicas qualificadas ou avançadas, na forma da Lei nº 14.063, de 23 de setembro de 2020, e das normas regulamentares do Contran;   (Incluído pela Lei nº 15.153, de 2025)
+I - no caso de transferência de propriedade realizada em meio eletrônico, o contrato de compra e venda de veículo deverá conter as assinaturas eletrônicas qualificadas ou avançadas, na forma da Lei nº 14.063, de 23 de setembro de 2020, e das normas regulamentares do Contran; (Incluído pela Lei nº 15.153, de 2025)
 
-II - o contrato de compra e venda de veículo em meio digital, quando assinado eletronicamente pelo comprador e pelo vendedor do veículo perante o órgão máximo executivo de trânsito da União, terá validade em todo o território nacional e deverá ser obrigatoriamente acatado por todos os órgãos de trânsito dos Estados e do Distrito Federal;   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+II - o contrato de compra e venda de veículo em meio digital, quando assinado eletronicamente pelo comprador e pelo vendedor do veículo perante o órgão máximo executivo de trânsito da União, terá validade em todo o território nacional e deverá ser obrigatoriamente acatado por todos os órgãos de trânsito dos Estados e do Distrito Federal; (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-III - a assinatura eletrônica avançada do contrato de compra e venda de veículo deverá ser realizada por meio de plataforma de assinatura homologada pelo órgão máximo executivo de trânsito da União ou pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, conforme regulamentação do Contran;  (Incluído pela Lei nº 15.153, de 2025)    Vigência
+III - a assinatura eletrônica avançada do contrato de compra e venda de veículo deverá ser realizada por meio de plataforma de assinatura homologada pelo órgão máximo executivo de trânsito da União ou pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, conforme regulamentação do Contran; (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-IV - (VETADO);   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+IV - (VETADO); (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-V - a vistoria de transferência da propriedade poderá ser realizada em formato eletrônico a critério do órgão executivo de trânsito dos Estados e do Distrito Federal.   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+V - a vistoria de transferência da propriedade poderá ser realizada em formato eletrônico a critério do órgão executivo de trânsito dos Estados e do Distrito Federal. (Incluído pela Lei nº 15.153, de 2025) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.153, de 2025.
 
@@ -5377,15 +5377,15 @@ VI - autorização do Ministério das Relações Exteriores, no caso de veículo
 
 VII - certidão negativa de roubo ou furto de veículo, expedida no Município do registro anterior, que poderá ser substituída por informação do RENAVAM;
 
-VIII - comprovante de quitação de débitos relativos a tributos, encargos e multas de trânsito vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas;     (Vide ADIN 2998)
+VIII - comprovante de quitação de débitos relativos a tributos, encargos e multas de trânsito vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas; (Vide ADIN 2998)
 
-IX -        (Revogado pela Lei nº 9.602, de 1998)
+IX - (Revogado pela Lei nº 9.602, de 1998)
 
 X - comprovante relativo ao cumprimento do disposto no art. 98, quando houver alteração nas características originais do veículo que afetem a emissão de poluentes e ruído;
 
 XI - comprovante de aprovação de inspeção veicular e de poluentes e ruído, quando for o caso, conforme regulamentações do CONTRAN e do CONAMA.
 
-Parágrafo único. Os veículos cuja transferência de propriedade seja resultado de apreensão ou de confisco por decisão judicial, leilão de veículo recolhido em depósito ou de doação a órgãos ou entidades da administração pública são dispensados do cumprimento do disposto no inciso VIII do caput deste artigo, e os débitos existentes devem ser cobrados do proprietário anterior.        (Redação dada pela Lei nº 14.440, de 2022)
+Parágrafo único. Os veículos cuja transferência de propriedade seja resultado de apreensão ou de confisco por decisão judicial, leilão de veículo recolhido em depósito ou de doação a órgãos ou entidades da administração pública são dispensados do cumprimento do disposto no inciso VIII do caput deste artigo, e os débitos existentes devem ser cobrados do proprietário anterior. (Redação dada pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.602, de 1998; redação — Lei nº 14.440, de 2022.
 
@@ -5458,11 +5458,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 126.  O proprietário de veículo irrecuperável, ou destinado à desmontagem, deverá requerer a baixa do registro, no prazo e forma estabelecidos pelo Contran, vedada a remontagem do veículo sobre o mesmo chassi de forma a manter o registro anterior.           (Redação dada pela Lei nº 12.977, de 2014)  (Vigência)
+Art. 126. O proprietário de veículo irrecuperável, ou destinado à desmontagem, deverá requerer a baixa do registro, no prazo e forma estabelecidos pelo Contran, vedada a remontagem do veículo sobre o mesmo chassi de forma a manter o registro anterior. (Redação dada pela Lei nº 12.977, de 2014) (Vigência)
 
-§ 1º. A obrigação de que trata este artigo é da companhia seguradora ou do adquirente do veículo destinado à desmontagem, quando estes sucederem ao proprietário.   (Incluído pela Lei nº 14.440, de 2022)
+§ 1º. A obrigação de que trata este artigo é da companhia seguradora ou do adquirente do veículo destinado à desmontagem, quando estes sucederem ao proprietário. (Incluído pela Lei nº 14.440, de 2022)
 
-§ 2º A existência de débitos fiscais ou de multas de trânsito e ambientais vinculadas ao veículo não impede a baixa do registro.       (Incluído pela Lei nº 14.440, de 2022)
+§ 2º A existência de débitos fiscais ou de multas de trânsito e ambientais vinculadas ao veículo não impede a baixa do registro. (Incluído pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.977, de 2014; inclusão — Lei nº 14.440, de 2022.
 
@@ -5521,7 +5521,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 128. Não será expedido novo Certificado de Registro de Veículo enquanto houver débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo, independentemente da responsabilidade pelas infrações cometidas.      (Vide ADIN 2998)
+Art. 128. Não será expedido novo Certificado de Registro de Veículo enquanto houver débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo, independentemente da responsabilidade pelas infrações cometidas. (Vide ADIN 2998)
 
 #### Interpretação
 
@@ -5551,7 +5551,7 @@ Não se expede novo CRV enquanto houver débitos fiscais e multas de trânsito e
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 129. O registro e o licenciamento dos veículos de propulsão humana e dos veículos de tração animal obedecerão à regulamentação estabelecida em legislação municipal do domicílio ou residência de seus proprietários.    (Redação dada pela Lei nº 13.154, de 2015)
+Art. 129. O registro e o licenciamento dos veículos de propulsão humana e dos veículos de tração animal obedecerão à regulamentação estabelecida em legislação municipal do domicílio ou residência de seus proprietários. (Redação dada pela Lei nº 13.154, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.154, de 2015.
 
@@ -5581,7 +5581,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 129-A. O registro dos tratores e demais aparelhos automotores destinados a puxar ou a arrastar maquinaria agrícola ou a executar trabalhos agrícolas será efetuado, sem ônus, pelo Ministério da Agricultura e Pecuária, diretamente ou mediante convênio.   (Redação dada pela Lei nº 14.599, de 2023)
+Art. 129-A. O registro dos tratores e demais aparelhos automotores destinados a puxar ou a arrastar maquinaria agrícola ou a executar trabalhos agrícolas será efetuado, sem ônus, pelo Ministério da Agricultura e Pecuária, diretamente ou mediante convênio. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -5611,9 +5611,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XI — DO REGISTRO DE VEÍCULOS
 
-Art. 129-B.  O registro de contratos de garantias de alienação fiduciária em operações financeiras, consórcio, arrendamento mercantil, reserva de domínio ou penhor será realizado nos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal, em observância ao disposto no § 1º do art. 1.361 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) , e na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais) .           (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 129-B. O registro de contratos de garantias de alienação fiduciária em operações financeiras, consórcio, arrendamento mercantil, reserva de domínio ou penhor será realizado nos órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal, em observância ao disposto no § 1º do art. 1.361 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) , e na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais) . (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. O registro previsto no caput deste artigo será executado por empresas registradoras de contrato especializadas, na modalidade de credenciamento pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, observado o disposto no inciso III do parágrafo único do art. 79 da Lei nº 14.133, de 1º de abril de 2021.       (Incluído pela Lei nº 14.599, de 2023)
+Parágrafo único. O registro previsto no caput deste artigo será executado por empresas registradoras de contrato especializadas, na modalidade de credenciamento pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, observado o disposto no inciso III do parágrafo único do art. 79 da Lei nº 14.133, de 1º de abril de 2021. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.599, de 2023.
 
@@ -5652,7 +5652,7 @@ O registro de contratos de alienação fiduciária, consórcio, leasing, reserva
 
 **Localização:** CAPÍTULO XII — DO LICENCIAMENTO
 
-Art. 130. Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo.    (Redação dada pela Lei nº 14.599, de 2023)
+Art. 130. Todo veículo automotor, articulado, reboque ou semirreboque, para transitar na via, deverá ser licenciado anualmente pelo órgão executivo de trânsito do Estado, ou do Distrito Federal, onde estiver registrado o veículo. (Redação dada pela Lei nº 14.599, de 2023)
 
 § 1º O disposto neste artigo não se aplica a veículo de uso bélico.
 
@@ -5685,21 +5685,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XII — DO LICENCIAMENTO
 
-Art. 131.  O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro de Veículo, em meio físico e/ou digital, à escolha do proprietário, de acordo com o modelo e com as especificações estabelecidos pelo Contran.        (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 131. O Certificado de Licenciamento Anual será expedido ao veículo licenciado, vinculado ao Certificado de Registro de Veículo, em meio físico e/ou digital, à escolha do proprietário, de acordo com o modelo e com as especificações estabelecidos pelo Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 § 1º O primeiro licenciamento será feito simultaneamente ao registro.
 
-§ 2º O veículo somente será considerado licenciado estando quitados os débitos relativos a tributos, encargos e multas de trânsito e ambientais, vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas.      (Vide ADIN 2998)
+§ 2º O veículo somente será considerado licenciado estando quitados os débitos relativos a tributos, encargos e multas de trânsito e ambientais, vinculados ao veículo, independentemente da responsabilidade pelas infrações cometidas. (Vide ADIN 2998)
 
 § 3º Ao licenciar o veículo, o proprietário deverá comprovar sua aprovação nas inspeções de segurança veicular e de controle de emissões de gases poluentes e de ruído, conforme disposto no art. 104.
 
-§ 4º As informações referentes às campanhas de chamamento de consumidores para substituição ou reparo de veículos realizadas a partir de 1º de outubro de 2019 e não atendidas no prazo de 1 (um) ano, contado da data de sua comunicação, deverão constar do Certificado de Licenciamento Anual.         (Redação dada pela Lei nº 14.229, de 2021)
+§ 4º As informações referentes às campanhas de chamamento de consumidores para substituição ou reparo de veículos realizadas a partir de 1º de outubro de 2019 e não atendidas no prazo de 1 (um) ano, contado da data de sua comunicação, deverão constar do Certificado de Licenciamento Anual. (Redação dada pela Lei nº 14.229, de 2021)
 
-§ 5º  Após a inclusão das informações de que trata o § 4º deste artigo no Certificado de Licenciamento Anual, o veículo somente será licenciado mediante comprovação do atendimento às campanhas de chamamento de consumidores para substituição ou reparo de veículos.        (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 5º Após a inclusão das informações de que trata o § 4º deste artigo no Certificado de Licenciamento Anual, o veículo somente será licenciado mediante comprovação do atendimento às campanhas de chamamento de consumidores para substituição ou reparo de veículos. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 6º O Contran regulamentará a inserção dos dados no Certificado de Licenciamento Anual referentes às campanhas de chamamento de consumidores para substituição ou reparo de veículos realizadas antes da data prevista no § 4º deste artigo.        (Incluído pela Lei nº 14.229, de 2021)
+§ 6º O Contran regulamentará a inserção dos dados no Certificado de Licenciamento Anual referentes às campanhas de chamamento de consumidores para substituição ou reparo de veículos realizadas antes da data prevista no § 4º deste artigo. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 7º O Contran, excepcionalmente, poderá prorrogar a exigência do disposto no § 5º deste artigo diante da comprovada falta de peças ou da necessidade de escalonamento para o atendimento ao chamamento dos consumidores, avaliadas as questões de segurança viária.       (Incluído pela Lei nº 14.599, de 2023)
+§ 7º O Contran, excepcionalmente, poderá prorrogar a exigência do disposto no § 5º deste artigo diante da comprovada falta de peças ou da necessidade de escalonamento para o atendimento ao chamamento dos consumidores, avaliadas as questões de segurança viária. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.229, de 2021; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.229, de 2021; inclusão — Lei nº 14.599, de 2023.
 
@@ -5738,9 +5738,9 @@ O Certificado de Licenciamento Anual (CRLV) é físico ou digital; o veículo s�
 
 Art. 132. Os veículos novos não estão sujeitos ao licenciamento e terão sua circulação regulada pelo CONTRAN durante o trajeto entre a fábrica e o Município de destino.
 
-§ 1o O disposto neste artigo aplica-se, igualmente, aos veículos importados, durante o trajeto entre a alfândega ou entreposto alfandegário e o Município de destino.        (Renumerado do parágrafo único pela Lei nº 13.103, de 2015)     (Vigência)
+§ 1o O disposto neste artigo aplica-se, igualmente, aos veículos importados, durante o trajeto entre a alfândega ou entreposto alfandegário e o Município de destino. (Renumerado do parágrafo único pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 2o               (Revogado pela Lei nº 13.154, de 2015)
+§ 2o (Revogado pela Lei nº 13.154, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei nº 13.103, de 2015; revogação — Lei nº 13.154, de 2015.
 
@@ -5771,7 +5771,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 133. É obrigatório o porte do Certificado de Licenciamento Anual.
 
-Parágrafo único. O porte será dispensado quando, no momento da fiscalização, for possível ter acesso ao devido sistema informatizado para verificar se o veículo está licenciado.          (Incluído pela Lei nº 13. 281, de 2016)      (Vigência)
+Parágrafo único. O porte será dispensado quando, no momento da fiscalização, for possível ter acesso ao devido sistema informatizado para verificar se o veículo está licenciado. (Incluído pela Lei nº 13. 281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13..
 
@@ -5800,9 +5800,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XII — DO LICENCIAMENTO
 
-Art. 134.  No caso de transferência de propriedade, expirado o prazo previsto no § 1º do art. 123 deste Código sem que o novo proprietário tenha tomado as providências necessárias à efetivação da expedição do novo Certificado de Registro de Veículo, o antigo proprietário deverá encaminhar ao órgão executivo de trânsito do Estado ou do Distrito Federal, no prazo de 60 (sessenta) dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação.        (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
+Art. 134. No caso de transferência de propriedade, expirado o prazo previsto no § 1º do art. 123 deste Código sem que o novo proprietário tenha tomado as providências necessárias à efetivação da expedição do novo Certificado de Registro de Veículo, o antigo proprietário deverá encaminhar ao órgão executivo de trânsito do Estado ou do Distrito Federal, no prazo de 60 (sessenta) dias, cópia autenticada do comprovante de transferência de propriedade, devidamente assinado e datado, sob pena de ter que se responsabilizar solidariamente pelas penalidades impostas e suas reincidências até a data da comunicação. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. O comprovante de transferência de propriedade de que trata o caput deste artigo poderá ser substituído por documento eletrônico com assinatura eletrônica válida, na forma regulamentada pelo Contran.   (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+Parágrafo único. O comprovante de transferência de propriedade de que trata o caput deste artigo poderá ser substituído por documento eletrônico com assinatura eletrônica válida, na forma regulamentada pelo Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -5834,7 +5834,7 @@ Se o comprador não transferir o veículo em 30 dias, o vendedor deve, em 60 dia
 
 **Localização:** CAPÍTULO XII — DO LICENCIAMENTO
 
-Art. 134-A.  O Contran especificará as bicicletas motorizadas e equiparados não sujeitos ao registro, ao licenciamento e ao emplacamento para circulação nas vias.         (Incluído pela Lei nº 14.071, de 2020)   (Vigência)
+Art. 134-A. O Contran especificará as bicicletas motorizadas e equiparados não sujeitos ao registro, ao licenciamento e ao emplacamento para circulação nas vias. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -5967,9 +5967,9 @@ I - ter idade superior a vinte e um anos;
 
 II - ser habilitado na categoria D;
 
-III -  (VETADO)
+III - (VETADO)
 
-IV - não ter cometido mais de uma infração gravíssima nos 12 (doze) últimos meses;        (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+IV - não ter cometido mais de uma infração gravíssima nos 12 (doze) últimos meses; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 V - ser aprovado em curso especializado, nos termos da regulamentação do CONTRAN.
 
@@ -6028,19 +6028,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIII-A — DA CONDUÇÃO DE MOTO-FRETE
 
-Art. 139-A.  As motocicletas e motonetas destinadas ao transporte remunerado de mercadorias – moto-frete – somente poderão circular nas vias com autorização emitida pelo órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal, exigindo-se, para tanto:      (Incluído pela Lei nº 12.009, de 2009)
+Art. 139-A. As motocicletas e motonetas destinadas ao transporte remunerado de mercadorias – moto-frete – somente poderão circular nas vias com autorização emitida pelo órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal, exigindo-se, para tanto: (Incluído pela Lei nº 12.009, de 2009)
 
-I – registro como veículo da categoria de aluguel;      (Incluído pela Lei nº 12.009, de 2009)      ~~(Revogado pela Medida Provisória nº 1.360, de 2026)~~ Vigência encerrada
+I – registro como veículo da categoria de aluguel; (Incluído pela Lei nº 12.009, de 2009) ~~(Revogado pela Medida Provisória nº 1.360, de 2026)~~ Vigência encerrada
 
-II – instalação de protetor de motor mata-cachorro, fixado no chassi do veículo, destinado a proteger o motor e a perna do condutor em caso de tombamento, nos termos de regulamentação do Conselho Nacional de Trânsito – Contran;         (Incluído pela Lei nº 12.009, de 2009)
+II – instalação de protetor de motor mata-cachorro, fixado no chassi do veículo, destinado a proteger o motor e a perna do condutor em caso de tombamento, nos termos de regulamentação do Conselho Nacional de Trânsito – Contran; (Incluído pela Lei nº 12.009, de 2009)
 
-III – instalação de aparador de linha antena corta-pipas, nos termos de regulamentação do Contran;        (Incluído pela Lei nº 12.009, de 2009)
+III – instalação de aparador de linha antena corta-pipas, nos termos de regulamentação do Contran; (Incluído pela Lei nº 12.009, de 2009)
 
-IV – inspeção semestral para verificação dos equipamentos obrigatórios e de segurança.       (Incluído pela Lei nº 12.009, de 2009)       ~~(Revogado pela Medida Provisória nº 1.360, de 2026)~~ Vigência encerrada
+IV – inspeção semestral para verificação dos equipamentos obrigatórios e de segurança. (Incluído pela Lei nº 12.009, de 2009) ~~(Revogado pela Medida Provisória nº 1.360, de 2026)~~ Vigência encerrada
 
-§ 1o  A instalação ou incorporação de dispositivos para transporte de cargas deve estar de acordo com a regulamentação do Contran.        (Incluído pela Lei nº 12.009, de 2009)
+§ 1o A instalação ou incorporação de dispositivos para transporte de cargas deve estar de acordo com a regulamentação do Contran. (Incluído pela Lei nº 12.009, de 2009)
 
-§ 2o  É proibido o transporte de combustíveis, produtos inflamáveis ou tóxicos e de galões nos veículos de que trata este artigo, com exceção do gás de cozinha e de galões contendo água mineral, desde que com o auxílio de side-car, nos termos de regulamentação do Contran.        (Incluído pela Lei nº 12.009, de 2009)
+§ 2o É proibido o transporte de combustíveis, produtos inflamáveis ou tóxicos e de galões nos veículos de que trata este artigo, com exceção do gás de cozinha e de galões contendo água mineral, desde que com o auxílio de side-car, nos termos de regulamentação do Contran. (Incluído pela Lei nº 12.009, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.009, de 2009; revogação — Medida Provisória nº 1.360, de 2026.
 
@@ -6071,7 +6071,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIII-A — DA CONDUÇÃO DE MOTO-FRETE
 
-Art. 139-B.  O disposto neste Capítulo não exclui a competência municipal ou estadual de aplicar as exigências previstas em seus regulamentos para as atividades de moto-frete no âmbito de suas circunscrições.          (Incluído pela Lei nº 12.009, de 2009)
+Art. 139-B. O disposto neste Capítulo não exclui a competência municipal ou estadual de aplicar as exigências previstas em seus regulamentos para as atividades de moto-frete no âmbito de suas circunscrições. (Incluído pela Lei nº 12.009, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.009, de 2009.
 
@@ -6100,7 +6100,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 140. A habilitação para conduzir veículo automotor será apurada por meio de exames que deverão ser realizados no órgão ou entidade executivos do Estado ou do Distrito Federal, do domicílio ou residência do candidato, ou na sede estadual ou distrital do próprio órgão, e o condutor deverá preencher os seguintes requisitos:      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 140. A habilitação para conduzir veículo automotor será apurada por meio de exames que deverão ser realizados no órgão ou entidade executivos do Estado ou do Distrito Federal, do domicílio ou residência do candidato, ou na sede estadual ou distrital do próprio órgão, e o condutor deverá preencher os seguintes requisitos: (Redação dada pela Lei nº 14.599, de 2023)
 
 I - ser penalmente imputável;
 
@@ -6138,11 +6138,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 141. O processo de habilitação e as normas relativas à aprendizagem para conduzir veículos automotores e à autorização para conduzir ciclomotores serão regulamentados pelo Contran.     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 141. O processo de habilitação e as normas relativas à aprendizagem para conduzir veículos automotores e à autorização para conduzir ciclomotores serão regulamentados pelo Contran. (Redação dada pela Lei nº 14.599, de 2023)
 
 § 1º A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo dos Municípios.
 
-§ 2º  (VETADO)
+§ 2º (VETADO)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -6205,21 +6205,21 @@ I - Categoria A - condutor de veículo motorizado de duas ou três rodas, com ou
 
 II - Categoria B - condutor de veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a três mil e quinhentos quilogramas e cuja lotação não exceda a oito lugares, excluído o do motorista;
 
-III - Categoria C - condutor de veículo abrangido pela categoria B e de veículo motorizado utilizado em transporte de carga cujo peso bruto total exceda a 3.500 kg (três mil e quinhentos quilogramas);    (Redação dada pela Lei nº 14.440, de 2022)
+III - Categoria C - condutor de veículo abrangido pela categoria B e de veículo motorizado utilizado em transporte de carga cujo peso bruto total exceda a 3.500 kg (três mil e quinhentos quilogramas); (Redação dada pela Lei nº 14.440, de 2022)
 
-IV - Categoria D - condutor de veículo abrangido pelas categorias B e C e de veículo motorizado utilizado no transporte de passageiros cuja lotação exceda a 8 (oito) lugares, excluído o do motorista;       (Redação dada pela Lei nº 14.440, de 2022)
+IV - Categoria D - condutor de veículo abrangido pelas categorias B e C e de veículo motorizado utilizado no transporte de passageiros cuja lotação exceda a 8 (oito) lugares, excluído o do motorista; (Redação dada pela Lei nº 14.440, de 2022)
 
-V - Categoria E - condutor de combinação de veículos em que a unidade tratora se enquadre nas categorias B, C ou D e cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha 6.000 kg (seis mil quilogramas) ou mais de peso bruto total, ou cuja lotação exceda a 8 (oito) lugares.        (Redação dada pela Lei nº 12.452, de 2011)
+V - Categoria E - condutor de combinação de veículos em que a unidade tratora se enquadre nas categorias B, C ou D e cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha 6.000 kg (seis mil quilogramas) ou mais de peso bruto total, ou cuja lotação exceda a 8 (oito) lugares. (Redação dada pela Lei nº 12.452, de 2011)
 
-§ 1º Para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há 1 (um) ano na categoria B e não ter cometido mais de uma infração gravíssima nos últimos 12 (doze) meses.    (Redação dada pela Lei nº 14.440, de 2022)
+§ 1º Para habilitar-se na categoria C, o condutor deverá estar habilitado no mínimo há 1 (um) ano na categoria B e não ter cometido mais de uma infração gravíssima nos últimos 12 (doze) meses. (Redação dada pela Lei nº 14.440, de 2022)
 
-§ 2o  São os condutores da categoria B autorizados a conduzir veículo automotor da espécie motor-casa, definida nos termos do Anexo I deste Código, cujo peso não exceda a 6.000 kg (seis mil quilogramas), ou cuja lotação não exceda a 8 (oito) lugares, excluído o do motorista.           (Incluído pela Lei nº 12.452, de 2011)
+§ 2o São os condutores da categoria B autorizados a conduzir veículo automotor da espécie motor-casa, definida nos termos do Anexo I deste Código, cujo peso não exceda a 6.000 kg (seis mil quilogramas), ou cuja lotação não exceda a 8 (oito) lugares, excluído o do motorista. (Incluído pela Lei nº 12.452, de 2011)
 
-§ 2º-A. São os condutores da categoria B autorizados a conduzir veículo a motor de propulsão elétrica ou híbrida com tração predominantemente elétrica com peso bruto total de até 4.250 kg (quatro mil, duzentos e cinquenta quilogramas), observados eventuais critérios adicionais dispostos em regulamento do Contran.      (Incluído pela Lei nº 15.503, de 2026)
+§ 2º-A. São os condutores da categoria B autorizados a conduzir veículo a motor de propulsão elétrica ou híbrida com tração predominantemente elétrica com peso bruto total de até 4.250 kg (quatro mil, duzentos e cinquenta quilogramas), observados eventuais critérios adicionais dispostos em regulamento do Contran. (Incluído pela Lei nº 15.503, de 2026)
 
-§ 3º Aplica-se o disposto no inciso V ao condutor da combinação de veículos com mais de uma unidade tracionada, independentemente da capacidade de tração ou do peso bruto total.         (Renumerado pela Lei nº 12.452, de 2011)
+§ 3º Aplica-se o disposto no inciso V ao condutor da combinação de veículos com mais de uma unidade tracionada, independentemente da capacidade de tração ou do peso bruto total. (Renumerado pela Lei nº 12.452, de 2011)
 
-§ 4º Respeitada a capacidade máxima de tração da unidade tratora, os condutores das categorias B, C e D podem conduzir combinação de veículos cuja unidade tratora se enquadre na respectiva categoria de habilitação e cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha menos de 6.000 kg (seis mil quilogramas) de peso bruto total, e cuja lotação não exceda a 8 (oito) lugares.     (Incluído pela Lei nº 14.440, de 2022)
+§ 4º Respeitada a capacidade máxima de tração da unidade tratora, os condutores das categorias B, C e D podem conduzir combinação de veículos cuja unidade tratora se enquadre na respectiva categoria de habilitação e cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha menos de 6.000 kg (seis mil quilogramas) de peso bruto total, e cuja lotação não exceda a 8 (oito) lugares. (Incluído pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.440, de 2022; redação — Lei nº 12.452, de 2011; inclusão — Lei nº 12.452, de 2011; inclusão — Lei nº 15.503, de 2026; renumeração — Lei nº 12.452, de 2011; inclusão — Lei nº 14.440, de 2022.
 
@@ -6252,7 +6252,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 144. O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplenagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado nas categorias C, D ou E.
 
-Parágrafo único.  O trator de roda e os equipamentos automotores destinados a executar trabalhos agrícolas poderão ser conduzidos em via pública também por condutor habilitado na categoria B.          (Incluído pela Lei nº 13.097, de 2015)
+Parágrafo único. O trator de roda e os equipamentos automotores destinados a executar trabalhos agrícolas poderão ser conduzidos em via pública também por condutor habilitado na categoria B. (Incluído pela Lei nº 13.097, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.097, de 2015.
 
@@ -6292,13 +6292,13 @@ a) no mínimo há dois anos na categoria B, ou no mínimo há um ano na categori
 
 b) no mínimo há um ano na categoria C, quando pretender habilitar-se na categoria E;
 
-III - não ter cometido mais de uma infração gravíssima nos últimos 12 (doze) meses;         (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+III - não ter cometido mais de uma infração gravíssima nos últimos 12 (doze) meses; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 IV - ser aprovado em curso especializado e em curso de treinamento de prática veicular em situação de risco, nos termos da normatização do CONTRAN.
 
-Parágrafo único.  A participação em curso especializado previsto no inciso IV independe da observância do disposto no inciso III.          (Incluído pela Lei nº 12.619, de 2012)     (Vigência)
+Parágrafo único. A participação em curso especializado previsto no inciso IV independe da observância do disposto no inciso III. (Incluído pela Lei nº 12.619, de 2012) (Vigência)
 
-§ 2o (VETADO).          (Incluído pela Lei nº 13.154, de 2015)
+§ 2o (VETADO). (Incluído pela Lei nº 13.154, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 12.619, de 2012; inclusão — Lei nº 13.154, de 2015.
 
@@ -6329,7 +6329,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 145-A.  Além do disposto no art. 145, para conduzir ambulâncias, o candidato deverá comprovar treinamento especializado e reciclagem em cursos específicos a cada 5 (cinco) anos, nos termos da normatização do Contran.    (Incluído pela Lei nº 12.998, de 2014)
+Art. 145-A. Além do disposto no art. 145, para conduzir ambulâncias, o candidato deverá comprovar treinamento especializado e reciclagem em cursos específicos a cada 5 (cinco) anos, nos termos da normatização do Contran. (Incluído pela Lei nº 12.998, de 2014)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.998, de 2014.
 
@@ -6387,11 +6387,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 147.  O candidato à habilitação deverá submeter-se a exames realizados pelo órgão executivo de trânsito, na ordem descrita a seguir, e os exames de aptidão física e mental e a avaliação psicológica deverão ser realizados por médicos e psicólogos peritos examinadores, respectivamente, com titulação de especialista em medicina do tráfego e em psicologia do trânsito, conferida pelo respectivo conselho profissional, conforme regulamentação do Contran:     (Redação dada pela Lei nº 14.071, de 2020)  (Vigência)     (Parte promulgada pelo Congresso Nacional)       (Vide Lei nº 14.071, de 2020)
+Art. 147. O candidato à habilitação deverá submeter-se a exames realizados pelo órgão executivo de trânsito, na ordem descrita a seguir, e os exames de aptidão física e mental e a avaliação psicológica deverão ser realizados por médicos e psicólogos peritos examinadores, respectivamente, com titulação de especialista em medicina do tráfego e em psicologia do trânsito, conferida pelo respectivo conselho profissional, conforme regulamentação do Contran: (Redação dada pela Lei nº 14.071, de 2020) (Vigência) (Parte promulgada pelo Congresso Nacional) (Vide Lei nº 14.071, de 2020)
 
 I - de aptidão física e mental;
 
-II -  (VETADO)
+II - (VETADO)
 
 III - escrito, sobre legislação de trânsito;
 
@@ -6399,7 +6399,7 @@ IV - de noções de primeiros socorros, conforme regulamentação do CONTRAN;
 
 V - de direção veicular, realizado na via pública, em veículo da categoria para a qual estiver habilitando-se.
 
-§ 1º  Os resultados dos exames e a identificação dos respectivos examinadores serão registrados no RENACH.      (Renumerado do parágrafo único, pela Lei nº 9.602, de 1998)
+§ 1º Os resultados dos exames e a identificação dos respectivos examinadores serão registrados no RENACH. (Renumerado do parágrafo único, pela Lei nº 9.602, de 1998)
 
 § 1º-A.
 
@@ -6407,23 +6407,23 @@ I -
 
 II -
 
-§ 2º  O exame de aptidão física e mental, a ser realizado no local de residência ou domicílio do examinado, será preliminar e renovável com a seguinte periodicidade:        (Redação dada pela Lei nº 14.071, de 2020)  (Vigência)
+§ 2º O exame de aptidão física e mental, a ser realizado no local de residência ou domicílio do examinado, será preliminar e renovável com a seguinte periodicidade: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-I - a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos;        (Incluído pela Lei nº 14.071, de 2020)   (Vigência)
+I - a cada 10 (dez) anos, para condutores com idade inferior a 50 (cinquenta) anos; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-II - a cada 5 (cinco) anos, para condutores com idade igual ou superior a 50 (cinquenta) anos e inferior a 70 (setenta) anos;        (Incluído pela Lei nº 14.071, de 2020)   (Vigência)
+II - a cada 5 (cinco) anos, para condutores com idade igual ou superior a 50 (cinquenta) anos e inferior a 70 (setenta) anos; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-III - a cada 3 (três) anos, para condutores com idade igual ou superior a 70 (setenta) anos.       (Incluído pela Lei nº 14.071, de 2020)   (Vigência)
+III - a cada 3 (três) anos, para condutores com idade igual ou superior a 70 (setenta) anos. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3o O exame previsto no § 2o incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que exerce atividade remunerada ao veículo, incluindo-se esta avaliação para os demais candidatos apenas no exame referente à primeira habilitação.          (Redação dada pela Lei nº 10.350, de 2001)
+§ 3o O exame previsto no § 2o incluirá avaliação psicológica preliminar e complementar sempre que a ele se submeter o condutor que exerce atividade remunerada ao veículo, incluindo-se esta avaliação para os demais candidatos apenas no exame referente à primeira habilitação. (Redação dada pela Lei nº 10.350, de 2001)
 
-§ 4º  Quando houver indícios de deficiência física ou mental, ou de progressividade de doença que possa diminuir a capacidade para conduzir o veículo, os prazos previstos nos incisos I, II e III do § 2º deste artigo poderão ser diminuídos por proposta do perito examinador.         (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 4º Quando houver indícios de deficiência física ou mental, ou de progressividade de doença que possa diminuir a capacidade para conduzir o veículo, os prazos previstos nos incisos I, II e III do § 2º deste artigo poderão ser diminuídos por proposta do perito examinador. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 5o O condutor que exerce atividade remunerada ao veículo terá essa informação incluída na sua Carteira Nacional de Habilitação, conforme especificações do Conselho Nacional de Trânsito – Contran.        (Incluído pela Lei nº 10.350, de 2001)
+§ 5o O condutor que exerce atividade remunerada ao veículo terá essa informação incluída na sua Carteira Nacional de Habilitação, conforme especificações do Conselho Nacional de Trânsito – Contran. (Incluído pela Lei nº 10.350, de 2001)
 
-§ 6º  (Revogado pela Lei nº 15.428, de 2026)
+§ 6º (Revogado pela Lei nº 15.428, de 2026)
 
-§ 7º  (Revogado pela Lei nº 15.428, de 2026)
+§ 7º (Revogado pela Lei nº 15.428, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; renumeração — Lei nº 9.602, de 1998; inclusão — Lei nº 14.071, de 2020; redação — Lei nº 10.350, de 2001; inclusão — Lei nº 10.350, de 2001; revogação — Lei nº 15.428, de 2026.
 
@@ -6456,11 +6456,11 @@ Os exames de habilitação seguem a ordem: aptidão física e mental, legislaç�
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 147-A.  Ao candidato com deficiência auditiva é assegurada acessibilidade de comunicação, mediante emprego de tecnologias assistivas ou de ajudas técnicas em todas as etapas do processo de habilitação.   (Incluído pela Lei nº 13.146, de 2015)   (Vigência)
+Art. 147-A. Ao candidato com deficiência auditiva é assegurada acessibilidade de comunicação, mediante emprego de tecnologias assistivas ou de ajudas técnicas em todas as etapas do processo de habilitação. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
-§ 1o  O material didático audiovisual utilizado em aulas teóricas dos cursos que precedem os exames previstos no art. 147 desta Lei deve ser acessível, por meio de subtitulação com legenda oculta associada à tradução simultânea em Libras. (Incluído pela Lei nº 13.146, de 2015)   (Vigência)
+§ 1o O material didático audiovisual utilizado em aulas teóricas dos cursos que precedem os exames previstos no art. 147 desta Lei deve ser acessível, por meio de subtitulação com legenda oculta associada à tradução simultânea em Libras. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
-§ 2o  É assegurado também ao candidato com deficiência auditiva requerer, no ato de sua inscrição, os serviços de intérprete da Libras, para acompanhamento em aulas práticas e teóricas. (Incluído pela Lei nº 13.146, de 2015)   (Vigência)
+§ 2o É assegurado também ao candidato com deficiência auditiva requerer, no ato de sua inscrição, os serviços de intérprete da Libras, para acompanhamento em aulas práticas e teóricas. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.146, de 2015.
 
@@ -6502,11 +6502,11 @@ Art. 148. Os exames de habilitação, exceto os de direção veicular, poderão 
 
 § 4º A não obtenção da Carteira Nacional de Habilitação, tendo em vista a incapacidade de atendimento do disposto no parágrafo anterior, obriga o candidato a reiniciar todo o processo de habilitação.
 
-§ 5º O Conselho Nacional de Trânsito - CONTRAN poderá dispensar os tripulantes de aeronaves que apresentarem o cartão de saúde expedido pelas Forças Armadas ou pelo Departamento de Aeronáutica Civil, respectivamente, da prestação do exame de aptidão física e mental.         (Incluído pela Lei nº 9.602, de 1998)
+§ 5º O Conselho Nacional de Trânsito - CONTRAN poderá dispensar os tripulantes de aeronaves que apresentarem o cartão de saúde expedido pelas Forças Armadas ou pelo Departamento de Aeronáutica Civil, respectivamente, da prestação do exame de aptidão física e mental. (Incluído pela Lei nº 9.602, de 1998)
 
-§ 6º Os exames de aptidão física e mental e a avaliação psicológica serão realizados, respectivamente, por médicos e psicólogos peritos examinadores, autorizados pelo órgão máximo executivo de trânsito da União, com titulação de especialista em medicina do tráfego e em psicologia do trânsito conferida pelo respectivo conselho profissional, nos termos de regulação do Contran.     (Incluído pela Lei nº 15.428, de 2026)
+§ 6º Os exames de aptidão física e mental e a avaliação psicológica serão realizados, respectivamente, por médicos e psicólogos peritos examinadores, autorizados pelo órgão máximo executivo de trânsito da União, com titulação de especialista em medicina do tráfego e em psicologia do trânsito conferida pelo respectivo conselho profissional, nos termos de regulação do Contran. (Incluído pela Lei nº 15.428, de 2026)
 
-§ 7º Os valores correspondentes à realização dos exames de aptidão física e mental e da avaliação psicológica observarão preço público fixado pelo órgão máximo executivo de trânsito da União, conforme regulamentação do Contran, e serão atualizados anualmente pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou por outro índice oficial que venha a substituí-lo.     (Incluído pela Lei nº 15.428, de 2026)
+§ 7º Os valores correspondentes à realização dos exames de aptidão física e mental e da avaliação psicológica observarão preço público fixado pelo órgão máximo executivo de trânsito da União, conforme regulamentação do Contran, e serão atualizados anualmente pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA) ou por outro índice oficial que venha a substituí-lo. (Incluído pela Lei nº 15.428, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 9.602, de 1998; inclusão — Lei nº 15.428, de 2026.
 
@@ -6537,43 +6537,43 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 148-A.  Os condutores das categorias C, D e E deverão comprovar resultado negativo em exame toxicológico para a obtenção e a renovação da Carteira Nacional de Habilitação.       (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)    (Vide Lei nº 14.599, de 2023)
+Art. 148-A. Os condutores das categorias C, D e E deverão comprovar resultado negativo em exame toxicológico para a obtenção e a renovação da Carteira Nacional de Habilitação. (Redação dada pela Lei nº 14.071, de 2020) (Vigência) (Vide Lei nº 14.599, de 2023)
 
-§ 1o  O exame de que trata este artigo buscará aferir o consumo de substâncias psicoativas que, comprovadamente, comprometam a capacidade de direção e deverá ter janela de detecção mínima de 90 (noventa) dias, nos termos das normas do Contran.          (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+§ 1o O exame de que trata este artigo buscará aferir o consumo de substâncias psicoativas que, comprovadamente, comprometam a capacidade de direção e deverá ter janela de detecção mínima de 90 (noventa) dias, nos termos das normas do Contran. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 2º  Além da realização do exame previsto no caput deste artigo, os condutores das categorias C, D e E com idade inferior a 70 (setenta) anos serão submetidos a novo exame a cada período de 2 (dois) anos e 6 (seis) meses, a partir da obtenção ou renovação da Carteira Nacional de Habilitação, independentemente da validade dos demais exames de que trata o inciso I do caput do art. 147 deste Código.       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 2º Além da realização do exame previsto no caput deste artigo, os condutores das categorias C, D e E com idade inferior a 70 (setenta) anos serão submetidos a novo exame a cada período de 2 (dois) anos e 6 (seis) meses, a partir da obtenção ou renovação da Carteira Nacional de Habilitação, independentemente da validade dos demais exames de que trata o inciso I do caput do art. 147 deste Código. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3º  (Revogado).      (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 3º (Revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 4º  É garantido o direito de contraprova e de recurso administrativo, sem efeito suspensivo, no caso de resultado positivo para os exames de que trata este artigo, nos termos das normas do Contran.    (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 4º É garantido o direito de contraprova e de recurso administrativo, sem efeito suspensivo, no caso de resultado positivo para os exames de que trata este artigo, nos termos das normas do Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 5º O resultado positivo no exame previsto no § 2º deste artigo acarretará ao condutor:      (Redação dada pela Lei nº 14.599, de 2023)
+§ 5º O resultado positivo no exame previsto no § 2º deste artigo acarretará ao condutor: (Redação dada pela Lei nº 14.599, de 2023)
 
-I - (VETADO); e       (Incluído pela Lei nº 14.599, de 2023)
+I - (VETADO); e (Incluído pela Lei nº 14.599, de 2023)
 
-II - a suspensão do direito de dirigir pelo período de 3 (três) meses, condicionado o levantamento da suspensão à inclusão no Renach de resultado negativo em novo exame, vedada a aplicação de outras penalidades, ainda que acessórias.    (Incluído pela Lei nº 14.599, de 2023)
+II - a suspensão do direito de dirigir pelo período de 3 (três) meses, condicionado o levantamento da suspensão à inclusão no Renach de resultado negativo em novo exame, vedada a aplicação de outras penalidades, ainda que acessórias. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 6o  O resultado do exame somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao disposto neste artigo ou no § 6o do art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943.           (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+§ 6o O resultado do exame somente será divulgado para o interessado e não poderá ser utilizado para fins estranhos ao disposto neste artigo ou no § 6o do art. 168 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei no 5.452, de 1o de maio de 1943. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 7º O exame será realizado, em regime de livre concorrência, pelos laboratórios credenciados pelo órgão máximo executivo de trânsito da União, nos termos das normas do Contran, vedado aos entes públicos:   (Redação dada pela Lei nº 14.440, de 2022)
+§ 7º O exame será realizado, em regime de livre concorrência, pelos laboratórios credenciados pelo órgão máximo executivo de trânsito da União, nos termos das normas do Contran, vedado aos entes públicos: (Redação dada pela Lei nº 14.440, de 2022)
 
-I - fixar preços para os exames;         (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+I - fixar preços para os exames; (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-II - limitar o número de empresas ou o número de locais em que a atividade pode ser exercida; e            (Incluído pela Lei nº 13.103, de 2015) (Vigência)
+II - limitar o número de empresas ou o número de locais em que a atividade pode ser exercida; e (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-III - estabelecer regras de exclusividade territorial.            (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+III - estabelecer regras de exclusividade territorial. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 8º A não realização do exame previsto neste artigo acarretará ao condutor:     (Incluído pela Lei nº 14.599, de 2023)
+§ 8º A não realização do exame previsto neste artigo acarretará ao condutor: (Incluído pela Lei nº 14.599, de 2023)
 
-I - nos casos de que trata o caput deste artigo, o impedimento de obter ou de renovar a Carteira Nacional de Habilitação até que seja realizado o exame com resultado negativo e a aplicação das sanções previstas no art. 165-B deste Código; e     (Incluído pela Lei nº 14.599, de 2023)
+I - nos casos de que trata o caput deste artigo, o impedimento de obter ou de renovar a Carteira Nacional de Habilitação até que seja realizado o exame com resultado negativo e a aplicação das sanções previstas no art. 165-B deste Código; e (Incluído pela Lei nº 14.599, de 2023)
 
-II - no caso do § 2º, a aplicação das sanções previstas no § 5º deste artigo e nos arts. 165-B e 165-D deste Código, conforme a irregularidade verificada.      (Incluído pela Lei nº 14.599, de 2023)
+II - no caso do § 2º, a aplicação das sanções previstas no § 5º deste artigo e nos arts. 165-B e 165-D deste Código, conforme a irregularidade verificada. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 9º Compete ao órgão máximo executivo de trânsito da União comunicar aos condutores, por meio do sistema de notificação eletrônica de que trata o art. 282-A deste Código, o vencimento do prazo para a realização do exame com 30 (trinta) dias de antecedência, bem como as penalidades decorrentes da sua não realização.      (Incluído pela Lei nº 14.599, de 2023)
+§ 9º Compete ao órgão máximo executivo de trânsito da União comunicar aos condutores, por meio do sistema de notificação eletrônica de que trata o art. 282-A deste Código, o vencimento do prazo para a realização do exame com 30 (trinta) dias de antecedência, bem como as penalidades decorrentes da sua não realização. (Incluído pela Lei nº 14.599, de 2023)
 
-§ 10. A exigência de comprovação de resultado negativo em exame toxicológico, prevista no caput deste artigo, aplica-se também como condição para a obtenção da primeira habilitação - permissão para dirigir - por condutores das categorias A e B.     (Incluído pela Lei nº 15.153, de 2025)    Vigência
+§ 10. A exigência de comprovação de resultado negativo em exame toxicológico, prevista no caput deste artigo, aplica-se também como condição para a obtenção da primeira habilitação - permissão para dirigir - por condutores das categorias A e B. (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-§ 11. As clínicas médicas onde forem realizados os exames de aptidão física e mental poderão agregar às suas instalações, em ambiente físico próprio e segregado, a atividade de posto de coleta laboratorial devidamente contratada por laboratório credenciado pelo órgão máximo executivo de trânsito da União para a realização do exame toxicológico previsto no caput deste artigo.      (Incluído pela Lei nº 15.153, de 2025)    Vigência
+§ 11. As clínicas médicas onde forem realizados os exames de aptidão física e mental poderão agregar às suas instalações, em ambiente físico próprio e segregado, a atividade de posto de coleta laboratorial devidamente contratada por laboratório credenciado pelo órgão máximo executivo de trânsito da União para a realização do exame toxicológico previsto no caput deste artigo. (Incluído pela Lei nº 15.153, de 2025) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 13.103, de 2015; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.599, de 2023; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 15.153, de 2025.
 
@@ -6614,7 +6614,7 @@ Condutores das categorias C, D e E devem apresentar exame toxicológico negativo
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 149.  (VETADO)
+Art. 149. (VETADO)
 
 #### Interpretação
 
@@ -6672,7 +6672,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 151.  (Revogado pela Lei nº 14.071, de 2020)      (Vigência)
+Art. 151. (Revogado pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 14.071, de 2020.
 
@@ -6702,15 +6702,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 152.  O exame de direção veicular será realizado perante comissão integrada por 3 (três) membros designados pelo dirigente do órgão executivo local de trânsito.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 152. O exame de direção veicular será realizado perante comissão integrada por 3 (três) membros designados pelo dirigente do órgão executivo local de trânsito. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 § 1º Na comissão de exame de direção veicular, pelo menos um membro deverá ser habilitado na categoria igual ou superior à pretendida pelo candidato.
 
-§ 2º  Os militares das Forças Armadas e os policiais e bombeiros dos órgãos de segurança pública da União, dos Estados e do Distrito Federal que possuírem curso de formação de condutor ministrado em suas corporações serão dispensados, para a concessão do documento de habilitação, dos exames aos quais se houverem submetido com aprovação naquele curso, desde que neles sejam observadas as normas estabelecidas pelo Contran.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 2º Os militares das Forças Armadas e os policiais e bombeiros dos órgãos de segurança pública da União, dos Estados e do Distrito Federal que possuírem curso de formação de condutor ministrado em suas corporações serão dispensados, para a concessão do documento de habilitação, dos exames aos quais se houverem submetido com aprovação naquele curso, desde que neles sejam observadas as normas estabelecidas pelo Contran. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 3º  O militar, o policial ou o bombeiro militar interessado na dispensa de que trata o § 2º instruirá seu requerimento com ofício do comandante, chefe ou diretor da unidade administrativa onde prestar serviço, do qual constarão o número do registro de identificação, naturalidade, nome, filiação, idade e categoria em que se habilitou a conduzir, acompanhado de cópia das atas dos exames prestados.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º O militar, o policial ou o bombeiro militar interessado na dispensa de que trata o § 2º instruirá seu requerimento com ofício do comandante, chefe ou diretor da unidade administrativa onde prestar serviço, do qual constarão o número do registro de identificação, naturalidade, nome, filiação, idade e categoria em que se habilitou a conduzir, acompanhado de cópia das atas dos exames prestados. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 4º  (VETADO)
+§ 4º (VETADO)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.281, de 2016.
 
@@ -6772,15 +6772,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 154. Os veículos destinados à formação de condutores serão identificados por uma faixa amarela, de vinte centímetros de largura, pintada ao longo da carroçaria, à meia altura, com a inscrição AUTO-ESCOLA na cor preta.
 
-§ 1º No veículo eventualmente utilizado para aprendizagem, quando autorizado para servir a esse fim, deverá ser afixada ao longo de sua carroçaria, à meia altura, faixa branca removível, de vinte centímetros de largura, com a inscrição AUTO-ESCOLA na cor preta.   (Incluído pela Lei nº 14.921, de 2024)
+§ 1º No veículo eventualmente utilizado para aprendizagem, quando autorizado para servir a esse fim, deverá ser afixada ao longo de sua carroçaria, à meia altura, faixa branca removível, de vinte centímetros de largura, com a inscrição AUTO-ESCOLA na cor preta. (Incluído pela Lei nº 14.921, de 2024)
 
-§ 2º As idades máximas dos veículos destinados à formação de condutores nas categorias de habilitação de que trata o art. 143, não computado o ano de fabricação, serão de:     (Incluído pela Lei nº 14.921, de 2024)
+§ 2º As idades máximas dos veículos destinados à formação de condutores nas categorias de habilitação de que trata o art. 143, não computado o ano de fabricação, serão de: (Incluído pela Lei nº 14.921, de 2024)
 
-I - 8 (oito) anos, para a categoria A;     (Incluído pela Lei nº 14.921, de 2024)
+I - 8 (oito) anos, para a categoria A; (Incluído pela Lei nº 14.921, de 2024)
 
-II - 12 (doze) anos, para a categoria B;     (Incluído pela Lei nº 14.921, de 2024)
+II - 12 (doze) anos, para a categoria B; (Incluído pela Lei nº 14.921, de 2024)
 
-III - 20 (vinte) anos, para as categorias C, D e E.     (Incluído pela Lei nº 14.921, de 2024)
+III - 20 (vinte) anos, para as categorias C, D e E. (Incluído pela Lei nº 14.921, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.921, de 2024.
 
@@ -6812,9 +6812,9 @@ Veículos de autoescola têm faixa amarela com AUTO-ESCOLA; veículos eventualme
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 155. A formação de condutor de veículo automotor será realizada por instrutor autorizado pelo órgão executivo de trânsito dos Estados ou do Distrito Federal, pertencente ou não à entidade credenciada.     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 155. A formação de condutor de veículo automotor será realizada por instrutor autorizado pelo órgão executivo de trânsito dos Estados ou do Distrito Federal, pertencente ou não à entidade credenciada. (Redação dada pela Lei nº 14.599, de 2023)
 
-Parágrafo único. Ao aprendiz será expedida autorização para aprendizagem, de acordo com a regulamentação do CONTRAN, após aprovação nos exames de aptidão física, mental, de primeiros socorros e sobre legislação de trânsito.        (Incluído pela Lei nº 9.602, de 1998)
+Parágrafo único. Ao aprendiz será expedida autorização para aprendizagem, de acordo com a regulamentação do CONTRAN, após aprovação nos exames de aptidão física, mental, de primeiros socorros e sobre legislação de trânsito. (Incluído pela Lei nº 9.602, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 9.602, de 1998.
 
@@ -6871,7 +6871,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 157.  (VETADO)
+Art. 157. (VETADO)
 
 #### Interpretação
 
@@ -6905,9 +6905,9 @@ I - nos termos, horários e locais estabelecidos pelo órgão executivo de trân
 
 II - acompanhado o aprendiz por instrutor autorizado.
 
-§ 1º Além do aprendiz e do instrutor, o veículo utilizado na aprendizagem poderá conduzir apenas mais um acompanhante.       (Renumerado do parágrafo único pela Lei nº 12.217, de 2010).
+§ 1º Além do aprendiz e do instrutor, o veículo utilizado na aprendizagem poderá conduzir apenas mais um acompanhante. (Renumerado do parágrafo único pela Lei nº 12.217, de 2010).
 
-§ 2o   (Revogado pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2o (Revogado pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei nº 12.217, de 2010; revogação — Lei nº 14.071, de 2020.
 
@@ -6937,23 +6937,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIV — DA HABILITAÇÃO
 
-Art. 159. A Carteira Nacional de Habilitação:      (Redação dada pela Lei nº 15.428, de 2026)
+Art. 159. A Carteira Nacional de Habilitação: (Redação dada pela Lei nº 15.428, de 2026)
 
-I - poderá ser emitida em meio físico ou digital, a critério do candidato ou do condutor;      (Incluído pela Lei nº 15.428, de 2026)
+I - poderá ser emitida em meio físico ou digital, a critério do candidato ou do condutor; (Incluído pela Lei nº 15.428, de 2026)
 
-II - deverá conter fotografia, nome, número de inscrição no Cadastro de Pessoas Físicas (CPF) e demais requisitos estabelecidos pelo Contran; e       (Incluído pela Lei nº 15.428, de 2026)
+II - deverá conter fotografia, nome, número de inscrição no Cadastro de Pessoas Físicas (CPF) e demais requisitos estabelecidos pelo Contran; e (Incluído pela Lei nº 15.428, de 2026)
 
-III - terá fé pública e equivalerá a documento de identidade no território nacional.       (Incluído pela Lei nº 15.428, de 2026)
+III - terá fé pública e equivalerá a documento de identidade no território nacional. (Incluído pela Lei nº 15.428, de 2026)
 
 § 1º É obrigatório o porte da Permissão para Dirigir ou da Carteira Nacional de Habilitação quando o condutor estiver à direção do veículo.
 
-§ 1º-A  O porte do documento de habilitação será dispensado quando, no momento da fiscalização, for possível ter acesso ao sistema informatizado para verificar se o condutor está habilitado.     (Incluído pela Lei nº 14.071, de 2020)       (Vigência)
+§ 1º-A O porte do documento de habilitação será dispensado quando, no momento da fiscalização, for possível ter acesso ao sistema informatizado para verificar se o condutor está habilitado. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  (VETADO)
+§ 2º (VETADO)
 
 § 3º A emissão de nova via da Carteira Nacional de Habilitação será regulamentada pelo CONTRAN.
 
-§ 4º  (VETADO)
+§ 4º (VETADO)
 
 § 5º A Carteira Nacional de Habilitação e a Permissão para Dirigir somente terão validade para a condução de veículo quando apresentada em original.
 
@@ -6963,13 +6963,13 @@ III - terá fé pública e equivalerá a documento de identidade no território 
 
 § 8º A renovação da validade da Carteira Nacional de Habilitação ou a emissão de uma nova via somente será realizada após quitação de débitos constantes do prontuário do condutor.
 
-§ 9º  (VETADO)
+§ 9º (VETADO)
 
-§ 10. A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental.          (Incluído pela Lei nº 9.602, de 1998)
+§ 10. A validade da Carteira Nacional de Habilitação está condicionada ao prazo de vigência do exame de aptidão física e mental. (Incluído pela Lei nº 9.602, de 1998)
 
-§ 11. (Revogado).         (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+§ 11. (Revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 12.  Os órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal enviarão por meio eletrônico, com 30 (trinta) dias de antecedência, aviso de vencimento da validade da Carteira Nacional de Habilitação a todos os condutores cadastrados no Renach com endereço na respectiva unidade da Federação.        (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+§ 12. Os órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal enviarão por meio eletrônico, com 30 (trinta) dias de antecedência, aviso de vencimento da validade da Carteira Nacional de Habilitação a todos os condutores cadastrados no Renach com endereço na respectiva unidade da Federação. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.428, de 2026; inclusão — Lei nº 15.428, de 2026; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 9.602, de 1998; redação — Lei nº 14.071, de 2020.
 
@@ -7002,7 +7002,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 160. O condutor condenado por delito de trânsito deverá ser submetido a novos exames para que possa voltar a dirigir, de acordo com as normas estabelecidas pelo CONTRAN, independentemente do reconhecimento da prescrição, em face da pena concretizada na sentença.
 
-§ 1º Em caso de sinistro grave, o condutor nele envolvido poderá ser submetido aos exames exigidos neste artigo, a juízo da autoridade executiva estadual de trânsito, assegurada ampla defesa ao condutor.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 1º Em caso de sinistro grave, o condutor nele envolvido poderá ser submetido aos exames exigidos neste artigo, a juízo da autoridade executiva estadual de trânsito, assegurada ampla defesa ao condutor. (Redação dada pela Lei nº 14.599, de 2023)
 
 § 2º No caso do parágrafo anterior, a autoridade executiva estadual de trânsito poderá apreender o documento de habilitação do condutor até a sua aprovação nos exames realizados.
 
@@ -7034,9 +7034,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 161.  Constitui infração de trânsito a inobservância de qualquer preceito deste Código ou da legislação complementar, e o infrator sujeita-se às penalidades e às medidas administrativas indicadas em cada artigo deste Capítulo e às punições previstas no Capítulo XIX deste Código.         (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+Art. 161. Constitui infração de trânsito a inobservância de qualquer preceito deste Código ou da legislação complementar, e o infrator sujeita-se às penalidades e às medidas administrativas indicadas em cada artigo deste Capítulo e às punições previstas no Capítulo XIX deste Código. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. (Revogado).         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Parágrafo único. (Revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -7068,39 +7068,39 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 162. Dirigir veículo:
 
-I - sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+I - sem possuir Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Infração - gravíssima;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Penalidade - multa (três vezes);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Penalidade - multa (três vezes); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Medida administrativa - retenção do veículo até a apresentação de condutor habilitado;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Medida administrativa - retenção do veículo até a apresentação de condutor habilitado; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-II - com Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor cassada ou com suspensão do direito de dirigir:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+II - com Carteira Nacional de Habilitação, Permissão para Dirigir ou Autorização para Conduzir Ciclomotor cassada ou com suspensão do direito de dirigir: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Infração - gravíssima;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Penalidade - multa (três vezes);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Penalidade - multa (três vezes); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Medida administrativa - recolhimento do documento de habilitação e retenção do veículo até a apresentação de condutor habilitado;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Medida administrativa - recolhimento do documento de habilitação e retenção do veículo até a apresentação de condutor habilitado; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-III - com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+III - com Carteira Nacional de Habilitação ou Permissão para Dirigir de categoria diferente da do veículo que esteja conduzindo: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Infração - gravíssima;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Penalidade - multa (duas vezes);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Penalidade - multa (duas vezes); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-Medida administrativa - retenção do veículo até a apresentação de condutor habilitado;          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Medida administrativa - retenção do veículo até a apresentação de condutor habilitado; (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-IV -  (VETADO)
+IV - (VETADO)
 
-V - com Carteira Nacional de Habilitação vencida há mais de 30 (trinta) dias:      (Redação dada pela Lei nº 14.440, de 2022)
+V - com Carteira Nacional de Habilitação vencida há mais de 30 (trinta) dias: (Redação dada pela Lei nº 14.440, de 2022)
 
-Infração - gravíssima;       (Redação dada pela Lei nº 14.440, de 2022)
+Infração - gravíssima; (Redação dada pela Lei nº 14.440, de 2022)
 
-Penalidade - multa;        (Redação dada pela Lei nº 14.440, de 2022)
+Penalidade - multa; (Redação dada pela Lei nº 14.440, de 2022)
 
-Medida administrativa - retenção do veículo até a apresentação de condutor habilitado;      (Redação dada pela Lei nº 14.440, de 2022)
+Medida administrativa - retenção do veículo até a apresentação de condutor habilitado; (Redação dada pela Lei nº 14.440, de 2022)
 
 VI - sem usar lentes corretoras de visão, aparelho auxiliar de audição, de prótese física ou as adaptações do veículo impostas por ocasião da concessão ou da renovação da licença para conduzir:
 
@@ -7110,13 +7110,13 @@ Penalidade - multa;
 
 Medida administrativa - retenção do veículo até o saneamento da irregularidade ou apresentação de condutor habilitado.
 
-VII - sem possuir os cursos especializados ou específicos obrigatórios:      (Incluído pela Lei nº 14.440, de 2022)
+VII - sem possuir os cursos especializados ou específicos obrigatórios: (Incluído pela Lei nº 14.440, de 2022)
 
-Infração - gravíssima;      (Incluído pela Lei nº 14.440, de 2022)
+Infração - gravíssima; (Incluído pela Lei nº 14.440, de 2022)
 
-Penalidade - multa;        (Incluído pela Lei nº 14.440, de 2022)
+Penalidade - multa; (Incluído pela Lei nº 14.440, de 2022)
 
-Medida administrativa - retenção do veículo até a apresentação de condutor habilitado.      (Incluído pela Lei nº 14.440, de 2022)
+Medida administrativa - retenção do veículo até a apresentação de condutor habilitado. (Incluído pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.281, de 2016; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 14.440, de 2022.
 
@@ -7215,15 +7215,15 @@ Permitir que pessoa nas condições do art. 162 tome posse do veículo e passe a
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 165.  Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência:       (Redação dada pela Lei nº 11.705, de 2008)
+Art. 165. Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência: (Redação dada pela Lei nº 11.705, de 2008)
 
-Infração - gravíssima;       (Redação dada pela Lei nº 11.705, de 2008)
+Infração - gravíssima; (Redação dada pela Lei nº 11.705, de 2008)
 
-Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses.         (Redação dada pela Lei nº 12.760, de 2012)
+Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses. (Redação dada pela Lei nº 12.760, de 2012)
 
-Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4o do art. 270 da Lei no 9.503, de 23 de setembro de 1997 - do Código de Trânsito Brasileiro.      (Redação dada pela Lei nº 12.760, de 2012)
+Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4o do art. 270 da Lei no 9.503, de 23 de setembro de 1997 - do Código de Trânsito Brasileiro. (Redação dada pela Lei nº 12.760, de 2012)
 
-Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses.         (Redação dada pela Lei nº 12.760, de 2012)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses. (Redação dada pela Lei nº 12.760, de 2012)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.705, de 2008; redação — Lei nº 12.760, de 2012.
 
@@ -7260,15 +7260,15 @@ Dirigir sob influência de álcool ou outra substância psicoativa é infração
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 165-A.  Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277:          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 165-A. Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277: (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Infração - gravíssima;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Infração - gravíssima; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Penalidade - multa (dez vezes) e suspensão do direito de dirigir por 12 (doze) meses; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Medida administrativa - recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016.
 
@@ -7301,13 +7301,13 @@ Recusar-se a fazer o teste do bafômetro, exame clínico ou perícia para verifi
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 165-B. Dirigir veículo sem realizar o exame toxicológico previsto no art. 148-A deste Código:       (Redação dada pela Lei nº 14.599, de 2023)    Produção de efeitos
+Art. 165-B. Dirigir veículo sem realizar o exame toxicológico previsto no art. 148-A deste Código: (Redação dada pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Infração - gravíssima;       (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Infração - gravíssima; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa (cinco vezes) e, em caso de reincidência no período de até 12 (doze) meses, multa (dez vezes) e suspensão do direito de dirigir.      (Redação dada pela Lei nº 14.599, de 2023)      Produção de efeitos
+Penalidade - multa (cinco vezes) e, em caso de reincidência no período de até 12 (doze) meses, multa (dez vezes) e suspensão do direito de dirigir. (Redação dada pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Parágrafo único. No caso de não cumprimento do disposto no § 2º do art. 148-A deste Código, configurar-se-á a infração quando o condutor dirigir veículo após o trigésimo dia do vencimento do prazo estabelecido.      (Redação dada pela Lei nº 14.599, de 2023)  Produção de efeitos
+Parágrafo único. No caso de não cumprimento do disposto no § 2º do art. 148-A deste Código, configurar-se-á a infração quando o condutor dirigir veículo após o trigésimo dia do vencimento do prazo estabelecido. (Redação dada pela Lei nº 14.599, de 2023) Produção de efeitos
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020.
 
@@ -7339,11 +7339,11 @@ Dirigir sem ter feito o exame toxicológico exigido para as categorias C, D e E 
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 165-C. Dirigir veículo tendo obtido resultado positivo no exame toxicológico previsto no caput do art. 148-A deste Código:        (Incluído pela Lei nº 14.599, de 2023)      Produção de efeitos
+Art. 165-C. Dirigir veículo tendo obtido resultado positivo no exame toxicológico previsto no caput do art. 148-A deste Código: (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Infração - gravíssima;       (Incluído pela Lei nº 14.599, de 2023)     Produção de efeitos
+Infração - gravíssima; (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Penalidade - multa (cinco vezes) e, em caso de reincidência no período de até 12 (doze) meses, multa (dez vezes) e suspensão do direito de dirigir.      (Incluído pela Lei nº 14.599, de 2023)    Produção de efeitos
+Penalidade - multa (cinco vezes) e, em caso de reincidência no período de até 12 (doze) meses, multa (dez vezes) e suspensão do direito de dirigir. (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -7374,13 +7374,13 @@ Dirigir após resultado positivo no exame toxicológico é infração gravíssim
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 165-D. Deixar de realizar o exame toxicológico previsto no § 2º do art. 148-A deste Código, após 30 (trinta) dias do vencimento do prazo estabelecido:  (Incluído pela Lei nº 14.599, de 2023)     Produção de efeitos
+Art. 165-D. Deixar de realizar o exame toxicológico previsto no § 2º do art. 148-A deste Código, após 30 (trinta) dias do vencimento do prazo estabelecido: (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Infração - gravíssima;     (Incluído pela Lei nº 14.599, de 2023)     Produção de efeitos
+Infração - gravíssima; (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Penalidade - multa (cinco vezes).      (Incluído pela Lei nº 14.599, de 2023)     Produção de efeitos
+Penalidade - multa (cinco vezes). (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
-Parágrafo único. A competência para aplicação da penalidade de que trata este artigo será do órgão ou entidade executivos de trânsito de registro da Carteira Nacional de Habilitação do infrator.     (Incluído pela Lei nº 14.599, de 2023)     Produção de efeitos
+Parágrafo único. A competência para aplicação da penalidade de que trata este artigo será do órgão ou entidade executivos de trânsito de registro da Carteira Nacional de Habilitação do infrator. (Incluído pela Lei nº 14.599, de 2023) Produção de efeitos
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -7637,15 +7637,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 173.  Disputar corrida:        (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Art. 173. Disputar corrida: (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Infração - gravíssima;
 
-Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo;         (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo; (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Medida administrativa - recolhimento do documento de habilitação e remoção do veículo.
 
-Parágrafo único.  Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior.        (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -7675,17 +7675,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 174.  Promover, na via, competição, eventos organizados, exibição e demonstração de perícia em manobra de veículo, ou deles participar, como condutor, sem permissão da autoridade de trânsito com circunscrição sobre a via:         (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Art. 174. Promover, na via, competição, eventos organizados, exibição e demonstração de perícia em manobra de veículo, ou deles participar, como condutor, sem permissão da autoridade de trânsito com circunscrição sobre a via: (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Infração - gravíssima;
 
-Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo;         (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo; (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Medida administrativa - recolhimento do documento de habilitação e remoção do veículo.
 
-§ 1o   As penalidades são aplicáveis aos promotores e aos condutores participantes.        (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+§ 1o As penalidades são aplicáveis aos promotores e aos condutores participantes. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-§ 2o  Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior.       (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+§ 2o Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -7715,15 +7715,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 175.  Utilizar-se de veículo para demonstrar ou exibir manobra perigosa, mediante arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus:          (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Art. 175. Utilizar-se de veículo para demonstrar ou exibir manobra perigosa, mediante arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus: (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Infração - gravíssima;
 
-Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo;          (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (dez vezes), suspensão do direito de dirigir e apreensão do veículo; (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 Medida administrativa - recolhimento do documento de habilitação e remoção do veículo.
 
-Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior.          (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -7753,7 +7753,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 176. Deixar o condutor envolvido em sinistro com vítima:       (Redação dada pela Lei nº 14.599, de 2023)
+Art. 176. Deixar o condutor envolvido em sinistro com vítima: (Redação dada pela Lei nº 14.599, de 2023)
 
 I - de prestar ou providenciar socorro à vítima, podendo fazê-lo;
 
@@ -7799,7 +7799,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 177. Deixar o condutor de prestar socorro à vítima de sinistro de trânsito quando solicitado pela autoridade e seus agentes:      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 177. Deixar o condutor de prestar socorro à vítima de sinistro de trânsito quando solicitado pela autoridade e seus agentes: (Redação dada pela Lei nº 14.599, de 2023)
 
 Infração - grave;
 
@@ -7833,7 +7833,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 178. Deixar o condutor envolvido em sinistro sem vítima de adotar providências para remover o veículo do local, quando necessária tal medida para assegurar a segurança e a fluidez do trânsito:      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 178. Deixar o condutor envolvido em sinistro sem vítima de adotar providências para remover o veículo do local, quando necessária tal medida para assegurar a segurança e a fluidez do trânsito: (Redação dada pela Lei nº 14.599, de 2023)
 
 Infração - média;
 
@@ -8070,7 +8070,7 @@ Medida administrativa - remoção do veículo;
 
 XVII - em desacordo com as condições regulamentadas especificamente pela sinalização (placa - Estacionamento Regulamentado):
 
-Infração - grave;               (Redação dada pela Lei nº 13.146, de 2015)      (Vigência)
+Infração - grave; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 
 Penalidade - multa;
 
@@ -8092,13 +8092,13 @@ Penalidade - multa;
 
 Medida administrativa - remoção do veículo.
 
-XX - nas vagas reservadas às pessoas com deficiência ou idosos, sem credencial que comprove tal condição:          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+XX - nas vagas reservadas às pessoas com deficiência ou idosos, sem credencial que comprove tal condição: (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Infração - gravíssima;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Infração - gravíssima; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Penalidade - multa;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Penalidade - multa; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Medida administrativa - remoção do veículo.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Medida administrativa - remoção do veículo. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 § 1º Nos casos previstos neste artigo, a autoridade de trânsito aplicará a penalidade preferencialmente após a remoção do veículo.
 
@@ -8195,11 +8195,11 @@ Infração - média;
 
 Penalidade - multa.
 
-XI - sobre ciclovia ou ciclofaixa:        (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+XI - sobre ciclovia ou ciclofaixa: (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Infração - grave;         (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+Infração - grave; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa.       (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Penalidade - multa. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -8273,13 +8273,13 @@ Infração - grave;
 
 Penalidade - multa.
 
-III - na faixa ou via de trânsito exclusivo, regulamentada com circulação destinada aos veículos de transporte público coletivo de passageiros, salvo casos de força maior e com autorização do poder público competente:             (Incluído pela Lei nº 13.154, de 2015)
+III - na faixa ou via de trânsito exclusivo, regulamentada com circulação destinada aos veículos de transporte público coletivo de passageiros, salvo casos de força maior e com autorização do poder público competente: (Incluído pela Lei nº 13.154, de 2015)
 
-Infração - gravíssima;          (Incluído pela Lei nº 13.154, de 2015)
+Infração - gravíssima; (Incluído pela Lei nº 13.154, de 2015)
 
-Penalidade - multa e apreensão do veículo;          (Incluído pela Lei nº 13.154, de 2015)
+Penalidade - multa e apreensão do veículo; (Incluído pela Lei nº 13.154, de 2015)
 
-Medida Administrativa - remoção do veículo.          (Incluído pela Lei nº 13.154, de 2015)
+Medida Administrativa - remoção do veículo. (Incluído pela Lei nº 13.154, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.154, de 2015.
 
@@ -8390,7 +8390,7 @@ Infração - média;
 
 Penalidade - multa;
 
-II -         (Revogado pela Lei nº 9.602, de 1998)
+II - (Revogado pela Lei nº 9.602, de 1998)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.602, de 1998.
 
@@ -8449,7 +8449,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 189. Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e às ambulâncias, quando em serviço de urgência e devidamente identificados por dispositivos regulamentados de alarme sonoro e iluminação intermitente:      (Redação dada pela Lei nº 14.440, de 2022)
+Art. 189. Deixar de dar passagem aos veículos precedidos de batedores, de socorro de incêndio e salvamento, de polícia, de operação e fiscalização de trânsito e às ambulâncias, quando em serviço de urgência e devidamente identificados por dispositivos regulamentados de alarme sonoro e iluminação intermitente: (Redação dada pela Lei nº 14.440, de 2022)
 
 Infração - gravíssima;
 
@@ -8483,7 +8483,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 190. Seguir veículo em serviço de urgência, estando este com prioridade de passagem devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação intermitente:    (Redação dada pela Lei nº 14.440, de 2022)
+Art. 190. Seguir veículo em serviço de urgência, estando este com prioridade de passagem devidamente identificada por dispositivos regulamentares de alarme sonoro e iluminação intermitente: (Redação dada pela Lei nº 14.440, de 2022)
 
 Infração - grave;
 
@@ -8520,9 +8520,9 @@ Art. 191. Forçar passagem entre veículos que, transitando em sentidos opostos,
 
 Infração - gravíssima;
 
-Penalidade - multa (dez vezes) e suspensão do direito de dirigir.         (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (dez vezes) e suspensão do direito de dirigir. (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses da infração anterior.            (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -8867,9 +8867,9 @@ I - pelo acostamento;
 
 II - em interseções e passagens de nível;
 
-Infração - gravíssima;           (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-Penalidade - multa (cinco vezes).            (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (cinco vezes). (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014.
 
@@ -8909,11 +8909,11 @@ IV - parado em fila junto a sinais luminosos, porteiras, cancelas, cruzamentos o
 
 V - onde houver marcação viária longitudinal de divisão de fluxos opostos do tipo linha dupla contínua ou simples contínua amarela:
 
-Infração - gravíssima;           (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-Penalidade - multa (cinco vezes).          (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penalidade - multa (cinco vezes). (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-Parágrafo único.  Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses da infração anterior.         (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+Parágrafo único. Aplica-se em dobro a multa prevista no caput em caso de reincidência no período de até 12 (doze) meses da infração anterior. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -9074,7 +9074,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 208.  Avançar o sinal vermelho do semáforo ou o de parada obrigatória, exceto onde houver sinalização que permita a livre conversão à direita prevista no art. 44-A deste Código:      (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 208. Avançar o sinal vermelho do semáforo ou o de parada obrigatória, exceto onde houver sinalização que permita a livre conversão à direita prevista no art. 44-A deste Código: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 Infração - gravíssima;
 
@@ -9110,7 +9110,7 @@ Avançar o sinal vermelho ou a parada obrigatória é infração gravíssima, sa
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art.  209. Transpor, sem autorização, bloqueio viário com ou sem sinalização ou dispositivos auxiliares, ou deixar de adentrar as áreas destinadas à pesagem de veículos:   (Redação dada pela Lei nº 14.157, de 2021)
+Art. 209. Transpor, sem autorização, bloqueio viário com ou sem sinalização ou dispositivos auxiliares, ou deixar de adentrar as áreas destinadas à pesagem de veículos: (Redação dada pela Lei nº 14.157, de 2021)
 
 Infração - grave;
 
@@ -9143,7 +9143,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 209-A.  Evadir-se da cobrança pelo uso de rodovias e vias urbanas para não efetuar o seu pagamento, ou deixar de efetuá-lo na forma estabelecida:     (Incluído pela Lei nº 14.157, de 2021)
+Art. 209-A. Evadir-se da cobrança pelo uso de rodovias e vias urbanas para não efetuar o seu pagamento, ou deixar de efetuá-lo na forma estabelecida: (Incluído pela Lei nº 14.157, de 2021)
 
 Infração – grave;
 
@@ -9216,7 +9216,7 @@ Infração - grave;
 
 Penalidade - multa.
 
-Parágrafo único. (VETADO).       (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Parágrafo único. (VETADO). (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -9464,25 +9464,25 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 218.  Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias:         (Redação dada pela Lei nº 11.334, de 2006)          (Vide ADI nº 3951)
+Art. 218. Transitar em velocidade superior à máxima permitida para o local, medida por instrumento ou equipamento hábil, em rodovias, vias de trânsito rápido, vias arteriais e demais vias: (Redação dada pela Lei nº 11.334, de 2006) (Vide ADI nº 3951)
 
-I - quando a velocidade for superior à máxima em até 20% (vinte por cento):       (Redação dada pela Lei nº 11.334, de 2006)
+I - quando a velocidade for superior à máxima em até 20% (vinte por cento): (Redação dada pela Lei nº 11.334, de 2006)
 
-Infração - média;       (Redação dada pela Lei nº 11.334, de 2006)
+Infração - média; (Redação dada pela Lei nº 11.334, de 2006)
 
-Penalidade - multa;       (Redação dada pela Lei nº 11.334, de 2006)
+Penalidade - multa; (Redação dada pela Lei nº 11.334, de 2006)
 
-II - quando a velocidade for superior à máxima em mais de 20% (vinte por cento) até 50% (cinqüenta por cento):        (Redação dada pela Lei nº 11.334, de 2006)
+II - quando a velocidade for superior à máxima em mais de 20% (vinte por cento) até 50% (cinqüenta por cento): (Redação dada pela Lei nº 11.334, de 2006)
 
-Infração - grave;        (Redação dada pela Lei nº 11.334, de 2006)
+Infração - grave; (Redação dada pela Lei nº 11.334, de 2006)
 
-Penalidade - multa;         (Redação dada pela Lei nº 11.334, de 2006)
+Penalidade - multa; (Redação dada pela Lei nº 11.334, de 2006)
 
-III - quando a velocidade for superior à máxima em mais de 50% (cinqüenta por cento):         (Incluído pela Lei nº 11.334, de 2006)
+III - quando a velocidade for superior à máxima em mais de 50% (cinqüenta por cento): (Incluído pela Lei nº 11.334, de 2006)
 
-Infração - gravíssima;         (Redação dada pela Lei nº 14.071, de 2020)
+Infração - gravíssima; (Redação dada pela Lei nº 14.071, de 2020)
 
-Penalidade - multa (três vezes) e suspensão do direito de dirigir.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Penalidade - multa (três vezes) e suspensão do direito de dirigir. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.334, de 2006; inclusão — Lei nº 11.334, de 2006; redação — Lei nº 14.071, de 2020.
 
@@ -9575,15 +9575,15 @@ XI - à aproximação de animais na pista;
 
 XII - em declive;
 
-Infração - grave;         (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Infração - grave; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa;      (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+Penalidade - multa; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 XIII - ao ultrapassar ciclista:
 
-Infração - gravíssima;        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa;       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+Penalidade - multa; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 XIV - nas proximidades de escolas, hospitais, estações de embarque e desembarque de passageiros ou onde haja intensa movimentação de pedestres:
 
@@ -9654,7 +9654,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 222. Deixar de manter ligado, nas situações de atendimento de emergência, o sistema de iluminação intermitente dos veículos de polícia, de socorro de incêndio e salvamento, de fiscalização de trânsito e das ambulâncias, ainda que parados:      (Redação dada pela Lei nº 14.440, de 2022)
+Art. 222. Deixar de manter ligado, nas situações de atendimento de emergência, o sistema de iluminação intermitente dos veículos de polícia, de socorro de incêndio e salvamento, de fiscalização de trânsito e das ambulâncias, ainda que parados: (Redação dada pela Lei nº 14.440, de 2022)
 
 Infração - média;
 
@@ -9979,11 +9979,11 @@ Medida administrativa - retenção do veículo para regularização;
 
 XX - sem portar a autorização para condução de escolares, na forma estabelecida no art. 136:
 
-Infração – gravíssima;             (Redação dada pela Lei nº 13.855, de 2019)      (Vigência)
+Infração – gravíssima; (Redação dada pela Lei nº 13.855, de 2019) (Vigência)
 
-Penalidade – multa (cinco vezes);             (Redação dada pela Lei nº 13.855, de 2019)      (Vigência)
+Penalidade – multa (cinco vezes); (Redação dada pela Lei nº 13.855, de 2019) (Vigência)
 
-Medida administrativa – remoção do veículo;             (Incluído pela Lei nº 13.855, de 2019)      (Vigência)
+Medida administrativa – remoção do veículo; (Incluído pela Lei nº 13.855, de 2019) (Vigência)
 
 XXI - de carga, com falta de inscrição da tara e demais inscrições previstas neste Código;
 
@@ -9993,19 +9993,19 @@ Infração - média;
 
 Penalidade - multa.
 
-XXIII - em desacordo com as condições estabelecidas no art. 67-C, relativamente ao tempo de permanência do condutor ao volante e aos intervalos para descanso, quando se tratar de veículo de transporte de carga ou coletivo de passageiros:          (Redação dada pela Lei nº 13.103, de 2015)  (Vigência)
+XXIII - em desacordo com as condições estabelecidas no art. 67-C, relativamente ao tempo de permanência do condutor ao volante e aos intervalos para descanso, quando se tratar de veículo de transporte de carga ou coletivo de passageiros: (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-Infração - média;            (Redação dada pela Lei nº 13.103, de 2015)  (Vigência)
+Infração - média; (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-Penalidade - multa;           (Redação dada pela Lei nº 13.103, de 2015)  (Vigência)
+Penalidade - multa; (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-Medida administrativa - retenção do veículo para cumprimento do tempo de descanso aplicável.         (Redação dada pela Lei nº 13.103, de 2015)  (Vigência)
+Medida administrativa - retenção do veículo para cumprimento do tempo de descanso aplicável. (Redação dada pela Lei nº 13.103, de 2015) (Vigência)
 
-XXIV- (VETADO).           (Incluído pela Lei nº 12.619, de 2012)  (Vigência)
+XXIV- (VETADO). (Incluído pela Lei nº 12.619, de 2012) (Vigência)
 
-§ 1o  Se o condutor cometeu infração igual nos últimos 12 (doze) meses, será convertida, automaticamente, a penalidade disposta no inciso XXIII em infração grave.         (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+§ 1o Se o condutor cometeu infração igual nos últimos 12 (doze) meses, será convertida, automaticamente, a penalidade disposta no inciso XXIII em infração grave. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
-§ 2o  Em se tratando de condutor estrangeiro, a liberação do veículo fica condicionada ao pagamento ou ao depósito, judicial ou administrativo, da multa.           (Incluído pela Lei nº 13.103, de 2015)  (Vigência)
+§ 2o Em se tratando de condutor estrangeiro, a liberação do veículo fica condicionada ao pagamento ou ao depósito, judicial ou administrativo, da multa. (Incluído pela Lei nº 13.103, de 2015) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.855, de 2019; inclusão — Lei nº 13.855, de 2019; redação — Lei nº 13.103, de 2015; inclusão — Lei nº 12.619, de 2012; inclusão — Lei nº 13.103, de 2015.
 
@@ -10049,7 +10049,7 @@ a) carga que esteja transportando;
 
 b) combustível ou lubrificante que esteja utilizando;
 
-c) qualquer objeto que possa acarretar risco de sinistro:      (Redação dada pela Lei nº 14.599, de 2023)
+c) qualquer objeto que possa acarretar risco de sinistro: (Redação dada pela Lei nº 14.599, de 2023)
 
 Infração - gravíssima;
 
@@ -10073,17 +10073,17 @@ Infração - média;
 
 Penalidade - multa acrescida a cada duzentos quilogramas ou fração de excesso de peso apurado, constante na seguinte tabela:
 
-a) até 600 kg (seiscentos quilogramas) - R$ 5,32 (cinco reais e trinta e dois centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+a) até 600 kg (seiscentos quilogramas) - R$ 5,32 (cinco reais e trinta e dois centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-b) de 601 (seiscentos e um) a 800 kg (oitocentos quilogramas) - R$ 10,64 (dez reais e sessenta e quatro centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+b) de 601 (seiscentos e um) a 800 kg (oitocentos quilogramas) - R$ 10,64 (dez reais e sessenta e quatro centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-c) de 801 (oitocentos e um) a 1.000 kg (mil quilogramas) - R$ 21,28 (vinte e um reais e vinte e oito centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+c) de 801 (oitocentos e um) a 1.000 kg (mil quilogramas) - R$ 21,28 (vinte e um reais e vinte e oito centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-d) de 1.001 (mil e um) a 3.000 kg (três mil quilogramas) - R$ 31,92 (trinta e um reais e noventa e dois centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+d) de 1.001 (mil e um) a 3.000 kg (três mil quilogramas) - R$ 31,92 (trinta e um reais e noventa e dois centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-e) de 3.001 (três mil e um) a 5.000 kg (cinco mil quilogramas) - R$ 42,56 (quarenta e dois reais e cinquenta e seis centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+e) de 3.001 (três mil e um) a 5.000 kg (cinco mil quilogramas) - R$ 42,56 (quarenta e dois reais e cinquenta e seis centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-f) acima de 5.001 kg (cinco mil e um quilogramas) - R$ 53,20 (cinquenta e três reais e vinte centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+f) acima de 5.001 kg (cinco mil e um quilogramas) - R$ 53,20 (cinquenta e três reais e vinte centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 Medida administrativa - retenção do veículo e transbordo da carga excedente;
 
@@ -10099,11 +10099,11 @@ VII - com lotação excedente;
 
 VIII - efetuando transporte remunerado de pessoas ou bens, quando não for licenciado para esse fim, salvo casos de força maior ou com permissão da autoridade competente:
 
-Infração – gravíssima;             (Redação dada pela Lei nº 13.855, de 2019)      (Vigência)
+Infração – gravíssima; (Redação dada pela Lei nº 13.855, de 2019) (Vigência)
 
-Penalidade – multa;             (Redação dada pela Lei nº 13.855, de 2019)      (Vigência)
+Penalidade – multa; (Redação dada pela Lei nº 13.855, de 2019) (Vigência)
 
-Medida administrativa – remoção do veículo;             (Redação dada pela Lei nº 13.855, de 2019)      (Vigência)
+Medida administrativa – remoção do veículo; (Redação dada pela Lei nº 13.855, de 2019) (Vigência)
 
 IX - desligado ou desengrenado, em declive:
 
@@ -10187,11 +10187,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 233. Deixar de efetuar o registro de veículo no prazo de trinta dias, junto ao órgão executivo de trânsito, ocorridas as hipóteses previstas no art. 123:
 
-Infração - média;         (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Infração - média; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa;        (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+Penalidade - multa; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Medida administrativa - remoção do veículo.        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Medida administrativa - remoção do veículo. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -10222,7 +10222,7 @@ Deixar de registrar a transferência ou outra alteração do art. 123 em 30 dias
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 233-A.  (VETADO).     (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 233-A. (VETADO). (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -10544,7 +10544,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 242-A. (VETADO).    (Incluído pela Lei Complementar nº 207, de 2024)
+Art. 242-A. (VETADO). (Incluído pela Lei Complementar nº 207, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 207, de 2024.
 
@@ -10607,49 +10607,49 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 244. Conduzir motocicleta, motoneta ou ciclomotor:      (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 244. Conduzir motocicleta, motoneta ou ciclomotor: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-I - sem usar capacete de segurança ou vestuário de acordo com as normas e as especificações aprovadas pelo Contran;        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+I - sem usar capacete de segurança ou vestuário de acordo com as normas e as especificações aprovadas pelo Contran; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 II - transportando passageiro sem o capacete de segurança, na forma estabelecida no inciso anterior, ou fora do assento suplementar colocado atrás do condutor ou em carro lateral;
 
 III - fazendo malabarismo ou equilibrando-se apenas em uma roda;
 
-IV - (revogado);       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+IV - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-V - transportando criança menor de 10 (dez) anos de idade ou que não tenha, nas circunstâncias, condições de cuidar da própria segurança:      (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+V - transportando criança menor de 10 (dez) anos de idade ou que não tenha, nas circunstâncias, condições de cuidar da própria segurança: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Infração - gravíssima;        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+Infração - gravíssima; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa e suspensão do direito de dirigir;        (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Penalidade - multa e suspensão do direito de dirigir; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Medida administrativa - retenção do veículo até regularização e recolhimento do documento de habilitação;      (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+Medida administrativa - retenção do veículo até regularização e recolhimento do documento de habilitação; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 VI - rebocando outro veículo;
 
 VII - sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras;
 
-VIII – transportando carga incompatível com suas especificações ou em desacordo com o previsto no § 2o do art. 139-A desta Lei;        (Incluído pela Lei nº 12.009, de 2009)
+VIII – transportando carga incompatível com suas especificações ou em desacordo com o previsto no § 2o do art. 139-A desta Lei; (Incluído pela Lei nº 12.009, de 2009)
 
-IX – efetuando transporte remunerado de mercadorias em desacordo com o previsto no art. 139-A desta Lei ou com as normas que regem a atividade profissional dos mototaxistas:           (Incluído pela Lei nº 12.009, de 2009)
+IX – efetuando transporte remunerado de mercadorias em desacordo com o previsto no art. 139-A desta Lei ou com as normas que regem a atividade profissional dos mototaxistas: (Incluído pela Lei nº 12.009, de 2009)
 
-Infração – grave;         (Incluído pela Lei nº 12.009, de 2009)
+Infração – grave; (Incluído pela Lei nº 12.009, de 2009)
 
-Penalidade – multa;           (Incluído pela Lei nº 12.009, de 2009)
+Penalidade – multa; (Incluído pela Lei nº 12.009, de 2009)
 
-Medida administrativa – apreensão do veículo para regularização.          (Incluído pela Lei nº 12.009, de 2009)
+Medida administrativa – apreensão do veículo para regularização. (Incluído pela Lei nº 12.009, de 2009)
 
-X - com a utilização de capacete de segurança sem viseira ou óculos de proteção ou com viseira ou óculos de proteção em desacordo com a regulamentação do Contran;      (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+X - com a utilização de capacete de segurança sem viseira ou óculos de proteção ou com viseira ou óculos de proteção em desacordo com a regulamentação do Contran; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-XI - transportando passageiro com o capacete de segurança utilizado na forma prevista no inciso X do caput deste artigo:         (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+XI - transportando passageiro com o capacete de segurança utilizado na forma prevista no inciso X do caput deste artigo: (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Infração - média;         (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Infração - média; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Penalidade - multa;        (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+Penalidade - multa; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-Medida administrativa - retenção do veículo até regularização;        (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+Medida administrativa - retenção do veículo até regularização; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-XII – (VETADO).    (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+XII – (VETADO). (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 § 1º Para ciclos aplica-se o disposto nos incisos III, VII e VIII, além de:
 
@@ -10665,7 +10665,7 @@ Infração - média;
 
 Penalidade - multa.
 
-§ 3o A restrição imposta pelo inciso VI do caput deste artigo não se aplica às motocicletas e motonetas que tracionem semi-reboques especialmente projetados para esse fim e devidamente homologados pelo órgão competente.          (Incluído pela Lei nº 10.517, de 2002)
+§ 3o A restrição imposta pelo inciso VI do caput deste artigo não se aplica às motocicletas e motonetas que tracionem semi-reboques especialmente projetados para esse fim e devidamente homologados pelo órgão competente. (Incluído pela Lei nº 10.517, de 2002)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 12.009, de 2009; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 10.517, de 2002.
 
@@ -10870,15 +10870,15 @@ I - deixar de manter acesa a luz baixa:
 
 a) durante a noite;
 
-b)  de dia, em túneis e sob chuva, neblina ou cerração;         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+b) de dia, em túneis e sob chuva, neblina ou cerração; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-c)  de dia, no caso de veículos de transporte coletivo de passageiros em circulação em faixas ou pistas a eles destinadas;        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+c) de dia, no caso de veículos de transporte coletivo de passageiros em circulação em faixas ou pistas a eles destinadas; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-d)  de dia, no caso de motocicletas, motonetas e ciclomotores;       (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+d) de dia, no caso de motocicletas, motonetas e ciclomotores; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-e)  de dia, em rodovias de pista simples situadas fora dos perímetros urbanos, no caso de veículos desprovidos de luzes de rodagem diurna;       (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+e) de dia, em rodovias de pista simples situadas fora dos perímetros urbanos, no caso de veículos desprovidos de luzes de rodagem diurna; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-II - (revogado);      (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+II - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 III - deixar de manter a placa traseira iluminada, à noite;
 
@@ -10886,13 +10886,13 @@ Infração - média;
 
 Penalidade - multa.
 
-IV - deixar o veículo de transporte público coletivo de passageiros ou de escolares de manter a porta fechada:     (Incluído pela Lei nº 14.440, de 2022)
+IV - deixar o veículo de transporte público coletivo de passageiros ou de escolares de manter a porta fechada: (Incluído pela Lei nº 14.440, de 2022)
 
-Infração - gravíssima;     (Incluído pela Lei nº 14.440, de 2022)
+Infração - gravíssima; (Incluído pela Lei nº 14.440, de 2022)
 
-Penalidade - multa;      (Incluído pela Lei nº 14.440, de 2022)
+Penalidade - multa; (Incluído pela Lei nº 14.440, de 2022)
 
-Medida administrativa - retenção do veículo até a regularização.      (Incluído pela Lei nº 14.440, de 2022)
+Medida administrativa - retenção do veículo até a regularização. (Incluído pela Lei nº 14.440, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.440, de 2022.
 
@@ -10981,13 +10981,13 @@ Infração - média;
 
 Penalidade - multa.
 
-VII - realizando a cobrança de tarifa com o veículo em movimento:          (Incluído pela Lei nº 13.154, de 2015)
+VII - realizando a cobrança de tarifa com o veículo em movimento: (Incluído pela Lei nº 13.154, de 2015)
 
-Infração - média;          (Incluído pela Lei nº 13.154, de 2015)
+Infração - média; (Incluído pela Lei nº 13.154, de 2015)
 
-Penalidade - multa.          (Incluído pela Lei nº 13.154, de 2015)
+Penalidade - multa. (Incluído pela Lei nº 13.154, de 2015)
 
-Parágrafo único. A hipótese prevista no inciso V caracterizar-se-á como infração gravíssima no caso de o condutor estar segurando ou manuseando telefone celular.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Parágrafo único. A hipótese prevista no inciso V caracterizar-se-á como infração gravíssima no caso de o condutor estar segurando ou manuseando telefone celular. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.154, de 2015; inclusão — Lei nº 13.281, de 2016.
 
@@ -11050,19 +11050,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XV — DAS INFRAÇÕES
 
-Art. 253-A. Usar qualquer veículo para, deliberadamente, interromper, restringir ou perturbar a circulação na via sem autorização do órgão ou entidade de trânsito com circunscrição sobre ela:           (Incluído pela Lei nº 13. 281, de 2016)
+Art. 253-A. Usar qualquer veículo para, deliberadamente, interromper, restringir ou perturbar a circulação na via sem autorização do órgão ou entidade de trânsito com circunscrição sobre ela: (Incluído pela Lei nº 13. 281, de 2016)
 
-Infração - gravíssima;          (Incluído pela Lei nº 13.281, de 2016)
+Infração - gravíssima; (Incluído pela Lei nº 13.281, de 2016)
 
-Penalidade - multa (vinte vezes) e suspensão do direito de dirigir por 12 (doze) meses;          (Incluído pela Lei nº 13.281, de 2016)
+Penalidade - multa (vinte vezes) e suspensão do direito de dirigir por 12 (doze) meses; (Incluído pela Lei nº 13.281, de 2016)
 
-Medida administrativa - remoção do veículo.          (Incluído pela Lei nº 13.281, de 2016)
+Medida administrativa - remoção do veículo. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 1º Aplica-se a multa agravada em 60 (sessenta) vezes aos organizadores da conduta prevista no caput.          (Incluído pela Lei nº 13.281, de 2016)
+§ 1º Aplica-se a multa agravada em 60 (sessenta) vezes aos organizadores da conduta prevista no caput. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 2º  Aplica-se em dobro a multa em caso de reincidência no período de 12 (doze) meses.          (Incluído pela Lei nº 13.281, de 2016)
+§ 2º Aplica-se em dobro a multa em caso de reincidência no período de 12 (doze) meses. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 3º  As penalidades são aplicáveis a pessoas físicas ou jurídicas que incorram na infração, devendo a autoridade com circunscrição sobre a via restabelecer de imediato, se possível, as condições de normalidade para a circulação na via.          (Incluído pela Lei nº 13.281, de 2016)
+§ 3º As penalidades são aplicáveis a pessoas físicas ou jurídicas que incorram na infração, devendo a autoridade com circunscrição sobre a via restabelecer de imediato, se possível, as condições de normalidade para a circulação na via. (Incluído pela Lei nº 13.281, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.; inclusão — Lei nº 13.281, de 2016.
 
@@ -11110,13 +11110,13 @@ Infração - leve;
 
 Penalidade - multa, em 50% (cinqüenta por cento) do valor da infração de natureza leve.
 
-VII - (VETADO).          (Incluído pela Lei nº 13.281, de 2016)
+VII - (VETADO). (Incluído pela Lei nº 13.281, de 2016)
 
-§ 1º  (VETADO).          (Incluído pela Lei nº 13.281, de 2016)
+§ 1º (VETADO). (Incluído pela Lei nº 13.281, de 2016)
 
-§ 2º  (VETADO).          (Incluído pela Lei nº 13.281, de 2016)
+§ 2º (VETADO). (Incluído pela Lei nº 13.281, de 2016)
 
-§ 3º  (VETADO).          (Incluído pela Lei nº 13.281, de 2016)
+§ 3º (VETADO). (Incluído pela Lei nº 13.281, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016.
 
@@ -11190,7 +11190,7 @@ II - multa;
 
 III - suspensão do direito de dirigir;
 
-IV -          (Revogado pela Lei nº 13.281, de 2016)      (Vigência)
+IV - (Revogado pela Lei nº 13.281, de 2016) (Vigência)
 
 V - cassação da Carteira Nacional de Habilitação;
 
@@ -11200,7 +11200,7 @@ VII - freqüência obrigatória em curso de reciclagem.
 
 § 1º A aplicação das penalidades previstas neste Código não elide as punições originárias de ilícitos penais decorrentes de crimes de trânsito, conforme disposições de lei.
 
-§ 2º  (VETADO)
+§ 2º (VETADO)
 
 § 3º A imposição da penalidade será comunicada aos órgãos ou entidades executivos de trânsito responsáveis pelo licenciamento do veículo e habilitação do condutor.
 
@@ -11247,21 +11247,21 @@ Art. 257. As penalidades serão impostas ao condutor, ao proprietário do veícu
 
 § 6º O transportador e o embarcador são solidariamente responsáveis pela infração relativa ao excesso de peso bruto total, se o peso declarado na nota fiscal, fatura ou manifesto for superior ao limite legal.
 
-§ 7º  Quando não for imediata a identificação do infrator, o principal condutor ou o proprietário do veículo terá o prazo de 30 (trinta) dias, contado da notificação da autuação, para apresentá-lo, na forma em que dispuser o Contran, e, transcorrido o prazo, se não o fizer, será considerado responsável pela infração o principal condutor ou, em sua ausência, o proprietário do veículo.         (Redação dada pela Lei nº 14.071, de 2020)   (Vigência)
+§ 7º Quando não for imediata a identificação do infrator, o principal condutor ou o proprietário do veículo terá o prazo de 30 (trinta) dias, contado da notificação da autuação, para apresentá-lo, na forma em que dispuser o Contran, e, transcorrido o prazo, se não o fizer, será considerado responsável pela infração o principal condutor ou, em sua ausência, o proprietário do veículo. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 8º Após o prazo previsto no § 7º deste artigo, se o infrator não tiver sido identificado, e o veículo for de propriedade de pessoa jurídica, será lavrada nova multa ao proprietário do veículo, mantida a originada pela infração, cujo valor será igual a 2 (duas) vezes o da multa originária, garantidos o direito de defesa prévia e de interposição de recursos previstos neste Código, na forma estabelecida pelo Contran.        (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+§ 8º Após o prazo previsto no § 7º deste artigo, se o infrator não tiver sido identificado, e o veículo for de propriedade de pessoa jurídica, será lavrada nova multa ao proprietário do veículo, mantida a originada pela infração, cujo valor será igual a 2 (duas) vezes o da multa originária, garantidos o direito de defesa prévia e de interposição de recursos previstos neste Código, na forma estabelecida pelo Contran. (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
 § 9º O fato de o infrator ser pessoa jurídica não o exime do disposto no § 3º do art. 258 e no art. 259.
 
-§ 10.  O proprietário poderá indicar ao órgão executivo de trânsito o principal condutor do veículo, o qual, após aceitar a indicação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam.                (Incluído pela Lei nº 13.495, de 2017)     (Vigência)
+§ 10. O proprietário poderá indicar ao órgão executivo de trânsito o principal condutor do veículo, o qual, após aceitar a indicação, terá seu nome inscrito em campo próprio do cadastro do veículo no Renavam. (Incluído pela Lei nº 13.495, de 2017) (Vigência)
 
-§ 11.  O principal condutor será excluído do Renavam:                (Incluído pela Lei nº 13.495, de 2017)     (Vigência)
+§ 11. O principal condutor será excluído do Renavam: (Incluído pela Lei nº 13.495, de 2017) (Vigência)
 
-I -  quando houver transferência de propriedade do veículo;                (Incluído pela Lei nº 13.495, de 2017)     (Vigência)
+I - quando houver transferência de propriedade do veículo; (Incluído pela Lei nº 13.495, de 2017) (Vigência)
 
-II - mediante requerimento próprio ou do proprietário do veículo;                (Incluído pela Lei nº 13.495, de 2017)     (Vigência)
+II - mediante requerimento próprio ou do proprietário do veículo; (Incluído pela Lei nº 13.495, de 2017) (Vigência)
 
-III - a partir da indicação de outro principal condutor.                (Incluído pela Lei nº 13.495, de 2017)     (Vigência)
+III - a partir da indicação de outro principal condutor. (Incluído pela Lei nº 13.495, de 2017) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.229, de 2021; inclusão — Lei nº 13.495, de 2017.
 
@@ -11296,21 +11296,21 @@ As penalidades recaem sobre condutor, proprietário, embarcador e transportador 
 
 Art. 258. As infrações punidas com multa classificam-se, de acordo com sua gravidade, em quatro categorias:
 
-I - infração de natureza gravíssima, punida com multa no valor de R$ 293,47 (duzentos e noventa e três reais e quarenta e sete centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+I - infração de natureza gravíssima, punida com multa no valor de R$ 293,47 (duzentos e noventa e três reais e quarenta e sete centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-II - infração de natureza grave, punida com multa no valor de R$ 195,23 (cento e noventa e cinco reais e vinte e três centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+II - infração de natureza grave, punida com multa no valor de R$ 195,23 (cento e noventa e cinco reais e vinte e três centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-III - infração de natureza média, punida com multa no valor de R$ 130,16 (cento e trinta reais e dezesseis centavos);          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+III - infração de natureza média, punida com multa no valor de R$ 130,16 (cento e trinta reais e dezesseis centavos); (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-IV - infração de natureza leve, punida com multa no valor de R$ 88,38 (oitenta e oito reais e trinta e oito centavos).          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+IV - infração de natureza leve, punida com multa no valor de R$ 88,38 (oitenta e oito reais e trinta e oito centavos). (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 1~~º~~ (Revogado).          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1~~º~~ (Revogado). (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 § 2º Quando se tratar de multa agravada, o fator multiplicador ou índice adicional específico é o previsto neste Código.
 
-§ 3º  (VETADO)
+§ 3º (VETADO)
 
-§ 4º  (VETADO)
+§ 4º (VETADO)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.281, de 2016.
 
@@ -11350,19 +11350,19 @@ III - média - quatro pontos;
 
 IV - leve - três pontos.
 
-§ 1º  (VETADO)
+§ 1º (VETADO)
 
-§ 2º  (VETADO)
+§ 2º (VETADO)
 
-§ 3o (VETADO).           (Incluído pela Lei nº 12.619, de 2012) (Vigência)
+§ 3o (VETADO). (Incluído pela Lei nº 12.619, de 2012) (Vigência)
 
-§ 4º  Ao condutor identificado será atribuída pontuação pelas infrações de sua responsabilidade, nos termos previstos no § 3º do art. 257 deste Código, exceto aquelas:       (Redação dada pela Lei nº 14.071, de 2020)
+§ 4º Ao condutor identificado será atribuída pontuação pelas infrações de sua responsabilidade, nos termos previstos no § 3º do art. 257 deste Código, exceto aquelas: (Redação dada pela Lei nº 14.071, de 2020)
 
-I - praticadas por passageiros usuários do serviço de transporte rodoviário de passageiros em viagens de longa distância transitando em rodovias com a utilização de ônibus, em linhas regulares intermunicipal, interestadual, internacional e aquelas em viagem de longa distância por fretamento e turismo ou de qualquer modalidade, excluídas as situações regulamentadas pelo Contran conforme disposto no art. 65 deste Código;      (Incluído pela Lei nº 14.071, de 2020)
+I - praticadas por passageiros usuários do serviço de transporte rodoviário de passageiros em viagens de longa distância transitando em rodovias com a utilização de ônibus, em linhas regulares intermunicipal, interestadual, internacional e aquelas em viagem de longa distância por fretamento e turismo ou de qualquer modalidade, excluídas as situações regulamentadas pelo Contran conforme disposto no art. 65 deste Código; (Incluído pela Lei nº 14.071, de 2020)
 
-II - previstas no art. 221, nos incisos VII e XXI do art. 230 e nos arts. 232, 233, 233-A, 240 e 241 deste Código, sem prejuízo da aplicação das penalidades e medidas administrativas cabíveis;        (Incluído pela Lei nº 14.071, de 2020)
+II - previstas no art. 221, nos incisos VII e XXI do art. 230 e nos arts. 232, 233, 233-A, 240 e 241 deste Código, sem prejuízo da aplicação das penalidades e medidas administrativas cabíveis; (Incluído pela Lei nº 14.071, de 2020)
 
-III - puníveis de forma específica com suspensão do direito de dirigir.        (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+III - puníveis de forma específica com suspensão do direito de dirigir. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.619, de 2012; redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020.
 
@@ -11403,7 +11403,7 @@ Art. 260. As multas serão impostas e arrecadadas pelo órgão ou entidade de tr
 
 § 2º As multas decorrentes de infração cometida em unidade da Federação diversa daquela do licenciamento do veículo poderão ser comunicadas ao órgão ou entidade responsável pelo seu licenciamento, que providenciará a notificação.
 
-§ 3º          (Revogado pela Lei nº 9.602, de 1998)
+§ 3º (Revogado pela Lei nº 9.602, de 1998)
 
 § 4º Quando a infração for cometida com veículo licenciado no exterior, em trânsito no território nacional, a multa respectiva deverá ser paga antes de sua saída do País, respeitado o princípio de reciprocidade.
 
@@ -11434,51 +11434,51 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVI — DAS PENALIDADES
 
-Art. 261.  A penalidade de suspensão do direito de dirigir será imposta nos seguintes casos:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 261. A penalidade de suspensão do direito de dirigir será imposta nos seguintes casos: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-I - sempre que, conforme a pontuação prevista no art. 259 deste Código, o infrator atingir, no período de 12 (doze) meses, a seguinte contagem de pontos:         (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+I - sempre que, conforme a pontuação prevista no art. 259 deste Código, o infrator atingir, no período de 12 (doze) meses, a seguinte contagem de pontos: (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-a)  20 (vinte) pontos, caso constem 2 (duas) ou mais infrações gravíssimas na pontuação;        (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+a) 20 (vinte) pontos, caso constem 2 (duas) ou mais infrações gravíssimas na pontuação; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-b)  30 (trinta) pontos, caso conste 1 (uma) infração gravíssima na pontuação;         (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+b) 30 (trinta) pontos, caso conste 1 (uma) infração gravíssima na pontuação; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-c)  40 (quarenta) pontos, caso não conste nenhuma infração gravíssima na pontuação;          (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+c) 40 (quarenta) pontos, caso não conste nenhuma infração gravíssima na pontuação; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-II - por transgressão às normas estabelecidas neste Código, cujas infrações preveem, de forma específica, a penalidade de suspensão do direito de dirigir.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+II - por transgressão às normas estabelecidas neste Código, cujas infrações preveem, de forma específica, a penalidade de suspensão do direito de dirigir. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-III - (VETADO).     (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+III - (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
-§ 1º  Os prazos para aplicação da penalidade de suspensão do direito de dirigir são os seguintes:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1º Os prazos para aplicação da penalidade de suspensão do direito de dirigir são os seguintes: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-I - no caso do inciso I do caput: de 6 (seis) meses a 1 (um) ano e, no caso de reincidência no período de 12 (doze) meses, de 8 (oito) meses a 2 (dois) anos;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+I - no caso do inciso I do caput: de 6 (seis) meses a 1 (um) ano e, no caso de reincidência no período de 12 (doze) meses, de 8 (oito) meses a 2 (dois) anos; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-II - no caso do inciso II do caput: de 2 (dois) a 8 (oito) meses, exceto para as infrações com prazo descrito no dispositivo infracional, e, no caso de reincidência no período de 12 (doze) meses, de 8 (oito) a 18 (dezoito) meses, respeitado o disposto no inciso II do art. 263.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+II - no caso do inciso II do caput: de 2 (dois) a 8 (oito) meses, exceto para as infrações com prazo descrito no dispositivo infracional, e, no caso de reincidência no período de 12 (doze) meses, de 8 (oito) a 18 (dezoito) meses, respeitado o disposto no inciso II do art. 263. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-III - (VETADO).        (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+III - (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 § 2º Quando ocorrer a suspensão do direito de dirigir, a Carteira Nacional de Habilitação será devolvida a seu titular imediatamente após cumprida a penalidade e o curso de reciclagem.
 
-§ 3º  A imposição da penalidade de suspensão do direito de dirigir elimina a quantidade de pontos computados, prevista no inciso I do caput ou no § 5º deste artigo, para fins de contagem subsequente.    (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 3º A imposição da penalidade de suspensão do direito de dirigir elimina a quantidade de pontos computados, prevista no inciso I do caput ou no § 5º deste artigo, para fins de contagem subsequente. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 4o (VETADO).         (Incluído pela Lei nº 12.619, de 2012)        (Vigência)
+§ 4o (VETADO). (Incluído pela Lei nº 12.619, de 2012) (Vigência)
 
-§ 5º  No caso do condutor que exerce atividade remunerada ao veículo, a penalidade de suspensão do direito de dirigir de que trata o caput deste artigo será imposta quando o infrator atingir o limite de pontos previsto na alínea c do inciso I do caput deste artigo, independentemente da natureza das infrações cometidas, facultado a ele participar de curso preventivo de reciclagem sempre que, no período de 12 (doze) meses, atingir 30 (trinta) pontos, conforme regulamentação do Contran.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 5º No caso do condutor que exerce atividade remunerada ao veículo, a penalidade de suspensão do direito de dirigir de que trata o caput deste artigo será imposta quando o infrator atingir o limite de pontos previsto na alínea c do inciso I do caput deste artigo, independentemente da natureza das infrações cometidas, facultado a ele participar de curso preventivo de reciclagem sempre que, no período de 12 (doze) meses, atingir 30 (trinta) pontos, conforme regulamentação do Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 6o Concluído o curso de reciclagem previsto no § 5o, o condutor terá eliminados os pontos que lhe tiverem sido atribuídos, para fins de contagem subsequente.          (Incluído pela Lei nº 13.154, de 2015)
+§ 6o Concluído o curso de reciclagem previsto no § 5o, o condutor terá eliminados os pontos que lhe tiverem sido atribuídos, para fins de contagem subsequente. (Incluído pela Lei nº 13.154, de 2015)
 
-§ 7º  O motorista que optar pelo curso previsto no § 5º não poderá fazer nova opção no período de 12 (doze) meses.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 7º O motorista que optar pelo curso previsto no § 5º não poderá fazer nova opção no período de 12 (doze) meses. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 8o A pessoa jurídica concessionária ou permissionária de serviço público tem o direito de ser informada dos pontos atribuídos, na forma do art. 259, aos motoristas que integrem seu quadro funcional, exercendo atividade remunerada ao volante, na forma que dispuser o Contran.          (Incluído pela Lei nº 13.154, de 2015)
+§ 8o A pessoa jurídica concessionária ou permissionária de serviço público tem o direito de ser informada dos pontos atribuídos, na forma do art. 259, aos motoristas que integrem seu quadro funcional, exercendo atividade remunerada ao volante, na forma que dispuser o Contran. (Incluído pela Lei nº 13.154, de 2015)
 
-§ 9º  Incorrerá na infração prevista no inciso II do art. 162 o condutor que, notificado da penalidade de que trata este artigo, dirigir veículo automotor em via pública.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 9º Incorrerá na infração prevista no inciso II do art. 162 o condutor que, notificado da penalidade de que trata este artigo, dirigir veículo automotor em via pública. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 10.  O processo de suspensão do direito de dirigir a que se refere o inciso II do caput deste artigo deverá ser instaurado concomitantemente ao processo de aplicação da penalidade de multa, e ambos serão de competência do órgão ou entidade responsável pela aplicação da multa, na forma definida pelo Contran.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 10. O processo de suspensão do direito de dirigir a que se refere o inciso II do caput deste artigo deverá ser instaurado concomitantemente ao processo de aplicação da penalidade de multa, e ambos serão de competência do órgão ou entidade responsável pela aplicação da multa, na forma definida pelo Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 11.  O Contran regulamentará as disposições deste artigo.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 11. O Contran regulamentará as disposições deste artigo. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 12. (VETADO).      (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+§ 12. (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
-§ 13. (VETADO).      (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+§ 13. (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.281, de 2016; redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 14.304, de 2022; inclusão — Lei nº 12.619, de 2012; inclusão — Lei nº 13.154, de 2015.
 
@@ -11512,7 +11512,7 @@ A suspensão do direito de dirigir ocorre ao atingir em 12 meses 20 pontos (com 
 
 **Localização:** CAPÍTULO XVI — DAS PENALIDADES
 
-Art. 262.          (Revogado pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 262. (Revogado pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.281, de 2016.
 
@@ -11550,13 +11550,13 @@ II - no caso de reincidência, no prazo de doze meses, das infrações previstas
 
 III - quando condenado judicialmente por delito de trânsito, observado o disposto no art. 160.
 
-IV - (VETADO).      (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+IV - (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 § 1º Constatada, em processo administrativo, a irregularidade na expedição do documento de habilitação, a autoridade expedidora promoverá o seu cancelamento.
 
 § 2º Decorridos dois anos da cassação da Carteira Nacional de Habilitação, o infrator poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma estabelecida pelo CONTRAN.
 
-§ 3º (VETADO).         (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+§ 3º (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.304, de 2022.
 
@@ -11589,7 +11589,7 @@ A CNH é cassada quando o suspenso dirige, na reincidência em 12 meses de infra
 
 **Localização:** CAPÍTULO XVI — DAS PENALIDADES
 
-Art. 264.  (VETADO)
+Art. 264. (VETADO)
 
 #### Interpretação
 
@@ -11671,11 +11671,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVI — DAS PENALIDADES
 
-Art. 267.  Deverá ser imposta a penalidade de advertência por escrito à infração de natureza leve ou média, passível de ser punida com multa, caso o infrator não tenha cometido nenhuma outra infração nos últimos 12 (doze) meses.         (Redação dada pela Lei nº 14.071, de 2020)    (Vigência)
+Art. 267. Deverá ser imposta a penalidade de advertência por escrito à infração de natureza leve ou média, passível de ser punida com multa, caso o infrator não tenha cometido nenhuma outra infração nos últimos 12 (doze) meses. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 1º (Revogado).        (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 1º (Revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º (Revogado).      (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2º (Revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020.
 
@@ -11706,19 +11706,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 268. O infrator será submetido a curso de reciclagem, na forma estabelecida pelo CONTRAN:
 
-I - (revogado);        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+I - (revogado); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 II - quando suspenso do direito de dirigir;
 
-III - quando se envolver em sinistro grave para o qual haja contribuído, independentemente de processo judicial;       (Redação dada pela Lei nº 14.599, de 2023)
+III - quando se envolver em sinistro grave para o qual haja contribuído, independentemente de processo judicial; (Redação dada pela Lei nº 14.599, de 2023)
 
 IV - quando condenado judicialmente por delito de trânsito;
 
 V - a qualquer tempo, se for constatado que o condutor está colocando em risco a segurança do trânsito;
 
-VI - (revogado).       (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+VI - (revogado). (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-Parágrafo único. Além do curso de reciclagem previsto no caput deste artigo, o infrator será submetido à avaliação psicológica nos casos dos incisos III, IV e V do caput deste artigo.    (Incluído pela Lei nº 14.071, de 2020)     (Vigência)     (Parte promulgada pelo Congresso Nacional)
+Parágrafo único. Além do curso de reciclagem previsto no caput deste artigo, o infrator será submetido à avaliação psicológica nos casos dos incisos III, IV e V do caput deste artigo. (Incluído pela Lei nº 14.071, de 2020) (Vigência) (Parte promulgada pelo Congresso Nacional)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020.
 
@@ -11747,39 +11747,39 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVI — DAS PENALIDADES
 
-Art. 268-A.  Fica criado o Registro Nacional Positivo de Condutores (RNPC), administrado pelo órgão máximo executivo de trânsito da União, com a finalidade de cadastrar os condutores que não cometeram infração de trânsito sujeita à pontuação prevista no art. 259 deste Código, nos últimos 12 (doze) meses, conforme regulamentação do Contran.         (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+Art. 268-A. Fica criado o Registro Nacional Positivo de Condutores (RNPC), administrado pelo órgão máximo executivo de trânsito da União, com a finalidade de cadastrar os condutores que não cometeram infração de trânsito sujeita à pontuação prevista no art. 259 deste Código, nos últimos 12 (doze) meses, conforme regulamentação do Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 1º  O RNPC deverá ser atualizado mensalmente.           (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 1º O RNPC deverá ser atualizado mensalmente. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  A abertura de cadastro requer autorização prévia e expressa do potencial cadastrado.         (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 2º A abertura de cadastro requer autorização prévia e expressa do potencial cadastrado. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3º  Após a abertura do cadastro, a anotação de informação no RNPC independe de autorização e de comunicação ao cadastrado.          (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 3º Após a abertura do cadastro, a anotação de informação no RNPC independe de autorização e de comunicação ao cadastrado. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 4º  A exclusão do RNPC dar-se-á:           (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 4º A exclusão do RNPC dar-se-á: (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-I - por solicitação do cadastrado;           (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+I - por solicitação do cadastrado; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-II - quando for atribuída ao cadastrado pontuação por infração;          (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+II - quando for atribuída ao cadastrado pontuação por infração; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-III - quando o cadastrado tiver o direito de dirigir suspenso;          (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+III - quando o cadastrado tiver o direito de dirigir suspenso; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-IV - quando a Carteira Nacional de Habilitação do cadastrado estiver cassada ou com validade vencida há mais de 30 (trinta) dias;          (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+IV - quando a Carteira Nacional de Habilitação do cadastrado estiver cassada ou com validade vencida há mais de 30 (trinta) dias; (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-V - quando o cadastrado estiver cumprindo pena privativa de liberdade.         (Incluído pela Lei nº 14.071, de 2020)        (Vigência)
+V - quando o cadastrado estiver cumprindo pena privativa de liberdade. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 5º  A consulta ao RNPC é garantida a todos os cidadãos, nos termos da regulamentação do Contran.         (Incluído pela Lei nº 14.071, de 2020)    (Vigência)
+§ 5º A consulta ao RNPC é garantida a todos os cidadãos, nos termos da regulamentação do Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 6º  A União, os Estados, o Distrito Federal e os Municípios poderão utilizar o RNPC para conceder benefícios fiscais ou tarifários aos condutores cadastrados, na forma da legislação específica de cada ente da Federação.       (Incluído pela Lei nº 14.071, de 2020)       (Vigência)
+§ 6º A União, os Estados, o Distrito Federal e os Municípios poderão utilizar o RNPC para conceder benefícios fiscais ou tarifários aos condutores cadastrados, na forma da legislação específica de cada ente da Federação. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 7º O condutor que, ao término do período de validade da Carteira Nacional de Habilitação ou da Autorização para Conduzir Ciclomotor, estiver cadastrado no RNPC terá sua habilitação renovada automaticamente e ficará dispensado dos procedimentos previstos no art. 147 deste Código, com exceção dos exames de aptidão física e mental.      (Redação dada pela Lei nº 15.428, de 2026)
+§ 7º O condutor que, ao término do período de validade da Carteira Nacional de Habilitação ou da Autorização para Conduzir Ciclomotor, estiver cadastrado no RNPC terá sua habilitação renovada automaticamente e ficará dispensado dos procedimentos previstos no art. 147 deste Código, com exceção dos exames de aptidão física e mental. (Redação dada pela Lei nº 15.428, de 2026)
 
-§ 8º      ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
+§ 8º ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
 
-I -      ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
+I - ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
 
-II -    ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
+II - ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
 
-III -    ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
+III - ~~(Incluído pela Medida Provisória nº 1.327, de 2025)~~
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020; redação — Lei nº 15.428, de 2026; inclusão — Medida Provisória nº 1.327, de 2025.
 
@@ -11826,7 +11826,7 @@ V - recolhimento do Certificado de Registro;
 
 VI - recolhimento do Certificado de Licenciamento Anual;
 
-VII -  (VETADO)
+VII - (VETADO)
 
 VIII - transbordo do excesso de carga;
 
@@ -11834,23 +11834,23 @@ IX - realização de teste de dosagem de alcoolemia ou perícia de substância e
 
 X - recolhimento de animais que se encontrem soltos nas vias e na faixa de domínio das vias de circulação, restituindo-os aos seus proprietários, após o pagamento de multas e encargos devidos.
 
-XI - realização de exames de aptidão física, mental, de legislação, de prática de primeiros socorros e de direção veicular.   (Incluído pela Lei nº 9.602, de 1998)
+XI - realização de exames de aptidão física, mental, de legislação, de prática de primeiros socorros e de direção veicular. (Incluído pela Lei nº 9.602, de 1998)
 
 § 1º A ordem, o consentimento, a fiscalização, as medidas administrativas e coercitivas adotadas pelas autoridades de trânsito e seus agentes terão por objetivo prioritário a proteção à vida e à incolumidade física da pessoa.
 
 § 2º As medidas administrativas previstas neste artigo não elidem a aplicação das penalidades impostas por infrações estabelecidas neste Código, possuindo caráter complementar a estas.
 
-§ 3º São documentos de habilitação:       (Redação dada pela Lei nº 14.599, de 2023)
+§ 3º São documentos de habilitação: (Redação dada pela Lei nº 14.599, de 2023)
 
-I - a Carteira Nacional de Habilitação;     (Incluído pela Lei nº 14.599, de 2023)
+I - a Carteira Nacional de Habilitação; (Incluído pela Lei nº 14.599, de 2023)
 
-II - a Permissão para Dirigir; e       (Incluído pela Lei nº 14.599, de 2023)
+II - a Permissão para Dirigir; e (Incluído pela Lei nº 14.599, de 2023)
 
-III - a Autorização para Conduzir Ciclomotor.      (Incluído pela Lei nº 14.599, de 2023)
+III - a Autorização para Conduzir Ciclomotor. (Incluído pela Lei nº 14.599, de 2023)
 
 § 4º Aplica-se aos animais recolhidos na forma do inciso X o disposto nos arts. 271 e 328, no que couber.
 
-§ 5º  No caso de documentos em meio digital, as medidas administrativas previstas nos incisos III, IV, V e VI do caput deste artigo serão realizadas por meio de registro no Renach ou Renavam, conforme o caso, na forma estabelecida pelo Contran.         (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 5º No caso de documentos em meio digital, as medidas administrativas previstas nos incisos III, IV, V e VI do caput deste artigo serão realizadas por meio de registro no Renach ou Renavam, conforme o caso, na forma estabelecida pelo Contran. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 9.602, de 1998; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.599, de 2023; inclusão — Lei nº 14.071, de 2020.
 
@@ -11887,17 +11887,17 @@ Art. 270. O veículo poderá ser retido nos casos expressos neste Código.
 
 § 1º Quando a irregularidade puder ser sanada no local da infração, o veículo será liberado tão logo seja regularizada a situação.
 
-§ 2º  Quando não for possível sanar a falha no local da infração, o veículo, desde que ofereça condições de segurança para circulação, deverá ser liberado e entregue a condutor regularmente habilitado, mediante recolhimento do Certificado de Licenciamento Anual, contra apresentação de recibo, assinalando-se ao condutor prazo razoável, não superior a 30 (trinta) dias, para regularizar a situação, e será considerado notificado para essa finalidade na mesma ocasião.           (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2º Quando não for possível sanar a falha no local da infração, o veículo, desde que ofereça condições de segurança para circulação, deverá ser liberado e entregue a condutor regularmente habilitado, mediante recolhimento do Certificado de Licenciamento Anual, contra apresentação de recibo, assinalando-se ao condutor prazo razoável, não superior a 30 (trinta) dias, para regularizar a situação, e será considerado notificado para essa finalidade na mesma ocasião. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 § 3º O Certificado de Licenciamento Anual será devolvido ao condutor no órgão ou entidade aplicadores das medidas administrativas, tão logo o veículo seja apresentado à autoridade devidamente regularizado.
 
-§ 4º  Não se apresentando condutor habilitado no local da infração, o veículo será removido a depósito, aplicando-se neste caso o disposto no art. 271.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 4º Não se apresentando condutor habilitado no local da infração, o veículo será removido a depósito, aplicando-se neste caso o disposto no art. 271. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 § 5º A critério do agente, não se dará a retenção imediata, quando se tratar de veículo de transporte coletivo transportando passageiros ou veículo transportando produto perigoso ou perecível, desde que ofereça condições de segurança para circulação em via pública.
 
-§ 6º  Não efetuada a regularização no prazo a que se refere o   § 2o, será feito registro de restrição administrativa no Renavam por órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal, que será retirada após comprovada a regularização.        (Incluído pela Lei nº 13.160, de 2015)
+§ 6º Não efetuada a regularização no prazo a que se refere o § 2o, será feito registro de restrição administrativa no Renavam por órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal, que será retirada após comprovada a regularização. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 7o O descumprimento das obrigações estabelecidas no § 2o resultará em recolhimento do veículo ao depósito, aplicando-se, nesse caso, o disposto no art. 271.        (Incluído pela Lei nº 13.160, de 2015)
+§ 7o O descumprimento das obrigações estabelecidas no § 2o resultará em recolhimento do veículo ao depósito, aplicando-se, nesse caso, o disposto no art. 271. (Incluído pela Lei nº 13.160, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; redação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.160, de 2015.
 
@@ -11930,39 +11930,39 @@ O veículo retido é liberado após a regularização no local; não sendo poss�
 
 Art. 271. O veículo será removido, nos casos previstos neste Código, para o depósito fixado pelo órgão ou entidade competente, com circunscrição sobre a via.
 
-§ 1o A restituição do veículo removido só ocorrerá mediante prévio pagamento de multas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica.        (Incluído pela Lei nº 13.160, de 2015)
+§ 1o A restituição do veículo removido só ocorrerá mediante prévio pagamento de multas, taxas e despesas com remoção e estada, além de outros encargos previstos na legislação específica. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 2o A liberação do veículo removido é condicionada ao reparo de qualquer componente ou equipamento obrigatório que não esteja em perfeito estado de funcionamento.        (Incluído pela Lei nº 13.160, de 2015)
+§ 2o A liberação do veículo removido é condicionada ao reparo de qualquer componente ou equipamento obrigatório que não esteja em perfeito estado de funcionamento. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 3º  Se o reparo referido no § 2º demandar providência que não possa ser tomada no depósito, a autoridade responsável pela remoção liberará o veículo para reparo, na forma transportada, mediante autorização, assinalando prazo para reapresentação.          (Redação dada pela Lei nº 13.281, de 2016)
+§ 3º Se o reparo referido no § 2º demandar providência que não possa ser tomada no depósito, a autoridade responsável pela remoção liberará o veículo para reparo, na forma transportada, mediante autorização, assinalando prazo para reapresentação. (Redação dada pela Lei nº 13.281, de 2016)
 
-§ 4º  Os serviços de remoção, depósito e guarda de veículo poderão ser realizados por órgão público, diretamente, ou por particular contratado por licitação pública, sendo o proprietário do veículo o responsável pelo pagamento dos custos desses serviços.          (Redação dada pela Lei nº 13.281, de 2016)
+§ 4º Os serviços de remoção, depósito e guarda de veículo poderão ser realizados por órgão público, diretamente, ou por particular contratado por licitação pública, sendo o proprietário do veículo o responsável pelo pagamento dos custos desses serviços. (Redação dada pela Lei nº 13.281, de 2016)
 
-§ 5o O proprietário ou o condutor deverá ser notificado, no ato de remoção do veículo, sobre as providências necessárias à sua restituição e sobre o disposto no art. 328, conforme regulamentação do CONTRAN.        (Incluído pela Lei nº 13.160, de 2015)
+§ 5o O proprietário ou o condutor deverá ser notificado, no ato de remoção do veículo, sobre as providências necessárias à sua restituição e sobre o disposto no art. 328, conforme regulamentação do CONTRAN. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 6º  Caso o proprietário ou o condutor não esteja presente no momento da remoção do veículo, a autoridade de trânsito, no prazo de 10 (dez) dias contado da data da remoção, deverá expedir ao proprietário a notificação prevista no § 5º, por remessa postal ou por outro meio tecnológico hábil que assegure a sua ciência, e, caso reste frustrada, a notificação poderá ser feita por edital.           (Redação dada pela Lei nº 13.281, de 2016)
+§ 6º Caso o proprietário ou o condutor não esteja presente no momento da remoção do veículo, a autoridade de trânsito, no prazo de 10 (dez) dias contado da data da remoção, deverá expedir ao proprietário a notificação prevista no § 5º, por remessa postal ou por outro meio tecnológico hábil que assegure a sua ciência, e, caso reste frustrada, a notificação poderá ser feita por edital. (Redação dada pela Lei nº 13.281, de 2016)
 
-§ 7o A notificação devolvida por desatualização do endereço do proprietário do veículo ou por recusa desse de recebê-la será considerada recebida para todos os efeitos.        (Incluído pela Lei nº 13.160, de 2015)
+§ 7o A notificação devolvida por desatualização do endereço do proprietário do veículo ou por recusa desse de recebê-la será considerada recebida para todos os efeitos. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 8o Em caso de veículo licenciado no exterior, a notificação será feita por edital.        (Incluído pela Lei nº 13.160, de 2015)
+§ 8o Em caso de veículo licenciado no exterior, a notificação será feita por edital. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 9º  Não caberá remoção nos casos em que a irregularidade for sanada no local da infração.        (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 9º Não caberá remoção nos casos em que a irregularidade for sanada no local da infração. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 9º-A. Quando não for possível sanar a irregularidade no local da infração, o veículo, desde que ofereça condições de segurança para circulação, será liberado e entregue a condutor regularmente habilitado, mediante recolhimento do Certificado de Licenciamento Anual, contra a apresentação de recibo, e prazo razoável, não superior a 15 (quinze) dias, será assinalado ao condutor para regularizar a situação, o qual será considerado notificado para essa finalidade na mesma ocasião.        (Incluído pela Lei nº 14.229, de 2021)
+§ 9º-A. Quando não for possível sanar a irregularidade no local da infração, o veículo, desde que ofereça condições de segurança para circulação, será liberado e entregue a condutor regularmente habilitado, mediante recolhimento do Certificado de Licenciamento Anual, contra a apresentação de recibo, e prazo razoável, não superior a 15 (quinze) dias, será assinalado ao condutor para regularizar a situação, o qual será considerado notificado para essa finalidade na mesma ocasião. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 9º-B. O disposto no § 9º-A deste artigo não se aplica às infrações previstas no inciso V do caput do art. 230 e no inciso VIII do caput do art. 231 deste Código.         (Incluído pela Lei nº 14.229, de 2021)
+§ 9º-B. O disposto no § 9º-A deste artigo não se aplica às infrações previstas no inciso V do caput do art. 230 e no inciso VIII do caput do art. 231 deste Código. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 9º-C. Não efetuada a regularização no prazo referido no § 9º-A deste artigo, será feito registro de restrição administrativa no Renavam por órgão ou entidade executivos de trânsito dos Estados ou do Distrito Federal, o qual será retirado após comprovada a regularização.        (Incluído pela Lei nº 14.229, de 2021)
+§ 9º-C. Não efetuada a regularização no prazo referido no § 9º-A deste artigo, será feito registro de restrição administrativa no Renavam por órgão ou entidade executivos de trânsito dos Estados ou do Distrito Federal, o qual será retirado após comprovada a regularização. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 9º-D. O descumprimento da obrigação estabelecida no § 9º-A deste artigo resultará em recolhimento do veículo ao depósito, aplicando-se, nesse caso, o disposto neste artigo.        (Incluído pela Lei nº 14.229, de 2021)
+§ 9º-D. O descumprimento da obrigação estabelecida no § 9º-A deste artigo resultará em recolhimento do veículo ao depósito, aplicando-se, nesse caso, o disposto neste artigo. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 10.  O pagamento das despesas de remoção e estada será correspondente ao período integral, contado em dias, em que efetivamente o veículo permanecer em depósito, limitado ao prazo de 6 (seis) meses.          (Incluído pela Lei nº 13.281, de 2016)
+§ 10. O pagamento das despesas de remoção e estada será correspondente ao período integral, contado em dias, em que efetivamente o veículo permanecer em depósito, limitado ao prazo de 6 (seis) meses. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 11.  Os custos dos serviços de remoção e estada prestados por particulares poderão ser pagos pelo proprietário diretamente ao contratado.          (Incluído pela Lei nº 13.281, de 2016)
+§ 11. Os custos dos serviços de remoção e estada prestados por particulares poderão ser pagos pelo proprietário diretamente ao contratado. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 12.  O disposto no § 11 não afasta a possibilidade de o respectivo ente da Federação estabelecer a cobrança por meio de taxa instituída em lei.          (Incluído pela Lei nº 13.281, de 2016)
+§ 12. O disposto no § 11 não afasta a possibilidade de o respectivo ente da Federação estabelecer a cobrança por meio de taxa instituída em lei. (Incluído pela Lei nº 13.281, de 2016)
 
-§ 13.  No caso de o proprietário do veículo objeto do recolhimento comprovar, administrativa ou judicialmente, que o recolhimento foi indevido ou que houve abuso no período de retenção em depósito, é da responsabilidade do ente público a devolução das quantias pagas por força deste artigo, segundo os mesmos critérios da devolução de multas indevidas.          (Incluído pela Lei nº 13.281, de 2016)
+§ 13. No caso de o proprietário do veículo objeto do recolhimento comprovar, administrativa ou judicialmente, que o recolhimento foi indevido ou que houve abuso no período de retenção em depósito, é da responsabilidade do ente público a devolução das quantias pagas por força deste artigo, segundo os mesmos critérios da devolução de multas indevidas. (Incluído pela Lei nº 13.281, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.160, de 2015; redação — Lei nº 13.281, de 2016; redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.229, de 2021; inclusão — Lei nº 13.281, de 2016.
 
@@ -12114,9 +12114,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVII — DAS MEDIDAS ADMINISTRATIVAS
 
-Art. 276.  Qualquer concentração de álcool por litro de sangue ou por litro de ar alveolar sujeita o condutor às penalidades previstas no art. 165.          (Redação dada pela Lei nº 12.760, de 2012)
+Art. 276. Qualquer concentração de álcool por litro de sangue ou por litro de ar alveolar sujeita o condutor às penalidades previstas no art. 165. (Redação dada pela Lei nº 12.760, de 2012)
 
-Parágrafo único. O Contran disciplinará as margens de tolerância quando a infração for apurada por meio de aparelho de medição, observada a legislação metrológica.          (Redação dada pela Lei nº 12.760, de 2012)
+Parágrafo único. O Contran disciplinará as margens de tolerância quando a infração for apurada por meio de aparelho de medição, observada a legislação metrológica. (Redação dada pela Lei nº 12.760, de 2012)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.760, de 2012.
 
@@ -12148,13 +12148,13 @@ Qualquer concentração de álcool no sangue ou no ar alveolar sujeita o conduto
 
 **Localização:** CAPÍTULO XVII — DAS MEDIDAS ADMINISTRATIVAS
 
-Art. 277. O condutor de veículo automotor envolvido em sinistro de trânsito ou que for alvo de fiscalização de trânsito poderá ser submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, na forma disciplinada pelo Contran, permita certificar influência de álcool ou outra substância psicoativa que determine dependência.      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 277. O condutor de veículo automotor envolvido em sinistro de trânsito ou que for alvo de fiscalização de trânsito poderá ser submetido a teste, exame clínico, perícia ou outro procedimento que, por meios técnicos ou científicos, na forma disciplinada pelo Contran, permita certificar influência de álcool ou outra substância psicoativa que determine dependência. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 1o  (Revogado).          (Redação dada pela Lei nº 12.760, de 2012)
+§ 1o (Revogado). (Redação dada pela Lei nº 12.760, de 2012)
 
-§ 2o  A infração prevista no art. 165 também poderá ser caracterizada mediante imagem, vídeo, constatação de sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora ou produção de quaisquer outras provas em direito admitidas.          (Redação dada pela Lei nº 12.760, de 2012)
+§ 2o A infração prevista no art. 165 também poderá ser caracterizada mediante imagem, vídeo, constatação de sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora ou produção de quaisquer outras provas em direito admitidas. (Redação dada pela Lei nº 12.760, de 2012)
 
-§ 3º  Serão aplicadas as penalidades e medidas administrativas estabelecidas no art. 165-A deste Código ao condutor que se recusar a se submeter a qualquer dos procedimentos previstos no caput deste artigo.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º Serão aplicadas as penalidades e medidas administrativas estabelecidas no art. 165-A deste Código ao condutor que se recusar a se submeter a qualquer dos procedimentos previstos no caput deste artigo. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; redação — Lei nº 12.760, de 2012; redação — Lei nº 13.281, de 2016.
 
@@ -12219,11 +12219,11 @@ Quem foge da pesagem obrigatória sofre a penalidade do art. 209 e deve retornar
 
 **Localização:** CAPÍTULO XVII — DAS MEDIDAS ADMINISTRATIVAS
 
-Art. 278-A.  O condutor que se utilize de veículo para a prática do crime de receptação, descaminho, contrabando, previstos nos arts. 180, 334 e 334-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), condenado por um desses crimes em decisão judicial transitada em julgado, terá cassado seu documento de habilitação ou será proibido de obter a habilitação para dirigir veículo automotor pelo prazo de 5 (cinco) anos.                 (Incluído pela Lei nº 13.804, de 2019)
+Art. 278-A. O condutor que se utilize de veículo para a prática do crime de receptação, descaminho, contrabando, previstos nos arts. 180, 334 e 334-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), condenado por um desses crimes em decisão judicial transitada em julgado, terá cassado seu documento de habilitação ou será proibido de obter a habilitação para dirigir veículo automotor pelo prazo de 5 (cinco) anos. (Incluído pela Lei nº 13.804, de 2019)
 
-§ 1º  O condutor condenado poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma deste Código.                 (Incluído pela Lei nº 13.804, de 2019)
+§ 1º O condutor condenado poderá requerer sua reabilitação, submetendo-se a todos os exames necessários à habilitação, na forma deste Código. (Incluído pela Lei nº 13.804, de 2019)
 
-§ 2º  No caso do condutor preso em flagrante na prática dos crimes de que trata o caput deste artigo, poderá o juiz, em qualquer fase da investigação ou da ação penal, se houver necessidade para a garantia da ordem pública, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção.                 (Incluído pela Lei nº 13.804, de 2019)
+§ 2º No caso do condutor preso em flagrante na prática dos crimes de que trata o caput deste artigo, poderá o juiz, em qualquer fase da investigação ou da ação penal, se houver necessidade para a garantia da ordem pública, como medida cautelar, de ofício, ou a requerimento do Ministério Público ou ainda mediante representação da autoridade policial, decretar, em decisão motivada, a suspensão da permissão ou da habilitação para dirigir veículo automotor, ou a proibição de sua obtenção. (Incluído pela Lei nº 13.804, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.804, de 2019.
 
@@ -12260,7 +12260,7 @@ O condutor condenado em definitivo por receptação, descaminho ou contrabando p
 
 **Localização:** CAPÍTULO XVII — DAS MEDIDAS ADMINISTRATIVAS
 
-Art. 279. Em caso de sinistro com vítima envolvendo veículo equipado com registrador instantâneo de velocidade e tempo, somente o perito oficial encarregado do levantamento pericial poderá retirar o disco ou unidade armazenadora do registro.    (Redação dada pela Lei nº 14.599, de 2023)
+Art. 279. Em caso de sinistro com vítima envolvendo veículo equipado com registrador instantâneo de velocidade e tempo, somente o perito oficial encarregado do levantamento pericial poderá retirar o disco ou unidade armazenadora do registro. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -12290,11 +12290,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVII — DAS MEDIDAS ADMINISTRATIVAS
 
-Art. 279-A. O veículo em estado de abandono ou sinistrado poderá ser removido para o depósito fixado pelo órgão ou entidade competente do Sistema Nacional de Trânsito independentemente da existência de infração à legislação de trânsito, nos termos da regulamentação do Contran.      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 279-A. O veículo em estado de abandono ou sinistrado poderá ser removido para o depósito fixado pelo órgão ou entidade competente do Sistema Nacional de Trânsito independentemente da existência de infração à legislação de trânsito, nos termos da regulamentação do Contran. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 1º A remoção do veículo sinistrado será realizada quando não houver responsável por ele no local do sinistro.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 1º A remoção do veículo sinistrado será realizada quando não houver responsável por ele no local do sinistro. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 2º Aplicam-se à remoção de veículo em estado de abandono ou sinistrado as disposições constantes do art. 328, sem prejuízo das demais disposições deste Código.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 2º Aplicam-se à remoção de veículo em estado de abandono ou sinistrado as disposições constantes do art. 328, sem prejuízo das demais disposições deste Código. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -12348,9 +12348,9 @@ VI - assinatura do infrator, sempre que possível, valendo esta como notificaç�
 
 § 4º O agente da autoridade de trânsito competente para lavrar o auto de infração poderá ser servidor civil, estatutário ou celetista ou, ainda, policial militar designado pela autoridade de trânsito com jurisdição sobre a via no âmbito de sua competência.
 
-§ 5º (VETADO).      (Incluído pela Lei nº 14.599, de 2023)
+§ 5º (VETADO). (Incluído pela Lei nº 14.599, de 2023)
 
-§ 6º Não há infração de circulação, parada ou estacionamento relativa aos veículos destinados a socorro de incêndio e salvamento, aos de polícia, aos de fiscalização e operação de trânsito e às ambulâncias, ainda que não identificados ostensivamente.    (Incluído pela Lei nº 14.599, de 2023)
+§ 6º Não há infração de circulação, parada ou estacionamento relativa aos veículos destinados a socorro de incêndio e salvamento, aos de polícia, aos de fiscalização e operação de trânsito e às ambulâncias, ainda que não identificados ostensivamente. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.599, de 2023.
 
@@ -12382,13 +12382,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 281. A autoridade de trânsito, na esfera da competência estabelecida neste Código e dentro de sua circunscrição, julgará a consistência do auto de infração e aplicará a penalidade cabível.
 
-§ 1º O auto de infração será arquivado e seu registro julgado insubsistente:     (Renumerado do parágrafo único pela Lei nº 14.304, de 2022)      (Vigência)
+§ 1º O auto de infração será arquivado e seu registro julgado insubsistente: (Renumerado do parágrafo único pela Lei nº 14.304, de 2022) (Vigência)
 
 I - se considerado inconsistente ou irregular;
 
-II - se, no prazo máximo de trinta dias, não for expedida a notificação da autuação.        (Redação dada pela Lei nº 9.602, de 1998)
+II - se, no prazo máximo de trinta dias, não for expedida a notificação da autuação. (Redação dada pela Lei nº 9.602, de 1998)
 
-§ 2º O prazo para expedição da notificação da autuação referente às penalidades de suspensão do direito de dirigir e de cassação do documento de habilitação será contado a partir da data da instauração do processo destinado à aplicação dessas penalidades.       (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+§ 2º O prazo para expedição da notificação da autuação referente às penalidades de suspensão do direito de dirigir e de cassação do documento de habilitação será contado a partir da data da instauração do processo destinado à aplicação dessas penalidades. (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei nº 14.304, de 2022; redação — Lei nº 9.602, de 1998; inclusão — Lei nº 14.304, de 2022.
 
@@ -12418,7 +12418,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 281-A.  Na notificação de autuação e no auto de infração, quando valer como notificação de autuação, deverá constar o prazo para apresentação de defesa prévia, que não será inferior a 30 (trinta) dias, contado da data de expedição da notificação.         (Incluído pela Lei nº 14.071, de 2020)       (Vigência)
+Art. 281-A. Na notificação de autuação e no auto de infração, quando valer como notificação de autuação, deverá constar o prazo para apresentação de defesa prévia, que não será inferior a 30 (trinta) dias, contado da data de expedição da notificação. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -12447,29 +12447,29 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 282. Caso a defesa prévia seja indeferida ou não seja apresentada no prazo estabelecido, será aplicada a penalidade e expedida notificação ao proprietário do veículo ou ao infrator, por remessa postal ou por qualquer outro meio tecnológico hábil que assegure a ciência da imposição da penalidade.         (Redação dada pela Lei nº 14.229, de 2021)
+Art. 282. Caso a defesa prévia seja indeferida ou não seja apresentada no prazo estabelecido, será aplicada a penalidade e expedida notificação ao proprietário do veículo ou ao infrator, por remessa postal ou por qualquer outro meio tecnológico hábil que assegure a ciência da imposição da penalidade. (Redação dada pela Lei nº 14.229, de 2021)
 
-§ 1º A notificação devolvida por desatualização do endereço do proprietário do veículo ou por recusa em recebê-la será considerada válida para todos os efeitos.       (Redação dada pela Lei nº 14.229, de 2021)
+§ 1º A notificação devolvida por desatualização do endereço do proprietário do veículo ou por recusa em recebê-la será considerada válida para todos os efeitos. (Redação dada pela Lei nº 14.229, de 2021)
 
 § 2º A notificação a pessoal de missões diplomáticas, de repartições consulares de carreira e de representações de organismos internacionais e de seus integrantes será remetida ao Ministério das Relações Exteriores para as providências cabíveis e cobrança dos valores, no caso de multa.
 
 § 3º Sempre que a penalidade de multa for imposta a condutor, à exceção daquela de que trata o § 1º do art. 259, a notificação será encaminhada ao proprietário do veículo, responsável pelo seu pagamento.
 
-§ 4º Da notificação deverá constar a data do término do prazo para apresentação de recurso pelo responsável pela infração, que não será inferior a trinta dias contados da data da notificação da penalidade.        (Incluído pela Lei nº 9.602, de 1998)
+§ 4º Da notificação deverá constar a data do término do prazo para apresentação de recurso pelo responsável pela infração, que não será inferior a trinta dias contados da data da notificação da penalidade. (Incluído pela Lei nº 9.602, de 1998)
 
-§ 5º No caso de penalidade de multa, a data estabelecida no parágrafo anterior será a data para o recolhimento de seu valor.        (Incluído pela Lei nº 9.602, de 1998)
+§ 5º No caso de penalidade de multa, a data estabelecida no parágrafo anterior será a data para o recolhimento de seu valor. (Incluído pela Lei nº 9.602, de 1998)
 
-§ 6º O prazo para expedição das notificações das penalidades previstas no art. 256 deste Código é de 180 (cento e oitenta) dias ou, se houver interposição de defesa prévia, de 360 (trezentos e sessenta) dias, contado:          (Redação dada pela Lei nº 14.229, de 2021)
+§ 6º O prazo para expedição das notificações das penalidades previstas no art. 256 deste Código é de 180 (cento e oitenta) dias ou, se houver interposição de defesa prévia, de 360 (trezentos e sessenta) dias, contado: (Redação dada pela Lei nº 14.229, de 2021)
 
-I - no caso das penalidades previstas nos incisos I e II do caput do art. 256 deste Código, da data do cometimento da infração;        (Incluído pela Lei nº 14.229, de 2021)
+I - no caso das penalidades previstas nos incisos I e II do caput do art. 256 deste Código, da data do cometimento da infração; (Incluído pela Lei nº 14.229, de 2021)
 
-II - no caso das demais penalidades previstas no art. 256 deste Código, da conclusão do processo administrativo da penalidade que lhe der causa.        (Incluído pela Lei nº 14.229, de 2021)
+II - no caso das demais penalidades previstas no art. 256 deste Código, da conclusão do processo administrativo da penalidade que lhe der causa. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 6º-A. Para fins de aplicação do inciso I do § 6º deste artigo, no caso das autuações que não sejam em flagrante, o prazo será contado da data do conhecimento da infração pelo órgão de trânsito responsável pela aplicação da penalidade, na forma definida pelo Contran.          (Incluído pela Lei nº 14.229, de 2021)
+§ 6º-A. Para fins de aplicação do inciso I do § 6º deste artigo, no caso das autuações que não sejam em flagrante, o prazo será contado da data do conhecimento da infração pelo órgão de trânsito responsável pela aplicação da penalidade, na forma definida pelo Contran. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 7º O descumprimento dos prazos previstos no § 6º deste artigo implicará a decadência do direito de aplicar a respectiva penalidade.       (Redação dada pela Lei nº 14.229, de 2021)
+§ 7º O descumprimento dos prazos previstos no § 6º deste artigo implicará a decadência do direito de aplicar a respectiva penalidade. (Redação dada pela Lei nº 14.229, de 2021)
 
-§ 8º (VETADO).       (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+§ 8º (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.229, de 2021; inclusão — Lei nº 9.602, de 1998; inclusão — Lei nº 14.229, de 2021; inclusão — Lei nº 14.304, de 2022.
 
@@ -12502,17 +12502,17 @@ Indeferida ou não apresentada a defesa prévia, aplica-se a penalidade e notifi
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 282-A.  O órgão do Sistema Nacional de Trânsito responsável pela autuação deverá oferecer ao proprietário do veículo ou ao condutor autuado a opção de notificação por meio eletrônico, na forma definida pelo Contran.  (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)     (Vide Lei nº 14.440, de 2022)       (Vigência)
+Art. 282-A. O órgão do Sistema Nacional de Trânsito responsável pela autuação deverá oferecer ao proprietário do veículo ou ao condutor autuado a opção de notificação por meio eletrônico, na forma definida pelo Contran. (Redação dada pela Lei nº 14.071, de 2020) (Vigência) (Vide Lei nº 14.440, de 2022) (Vigência)
 
-§ 1º  O proprietário e o condutor autuado deverão manter seu cadastro atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal.         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+§ 1º O proprietário e o condutor autuado deverão manter seu cadastro atualizado no órgão executivo de trânsito do Estado ou do Distrito Federal. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 2º  Na hipótese de notificação prevista no caput deste artigo, o proprietário ou o condutor autuado será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico e do envio da respectiva mensagem.         (Redação dada pela Lei nº 14.071, de 2020)       (Vigência)
+§ 2º Na hipótese de notificação prevista no caput deste artigo, o proprietário ou o condutor autuado será considerado notificado 30 (trinta) dias após a inclusão da informação no sistema eletrônico e do envio da respectiva mensagem. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 3º O  sistema previsto no caput será certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º O sistema previsto no caput será certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 4º A coordenação do sistema de que trata o caput deste artigo é de responsabilidade do órgão máximo executivo de trânsito da União.      (Incluído pela Lei nº 14.440, de 2022)
+§ 4º A coordenação do sistema de que trata o caput deste artigo é de responsabilidade do órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 14.440, de 2022)
 
-§ 5º   (Vide Lei nº 14.440, de 2022)       (Vigência)
+§ 5º (Vide Lei nº 14.440, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.071, de 2020; inclusão — Lei nº 13.281, de 2016; inclusão — Lei nº 14.440, de 2022.
 
@@ -12574,17 +12574,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 284. O pagamento da multa poderá ser efetuado até a data do vencimento expressa na notificação, por oitenta por cento do seu valor.
 
-§ 1º Caso o infrator declare pelo sistema de notificação eletrônica de que trata o art. 282-A deste Código a opção por não apresentar defesa prévia nem recurso, reconhecendo o cometimento da infração, o pagamento da multa poderá ser efetuado por 60% (sessenta por cento) do seu valor, em qualquer fase do processo, até o vencimento do prazo de pagamento da multa, desde que a adesão ao sistema seja realizada antes do correspondente envio da notificação da autuação.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 1º Caso o infrator declare pelo sistema de notificação eletrônica de que trata o art. 282-A deste Código a opção por não apresentar defesa prévia nem recurso, reconhecendo o cometimento da infração, o pagamento da multa poderá ser efetuado por 60% (sessenta por cento) do seu valor, em qualquer fase do processo, até o vencimento do prazo de pagamento da multa, desde que a adesão ao sistema seja realizada antes do correspondente envio da notificação da autuação. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 2º  O recolhimento do valor da multa não implica renúncia ao questionamento administrativo, que pode ser realizado a qualquer momento, respeitado o disposto no § 1º.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 2º O recolhimento do valor da multa não implica renúncia ao questionamento administrativo, que pode ser realizado a qualquer momento, respeitado o disposto no § 1º. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 3º  Não incidirá cobrança moratória e não poderá ser aplicada qualquer restrição, inclusive para fins de licenciamento e transferência, enquanto não for encerrada a instância administrativa de julgamento de infrações e penalidades.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º Não incidirá cobrança moratória e não poderá ser aplicada qualquer restrição, inclusive para fins de licenciamento e transferência, enquanto não for encerrada a instância administrativa de julgamento de infrações e penalidades. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 4º  Encerrada a instância administrativa de julgamento de infrações e penalidades, a multa não paga até o vencimento será acrescida de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 4º Encerrada a instância administrativa de julgamento de infrações e penalidades, a multa não paga até o vencimento será acrescida de juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais acumulada mensalmente, calculados a partir do mês subsequente ao da consolidação até o mês anterior ao do pagamento, e de 1% (um por cento) relativamente ao mês em que o pagamento estiver sendo efetuado. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 5º O sistema de notificação eletrônica de que trata o art. 282-A deste Código deve disponibilizar, na mesma plataforma, campo destinado à apresentação de defesa prévia e de recurso, quando o infrator não reconhecer o cometimento da infração, na forma regulamentada pelo Contran.    (Redação dada pela Lei nº 14.440, de 2022)
+§ 5º O sistema de notificação eletrônica de que trata o art. 282-A deste Código deve disponibilizar, na mesma plataforma, campo destinado à apresentação de defesa prévia e de recurso, quando o infrator não reconhecer o cometimento da infração, na forma regulamentada pelo Contran. (Redação dada pela Lei nº 14.440, de 2022)
 
-§ 6º O desconto previsto no § 1º deste artigo será concedido ainda que o órgão responsável pela aplicação da penalidade de multa não tiver aderido ao sistema de notificação eletrônica de que trata o art. 282-A deste Código, desde que o infrator tenha cumprido os requisitos nele descritos.     (Incluído pela Lei nº 14.599, de 2023)
+§ 6º O desconto previsto no § 1º deste artigo será concedido ainda que o órgão responsável pela aplicação da penalidade de multa não tiver aderido ao sistema de notificação eletrônica de que trata o art. 282-A deste Código, desde que o infrator tenha cumprido os requisitos nele descritos. (Incluído pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 13.281, de 2016; redação — Lei nº 14.440, de 2022; inclusão — Lei nº 14.599, de 2023.
 
@@ -12616,19 +12616,19 @@ A multa pode ser paga com 20% de desconto até o vencimento e com 40% de descont
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 285. O recurso contra a penalidade imposta nos termos do art. 282 deste Código será interposto perante a autoridade que imputou a penalidade e terá efeito suspensivo.        (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+Art. 285. O recurso contra a penalidade imposta nos termos do art. 282 deste Código será interposto perante a autoridade que imputou a penalidade e terá efeito suspensivo. (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-§ 1º O recurso intempestivo ou interposto por parte ilegítima não terá efeito suspensivo.       (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+§ 1º O recurso intempestivo ou interposto por parte ilegítima não terá efeito suspensivo. (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-§ 2º Recebido o recurso tempestivo, a autoridade o remeterá à Jari, no prazo de 10 (dez) dias, contado da data de sua interposição.        (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+§ 2º Recebido o recurso tempestivo, a autoridade o remeterá à Jari, no prazo de 10 (dez) dias, contado da data de sua interposição. (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-§ 3º (Revogado).         (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+§ 3º (Revogado). (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-§ 4º  Na apresentação de defesa ou recurso, em qualquer fase do processo, para efeitos de admissibilidade, não serão exigidos documentos ou cópia de documentos emitidos pelo órgão responsável pela autuação.            (Incluído pela Lei nº 14.071, de 2020)      (Vigência)
+§ 4º Na apresentação de defesa ou recurso, em qualquer fase do processo, para efeitos de admissibilidade, não serão exigidos documentos ou cópia de documentos emitidos pelo órgão responsável pela autuação. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
-§ 5º O recurso intempestivo será arquivado.          (Incluído pela Lei nº 14.229, de 2021)
+§ 5º O recurso intempestivo será arquivado. (Incluído pela Lei nº 14.229, de 2021)
 
-§ 6º  O recurso de que trata o caput deste artigo deverá ser julgado no prazo de 24 (vinte e quatro) meses, contado do recebimento do recurso pelo órgão julgador.       (Incluído pela Lei nº 14.229, de 2021)   (Vigência)
+§ 6º O recurso de que trata o caput deste artigo deverá ser julgado no prazo de 24 (vinte e quatro) meses, contado do recebimento do recurso pelo órgão julgador. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.229, de 2021; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.229, de 2021.
 
@@ -12726,7 +12726,7 @@ Art. 288. Das decisões da JARI cabe recurso a ser interposto, na forma do artig
 
 § 1º O recurso será interposto, da decisão do não provimento, pelo responsável pela infração, e da decisão de provimento, pela autoridade que impôs a penalidade.
 
-§ 2º (Revogado pela Lei nº 12.249, de 2010)     (Vide ADIN 2998)
+§ 2º (Revogado pela Lei nº 12.249, de 2010) (Vide ADIN 2998)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 12.249, de 2010.
 
@@ -12758,21 +12758,21 @@ Da decisão da JARI cabe recurso em 30 dias da publicação ou notificação, pe
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 289. O recurso de que trata o art. 288 deste Código deverá ser julgado no prazo de 24 (vinte e quatro) meses, contado do recebimento do recurso pelo órgão julgador:    (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+Art. 289. O recurso de que trata o art. 288 deste Código deverá ser julgado no prazo de 24 (vinte e quatro) meses, contado do recebimento do recurso pelo órgão julgador: (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-I - tratando-se de penalidade imposta por órgão ou entidade da União, por colegiado especial integrado pelo Coordenador-Geral da Jari, pelo Presidente da Junta que apreciou o recurso e por mais um Presidente de Junta;   (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+I - tratando-se de penalidade imposta por órgão ou entidade da União, por colegiado especial integrado pelo Coordenador-Geral da Jari, pelo Presidente da Junta que apreciou o recurso e por mais um Presidente de Junta; (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-a) (revogada);        (Redação dada pela Lei nº 14.071, de 2020)      (Vigência)
+a) (revogada); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
-b) (revogada);         (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+b) (revogada); (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 II - tratando-se de penalidade imposta por órgão ou entidade de trânsito estadual, municipal ou do Distrito Federal, pelos CETRAN E CONTRANDIFE, respectivamente.
 
-Parágrafo único. No caso do inciso I do caput deste artigo:        (Redação dada pela Lei nº 14.229, de 2021)     (Vigência)
+Parágrafo único. No caso do inciso I do caput deste artigo: (Redação dada pela Lei nº 14.229, de 2021) (Vigência)
 
-I - quando houver apenas 1 (uma) Jari, o recurso será julgado por seus membros;        (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+I - quando houver apenas 1 (uma) Jari, o recurso será julgado por seus membros; (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
-II - quando necessário, novos colegiados especiais poderão ser formados, compostos pelo Presidente da Junta que apreciou o recurso e por mais 2 (dois) Presidentes de Junta, na forma estabelecida pelo Contran.      (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+II - quando necessário, novos colegiados especiais poderão ser formados, compostos pelo Presidente da Junta que apreciou o recurso e por mais 2 (dois) Presidentes de Junta, na forma estabelecida pelo Contran. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.229, de 2021; redação — Lei nº 14.071, de 2020; inclusão — Lei nº 14.229, de 2021.
 
@@ -12804,7 +12804,7 @@ O recurso de segunda instância é julgado em 24 meses pelo CETRAN ou CONTRANDIF
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 289-A. O não julgamento dos recursos nos prazos previstos no § 6º do art. 285 e no caput do art. 289 deste Código ensejará a prescrição da pretensão punitiva.      (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+Art. 289-A. O não julgamento dos recursos nos prazos previstos no § 6º do art. 285 e no caput do art. 289 deste Código ensejará a prescrição da pretensão punitiva. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.229, de 2021.
 
@@ -12837,13 +12837,13 @@ O não julgamento dos recursos em 24 meses, em primeira ou segunda instância, g
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 290. Implicam encerramento da instância administrativa de julgamento de infrações e penalidades:          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 290. Implicam encerramento da instância administrativa de julgamento de infrações e penalidades: (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-I - o julgamento do recurso de que tratam os arts. 288 e 289;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+I - o julgamento do recurso de que tratam os arts. 288 e 289; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-II - a não interposição do recurso no prazo legal; e          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+II - a não interposição do recurso no prazo legal; e (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-III - o pagamento da multa, com reconhecimento da infração e requerimento de encerramento do processo na fase em que se encontra, sem apresentação de defesa ou recurso.          (Incluído pela Lei nº 13.281, de 2016)  (Vigência)
+III - o pagamento da multa, com reconhecimento da infração e requerimento de encerramento do processo na fase em que se encontra, sem apresentação de defesa ou recurso. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 Parágrafo único. Esgotados os recursos, as penalidades aplicadas nos termos deste Código serão cadastradas no RENACH.
 
@@ -12876,7 +12876,7 @@ Encerra-se a instância administrativa com o julgamento do recurso de segunda in
 
 **Localização:** CAPÍTULO XVIII — DO PROCESSO ADMINISTRATIVO › SEÇÃO II — Do Julgamento das Autuações e Penalidades
 
-Art. 290-A. Os prazos processuais de que trata este Código não se suspendem, salvo por motivo de força maior devidamente comprovado, nos termos de regulamento do Contran.       (Incluído pela Lei nº 14.229, de 2021)     (Vigência)
+Art. 290-A. Os prazos processuais de que trata este Código não se suspendem, salvo por motivo de força maior devidamente comprovado, nos termos de regulamento do Contran. (Incluído pela Lei nº 14.229, de 2021) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.229, de 2021.
 
@@ -12907,19 +12907,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 291. Aos crimes cometidos na direção de veículos automotores, previstos neste Código, aplicam-se as normas gerais do Código Penal e do Código de Processo Penal, se este Capítulo não dispuser de modo diverso, bem como a Lei nº 9.099, de 26 de setembro de 1995, no que couber.
 
-§ 1o  Aplica-se aos crimes de trânsito de lesão corporal culposa o disposto nos arts. 74, 76 e 88 da Lei no 9.099, de 26 de setembro de 1995, exceto se o agente estiver:         (Renumerado do parágrafo único pela Lei nº 11.705, de 2008)
+§ 1o Aplica-se aos crimes de trânsito de lesão corporal culposa o disposto nos arts. 74, 76 e 88 da Lei no 9.099, de 26 de setembro de 1995, exceto se o agente estiver: (Renumerado do parágrafo único pela Lei nº 11.705, de 2008)
 
-I - sob a influência de álcool ou qualquer outra substância psicoativa que determine dependência;         (Incluído pela Lei nº 11.705, de 2008)
+I - sob a influência de álcool ou qualquer outra substância psicoativa que determine dependência; (Incluído pela Lei nº 11.705, de 2008)
 
-II - participando, em via pública, de corrida, disputa ou competição automobilística, de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente;         (Incluído pela Lei nº 11.705, de 2008)
+II - participando, em via pública, de corrida, disputa ou competição automobilística, de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente; (Incluído pela Lei nº 11.705, de 2008)
 
-III - transitando em velocidade superior à máxima permitida para a via em 50 km/h (cinqüenta quilômetros por hora).        (Incluído pela Lei nº 11.705, de 2008)
+III - transitando em velocidade superior à máxima permitida para a via em 50 km/h (cinqüenta quilômetros por hora). (Incluído pela Lei nº 11.705, de 2008)
 
-§ 2o  Nas hipóteses previstas no § 1o deste artigo, deverá ser instaurado inquérito policial para a investigação da infração penal.        (Incluído pela Lei nº 11.705, de 2008)
+§ 2o Nas hipóteses previstas no § 1o deste artigo, deverá ser instaurado inquérito policial para a investigação da infração penal. (Incluído pela Lei nº 11.705, de 2008)
 
-§ 3º  (VETADO).     (Incluído pela Lei nº 13.546, de 2017)   (Vigência)
+§ 3º (VETADO). (Incluído pela Lei nº 13.546, de 2017) (Vigência)
 
-§ 4º  O juiz fixará a pena-base segundo as diretrizes previstas no art. 59 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), dando especial atenção à culpabilidade do agente e às circunstâncias e consequências do crime.     (Incluído pela Lei nº 13.546, de 2017)   (Vigência)
+§ 4º O juiz fixará a pena-base segundo as diretrizes previstas no art. 59 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), dando especial atenção à culpabilidade do agente e às circunstâncias e consequências do crime. (Incluído pela Lei nº 13.546, de 2017) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei nº 11.705, de 2008; inclusão — Lei nº 11.705, de 2008; inclusão — Lei nº 13.546, de 2017.
 
@@ -12958,7 +12958,7 @@ Aos crimes de trânsito aplicam-se o Código Penal, o CPP e a Lei nº 9.099/1995
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO I — Disposições Gerais
 
-Art. 292.  A suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pode ser imposta isolada ou cumulativamente com outras penalidades.           (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Art. 292. A suspensão ou a proibição de se obter a permissão ou a habilitação para dirigir veículo automotor pode ser imposta isolada ou cumulativamente com outras penalidades. (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.971, de 2014.
 
@@ -13075,7 +13075,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO I — Disposições Gerais
 
-Art. 296.  Se o réu for reincidente na prática de crime previsto neste Código, o juiz aplicará a penalidade de suspensão da permissão ou habilitação para dirigir veículo automotor, sem prejuízo das demais sanções penais cabíveis.         (Redação dada pela Lei nº 11.705, de 2008)
+Art. 296. Se o réu for reincidente na prática de crime previsto neste Código, o juiz aplicará a penalidade de suspensão da permissão ou habilitação para dirigir veículo automotor, sem prejuízo das demais sanções penais cabíveis. (Redação dada pela Lei nº 11.705, de 2008)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 11.705, de 2008.
 
@@ -13156,7 +13156,7 @@ VI - utilizando veículo em que tenham sido adulterados equipamentos ou caracter
 
 VII - sobre faixa de trânsito temporária ou permanentemente destinada a pedestres.
 
-Parágrafo único. (VETADO).         (Incluído pela Lei nº 14.304, de 2022)      (Vigência)
+Parágrafo único. (VETADO). (Incluído pela Lei nº 14.304, de 2022) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.304, de 2022.
 
@@ -13185,7 +13185,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO I — Disposições Gerais
 
-Art. 299.  (VETADO)
+Art. 299. (VETADO)
 
 #### Interpretação
 
@@ -13213,7 +13213,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO I — Disposições Gerais
 
-Art. 300.  (VETADO)
+Art. 300. (VETADO)
 
 #### Interpretação
 
@@ -13241,7 +13241,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO I — Disposições Gerais
 
-Art. 301. Ao condutor de veículo, nos casos de sinistros de trânsito que resultem em vítima, não se imporá a prisão em flagrante nem se exigirá fiança, se prestar pronto e integral socorro àquela.    (Redação dada pela Lei nº 14.599, de 2023)
+Art. 301. Ao condutor de veículo, nos casos de sinistros de trânsito que resultem em vítima, não se imporá a prisão em flagrante nem se exigirá fiança, se prestar pronto e integral socorro àquela. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -13274,23 +13274,23 @@ Art. 302. Praticar homicídio culposo na direção de veículo automotor:
 
 Penas - detenção, de dois a quatro anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.
 
-§ 1o  No homicídio culposo cometido na direção de veículo automotor, a pena é aumentada de 1/3 (um terço) à metade, se o agente:          (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+§ 1o No homicídio culposo cometido na direção de veículo automotor, a pena é aumentada de 1/3 (um terço) à metade, se o agente: (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-I - não possuir Permissão para Dirigir ou Carteira de Habilitação;         (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+I - não possuir Permissão para Dirigir ou Carteira de Habilitação; (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-II - praticá-lo em faixa de pedestres ou na calçada;         (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+II - praticá-lo em faixa de pedestres ou na calçada; (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-III - deixar de prestar socorro, quando possível fazê-lo sem risco pessoal, à vítima do sinistro;      (Redação dada pela Lei nº 14.599, de 2023)
+III - deixar de prestar socorro, quando possível fazê-lo sem risco pessoal, à vítima do sinistro; (Redação dada pela Lei nº 14.599, de 2023)
 
-IV - no exercício de sua profissão ou atividade, estiver conduzindo veículo de transporte de passageiros.         (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+IV - no exercício de sua profissão ou atividade, estiver conduzindo veículo de transporte de passageiros. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-V -        (Revogado pela Lei nº 11.705, de 2008)
+V - (Revogado pela Lei nº 11.705, de 2008)
 
-§ 2o           (Revogado pela Lei nº 13.281, de 2016)      (Vigência)
+§ 2o (Revogado pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 3o  Se o agente conduz veículo automotor sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência:      (Incluído pela Lei nº 13.546, de 2017)   (Vigência)
+§ 3o Se o agente conduz veículo automotor sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência: (Incluído pela Lei nº 13.546, de 2017) (Vigência)
 
-Penas - reclusão, de cinco a oito anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor.      (Incluído pela Lei nº 13.546, de 2017)   (Vigência)
+Penas - reclusão, de cinco a oito anos, e suspensão ou proibição do direito de se obter a permissão ou a habilitação para dirigir veículo automotor. (Incluído pela Lei nº 13.546, de 2017) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.971, de 2014; redação — Lei nº 14.599, de 2023; revogação — Lei nº 11.705, de 2008; revogação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.546, de 2017.
 
@@ -13324,9 +13324,9 @@ Art. 303. Praticar lesão corporal culposa na direção de veículo automotor:
 
 Penas - detenção, de seis meses a dois anos e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.
 
-§ 1o Aumenta-se a pena de 1/3 (um terço) à metade, se ocorrer qualquer das hipóteses do § 1o do art. 302.      (Renumerado do parágrafo único pela Lei nº 13.546, de 2017)   (Vigência)
+§ 1o Aumenta-se a pena de 1/3 (um terço) à metade, se ocorrer qualquer das hipóteses do § 1o do art. 302. (Renumerado do parágrafo único pela Lei nº 13.546, de 2017) (Vigência)
 
-§ 2o  A pena privativa de liberdade é de reclusão de dois a cinco anos, sem prejuízo das outras penas previstas neste artigo, se o agente conduz o veículo com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência, e se do crime resultar lesão corporal de natureza grave ou gravíssima.      (Incluído pela Lei nº 13.546, de 2017)   (Vigência)
+§ 2o A pena privativa de liberdade é de reclusão de dois a cinco anos, sem prejuízo das outras penas previstas neste artigo, se o agente conduz o veículo com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência, e se do crime resultar lesão corporal de natureza grave ou gravíssima. (Incluído pela Lei nº 13.546, de 2017) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei nº 13.546, de 2017; inclusão — Lei nº 13.546, de 2017.
 
@@ -13357,7 +13357,7 @@ Lesão corporal culposa na direção de veículo tem detenção de 6 meses a 2 a
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 304. Deixar o condutor do veículo, na ocasião do sinistro, de prestar imediato socorro à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública:     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 304. Deixar o condutor do veículo, na ocasião do sinistro, de prestar imediato socorro à vítima, ou, não podendo fazê-lo diretamente, por justa causa, deixar de solicitar auxílio da autoridade pública: (Redação dada pela Lei nº 14.599, de 2023)
 
 Penas - detenção, de seis meses a um ano, ou multa, se o fato não constituir elemento de crime mais grave.
 
@@ -13390,7 +13390,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 305. Afastar-se o condutor do veículo do local do sinistro, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída:       (Redação dada pela Lei nº 14.599, de 2023)
+Art. 305. Afastar-se o condutor do veículo do local do sinistro, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída: (Redação dada pela Lei nº 14.599, de 2023)
 
 Penas - detenção, de seis meses a um ano, ou multa.
 
@@ -13422,21 +13422,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 306.  Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência:          (Redação dada pela Lei nº 12.760, de 2012)
+Art. 306. Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência: (Redação dada pela Lei nº 12.760, de 2012)
 
 Penas - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.
 
-§ 1o  As condutas previstas no caput serão constatadas por:           (Incluído pela Lei nº 12.760, de 2012)
+§ 1o As condutas previstas no caput serão constatadas por: (Incluído pela Lei nº 12.760, de 2012)
 
-I - concentração igual ou superior a 6 decigramas de álcool por litro de sangue ou igual ou superior a 0,3 miligrama de álcool por litro de ar alveolar; ou           (Incluído pela Lei nº 12.760, de 2012)
+I - concentração igual ou superior a 6 decigramas de álcool por litro de sangue ou igual ou superior a 0,3 miligrama de álcool por litro de ar alveolar; ou (Incluído pela Lei nº 12.760, de 2012)
 
-II - sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora.           (Incluído pela Lei nº 12.760, de 2012)
+II - sinais que indiquem, na forma disciplinada pelo Contran, alteração da capacidade psicomotora. (Incluído pela Lei nº 12.760, de 2012)
 
-§ 2o  A verificação do disposto neste artigo poderá ser obtida mediante teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova.           (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+§ 2o A verificação do disposto neste artigo poderá ser obtida mediante teste de alcoolemia ou toxicológico, exame clínico, perícia, vídeo, prova testemunhal ou outros meios de prova em direito admitidos, observado o direito à contraprova. (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-§ 3o  O Contran disporá sobre a equivalência entre os distintos testes de alcoolemia ou toxicológicos para efeito de caracterização do crime tipificado neste artigo.          (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+§ 3o O Contran disporá sobre a equivalência entre os distintos testes de alcoolemia ou toxicológicos para efeito de caracterização do crime tipificado neste artigo. (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-§ 4º  Poderá ser empregado qualquer aparelho homologado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO - para se determinar o previsto no caput.      (Incluído pela Lei nº 13.840, de 2019)
+§ 4º Poderá ser empregado qualquer aparelho homologado pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia - INMETRO - para se determinar o previsto no caput. (Incluído pela Lei nº 13.840, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 12.760, de 2012; inclusão — Lei nº 12.760, de 2012; redação — Lei nº 12.971, de 2014; inclusão — Lei nº 13.840, de 2019.
 
@@ -13500,13 +13500,13 @@ Violar a suspensão ou proibição de dirigir imposta com base no CTB é crime, 
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 308.  Participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística ou ainda de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente, gerando situação de risco à incolumidade pública ou privada:           (Redação dada pela Lei nº 13.546, de 2017)   (Vigência)
+Art. 308. Participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística ou ainda de exibição ou demonstração de perícia em manobra de veículo automotor, não autorizada pela autoridade competente, gerando situação de risco à incolumidade pública ou privada: (Redação dada pela Lei nº 13.546, de 2017) (Vigência)
 
-Penas - detenção, de 6 (seis) meses a 3 (três) anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.          (Redação dada pela Lei nº 12.971, de 2014)    (Vigência)
+Penas - detenção, de 6 (seis) meses a 3 (três) anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor. (Redação dada pela Lei nº 12.971, de 2014) (Vigência)
 
-§ 1o  Se da prática do crime previsto no caput resultar lesão corporal de natureza grave, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão, de 3 (três) a 6 (seis) anos, sem prejuízo das outras penas previstas neste artigo.           (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+§ 1o Se da prática do crime previsto no caput resultar lesão corporal de natureza grave, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão, de 3 (três) a 6 (seis) anos, sem prejuízo das outras penas previstas neste artigo. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
-§ 2o  Se da prática do crime previsto no caput resultar morte, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão de 5 (cinco) a 10 (dez) anos, sem prejuízo das outras penas previstas neste artigo.         (Incluído pela Lei nº 12.971, de 2014)    (Vigência)
+§ 2o Se da prática do crime previsto no caput resultar morte, e as circunstâncias demonstrarem que o agente não quis o resultado nem assumiu o risco de produzi-lo, a pena privativa de liberdade é de reclusão de 5 (cinco) a 10 (dez) anos, sem prejuízo das outras penas previstas neste artigo. (Incluído pela Lei nº 12.971, de 2014) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.546, de 2017; redação — Lei nº 12.971, de 2014; inclusão — Lei nº 12.971, de 2014.
 
@@ -13596,7 +13596,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 310-A.  (VETADO)           (Incluído pela Lei nº 12.619, de 2012) (Vigência)
+Art. 310-A. (VETADO) (Incluído pela Lei nº 12.619, de 2012) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 12.619, de 2012.
 
@@ -13656,7 +13656,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 312. Inovar artificiosamente, em caso de sinistro automobilístico com vítima, na pendência do respectivo procedimento policial preparatório, inquérito policial ou processo penal, o estado de lugar, de coisa ou de pessoa, a fim de induzir a erro o agente policial, o perito ou o juiz:      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 312. Inovar artificiosamente, em caso de sinistro automobilístico com vítima, na pendência do respectivo procedimento policial preparatório, inquérito policial ou processo penal, o estado de lugar, de coisa ou de pessoa, a fim de induzir a erro o agente policial, o perito ou o juiz: (Redação dada pela Lei nº 14.599, de 2023)
 
 Penas - detenção, de seis meses a um ano, ou multa.
 
@@ -13690,15 +13690,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 312-A.  Para os crimes relacionados nos arts. 302 a 312 deste Código, nas situações em que o juiz aplicar a substituição de pena privativa de liberdade por pena restritiva de direitos, esta deverá ser de prestação de serviço à comunidade ou a entidades públicas, em uma das seguintes atividades:          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 312-A. Para os crimes relacionados nos arts. 302 a 312 deste Código, nas situações em que o juiz aplicar a substituição de pena privativa de liberdade por pena restritiva de direitos, esta deverá ser de prestação de serviço à comunidade ou a entidades públicas, em uma das seguintes atividades: (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-I - trabalho, aos fins de semana, em equipes de resgate dos corpos de bombeiros e em outras unidades móveis especializadas no atendimento a vítimas de trânsito;          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+I - trabalho, aos fins de semana, em equipes de resgate dos corpos de bombeiros e em outras unidades móveis especializadas no atendimento a vítimas de trânsito; (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-II - trabalho em unidades de pronto-socorro de hospitais da rede pública que recebem vítimas de sinistro de trânsito e politraumatizados;     (Redação dada pela Lei nº 14.599, de 2023)
+II - trabalho em unidades de pronto-socorro de hospitais da rede pública que recebem vítimas de sinistro de trânsito e politraumatizados; (Redação dada pela Lei nº 14.599, de 2023)
 
-III - trabalho em clínicas ou instituições especializadas na recuperação de sinistrados de trânsito;      (Redação dada pela Lei nº 14.599, de 2023)
+III - trabalho em clínicas ou instituições especializadas na recuperação de sinistrados de trânsito; (Redação dada pela Lei nº 14.599, de 2023)
 
-IV - outras atividades relacionadas a resgate, atendimento e recuperação de vítimas de sinistros de trânsito.     (Redação dada pela Lei nº 14.599, de 2023)
+IV - outras atividades relacionadas a resgate, atendimento e recuperação de vítimas de sinistros de trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016; redação — Lei nº 14.599, de 2023.
 
@@ -13730,7 +13730,7 @@ Nos crimes dos arts. 302 a 312, a substituição da prisão deve ser por presta�
 
 **Localização:** CAPÍTULO XIX — DOS CRIMES DE TRÂNSITO › SEÇÃO II — Dos Crimes em Espécie
 
-Art. 312-B. Aos crimes previstos no § 3º do art. 302 e no § 2º do art. 303 deste Código não se aplica o disposto no inciso I do caput do art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) .      (Incluído pela Lei nº 14.071, de 2020)
+Art. 312-B. Aos crimes previstos no § 3º do art. 302 e no § 2º do art. 303 deste Código não se aplica o disposto no inciso I do caput do art. 44 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) . (Incluído pela Lei nº 14.071, de 2020)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.071, de 2020.
 
@@ -13795,7 +13795,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 314. O Contran tem prazo de 240 (duzentos e quarenta) dias a partir da publicação deste Código para expedir as resoluções necessárias à sua melhor execução, bem como para revisar todas as resoluções anteriores à sua publicação, dando prioridade àquelas que visam a diminuir o número de sinistros e a assegurar a proteção de pedestres.      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 314. O Contran tem prazo de 240 (duzentos e quarenta) dias a partir da publicação deste Código para expedir as resoluções necessárias à sua melhor execução, bem como para revisar todas as resoluções anteriores à sua publicação, dando prioridade àquelas que visam a diminuir o número de sinistros e a assegurar a proteção de pedestres. (Redação dada pela Lei nº 14.599, de 2023)
 
 Parágrafo único. As resoluções do CONTRAN, existentes até a data de publicação deste Código, continuam em vigor naquilo em que não conflitem com ele.
 
@@ -13826,7 +13826,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 315. O Ministério da Educação, mediante proposta do Contran, deverá, no prazo de 240 (duzentos e quarenta) dias contado da publicação deste Código, estabelecer o currículo com conteúdo programático relativo à segurança e à educação de trânsito, a fim de atender ao disposto neste Código.      (Redação dada pela Lei nº 14.599, de 2023)
+Art. 315. O Ministério da Educação, mediante proposta do Contran, deverá, no prazo de 240 (duzentos e quarenta) dias contado da publicação deste Código, estabelecer o currículo com conteúdo programático relativo à segurança e à educação de trânsito, a fim de atender ao disposto neste Código. (Redação dada pela Lei nº 14.599, de 2023)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023.
 
@@ -13915,7 +13915,7 @@ Concedeu até 1 ano para adaptação dos veículos escolares e de autoescola às
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 318.  (VETADO)
+Art. 318. (VETADO)
 
 #### Interpretação
 
@@ -13976,9 +13976,9 @@ Manteve, até nova norma do CONTRAN, o art. 92 do Regulamento do antigo Código 
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 319-A.  Os valores de multas constantes deste Código poderão ser corrigidos monetariamente pelo Contran, respeitado o limite da variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) no exercício anterior.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 319-A. Os valores de multas constantes deste Código poderão ser corrigidos monetariamente pelo Contran, respeitado o limite da variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) no exercício anterior. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-Parágrafo único. Os novos valores decorrentes do disposto no caput serão divulgados pelo Contran com, no mínimo, 90 (noventa) dias de antecedência de sua aplicação.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+Parágrafo único. Os novos valores decorrentes do disposto no caput serão divulgados pelo Contran com, no mínimo, 90 (noventa) dias de antecedência de sua aplicação. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016.
 
@@ -14008,17 +14008,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 320. A receita arrecadada com a cobrança das multas de trânsito será aplicada, exclusivamente, em sinalização, em engenharia de tráfego, em engenharia de campo, em policiamento, em fiscalização, em renovação de frota circulante, em educação de trânsito e em custeio do processo de habilitação de condutores de baixa renda.   (Redação dada pela Lei nº 15.153, de 2025)    Vigência
+Art. 320. A receita arrecadada com a cobrança das multas de trânsito será aplicada, exclusivamente, em sinalização, em engenharia de tráfego, em engenharia de campo, em policiamento, em fiscalização, em renovação de frota circulante, em educação de trânsito e em custeio do processo de habilitação de condutores de baixa renda. (Redação dada pela Lei nº 15.153, de 2025) Vigência
 
-§ 1º  O percentual de cinco por cento do valor das multas de trânsito arrecadadas será depositado, mensalmente, na conta de fundo de âmbito nacional destinado à segurança e educação de trânsito.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1º O percentual de cinco por cento do valor das multas de trânsito arrecadadas será depositado, mensalmente, na conta de fundo de âmbito nacional destinado à segurança e educação de trânsito. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 2º  O órgão responsável deverá publicar, anualmente, na rede mundial de computadores (internet), dados sobre a receita arrecadada com a cobrança de multas de trânsito e sua destinação.          (Incluído pela Lei nº 13. 281, de 2016)      (Vigência)
+§ 2º O órgão responsável deverá publicar, anualmente, na rede mundial de computadores (internet), dados sobre a receita arrecadada com a cobrança de multas de trânsito e sua destinação. (Incluído pela Lei nº 13. 281, de 2016) (Vigência)
 
-§ 3º  O valor total destinado à recomposição das perdas de receita das concessionárias de rodovias e vias urbanas, em decorrência do não pagamento de pedágio por usuários da via, não poderá ultrapassar o montante total arrecadado por meio das multas aplicadas com fundamento no art. 209-A deste Código, ressalvado o previsto em regulamento do Poder Executivo.     (Incluído pela Lei nº 14.157, de 2021)
+§ 3º O valor total destinado à recomposição das perdas de receita das concessionárias de rodovias e vias urbanas, em decorrência do não pagamento de pedágio por usuários da via, não poderá ultrapassar o montante total arrecadado por meio das multas aplicadas com fundamento no art. 209-A deste Código, ressalvado o previsto em regulamento do Poder Executivo. (Incluído pela Lei nº 14.157, de 2021)
 
-§ 4º O custeio do processo de habilitação de condutores a que se refere o caput deste artigo contemplará as taxas e demais despesas relativas ao processo de formação de condutores e de concessão do documento de habilitação para candidatos de baixa renda.   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+§ 4º O custeio do processo de habilitação de condutores a que se refere o caput deste artigo contemplará as taxas e demais despesas relativas ao processo de formação de condutores e de concessão do documento de habilitação para candidatos de baixa renda. (Incluído pela Lei nº 15.153, de 2025) Vigência
 
-§ 5º O candidato de baixa renda de que trata o § 4º deste artigo será caracterizado pela sua inclusão no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico).   (Incluído pela Lei nº 15.153, de 2025)    Vigência
+§ 5º O candidato de baixa renda de que trata o § 4º deste artigo será caracterizado pela sua inclusão no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico). (Incluído pela Lei nº 15.153, de 2025) Vigência
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 15.153, de 2025; redação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.; inclusão — Lei nº 14.157, de 2021; inclusão — Lei nº 15.153, de 2025.
 
@@ -14051,7 +14051,7 @@ A receita das multas só pode ser usada em sinalização, engenharia de tráfego
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 320-A.  Os órgãos e as entidades do Sistema Nacional de Trânsito poderão integrar-se para a ampliação e o aprimoramento da fiscalização de trânsito, inclusive por meio do compartilhamento da receita arrecadada com a cobrança das multas de trânsito.          (Incluído pela Lei nº 13.281, de 2016)
+Art. 320-A. Os órgãos e as entidades do Sistema Nacional de Trânsito poderão integrar-se para a ampliação e o aprimoramento da fiscalização de trânsito, inclusive por meio do compartilhamento da receita arrecadada com a cobrança das multas de trânsito. (Incluído pela Lei nº 13.281, de 2016)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.281, de 2016.
 
@@ -14080,7 +14080,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 321.  (VETADO)
+Art. 321. (VETADO)
 
 #### Interpretação
 
@@ -14108,7 +14108,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 322.  (VETADO)
+Art. 322. (VETADO)
 
 #### Interpretação
 
@@ -14169,7 +14169,7 @@ Previa prazo para o CONTRAN fixar a metodologia de pesagem e tolerâncias, com p
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 324.  (VETADO)
+Art. 324. (VETADO)
 
 #### Interpretação
 
@@ -14197,13 +14197,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 325.  As repartições de trânsito conservarão por, no mínimo, 5 (cinco) anos os documentos relativos à habilitação de condutores, ao registro e ao licenciamento de veículos e aos autos de infração de trânsito.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+Art. 325. As repartições de trânsito conservarão por, no mínimo, 5 (cinco) anos os documentos relativos à habilitação de condutores, ao registro e ao licenciamento de veículos e aos autos de infração de trânsito. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 1º Os documentos previstos no caput poderão ser gerados e tramitados eletronicamente, bem como arquivados e armazenados em meio digital, desde que assegurada a autenticidade, a fidedignidade, a confiabilidade e a segurança das informações, e serão válidos para todos os efeitos legais, sendo dispensada, nesse caso, a sua guarda física.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 1º Os documentos previstos no caput poderão ser gerados e tramitados eletronicamente, bem como arquivados e armazenados em meio digital, desde que assegurada a autenticidade, a fidedignidade, a confiabilidade e a segurança das informações, e serão válidos para todos os efeitos legais, sendo dispensada, nesse caso, a sua guarda física. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 2º  O Contran regulamentará a geração, a tramitação, o arquivamento, o armazenamento e a eliminação de documentos eletrônicos e físicos gerados em decorrência da aplicação das disposições deste Código.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 2º O Contran regulamentará a geração, a tramitação, o arquivamento, o armazenamento e a eliminação de documentos eletrônicos e físicos gerados em decorrência da aplicação das disposições deste Código. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 3º  Na hipótese prevista nos §§ 1º e 2º, o sistema deverá ser certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).     (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 3º Na hipótese prevista nos §§ 1º e 2º, o sistema deverá ser certificado digitalmente, atendidos os requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil). (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.281, de 2016.
 
@@ -14258,45 +14258,45 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 326-A. A atuação dos integrantes do Sistema Nacional de Trânsito, no que se refere ao Plano Nacional de Redução de Mortes e Lesões no Trânsito (Pnatrans), deverá ser direcionada prioritariamente para o cumprimento da meta anual de redução do índice de mortes por grupo de habitantes, apurado anualmente por Estado e pelo Distrito Federal, detalhando-se os dados levantados e as ações realizadas em vias federais, estaduais, distritais e municipais, na forma regulamentada pelo Contran.     (Redação dada pela Lei nº 14.599, de 2023)
+Art. 326-A. A atuação dos integrantes do Sistema Nacional de Trânsito, no que se refere ao Plano Nacional de Redução de Mortes e Lesões no Trânsito (Pnatrans), deverá ser direcionada prioritariamente para o cumprimento da meta anual de redução do índice de mortes por grupo de habitantes, apurado anualmente por Estado e pelo Distrito Federal, detalhando-se os dados levantados e as ações realizadas em vias federais, estaduais, distritais e municipais, na forma regulamentada pelo Contran. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 1º O objetivo geral do estabelecimento de metas é, ao final de 2030, reduzir à metade, no mínimo, o índice de mortes por grupo de habitantes, relativamente ao índice apurado em 2020.       (Redação dada pela Lei nº 14.599, de 2023)
+§ 1º O objetivo geral do estabelecimento de metas é, ao final de 2030, reduzir à metade, no mínimo, o índice de mortes por grupo de habitantes, relativamente ao índice apurado em 2020. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 2o  As metas expressam a diferença a menor, em base percentual, entre os índices mais recentes, oficialmente apurados, e os índices que se pretende alcançar.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 2o As metas expressam a diferença a menor, em base percentual, entre os índices mais recentes, oficialmente apurados, e os índices que se pretende alcançar. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-§ 3o  A decisão que fixar as metas anuais estabelecerá as respectivas margens de tolerância.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 3o A decisão que fixar as metas anuais estabelecerá as respectivas margens de tolerância. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-§ 4º As metas serão fixadas pelo Contran para os Estados e para o Distrito Federal, mediante propostas fundamentadas dos Cetran, do Contrandife e da Polícia Rodoviária Federal, no âmbito das respectivas circunscrições.       (Redação dada pela Lei nº 14.599, de 2023)
+§ 4º As metas serão fixadas pelo Contran para os Estados e para o Distrito Federal, mediante propostas fundamentadas dos Cetran, do Contrandife e da Polícia Rodoviária Federal, no âmbito das respectivas circunscrições. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 5º Antes de submeterem as propostas ao Contran, os Cetran, o Contrandife e a Polícia Rodoviária Federal realizarão consulta ou audiência pública para manifestação da sociedade sobre as metas a serem propostas.       (Redação dada pela Lei nº 14.599, de 2023)
+§ 5º Antes de submeterem as propostas ao Contran, os Cetran, o Contrandife e a Polícia Rodoviária Federal realizarão consulta ou audiência pública para manifestação da sociedade sobre as metas a serem propostas. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 6º As propostas dos Cetran, do Contrandife e da Polícia Rodoviária Federal serão encaminhadas ao Contran até o dia 1º de agosto de cada ano, conforme regulamentação do Contran.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 6º As propostas dos Cetran, do Contrandife e da Polícia Rodoviária Federal serão encaminhadas ao Contran até o dia 1º de agosto de cada ano, conforme regulamentação do Contran. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 7o  As metas fixadas serão divulgadas em setembro, durante a Semana Nacional de Trânsito, assim como o desempenho, absoluto e relativo, de cada Estado e do Distrito Federal no cumprimento das metas vigentes no ano anterior, detalhados os dados levantados e as ações realizadas por vias federais, estaduais e municipais, devendo tais informações permanecer à disposição do público na rede mundial de computadores, em sítio eletrônico do órgão máximo executivo de trânsito da União.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 7o As metas fixadas serão divulgadas em setembro, durante a Semana Nacional de Trânsito, assim como o desempenho, absoluto e relativo, de cada Estado e do Distrito Federal no cumprimento das metas vigentes no ano anterior, detalhados os dados levantados e as ações realizadas por vias federais, estaduais e municipais, devendo tais informações permanecer à disposição do público na rede mundial de computadores, em sítio eletrônico do órgão máximo executivo de trânsito da União. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-§ 8º O Contran, ouvidos os Cetran, o Contrandife, a Polícia Rodoviária Federal e os demais órgãos do Sistema Nacional de Trânsito, definirá as fórmulas para apuração do índice de que trata este artigo, assim como a metodologia para a coleta e o tratamento dos dados estatísticos necessários para a composição dos termos das fórmulas.      (Redação dada pela Lei nº 14.599, de 2023)
+§ 8º O Contran, ouvidos os Cetran, o Contrandife, a Polícia Rodoviária Federal e os demais órgãos do Sistema Nacional de Trânsito, definirá as fórmulas para apuração do índice de que trata este artigo, assim como a metodologia para a coleta e o tratamento dos dados estatísticos necessários para a composição dos termos das fórmulas. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 9º Os dados estatísticos coletados em cada Estado e no Distrito Federal serão tratados e consolidados pelos respectivos órgãos ou entidades executivos de trânsito, que os repassarão ao órgão máximo executivo de trânsito da União, conforme regulamentação do Contran.        (Redação dada pela Lei nº 14.599, de 2023)
+§ 9º Os dados estatísticos coletados em cada Estado e no Distrito Federal serão tratados e consolidados pelos respectivos órgãos ou entidades executivos de trânsito, que os repassarão ao órgão máximo executivo de trânsito da União, conforme regulamentação do Contran. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 10.  Os dados estatísticos sujeitos à consolidação pelo órgão ou entidade executivos de trânsito do Estado ou do Distrito Federal compreendem os coletados naquela circunscrição:                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 10. Os dados estatísticos sujeitos à consolidação pelo órgão ou entidade executivos de trânsito do Estado ou do Distrito Federal compreendem os coletados naquela circunscrição: (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-I - pela Polícia Rodoviária Federal e pelo órgão executivo rodoviário da União;                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+I - pela Polícia Rodoviária Federal e pelo órgão executivo rodoviário da União; (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-II - pela Polícia Militar e pelo órgão ou entidade executivos rodoviários do Estado ou do Distrito Federal;                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+II - pela Polícia Militar e pelo órgão ou entidade executivos rodoviários do Estado ou do Distrito Federal; (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-III - pelos órgãos ou entidades executivos rodoviários e pelos órgãos ou entidades executivos de trânsito dos Municípios.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+III - pelos órgãos ou entidades executivos rodoviários e pelos órgãos ou entidades executivos de trânsito dos Municípios. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-§ 11. O cálculo do índice, para cada Estado e para o Distrito Federal, será feito pelo órgão máximo executivo de trânsito da União, ouvidos os Cetran, o Contrandife, a Polícia Rodoviária Federal e os demais órgãos do Sistema Nacional de Trânsito.   (Redação dada pela Lei nº 14.599, de 2023)
+§ 11. O cálculo do índice, para cada Estado e para o Distrito Federal, será feito pelo órgão máximo executivo de trânsito da União, ouvidos os Cetran, o Contrandife, a Polícia Rodoviária Federal e os demais órgãos do Sistema Nacional de Trânsito. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 12. Os índices serão divulgados oficialmente até o dia 30 de abril de cada ano.     (Redação dada pela Lei nº 14.599, de 2023)
+§ 12. Os índices serão divulgados oficialmente até o dia 30 de abril de cada ano. (Redação dada pela Lei nº 14.599, de 2023)
 
-§ 13.  Com base em índices parciais, apurados no decorrer do ano, o Contran, os Cetran e o Contrandife poderão recomendar aos integrantes do Sistema Nacional de Trânsito alterações nas ações, projetos e programas em desenvolvimento ou previstos, com o fim de atingir as metas fixadas para cada um dos Estados e para o Distrito Federal.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 13. Com base em índices parciais, apurados no decorrer do ano, o Contran, os Cetran e o Contrandife poderão recomendar aos integrantes do Sistema Nacional de Trânsito alterações nas ações, projetos e programas em desenvolvimento ou previstos, com o fim de atingir as metas fixadas para cada um dos Estados e para o Distrito Federal. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-§ 14.  A partir da análise de desempenho a que se refere o § 7o deste artigo, o Contran elaborará e divulgará, também durante a Semana Nacional de Trânsito:                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+§ 14. A partir da análise de desempenho a que se refere o § 7o deste artigo, o Contran elaborará e divulgará, também durante a Semana Nacional de Trânsito: (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-I - duas classificações ordenadas dos Estados e do Distrito Federal, uma referente ao ano analisado e outra que considere a evolução do desempenho dos Estados e do Distrito Federal desde o início das análises;                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+I - duas classificações ordenadas dos Estados e do Distrito Federal, uma referente ao ano analisado e outra que considere a evolução do desempenho dos Estados e do Distrito Federal desde o início das análises; (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
-II - relatório a respeito do cumprimento do objetivo geral do estabelecimento de metas previsto no § 1o deste artigo.                (Incluído pela Lei nº 13.614, de 2018)      (Vigência)
+II - relatório a respeito do cumprimento do objetivo geral do estabelecimento de metas previsto no § 1o deste artigo. (Incluído pela Lei nº 13.614, de 2018) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.599, de 2023; inclusão — Lei nº 13.614, de 2018.
 
@@ -14326,7 +14326,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 326-B. É instituída a Semana Nacional de Prevenção a Acidentes com Motociclistas, a ser realizada, anualmente, na semana que compreender o dia 27 do mês de julho, o qual é instituído como o Dia Nacional do Motociclista.    (Incluído pela Lei nº 15.006, de 2024)
+Art. 326-B. É instituída a Semana Nacional de Prevenção a Acidentes com Motociclistas, a ser realizada, anualmente, na semana que compreender o dia 27 do mês de julho, o qual é instituído como o Dia Nacional do Motociclista. (Incluído pela Lei nº 15.006, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.006, de 2024.
 
@@ -14355,7 +14355,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 326-C. Fica reconhecido o terceiro domingo do mês de novembro de cada ano como o Dia Mundial em Memória das Vítimas do Trânsito.   (Incluído pela Lei nº 15.452, de 2026)
+Art. 326-C. Fica reconhecido o terceiro domingo do mês de novembro de cada ano como o Dia Mundial em Memória das Vítimas do Trânsito. (Incluído pela Lei nº 15.452, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 15.452, de 2026.
 
@@ -14386,7 +14386,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 327. A partir da publicação deste Código, somente poderão ser fabricados e licenciados veículos que obedeçam aos limites de peso e dimensões fixados na forma desta Lei, ressalvados os que vierem a ser regulamentados pelo CONTRAN.
 
-Parágrafo único.  (VETADO)
+Parágrafo único. (VETADO)
 
 #### Interpretação
 
@@ -14413,59 +14413,59 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 328. O veículo apreendido ou removido a qualquer título e não reclamado por seu proprietário dentro do prazo de sessenta dias, contado da data de recolhimento, será avaliado e levado a leilão, a ser realizado preferencialmente por meio eletrônico.          (Redação dada pela Lei nº 13.160, de 2015)
+Art. 328. O veículo apreendido ou removido a qualquer título e não reclamado por seu proprietário dentro do prazo de sessenta dias, contado da data de recolhimento, será avaliado e levado a leilão, a ser realizado preferencialmente por meio eletrônico. (Redação dada pela Lei nº 13.160, de 2015)
 
-§ 1o Publicado o edital do leilão, a preparação poderá ser iniciada após trinta dias, contados da data de recolhimento do veículo, o qual será classificado em duas categorias:          (Incluído pela Lei nº 13.160, de 2015)
+§ 1o Publicado o edital do leilão, a preparação poderá ser iniciada após trinta dias, contados da data de recolhimento do veículo, o qual será classificado em duas categorias: (Incluído pela Lei nº 13.160, de 2015)
 
-I – conservado, quando apresenta condições de segurança para trafegar; e          (Incluído pela Lei nº 13.160, de 2015)
+I – conservado, quando apresenta condições de segurança para trafegar; e (Incluído pela Lei nº 13.160, de 2015)
 
-II – sucata, quando não está apto a trafegar.          (Incluído pela Lei nº 13.160, de 2015)
+II – sucata, quando não está apto a trafegar. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 2o Se não houver oferta igual ou superior ao valor da avaliação, o lote será incluído no leilão seguinte, quando será arrematado pelo maior lance, desde que por valor não inferior a cinquenta por cento do avaliado.          (Incluído pela Lei nº 13.160, de 2015)
+§ 2o Se não houver oferta igual ou superior ao valor da avaliação, o lote será incluído no leilão seguinte, quando será arrematado pelo maior lance, desde que por valor não inferior a cinquenta por cento do avaliado. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 3o Mesmo classificado como conservado, o veículo que for levado a leilão por duas vezes e não for arrematado será leiloado como sucata.          (Incluído pela Lei nº 13.160, de 2015)
+§ 3o Mesmo classificado como conservado, o veículo que for levado a leilão por duas vezes e não for arrematado será leiloado como sucata. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 4o É vedado o retorno do veículo leiloado como sucata à circulação.          (Incluído pela Lei nº 13.160, de 2015)
+§ 4o É vedado o retorno do veículo leiloado como sucata à circulação. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 5o A cobrança das despesas com estada no depósito será limitada ao prazo de seis meses.          (Incluído pela Lei nº 13.160, de 2015)
+§ 5o A cobrança das despesas com estada no depósito será limitada ao prazo de seis meses. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 6o Os valores arrecadados em leilão deverão ser utilizados para custeio da realização do leilão, dividindo-se os custos entre os veículos arrematados, proporcionalmente ao valor da arrematação, e destinando-se os valores remanescentes, na seguinte ordem, para:          (Incluído pela Lei nº 13.160, de 2015)
+§ 6o Os valores arrecadados em leilão deverão ser utilizados para custeio da realização do leilão, dividindo-se os custos entre os veículos arrematados, proporcionalmente ao valor da arrematação, e destinando-se os valores remanescentes, na seguinte ordem, para: (Incluído pela Lei nº 13.160, de 2015)
 
-I – as despesas com remoção e estada;          (Incluído pela Lei nº 13.160, de 2015)
+I – as despesas com remoção e estada; (Incluído pela Lei nº 13.160, de 2015)
 
-II – os tributos vinculados ao veículo, na forma do § 10;          (Incluído pela Lei nº 13.160, de 2015)
+II – os tributos vinculados ao veículo, na forma do § 10; (Incluído pela Lei nº 13.160, de 2015)
 
-III – os credores trabalhistas, tributários e titulares de crédito com garantia real, segundo a ordem de preferência estabelecida no art. 186 da Lei no 5.172, de 25 de outubro de 1966 (Código Tributário Nacional);         (Incluído pela Lei nº 13.160, de 2015)
+III – os credores trabalhistas, tributários e titulares de crédito com garantia real, segundo a ordem de preferência estabelecida no art. 186 da Lei no 5.172, de 25 de outubro de 1966 (Código Tributário Nacional); (Incluído pela Lei nº 13.160, de 2015)
 
-IV – as multas devidas ao órgão ou à entidade responsável pelo leilão;          (Incluído pela Lei nº 13.160, de 2015)
+IV – as multas devidas ao órgão ou à entidade responsável pelo leilão; (Incluído pela Lei nº 13.160, de 2015)
 
-V – as demais multas devidas aos órgãos integrantes do Sistema Nacional de Trânsito, segundo a ordem cronológica; e          (Incluído pela Lei nº 13.160, de 2015)
+V – as demais multas devidas aos órgãos integrantes do Sistema Nacional de Trânsito, segundo a ordem cronológica; e (Incluído pela Lei nº 13.160, de 2015)
 
-VI – os demais créditos, segundo a ordem de preferência legal.          (Incluído pela Lei nº 13.160, de 2015)
+VI – os demais créditos, segundo a ordem de preferência legal. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 7o Sendo insuficiente o valor arrecadado para quitar os débitos incidentes sobre o veículo, a situação será comunicada aos credores.          (Incluído pela Lei nº 13.160, de 2015)
+§ 7o Sendo insuficiente o valor arrecadado para quitar os débitos incidentes sobre o veículo, a situação será comunicada aos credores. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 8o Os órgãos públicos responsáveis serão comunicados do leilão previamente para que formalizem a desvinculação dos ônus incidentes sobre o veículo no prazo máximo de dez dias.          (Incluído pela Lei nº 13.160, de 2015)
+§ 8o Os órgãos públicos responsáveis serão comunicados do leilão previamente para que formalizem a desvinculação dos ônus incidentes sobre o veículo no prazo máximo de dez dias. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 9o Os débitos incidentes sobre o veículo antes da alienação administrativa ficam dele automaticamente desvinculados, sem prejuízo da cobrança contra o proprietário anterior.          (Incluído pela Lei nº 13.160, de 2015)
+§ 9o Os débitos incidentes sobre o veículo antes da alienação administrativa ficam dele automaticamente desvinculados, sem prejuízo da cobrança contra o proprietário anterior. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 10. Aplica-se o disposto no § 9o inclusive ao débito relativo a tributo cujo fato gerador seja a propriedade, o domínio útil, a posse, a circulação ou o licenciamento de veículo.          (Incluído pela Lei nº 13.160, de 2015)
+§ 10. Aplica-se o disposto no § 9o inclusive ao débito relativo a tributo cujo fato gerador seja a propriedade, o domínio útil, a posse, a circulação ou o licenciamento de veículo. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 11. Na hipótese de o antigo proprietário reaver o veículo, por qualquer meio, os débitos serão novamente vinculados ao bem, aplicando-se, nesse caso, o disposto nos §§ 1o, 2o e 3o do art. 271.          (Incluído pela Lei nº 13.160, de 2015)
+§ 11. Na hipótese de o antigo proprietário reaver o veículo, por qualquer meio, os débitos serão novamente vinculados ao bem, aplicando-se, nesse caso, o disposto nos §§ 1o, 2o e 3o do art. 271. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 12. Quitados os débitos, o saldo remanescente será depositado em conta específica do órgão responsável pela realização do leilão e ficará à disposição do antigo proprietário, devendo ser expedida notificação a ele, no máximo em trinta dias após a realização do leilão, para o levantamento do valor no prazo de cinco anos, após os quais o valor será transferido, definitivamente, para o fundo a que se refere o parágrafo único do art. 320.          (Incluído pela Lei nº 13.160, de 2015)
+§ 12. Quitados os débitos, o saldo remanescente será depositado em conta específica do órgão responsável pela realização do leilão e ficará à disposição do antigo proprietário, devendo ser expedida notificação a ele, no máximo em trinta dias após a realização do leilão, para o levantamento do valor no prazo de cinco anos, após os quais o valor será transferido, definitivamente, para o fundo a que se refere o parágrafo único do art. 320. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 13. Aplica-se o disposto neste artigo, no que couber, ao animal recolhido, a qualquer título, e não reclamado por seu proprietário no prazo de sessenta dias, a contar da data de recolhimento, conforme regulamentação do CONTRAN.          (Incluído pela Lei nº 13.160, de 2015)
+§ 13. Aplica-se o disposto neste artigo, no que couber, ao animal recolhido, a qualquer título, e não reclamado por seu proprietário no prazo de sessenta dias, a contar da data de recolhimento, conforme regulamentação do CONTRAN. (Incluído pela Lei nº 13.160, de 2015)
 
-§ 14.  Se identificada a existência de restrição policial ou judicial sobre o prontuário do veículo, a autoridade responsável pela restrição será notificada para a retirada do bem do depósito, mediante a quitação das despesas com remoção e estada, ou para a autorização do leilão nos termos deste artigo.          (Redação dada pela Lei nº 13.281, de 2016)      (Vigência)
+§ 14. Se identificada a existência de restrição policial ou judicial sobre o prontuário do veículo, a autoridade responsável pela restrição será notificada para a retirada do bem do depósito, mediante a quitação das despesas com remoção e estada, ou para a autorização do leilão nos termos deste artigo. (Redação dada pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 15.  Se no prazo de 60 (sessenta) dias, a contar da notificação de que trata o § 14, não houver manifestação da autoridade responsável pela restrição judicial ou policial, estará o órgão de trânsito autorizado a promover o leilão do veículo nos termos deste artigo.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 15. Se no prazo de 60 (sessenta) dias, a contar da notificação de que trata o § 14, não houver manifestação da autoridade responsável pela restrição judicial ou policial, estará o órgão de trânsito autorizado a promover o leilão do veículo nos termos deste artigo. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 16.  Os veículos, sucatas e materiais inservíveis de bens automotores que se encontrarem nos depósitos há mais de 1 (um) ano poderão ser destinados à reciclagem, independentemente da existência de restrições sobre o veículo.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 16. Os veículos, sucatas e materiais inservíveis de bens automotores que se encontrarem nos depósitos há mais de 1 (um) ano poderão ser destinados à reciclagem, independentemente da existência de restrições sobre o veículo. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 17.  O procedimento de hasta pública na hipótese do § 16 será realizado por lote de tonelagem de material ferroso, observando-se, no que couber, o disposto neste artigo, condicionando-se a entrega do material arrematado aos procedimentos necessários à descaracterização total do bem e à destinação exclusiva, ambientalmente adequada, à reciclagem siderúrgica, vedado qualquer aproveitamento de peças e partes.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 17. O procedimento de hasta pública na hipótese do § 16 será realizado por lote de tonelagem de material ferroso, observando-se, no que couber, o disposto neste artigo, condicionando-se a entrega do material arrematado aos procedimentos necessários à descaracterização total do bem e à destinação exclusiva, ambientalmente adequada, à reciclagem siderúrgica, vedado qualquer aproveitamento de peças e partes. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
-§ 18.  Os veículos sinistrados irrecuperáveis queimados, adulterados ou estrangeiros, bem como aqueles sem possibilidade de regularização perante o órgão de trânsito, serão destinados à reciclagem, independentemente do período em que estejam em depósito, respeitado o prazo previsto no caput deste artigo, sempre que a autoridade responsável pelo leilão julgar ser essa a medida apropriada.          (Incluído pela Lei nº 13.281, de 2016)      (Vigência)
+§ 18. Os veículos sinistrados irrecuperáveis queimados, adulterados ou estrangeiros, bem como aqueles sem possibilidade de regularização perante o órgão de trânsito, serão destinados à reciclagem, independentemente do período em que estejam em depósito, respeitado o prazo previsto no caput deste artigo, sempre que a autoridade responsável pelo leilão julgar ser essa a medida apropriada. (Incluído pela Lei nº 13.281, de 2016) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.160, de 2015; inclusão — Lei nº 13.160, de 2015; redação — Lei nº 13.281, de 2016; inclusão — Lei nº 13.281, de 2016.
 
@@ -14558,7 +14558,7 @@ VI - número da placa de experiência.
 
 § 5º A falta de escrituração dos livros, o atraso, a fraude ao realizá-lo e a recusa de sua exibição serão punidas com a multa prevista para as infrações gravíssimas, independente das demais cominações legais cabíveis.
 
-§ 6o Os livros previstos neste artigo poderão ser substituídos por sistema eletrônico, na forma regulamentada pelo Contran.         (Incluído pela Lei nº 13.154, de 2015)
+§ 6o Os livros previstos neste artigo poderão ser substituídos por sistema eletrônico, na forma regulamentada pelo Contran. (Incluído pela Lei nº 13.154, de 2015)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.154, de 2015.
 
@@ -14703,7 +14703,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 335.  (VETADO)
+Art. 335. (VETADO)
 
 #### Interpretação
 
@@ -14813,9 +14813,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** CAPÍTULO XX — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 338-A. As competências previstas no inciso XV do caput do art. 21 e no inciso XXII do caput do art. 24 deste Código serão atribuídas aos órgãos ou entidades descritos no caput dos referidos artigos a partir de 1º de janeiro de 2024.       (Incluído pela Lei nº 14.229, de 2021)
+Art. 338-A. As competências previstas no inciso XV do caput do art. 21 e no inciso XXII do caput do art. 24 deste Código serão atribuídas aos órgãos ou entidades descritos no caput dos referidos artigos a partir de 1º de janeiro de 2024. (Incluído pela Lei nº 14.229, de 2021)
 
-Parágrafo único. Até 31 de dezembro de 2023, as competências a que se refere o caput deste artigo serão exercidas pelos órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal.     (Incluído pela Lei nº 14.229, de 2021)
+Parágrafo único. Até 31 de dezembro de 2023, as competências a que se refere o caput deste artigo serão exercidas pelos órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal. (Incluído pela Lei nº 14.229, de 2021)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 14.229, de 2021.
 
@@ -14937,19 +14937,19 @@ ANEXO I
 
 DOS CONCEITOS E DEFINIÇÕES
 
-(Vide Lei nº 14.071, de 2020)   (Vigência)
+(Vide Lei nº 14.071, de 2020) (Vigência)
 
 Para efeito deste Código adotam-se as seguintes definições:
 
 ACOSTAMENTO - parte da via diferenciada da pista de rolamento destinada à parada ou estacionamento de veículos, em caso de emergência, e à circulação de pedestres e bicicletas, quando não houver local apropriado para esse fim.
 
-AGENTE DA AUTORIDADE DE TRÂNSITO - agente de trânsito e policial rodoviário federal que atuam na fiscalização, no controle e na operação de trânsito e no patrulhamento, competentes para a lavratura do auto de infração e para os procedimentos dele decorrentes, incluídos o policial militar ou os agentes referidos no art. 25-A deste Código, quando designados pela autoridade de trânsito com circunscrição sobre a via, mediante convênio, na forma prevista neste Código.          (Redação dada pela Lei nº 14.229, de 2021)
+AGENTE DA AUTORIDADE DE TRÂNSITO - agente de trânsito e policial rodoviário federal que atuam na fiscalização, no controle e na operação de trânsito e no patrulhamento, competentes para a lavratura do auto de infração e para os procedimentos dele decorrentes, incluídos o policial militar ou os agentes referidos no art. 25-A deste Código, quando designados pela autoridade de trânsito com circunscrição sobre a via, mediante convênio, na forma prevista neste Código. (Redação dada pela Lei nº 14.229, de 2021)
 
-AGENTE DE TRÂNSITO - servidor civil efetivo de carreira do órgão ou entidade executivos de trânsito ou rodoviário, com as atribuições de educação, operação e fiscalização de trânsito e de transporte no exercício regular do poder de polícia de trânsito para promover a segurança viária nos termos da Constituição Federal.         (Incluído pela Lei nº 14.229, de 2021)
+AGENTE DE TRÂNSITO - servidor civil efetivo de carreira do órgão ou entidade executivos de trânsito ou rodoviário, com as atribuições de educação, operação e fiscalização de trânsito e de transporte no exercício regular do poder de polícia de trânsito para promover a segurança viária nos termos da Constituição Federal. (Incluído pela Lei nº 14.229, de 2021)
 
-AR ALVEOLAR - ar expirado pela boca de um indivíduo, originário dos alvéolos pulmonares.          (Incluído pela Lei nº 12.760, de 2012)
+AR ALVEOLAR - ar expirado pela boca de um indivíduo, originário dos alvéolos pulmonares. (Incluído pela Lei nº 12.760, de 2012)
 
-ÁREA DE ESPERA - área delimitada por 2 (duas) linhas de retenção, destinada exclusivamente à espera de motocicletas, motonetas e ciclomotores, junto à aproximação semafórica, imediatamente à frente da linha de retenção dos demais veículos.     (Incluído pela Lei nº 14.071, de 2020)     (Vigência)
+ÁREA DE ESPERA - área delimitada por 2 (duas) linhas de retenção, destinada exclusivamente à espera de motocicletas, motonetas e ciclomotores, junto à aproximação semafórica, imediatamente à frente da linha de retenção dos demais veículos. (Incluído pela Lei nº 14.071, de 2020) (Vigência)
 
 AUTOMÓVEL - veículo automotor destinado ao transporte de passageiros, com capacidade para até oito pessoas, exclusive o condutor.
 
@@ -14973,7 +14973,7 @@ CAMINHONETE - veículo destinado ao transporte de carga com peso bruto total de 
 
 CAMIONETA - veículo misto destinado ao transporte de passageiros e carga no mesmo compartimento.
 
-CAMINHÃO - veículo automotor destinado ao transporte de carga com peso bruto total superior a 3.500 kg (três mil e quinhentos quilogramas), podendo tracionar ou arrastar outro veículo, respeitada a capacidade máxima de tração.    (Incluído pela Lei nº 14.440, de 2022)
+CAMINHÃO - veículo automotor destinado ao transporte de carga com peso bruto total superior a 3.500 kg (três mil e quinhentos quilogramas), podendo tracionar ou arrastar outro veículo, respeitada a capacidade máxima de tração. (Incluído pela Lei nº 14.440, de 2022)
 
 CANTEIRO CENTRAL - obstáculo físico construído como separador de duas pistas de rolamento, eventualmente substituído por marcas viárias (canteiro fictício).
 
@@ -14993,11 +14993,11 @@ CICLO - veículo de pelo menos duas rodas a propulsão humana.
 
 CICLOFAIXA - parte da pista de rolamento destinada à circulação exclusiva de ciclos, delimitada por sinalização específica.
 
-CICLOMOTOR - veículo de 2 (duas) ou 3 (três) rodas, provido de motor de combustão interna, cuja cilindrada não exceda a 50 cm 3 (cinquenta centímetros cúbicos), equivalente a 3,05 pol 3 (três polegadas cúbicas e cinco centésimos), ou de motor de propulsão elétrica com potência máxima de 4 kW (quatro quilowatts), e cuja velocidade máxima de fabricação não exceda a 50 Km/h (cinquenta quilômetros por hora).       (Redãção dada pela Lei nº 14.071, de 2020)     (Vigência)
+CICLOMOTOR - veículo de 2 (duas) ou 3 (três) rodas, provido de motor de combustão interna, cuja cilindrada não exceda a 50 cm 3 (cinquenta centímetros cúbicos), equivalente a 3,05 pol 3 (três polegadas cúbicas e cinco centésimos), ou de motor de propulsão elétrica com potência máxima de 4 kW (quatro quilowatts), e cuja velocidade máxima de fabricação não exceda a 50 Km/h (cinquenta quilômetros por hora). (Redãção dada pela Lei nº 14.071, de 2020) (Vigência)
 
 CICLOVIA - pista própria destinada à circulação de ciclos, separada fisicamente do tráfego comum.
 
-CIRCULAÇÃO - movimentação de pessoas, animais e veículos em deslocamento, conduzidos ou não, em vias públicas ou privadas abertas ao público e de uso coletivo.       (Incluído pela Lei nº 14.229, de 2021)
+CIRCULAÇÃO - movimentação de pessoas, animais e veículos em deslocamento, conduzidos ou não, em vias públicas ou privadas abertas ao público e de uso coletivo. (Incluído pela Lei nº 14.229, de 2021)
 
 CONVERSÃO - movimento em ângulo, à esquerda ou à direita, de mudança da direção original do veículo.
 
@@ -15009,7 +15009,7 @@ ESTACIONAMENTO - imobilização de veículos por tempo superior ao necessário p
 
 ESTRADA - via rural não pavimentada.
 
-ETILÔMETRO - aparelho destinado à medição do teor alcoólico no ar alveolar.           (Incluído pela Lei nº 12.760, de 2012)
+ETILÔMETRO - aparelho destinado à medição do teor alcoólico no ar alveolar. (Incluído pela Lei nº 12.760, de 2012)
 
 FAIXAS DE DOMÍNIO - superfície lindeira às vias rurais, delimitada por lei específica e sob responsabilidade do órgão ou entidade de trânsito competente com circunscrição sobre a via.
 
@@ -15077,7 +15077,7 @@ NOITE - período do dia compreendido entre o pôr-do-sol e o nascer do sol.
 
 OPERAÇÃO DE CARGA E DESCARGA - imobilização do veículo, pelo tempo estritamente necessário ao carregamento ou descarregamento de animais ou carga, na forma disciplinada pelo órgão ou entidade executivo de trânsito competente com circunscrição sobre a via.
 
-OPERAÇÃO DE TRÂNSITO - monitoramento técnico, baseado nos conceitos de engenharia de tráfego, das condições de fluidez, de estacionamento e de parada na via, de forma a reduzir as interferências, tais como veículos quebrados, sinistrados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores.        (Redação dada pela Lei nº 14.599, de 2023)
+OPERAÇÃO DE TRÂNSITO - monitoramento técnico, baseado nos conceitos de engenharia de tráfego, das condições de fluidez, de estacionamento e de parada na via, de forma a reduzir as interferências, tais como veículos quebrados, sinistrados, estacionados irregularmente atrapalhando o trânsito, prestando socorros imediatos e informações aos pedestres e condutores. (Redação dada pela Lei nº 14.599, de 2023)
 
 PARADA - imobilização do veículo com a finalidade e pelo tempo estritamente necessário para efetuar embarque ou desembarque de passageiros.
 
@@ -15093,9 +15093,9 @@ PASSEIO - parte da calçada ou da pista de rolamento, neste último caso, separa
 
 PATRULHAMENTO - Revogado pela Lei nº 14.599, de 2023
 
-PATRULHAMENTO OSTENSIVO - função exercida pela Polícia Rodoviária Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros.      (Redação dada pela Lei nº 14.599, de 2023)
+PATRULHAMENTO OSTENSIVO - função exercida pela Polícia Rodoviária Federal com o objetivo de prevenir e reprimir infrações penais no âmbito de sua competência e de garantir obediência às normas relativas à segurança de trânsito, de forma a assegurar a livre circulação e a prevenir sinistros. (Redação dada pela Lei nº 14.599, de 2023)
 
-PATRULHAMENTO VIÁRIO - função exercida pelos agentes de trânsito dos órgãos e entidades executivos de trânsito e rodoviário, no âmbito de suas competências, com o objetivo de garantir a segurança viária nos termos do § 10 do art. 144 da Constituição Federal.          (Incluído pela Lei nº 14.229, de 2021)
+PATRULHAMENTO VIÁRIO - função exercida pelos agentes de trânsito dos órgãos e entidades executivos de trânsito e rodoviário, no âmbito de suas competências, com o objetivo de garantir a segurança viária nos termos do § 10 do art. 144 da Constituição Federal. (Incluído pela Lei nº 14.229, de 2021)
 
 PERÍMETRO URBANO - limite entre área urbana e área rural.
 
@@ -15109,11 +15109,11 @@ PISTA - parte da via normalmente utilizada para a circulação de veículos, ide
 
 PLACAS - elementos colocados na posição vertical, fixados ao lado ou suspensos sobre a pista, transmitindo mensagens de caráter permanente e, eventualmente, variáveis, mediante símbolo ou legendas pré-reconhecidas e legalmente instituídas como sinais de trânsito.
 
-POLICIAMENTO OSTENSIVO DE TRÂNSITO - função exercida pelas Polícias Militares com o objetivo de prevenir e reprimir atos relacionados com a segurança pública e de garantir obediência às normas relativas à segurança de trânsito, assegurando a livre circulação e evitando sinistros.    (Redação dada pela Lei nº 14.599, de 2023)
+POLICIAMENTO OSTENSIVO DE TRÂNSITO - função exercida pelas Polícias Militares com o objetivo de prevenir e reprimir atos relacionados com a segurança pública e de garantir obediência às normas relativas à segurança de trânsito, assegurando a livre circulação e evitando sinistros. (Redação dada pela Lei nº 14.599, de 2023)
 
 PONTE - obra de construção civil destinada a ligar margens opostas de uma superfície líquida qualquer.
 
-QUADRICICLO - veículo automotor de 4 (quatro) rodas, com ou sem cabine, com massa em ordem de marcha não superior a 450 kg (quatrocentos e cinquenta quilogramas) para o transporte de passageiros, ou não superior a 600 kg (seiscentos quilogramas) para o transporte de cargas.       (Incluído pela Lei nº 14.599, de 2023)
+QUADRICICLO - veículo automotor de 4 (quatro) rodas, com ou sem cabine, com massa em ordem de marcha não superior a 450 kg (quatrocentos e cinquenta quilogramas) para o transporte de passageiros, ou não superior a 600 kg (seiscentos quilogramas) para o transporte de cargas. (Incluído pela Lei nº 14.599, de 2023)
 
 REBOQUE - veículo destinado a ser engatado atrás de um veículo automotor.
 
@@ -15121,7 +15121,7 @@ REGULAMENTAÇÃO DA VIA - implantação de sinalização de regulamentação pel
 
 REFÚGIO - parte da via, devidamente sinalizada e protegida, destinada ao uso de pedestres durante a travessia da mesma.
 
-RENACH - Registro Nacional de Carteiras de Habilitação.      (Redação dada pela Lei nº 14.440, de 2022)
+RENACH - Registro Nacional de Carteiras de Habilitação. (Redação dada pela Lei nº 14.440, de 2022)
 
 RENAVAM - Registro Nacional de Veículos Automotores.
 
@@ -15135,7 +15135,7 @@ SINAIS DE TRÂNSITO - elementos de sinalização viária que se utilizam de plac
 
 SINALIZAÇÃO - conjunto de sinais de trânsito e dispositivos de segurança colocados na via pública com o objetivo de garantir sua utilização adequada, possibilitando melhor fluidez no trânsito e maior segurança dos veículos e pedestres que nela circulam.
 
-SINISTRO DE TRÂNSITO - evento que resulta em dano ao veículo ou à sua carga e/ou em lesões a pessoas ou animais e que pode trazer dano material ou prejuízo ao trânsito, à via ou ao meio ambiente, em que pelo menos uma das partes está em movimento nas vias terrestres ou em áreas abertas ao público.      (Incluído pela Lei nº 14.599, de 2023)
+SINISTRO DE TRÂNSITO - evento que resulta em dano ao veículo ou à sua carga e/ou em lesões a pessoas ou animais e que pode trazer dano material ou prejuízo ao trânsito, à via ou ao meio ambiente, em que pelo menos uma das partes está em movimento nas vias terrestres ou em áreas abertas ao público. (Incluído pela Lei nº 14.599, de 2023)
 
 SONS POR APITO - sinais sonoros, emitidos exclusivamente pelos agentes da autoridade de trânsito nas vias, para orientar ou indicar o direito de passagem dos veículos ou pedestres, sobrepondo-se ou completando sinalização existente no local ou norma estabelecida neste Código.
 
@@ -15149,7 +15149,7 @@ TRANSPOSIÇÃO DE FAIXAS - passagem de um veículo de uma faixa demarcada para o
 
 TRATOR - veículo automotor construído para realizar trabalho agrícola, de construção e pavimentação e tracionar outros veículos e equipamentos.
 
-TRICICLO - veículo automotor de 3 (três) rodas, com ou sem cabine, dirigido por condutor em posição sentada ou montada, que não possui as características de ciclomotor.     (Incluído pela Lei nº 14.599, de 2023)
+TRICICLO - veículo automotor de 3 (três) rodas, com ou sem cabine, dirigido por condutor em posição sentada ou montada, que não possui as características de ciclomotor. (Incluído pela Lei nº 14.599, de 2023)
 
 ULTRAPASSAGEM - movimento de passar à frente de outro veículo que se desloca no mesmo sentido, em menor velocidade e na mesma faixa de tráfego, necessitando sair e retornar à faixa de origem.
 
@@ -15157,11 +15157,11 @@ UTILITÁRIO - veículo misto caracterizado pela versatilidade do seu uso, inclus
 
 VEÍCULO ARTICULADO - combinação de veículos acoplados, sendo um deles automotor.
 
-VEÍCULO AUTOMOTOR - veículo a motor de propulsão a combustão, elétrica ou híbrida que circula por seus próprios meios e que serve normalmente para o transporte viário de pessoas e coisas ou para a tração viária de veículos utilizados para o transporte de pessoas e coisas, compreendidos na definição os veículos conectados a uma linha elétrica e que não circulam sobre trilhos (ônibus elétrico).      (Redação dada pela Lei nº 14.599, de 2023)
+VEÍCULO AUTOMOTOR - veículo a motor de propulsão a combustão, elétrica ou híbrida que circula por seus próprios meios e que serve normalmente para o transporte viário de pessoas e coisas ou para a tração viária de veículos utilizados para o transporte de pessoas e coisas, compreendidos na definição os veículos conectados a uma linha elétrica e que não circulam sobre trilhos (ônibus elétrico). (Redação dada pela Lei nº 14.599, de 2023)
 
 VEÍCULO DE CARGA - veículo destinado ao transporte de carga, podendo transportar dois passageiros, exclusive o condutor.
 
-VEÍCULO DE COLEÇÃO - veículo fabricado há mais de 30 (trinta) anos, original ou modificado, que possui valor histórico próprio.     (Redação dada pela Lei nº 14.071, de 2020)     (Vigência)
+VEÍCULO DE COLEÇÃO - veículo fabricado há mais de 30 (trinta) anos, original ou modificado, que possui valor histórico próprio. (Redação dada pela Lei nº 14.071, de 2020) (Vigência)
 
 VEÍCULO CONJUGADO - combinação de veículos, sendo o primeiro um veículo automotor e os demais reboques ou equipamentos de trabalho agrícola, construção, terraplenagem ou pavimentação.
 
@@ -15171,9 +15171,9 @@ VEÍCULO DE PASSAGEIROS - veículo destinado ao transporte de pessoas e suas bag
 
 VEÍCULO MISTO - veículo automotor destinado ao transporte simultâneo de carga e passageiro.
 
-VEÍCULO EM ESTADO DE ABANDONO - veículo estacionado na via ou em estacionamento público, sem capacidade de locomoção por meios próprios e que, devido a seu estado de conservação e processo de deterioração, ofereça risco à saúde pública, à segurança pública ou ao meio ambiente, independentemente de encontrar-se estacionado em local permitido.     (Incluído pela Lei nº 14.440, de 2022)
+VEÍCULO EM ESTADO DE ABANDONO - veículo estacionado na via ou em estacionamento público, sem capacidade de locomoção por meios próprios e que, devido a seu estado de conservação e processo de deterioração, ofereça risco à saúde pública, à segurança pública ou ao meio ambiente, independentemente de encontrar-se estacionado em local permitido. (Incluído pela Lei nº 14.440, de 2022)
 
-VEÍCULO ESPECIAL - veículo de passageiro, de carga, de tração, de coleção ou misto que possui características diferenciadas para realização de função especial para a qual são necessários arranjos específicos da carroceria e/ou equipamento.  (Incluído pela Lei nº 14.599, de 2023)
+VEÍCULO ESPECIAL - veículo de passageiro, de carga, de tração, de coleção ou misto que possui características diferenciadas para realização de função especial para a qual são necessários arranjos específicos da carroceria e/ou equipamento. (Incluído pela Lei nº 14.599, de 2023)
 
 VIA - superfície por onde transitam veículos, pessoas e animais, compreendendo a pista, a calçada, o acostamento, ilha e canteiro central.
 
@@ -15197,7 +15197,7 @@ VIADUTO - obra de construção civil destinada a transpor uma depressão de terr
 
 (Vide Resolução nº 704, de 2017 do CONTRAN)
 
-(Vide Lei nº 14.071, de 2020)   (Vigência)
+(Vide Lei nº 14.071, de 2020) (Vigência)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.229, de 2021; inclusão — Lei nº 14.229, de 2021; inclusão — Lei nº 12.760, de 2012; inclusão — Lei nº 14.071, de 2020; inclusão — Lei nº 14.440, de 2022; redação — Lei nº 14.599, de 2023; inclusão — Lei nº 14.599, de 2023; redação — Lei nº 14.440, de 2022; redação — Lei nº 14.071, de 2020.
 

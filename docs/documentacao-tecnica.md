@@ -16,7 +16,7 @@ Este documento descreve como a página de consulta é construída, publicada e m
 A página **não tem conteúdo próprio**: ela lê os mesmos arquivos que a conferência automática atualiza a cada 12 horas. Assim, quando o Planalto, o TST, o TRT8 ou o MTE mudam um texto e a rotina publica a correção, a página passa a exibir o texto novo sem nenhuma outra ação.
 
 ```
-Fontes oficiais ──(conferência a cada 12 h: extração + validação)──▶ leis/*.md + README.md (GitHub)
+Fontes oficiais ──(conferência a cada 12 h, LaunchAgent no Mac + workflow das NR: extração + validação)──▶ leis/*.md + README.md (GitHub)
                                                                      │
                                                     GitHub Pages ────┤──▶ index.html lê via fetch
                                                                      │
@@ -180,6 +180,7 @@ Nada a programar. Ao publicar a lei pelo processo normal (`fontes/<lei>/` + `fer
 | 07/11/2026 | Manual de uso (`docs/manual-de-uso.md`) no menu do site (`#/manual`), na página inicial, no rodapé e no README |
 | 07/11/2026 | Botão "Instalar como aplicativo" no menu: usa o pedido de instalação do navegador (Chrome/Edge) ou mostra o passo a passo por aparelho; `sw.js` mínimo, sem cache, só para habilitar a instalação |
 | 07/11/2026 | Conferência a cada 12 horas: NR na nuvem (`.github/workflows/conferencia-nr.yml`); Planalto, TST e TRT8 pela tarefa agendada no computador do curador (7h e 19h), pois bloqueiam servidores de nuvem |
+| 10/11/2026 | Conferência autônoma sem o Claude: `ferramentas/conferencia-local.mjs` (Chrome do Mac controlado pelo Playwright, sem alterar a identificação do navegador) executado por LaunchAgent às 7h e 19h para Planalto, TST, TRT8, OAB e LegisWeb; publica por PR, sincroniza o Drive e notifica. `atualizar.py` passa a ignorar mudanças só de espaços ou da posição do riscado (bases de 10 leis regravadas uma vez); CLT art. 130-A passa a ser dispositivo próprio |
 | 08/11/2026 | Lei de Benefícios da Previdência Social (Lei nº 8.213/1991) publicada; foto do criador na página Sobre |
 | 08/11/2026 | Código de Defesa do Consumidor (CDC) publicado, com o superendividamento (Lei nº 14.181/2021) e a MP nº 1.393/2026 |
 | 08/11/2026 | Código de Trânsito Brasileiro (CTB) publicado, com o Anexo I como dispositivo único |

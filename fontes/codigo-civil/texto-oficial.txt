@@ -6,10 +6,10 @@ LEI Nº 10.406, DE 10 DE JANEIRO DE 2002
 Vigência
 Lei de Introdução às normas do Direito Brasileiro
 (Vide Lei nº 14.195, de 2021)
-Vide Lei nº 14.451, de 2022   Vigência
+Vide Lei nº 14.451, de 2022 Vigência
 Institui o Código Civil.
 O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
-P A R T E    G E R A L
+P A R T E G E R A L
 LIVRO I
 DAS PESSOAS
 TÍTULO I
@@ -27,7 +27,7 @@ I - os maiores de dezesseis e menores de dezoito anos;
 II - os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 III - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 IV - os pródigos.
-Parágrafo único.  A capacidade dos indígenas será regulada por legislação especial. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
+Parágrafo único. A capacidade dos indígenas será regulada por legislação especial. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 Art. 5 o A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil.
 Parágrafo único. Cessará, para os menores, a incapacidade:
 I - pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento público, independentemente de homologação judicial, ou por sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos completos;
@@ -127,9 +127,9 @@ III - as fundações.
 IV - as organizações religiosas; (Incluído pela Lei nº 10.825, de 22.12.2003)
 V - os partidos políticos. (Incluído pela Lei nº 10.825, de 22.12.2003)
 VI - (Revogado pela Lei nº 14.382, de 2022)
-VII - os empreendimentos de economia solidária.      (Redação dada pela Lei nº 15.068, de 2024)
+VII - os empreendimentos de economia solidária. (Redação dada pela Lei nº 15.068, de 2024)
 § 1º São livres a criação, a organização, a estruturação interna e o funcionamento das organizações religiosas, sendo vedado ao poder público negar-lhes reconhecimento ou registro dos atos constitutivos e necessários ao seu funcionamento. (Incluído pela Lei nº 10.825, de 22.12.2003)
-§ 2º As disposições concernentes às associações aplicam-se subsidiariamente aos empreendimentos de economia solidária e às sociedades que são objeto do Livro II da Parte Especial deste Código.      (Redação dada pela Lei nº 15.068, de 2024)
+§ 2º As disposições concernentes às associações aplicam-se subsidiariamente aos empreendimentos de economia solidária e às sociedades que são objeto do Livro II da Parte Especial deste Código. (Redação dada pela Lei nº 15.068, de 2024)
 § 3º Os partidos políticos serão organizados e funcionarão conforme o disposto em lei específica. (Incluído pela Lei nº 10.825, de 22.12.2003)
 Art. 45. Começa a existência legal das pessoas jurídicas de direito privado com a inscrição do ato constitutivo no respectivo registro, precedida, quando necessário, de autorização ou aprovação do Poder Executivo, averbando-se no registro todas as alterações por que passar o ato constitutivo.
 Parágrafo único. Decai em três anos o direito de anular a constituição das pessoas jurídicas de direito privado, por defeito do ato respectivo, contado o prazo da publicação de sua inscrição no registro.
@@ -143,19 +143,19 @@ VI - as condições de extinção da pessoa jurídica e o destino do seu patrim�
 Art. 47. Obrigam a pessoa jurídica os atos dos administradores, exercidos nos limites de seus poderes definidos no ato constitutivo.
 Art. 48. Se a pessoa jurídica tiver administração coletiva, as decisões se tomarão pela maioria de votos dos presentes, salvo se o ato constitutivo dispuser de modo diverso.
 Parágrafo único. Decai em três anos o direito de anular as decisões a que se refere este artigo, quando violarem a lei ou estatuto, ou forem eivadas de erro, dolo, simulação ou fraude.
-Art. 48-A. As pessoas jurídicas de direito privado, sem prejuízo do previsto em legislação especial e em seus atos constitutivos, poderão realizar suas assembleias gerais por meio eletrônico, inclusive para os fins do disposto no art. 59 deste Código, respeitados os direitos previstos de participação e de manifestação.   (Incluído pela Lei nº 14.382, de 2022)
+Art. 48-A. As pessoas jurídicas de direito privado, sem prejuízo do previsto em legislação especial e em seus atos constitutivos, poderão realizar suas assembleias gerais por meio eletrônico, inclusive para os fins do disposto no art. 59 deste Código, respeitados os direitos previstos de participação e de manifestação. (Incluído pela Lei nº 14.382, de 2022)
 Art. 49. Se a administração da pessoa jurídica vier a faltar, o juiz, a requerimento de qualquer interessado, nomear-lhe-á administrador provisório.
-Art. 49-A.  A pessoa jurídica não se confunde com os seus sócios, associados, instituidores ou administradores. (Incluído pela Lei nº 13.874, de 2019)
-Parágrafo único. A autonomia patrimonial das pessoas jurídicas é um instrumento lícito de alocação e segregação de riscos, estabelecido pela lei com a finalidade de estimular empreendimentos, para a geração de empregos, tributo, renda e inovação em benefício de todos.   (Incluído pela Lei nº 13.874, de 2019)
-Art. 50.  Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, desconsiderá-la para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares de administradores ou de sócios da pessoa jurídica beneficiados direta ou indiretamente pelo abuso. (Redação dada pela Lei nº 13.874, de 2019)
-§ 1º  Para os fins do disposto neste artigo, desvio de finalidade é a utilização da pessoa jurídica com o propósito de lesar credores e para a prática de atos ilícitos de qualquer natureza. (Incluído pela Lei nº 13.874, de 2019)
+Art. 49-A. A pessoa jurídica não se confunde com os seus sócios, associados, instituidores ou administradores. (Incluído pela Lei nº 13.874, de 2019)
+Parágrafo único. A autonomia patrimonial das pessoas jurídicas é um instrumento lícito de alocação e segregação de riscos, estabelecido pela lei com a finalidade de estimular empreendimentos, para a geração de empregos, tributo, renda e inovação em benefício de todos. (Incluído pela Lei nº 13.874, de 2019)
+Art. 50. Em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz, a requerimento da parte, ou do Ministério Público quando lhe couber intervir no processo, desconsiderá-la para que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares de administradores ou de sócios da pessoa jurídica beneficiados direta ou indiretamente pelo abuso. (Redação dada pela Lei nº 13.874, de 2019)
+§ 1º Para os fins do disposto neste artigo, desvio de finalidade é a utilização da pessoa jurídica com o propósito de lesar credores e para a prática de atos ilícitos de qualquer natureza. (Incluído pela Lei nº 13.874, de 2019)
 § 2º Entende-se por confusão patrimonial a ausência de separação de fato entre os patrimônios, caracterizada por: (Incluído pela Lei nº 13.874, de 2019)
 I - cumprimento repetitivo pela sociedade de obrigações do sócio ou do administrador ou vice-versa; (Incluído pela Lei nº 13.874, de 2019)
 II - transferência de ativos ou de passivos sem efetivas contraprestações, exceto os de valor proporcionalmente insignificante; e (Incluído pela Lei nº 13.874, de 2019)
 III - outros atos de descumprimento da autonomia patrimonial. (Incluído pela Lei nº 13.874, de 2019)
-§ 3º  O disposto no caput e nos §§ 1º e 2º deste artigo também se aplica à extensão das obrigações de sócios ou de administradores à pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
-§ 4º  A mera existência de grupo econômico sem a presença dos requisitos de que trata o caput deste artigo não autoriza a desconsideração da personalidade da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
-§ 5º  Não constitui desvio de finalidade a mera expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+§ 3º O disposto no caput e nos §§ 1º e 2º deste artigo também se aplica à extensão das obrigações de sócios ou de administradores à pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+§ 4º A mera existência de grupo econômico sem a presença dos requisitos de que trata o caput deste artigo não autoriza a desconsideração da personalidade da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
+§ 5º Não constitui desvio de finalidade a mera expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica. (Incluído pela Lei nº 13.874, de 2019)
 Art. 51. Nos casos de dissolução da pessoa jurídica ou cassada a autorização para seu funcionamento, ela subsistirá para os fins de liquidação, até que esta se conclua.
 § 1º Far-se-á, no registro onde a pessoa jurídica estiver inscrita, a averbação de sua dissolução.
 § 2º As disposições para a liquidação das sociedades aplicam-se, no que couber, às demais pessoas jurídicas de direito privado.
@@ -313,13 +313,13 @@ Art. 110. A manifestação de vontade subsiste ainda que o seu autor haja feito 
 Art. 111. O silêncio importa anuência, quando as circunstâncias ou os usos o autorizarem, e não for necessária a declaração de vontade expressa.
 Art. 112. Nas declarações de vontade se atenderá mais à intenção nelas consubstanciada do que ao sentido literal da linguagem.
 Art. 113. Os negócios jurídicos devem ser interpretados conforme a boa-fé e os usos do lugar de sua celebração.
-§ 1º  A interpretação do negócio jurídico deve lhe atribuir o sentido que: (Incluído pela Lei nº 13.874, de 2019)
+§ 1º A interpretação do negócio jurídico deve lhe atribuir o sentido que: (Incluído pela Lei nº 13.874, de 2019)
 I - for confirmado pelo comportamento das partes posterior à celebração do negócio; (Incluído pela Lei nº 13.874, de 2019)
 II - corresponder aos usos, costumes e práticas do mercado relativas ao tipo de negócio; (Incluído pela Lei nº 13.874, de 2019)
 III - corresponder à boa-fé; (Incluído pela Lei nº 13.874, de 2019)
 IV - for mais benéfico à parte que não redigiu o dispositivo, se identificável; e (Incluído pela Lei nº 13.874, de 2019)
 V - corresponder a qual seria a razoável negociação das partes sobre a questão discutida, inferida das demais disposições do negócio e da racionalidade econômica das partes, consideradas as informações disponíveis no momento de sua celebração. (Incluído pela Lei nº 13.874, de 2019)
-§ 2º  As partes poderão livremente pactuar regras de interpretação, de preenchimento de lacunas e de integração dos negócios jurídicos diversas daquelas previstas em lei. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º As partes poderão livremente pactuar regras de interpretação, de preenchimento de lacunas e de integração dos negócios jurídicos diversas daquelas previstas em lei. (Incluído pela Lei nº 13.874, de 2019)
 Art. 114. Os negócios jurídicos benéficos e a renúncia interpretam-se estritamente.
 CAPÍTULO II
 DA REPRESENTAÇÃO
@@ -454,7 +454,7 @@ DOS ATOS JURÍDICOS LÍCITOS
 Art. 185. Aos atos jurídicos lícitos, que não sejam negócios jurídicos, aplicam-se, no que couber, as disposições do Título anterior.
 TÍTULO III
 DOS ATOS ILÍCITOS
-Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito.   (Vide ADI nº 7055)    (Vide ADI nº 6792)
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. (Vide ADI nº 7055) (Vide ADI nº 6792)
 Art. 187. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes.
 Art. 188. Não constituem atos ilícitos:
 I - os praticados em legítima defesa ou no exercício regular de um direito reconhecido;
@@ -511,7 +511,7 @@ Art. 205. A prescrição ocorre em dez anos, quando a lei não lhe haja fixado p
 Art. 206. Prescreve:
 § 1 o Em um ano:
 I - a pretensão dos hospedeiros ou fornecedores de víveres destinados a consumo no próprio estabelecimento, para o pagamento da hospedagem ou dos alimentos;
-II - (Revogado pela Lei nº 15.040, de 2024)    Vigência
+II - (Revogado pela Lei nº 15.040, de 2024) Vigência
 III - a pretensão dos tabeliães, auxiliares da justiça, serventuários judiciais, árbitros e peritos, pela percepção de emolumentos, custas e honorários;
 IV - a pretensão contra os peritos, pela avaliação dos bens que entraram para a formação do capital de sociedade anônima, contado da publicação da ata da assembléia que aprovar o laudo;
 V - a pretensão dos credores não pagos contra os sócios ou acionistas e os liquidantes, contado o prazo da publicação da ata de encerramento da liquidação da sociedade.
@@ -534,7 +534,7 @@ IX - a pretensão do beneficiário contra o segurador, e a do terceiro prejudica
 I - a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular;
 II - a pretensão dos profissionais liberais em geral, procuradores judiciais, curadores e professores pelos seus honorários, contado o prazo da conclusão dos serviços, da cessação dos respectivos contratos ou mandato;
 III - a pretensão do vencedor para haver do vencido o que despendeu em juízo.
-Art. 206-A. A prescrição intercorrente observará o mesmo prazo de prescrição da pretensão, observadas as causas de impedimento, de suspensão e de interrupção da prescrição previstas neste Código e observado o disposto no art. 921 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil).   (Redação dada pela Lei nº 14.382, de 2022)
+Art. 206-A. A prescrição intercorrente observará o mesmo prazo de prescrição da pretensão, observadas as causas de impedimento, de suspensão e de interrupção da prescrição previstas neste Código e observado o disposto no art. 921 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil). (Redação dada pela Lei nº 14.382, de 2022)
 CAPÍTULO II
 DA DECADÊNCIA
 Art. 207. Salvo disposição legal em contrário, não se aplicam à decadência as normas que impedem, suspendem ou interrompem a prescrição.
@@ -595,7 +595,7 @@ Art. 229. (Revogado pela Lei n º 13.105, de 2015) (Vigência)
 Art. 230. (Revogado pela Lei n º 13.105, de 2015) (Vigência)
 Art. 231. Aquele que se nega a submeter-se a exame médico necessário não poderá aproveitar-se de sua recusa.
 Art. 232. A recusa à perícia médica ordenada pelo juiz poderá suprir a prova que se pretendia obter com o exame.
-PARTE ESPECIAL
+PARTE ESPECIAL
 LIVRO I
 DO DIREITO DAS OBRIGAÇÕES
 TÍTULO I
@@ -675,7 +675,7 @@ Art. 270. Se um dos credores solidários falecer deixando herdeiros, cada um des
 Art. 271. Convertendo-se a prestação em perdas e danos, subsiste, para todos os efeitos, a solidariedade.
 Art. 272. O credor que tiver remitido a dívida ou recebido o pagamento responderá aos outros pela parte que lhes caiba.
 Art. 273. A um dos credores solidários não pode o devedor opor as exceções pessoais oponíveis aos outros.
-Art. 274.  O julgamento contrário a um dos credores solidários não atinge os demais, mas o julgamento favorável aproveita-lhes, sem prejuízo de exceção pessoal que o devedor tenha direito de invocar em relação a qualquer deles. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)
+Art. 274. O julgamento contrário a um dos credores solidários não atinge os demais, mas o julgamento favorável aproveita-lhes, sem prejuízo de exceção pessoal que o devedor tenha direito de invocar em relação a qualquer deles. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)
 Seção III
 Da Solidariedade Passiva
 Art. 275. O credor tem direito a exigir e receber de um ou de alguns dos devedores, parcial ou totalmente, a dívida comum; se o pagamento tiver sido parcial, todos os demais devedores continuam obrigados solidariamente pelo resto.
@@ -861,8 +861,8 @@ TÍTULO IV
 DO INADIMPLEMENTO DAS OBRIGAÇÕES
 CAPÍTULO I
 DISPOSIÇÕES GERAIS
-Art. 389.  Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros, atualização monetária e honorários de advogado.    (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
-Parágrafo único.  Na hipótese de o índice de atualização monetária não ter sido convencionado ou não estar previsto em lei específica, será aplicada a variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), apurado e divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), ou do índice que vier a substituí-lo.      (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 389. Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros, atualização monetária e honorários de advogado. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
+Parágrafo único. Na hipótese de o índice de atualização monetária não ter sido convencionado ou não estar previsto em lei específica, será aplicada a variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA), apurado e divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), ou do índice que vier a substituí-lo. (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
 Art. 390. Nas obrigações negativas o devedor é havido por inadimplente desde o dia em que executou o ato de que se devia abster.
 Art. 391. Pelo inadimplemento das obrigações respondem todos os bens do devedor.
 Art. 392. Nos contratos benéficos, responde por simples culpa o contratante, a quem o contrato aproveite, e por dolo aquele a quem não favoreça. Nos contratos onerosos, responde cada uma das partes por culpa, salvo as exceções previstas em lei.
@@ -871,12 +871,12 @@ Parágrafo único. O caso fortuito ou de força maior verifica-se no fato necess
 CAPÍTULO II
 DA MORA
 Art. 394. Considera-se em mora o devedor que não efetuar o pagamento e o credor que não quiser recebê-lo no tempo, lugar e forma que a lei ou a convenção estabelecer.
-Art. 395.  Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários e honorários de advogado.      (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores monetários e honorários de advogado. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
 Parágrafo único. Se a prestação, devido à mora, se tornar inútil ao credor, este poderá enjeitá-la, e exigir a satisfação das perdas e danos.
 Art. 396. Não havendo fato ou omissão imputável ao devedor, não incorre este em mora.
-Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor.   (Vide Lei nº 13.105, de 2015) (Vigência)
+Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno direito em mora o devedor. (Vide Lei nº 13.105, de 2015) (Vigência)
 Parágrafo único. Não havendo termo, a mora se constitui mediante interpelação judicial ou extrajudicial.
-Art. 398. Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que o praticou.   (Vide Lei nº 13.105, de 2015) (Vigência)
+Art. 398. Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que o praticou. (Vide Lei nº 13.105, de 2015) (Vigência)
 Art. 399. O devedor em mora responde pela impossibilidade da prestação, embora essa impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso; salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse oportunamente desempenhada.
 Art. 400. A mora do credor subtrai o devedor isento de dolo à responsabilidade pela conservação da coisa, obriga o credor a ressarcir as despesas empregadas em conservá-la, e sujeita-o a recebê-la pela estimação mais favorável ao devedor, se o seu valor oscilar entre o dia estabelecido para o pagamento e o da sua efetivação.
 Art. 401. Purga-se a mora:
@@ -886,15 +886,15 @@ CAPÍTULO III
 DAS PERDAS E DANOS
 Art. 402. Salvo as exceções expressamente previstas em lei, as perdas e danos devidas ao credor abrangem, além do que ele efetivamente perdeu, o que razoavelmente deixou de lucrar.
 Art. 403. Ainda que a inexecução resulte de dolo do devedor, as perdas e danos só incluem os prejuízos efetivos e os lucros cessantes por efeito dela direto e imediato, sem prejuízo do disposto na lei processual.
-Art. 404.  As perdas e danos, nas obrigações de pagamento em dinheiro, serão pagas com atualização monetária, juros, custas e honorários de advogado, sem prejuízo da pena convencional.     (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 404. As perdas e danos, nas obrigações de pagamento em dinheiro, serão pagas com atualização monetária, juros, custas e honorários de advogado, sem prejuízo da pena convencional. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
 Parágrafo único. Provado que os juros da mora não cobrem o prejuízo, e não havendo pena convencional, pode o juiz conceder ao credor indenização suplementar.
 Art. 405. Contam-se os juros de mora desde a citação inicial.
 CAPÍTULO IV
 DOS JUROS LEGAIS
-Art. 406.  Quando não forem convencionados, ou quando o forem sem taxa estipulada, ou quando provierem de determinação da lei, os juros serão fixados de acordo com a taxa legal.   (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
-§ 1º  A taxa legal corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código.    (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
-§ 2º  A metodologia de cálculo da taxa legal e sua forma de aplicação serão definidas pelo Conselho Monetário Nacional e divulgadas pelo Banco Central do Brasil.     (Incluído pela Lei nº 14.905, de 2024)
-§ 3º  Caso a taxa legal apresente resultado negativo, este será considerado igual a 0 (zero) para efeito de cálculo dos juros no período de referência.      (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 406. Quando não forem convencionados, ou quando o forem sem taxa estipulada, ou quando provierem de determinação da lei, os juros serão fixados de acordo com a taxa legal. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
+§ 1º A taxa legal corresponderá à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), deduzido o índice de atualização monetária de que trata o parágrafo único do art. 389 deste Código. (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
+§ 2º A metodologia de cálculo da taxa legal e sua forma de aplicação serão definidas pelo Conselho Monetário Nacional e divulgadas pelo Banco Central do Brasil. (Incluído pela Lei nº 14.905, de 2024)
+§ 3º Caso a taxa legal apresente resultado negativo, este será considerado igual a 0 (zero) para efeito de cálculo dos juros no período de referência. (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
 Art. 407. Ainda que se não alegue prejuízo, é obrigado o devedor aos juros da mora que se contarão assim às dívidas em dinheiro, como às prestações de outra natureza, uma vez que lhes esteja fixado o valor pecuniário por sentença judicial, arbitramento, ou acordo entre as partes.
 CAPÍTULO V
 DA CLÁUSULA PENAL
@@ -912,9 +912,9 @@ Parágrafo único. Ainda que o prejuízo exceda ao previsto na cláusula penal, 
 CAPÍTULO VI
 DAS ARRAS OU SINAL
 Art. 417. Se, por ocasião da conclusão do contrato, uma parte der à outra, a título de arras, dinheiro ou outro bem móvel, deverão as arras, em caso de execução, ser restituídas ou computadas na prestação devida, se do mesmo gênero da principal.
-Art. 418.  Na hipótese de inexecução do contrato, se esta se der:     (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
-I - por parte de quem deu as arras, poderá a outra parte ter o contrato por desfeito, retendo-as;     (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
-II - por parte de quem recebeu as arras, poderá quem as deu haver o contrato por desfeito e exigir a sua devolução mais o equivalente, com atualização monetária, juros e honorários de advogado.     (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 418. Na hipótese de inexecução do contrato, se esta se der: (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
+I - por parte de quem deu as arras, poderá a outra parte ter o contrato por desfeito, retendo-as; (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
+II - por parte de quem recebeu as arras, poderá quem as deu haver o contrato por desfeito e exigir a sua devolução mais o equivalente, com atualização monetária, juros e honorários de advogado. (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
 Art. 419. A parte inocente pode pedir indenização suplementar, se provar maior prejuízo, valendo as arras como taxa mínima. Pode, também, a parte inocente exigir a execução do contrato, com as perdas e danos, valendo as arras como o mínimo da indenização.
 Art. 420. Se no contrato for estipulado o direito de arrependimento para qualquer das partes, as arras ou sinal terão função unicamente indenizatória. Neste caso, quem as deu perdê-las-á em benefício da outra parte; e quem as recebeu devolvê-las-á, mais o equivalente. Em ambos os casos não haverá direito a indenização suplementar.
 TÍTULO V
@@ -923,9 +923,9 @@ CAPÍTULO I
 DISPOSIÇÕES GERAIS
 Seção I
 Preliminares
-Art. 421.  A liberdade contratual será exercida nos limites da função social do contrato. (Redação dada pela Lei nº 13.874, de 2019)
+Art. 421. A liberdade contratual será exercida nos limites da função social do contrato. (Redação dada pela Lei nº 13.874, de 2019)
 Parágrafo único. Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual. (Incluído pela Lei nº 13.874, de 2019)
-Art. 421-A.  Os contratos civis e empresariais presumem-se paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que: (Incluído pela Lei nº 13.874, de 2019)
+Art. 421-A. Os contratos civis e empresariais presumem-se paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que: (Incluído pela Lei nº 13.874, de 2019)
 I - as partes negociantes poderão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução; (Incluído pela Lei nº 13.874, de 2019)
 II - a alocação de riscos definida pelas partes deve ser respeitada e observada; e (Incluído pela Lei nº 13.874, de 2019)
 III - a revisão contratual somente ocorrerá de maneira excepcional e limitada. (Incluído pela Lei nº 13.874, de 2019)
@@ -1232,8 +1232,8 @@ III - se o menor tiver bens ganhos com o seu trabalho. Mas, em tal caso, a execu
 IV - se o empréstimo reverteu em benefício do menor;
 V - se o menor obteve o empréstimo maliciosamente.
 Art. 590. O mutuante pode exigir garantia da restituição, se antes do vencimento o mutuário sofrer notória mudança em sua situação econômica.
-Art. 591.  Destinando-se o mútuo a fins econômicos, presumem-se devidos juros.   (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
-Parágrafo único.  Se a taxa de juros não for pactuada, aplica-se a taxa legal prevista no art. 406 deste Código.     (Incluído pela Lei nº 14.905, de 2024)   Produção de efeitos
+Art. 591. Destinando-se o mútuo a fins econômicos, presumem-se devidos juros. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
+Parágrafo único. Se a taxa de juros não for pactuada, aplica-se a taxa legal prevista no art. 406 deste Código. (Incluído pela Lei nº 14.905, de 2024) Produção de efeitos
 Art. 592. Não se tendo convencionado expressamente, o prazo do mútuo será:
 I - até a próxima colheita, se o mútuo for de produtos agrícolas, assim para o consumo, como para semeadura;
 II - de trinta dias, pelo menos, se for de dinheiro;
@@ -1400,15 +1400,15 @@ Do Mandato Judicial
 Art. 692. O mandato judicial fica subordinado às normas que lhe dizem respeito, constantes da legislação processual, e, supletivamente, às estabelecidas neste Código.
 CAPÍTULO XI
 DA COMISSÃO
-Art. 693. O contrato de comissão tem por objeto a compra ou venda de bens ou a realização de mútuo ou outro negócio jurídico de crédito pelo comissário, em seu próprio nome, à conta do comitente.      (Redação dada pela Lei nº 14.690, de 2023)     Vigência
+Art. 693. O contrato de comissão tem por objeto a compra ou venda de bens ou a realização de mútuo ou outro negócio jurídico de crédito pelo comissário, em seu próprio nome, à conta do comitente. (Redação dada pela Lei nº 14.690, de 2023) Vigência
 Art. 694. O comissário fica diretamente obrigado para com as pessoas com quem contratar, sem que estas tenham ação contra o comitente, nem este contra elas, salvo se o comissário ceder seus direitos a qualquer das partes.
 Art. 695. O comissário é obrigado a agir de conformidade com as ordens e instruções do comitente, devendo, na falta destas, não podendo pedi-las a tempo, proceder segundo os usos em casos semelhantes.
 Parágrafo único. Ter-se-ão por justificados os atos do comissário, se deles houver resultado vantagem para o comitente, e ainda no caso em que, não admitindo demora a realização do negócio, o comissário agiu de acordo com os usos.
 Art. 696. No desempenho das suas incumbências o comissário é obrigado a agir com cuidado e diligência, não só para evitar qualquer prejuízo ao comitente, mas ainda para lhe proporcionar o lucro que razoavelmente se podia esperar do negócio.
 Parágrafo único. Responderá o comissário, salvo motivo de força maior, por qualquer prejuízo que, por ação ou omissão, ocasionar ao comitente.
 Art. 697. O comissário não responde pela insolvência das pessoas com quem tratar, exceto em caso de culpa e no do artigo seguinte.
-Art. 698. Se do contrato de comissão constar a cláusula del credere , responderá o comissário solidariamente com as pessoas com que houver tratado em nome do comitente, caso em que, salvo estipulação em contrário, o comissário tem direito a remuneração mais elevada, para compensar o ônus assumido. 
-Parágrafo único. A cláusula del credere de que trata o caput deste artigo poderá ser parcial.       (Incluído Lei nº 14.690, de 2023)     Vigência
+Art. 698. Se do contrato de comissão constar a cláusula del credere , responderá o comissário solidariamente com as pessoas com que houver tratado em nome do comitente, caso em que, salvo estipulação em contrário, o comissário tem direito a remuneração mais elevada, para compensar o ônus assumido.
+Parágrafo único. A cláusula del credere de que trata o caput deste artigo poderá ser parcial. (Incluído Lei nº 14.690, de 2023) Vigência
 Art. 699. Presume-se o comissário autorizado a conceder dilação do prazo para pagamento, na conformidade dos usos do lugar onde se realizar o negócio, se não houver instruções diversas do comitente.
 Art. 700. Se houver instruções do comitente proibindo prorrogação de prazos para pagamento, ou se esta não for conforme os usos locais, poderá o comitente exigir que o comissário pague incontinenti ou responda pelas conseqüências da dilação concedida, procedendo-se de igual modo se o comissário não der ciência ao comitente dos prazos concedidos e de quem é seu beneficiário.
 Art. 701. Não estipulada a remuneração devida ao comissário, será ela arbitrada segundo os usos correntes no lugar.
@@ -1439,8 +1439,8 @@ Art. 721. Aplicam-se ao contrato de agência e distribuição, no que couber, as
 CAPÍTULO XIII
 DA CORRETAGEM
 Art. 722. Pelo contrato de corretagem, uma pessoa, não ligada a outra em virtude de mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se a obter para a segunda um ou mais negócios, conforme as instruções recebidas.
-Art. 723.  O corretor é obrigado a executar a mediação com diligência e prudência, e a prestar ao cliente, espontaneamente, todas as informações sobre o andamento do negócio. (Redação dada pela Lei nº 12.236, de 2010 )
-Parágrafo único.  Sob pena de responder por perdas e danos, o corretor prestará ao cliente todos os esclarecimentos acerca da segurança ou do risco do negócio, das alterações de valores e de outros fatores que possam influir nos resultados da incumbência. (Incluído pela Lei nº 12.236, de 2010 )
+Art. 723. O corretor é obrigado a executar a mediação com diligência e prudência, e a prestar ao cliente, espontaneamente, todas as informações sobre o andamento do negócio. (Redação dada pela Lei nº 12.236, de 2010 )
+Parágrafo único. Sob pena de responder por perdas e danos, o corretor prestará ao cliente todos os esclarecimentos acerca da segurança ou do risco do negócio, das alterações de valores e de outros fatores que possam influir nos resultados da incumbência. (Incluído pela Lei nº 12.236, de 2010 )
 Art. 724. A remuneração do corretor, se não estiver fixada em lei, nem ajustada entre as partes, será arbitrada segundo a natureza do negócio e os usos locais.
 Art. 725. A remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, ou ainda que este não se efetive em virtude de arrependimento das partes.
 Art. 726. Iniciado e concluído o negócio diretamente entre as partes, nenhuma remuneração será devida ao corretor; mas se, por escrito, for ajustada a corretagem com exclusividade, terá o corretor direito à remuneração integral, ainda que realizado o negócio sem a sua mediação, salvo se comprovada sua inércia ou ociosidade.
@@ -1500,56 +1500,56 @@ CAPÍTULO XV
 DO SEGURO
 Seção I
 Disposições Gerais
-Art. 757. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 758. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 759.(Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 760. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 761. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 762. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 763. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 764. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 765. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 766. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 767. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 768. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 769. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 770. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 771. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 772.  (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 773. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 774. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 775. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 776. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 777. (Revogado pela Lei nº 15.040, de 2024)    Vigência
+Art. 757. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 758. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 759.(Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 760. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 761. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 762. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 763. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 764. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 765. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 766. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 767. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 768. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 769. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 770. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 771. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 772. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 773. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 774. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 775. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 776. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 777. (Revogado pela Lei nº 15.040, de 2024) Vigência
 Seção II
 Do Seguro de Dano
-Art. 778. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 779. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 780. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 781. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 782. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 783. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 784. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 785. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 786. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 787. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 788. (Revogado pela Lei nº 15.040, de 2024)    Vigência
+Art. 778. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 779. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 780. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 781. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 782. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 783. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 784. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 785. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 786. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 787. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 788. (Revogado pela Lei nº 15.040, de 2024) Vigência
 Seção III
 Do Seguro de Pessoa
-Art. 789. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 790. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 791. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 792. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 793. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 794. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 795. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 796. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 797. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 798. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 799. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 800. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 801. (Revogado pela Lei nº 15.040, de 2024)    Vigência
-Art. 802. (Revogado pela Lei nº 15.040, de 2024)    Vigência
+Art. 789. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 790. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 791. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 792. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 793. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 794. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 795. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 796. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 797. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 798. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 799. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 800. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 801. (Revogado pela Lei nº 15.040, de 2024) Vigência
+Art. 802. (Revogado pela Lei nº 15.040, de 2024) Vigência
 CAPÍTULO XVI
 DA CONSTITUIÇÃO DE RENDA
 Art. 803. Pode uma pessoa, pelo contrato de constituição de renda, obrigar-se para com outra a uma prestação periódica, a título gratuito.
@@ -1641,19 +1641,19 @@ Art. 853. Admite-se nos contratos a cláusula compromissória, para resolver div
 CAPÍTULO XXI
 (Incluído pela Lei nº 14.711, de 2023)
 DO CONTRATO DE ADMINISTRAÇÃO FIDUCIÁRIA DE GARANTIAS
-Art. 853-A. Qualquer garantia poderá ser constituída, levada a registro, gerida e ter a sua execução pleiteada por agente de garantia, que será designado pelos credores da obrigação garantida para esse fim e atuará em nome próprio e em benefício dos credores, inclusive em ações judiciais que envolvam discussões sobre a existência, a validade ou a eficácia do ato jurídico do crédito garantido, vedada qualquer cláusula que afaste essa regra em desfavor do devedor ou, se for o caso, do terceiro prestador da garantia.     (Incluído pela Lei nº 14.711, de 2023)
-§ 1º O agente de garantia poderá valer-se da execução extrajudicial da garantia, quando houver previsão na legislação especial aplicável à modalidade de garantia.     (Incluído pela Lei nº 14.711, de 2023)
-§ 2º O agente de garantia terá dever fiduciário em relação aos credores da obrigação garantida e responderá perante os credores por todos os seus atos.     (Incluído pela Lei nº 14.711, de 2023)
-§ 3º O agente de garantia poderá ser substituído, a qualquer tempo, por decisão do credor único ou dos titulares que representarem a maioria simples dos créditos garantidos, reunidos em assembleia, mas a substituição do agente de garantia somente será eficaz após ter sido tornada pública pela mesma forma por meio da qual tenha sido dada publicidade à garantia.     (Incluído pela Lei nº 14.711, de 2023)
-§ 4º Os requisitos de convocação e de instalação das assembleias dos titulares dos créditos garantidos estarão previstos em ato de designação ou de contratação do agente de garantia.     (Incluído pela Lei nº 14.711, de 2023)
-§ 5º O produto da realização da garantia, enquanto não transferido para os credores garantidos, constitui patrimônio separado daquele do agente de garantia e não poderá responder por suas obrigações pelo período de até 180 (cento e oitenta) dias, contado da data de recebimento do produto da garantia.  (Incluído pela Lei nº 14.711, de 2023)
-§ 6º Após receber o valor do produto da realização da garantia, o agente de garantia disporá do prazo de 10 (dez) dias úteis para efetuar o pagamento aos credores.     (Incluído pela Lei nº 14.711, de 2023)
-§ 7º Paralelamente ao contrato de que trata este artigo, o agente de garantia poderá manter contratos com o devedor para:     (Incluído pela Lei nº 14.711, de 2023)
-I - pesquisa de ofertas de crédito mais vantajosas entre os diversos fornecedores;    (Incluído pela Lei nº 14.711, de 2023)
-II - auxílio nos procedimentos necessários à formalização de contratos de operações de crédito e de garantias reais;    (Incluído pela Lei nº 14.711, de 2023)
-III - intermediação na resolução de questões relativas aos contratos de operações de crédito ou às garantias reais; e    (Incluído pela Lei nº 14.711, de 2023)
-IV - outros serviços não vedados em lei.    (Incluído pela Lei nº 14.711, de 2023)
-§ 8º Na hipótese do § 7º deste artigo, o agente de garantia deverá agir com estrita boa-fé perante o devedor.     (Incluído pela Lei nº 14.711, de 2023)
+Art. 853-A. Qualquer garantia poderá ser constituída, levada a registro, gerida e ter a sua execução pleiteada por agente de garantia, que será designado pelos credores da obrigação garantida para esse fim e atuará em nome próprio e em benefício dos credores, inclusive em ações judiciais que envolvam discussões sobre a existência, a validade ou a eficácia do ato jurídico do crédito garantido, vedada qualquer cláusula que afaste essa regra em desfavor do devedor ou, se for o caso, do terceiro prestador da garantia. (Incluído pela Lei nº 14.711, de 2023)
+§ 1º O agente de garantia poderá valer-se da execução extrajudicial da garantia, quando houver previsão na legislação especial aplicável à modalidade de garantia. (Incluído pela Lei nº 14.711, de 2023)
+§ 2º O agente de garantia terá dever fiduciário em relação aos credores da obrigação garantida e responderá perante os credores por todos os seus atos. (Incluído pela Lei nº 14.711, de 2023)
+§ 3º O agente de garantia poderá ser substituído, a qualquer tempo, por decisão do credor único ou dos titulares que representarem a maioria simples dos créditos garantidos, reunidos em assembleia, mas a substituição do agente de garantia somente será eficaz após ter sido tornada pública pela mesma forma por meio da qual tenha sido dada publicidade à garantia. (Incluído pela Lei nº 14.711, de 2023)
+§ 4º Os requisitos de convocação e de instalação das assembleias dos titulares dos créditos garantidos estarão previstos em ato de designação ou de contratação do agente de garantia. (Incluído pela Lei nº 14.711, de 2023)
+§ 5º O produto da realização da garantia, enquanto não transferido para os credores garantidos, constitui patrimônio separado daquele do agente de garantia e não poderá responder por suas obrigações pelo período de até 180 (cento e oitenta) dias, contado da data de recebimento do produto da garantia. (Incluído pela Lei nº 14.711, de 2023)
+§ 6º Após receber o valor do produto da realização da garantia, o agente de garantia disporá do prazo de 10 (dez) dias úteis para efetuar o pagamento aos credores. (Incluído pela Lei nº 14.711, de 2023)
+§ 7º Paralelamente ao contrato de que trata este artigo, o agente de garantia poderá manter contratos com o devedor para: (Incluído pela Lei nº 14.711, de 2023)
+I - pesquisa de ofertas de crédito mais vantajosas entre os diversos fornecedores; (Incluído pela Lei nº 14.711, de 2023)
+II - auxílio nos procedimentos necessários à formalização de contratos de operações de crédito e de garantias reais; (Incluído pela Lei nº 14.711, de 2023)
+III - intermediação na resolução de questões relativas aos contratos de operações de crédito ou às garantias reais; e (Incluído pela Lei nº 14.711, de 2023)
+IV - outros serviços não vedados em lei. (Incluído pela Lei nº 14.711, de 2023)
+§ 8º Na hipótese do § 7º deste artigo, o agente de garantia deverá agir com estrita boa-fé perante o devedor. (Incluído pela Lei nº 14.711, de 2023)
 TÍTULO VII
 DOS ATOS UNILATERAIS
 CAPÍTULO I
@@ -1740,7 +1740,7 @@ Art. 900. O aval posterior ao vencimento produz os mesmos efeitos do anteriormen
 Art. 901. Fica validamente desonerado o devedor que paga título de crédito ao legítimo portador, no vencimento, sem oposição, salvo se agiu de má-fé.
 Parágrafo único. Pagando, pode o devedor exigir do credor, além da entrega do título, quitação regular.
 Art. 902. Não é o credor obrigado a receber o pagamento antes do vencimento do título, e aquele que o paga, antes do vencimento, fica responsável pela validade do pagamento.
-§ 1º  No vencimento, não pode o credor recusar pagamento, ainda que parcial.
+§ 1º No vencimento, não pode o credor recusar pagamento, ainda que parcial.
 § 2º No caso de pagamento parcial, em que se não opera a tradição do título, além da quitação em separado, outra deverá ser firmada no próprio título.
 Art. 903. Salvo disposição diversa em lei especial, regem-se os títulos de crédito pelo disposto neste Código.
 CAPÍTULO II
@@ -1793,7 +1793,7 @@ TÍTULO IX
 DA RESPONSABILIDADE CIVIL
 CAPÍTULO I
 DA OBRIGAÇÃO DE INDENIZAR
-Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo.  (Vide ADI nº 7055)    (Vide ADI nº 6792)
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-lo. (Vide ADI nº 7055) (Vide ADI nº 6792)
 Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem.
 Art. 928. O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes.
 Parágrafo único. A indenização prevista neste artigo, que deverá ser eqüitativa, não terá lugar se privar do necessário o incapaz ou as pessoas que dele dependem.
@@ -1885,7 +1885,7 @@ Parágrafo único. Não se considera empresário quem exerce profissão intelect
 Art. 967. É obrigatória a inscrição do empresário no Registro Público de Empresas Mercantis da respectiva sede, antes do início de sua atividade.
 Art. 968. A inscrição do empresário far-se-á mediante requerimento que contenha:
 I - o seu nome, nacionalidade, domicílio, estado civil e, se casado, o regime de bens;
-II - a firma, com a respectiva assinatura autógrafa que poderá ser substituída pela assinatura autenticada com certificação digital ou meio equivalente que comprove a sua autenticidade, ressalvado o disposto no inciso I do § 1º do art. 4º da Lei Complementar nº 123, de 14 de dezembro de 2006 ; (Redação dada pela Lei Complementar nº 147, de 2014)
+II - a firma, com a respectiva assinatura autógrafa que poderá ser substituída pela assinatura autenticada com certificação digital ou meio equivalente que comprove a sua autenticidade, ressalvado o disposto no inciso I do § 1º do art. 4º da Lei Complementar nº 123, de 14 de dezembro de 2006 ; (Redação dada pela Lei Complementar nº 147, de 2014)
 III - o capital;
 IV - o objeto e a sede da empresa.
 § 1º Com as indicações estabelecidas neste artigo, a inscrição será tomada por termo no livro próprio do Registro Público de Empresas Mercantis, e obedecerá a número de ordem contínuo para todos os empresários inscritos.
@@ -1897,7 +1897,7 @@ Art. 969. O empresário que instituir sucursal, filial ou agência, em lugar suj
 Parágrafo único. Em qualquer caso, a constituição do estabelecimento secundário deverá ser averbada no Registro Público de Empresas Mercantis da respectiva sede.
 Art. 970. A lei assegurará tratamento favorecido, diferenciado e simplificado ao empresário rural e ao pequeno empresário, quanto à inscrição e aos efeitos daí decorrentes.
 Art. 971. O empresário, cuja atividade rural constitua sua principal profissão, pode, observadas as formalidades de que tratam o art. 968 e seus parágrafos, requerer inscrição no Registro Público de Empresas Mercantis da respectiva sede, caso em que, depois de inscrito, ficará equiparado, para todos os efeitos, ao empresário sujeito a registro.
-Parágrafo único. Aplica-se o disposto no caput deste artigo à associação que desenvolva atividade futebolística em caráter habitual e profissional, caso em que, com a inscrição, será considerada empresária, para todos os efeitos.        (Incluído pela Lei nº 14.193, de 2021)
+Parágrafo único. Aplica-se o disposto no caput deste artigo à associação que desenvolva atividade futebolística em caráter habitual e profissional, caso em que, com a inscrição, será considerada empresária, para todos os efeitos. (Incluído pela Lei nº 14.193, de 2021)
 CAPÍTULO II
 DA CAPACIDADE
 Art. 972. Podem exercer a atividade de empresário os que estiverem em pleno gozo da capacidade civil e não forem legalmente impedidos.
@@ -2009,7 +2009,7 @@ Art. 1.013. A administração da sociedade, nada dispondo o contrato social, com
 § 2 o Responde por perdas e danos perante a sociedade o administrador que realizar operações, sabendo ou devendo saber que estava agindo em desacordo com a maioria.
 Art. 1.014. Nos atos de competência conjunta de vários administradores, torna-se necessário o concurso de todos, salvo nos casos urgentes, em que a omissão ou retardo das providências possa ocasionar dano irreparável ou grave.
 Art. 1.015. No silêncio do contrato, os administradores podem praticar todos os atos pertinentes à gestão da sociedade; não constituindo objeto social, a oneração ou a venda de bens imóveis depende do que a maioria dos sócios decidir.
-Parágrafo único.     (Revogado pela Lei nº 14.195, de 2021)
+Parágrafo único. (Revogado pela Lei nº 14.195, de 2021)
 Art. 1.016. Os administradores respondem solidariamente perante a sociedade e os terceiros prejudicados, por culpa no desempenho de suas funções.
 Art. 1.017. O administrador que, sem consentimento escrito dos sócios, aplicar créditos ou bens sociais em proveito próprio ou de terceiros, terá de restituí-los à sociedade, ou pagar o equivalente, com todos os lucros resultantes, e, se houver prejuízo, por ele também responderá.
 Parágrafo único. Fica sujeito às sanções o administrador que, tendo em qualquer operação interesse contrário ao da sociedade, tome parte na correspondente deliberação.
@@ -2039,7 +2039,7 @@ Art. 1.030. Ressalvado o disposto no art. 1.004 e seu parágrafo único, pode o 
 Parágrafo único. Será de pleno direito excluído da sociedade o sócio declarado falido, ou aquele cuja quota tenha sido liquidada nos termos do parágrafo único do art. 1.026.
 Art. 1.031. Nos casos em que a sociedade se resolver em relação a um sócio, o valor da sua quota, considerada pelo montante efetivamente realizado, liquidar-se-á, salvo disposição contratual em contrário, com base na situação patrimonial da sociedade, à data da resolução, verificada em balanço especialmente levantado.
 § 1 o O capital social sofrerá a correspondente redução, salvo se os demais sócios suprirem o valor da quota.
-§ 2 o A quota liquidada será paga em dinheiro, no prazo de noventa dias, a partir da liquidação, salvo acordo, ou estipulação contratual em contrário.  (Vide Lei nº 13.105, de 2015) (Vigência)
+§ 2 o A quota liquidada será paga em dinheiro, no prazo de noventa dias, a partir da liquidação, salvo acordo, ou estipulação contratual em contrário. (Vide Lei nº 13.105, de 2015) (Vigência)
 Art. 1.032. A retirada, exclusão ou morte do sócio, não o exime, ou a seus herdeiros, da responsabilidade pelas obrigações sociais anteriores, até dois anos após averbada a resolução da sociedade; nem nos dois primeiros casos, pelas posteriores e em igual prazo, enquanto não se requerer a averbação.
 Seção VI
 Da Dissolução
@@ -2096,8 +2096,8 @@ Da Sociedade Limitada
 Seção I
 Disposições Preliminares
 Art. 1.052. Na sociedade limitada, a responsabilidade de cada sócio é restrita ao valor de suas quotas, mas todos respondem solidariamente pela integralização do capital social.
-§ 1º  A sociedade limitada pode ser constituída por 1 (uma) ou mais pessoas.     (Incluído pela Lei nº 13.874, de 2019)
-§ 2º  Se for unipessoal, aplicar-se-ão ao documento de constituição do sócio único, no que couber, as disposições sobre o contrato social.     (Incluído pela Lei nº 13.874, de 2019)
+§ 1º A sociedade limitada pode ser constituída por 1 (uma) ou mais pessoas. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º Se for unipessoal, aplicar-se-ão ao documento de constituição do sócio único, no que couber, as disposições sobre o contrato social. (Incluído pela Lei nº 13.874, de 2019)
 Art. 1.053. A sociedade limitada rege-se, nas omissões deste Capítulo, pelas normas da sociedade simples.
 Parágrafo único. O contrato social poderá prever a regência supletiva da sociedade limitada pelas normas da sociedade anônima.
 Art. 1.054. O contrato mencionará, no que couber, as indicações do art. 997, e, se for o caso, a firma social.
@@ -2117,12 +2117,12 @@ Seção III
 Da Administração
 Art. 1.060. A sociedade limitada é administrada por uma ou mais pessoas designadas no contrato social ou em ato separado.
 Parágrafo único. A administração atribuída no contrato a todos os sócios não se estende de pleno direito aos que posteriormente adquiram essa qualidade.
-Art. 1.061. A designação de administradores não sócios dependerá da aprovação de, no mínimo, 2/3 (dois terços) dos sócios, enquanto o capital não estiver integralizado, e da aprovação de titulares de quotas correspondentes a mais da metade do capital social, após a integralização.     (Redação dada pela Lei nº 14.451, de 2022)     Vigência
+Art. 1.061. A designação de administradores não sócios dependerá da aprovação de, no mínimo, 2/3 (dois terços) dos sócios, enquanto o capital não estiver integralizado, e da aprovação de titulares de quotas correspondentes a mais da metade do capital social, após a integralização. (Redação dada pela Lei nº 14.451, de 2022) Vigência
 Art. 1.062. O administrador designado em ato separado investir-se-á no cargo mediante termo de posse no livro de atas da administração.
 § 1 o Se o termo não for assinado nos trinta dias seguintes à designação, esta se tornará sem efeito.
 § 2 o Nos dez dias seguintes ao da investidura, deve o administrador requerer seja averbada sua nomeação no registro competente, mencionando o seu nome, nacionalidade, estado civil, residência, com exibição de documento de identidade, o ato e a data da nomeação e o prazo de gestão.
 Art. 1.063. O exercício do cargo de administrador cessa pela destituição, em qualquer tempo, do titular, ou pelo término do prazo se, fixado no contrato ou em ato separado, não houver recondução.
-§ 1º  Tratando-se de sócio nomeado administrador no contrato, sua destituição somente se opera pela aprovação de titulares de quotas correspondentes a mais da metade do capital social, salvo disposição contratual diversa. (Redação dada pela Lei nº 13.792, de 2019)
+§ 1º Tratando-se de sócio nomeado administrador no contrato, sua destituição somente se opera pela aprovação de titulares de quotas correspondentes a mais da metade do capital social, salvo disposição contratual diversa. (Redação dada pela Lei nº 13.792, de 2019)
 § 2 o A cessação do exercício do cargo de administrador deve ser averbada no registro competente, mediante requerimento apresentado nos dez dias seguintes ao da ocorrência.
 § 3 o A renúncia de administrador torna-se eficaz, em relação à sociedade, desde o momento em que esta toma conhecimento da comunicação escrita do renunciante; e, em relação a terceiros, após a averbação e publicação.
 Art. 1.064. O uso da firma ou denominação social é privativo dos administradores que tenham os necessários poderes.
@@ -2172,9 +2172,9 @@ Art. 1.075. A assembléia será presidida e secretariada por sócios escolhidos 
 § 1 o Dos trabalhos e deliberações será lavrada, no livro de atas da assembléia, ata assinada pelos membros da mesa e por sócios participantes da reunião, quantos bastem à validade das deliberações, mas sem prejuízo dos que queiram assiná-la.
 § 2 o Cópia da ata autenticada pelos administradores, ou pela mesa, será, nos vinte dias subseqüentes à reunião, apresentada ao Registro Público de Empresas Mercantis para arquivamento e averbação.
 § 3 o Ao sócio, que a solicitar, será entregue cópia autenticada da ata.
-Art. 1.076.  Ressalvado o disposto no art. 1.061, as deliberações dos sócios serão tomadas (Redação dada pela Lei nº 13.792, de 2019)
-I - (revogado);        (Redação dada pela Lei nº 14.451, de 2022)     Vigência
-II - pelos votos correspondentes a mais da metade do capital social, nos casos previstos nos incisos II, III, IV, V, VI e VIII do caput do art. 1.071 deste Código;        (Redação dada pela Lei nº 14.451, de 2022)     Vigência
+Art. 1.076. Ressalvado o disposto no art. 1.061, as deliberações dos sócios serão tomadas (Redação dada pela Lei nº 13.792, de 2019)
+I - (revogado); (Redação dada pela Lei nº 14.451, de 2022) Vigência
+II - pelos votos correspondentes a mais da metade do capital social, nos casos previstos nos incisos II, III, IV, V, VI e VIII do caput do art. 1.071 deste Código; (Redação dada pela Lei nº 14.451, de 2022) Vigência
 III - pela maioria de votos dos presentes, nos demais casos previstos na lei ou no contrato, se este não exigir maioria mais elevada.
 Art. 1.077. Quando houver modificação do contrato, fusão da sociedade, incorporação de outra, ou dela por outra, terá o sócio que dissentiu o direito de retirar-se da sociedade, nos trinta dias subseqüentes à reunião, aplicando-se, no silêncio do contrato social antes vigente, o disposto no art. 1.031.
 Art. 1.078. A assembléia dos sócios deve realizar-se ao menos uma vez por ano, nos quatro meses seguintes à ao término do exercício social, com o objetivo de:
@@ -2187,8 +2187,8 @@ III - tratar de qualquer outro assunto constante da ordem do dia.
 § 4 o Extingue-se em dois anos o direito de anular a aprovação a que se refere o parágrafo antecedente.
 Art. 1.079. Aplica-se às reuniões dos sócios, nos casos omissos no contrato, o estabelecido nesta Seção sobre a assembléia, obedecido o disposto no § 1 o do art. 1.072.
 Art. 1.080. As deliberações infringentes do contrato ou da lei tornam ilimitada a responsabilidade dos que expressamente as aprovaram.
-Art. 1.080-A.  O sócio poderá participar e votar a distância em reunião ou em assembleia, nos termos do regulamento do órgão competente do Poder Executivo federal.       (Incluído pela Lei nº 14.030, de 2020)
-Parágrafo único. A reunião ou a assembleia poderá ser realizada de forma digital, respeitados os direitos legalmente previstos de participação e de manifestação dos sócios e os demais requisitos regulamentares.        (Incluído pela Lei nº 14.030, de 2020)
+Art. 1.080-A. O sócio poderá participar e votar a distância em reunião ou em assembleia, nos termos do regulamento do órgão competente do Poder Executivo federal. (Incluído pela Lei nº 14.030, de 2020)
+Parágrafo único. A reunião ou a assembleia poderá ser realizada de forma digital, respeitados os direitos legalmente previstos de participação e de manifestação dos sócios e os demais requisitos regulamentares. (Incluído pela Lei nº 14.030, de 2020)
 Seção VI
 Do Aumento e da Redução do Capital
 Art. 1.081. Ressalvado o disposto em lei especial, integralizadas as quotas, pode ser o capital aumentado, com a correspondente modificação do contrato.
@@ -2360,10 +2360,10 @@ TÍTULO III
 DO ESTABELECIMENTO
 CAPÍTULO ÚNICO
 DISPOSIÇÕES GERAIS
-Art. 1.142. Considera-se estabelecimento todo complexo de bens organizado, para exercício da empresa, por empresário, ou por sociedade empresária.     (Vide Lei nº 14.195, de 2021)
-§ 1º O estabelecimento não se confunde com o local onde se exerce a atividade empresarial, que poderá ser físico ou virtual.   (Incluído pela Lei nº 14.382, de 2022)
-§ 2º Quando o local onde se exerce a atividade empresarial for virtual, o endereço informado para fins de registro poderá ser, conforme o caso, o endereço do empresário individual ou o de um dos sócios da sociedade empresária.   (Incluído pela Lei nº 14.382, de 2022)
-§ 3º Quando o local onde se exerce a atividade empresarial for físico, a fixação do horário de funcionamento competirá ao Município, observada a regra geral prevista no inciso II do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019.   (Incluído pela Lei nº 14.382, de 2022)
+Art. 1.142. Considera-se estabelecimento todo complexo de bens organizado, para exercício da empresa, por empresário, ou por sociedade empresária. (Vide Lei nº 14.195, de 2021)
+§ 1º O estabelecimento não se confunde com o local onde se exerce a atividade empresarial, que poderá ser físico ou virtual. (Incluído pela Lei nº 14.382, de 2022)
+§ 2º Quando o local onde se exerce a atividade empresarial for virtual, o endereço informado para fins de registro poderá ser, conforme o caso, o endereço do empresário individual ou o de um dos sócios da sociedade empresária. (Incluído pela Lei nº 14.382, de 2022)
+§ 3º Quando o local onde se exerce a atividade empresarial for físico, a fixação do horário de funcionamento competirá ao Município, observada a regra geral prevista no inciso II do caput do art. 3º da Lei nº 13.874, de 20 de setembro de 2019. (Incluído pela Lei nº 14.382, de 2022)
 Art. 1.143. Pode o estabelecimento ser objeto unitário de direitos e de negócios jurídicos, translativos ou constitutivos, que sejam compatíveis com a sua natureza.
 Art. 1.144. O contrato que tenha por objeto a alienação, o usufruto ou arrendamento do estabelecimento, só produzirá efeitos quanto a terceiros depois de averbado à margem da inscrição do empresário, ou da sociedade empresária, no Registro Público de Empresas Mercantis, e de publicado na imprensa oficial.
 Art. 1.145. Se ao alienante não restarem bens suficientes para solver o seu passivo, a eficácia da alienação do estabelecimento depende do pagamento de todos os credores, ou do consentimento destes, de modo expresso ou tácito, em trinta dias a partir de sua notificação.
@@ -2401,9 +2401,9 @@ Art. 1.158. Pode a sociedade limitada adotar firma ou denominação, integradas 
 § 2 o A denominação deve designar o objeto da sociedade, sendo permitido nela figurar o nome de um ou mais sócios.
 § 3 o A omissão da palavra "limitada" determina a responsabilidade solidária e ilimitada dos administradores que assim empregarem a firma ou a denominação da sociedade.
 Art. 1.159. A sociedade cooperativa funciona sob denominação integrada pelo vocábulo "cooperativa".
-Art. 1.160. A sociedade anônima opera sob denominação integrada pelas expressões ‘sociedade anônima’ ou ‘companhia’, por extenso ou abreviadamente, facultada a designação do objeto social.   (Redação dada pela Lei nº 14.382, de 2022)
+Art. 1.160. A sociedade anônima opera sob denominação integrada pelas expressões ‘sociedade anônima’ ou ‘companhia’, por extenso ou abreviadamente, facultada a designação do objeto social. (Redação dada pela Lei nº 14.382, de 2022)
 Parágrafo único. Pode constar da denominação o nome do fundador, acionista, ou pessoa que haja concorrido para o bom êxito da formação da empresa.
-Art. 1.161. A sociedade em comandita por ações pode, em lugar de firma, adotar denominação aditada da expressão ‘comandita por ações’, facultada a designação do objeto social.   (Redação dada pela Lei nº 14.382, de 2022)
+Art. 1.161. A sociedade em comandita por ações pode, em lugar de firma, adotar denominação aditada da expressão ‘comandita por ações’, facultada a designação do objeto social. (Redação dada pela Lei nº 14.382, de 2022)
 Art. 1.162. A sociedade em conta de participação não pode ter firma ou denominação.
 Art. 1.163. O nome de empresário deve distinguir-se de qualquer outro já inscrito no mesmo registro.
 Parágrafo único. Se o empresário tiver nome idêntico ao de outros já inscritos, deverá acrescentar designação que o distinga.
@@ -2518,7 +2518,7 @@ Art. 1.217. O possuidor de boa-fé não responde pela perda ou deterioração da
 Art. 1.218. O possuidor de má-fé responde pela perda, ou deterioração da coisa, ainda que acidentais, salvo se provar que de igual modo se teriam dado, estando ela na posse do reivindicante.
 Art. 1.219. O possuidor de boa-fé tem direito à indenização das benfeitorias necessárias e úteis, bem como, quanto às voluptuárias, se não lhe forem pagas, a levantá-las, quando o puder sem detrimento da coisa, e poderá exercer o direito de retenção pelo valor das benfeitorias necessárias e úteis.
 Art. 1.220. Ao possuidor de má-fé serão ressarcidas somente as benfeitorias necessárias; não lhe assiste o direito de retenção pela importância destas, nem o de levantar as voluptuárias.
-Art. 1.221. As benfeitorias compensam-se com os danos, e só obrigam ao ressarcimento se ao tempo da evicção ainda existirem.   (Vide Decreto-lei nº 4.037, de 1942)
+Art. 1.221. As benfeitorias compensam-se com os danos, e só obrigam ao ressarcimento se ao tempo da evicção ainda existirem. (Vide Decreto-lei nº 4.037, de 1942)
 Art. 1.222. O reivindicante, obrigado a indenizar as benfeitorias ao possuidor de má-fé, tem o direito de optar entre o seu valor atual e o seu custo; ao possuidor de boa-fé indenizará pelo valor atual.
 CAPÍTULO IV
 DA PERDA DA POSSE
@@ -2540,9 +2540,9 @@ VIII - o penhor;
 IX - a hipoteca;
 X - a anticrese.
 XI - a concessão de uso especial para fins de moradia; (Incluído pela Lei nº 11.481, de 2007)
-XII - a concessão de direito real de uso;     (Redação dada pela Lei nº 14.620, de 2023)
-XIII - a laje;    (Redação dada pela Lei nº 14.620, de 2023)
-XIV - os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão.   (Incluído pela Lei nº 14.620, de 2023)
+XII - a concessão de direito real de uso; (Redação dada pela Lei nº 14.620, de 2023)
+XIII - a laje; (Redação dada pela Lei nº 14.620, de 2023)
+XIV - os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão. (Incluído pela Lei nº 14.620, de 2023)
 Art. 1.226. Os direitos reais sobre coisas móveis, quando constituídos, ou transmitidos por atos entre vivos, só se adquirem com a tradição.
 Art. 1.227. Os direitos reais sobre imóveis constituídos, ou transmitidos por atos entre vivos, só se adquirem com o registro no Cartório de Registro de Imóveis dos referidos títulos (arts. 1.245 a 1.247), salvo os casos expressos neste Código.
 TÍTULO III
@@ -2582,7 +2582,7 @@ Art. 1.239. Aquele que, não sendo proprietário de imóvel rural ou urbano, pos
 Art. 1.240. Aquele que possuir, como sua, área urbana de até duzentos e cinqüenta metros quadrados, por cinco anos ininterruptamente e sem oposição, utilizando-a para sua moradia ou de sua família, adquirir-lhe-á o domínio, desde que não seja proprietário de outro imóvel urbano ou rural.
 § 1 o O título de domínio e a concessão de uso serão conferidos ao homem ou à mulher, ou a ambos, independentemente do estado civil.
 § 2 o O direito previsto no parágrafo antecedente não será reconhecido ao mesmo possuidor mais de uma vez.
-Art. 1.240-A. Aquele que exercer, por 2 (dois) anos ininterruptamente e sem oposição, posse direta, com exclusividade, sobre imóvel urbano de até 250m² (duzentos e cinquenta metros quadrados) cuja propriedade divida com ex-cônjuge ou ex-companheiro que abandonou o lar, utilizando-o para sua moradia ou de sua família, adquirir-lhe-á o domínio integral, desde que não seja proprietário de outro imóvel urbano ou rural. (Incluído pela Lei nº 12.424, de 2011)
+Art. 1.240-A. Aquele que exercer, por 2 (dois) anos ininterruptamente e sem oposição, posse direta, com exclusividade, sobre imóvel urbano de até 250m² (duzentos e cinquenta metros quadrados) cuja propriedade divida com ex-cônjuge ou ex-companheiro que abandonou o lar, utilizando-o para sua moradia ou de sua família, adquirir-lhe-á o domínio integral, desde que não seja proprietário de outro imóvel urbano ou rural. (Incluído pela Lei nº 12.424, de 2011)
 § 1 o O direito previsto no caput não será reconhecido ao mesmo possuidor mais de uma vez.
 § 2 o (VETADO) . (Incluído pela Lei nº 12.424, de 2011)
 Art. 1.241. Poderá o possuidor requerer ao juiz seja declarada adquirida, mediante usucapião, a propriedade imóvel.
@@ -2833,7 +2833,7 @@ I - contribuir para as despesas do condomínio na proporção das suas frações
 II - não realizar obras que comprometam a segurança da edificação;
 III - não alterar a forma e a cor da fachada, das partes e esquadrias externas;
 IV - dar às suas partes a mesma destinação que tem a edificação, e não as utilizar de maneira prejudicial ao sossego, salubridade e segurança dos possuidores, ou aos bons costumes.
-§ 1º O condômino que não pagar a sua contribuição ficará sujeito à correção monetária e aos juros moratórios convencionados ou, não sendo previstos, aos juros estabelecidos no art. 406 deste Código, bem como à multa de até 2% (dois por cento) sobre o débito.    (Redação dada pela Lei nº 14.905, de 2024)   Produção de efeitos
+§ 1º O condômino que não pagar a sua contribuição ficará sujeito à correção monetária e aos juros moratórios convencionados ou, não sendo previstos, aos juros estabelecidos no art. 406 deste Código, bem como à multa de até 2% (dois por cento) sobre o débito. (Redação dada pela Lei nº 14.905, de 2024) Produção de efeitos
 § 2 o O condômino, que não cumprir qualquer dos deveres estabelecidos nos incisos II a IV, pagará a multa prevista no ato constitutivo ou na convenção, não podendo ela ser superior a cinco vezes o valor de suas contribuições mensais, independentemente das perdas e danos que se apurarem; não havendo disposição expressa, caberá à assembléia geral, por dois terços no mínimo dos condôminos restantes, deliberar sobre a cobrança da multa.
 Art. 1337. O condômino, ou possuidor, que não cumpre reiteradamente com os seus deveres perante o condomínio poderá, por deliberação de três quartos dos condôminos restantes, ser constrangido a pagar multa correspondente até ao quíntuplo do valor atribuído à contribuição para as despesas condominiais, conforme a gravidade das faltas e a reiteração, independentemente das perdas e danos que se apurem.
 Parágrafo único. O condômino ou possuidor que, por seu reiterado comportamento anti-social, gerar incompatibilidade de convivência com os demais condôminos ou possuidores, poderá ser constrangido a pagar multa correspondente ao décuplo do valor atribuído à contribuição para as despesas condominiais, até ulterior deliberação da assembléia.
@@ -2873,27 +2873,27 @@ Art. 1.349. A assembléia, especialmente convocada para o fim estabelecido no §
 Art. 1.350. Convocará o síndico, anualmente, reunião da assembléia dos condôminos, na forma prevista na convenção, a fim de aprovar o orçamento das despesas, as contribuições dos condôminos e a prestação de contas, e eventualmente eleger-lhe o substituto e alterar o regimento interno.
 § 1 o Se o síndico não convocar a assembléia, um quarto dos condôminos poderá fazê-lo.
 § 2 o Se a assembléia não se reunir, o juiz decidirá, a requerimento de qualquer condômino.
-Art. 1.351. Depende da aprovação de 2/3 (dois terços) dos votos dos condôminos a alteração da convenção, bem como a mudança da destinação do edifício ou da unidade imobiliária.   (Redação dada pela Lei nº 14.405, de 2022)
+Art. 1.351. Depende da aprovação de 2/3 (dois terços) dos votos dos condôminos a alteração da convenção, bem como a mudança da destinação do edifício ou da unidade imobiliária. (Redação dada pela Lei nº 14.405, de 2022)
 Art. 1.352. Salvo quando exigido quorum especial, as deliberações da assembléia serão tomadas, em primeira convocação, por maioria de votos dos condôminos presentes que representem pelo menos metade das frações ideais.
 Parágrafo único. Os votos serão proporcionais às frações ideais no solo e nas outras partes comuns pertencentes a cada condômino, salvo disposição diversa da convenção de constituição do condomínio.
 Art. 1.353. Em segunda convocação, a assembléia poderá deliberar por maioria dos votos dos presentes, salvo quando exigido quorum especial.
-§ 1º Quando a deliberação exigir quórum especial previsto em lei ou em convenção e ele não for atingido, a assembleia poderá, por decisão da maioria dos presentes, autorizar o presidente a converter a reunião em sessão permanente, desde que cumulativamente:      (Incluído pela Lei nº 14.309, de 2022)
-I - sejam indicadas a data e a hora da sessão em seguimento, que não poderá ultrapassar 60 (sessenta) dias, e identificadas as deliberações pretendidas, em razão do quórum especial não atingido;    (Incluído pela Lei nº 14.309, de 2022)
-II - fiquem expressamente convocados os presentes e sejam obrigatoriamente convocadas as unidades ausentes, na forma prevista em convenção;      (Incluído pela Lei nº 14.309, de 2022)
-III - seja lavrada ata parcial, relativa ao segmento presencial da reunião da assembleia, da qual deverão constar as transcrições circunstanciadas de todos os argumentos até então apresentados relativos à ordem do dia, que deverá ser remetida aos condôminos ausentes;      (Incluído pela Lei nº 14.309, de 2022)
-IV - seja dada continuidade às deliberações no dia e na hora designados, e seja a ata correspondente lavrada em seguimento à que estava parcialmente redigida, com a consolidação de todas as deliberações.   (Incluído pela Lei nº 14.309, de 2022)
-§ 2º Os votos consignados na primeira sessão ficarão registrados, sem que haja necessidade de comparecimento dos condôminos para sua confirmação, os quais poderão, se estiverem presentes no encontro seguinte, requerer a alteração do seu voto até o desfecho da deliberação pretendida.     (Incluído pela Lei nº 14.309, de 2022)
-§ 3º A sessão permanente poderá ser prorrogada tantas vezes quantas necessárias, desde que a assembleia seja concluída no prazo total de 90 (noventa) dias, contado da data de sua abertura inicial.    (Incluído pela Lei nº 14.309, de 2022)
+§ 1º Quando a deliberação exigir quórum especial previsto em lei ou em convenção e ele não for atingido, a assembleia poderá, por decisão da maioria dos presentes, autorizar o presidente a converter a reunião em sessão permanente, desde que cumulativamente: (Incluído pela Lei nº 14.309, de 2022)
+I - sejam indicadas a data e a hora da sessão em seguimento, que não poderá ultrapassar 60 (sessenta) dias, e identificadas as deliberações pretendidas, em razão do quórum especial não atingido; (Incluído pela Lei nº 14.309, de 2022)
+II - fiquem expressamente convocados os presentes e sejam obrigatoriamente convocadas as unidades ausentes, na forma prevista em convenção; (Incluído pela Lei nº 14.309, de 2022)
+III - seja lavrada ata parcial, relativa ao segmento presencial da reunião da assembleia, da qual deverão constar as transcrições circunstanciadas de todos os argumentos até então apresentados relativos à ordem do dia, que deverá ser remetida aos condôminos ausentes; (Incluído pela Lei nº 14.309, de 2022)
+IV - seja dada continuidade às deliberações no dia e na hora designados, e seja a ata correspondente lavrada em seguimento à que estava parcialmente redigida, com a consolidação de todas as deliberações. (Incluído pela Lei nº 14.309, de 2022)
+§ 2º Os votos consignados na primeira sessão ficarão registrados, sem que haja necessidade de comparecimento dos condôminos para sua confirmação, os quais poderão, se estiverem presentes no encontro seguinte, requerer a alteração do seu voto até o desfecho da deliberação pretendida. (Incluído pela Lei nº 14.309, de 2022)
+§ 3º A sessão permanente poderá ser prorrogada tantas vezes quantas necessárias, desde que a assembleia seja concluída no prazo total de 90 (noventa) dias, contado da data de sua abertura inicial. (Incluído pela Lei nº 14.309, de 2022)
 Art. 1.354. A assembléia não poderá deliberar se todos os condôminos não forem convocados para a reunião.
-Art. 1.354-A. A convocação, a realização e a deliberação de quaisquer modalidades de assembleia poderão dar-se de forma eletrônica, desde que:    (Incluído pela Lei nº 14.309, de 2022)
-I - tal possibilidade não seja vedada na convenção de condomínio;      (Incluído pela Lei nº 14.309, de 2022)
-II - sejam preservados aos condôminos os direitos de voz, de debate e de voto.      (Incluído pela Lei nº 14.309, de 2022)
-§ 1º Do instrumento de convocação deverá constar que a assembleia será realizada por meio eletrônico, bem como as instruções sobre acesso, manifestação e forma de coleta de votos dos condôminos.    (Incluído pela Lei nº 14.309, de 2022)
-§ 2º A administração do condomínio não poderá ser responsabilizada por problemas decorrentes dos equipamentos de informática ou da conexão à internet dos condôminos ou de seus representantes nem por quaisquer outras situações que não estejam sob o seu controle.      (Incluído pela Lei nº 14.309, de 2022)
-§ 3º Somente após a somatória de todos os votos e a sua divulgação será lavrada a respectiva ata, também eletrônica, e encerrada a assembleia geral.     (Incluído pela Lei nº 14.309, de 2022)
-§ 4º A assembleia eletrônica deverá obedecer aos preceitos de instalação, de funcionamento e de encerramento previstos no edital de convocação e poderá ser realizada de forma híbrida, com a presença física e virtual de condôminos concomitantemente no mesmo ato.   (Incluído pela Lei nº 14.309, de 2022)
-§ 5º Normas complementares relativas às assembleias eletrônicas poderão ser previstas no regimento interno do condomínio e definidas mediante aprovação da maioria simples dos presentes em assembleia convocada para essa finalidade.    (Incluído pela Lei nº 14.309, de 2022)
-§ 6º Os documentos pertinentes à ordem do dia poderão ser disponibilizados de forma física ou eletrônica aos participantes.   (Incluído pela Lei nº 14.309, de 2022)
+Art. 1.354-A. A convocação, a realização e a deliberação de quaisquer modalidades de assembleia poderão dar-se de forma eletrônica, desde que: (Incluído pela Lei nº 14.309, de 2022)
+I - tal possibilidade não seja vedada na convenção de condomínio; (Incluído pela Lei nº 14.309, de 2022)
+II - sejam preservados aos condôminos os direitos de voz, de debate e de voto. (Incluído pela Lei nº 14.309, de 2022)
+§ 1º Do instrumento de convocação deverá constar que a assembleia será realizada por meio eletrônico, bem como as instruções sobre acesso, manifestação e forma de coleta de votos dos condôminos. (Incluído pela Lei nº 14.309, de 2022)
+§ 2º A administração do condomínio não poderá ser responsabilizada por problemas decorrentes dos equipamentos de informática ou da conexão à internet dos condôminos ou de seus representantes nem por quaisquer outras situações que não estejam sob o seu controle. (Incluído pela Lei nº 14.309, de 2022)
+§ 3º Somente após a somatória de todos os votos e a sua divulgação será lavrada a respectiva ata, também eletrônica, e encerrada a assembleia geral. (Incluído pela Lei nº 14.309, de 2022)
+§ 4º A assembleia eletrônica deverá obedecer aos preceitos de instalação, de funcionamento e de encerramento previstos no edital de convocação e poderá ser realizada de forma híbrida, com a presença física e virtual de condôminos concomitantemente no mesmo ato. (Incluído pela Lei nº 14.309, de 2022)
+§ 5º Normas complementares relativas às assembleias eletrônicas poderão ser previstas no regimento interno do condomínio e definidas mediante aprovação da maioria simples dos presentes em assembleia convocada para essa finalidade. (Incluído pela Lei nº 14.309, de 2022)
+§ 6º Os documentos pertinentes à ordem do dia poderão ser disponibilizados de forma física ou eletrônica aos participantes. (Incluído pela Lei nº 14.309, de 2022)
 Art. 1.355. Assembléias extraordinárias poderão ser convocadas pelo síndico ou por um quarto dos condôminos.
 Art. 1.356. Poderá haver no condomínio um conselho fiscal, composto de três membros, eleitos pela assembléia, por prazo não superior a dois anos, ao qual compete dar parecer sobre as contas do síndico.
 Seção III
@@ -2905,54 +2905,54 @@ Art. 1.358. Se ocorrer desapropriação, a indenização será repartida na prop
 Seção IV
 Do Condomínio de Lotes
 (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.358-A.  Pode haver, em terrenos, partes designadas de lotes que são propriedade exclusiva e partes que são propriedade comum dos condôminos. (Incluído pela Lei nº 13.465, de 2017)
-§ 1º  A fração ideal de cada condômino poderá ser proporcional à área do solo de cada unidade autônoma, ao respectivo potencial construtivo ou a outros critérios indicados no ato de instituição. (Incluído pela Lei nº 13.465, de 2017)
-§ 2º Aplica-se, no que couber, ao condomínio de lotes:    (Redação dada pela Lei nº 14.382, de 2022)
-I - o disposto sobre condomínio edilício neste Capítulo, respeitada a legislação urbanística; e   (Incluído pela Lei nº 14.382, de 2022)
-II - o regime jurídico das incorporações imobiliárias de que trata o Capítulo I do Título II da Lei nº 4.591, de 16 de dezembro de 1964, equiparando-se o empreendedor ao incorporador quanto aos aspectos civis e registrários.   (Incluído pela Lei nº 14.382, de 2022)
-§ 3º  Para fins de incorporação imobiliária, a implantação de toda a infraestrutura ficará a cargo do empreendedor. (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.358-A. Pode haver, em terrenos, partes designadas de lotes que são propriedade exclusiva e partes que são propriedade comum dos condôminos. (Incluído pela Lei nº 13.465, de 2017)
+§ 1º A fração ideal de cada condômino poderá ser proporcional à área do solo de cada unidade autônoma, ao respectivo potencial construtivo ou a outros critérios indicados no ato de instituição. (Incluído pela Lei nº 13.465, de 2017)
+§ 2º Aplica-se, no que couber, ao condomínio de lotes: (Redação dada pela Lei nº 14.382, de 2022)
+I - o disposto sobre condomínio edilício neste Capítulo, respeitada a legislação urbanística; e (Incluído pela Lei nº 14.382, de 2022)
+II - o regime jurídico das incorporações imobiliárias de que trata o Capítulo I do Título II da Lei nº 4.591, de 16 de dezembro de 1964, equiparando-se o empreendedor ao incorporador quanto aos aspectos civis e registrários. (Incluído pela Lei nº 14.382, de 2022)
+§ 3º Para fins de incorporação imobiliária, a implantação de toda a infraestrutura ficará a cargo do empreendedor. (Incluído pela Lei nº 13.465, de 2017)
 CAPÍTULO VII-A
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 DO CONDOMÍNIO EM MULTIPROPRIEDADE
 Seção I
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Disposições Gerais
-Art. 1.358-B.  A multipropriedade reger-se-á pelo disposto neste Capítulo e, de forma supletiva e subsidiária, pelas demais disposições deste Código e pelas disposições das Leis nºs 4.591, de 16 de dezembro de 1964 , e 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) . (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-C.  Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Parágrafo único.  A multipropriedade não se extinguirá automaticamente se todas as frações de tempo forem do mesmo multiproprietário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-D.  O imóvel objeto da multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-B. A multipropriedade reger-se-á pelo disposto neste Capítulo e, de forma supletiva e subsidiária, pelas demais disposições deste Código e pelas disposições das Leis nºs 4.591, de 16 de dezembro de 1964 , e 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor) . (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-C. Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Parágrafo único. A multipropriedade não se extinguirá automaticamente se todas as frações de tempo forem do mesmo multiproprietário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-D. O imóvel objeto da multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - é indivisível, não se sujeitando a ação de divisão ou de extinção de condomínio; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - inclui as instalações, os equipamentos e o mobiliário destinados a seu uso e gozo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-E.  Cada fração de tempo é indivisível. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 1º  O período correspondente a cada fração de tempo será de, no mínimo, 7 (sete) dias, seguidos ou intercalados, e poderá ser: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-E. Cada fração de tempo é indivisível. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 1º O período correspondente a cada fração de tempo será de, no mínimo, 7 (sete) dias, seguidos ou intercalados, e poderá ser: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - fixo e determinado, no mesmo período de cada ano; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - flutuante, caso em que a determinação do período será realizada de forma periódica, mediante procedimento objetivo que respeite, em relação a todos os multiproprietários, o princípio da isonomia, devendo ser previamente divulgado; ou (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - misto, combinando os sistemas fixo e flutuante. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 2º  Todos os multiproprietários terão direito a uma mesma quantidade mínima de dias seguidos durante o ano, podendo haver a aquisição de frações maiores que a mínima, com o correspondente direito ao uso por períodos também maiores. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 2º Todos os multiproprietários terão direito a uma mesma quantidade mínima de dias seguidos durante o ano, podendo haver a aquisição de frações maiores que a mínima, com o correspondente direito ao uso por períodos também maiores. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Seção II
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Da Instituição da Multipropriedade
-Art. 1.358-F.  Institui-se a multipropriedade por ato entre vivos ou testamento, registrado no competente cartório de registro de imóveis, devendo constar daquele ato a duração dos períodos correspondentes a cada fração de tempo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-G.  Além das cláusulas que os multiproprietários decidirem estipular, a convenção de condomínio em multipropriedade determinará: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-F. Institui-se a multipropriedade por ato entre vivos ou testamento, registrado no competente cartório de registro de imóveis, devendo constar daquele ato a duração dos períodos correspondentes a cada fração de tempo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-G. Além das cláusulas que os multiproprietários decidirem estipular, a convenção de condomínio em multipropriedade determinará: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - os poderes e deveres dos multiproprietários, especialmente em matéria de instalações, equipamentos e mobiliário do imóvel, de manutenção ordinária e extraordinária, de conservação e limpeza e de pagamento da contribuição condominial; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - o número máximo de pessoas que podem ocupar simultaneamente o imóvel no período correspondente a cada fração de tempo; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - as regras de acesso do administrador condominial ao imóvel para cumprimento do dever de manutenção, conservação e limpeza; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 IV - a criação de fundo de reserva para reposição e manutenção dos equipamentos, instalações e mobiliário; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 V - o regime aplicável em caso de perda ou destruição parcial ou total do imóvel, inclusive para efeitos de participação no risco ou no valor do seguro, da indenização ou da parte restante; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 VI - as multas aplicáveis ao multiproprietário nas hipóteses de descumprimento de deveres. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-H.  O instrumento de instituição da multipropriedade ou a convenção de condomínio em multipropriedade poderá estabelecer o limite máximo de frações de tempo no mesmo imóvel que poderão ser detidas pela mesma pessoa natural ou jurídica. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-H. O instrumento de instituição da multipropriedade ou a convenção de condomínio em multipropriedade poderá estabelecer o limite máximo de frações de tempo no mesmo imóvel que poderão ser detidas pela mesma pessoa natural ou jurídica. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Parágrafo único. Em caso de instituição da multipropriedade para posterior venda das frações de tempo a terceiros, o atendimento a eventual limite de frações de tempo por titular estabelecido no instrumento de instituição será obrigatório somente após a venda das frações. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Seção III
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Dos Direitos e das Obrigações do Multiproprietário
-Art. 1.358-I.  São direitos do multiproprietário, além daqueles previstos no instrumento de instituição e na convenção de condomínio em multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-I. São direitos do multiproprietário, além daqueles previstos no instrumento de instituição e na convenção de condomínio em multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - usar e gozar, durante o período correspondente à sua fração de tempo, do imóvel e de suas instalações, equipamentos e mobiliário; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - ceder a fração de tempo em locação ou comodato; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - alienar a fração de tempo, por ato entre vivos ou por causa de morte, a título oneroso ou gratuito, ou onerá-la, devendo a alienação e a qualificação do sucessor, ou a oneração, ser informadas ao administrador; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 IV - participar e votar, pessoalmente ou por intermédio de representante ou procurador, desde que esteja quite com as obrigações condominiais, em: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 a) assembleia geral do condomínio em multipropriedade, e o voto do multiproprietário corresponderá à quota de sua fração de tempo no imóvel; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 b) assembleia geral do condomínio edilício, quando for o caso, e o voto do multiproprietário corresponderá à quota de sua fração de tempo em relação à quota de poder político atribuído à unidade autônoma na respectiva convenção de condomínio edilício. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-J.  São obrigações do multiproprietário, além daquelas previstas no instrumento de instituição e na convenção de condomínio em multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-J. São obrigações do multiproprietário, além daquelas previstas no instrumento de instituição e na convenção de condomínio em multipropriedade: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - pagar a contribuição condominial do condomínio em multipropriedade e, quando for o caso, do condomínio edilício, ainda que renuncie ao uso e gozo, total ou parcial, do imóvel, das áreas comuns ou das respectivas instalações, equipamentos e mobiliário; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - responder por danos causados ao imóvel, às instalações, aos equipamentos e ao mobiliário por si, por qualquer de seus acompanhantes, convidados ou prepostos ou por pessoas por ele autorizadas; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - comunicar imediatamente ao administrador os defeitos, avarias e vícios no imóvel dos quais tiver ciência durante a utilização; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
@@ -2962,27 +2962,27 @@ VI - usar o imóvel, bem como suas instalações, equipamentos e mobiliário, co
 VII - usar o imóvel exclusivamente durante o período correspondente à sua fração de tempo; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 VIII - desocupar o imóvel, impreterivelmente, até o dia e hora fixados no instrumento de instituição ou na convenção de condomínio em multipropriedade, sob pena de multa diária, conforme convencionado no instrumento pertinente; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 IX - permitir a realização de obras ou reparos urgentes. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 1º  Conforme previsão que deverá constar da respectiva convenção de condomínio em multipropriedade, o multiproprietário estará sujeito a: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 1º Conforme previsão que deverá constar da respectiva convenção de condomínio em multipropriedade, o multiproprietário estará sujeito a: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - multa, no caso de descumprimento de qualquer de seus deveres; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - multa progressiva e perda temporária do direito de utilização do imóvel no período correspondente à sua fração de tempo, no caso de descumprimento reiterado de deveres. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 2º  A responsabilidade pelas despesas referentes a reparos no imóvel, bem como suas instalações, equipamentos e mobiliário, será: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 2º A responsabilidade pelas despesas referentes a reparos no imóvel, bem como suas instalações, equipamentos e mobiliário, será: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - de todos os multiproprietários, quando decorrentes do uso normal e do desgaste natural do imóvel; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - exclusivamente do multiproprietário responsável pelo uso anormal, sem prejuízo de multa, quando decorrentes de uso anormal do imóvel. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 3º  (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 4º  (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 5º  (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-K.  Para os efeitos do disposto nesta Seção, são equiparados aos multiproprietários os promitentes compradores e os cessionários de direitos relativos a cada fração de tempo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 3º (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 4º (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 5º (VETADO). (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-K. Para os efeitos do disposto nesta Seção, são equiparados aos multiproprietários os promitentes compradores e os cessionários de direitos relativos a cada fração de tempo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Seção IV
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Da Transferência da Multipropriedade
-Art. 1.358-L.  A transferência do direito de multipropriedade e a sua produção de efeitos perante terceiros dar-se-ão na forma da lei civil e não dependerão da anuência ou cientificação dos demais multiproprietários. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 1º  Não haverá direito de preferência na alienação de fração de tempo, salvo se estabelecido no instrumento de instituição ou na convenção do condomínio em multipropriedade em favor dos demais multiproprietários ou do instituidor do condomínio em multipropriedade. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 2º  O adquirente será solidariamente responsável com o alienante pelas obrigações de que trata o § 5º do art. 1.358-J deste Código caso não obtenha a declaração de inexistência de débitos referente à fração de tempo no momento de sua aquisição. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-L. A transferência do direito de multipropriedade e a sua produção de efeitos perante terceiros dar-se-ão na forma da lei civil e não dependerão da anuência ou cientificação dos demais multiproprietários. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 1º Não haverá direito de preferência na alienação de fração de tempo, salvo se estabelecido no instrumento de instituição ou na convenção do condomínio em multipropriedade em favor dos demais multiproprietários ou do instituidor do condomínio em multipropriedade. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 2º O adquirente será solidariamente responsável com o alienante pelas obrigações de que trata o § 5º do art. 1.358-J deste Código caso não obtenha a declaração de inexistência de débitos referente à fração de tempo no momento de sua aquisição. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Seção V
 (Incluído pela Lei nº 13.777, de 2018)
 Da Administração da Multipropriedade
-Art. 1.358-M.  A administração do imóvel e de suas instalações, equipamentos e mobiliário será de responsabilidade da pessoa indicada no instrumento de instituição ou na convenção de condomínio em multipropriedade, ou, na falta de indicação, de pessoa escolhida em assembleia geral dos condôminos. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 1º  O administrador exercerá, além daquelas previstas no instrumento de instituição e na convenção de condomínio em multipropriedade, as seguintes atribuições: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-M. A administração do imóvel e de suas instalações, equipamentos e mobiliário será de responsabilidade da pessoa indicada no instrumento de instituição ou na convenção de condomínio em multipropriedade, ou, na falta de indicação, de pessoa escolhida em assembleia geral dos condôminos. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 1º O administrador exercerá, além daquelas previstas no instrumento de instituição e na convenção de condomínio em multipropriedade, as seguintes atribuições: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - coordenação da utilização do imóvel pelos multiproprietários durante o período correspondente a suas respectivas frações de tempo; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - determinação, no caso dos sistemas flutuante ou misto, dos períodos concretos de uso e gozo exclusivos de cada multiproprietário em cada ano; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - manutenção, conservação e limpeza do imóvel; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
@@ -2993,8 +2993,8 @@ c) submeter os orçamentos à aprovação pela maioria simples dos condôminos e
 V - elaboração do orçamento anual, com previsão das receitas e despesas; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 VI - cobrança das quotas de custeio de responsabilidade dos multiproprietários; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 VII - pagamento, por conta do condomínio edilício ou voluntário, com os fundos comuns arrecadados, de todas as despesas comuns. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 2º  A convenção de condomínio em multipropriedade poderá regrar de forma diversa a atribuição prevista no inciso IV do § 1º deste artigo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-N.  O instrumento de instituição poderá prever fração de tempo destinada à realização, no imóvel e em suas instalações, em seus equipamentos e em seu mobiliário, de reparos indispensáveis ao exercício normal do direito de multipropriedade. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 2º A convenção de condomínio em multipropriedade poderá regrar de forma diversa a atribuição prevista no inciso IV do § 1º deste artigo. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-N. O instrumento de instituição poderá prever fração de tempo destinada à realização, no imóvel e em suas instalações, em seus equipamentos e em seu mobiliário, de reparos indispensáveis ao exercício normal do direito de multipropriedade. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 § 1º A fração de tempo de que trata o caput deste artigo poderá ser atribuída: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - ao instituidor da multipropriedade; ou (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - aos multiproprietários, proporcionalmente às respectivas frações. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
@@ -3002,11 +3002,11 @@ II - aos multiproprietários, proporcionalmente às respectivas frações. (Incl
 Seção VI
 (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Disposições Específicas Relativas às Unidades Autônomas de Condomínios Edilícios
-Art. 1.358-O.  O condomínio edilício poderá adotar o regime de multipropriedade em parte ou na totalidade de suas unidades autônomas, mediante: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-O. O condomínio edilício poderá adotar o regime de multipropriedade em parte ou na totalidade de suas unidades autônomas, mediante: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - previsão no instrumento de instituição; ou (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - deliberação da maioria absoluta dos condôminos. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Parágrafo único. No caso previsto no inciso I do caput deste artigo, a iniciativa e a responsabilidade para a instituição do regime da multipropriedade serão atribuídas às mesmas pessoas e observarão os mesmos requisitos indicados nas alíneas a , b e c e no § 1º do art. 31 da Lei nº 4.591, de 16 de dezembro de 1964 . (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-P.  Na hipótese do art. 1.358-O, a convenção de condomínio edilício deve prever, além das matérias elencadas nos arts. 1.332, 1.334 e, se for o caso, 1.358-G deste Código: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-P. Na hipótese do art. 1.358-O, a convenção de condomínio edilício deve prever, além das matérias elencadas nos arts. 1.332, 1.334 e, se for o caso, 1.358-G deste Código: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - a identificação das unidades sujeitas ao regime da multipropriedade, no caso de empreendimentos mistos; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - a indicação da duração das frações de tempo de cada unidade autônoma sujeita ao regime da multipropriedade; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - a forma de rateio, entre os multiproprietários de uma mesma unidade autônoma, das contribuições condominiais relativas à unidade, que, salvo se disciplinada de forma diversa no instrumento de instituição ou na convenção de condomínio em multipropriedade, será proporcional à fração de tempo de cada multiproprietário; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
@@ -3016,7 +3016,7 @@ VI - a indicação, se for o caso, de que o empreendimento conta com sistema de 
 VII - a competência para a imposição de sanções e o respectivo procedimento, especialmente nos casos de mora no cumprimento das obrigações de custeio e nos casos de descumprimento da obrigação de desocupar o imóvel até o dia e hora previstos; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 VIII - o quórum exigido para a deliberação de adjudicação da fração de tempo na hipótese de inadimplemento do respectivo multiproprietário; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 IX - o quórum exigido para a deliberação de alienação, pelo condomínio edilício, da fração de tempo adjudicada em virtude do inadimplemento do respectivo multiproprietário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-Q.  Na hipótese do art. 1.358-O deste Código, o regimento interno do condomínio edilício deve prever: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-Q. Na hipótese do art. 1.358-O deste Código, o regimento interno do condomínio edilício deve prever: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - os direitos dos multiproprietários sobre as partes comuns do condomínio edilício; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - os direitos e obrigações do administrador, inclusive quanto ao acesso ao imóvel para cumprimento do dever de manutenção, conservação e limpeza; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - as condições e regras para uso das áreas comuns; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
@@ -3029,20 +3029,20 @@ IX - os mecanismos de participação e representação dos titulares; (Incluído
 X - o funcionamento do sistema de reserva, os meios de confirmação e os requisitos a serem cumpridos pelo multiproprietário quando não exercer diretamente sua faculdade de uso; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 XI - a descrição dos serviços adicionais, se existentes, e as regras para seu uso e custeio. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Parágrafo único. O regimento interno poderá ser instituído por escritura pública ou por instrumento particular. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-R.  O condomínio edilício em que tenha sido instituído o regime de multipropriedade em parte ou na totalidade de suas unidades autônomas terá necessariamente um administrador profissional. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 1º  O prazo de duração do contrato de administração será livremente convencionado. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 2º  O administrador do condomínio referido no caput deste artigo será também o administrador de todos os condomínios em multipropriedade de suas unidades autônomas. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 3º  O administrador será mandatário legal de todos os multiproprietários, exclusivamente para a realização dos atos de gestão ordinária da multipropriedade, incluindo manutenção, conservação e limpeza do imóvel e de suas instalações, equipamentos e mobiliário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 4º  O administrador poderá modificar o regimento interno quanto aos aspectos estritamente operacionais da gestão da multipropriedade no condomínio edilício. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-§ 5º  O administrador pode ser ou não um prestador de serviços de hospedagem. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-S.  Na hipótese de inadimplemento, por parte do multiproprietário, da obrigação de custeio das despesas ordinárias ou extraordinárias, é cabível, na forma da lei processual civil, a adjudicação ao condomínio edilício da fração de tempo correspondente. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Parágrafo único.  Na hipótese de o imóvel objeto da multipropriedade ser parte integrante de empreendimento em que haja sistema de locação das frações de tempo no qual os titulares possam ou sejam obrigados a locar suas frações de tempo exclusivamente por meio de uma administração única, repartindo entre si as receitas das locações independentemente da efetiva ocupação de cada unidade autônoma, poderá a convenção do condomínio edilício regrar que em caso de inadimplência: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-R. O condomínio edilício em que tenha sido instituído o regime de multipropriedade em parte ou na totalidade de suas unidades autônomas terá necessariamente um administrador profissional. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 1º O prazo de duração do contrato de administração será livremente convencionado. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 2º O administrador do condomínio referido no caput deste artigo será também o administrador de todos os condomínios em multipropriedade de suas unidades autônomas. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 3º O administrador será mandatário legal de todos os multiproprietários, exclusivamente para a realização dos atos de gestão ordinária da multipropriedade, incluindo manutenção, conservação e limpeza do imóvel e de suas instalações, equipamentos e mobiliário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 4º O administrador poderá modificar o regimento interno quanto aos aspectos estritamente operacionais da gestão da multipropriedade no condomínio edilício. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+§ 5º O administrador pode ser ou não um prestador de serviços de hospedagem. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-S. Na hipótese de inadimplemento, por parte do multiproprietário, da obrigação de custeio das despesas ordinárias ou extraordinárias, é cabível, na forma da lei processual civil, a adjudicação ao condomínio edilício da fração de tempo correspondente. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Parágrafo único. Na hipótese de o imóvel objeto da multipropriedade ser parte integrante de empreendimento em que haja sistema de locação das frações de tempo no qual os titulares possam ou sejam obrigados a locar suas frações de tempo exclusivamente por meio de uma administração única, repartindo entre si as receitas das locações independentemente da efetiva ocupação de cada unidade autônoma, poderá a convenção do condomínio edilício regrar que em caso de inadimplência: (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 I - o inadimplente fique proibido de utilizar o imóvel até a integral quitação da dívida; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 II - a fração de tempo do inadimplente passe a integrar o pool da administradora; (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 III - a administradora do sistema de locação fique automaticamente munida de poderes e obrigada a, por conta e ordem do inadimplente, utilizar a integralidade dos valores líquidos a que o inadimplente tiver direito para amortizar suas dívidas condominiais, seja do condomínio edilício, seja do condomínio em multipropriedade, até sua integral quitação, devendo eventual saldo ser imediatamente repassado ao multiproprietário. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-T.  O multiproprietário somente poderá renunciar de forma translativa a seu direito de multipropriedade em favor do condomínio edilício. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-T. O multiproprietário somente poderá renunciar de forma translativa a seu direito de multipropriedade em favor do condomínio edilício. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 Parágrafo único. A renúncia de que trata o caput deste artigo só é admitida se o multiproprietário estiver em dia com as contribuições condominiais, com os tributos imobiliários e, se houver, com o foro ou a taxa de ocupação. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
-Art. 1.358-U.  As convenções dos condomínios edilícios, os memoriais de loteamentos e os instrumentos de venda dos lotes em loteamentos urbanos poderão limitar ou impedir a instituição da multipropriedade nos respectivos imóveis, vedação que somente poderá ser alterada no mínimo pela maioria absoluta dos condôminos. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
+Art. 1.358-U. As convenções dos condomínios edilícios, os memoriais de loteamentos e os instrumentos de venda dos lotes em loteamentos urbanos poderão limitar ou impedir a instituição da multipropriedade nos respectivos imóveis, vedação que somente poderá ser alterada no mínimo pela maioria absoluta dos condôminos. (Incluído pela Lei nº 13.777, de 2018) (Vigência)
 CAPÍTULO VIII
 DA PROPRIEDADE RESOLÚVEL
 Art. 1.359. Resolvida a propriedade pelo implemento da condição ou pelo advento do termo, entendem-se também resolvidos os direitos reais concedidos na sua pendência, e o proprietário, em cujo favor se opera a resolução, pode reivindicar a coisa do poder de quem a possua ou detenha.
@@ -3065,30 +3065,30 @@ Art. 1.364. Vencida a dívida, e não paga, fica o credor obrigado a vender, jud
 Art. 1.365. É nula a cláusula que autoriza o proprietário fiduciário a ficar com a coisa alienada em garantia, se a dívida não for paga no vencimento.
 Parágrafo único. O devedor pode, com a anuência do credor, dar seu direito eventual à coisa em pagamento da dívida, após o vencimento desta.
 Art. 1.366. Quando, vendida a coisa, o produto não bastar para o pagamento da dívida e das despesas de cobrança, continuará o devedor obrigado pelo restante.
-Art. 1.367.  A propriedade fiduciária em garantia de bens móveis ou imóveis sujeita-se às disposições do Capítulo I do Título X do Livro III da Parte Especial deste Código e, no que for específico, à legislação especial pertinente, não se equiparando, para quaisquer efeitos, à propriedade plena de que trata o art. 1.231. (Redação dada pela Lei nº 13.043, de 2014)
+Art. 1.367. A propriedade fiduciária em garantia de bens móveis ou imóveis sujeita-se às disposições do Capítulo I do Título X do Livro III da Parte Especial deste Código e, no que for específico, à legislação especial pertinente, não se equiparando, para quaisquer efeitos, à propriedade plena de que trata o art. 1.231. (Redação dada pela Lei nº 13.043, de 2014)
 Art. 1.368. O terceiro, interessado ou não, que pagar a dívida, se sub-rogará de pleno direito no crédito e na propriedade fiduciária.
 Art. 1.368-A. As demais espécies de propriedade fiduciária ou de titularidade fiduciária submetem-se à disciplina específica das respectivas leis especiais, somente se aplicando as disposições deste Código naquilo que não for incompatível com a legislação especial. (Incluído pela Lei nº 10.931, de 2004)
-Art. 1.368-B.  A alienação fiduciária em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor. (Incluído pela Lei nº 13.043, de 2014)
-Parágrafo único.  O credor fiduciário que se tornar proprietário pleno do bem, por efeito de realização da garantia, mediante consolidação da propriedade, adjudicação, dação ou outra forma pela qual lhe tenha sido transmitida a propriedade plena, passa a responder pelo pagamento dos tributos sobre a propriedade e a posse, taxas, despesas condominiais e quaisquer outros encargos, tributários ou não, incidentes sobre o bem objeto da garantia, a partir da data em que vier a ser imitido na posse direta do bem. (Incluído pela Lei nº 13.043, de 2014)
+Art. 1.368-B. A alienação fiduciária em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor. (Incluído pela Lei nº 13.043, de 2014)
+Parágrafo único. O credor fiduciário que se tornar proprietário pleno do bem, por efeito de realização da garantia, mediante consolidação da propriedade, adjudicação, dação ou outra forma pela qual lhe tenha sido transmitida a propriedade plena, passa a responder pelo pagamento dos tributos sobre a propriedade e a posse, taxas, despesas condominiais e quaisquer outros encargos, tributários ou não, incidentes sobre o bem objeto da garantia, a partir da data em que vier a ser imitido na posse direta do bem. (Incluído pela Lei nº 13.043, de 2014)
 CAPÍTULO X
 DO FUNDO DE INVESTIMENTO
 (Incluído pela Lei nº 13.874, de 2019)
-Art. 1.368-C.  O fundo de investimento é uma comunhão de recursos, constituído sob a forma de condomínio de natureza especial, destinado à aplicação em ativos financeiros, bens e direitos de qualquer natureza. (Incluído pela Lei nº 13.874, de 2019)
-§ 1º  Não se aplicam ao fundo de investimento as disposições constantes dos arts. 1.314 ao 1.358-A deste Código. (Incluído pela Lei nº 13.874, de 2019)
-§ 2º  Competirá à Comissão de Valores Mobiliários disciplinar o disposto no caput deste artigo. (Incluído pela Lei nº 13.874, de 2019)
-§ 3º  O registro dos regulamentos dos fundos de investimentos na Comissão de Valores Mobiliários é condição suficiente para garantir a sua publicidade e a oponibilidade de efeitos em relação a terceiros. (Incluído pela Lei nº 13.874, de 2019)
-Art. 1.368-D.  O regulamento do fundo de investimento poderá, observado o disposto na regulamentação a que se refere o § 2º do art. 1.368-C desta Lei, estabelecer: (Incluído pela Lei nº 13.874, de 2019)
+Art. 1.368-C. O fundo de investimento é uma comunhão de recursos, constituído sob a forma de condomínio de natureza especial, destinado à aplicação em ativos financeiros, bens e direitos de qualquer natureza. (Incluído pela Lei nº 13.874, de 2019)
+§ 1º Não se aplicam ao fundo de investimento as disposições constantes dos arts. 1.314 ao 1.358-A deste Código. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º Competirá à Comissão de Valores Mobiliários disciplinar o disposto no caput deste artigo. (Incluído pela Lei nº 13.874, de 2019)
+§ 3º O registro dos regulamentos dos fundos de investimentos na Comissão de Valores Mobiliários é condição suficiente para garantir a sua publicidade e a oponibilidade de efeitos em relação a terceiros. (Incluído pela Lei nº 13.874, de 2019)
+Art. 1.368-D. O regulamento do fundo de investimento poderá, observado o disposto na regulamentação a que se refere o § 2º do art. 1.368-C desta Lei, estabelecer: (Incluído pela Lei nº 13.874, de 2019)
 I - a limitação da responsabilidade de cada investidor ao valor de suas cotas; (Incluído pela Lei nº 13.874, de 2019)
 II - a limitação da responsabilidade, bem como parâmetros de sua aferição, dos prestadores de serviços do fundo de investimento, perante o condomínio e entre si, ao cumprimento dos deveres particulares de cada um, sem solidariedade; e (Incluído pela Lei nº 13.874, de 2019)
 III - classes de cotas com direitos e obrigações distintos, com possibilidade de constituir patrimônio segregado para cada classe. (Incluído pela Lei nº 13.874, de 2019)
-§ 1º  A adoção da responsabilidade limitada por fundo de investimento constituído sem a limitação de responsabilidade somente abrangerá fatos ocorridos após a respectiva mudança em seu regulamento. (Incluído pela Lei nº 13.874, de 2019)
-§ 2º  A avaliação de responsabilidade dos prestadores de serviço deverá levar sempre em consideração os riscos inerentes às aplicações nos mercados de atuação do fundo de investimento e a natureza de obrigação de meio de seus serviços. (Incluído pela Lei nº 13.874, de 2019)
-§ 3º  O patrimônio segregado referido no inciso III do caput deste artigo só responderá por obrigações vinculadas à classe respectiva, nos termos do regulamento. (Incluído pela Lei nº 13.874, de 2019)
-Art. 1.368-E.  Os fundos de investimento respondem diretamente pelas obrigações legais e contratuais por eles assumidas, e os prestadores de serviço não respondem por essas obrigações, mas respondem pelos prejuízos que causarem quando procederem com dolo ou má-fé. (Incluído pela Lei nº 13.874, de 2019)
-§ 1º  Se o fundo de investimento com limitação de responsabilidade não possuir patrimônio suficiente para responder por suas dívidas, aplicam-se as regras de insolvência previstas nos arts. 955 a 965 deste Código. (Incluído pela Lei nº 13.874, de 2019)
-§ 2º  A insolvência pode ser requerida judicialmente por credores, por deliberação própria dos cotistas do fundo de investimento, nos termos de seu regulamento, ou pela Comissão de Valores Mobiliários. (Incluído pela Lei nº 13.874, de 2019)
-§ 3º Caso o regulamento do fundo estabeleça classes de cotas com direitos e obrigações distintos, nos termos do inciso III do caput do art. 1.368-D deste Código, aplica-se o disposto neste artigo a cada classe de cotas, individualmente considerada.    (Incluído pela Lei nº 14.754, de 2023)   Produção de efeito
-Art. 1.368-F.  O fundo de investimento constituído por lei específica e regulamentado pela Comissão de Valores Mobiliários deverá, no que couber, seguir as disposições deste Capítulo. (Incluído pela Lei nº 13.874, de 2019)
+§ 1º A adoção da responsabilidade limitada por fundo de investimento constituído sem a limitação de responsabilidade somente abrangerá fatos ocorridos após a respectiva mudança em seu regulamento. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º A avaliação de responsabilidade dos prestadores de serviço deverá levar sempre em consideração os riscos inerentes às aplicações nos mercados de atuação do fundo de investimento e a natureza de obrigação de meio de seus serviços. (Incluído pela Lei nº 13.874, de 2019)
+§ 3º O patrimônio segregado referido no inciso III do caput deste artigo só responderá por obrigações vinculadas à classe respectiva, nos termos do regulamento. (Incluído pela Lei nº 13.874, de 2019)
+Art. 1.368-E. Os fundos de investimento respondem diretamente pelas obrigações legais e contratuais por eles assumidas, e os prestadores de serviço não respondem por essas obrigações, mas respondem pelos prejuízos que causarem quando procederem com dolo ou má-fé. (Incluído pela Lei nº 13.874, de 2019)
+§ 1º Se o fundo de investimento com limitação de responsabilidade não possuir patrimônio suficiente para responder por suas dívidas, aplicam-se as regras de insolvência previstas nos arts. 955 a 965 deste Código. (Incluído pela Lei nº 13.874, de 2019)
+§ 2º A insolvência pode ser requerida judicialmente por credores, por deliberação própria dos cotistas do fundo de investimento, nos termos de seu regulamento, ou pela Comissão de Valores Mobiliários. (Incluído pela Lei nº 13.874, de 2019)
+§ 3º Caso o regulamento do fundo estabeleça classes de cotas com direitos e obrigações distintos, nos termos do inciso III do caput do art. 1.368-D deste Código, aplica-se o disposto neste artigo a cada classe de cotas, individualmente considerada. (Incluído pela Lei nº 14.754, de 2023) Produção de efeito
+Art. 1.368-F. O fundo de investimento constituído por lei específica e regulamentado pela Comissão de Valores Mobiliários deverá, no que couber, seguir as disposições deste Capítulo. (Incluído pela Lei nº 13.874, de 2019)
 TÍTULO IV
 DA SUPERFÍCIE
 Art. 1.369. O proprietário pode conceder a outrem o direito de construir ou de plantar em seu terreno, por tempo determinado, mediante escritura pública devidamente registrada no Cartório de Registro de Imóveis.
@@ -3275,7 +3275,7 @@ Subseção I
 Disposições Gerais
 Art. 1.438. Constitui-se o penhor rural mediante instrumento público ou particular, registrado no Cartório de Registro de Imóveis da circunscrição em que estiverem situadas as coisas empenhadas.
 Parágrafo único. Prometendo pagar em dinheiro a dívida, que garante com penhor rural, o devedor poderá emitir, em favor do credor, cédula rural pignoratícia, na forma determinada em lei especial.
-Art. 1.439.  O penhor agrícola e o penhor pecuário não podem ser convencionados por prazos superiores aos das obrigações garantidas. (Redação dada pela Lei nº 12.873, de 2013)
+Art. 1.439. O penhor agrícola e o penhor pecuário não podem ser convencionados por prazos superiores aos das obrigações garantidas. (Redação dada pela Lei nº 12.873, de 2013)
 § 1 o Embora vencidos os prazos, permanece a garantia, enquanto subsistirem os bens que a constituem.
 § 2 o A prorrogação deve ser averbada à margem do registro respectivo, mediante requerimento do credor e do devedor.
 Art. 1.440. Se o prédio estiver hipotecado, o penhor rural poderá constituir-se independentemente da anuência do credor hipotecário, mas não lhe prejudica o direito de preferência, nem restringe a extensão da hipoteca, ao ser executada.
@@ -3357,18 +3357,18 @@ VI - os navios;
 VII - as aeronaves.
 VIII - o direito de uso especial para fins de moradia; (Incluído pela Lei nº 11.481, de 2007)
 IX - o direito real de uso; (Incluído pela Lei nº 11.481, de 2007)
-X - a propriedade superficiária;     (Redação dada pela Lei nº 14.620, de 2023)
-XI - os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão.     (Incluído pela Lei nº 14.620, de 2023)
+X - a propriedade superficiária; (Redação dada pela Lei nº 14.620, de 2023)
+XI - os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão. (Incluído pela Lei nº 14.620, de 2023)
 § 1º A hipoteca dos navios e das aeronaves reger-se-á pelo disposto em lei especial. (Renumerado do parágrafo único pela Lei nº 11.481, de 2007)
-§ 2º  Os direitos de garantia instituídos nas hipóteses dos incisos IX e X do caput deste artigo ficam limitados à duração da concessão ou direito de superfície, caso tenham sido transferidos por período determinado. (Incluído pela Lei nº 11.481, de 2007)
+§ 2º Os direitos de garantia instituídos nas hipóteses dos incisos IX e X do caput deste artigo ficam limitados à duração da concessão ou direito de superfície, caso tenham sido transferidos por período determinado. (Incluído pela Lei nº 11.481, de 2007)
 Art. 1.474. A hipoteca abrange todas as acessões, melhoramentos ou construções do imóvel. Subsistem os ônus reais constituídos e registrados, anteriormente à hipoteca, sobre o mesmo imóvel.
 Art. 1.475. É nula a cláusula que proíbe ao proprietário alienar imóvel hipotecado.
 Parágrafo único. Pode convencionar-se que vencerá o crédito hipotecário, se o imóvel for alienado.
 Art. 1.476. O dono do imóvel hipotecado pode constituir outra hipoteca sobre ele, mediante novo título, em favor do mesmo ou de outro credor.
 Art. 1.477. Salvo o caso de insolvência do devedor, o credor da segunda hipoteca, embora vencida, não poderá executar o imóvel antes de vencida a primeira.
-§ 1º Não se considera insolvente o devedor por faltar ao pagamento das obrigações garantidas por hipotecas posteriores à primeira.    (Incluído pela Lei nº 14.711, de 2023)
-§ 2º O inadimplemento da obrigação garantida por hipoteca faculta ao credor declarar vencidas as demais obrigações de que for titular garantidas pelo mesmo imóvel.     (Incluído pela Lei nº 14.711, de 2023)
-Art. 1.478. O credor hipotecário que efetuar o pagamento, a qualquer tempo, das dívidas garantidas pelas hipotecas anteriores sub-rogar-se-á nos seus direitos, sem prejuízo dos que lhe competirem contra o devedor comum.    (Redação dada pela Lei nº 14.711, de 2023)
+§ 1º Não se considera insolvente o devedor por faltar ao pagamento das obrigações garantidas por hipotecas posteriores à primeira. (Incluído pela Lei nº 14.711, de 2023)
+§ 2º O inadimplemento da obrigação garantida por hipoteca faculta ao credor declarar vencidas as demais obrigações de que for titular garantidas pelo mesmo imóvel. (Incluído pela Lei nº 14.711, de 2023)
+Art. 1.478. O credor hipotecário que efetuar o pagamento, a qualquer tempo, das dívidas garantidas pelas hipotecas anteriores sub-rogar-se-á nos seus direitos, sem prejuízo dos que lhe competirem contra o devedor comum. (Redação dada pela Lei nº 14.711, de 2023)
 Parágrafo único. Se o primeiro credor estiver promovendo a execução da hipoteca, o credor da segunda depositará a importância do débito e as despesas judiciais.
 Art. 1.479. O adquirente do imóvel hipotecado, desde que não se tenha obrigado pessoalmente a pagar as dívidas aos credores hipotecários, poderá exonerar-se da hipoteca, abandonando-lhes o imóvel.
 Art. 1.480. O adquirente notificará o vendedor e os credores hipotecários, deferindo-lhes, conjuntamente, a posse do imóvel, ou o depositará em juízo.
@@ -3387,11 +3387,11 @@ Art. 1.487. A hipoteca pode ser constituída para garantia de dívida futura ou 
 § 1 o Nos casos deste artigo, a execução da hipoteca dependerá de prévia e expressa concordância do devedor quanto à verificação da condição, ou ao montante da dívida.
 § 2 o Havendo divergência entre o credor e o devedor, caberá àquele fazer prova de seu crédito. Reconhecido este, o devedor responderá, inclusive, por perdas e danos, em razão da superveniente desvalorização do imóvel.
 Art. 1.487-A. A hipoteca poderá, por requerimento do proprietário, ser posteriormente estendida para garantir novas obrigações em favor do mesmo credor, mantidos o registro e a publicidade originais, mas respeitada, em relação à extensão, a prioridade de direitos contraditórios ingressos na matrícula do imóvel. (Incluído pela Lei nº 14.711, de 2023)
-§ 1º A extensão da hipoteca não poderá exceder ao prazo e ao valor máximo garantido constantes da especialização da garantia original.     (Incluído pela Lei nº 14.711, de 2023)
-§ 2º A extensão da hipoteca será objeto de averbação subsequente na matrícula do imóvel, assegurada a preferência creditória em favor da:     (Incluído pela Lei nº 14.711, de 2023)
-I - obrigação inicial, em relação às obrigações alcançadas pela extensão da hipoteca;     (Incluído pela Lei nº 14.711, de 2023)
-II - obrigação mais antiga, considerando-se o tempo da averbação, no caso de mais de uma extensão de hipoteca.     (Incluído pela Lei nº 14.711, de 2023)
-§ 3º Na hipótese de superveniente multiplicidade de credores garantidos pela mesma hipoteca estendida, apenas o credor titular do crédito mais prioritário, conforme estabelecido no § 2º deste artigo, poderá promover a execução judicial ou extrajudicial da garantia, exceto se convencionado de modo diverso por todos os credores.   (Incluído pela Lei nº 14.711, de 2023)
+§ 1º A extensão da hipoteca não poderá exceder ao prazo e ao valor máximo garantido constantes da especialização da garantia original. (Incluído pela Lei nº 14.711, de 2023)
+§ 2º A extensão da hipoteca será objeto de averbação subsequente na matrícula do imóvel, assegurada a preferência creditória em favor da: (Incluído pela Lei nº 14.711, de 2023)
+I - obrigação inicial, em relação às obrigações alcançadas pela extensão da hipoteca; (Incluído pela Lei nº 14.711, de 2023)
+II - obrigação mais antiga, considerando-se o tempo da averbação, no caso de mais de uma extensão de hipoteca. (Incluído pela Lei nº 14.711, de 2023)
+§ 3º Na hipótese de superveniente multiplicidade de credores garantidos pela mesma hipoteca estendida, apenas o credor titular do crédito mais prioritário, conforme estabelecido no § 2º deste artigo, poderá promover a execução judicial ou extrajudicial da garantia, exceto se convencionado de modo diverso por todos os credores. (Incluído pela Lei nº 14.711, de 2023)
 Art. 1.488. Se o imóvel, dado em garantia hipotecária, vier a ser loteado, ou se nele se constituir condomínio edilício, poderá o ônus ser dividido, gravando cada lote ou unidade autônoma, se o requererem ao juiz o credor, o devedor ou os donos, obedecida a proporção entre o valor de cada um deles e o crédito.
 § 1 o O credor só poderá se opor ao pedido de desmembramento do ônus, provando que o mesmo importa em diminuição de sua garantia.
 § 2 o Salvo convenção em contrário, todas as despesas judiciais ou extrajudiciais necessárias ao desmembramento do ônus correm por conta de quem o requerer.
@@ -3452,27 +3452,27 @@ Art. 1.510. O adquirente dos bens dados em anticrese poderá remi-los, antes do 
 TÍTULO XI
 DA LAJE
 (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.510-A.  O proprietário de uma construção-base poderá ceder a superfície superior ou inferior de sua construção a fim de que o titular da laje mantenha unidade distinta daquela originalmente construída sobre o solo. (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.510-A. O proprietário de uma construção-base poderá ceder a superfície superior ou inferior de sua construção a fim de que o titular da laje mantenha unidade distinta daquela originalmente construída sobre o solo. (Incluído pela Lei nº 13.465, de 2017)
 § 1 o O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base. (Incluído pela Lei nº 13.465, de 2017)
 § 2 o O titular do direito real de laje responderá pelos encargos e tributos que incidirem sobre a sua unidade. (Incluído pela Lei nº 13.465, de 2017)
 § 3 o Os titulares da laje, unidade imobiliária autônoma constituída em matrícula própria, poderão dela usar, gozar e dispor. (Incluído pela Lei nº 13.465, de 2017)
 § 4 o A instituição do direito real de laje não implica a atribuição de fração ideal de terreno ao titular da laje ou a participação proporcional em áreas já edificadas. (Incluído pela Lei nº 13.465, de 2017)
 § 5 o Os Municípios e o Distrito Federal poderão dispor sobre posturas edilícias e urbanísticas associadas ao direito real de laje. (Incluído pela Lei nº 13.465, de 2017)
 § 6 o O titular da laje poderá ceder a superfície de sua construção para a instituição de um sucessivo direito real de laje, desde que haja autorização expressa dos titulares da construção-base e das demais lajes, respeitadas as posturas edilícias e urbanísticas vigentes. (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.510-B.  É expressamente vedado ao titular da laje prejudicar com obras novas ou com falta de reparação a segurança, a linha arquitetônica ou o arranjo estético do edifício, observadas as posturas previstas em legislação local. (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.510-C.  Sem prejuízo, no que couber, das normas aplicáveis aos condomínios edilícios, para fins do direito real de laje, as despesas necessárias à conservação e fruição das partes que sirvam a todo o edifício e ao pagamento de serviços de interesse comum serão partilhadas entre o proprietário da construção-base e o titular da laje, na proporção que venha a ser estipulada em contrato. (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.510-B. É expressamente vedado ao titular da laje prejudicar com obras novas ou com falta de reparação a segurança, a linha arquitetônica ou o arranjo estético do edifício, observadas as posturas previstas em legislação local. (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.510-C. Sem prejuízo, no que couber, das normas aplicáveis aos condomínios edilícios, para fins do direito real de laje, as despesas necessárias à conservação e fruição das partes que sirvam a todo o edifício e ao pagamento de serviços de interesse comum serão partilhadas entre o proprietário da construção-base e o titular da laje, na proporção que venha a ser estipulada em contrato. (Incluído pela Lei nº 13.465, de 2017)
 § 1 o São partes que servem a todo o edifício: (Incluído pela Lei nº 13.465, de 2017)
 I - os alicerces, colunas, pilares, paredes-mestras e todas as partes restantes que constituam a estrutura do prédio; (Incluído pela Lei nº 13.465, de 2017)
 II - o telhado ou os terraços de cobertura, ainda que destinados ao uso exclusivo do titular da laje; (Incluído pela Lei nº 13.465, de 2017)
 III - as instalações gerais de água, esgoto, eletricidade, aquecimento, ar condicionado, gás, comunicações e semelhantes que sirvam a todo o edifício; e (Incluído pela Lei nº 13.465, de 2017)
 IV - em geral, as coisas que sejam afetadas ao uso de todo o edifício. (Incluído pela Lei nº 13.465, de 2017)
 § 2 o É assegurado, em qualquer caso, o direito de qualquer interessado em promover reparações urgentes na construção na forma do parágrafo único do art. 249 deste Código. (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.510-D.  Em caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem, que serão cientificados por escrito para que se manifestem no prazo de trinta dias, salvo se o contrato dispuser de modo diverso. (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.510-D. Em caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem, que serão cientificados por escrito para que se manifestem no prazo de trinta dias, salvo se o contrato dispuser de modo diverso. (Incluído pela Lei nº 13.465, de 2017)
 § 1 o O titular da construção-base ou da laje a quem não se der conhecimento da alienação poderá, mediante depósito do respectivo preço, haver para si a parte alienada a terceiros, se o requerer no prazo decadencial de cento e oitenta dias, contado da data de alienação. (Incluído pela Lei nº 13.465, de 2017)
 § 2 o Se houver mais de uma laje, terá preferência, sucessivamente, o titular das lajes ascendentes e o titular das lajes descendentes, assegurada a prioridade para a laje mais próxima à unidade sobreposta a ser alienada. (Incluído pela Lei nº 13.465, de 2017)
-Art. 1.510-E.  A ruína da construção-base implica extinção do direito real de laje, salvo: (Incluído pela Lei nº 13.465, de 2017)
+Art. 1.510-E. A ruína da construção-base implica extinção do direito real de laje, salvo: (Incluído pela Lei nº 13.465, de 2017)
 I - se este tiver sido instituído sobre o subsolo; (Incluído pela Lei nº 13.465, de 2017)
-II - se a construção-base for reconstruída no prazo de 5 (cinco) anos.   (Redação dada pela Lei nº 14.382, de 2022)
+II - se a construção-base for reconstruída no prazo de 5 (cinco) anos. (Redação dada pela Lei nº 14.382, de 2022)
 Parágrafo único. O disposto neste artigo não afasta o direito a eventual reparação civil contra o culpado pela ruína. (Incluído pela Lei nº 13.465, de 2017)
 LIVRO IV
 DO DIREITO DE FAMÍLIA
@@ -3496,9 +3496,9 @@ CAPÍTULO II
 DA CAPACIDADE PARA O CASAMENTO
 Art. 1.517. O homem e a mulher com dezesseis anos podem casar, exigindo-se autorização de ambos os pais, ou de seus representantes legais, enquanto não atingida a maioridade civil.
 Parágrafo único. Se houver divergência entre os pais, aplica-se o disposto no parágrafo único do art. 1.631.
-Art. 1.518.  Até a celebração do casamento podem os pais ou tutores revogar a autorização. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
+Art. 1.518. Até a celebração do casamento podem os pais ou tutores revogar a autorização. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 Art. 1.519. A denegação do consentimento, quando injusta, pode ser suprida pelo juiz.
-Art. 1.520.  Não será permitido, em qualquer caso, o casamento de quem não atingiu a idade núbil, observado o disposto no art. 1.517 deste Código. (Redação dada pela Lei nº 13.811, de 2019)
+Art. 1.520. Não será permitido, em qualquer caso, o casamento de quem não atingiu a idade núbil, observado o disposto no art. 1.517 deste Código. (Redação dada pela Lei nº 13.811, de 2019)
 CAPÍTULO III
 DOS IMPEDIMENTOS
 Art. 1.521. Não podem casar:
@@ -3528,8 +3528,8 @@ II - autorização por escrito das pessoas sob cuja dependência legal estiverem
 III - declaração de duas testemunhas maiores, parentes ou não, que atestem conhecê-los e afirmem não existir impedimento que os iniba de casar;
 IV - declaração do estado civil, do domicílio e da residência atual dos contraentes e de seus pais, se forem conhecidos;
 V - certidão de óbito do cônjuge falecido, de sentença declaratória de nulidade ou de anulação de casamento, transitada em julgado, ou do registro da sentença de divórcio.
-Art. 1.526.  A habilitação será feita pessoalmente perante o oficial do Registro Civil, com a audiência do Ministério Público. (Redação dada pela Lei nº 12.133, de 2009) Vigência
-Parágrafo único.  Caso haja impugnação do oficial, do Ministério Público ou de terceiro, a habilitação será submetida ao juiz. (Incluído pela Lei nº 12.133, de 2009) Vigência
+Art. 1.526. A habilitação será feita pessoalmente perante o oficial do Registro Civil, com a audiência do Ministério Público. (Redação dada pela Lei nº 12.133, de 2009) Vigência
+Parágrafo único. Caso haja impugnação do oficial, do Ministério Público ou de terceiro, a habilitação será submetida ao juiz. (Incluído pela Lei nº 12.133, de 2009) Vigência
 Art. 1.527. Estando em ordem a documentação, o oficial extrairá o edital, que se afixará durante quinze dias nas circunscrições do Registro Civil de ambos os nubentes, e, obrigatoriamente, se publicará na imprensa local, se houver.
 Parágrafo único. A autoridade competente, havendo urgência, poderá dispensar a publicação.
 Art. 1.528. É dever do oficial do registro esclarecer os nubentes a respeito dos fatos que podem ocasionar a invalidade do casamento, bem como sobre os diversos regimes de bens.
@@ -3694,30 +3694,30 @@ Art. 1.582. O pedido de divórcio somente competirá aos cônjuges.
 Parágrafo único. Se o cônjuge for incapaz para propor a ação ou defender-se, poderá fazê-lo o curador, o ascendente ou o irmão.
 CAPÍTULO XI
 DA PROTEÇÃO DA PESSOA DOS FILHOS
-Art. 1.583.  A guarda será unilateral ou compartilhada. (Redação dada pela Lei nº 11.698, de 2008).
+Art. 1.583. A guarda será unilateral ou compartilhada. (Redação dada pela Lei nº 11.698, de 2008).
 § 1 o Compreende-se por guarda unilateral a atribuída a um só dos genitores ou a alguém que o substitua (art. 1.584, § 5 o ) e, por guarda compartilhada a responsabilização conjunta e o exercício de direitos e deveres do pai e da mãe que não vivam sob o mesmo teto, concernentes ao poder familiar dos filhos comuns. (Incluído pela Lei nº 11.698, de 2008).
 § 2 o Na guarda compartilhada, o tempo de convívio com os filhos deve ser dividido de forma equilibrada com a mãe e com o pai, sempre tendo em vista as condições fáticas e os interesses dos filhos. (Redação dada pela Lei nº 13.058, de 2014)
 I - (revogado); (Redação dada pela Lei nº 13.058, de 2014)
 II - (revogado); (Redação dada pela Lei nº 13.058, de 2014)
 III - (revogado). (Redação dada pela Lei nº 13.058, de 2014)
-§ 3º  Na guarda compartilhada, a cidade considerada base de moradia dos filhos será aquela que melhor atender aos interesses dos filhos. (Redação dada pela Lei nº 13.058, de 2014)
+§ 3º Na guarda compartilhada, a cidade considerada base de moradia dos filhos será aquela que melhor atender aos interesses dos filhos. (Redação dada pela Lei nº 13.058, de 2014)
 § 4º (VETADO) . (Incluído pela Lei nº 11.698, de 2008).
-§ 5º  A guarda unilateral obriga o pai ou a mãe que não a detenha a supervisionar os interesses dos filhos, e, para possibilitar tal supervisão, qualquer dos genitores sempre será parte legítima para solicitar informações e/ou prestação de contas, objetivas ou subjetivas, em assuntos ou situações que direta ou indiretamente afetem a saúde física e psicológica e a educação de seus filhos. (Incluído pela Lei nº 13.058, de 2014)
-Art. 1.584.  A guarda, unilateral ou compartilhada, poderá ser: (Redação dada pela Lei nº 11.698, de 2008).
+§ 5º A guarda unilateral obriga o pai ou a mãe que não a detenha a supervisionar os interesses dos filhos, e, para possibilitar tal supervisão, qualquer dos genitores sempre será parte legítima para solicitar informações e/ou prestação de contas, objetivas ou subjetivas, em assuntos ou situações que direta ou indiretamente afetem a saúde física e psicológica e a educação de seus filhos. (Incluído pela Lei nº 13.058, de 2014)
+Art. 1.584. A guarda, unilateral ou compartilhada, poderá ser: (Redação dada pela Lei nº 11.698, de 2008).
 I – requerida, por consenso, pelo pai e pela mãe, ou por qualquer deles, em ação autônoma de separação, de divórcio, de dissolução de união estável ou em medida cautelar; (Incluído pela Lei nº 11.698, de 2008).
 II – decretada pelo juiz, em atenção a necessidades específicas do filho, ou em razão da distribuição de tempo necessário ao convívio deste com o pai e com a mãe. (Incluído pela Lei nº 11.698, de 2008).
-§ 1º  Na audiência de conciliação, o juiz informará ao pai e à mãe o significado da guarda compartilhada, a sua importância, a similitude de deveres e direitos atribuídos aos genitores e as sanções pelo descumprimento de suas cláusulas. (Incluído pela Lei nº 11.698, de 2008).
-§ 2º Quando não houver acordo entre a mãe e o pai quanto à guarda do filho, encontrando-se ambos os genitores aptos a exercer o poder familiar, será aplicada a guarda compartilhada, salvo se um dos genitores declarar ao magistrado que não deseja a guarda da criança ou do adolescente ou quando houver elementos que evidenciem a probabilidade de risco de violência doméstica ou familiar.   (Redação dada pela Lei nº 14.713, de 2023)
+§ 1º Na audiência de conciliação, o juiz informará ao pai e à mãe o significado da guarda compartilhada, a sua importância, a similitude de deveres e direitos atribuídos aos genitores e as sanções pelo descumprimento de suas cláusulas. (Incluído pela Lei nº 11.698, de 2008).
+§ 2º Quando não houver acordo entre a mãe e o pai quanto à guarda do filho, encontrando-se ambos os genitores aptos a exercer o poder familiar, será aplicada a guarda compartilhada, salvo se um dos genitores declarar ao magistrado que não deseja a guarda da criança ou do adolescente ou quando houver elementos que evidenciem a probabilidade de risco de violência doméstica ou familiar. (Redação dada pela Lei nº 14.713, de 2023)
 § 3º Para estabelecer as atribuições do pai e da mãe e os períodos de convivência sob guarda compartilhada, o juiz, de ofício ou a requerimento do Ministério Público, poderá basear-se em orientação técnico-profissional ou de equipe interdisciplinar, que deverá visar à divisão equilibrada do tempo com o pai e com a mãe. (Redação dada pela Lei nº 13.058, de 2014)
 § 4º A alteração não autorizada ou o descumprimento imotivado de cláusula de guarda unilateral ou compartilhada poderá implicar a redução de prerrogativas atribuídas ao seu detentor. (Redação dada pela Lei nº 13.058, de 2014)
 § 5º Se o juiz verificar que o filho não deve permanecer sob a guarda do pai ou da mãe, deferirá a guarda a pessoa que revele compatibilidade com a natureza da medida, considerados, de preferência, o grau de parentesco e as relações de afinidade e afetividade. (Redação dada pela Lei nº 13.058, de 2014)
 § 6º Qualquer estabelecimento público ou privado é obrigado a prestar informações a qualquer dos genitores sobre os filhos destes, sob pena de multa de R$ 200,00 (duzentos reais) a R$ 500,00 (quinhentos reais) por dia pelo não atendimento da solicitação. (Incluído pela Lei nº 13.058, de 2014)
-Art. 1.585.  Em sede de medida cautelar de separação de corpos, em sede de medida cautelar de guarda ou em outra sede de fixação liminar de guarda, a decisão sobre guarda de filhos, mesmo que provisória, será proferida preferencialmente após a oitiva de ambas as partes perante o juiz, salvo se a proteção aos interesses dos filhos exigir a concessão de liminar sem a oitiva da outra parte, aplicando-se as disposições do art. 1.584. (Redação dada pela Lei nº 13.058, de 2014)
+Art. 1.585. Em sede de medida cautelar de separação de corpos, em sede de medida cautelar de guarda ou em outra sede de fixação liminar de guarda, a decisão sobre guarda de filhos, mesmo que provisória, será proferida preferencialmente após a oitiva de ambas as partes perante o juiz, salvo se a proteção aos interesses dos filhos exigir a concessão de liminar sem a oitiva da outra parte, aplicando-se as disposições do art. 1.584. (Redação dada pela Lei nº 13.058, de 2014)
 Art. 1.586. Havendo motivos graves, poderá o juiz, em qualquer caso, a bem dos filhos, regular de maneira diferente da estabelecida nos artigos antecedentes a situação deles para com os pais.
 Art. 1.587. No caso de invalidade do casamento, havendo filhos comuns, observar-se-á o disposto nos arts. 1.584 e 1.586.
 Art. 1.588. O pai ou a mãe que contrair novas núpcias não perde o direito de ter consigo os filhos, que só lhe poderão ser retirados por mandado judicial, provado que não são tratados convenientemente.
 Art. 1.589. O pai ou a mãe, em cuja guarda não estejam os filhos, poderá visitá-los e tê-los em sua companhia, segundo o que acordar com o outro cônjuge, ou for fixado pelo juiz, bem como fiscalizar sua manutenção e educação.
-Parágrafo único.  O direito de visita estende-se a qualquer dos avós, a critério do juiz, observados os interesses da criança ou do adolescente. (Incluído pela Lei nº 12.398, de 2011)
+Parágrafo único. O direito de visita estende-se a qualquer dos avós, a critério do juiz, observados os interesses da criança ou do adolescente. (Incluído pela Lei nº 12.398, de 2011)
 Art. 1.590. As disposições relativas à guarda e prestação de alimentos aos filhos menores estendem-se aos maiores incapazes.
 SUBTÍTULO II
 DAS RELAÇÕES DE PARENTESCO
@@ -3772,8 +3772,8 @@ Art. 1.616. A sentença que julgar procedente a ação de investigação produzi
 Art. 1.617. A filiação materna ou paterna pode resultar de casamento declarado nulo, ainda mesmo sem as condições do putativo.
 CAPÍTULO IV
 DA ADOÇÃO
-Art. 1.618.  A adoção de crianças e adolescentes será deferida na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
-Art. 1.619.  A adoção de maiores de 18 (dezoito) anos dependerá da assistência efetiva do poder público e de sentença constitutiva, aplicando-se, no que couber, as regras gerais da Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.618. A adoção de crianças e adolescentes será deferida na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.619. A adoção de maiores de 18 (dezoito) anos dependerá da assistência efetiva do poder público e de sentença constitutiva, aplicando-se, no que couber, as regras gerais da Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
 Art. 1.620. a 1.629. (Revogados pela Lei nº 12.010, de 2009) Vigência
 CAPÍTULO V
 DO PODER FAMILIAR
@@ -3786,7 +3786,7 @@ Art. 1.632. A separação judicial, o divórcio e a dissolução da união está
 Art. 1.633. O filho, não reconhecido pelo pai, fica sob poder familiar exclusivo da mãe; se a mãe não for conhecida ou capaz de exercê-lo, dar-se-á tutor ao menor.
 Seção II
 Do Exercício do Poder Familiar
-Art. 1.634.  Compete a ambos os pais, qualquer que seja a sua situação conjugal, o pleno exercício do poder familiar, que consiste em, quanto aos filhos: (Redação dada pela Lei nº 13.058, de 2014)
+Art. 1.634. Compete a ambos os pais, qualquer que seja a sua situação conjugal, o pleno exercício do poder familiar, que consiste em, quanto aos filhos: (Redação dada pela Lei nº 13.058, de 2014)
 I - dirigir-lhes a criação e a educação; (Redação dada pela Lei nº 13.058, de 2014)
 II - exercer a guarda unilateral ou compartilhada nos termos do art. 1.584; (Redação dada pela Lei nº 13.058, de 2014)
 III - conceder-lhes ou negar-lhes consentimento para casarem; (Redação dada pela Lei nº 13.058, de 2014)
@@ -4035,7 +4035,7 @@ III - quando removidos por não idôneos o tutor legítimo e o testamentário.
 Art. 1.733. Aos irmãos órfãos dar-se-á um só tutor.
 § 1 o No caso de ser nomeado mais de um tutor por disposição testamentária sem indicação de precedência, entende-se que a tutela foi cometida ao primeiro, e que os outros lhe sucederão pela ordem de nomeação, se ocorrer morte, incapacidade, escusa ou qualquer outro impedimento.
 § 2 o Quem institui um menor herdeiro, ou legatário seu, poderá nomear-lhe curador especial para os bens deixados, ainda que o beneficiário se encontre sob o poder familiar, ou tutela.
-Art. 1.734.  As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
+Art. 1.734. As crianças e os adolescentes cujos pais forem desconhecidos, falecidos ou que tiverem sido suspensos ou destituídos do poder familiar terão tutores nomeados pelo Juiz ou serão incluídos em programa de colocação familiar, na forma prevista pela Lei n o 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente. (Redação dada pela Lei nº 12.010, de 2009) Vigência
 Seção II
 Dos Incapazes de Exercer a Tutela
 Art. 1.735. Não podem ser tutores e serão exonerados da tutela, caso a exerçam:
@@ -4150,9 +4150,9 @@ Art. 1.775. O cônjuge ou companheiro, não separado judicialmente ou de fato, �
 §1 o Na falta do cônjuge ou companheiro, é curador legítimo o pai ou a mãe; na falta destes, o descendente que se demonstrar mais apto.
 § 2 o Entre os descendentes, os mais próximos precedem aos mais remotos.
 § 3 o Na falta das pessoas mencionadas neste artigo, compete ao juiz a escolha do curador.
-Art. 1.775-A.  Na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada a mais de uma pessoa. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
+Art. 1.775-A. Na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada a mais de uma pessoa. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 Art. 1.776. (Revogado pela Lei nº 13.146, de 2015) (Vigência)
-Art. 1.777.  As pessoas referidas no inciso I do art. 1.767 receberão todo o apoio necessário para ter preservado o direito à convivência familiar e comunitária, sendo evitado o seu recolhimento em estabelecimento que os afaste desse convívio. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
+Art. 1.777. As pessoas referidas no inciso I do art. 1.767 receberão todo o apoio necessário para ter preservado o direito à convivência familiar e comunitária, sendo evitado o seu recolhimento em estabelecimento que os afaste desse convívio. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)
 Art. 1.778. A autoridade do curador estende-se à pessoa e aos bens dos filhos do curatelado, observado o art. 5 o .
 Seção II
 Da Curatela do Nascituro e do Enfermo ou Portador de Deficiência Física
@@ -4167,7 +4167,7 @@ Art. 1.783. Quando o curador for o cônjuge e o regime de bens do casamento for 
 CAPÍTULO III
 Da Tomada de Decisão Apoiada
 (Incluído pela Lei nº 13.146, de 2015) (Vigência)
-Art. 1.783-A.  A tomada de decisão apoiada é o processo pelo qual a pessoa com deficiência elege pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e informações necessários para que possa exercer sua capacidade. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
+Art. 1.783-A. A tomada de decisão apoiada é o processo pelo qual a pessoa com deficiência elege pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e informações necessários para que possa exercer sua capacidade. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 § 1 o Para formular pedido de tomada de decisão apoiada, a pessoa com deficiência e os apoiadores devem apresentar termo em que constem os limites do apoio a ser oferecido e os compromissos dos apoiadores, inclusive o prazo de vigência do acordo e o respeito à vontade, aos direitos e aos interesses da pessoa que devem apoiar. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 § 2 o O pedido de tomada de decisão apoiada será requerido pela pessoa a ser apoiada, com indicação expressa das pessoas aptas a prestarem o apoio previsto no caput deste artigo. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 § 3 o Antes de se pronunciar sobre o pedido de tomada de decisão apoiada, o juiz, assistido por equipe multidisciplinar, após oitiva do Ministério Público, ouvirá pessoalmente o requerente e as pessoas que lhe prestarão apoio. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
@@ -4177,8 +4177,8 @@ Art. 1.783-A.  A tomada de decisão apoiada é o processo pelo qual a pessoa co
 § 7 o Se o apoiador agir com negligência, exercer pressão indevida ou não adimplir as obrigações assumidas, poderá a pessoa apoiada ou qualquer pessoa apresentar denúncia ao Ministério Público ou ao juiz. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 § 8 o Se procedente a denúncia, o juiz destituirá o apoiador e nomeará, ouvida a pessoa apoiada e se for de seu interesse, outra pessoa para prestação de apoio. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 § 9 o A pessoa apoiada pode, a qualquer tempo, solicitar o término de acordo firmado em processo de tomada de decisão apoiada. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
-§ 10.  O apoiador pode solicitar ao juiz a exclusão de sua participação do processo de tomada de decisão apoiada, sendo seu desligamento condicionado à manifestação do juiz sobre a matéria. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
-§ 11.  Aplicam-se à tomada de decisão apoiada, no que couber, as disposições referentes à prestação de contas na curatela. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
+§ 10. O apoiador pode solicitar ao juiz a exclusão de sua participação do processo de tomada de decisão apoiada, sendo seu desligamento condicionado à manifestação do juiz sobre a matéria. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
+§ 11. Aplicam-se à tomada de decisão apoiada, no que couber, as disposições referentes à prestação de contas na curatela. (Incluído pela Lei nº 13.146, de 2015) (Vigência)
 LIVRO V
 DO DIREITO DAS SUCESSÕES
 TÍTULO I
@@ -4263,7 +4263,7 @@ III - que, por violência ou meios fraudulentos, inibirem ou obstarem o autor da
 Art. 1.815. A exclusão do herdeiro ou legatário, em qualquer desses casos de indignidade, será declarada por sentença.
 § 1 o O direito de demandar a exclusão do herdeiro ou legatário extingue-se em quatro anos, contados da abertura da sucessão. (Redação dada pela Lei nº 13.532, de 2017)
 § 2 o Na hipótese do inciso I do art. 1.814, o Ministério Público tem legitimidade para demandar a exclusão do herdeiro ou legatário. (Incluído pela Lei nº 13.532, de 2017)
-Art. 1.815-A. Em qualquer dos casos de indignidade previstos no art. 1.814, o trânsito em julgado da sentença penal condenatória acarretará a imediata exclusão do herdeiro ou legatário indigno, independentemente da sentença prevista no caput do art. 1.815 deste Código.    (Incluído pela Lei nº 14.661, de 2023)
+Art. 1.815-A. Em qualquer dos casos de indignidade previstos no art. 1.814, o trânsito em julgado da sentença penal condenatória acarretará a imediata exclusão do herdeiro ou legatário indigno, independentemente da sentença prevista no caput do art. 1.815 deste Código. (Incluído pela Lei nº 14.661, de 2023)
 Art. 1.816. São pessoais os efeitos da exclusão; os descendentes do herdeiro excluído sucedem, como se ele morto fosse antes da abertura da sucessão.
 Parágrafo único. O excluído da sucessão não terá direito ao usufruto ou à administração dos bens que a seus sucessores couberem na herança, nem à sucessão eventual desses bens.
 Art. 1.817. São válidas as alienações onerosas de bens hereditários a terceiros de boa-fé, e os atos de administração legalmente praticados pelo herdeiro, antes da sentença de exclusão; mas aos herdeiros subsiste, quando prejudicados, o direito de demandar-lhe perdas e danos.
@@ -4661,7 +4661,7 @@ Art. 2.025. Cessa a obrigação mútua estabelecida no artigo antecedente, haven
 Art. 2.026. O evicto será indenizado pelos co-herdeiros na proporção de suas quotas hereditárias, mas, se algum deles se achar insolvente, responderão os demais na mesma proporção, pela parte desse, menos a quota que corresponderia ao indenizado.
 CAPÍTULO VII
 DA ANULAÇÃO DA PARTILHA
-Art. 2.027.  A partilha é anulável pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)
+Art. 2.027. A partilha é anulável pelos vícios e defeitos que invalidam, em geral, os negócios jurídicos. (Redação dada pela Lei nº 13.105, de 2015) (Vigência)
 Parágrafo único. Extingue-se em um ano o direito de anular a partilha.
 LIVRO COMPLEMENTAR
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
@@ -4742,7 +4742,7 @@ Seção III Das Causas que Interrompem a Prescrição
 Seção IV Dos Prazos da Prescrição
 CAPÍTULO II DA DECADÊNCIA
 TÍTULO V DA PROVA
-P A R T E    E S P E C I A L
+P A R T E E S P E C I A L
 LIVRO I DO DIREITO DAS OBRIGAÇÕES
 TÍTULO I DAS MODALIDADES DAS OBRIGAÇÕES
 CAPÍTULO I DAS OBRIGAÇÕES DE DAR

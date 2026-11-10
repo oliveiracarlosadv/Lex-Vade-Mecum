@@ -174,7 +174,7 @@ Repositório: [github.com/oliveiracarlosadv/Lex-Vade-Mecum](https://github.com/o
 ## 11. Perguntas frequentes
 
 **O texto é confiável?**
-O texto dos artigos é extraído da fonte oficial, nunca digitado à mão, e é conferido automaticamente a cada 12 horas. A data da última conferência aparece no início de cada lei.
+O texto dos artigos é extraído da fonte oficial, nunca digitado à mão, e é conferido automaticamente a cada 12 horas. A conferência roda sozinha, às 7h e às 19h: quando um artigo é alterado, incluído ou revogado na fonte, o texto do Lex Vade Mecum muda na mesma conferência (o revogado aparece riscado, com a nota da lei que o revogou). A data da última conferência aparece no início de cada lei.
 
 **Preciso pagar ou criar conta?**
 Não. O uso é livre e não há cadastro.

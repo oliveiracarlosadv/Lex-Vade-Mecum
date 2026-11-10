@@ -333,11 +333,11 @@ II - cobrar impôsto sôbre o patrimônio e a renda com base em lei posterior à
 
 III - estabelecer limitações ao tráfego, no território nacional, de pessoas ou mercadorias, por meio de tributos interestaduais ou intermunicipais;
 
-IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre:      (Redação dada pela Lei Complementar nº 214, de 2025)    Produção de efeitos
+IV - cobrar impostos e a contribuição de que trata o inciso V do art. 195 da Constituição Federal sobre: (Redação dada pela Lei Complementar nº 214, de 2025) Produção de efeitos
 
 a) o patrimônio, a renda ou os serviços uns dos outros;
 
-b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes;      (Redação dada pela Lei Complementar nº 214, de 2025)    Produção de efeitos
+b) entidades religiosas e templos de qualquer culto, inclusive suas organizações assistenciais e beneficentes; (Redação dada pela Lei Complementar nº 214, de 2025) Produção de efeitos
 
 c) o patrimônio, a renda ou serviços dos partidos políticos, inclusive suas fundações, das entidades sindicais dos trabalhadores, das instituições de educação e de assistência social, sem fins lucrativos, observados os requisitos fixados na Seção II deste Capítulo; (Redação dada pela Lei Complementar nº 104, de 2001)
 
@@ -650,13 +650,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO I — Disposições Gerais
 
-Art. 18-A. Para fins da incidência do imposto de que trata o inciso II do caput do art. 155 da Constituição Federal, os combustíveis, o gás natural, a energia elétrica, as comunicações e o transporte coletivo são considerados bens e serviços essenciais e indispensáveis, que não podem ser tratados como supérfluos.   (Incluído pela Lei Complementar nº 194, de 2022)
+Art. 18-A. Para fins da incidência do imposto de que trata o inciso II do caput do art. 155 da Constituição Federal, os combustíveis, o gás natural, a energia elétrica, as comunicações e o transporte coletivo são considerados bens e serviços essenciais e indispensáveis, que não podem ser tratados como supérfluos. (Incluído pela Lei Complementar nº 194, de 2022)
 
-Parágrafo único. Para efeito do disposto neste artigo:   (Incluído pela Lei Complementar nº 194, de 2022)
+Parágrafo único. Para efeito do disposto neste artigo: (Incluído pela Lei Complementar nº 194, de 2022)
 
-I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços;   (Incluído pela Lei Complementar nº 194, de 2022)
+I - é vedada a fixação de alíquotas sobre as operações referidas no caput deste artigo em patamar superior ao das operações em geral, considerada a essencialidade dos bens e serviços; (Incluído pela Lei Complementar nº 194, de 2022)
 
-II - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e   (Incluído pela Lei Complementar nº 194, de 2022)
+II - é facultada ao ente federativo competente a aplicação de alíquotas reduzidas em relação aos bens referidos no caput deste artigo, como forma de beneficiar os consumidores em geral; e (Incluído pela Lei Complementar nº 194, de 2022)
 
 III - (Revogado pela Lei Complementar nº 201, de 2023)
 
@@ -1159,15 +1159,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO III — Impostos sôbre o Patrimônio e a Renda › SEÇÃO III — Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos
 
-Art. 35. O Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos, de competência dos Municípios e do Distrito Federal, tem como fato gerador:       (Redação dada pela Lei Complementar nº 227, de 2026)
+Art. 35. O Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos, de competência dos Municípios e do Distrito Federal, tem como fato gerador: (Redação dada pela Lei Complementar nº 227, de 2026)
 
-I - a transmissão inter vivos, a qualquer título, por ato oneroso, da propriedade ou do domínio útil de bens imóveis por natureza ou por acessão física, como definidos na lei civil;       (Redação dada pela Lei Complementar nº 227, de 2026)
+I - a transmissão inter vivos, a qualquer título, por ato oneroso, da propriedade ou do domínio útil de bens imóveis por natureza ou por acessão física, como definidos na lei civil; (Redação dada pela Lei Complementar nº 227, de 2026)
 
-II - a transmissão inter vivos, a qualquer título, por ato oneroso, de direitos reais sobre imóveis, exceto os direitos reais de garantia;      (Redação dada pela Lei Complementar nº 227, de 2026)
+II - a transmissão inter vivos, a qualquer título, por ato oneroso, de direitos reais sobre imóveis, exceto os direitos reais de garantia; (Redação dada pela Lei Complementar nº 227, de 2026)
 
-III - a cessão inter vivos, por ato oneroso, de direitos relativos às transmissões referidas nos incisos I e II deste caput.       (Redação dada pela Lei Complementar nº 227, de 2026)
+III - a cessão inter vivos, por ato oneroso, de direitos relativos às transmissões referidas nos incisos I e II deste caput. (Redação dada pela Lei Complementar nº 227, de 2026)
 
-Parágrafo único. (Revogado).     (Redação dada pela Lei Complementar nº 227, de 2026)
+Parágrafo único. (Revogado). (Redação dada pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 227, de 2026.
 
@@ -1197,7 +1197,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO III — Impostos sôbre o Patrimônio e a Renda › SEÇÃO III — Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos
 
-Art. 35-A. (VETADO).       (Incluído pela Lei Complementar nº 227, de 2026)
+Art. 35-A. (VETADO). (Incluído pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 227, de 2026.
 
@@ -1298,21 +1298,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 38. A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos.
 
-§ 1º Considera-se valor venal, para fins do caput deste artigo, o valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado.       (Incluído pela Lei Complementar nº 227, de 2026)
+§ 1º Considera-se valor venal, para fins do caput deste artigo, o valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado. (Incluído pela Lei Complementar nº 227, de 2026)
 
-§ 2º O valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado, a que se refere o § 1º deste artigo, será estimado por meio de critérios técnicos, considerando pelo menos um dos seguintes:      (Incluído pela Lei Complementar nº 227, de 2026)
+§ 2º O valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado, a que se refere o § 1º deste artigo, será estimado por meio de critérios técnicos, considerando pelo menos um dos seguintes: (Incluído pela Lei Complementar nº 227, de 2026)
 
-I - análise de preços praticados no mercado imobiliário;       (Incluído pela Lei Complementar nº 227, de 2026)
+I - análise de preços praticados no mercado imobiliário; (Incluído pela Lei Complementar nº 227, de 2026)
 
-II - informações prestadas pelos serviços notariais e registrais e por agentes financeiros;       (Incluído pela Lei Complementar nº 227, de 2026)
+II - informações prestadas pelos serviços notariais e registrais e por agentes financeiros; (Incluído pela Lei Complementar nº 227, de 2026)
 
-III - localização, tipologia, destinação, padrão e área de terreno e construção, entre outras características do bem imóvel; e       (Incluído pela Lei Complementar nº 227, de 2026)
+III - localização, tipologia, destinação, padrão e área de terreno e construção, entre outras características do bem imóvel; e (Incluído pela Lei Complementar nº 227, de 2026)
 
-IV - outros parâmetros técnicos usualmente observados na avaliação de imóveis.       (Incluído pela Lei Complementar nº 227, de 2026)
+IV - outros parâmetros técnicos usualmente observados na avaliação de imóveis. (Incluído pela Lei Complementar nº 227, de 2026)
 
-§ 3º As administrações tributárias dos Municípios e do Distrito Federal deverão divulgar os critérios utilizados para estimar o valor venal a que se refere o caput deste artigo, o qual poderá ser contestado pelo contribuinte mediante a apresentação de avaliação contraditória em procedimento específico, nos termos da legislação específica municipal ou distrital.       (Incluído pela Lei Complementar nº 227, de 2026)
+§ 3º As administrações tributárias dos Municípios e do Distrito Federal deverão divulgar os critérios utilizados para estimar o valor venal a que se refere o caput deste artigo, o qual poderá ser contestado pelo contribuinte mediante a apresentação de avaliação contraditória em procedimento específico, nos termos da legislação específica municipal ou distrital. (Incluído pela Lei Complementar nº 227, de 2026)
 
-§ 4º Os serviços registrais e notariais deverão compartilhar as informações das operações realizadas com bens imóveis com as administrações tributárias dos Municípios e do Distrito Federal, sob pena de multa prevista em lei específica municipal ou distrital.      (Incluído pela Lei Complementar nº 227, de 2026)
+§ 4º Os serviços registrais e notariais deverão compartilhar as informações das operações realizadas com bens imóveis com as administrações tributárias dos Municípios e do Distrito Federal, sob pena de multa prevista em lei específica municipal ou distrital. (Incluído pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 227, de 2026.
 
@@ -1342,7 +1342,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO III — Impostos sôbre o Patrimônio e a Renda › SEÇÃO III — Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos
 
-Art. 39.   (Revogado pela Lei Complementar nº 227, de 2026)
+Art. 39. (Revogado pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 227, de 2026.
 
@@ -1401,7 +1401,7 @@ O ITBI pago é dedutível do imposto de renda devido sobre o ganho da mesma tran
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO III — Impostos sôbre o Patrimônio e a Renda › SEÇÃO III — Do Imposto sobre a Transmissão Inter vivos, por Ato Oneroso, de Bens Imóveis e de Direitos a Eles Relativos
 
-Art. 41. O imposto compete ao Município da situação do bem, ou ao Distrito Federal.      (Redação dada pela Lei Complementar nº 227, de 2026)
+Art. 41. O imposto compete ao Município da situação do bem, ou ao Distrito Federal. (Redação dada pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 227, de 2026.
 
@@ -1813,7 +1813,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO IV — Impostos sôbre a Produção e a Circulação › SEÇÃO IV — Impôsto sôbre Operações de Crédito, Câmbio e Seguro, e sôbre Operações Relativas a Títulos e Valôres Mobiliários
 
-Art. 63.  O impôsto, de competência da União, sôbre operações de crédito, câmbio e seguro, e sôbre operações relativas a títulos e valôres mobiliários tem como fato gerador:
+Art. 63. O impôsto, de competência da União, sôbre operações de crédito, câmbio e seguro, e sôbre operações relativas a títulos e valôres mobiliários tem como fato gerador:
 
 I - quanto às operações de crédito, a sua efetivação pela entrega total ou parcial do montante ou do valor que constitua o objeto da obrigação, ou sua colocação à disposição do interessado;
 
@@ -2058,7 +2058,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO III — Impostos › CAPÍTULO IV — Impostos sôbre a Produção e a Circulação › SEÇÃO VI — Impôsto sôbre Serviços de Qualquer Natureza
 
-Arts. 71 a 73  (Revogados pelo Decreto-lei nº 406, de 1968
+Arts. 71 a 73 (Revogados pelo Decreto-lei nº 406, de 1968
 
 #### Interpretação
 
@@ -2395,15 +2395,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO V-A — DA CONTRIBUIÇÃO PARA O CUSTEIO, A EXPANSÃO E A MELHORIA DO SERVIÇO DE ILUMINAÇÃO PÚBLICA E DE SISTEMAS DE MONITORAMENTO PARA SEGURANÇA E PRESERVAÇÃO DE LOGRADOUROS PÚBLICOS
 
-Art. 82-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto nos incisos I e III do caput do art. 150 da Constituição Federal.           (Incluído pela Lei Complementar nº 227, de 2026)
+Art. 82-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos, observado o disposto nos incisos I e III do caput do art. 150 da Constituição Federal. (Incluído pela Lei Complementar nº 227, de 2026)
 
-§ 1º Para os fins do disposto no caput deste artigo, considera-se:        (Incluído pela Lei Complementar nº 227, de 2026)
+§ 1º Para os fins do disposto no caput deste artigo, considera-se: (Incluído pela Lei Complementar nº 227, de 2026)
 
-I - custeio, expansão e melhoria do serviço de iluminação pública: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos equipamentos, das tecnologias, dos serviços e dos ativos destinados à prestação de serviços relativos à rede de iluminação pública, temporária ou permanente, com o objetivo de prover iluminância em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital; e       (Incluído pela Lei Complementar nº 227, de 2026)
+I - custeio, expansão e melhoria do serviço de iluminação pública: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos equipamentos, das tecnologias, dos serviços e dos ativos destinados à prestação de serviços relativos à rede de iluminação pública, temporária ou permanente, com o objetivo de prover iluminância em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital; e (Incluído pela Lei Complementar nº 227, de 2026)
 
-II - custeio, expansão e melhoria de sistemas de monitoramento para segurança e preservação de logradouros públicos: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos sistemas, das tecnologias, dos meios de transmissão da informação, da infraestrutura e dos equipamentos destinados ao monitoramento para administração, controle, segurança, preservação e prevenção a desastres em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital, incluídos os ativos necessários ao funcionamento de centros integrados de operação e controle e à integração de sistemas de gestão de monitoramento pela administração pública.        (Incluído pela Lei Complementar nº 227, de 2026)
+II - custeio, expansão e melhoria de sistemas de monitoramento para segurança e preservação de logradouros públicos: a aquisição, a implementação, a instalação, a expansão, a manutenção, a operação, a gestão e o desenvolvimento dos projetos, dos sistemas, das tecnologias, dos meios de transmissão da informação, da infraestrutura e dos equipamentos destinados ao monitoramento para administração, controle, segurança, preservação e prevenção a desastres em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital, incluídos os ativos necessários ao funcionamento de centros integrados de operação e controle e à integração de sistemas de gestão de monitoramento pela administração pública. (Incluído pela Lei Complementar nº 227, de 2026)
 
-§ 2º É facultada a cobrança da contribuição a que se refere o caput deste artigo na fatura de consumo de energia elétrica.        (Incluído pela Lei Complementar nº 227, de 2026)
+§ 2º É facultada a cobrança da contribuição a que se refere o caput deste artigo na fatura de consumo de energia elétrica. (Incluído pela Lei Complementar nº 227, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 227, de 2026.
 
@@ -2536,7 +2536,7 @@ A União distribui aos Municípios o produto do ITR dos imóveis neles situados 
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO I — Constituição dos Fundos
 
-Art. 86.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 86. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2566,7 +2566,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO I — Constituição dos Fundos
 
-Art. 87.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 87. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2596,7 +2596,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO II — Critério de Distribuição do Fundo de Participação dos Estados
 
-Art. 88.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 88. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2626,7 +2626,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO II — Critério de Distribuição do Fundo de Participação dos Estados
 
-Art. 89.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 89. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2743,15 +2743,15 @@ Fixa a tabela do fator representativo do inverso da renda per capita usada na di
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO III — Critério de Distribuição do Fundo de Participação dos Municípios
 
-Art. 91. Do Fundo de Participação dos Municípios a que se refere o art. 86, serão atribuídos:   (Redação dada pelo Ato Complementar nº 35, de 1967)
+Art. 91. Do Fundo de Participação dos Municípios a que se refere o art. 86, serão atribuídos: (Redação dada pelo Ato Complementar nº 35, de 1967)
 
-I - 10% (dez por cento) aos Municípios das Capitais dos Estados;    (Redação dada pelo Ato Complementar nº 35, de 1967)
+I - 10% (dez por cento) aos Municípios das Capitais dos Estados; (Redação dada pelo Ato Complementar nº 35, de 1967)
 
-II - 90% (noventa por cento) aos demais Municípios do País.    (Redação dada pelo Ato Complementar nº 35, de 1967)
+II - 90% (noventa por cento) aos demais Municípios do País. (Redação dada pelo Ato Complementar nº 35, de 1967)
 
 § 1º A parcela de que trata o inciso I será distribuída proporcionalmente a um coeficiente individual de participação, resultante do produto dos seguintes fatôres: (Redação dada pelo Ato Complementar nº 35, de 1967)
 
-a) fator representativo da população, assim estabelecido:    (Redação dada pelo Ato Complementar nº 35, de 1967)
+a) fator representativo da população, assim estabelecido: (Redação dada pelo Ato Complementar nº 35, de 1967)
 
 Percentual da População de cada Município em relação à do conjunto das Capitais:
 
@@ -2767,7 +2767,7 @@ Cada 0,5% ou fração excedente, mais...........................................
 
 Mais de 5% ................................................................................ .......................... 5
 
-b) Fator representativo do inverso da renda per capita do respectivo Estado, de conformidade com o disposto no art. 90.    (Redação dada pelo Ato Complementar nº 35, de 1967)
+b) Fator representativo do inverso da renda per capita do respectivo Estado, de conformidade com o disposto no art. 90. (Redação dada pelo Ato Complementar nº 35, de 1967)
 
 § 2º - A distribuição da parcela a que se refere o item II deste artigo, deduzido o percentual referido no artigo 3º do Decreto-lei que estabelece a redação deste parágrafo, far-se-á atribuindo-se a cada Município um coeficiente individual de participação determinado na forma seguinte: (Redação dada pelo Decreto Lei nº 1.881, de 1981) (Vide Lei Complementar nº 91, de 1997)
 
@@ -2858,13 +2858,13 @@ Do Fundo de Participação dos Municípios, 10% vão às capitais e 90% aos dema
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO IV — Cálculo e Pagamento das Quotas Estaduais e Municipais
 
-Art. 92.  O Tribunal de Contas da União comunicará ao Banco do Brasil S.A., conforme os prazos a seguir especificados, os coeficientes individuais de participação nos fundos previstos no art. 159, inciso I, alíneas “a”, “b” e “d”, da Constituição Federal que prevalecerão no exercício subsequente:      (Redação dada pela Lei Complementar nº 143, de 2013)   (Produção de efeito)      (Vide Lei Complementar nº 143, de 2013)
+Art. 92. O Tribunal de Contas da União comunicará ao Banco do Brasil S.A., conforme os prazos a seguir especificados, os coeficientes individuais de participação nos fundos previstos no art. 159, inciso I, alíneas “a”, “b” e “d”, da Constituição Federal que prevalecerão no exercício subsequente: (Redação dada pela Lei Complementar nº 143, de 2013) (Produção de efeito) (Vide Lei Complementar nº 143, de 2013)
 
-I - até o último dia útil do mês de março de cada exercício financeiro, para cada Estado e para o Distrito Federal;        (Incluído pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+I - até o último dia útil do mês de março de cada exercício financeiro, para cada Estado e para o Distrito Federal; (Incluído pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
-II - até o último dia útil de cada exercício financeiro, para cada Município.         (Incluído pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+II - até o último dia útil de cada exercício financeiro, para cada Município. (Incluído pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
-Parágrafo único.  Far-se-á nova comunicação sempre que houver, transcorrido o prazo fixado no inciso I do caput, a criação de novo Estado a ser implantado no exercício subsequente.        (Incluído pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Parágrafo único. Far-se-á nova comunicação sempre que houver, transcorrido o prazo fixado no inciso I do caput, a criação de novo Estado a ser implantado no exercício subsequente. (Incluído pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 143, de 2013; inclusão — Lei Complementar nº 143, de 2013.
 
@@ -2899,7 +2899,7 @@ O TCU comunica ao Banco do Brasil os coeficientes dos fundos de participação: 
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO IV — Cálculo e Pagamento das Quotas Estaduais e Municipais
 
-Art. 93.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 93. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2929,7 +2929,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO III — Fundos de Participação dos Estados e dos Municípios › SEÇÃO V — Comprovação da Aplicação das Quotas Estaduais e Municipais
 
-Art. 94.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 94. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -2959,9 +2959,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO PRIMEIRO — SISTEMA TRIBUTÁRIO NACIONAL › TÍTULO VI — Distribuições de Receitas Tributárias › CAPÍTULO IV — Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País
 
-Art. 95.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)
+Art. 95. (Revogado pela Lei Complementar nº 143, de 2013) (Produção de efeito)
 
-Parágrafo único.       (Revogado pelo Ato Complementar nº 35, de 1967)
+Parágrafo único. (Revogado pelo Ato Complementar nº 35, de 1967)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei Complementar nº 143, de 2013.
 
@@ -3351,11 +3351,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 107. A legislação tributária será interpretada conforme o disposto neste Capítulo.
 
-§ 1º A resolução de dúvidas acerca da legislação tributária e aduaneira e a fixação de sua interpretação e aplicação serão efetuadas por meio do processo administrativo de solução de consulta ou por pareceres jurídicos, conforme o caso, nos termos da legislação específica.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º A resolução de dúvidas acerca da legislação tributária e aduaneira e a fixação de sua interpretação e aplicação serão efetuadas por meio do processo administrativo de solução de consulta ou por pareceres jurídicos, conforme o caso, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º A solução de consulta e os pareceres jurídicos terão efeitos vinculantes restritos, em cada caso, ao âmbito do órgão que os houver emitido.      (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º A solução de consulta e os pareceres jurídicos terão efeitos vinculantes restritos, em cada caso, ao âmbito do órgão que os houver emitido. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º A solução da consulta produzirá efeitos exclusivamente em relação ao consulente, sem prejuízo da vinculação da interpretação nela fixada no âmbito do órgão emissor, nos termos do § 2º deste artigo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A solução da consulta produzirá efeitos exclusivamente em relação ao consulente, sem prejuízo da vinculação da interpretação nela fixada no âmbito do órgão emissor, nos termos do § 2º deste artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -3581,17 +3581,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO II — Obrigação Tributária › CAPÍTULO I — Disposições Gerais
 
-Art. 113-A. As penalidades cominadas pela legislação em razão do descumprimento de obrigações tributárias principais e acessórias deverão observar o princípio da razoabilidade e guardar relação de proporcionalidade com a infração praticada pelo sujeito passivo.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 113-A. As penalidades cominadas pela legislação em razão do descumprimento de obrigações tributárias principais e acessórias deverão observar o princípio da razoabilidade e guardar relação de proporcionalidade com a infração praticada pelo sujeito passivo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º A multa cominada pela legislação em razão do disposto no caput deste artigo, exceto as multas isoladas desvinculadas de valor de crédito ou tributo, não poderá exceder os seguintes percentuais calculados sobre o valor do próprio tributo lançado ou do crédito cuja fiscalização tiver sido afetada pela desconformidade ou pelo atraso na prestação das informações pelo sujeito passivo:     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º A multa cominada pela legislação em razão do disposto no caput deste artigo, exceto as multas isoladas desvinculadas de valor de crédito ou tributo, não poderá exceder os seguintes percentuais calculados sobre o valor do próprio tributo lançado ou do crédito cuja fiscalização tiver sido afetada pela desconformidade ou pelo atraso na prestação das informações pelo sujeito passivo: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – 75% (setenta e cinco por cento);      (Incluído pela Lei Complementar nº 236, de 2026)
+I – 75% (setenta e cinco por cento); (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – 100% (cem por cento) nos casos em que se verifique a prática dolosa de fraude, sonegação ou conluio pelo sujeito passivo; e     (Incluído pela Lei Complementar nº 236, de 2026)
+II – 100% (cem por cento) nos casos em que se verifique a prática dolosa de fraude, sonegação ou conluio pelo sujeito passivo; e (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – 150% (cento e cinquenta por cento) nos casos em que se verifique a reincidência do sujeito passivo.     (Incluído pela Lei Complementar nº 236, de 2026)
+III – 150% (cento e cinquenta por cento) nos casos em que se verifique a reincidência do sujeito passivo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º (VETADO).     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -4046,7 +4046,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO II — Obrigação Tributária › CAPÍTULO IV — Sujeito Passivo › SEÇÃO IV — Domicílio Tributário
 
-Art. 127-A. As intimações dos atos do processo poderão ser realizadas por meio de Domicílio Tributário Eletrônico (DTE), inclusive quando se tratar de intimação de procurador, nos termos das leis reguladoras do processo tributário administrativo.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 127-A. As intimações dos atos do processo poderão ser realizadas por meio de Domicílio Tributário Eletrônico (DTE), inclusive quando se tratar de intimação de procurador, nos termos das leis reguladoras do processo tributário administrativo. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -4161,7 +4161,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 131. São pessoalmente responsáveis:
 
-I - o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos;       (Redação dada pelo Decreto Lei nº 28, de 1966)
+I - o adquirente ou remitente, pelos tributos relativos aos bens adquiridos ou remidos; (Redação dada pelo Decreto Lei nº 28, de 1966)
 
 II - o sucessor a qualquer título e o cônjuge meeiro, pelos tributos devidos pelo de cujus até a data da partilha ou adjudicação, limitada esta responsabilidade ao montante do quinhão do legado ou da meação;
 
@@ -4420,7 +4420,7 @@ A responsabilidade é pessoal do agente nas infrações que sejam crimes ou cont
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO II — Obrigação Tributária › CAPÍTULO V — Responsabilidade Tributária › SEÇÃO IV — Responsabilidade por Infrações
 
-Art. 138. A responsabilidade é excluída, inclusive em relação à multa de mora, pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo dependa de apuração.      (Redação dada pela Lei Complementar nº 236, de 2026)
+Art. 138. A responsabilidade é excluída, inclusive em relação à multa de mora, pela denúncia espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da importância arbitrada pela autoridade administrativa, quando o montante do tributo dependa de apuração. (Redação dada pela Lei Complementar nº 236, de 2026)
 
 Parágrafo único. Não se considera espontânea a denúncia apresentada após o início de qualquer procedimento administrativo ou medida de fiscalização, relacionados com a infração.
 
@@ -4534,59 +4534,59 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 142. Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo caso, propor a aplicação da penalidade cabível.
 
-§ 1º A atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional.      (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º A atividade administrativa de lançamento é vinculada e obrigatória, sob pena de responsabilidade funcional. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º No lançamento destinado a prevenir a decadência de crédito tributário cuja exigibilidade houver sido suspensa na forma dos incisos II, IV e V do caput do art. 151 desta Lei, não será cominada multa de ofício ou multa de mora a ele relativo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º No lançamento destinado a prevenir a decadência de crédito tributário cuja exigibilidade houver sido suspensa na forma dos incisos II, IV e V do caput do art. 151 desta Lei, não será cominada multa de ofício ou multa de mora a ele relativo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º O disposto no § 2º deste artigo aplica-se, exclusivamente, aos casos em que a suspensão da exigibilidade do crédito tenha ocorrido antes do início de qualquer procedimento de ofício a ele relativo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º O disposto no § 2º deste artigo aplica-se, exclusivamente, aos casos em que a suspensão da exigibilidade do crédito tenha ocorrido antes do início de qualquer procedimento de ofício a ele relativo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 4º (VETADO).      (Incluído pela Lei Complementar nº 236, de 2026)
+§ 4º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 5º As penalidades cominadas em razão do descumprimento de obrigações tributárias, mediante lançamento de ofício, poderão ser pagas com as seguintes reduções, na forma das legislações locais:     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 5º As penalidades cominadas em razão do descumprimento de obrigações tributárias, mediante lançamento de ofício, poderão ser pagas com as seguintes reduções, na forma das legislações locais: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – 50% (cinquenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário no prazo previsto para apresentação de impugnação administrativa;      (Incluído pela Lei Complementar nº 236, de 2026)
+I – 50% (cinquenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário no prazo previsto para apresentação de impugnação administrativa; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – 40% (quarenta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário no prazo previsto para apresentação de impugnação administrativa;     (Incluído pela Lei Complementar nº 236, de 2026)
+II – 40% (quarenta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário no prazo previsto para apresentação de impugnação administrativa; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – 30% (trinta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário após o prazo referido no inciso I deste parágrafo e antes da sua inscrição em dívida ativa;     (Incluído pela Lei Complementar nº 236, de 2026)
+III – 30% (trinta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário após o prazo referido no inciso I deste parágrafo e antes da sua inscrição em dívida ativa; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – 20% (vinte por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário após o prazo referido no inciso II deste parágrafo e antes da sua inscrição em dívida ativa.    (Incluído pela Lei Complementar nº 236, de 2026)
+IV – 20% (vinte por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário após o prazo referido no inciso II deste parágrafo e antes da sua inscrição em dívida ativa. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 6º Não haverá graduação, redução ou afastamento da penalidade em relação ao devedor contumaz, assim definido em lei específica.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 6º Não haverá graduação, redução ou afastamento da penalidade em relação ao devedor contumaz, assim definido em lei específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 7º A graduação das penalidades, na forma do § 5º deste artigo, não excluirá o dever de pagamento da obrigação tributária principal, com os devidos acréscimos legais, quando for o caso.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 7º A graduação das penalidades, na forma do § 5º deste artigo, não excluirá o dever de pagamento da obrigação tributária principal, com os devidos acréscimos legais, quando for o caso. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 8º A aplicação de penalidade será acompanhada de demonstração da conduta infratora de forma individualizada por sujeito passivo.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 8º A aplicação de penalidade será acompanhada de demonstração da conduta infratora de forma individualizada por sujeito passivo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 9º São consideradas circunstâncias agravantes a prática dolosa de fraude, sonegação ou conluio ou a ocorrência de reincidência, podendo ser majorada a penalidade, observados os limites previstos no § 1º do art. 113-A desta Lei.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 9º São consideradas circunstâncias agravantes a prática dolosa de fraude, sonegação ou conluio ou a ocorrência de reincidência, podendo ser majorada a penalidade, observados os limites previstos no § 1º do art. 113-A desta Lei. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 10. Os percentuais de redução previstos no § 5º deste artigo, na forma das legislações específicas:     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 10. Os percentuais de redução previstos no § 5º deste artigo, na forma das legislações específicas: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – poderão ser majorados, quando verificada a ocorrência das seguintes circunstâncias atenuantes:     (Incluído pela Lei Complementar nº 236, de 2026)
+I – poderão ser majorados, quando verificada a ocorrência das seguintes circunstâncias atenuantes: (Incluído pela Lei Complementar nº 236, de 2026)
 
-a) cumprimento de obrigação acessória relacionada à conduta infringida, na hipótese de lançamento da obrigação principal;     (Incluído pela Lei Complementar nº 236, de 2026)
+a) cumprimento de obrigação acessória relacionada à conduta infringida, na hipótese de lançamento da obrigação principal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-b) readequação às normas tributárias, entre o início do procedimento fiscal e a lavratura do auto de infração, nos termos da legislação específica;       (Incluído pela Lei Complementar nº 236, de 2026)
+b) readequação às normas tributárias, entre o início do procedimento fiscal e a lavratura do auto de infração, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-c) configuração de bons antecedentes fiscais;     (Incluído pela Lei Complementar nº 236, de 2026)
+c) configuração de bons antecedentes fiscais; (Incluído pela Lei Complementar nº 236, de 2026)
 
-d) ausência de prejuízo ao erário, decorrente da infração;      (Incluído pela Lei Complementar nº 236, de 2026)
+d) ausência de prejuízo ao erário, decorrente da infração; (Incluído pela Lei Complementar nº 236, de 2026)
 
-e) existência de erro ou ignorância escusáveis do sujeito passivo, quanto à matéria de fato; ou     (Incluído pela Lei Complementar nº 236, de 2026)
+e) existência de erro ou ignorância escusáveis do sujeito passivo, quanto à matéria de fato; ou (Incluído pela Lei Complementar nº 236, de 2026)
 
-f) pendência de julgamento sobre a matéria tratada no lançamento, em uma das hipóteses previstas pelo art. 927 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil);      (Incluído pela Lei Complementar nº 236, de 2026)
+f) pendência de julgamento sobre a matéria tratada no lançamento, em uma das hipóteses previstas pelo art. 927 da Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil); (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – no caso dos sujeitos passivos que participem de programa de conformidade estabelecido pela legislação tributária, serão de:     (Incluído pela Lei Complementar nº 236, de 2026)
+II – no caso dos sujeitos passivos que participem de programa de conformidade estabelecido pela legislação tributária, serão de: (Incluído pela Lei Complementar nº 236, de 2026)
 
-a) 60% (sessenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário no prazo previsto para apresentação de impugnação administrativa;     (Incluído pela Lei Complementar nº 236, de 2026)
+a) 60% (sessenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário no prazo previsto para apresentação de impugnação administrativa; (Incluído pela Lei Complementar nº 236, de 2026)
 
-b) 50% (cinquenta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário no prazo previsto para apresentação de impugnação administrativa;     (Incluído pela Lei Complementar nº 236, de 2026)
+b) 50% (cinquenta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário no prazo previsto para apresentação de impugnação administrativa; (Incluído pela Lei Complementar nº 236, de 2026)
 
-c) 40% (quarenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário após o prazo referido no inciso I do § 5º deste artigo e antes da sua inscrição em dívida ativa; e    (Incluído pela Lei Complementar nº 236, de 2026)
+c) 40% (quarenta por cento) da penalidade aplicada, se efetuado o pagamento integral do crédito tributário após o prazo referido no inciso I do § 5º deste artigo e antes da sua inscrição em dívida ativa; e (Incluído pela Lei Complementar nº 236, de 2026)
 
-d) 30% (trinta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário após o prazo referido no inciso II do § 5º deste artigo e antes da sua inscrição em dívida ativa.     (Incluído pela Lei Complementar nº 236, de 2026)
+d) 30% (trinta por cento) da penalidade aplicada, se efetuado o parcelamento do crédito tributário após o prazo referido no inciso II do § 5º deste artigo e antes da sua inscrição em dívida ativa. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 11. (VETADO).    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 11. (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -4613,7 +4613,7 @@ O lançamento, privativo da autoridade administrativa, verifica o fato gerador, 
 
 - art. 151 (deste Código)
 - art. 113-A (deste Código)
-- art. 927 (Lei nº 13.105, de 16 de março de 2015)
+- art. 927 (Lei nº 13.105, de 16 de março de 2015)
 
 **Normas citadas ou indicadas (inclusive em notas "Vide"):**
 
@@ -4719,7 +4719,7 @@ O lançamento notificado só pode ser alterado por impugnação, recurso de ofí
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO II — Constituição do Crédito Tributário › SEÇÃO I — Lançamento
 
-Art. 146. A modificação introduzida, de ofício ou em consequência de decisão administrativa ou judicial ou sentença arbitral proferida no âmbito da arbitragem especial tributária e aduaneira, nos critérios jurídicos adotados pela autoridade administrativa no exercício do lançamento, somente pode ser efetivada, em relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução.   (Redação dada pela Lei Complementar nº 236, de 2026)
+Art. 146. A modificação introduzida, de ofício ou em consequência de decisão administrativa ou judicial ou sentença arbitral proferida no âmbito da arbitragem especial tributária e aduaneira, nos critérios jurídicos adotados pela autoridade administrativa no exercício do lançamento, somente pode ser efetivada, em relação a um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução. (Redação dada pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026.
 
@@ -4863,9 +4863,9 @@ Art. 150. O lançamento por homologação, que ocorre quanto aos tributos cuja l
 
 § 4º Se a lei não fixar prazo a homologação, será êle de cinco anos, a contar da ocorrência do fato gerador; expirado êsse prazo sem que a Fazenda Pública se tenha pronunciado, considera-se homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
 
-§ 5º No caso de dolo, fraude ou simulação, o prazo previsto no § 4º deste artigo é contado na forma do inciso I do caput do art. 173 desta Lei.       (Incluído pela Lei Complementar nº 236, de 2026)
+§ 5º No caso de dolo, fraude ou simulação, o prazo previsto no § 4º deste artigo é contado na forma do inciso I do caput do art. 173 desta Lei. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 6º No caso de pagamento parcial do tributo sujeito a lançamento por homologação, o prazo decadencial é contado da ocorrência do fato gerador.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 6º No caso de pagamento parcial do tributo sujeito a lançamento por homologação, o prazo decadencial é contado da ocorrência do fato gerador. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -4902,31 +4902,31 @@ I - moratória;
 
 II - o depósito do seu montante integral;
 
-III – as impugnações, os recursos e a manifestação de inconformidade, nos termos das leis reguladoras do processo tributário administrativo;     (Redação dada pela Lei Complementar nº 236, de 2026)
+III – as impugnações, os recursos e a manifestação de inconformidade, nos termos das leis reguladoras do processo tributário administrativo; (Redação dada pela Lei Complementar nº 236, de 2026)
 
 IV - a concessão de medida liminar em mandado de segurança.
 
-V – a concessão de medida liminar ou de tutela provisória, em outras espécies de ação judicial;       (Redação dada pela Lei Complementar nº 236, de 2026)
+V – a concessão de medida liminar ou de tutela provisória, em outras espécies de ação judicial; (Redação dada pela Lei Complementar nº 236, de 2026)
 
 VI – o parcelamento. (Incluído pela Lcp nº 104, de 2001)
 
-VII – a instituição da arbitragem especial tributária e aduaneira, nos termos da legislação específica;       (Incluído pela Lei Complementar nº 236, de 2026)
+VII – a instituição da arbitragem especial tributária e aduaneira, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VIII – a proposta de transação aceita pela administração, nos termos da legislação específica;      (Incluído pela Lei Complementar nº 236, de 2026)
+VIII – a proposta de transação aceita pela administração, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IX – o acordo decorrente de mediação, até a sua eventual dissolução, nos termos da legislação específica;      (Incluído pela Lei Complementar nº 236, de 2026)
+IX – o acordo decorrente de mediação, até a sua eventual dissolução, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-X – a aceitação, pelo credor, nos termos da regulamentação estabelecida pelos órgãos de cobrança judicial dos créditos tributários, de apólice de seguro garantia ou de carta de fiança bancária oferecidas em execução fiscal, inclusive quando convencionadas por meio de negócio jurídico processual, enquanto estiverem em conformidade com as normas que regem sua aceitação e enquanto não caracterizada hipótese de sinistro.     (Incluído pela Lei Complementar nº 236, de 2026)
+X – a aceitação, pelo credor, nos termos da regulamentação estabelecida pelos órgãos de cobrança judicial dos créditos tributários, de apólice de seguro garantia ou de carta de fiança bancária oferecidas em execução fiscal, inclusive quando convencionadas por meio de negócio jurídico processual, enquanto estiverem em conformidade com as normas que regem sua aceitação e enquanto não caracterizada hipótese de sinistro. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º O disposto neste artigo não dispensa o cumprimento das obrigações assessórios dependentes da obrigação principal cujo crédito seja suspenso, ou dela conseqüentes.    (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º O disposto neste artigo não dispensa o cumprimento das obrigações assessórios dependentes da obrigação principal cujo crédito seja suspenso, ou dela conseqüentes. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º É vedada a exigência de caução ou garantia de depósito para apresentação de impugnações, recursos ou pedidos, nos termos do inciso III do caput deste artigo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º É vedada a exigência de caução ou garantia de depósito para apresentação de impugnações, recursos ou pedidos, nos termos do inciso III do caput deste artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º Estando em curso a execução fiscal do crédito tributário, a suspensão de sua exigibilidade, nos termos do inciso VII do caput deste artigo, estará condicionada:    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º Estando em curso a execução fiscal do crédito tributário, a suspensão de sua exigibilidade, nos termos do inciso VII do caput deste artigo, estará condicionada: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – à prévia suspensão da exigibilidade do crédito tributário na execução fiscal por outra das hipóteses previstas no caput deste artigo; ou    (Incluído pela Lei Complementar nº 236, de 2026)
+I – à prévia suspensão da exigibilidade do crédito tributário na execução fiscal por outra das hipóteses previstas no caput deste artigo; ou (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – ao oferecimento, pelo sujeito passivo, na arbitragem especial tributária e aduaneira, de garantia integral.    (Incluído pela Lei Complementar nº 236, de 2026)
+II – ao oferecimento, pelo sujeito passivo, na arbitragem especial tributária e aduaneira, de garantia integral. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5098,7 +5098,7 @@ Art. 155-A. O parcelamento será concedido na forma e condição estabelecidas e
 
 § 1o Salvo disposição de lei em contrário, o parcelamento do crédito tributário não exclui a incidência de juros e multas. (Incluído pela Lcp nº 104, de 2001)
 
-§ 2o Aplicam-se, subsidiariamente, ao parcelamento as disposições desta Lei, relativas à moratória.  (Incluído pela Lcp nº 104, de 2001)
+§ 2o Aplicam-se, subsidiariamente, ao parcelamento as disposições desta Lei, relativas à moratória. (Incluído pela Lcp nº 104, de 2001)
 
 § 3o Lei específica disporá sobre as condições de parcelamento dos créditos tributários do devedor em recuperação judicial. (Incluído pela Lcp nº 118, de 2005)
 
@@ -5151,11 +5151,11 @@ IX - a decisão administrativa irreformável, assim entendida a definitiva na ó
 
 X - a decisão judicial passada em julgado.
 
-XI – a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.  (Incluído pela Lcp nº 104, de 2001)        (Vide Lei nº 13.259, de 2016)
+XI – a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei. (Incluído pela Lcp nº 104, de 2001) (Vide Lei nº 13.259, de 2016)
 
-XII – a sentença arbitral, proferida no âmbito da arbitragem especial tributária e aduaneira, favorável ao sujeito passivo transitada em julgado;     (Incluído pela Lei Complementar nº 236, de 2026)
+XII – a sentença arbitral, proferida no âmbito da arbitragem especial tributária e aduaneira, favorável ao sujeito passivo transitada em julgado; (Incluído pela Lei Complementar nº 236, de 2026)
 
-XIII – o cumprimento do acordo de mediação.     (Incluído pela Lei Complementar nº 236, de 2026)
+XIII – o cumprimento do acordo de mediação. (Incluído pela Lei Complementar nº 236, de 2026)
 
 Parágrafo único. A lei disporá quanto aos efeitos da extinção total ou parcial do crédito sôbre a ulterior verificação da irregularidade da sua constituição, observado o disposto nos artigos 144 e 149.
 
@@ -5313,7 +5313,7 @@ Art. 161. O crédito não integralmente pago no vencimento é acrescido de juros
 
 § 2º O disposto neste artigo não se aplica na pendência de consulta formulada pelo devedor dentro do prazo legal para pagamento do crédito.
 
-§ 3º A propositura de ação judicial na qual foi concedida medida liminar ou tutela provisória interrompe a incidência da multa de mora, desde a concessão da medida judicial, até 30 (trinta) dias após a data de publicação da decisão judicial que considerar devido o tributo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A propositura de ação judicial na qual foi concedida medida liminar ou tutela provisória interrompe a incidência da multa de mora, desde a concessão da medida judicial, até 30 (trinta) dias após a data de publicação da decisão judicial que considerar devido o tributo. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5492,7 +5492,7 @@ O sujeito passivo tem direito à restituição do tributo pago indevidamente, se
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO III — Pagamento Indevido
 
-Art. 165-A. Os indébitos tributários serão atualizados pelos mesmos índices de atualização dos créditos tributários da União, dos Estados, do Distrito Federal e dos Municípios, conforme o caso.     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 165-A. Os indébitos tributários serão atualizados pelos mesmos índices de atualização dos créditos tributários da União, dos Estados, do Distrito Federal e dos Municípios, conforme o caso. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5584,11 +5584,11 @@ I - nas hipótese dos incisos I e II do art. 165, da data da extinção do créd
 
 II - na hipótese do inciso III do art. 165, da data em que se tornar definitiva a decisão administrativa ou passar em julgado a decisão judicial que tenha reformado, anulado, revogado ou rescindido a decisão condenatória.
 
-§ 1º (VETADO).     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º O disposto no caput deste artigo aplica-se à habilitação do indébito perante a administração tributária.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º O disposto no caput deste artigo aplica-se à habilitação do indébito perante a administração tributária. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º O prazo para habilitação prevista no § 2º deste artigo contar-se-á da certificação do trânsito em julgado.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º O prazo para habilitação prevista no § 2º deste artigo contar-se-á da certificação do trânsito em julgado. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5653,7 +5653,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO IV — Demais Modalidades de Extinção
 
-Art. 170. A lei pode, nas condições e sob as garantias que estipular, ou cuja estipulação em cada caso atribuir à autoridade administrativa, autorizar a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda Pública.       (Vide Decreto nº 7.212, de 2010)
+Art. 170. A lei pode, nas condições e sob as garantias que estipular, ou cuja estipulação em cada caso atribuir à autoridade administrativa, autorizar a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda Pública. (Vide Decreto nº 7.212, de 2010)
 
 Parágrafo único. Sendo vincendo o crédito do sujeito passivo, a lei determinará, para os efeitos dêste artigo, a apuração do seu montante, não podendo, porém, cominar redução maior que a correspondente ao juro de 1% (um por cento) ao mês pelo tempo a decorrer entre a data da compensação e a do vencimento.
 
@@ -5683,7 +5683,7 @@ A lei pode autorizar a compensação de créditos tributários com créditos lí
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO IV — Demais Modalidades de Extinção
 
-Art. 170-A. É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial. (Artigo incluído pela Lcp nº 104, de 2001)
+Art. 170-A. É vedada a compensação mediante o aproveitamento de tributo, objeto de contestação judicial pelo sujeito passivo, antes do trânsito em julgado da respectiva decisão judicial. (Artigo incluído pela Lcp nº 104, de 2001)
 
 #### Interpretação
 
@@ -5738,9 +5738,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO IV — Demais Modalidades de Extinção
 
-Art. 171-A. Lei especial autorizará a arbitragem especial tributária e aduaneira, com vistas a promover a solução de controvérsias e a resolução do contencioso tributário e aduaneiro administrativo e judicial.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 171-A. Lei especial autorizará a arbitragem especial tributária e aduaneira, com vistas a promover a solução de controvérsias e a resolução do contencioso tributário e aduaneiro administrativo e judicial. (Incluído pela Lei Complementar nº 236, de 2026)
 
-Parágrafo único. A sentença arbitral será vinculante e produzirá os mesmos efeitos que a decisão judicial.     (Incluído pela Lei Complementar nº 236, de 2026)
+Parágrafo único. A sentença arbitral será vinculante e produzirá os mesmos efeitos que a decisão judicial. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5768,7 +5768,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO IV — Demais Modalidades de Extinção
 
-Art. 171-B. Lei estabelecerá os critérios e as condições para a mediação de controvérsias tributárias e aduaneiras, a ser exercida por terceiro sem poder decisório, que, escolhido ou aceito pelas partes, as auxiliará e as estimulará na identificação ou na construção de soluções consensuais.  (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 171-B. Lei estabelecerá os critérios e as condições para a mediação de controvérsias tributárias e aduaneiras, a ser exercida por terceiro sem poder decisório, que, escolhido ou aceito pelas partes, as auxiliará e as estimulará na identificação ou na construção de soluções consensuais. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5796,7 +5796,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO IV — Extinção do Crédito Tributário › SEÇÃO IV — Demais Modalidades de Extinção
 
-Art. 171-C. A transação, a mediação e a arbitragem especial tributária e aduaneira não caracterizam renúncia de receita para fins do disposto no art. 14 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).   (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 171-C. A transação, a mediação e a arbitragem especial tributária e aduaneira não caracterizam renúncia de receita para fins do disposto no art. 14 da Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -5820,7 +5820,7 @@ Transação, mediação e arbitragem tributárias não configuram renúncia de r
 
 **Dispositivos citados no texto:**
 
-- art. 14 (Lei Complementar nº 101, de 4 de maio de 2000)
+- art. 14 (Lei Complementar nº 101, de 4 de maio de 2000)
 
 **Normas citadas ou indicadas (inclusive em notas "Vide"):**
 
@@ -5908,31 +5908,31 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
 
-§ 1º A prescrição se interrompe:     (Renumerado pela Lei Complementar nº 236, de 2026)
+§ 1º A prescrição se interrompe: (Renumerado pela Lei Complementar nº 236, de 2026)
 
 I – pelo despacho do juiz que ordenar a citação em execução fiscal; (Redação dada pela Lcp nº 118, de 2005)
 
-II – pelo protesto extrajudicial da certidão de dívida ativa ou pelo protesto judicial;    (Redação dada pela Lei Complementar nº 236, de 2026)
+II – pelo protesto extrajudicial da certidão de dívida ativa ou pelo protesto judicial; (Redação dada pela Lei Complementar nº 236, de 2026)
 
 III - por qualquer ato judicial que constitua em mora o devedor;
 
 IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
 
-V – pela instauração do procedimento de mediação, nos termos da legislação específica;   (Incluído pela Lei Complementar nº 236, de 2026)
+V – pela instauração do procedimento de mediação, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VI – pela instituição da arbitragem especial tributária e aduaneira, retroagindo à data do requerimento de submissão da controvérsia à arbitragem;    (Incluído pela Lei Complementar nº 236, de 2026)
+VI – pela instituição da arbitragem especial tributária e aduaneira, retroagindo à data do requerimento de submissão da controvérsia à arbitragem; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VII – pela sentença de extinção da execução fiscal nos casos de não localização do executado ou de bens passíveis de constrição, desde que a prescrição intercorrente ainda não se tenha iniciado;    (Incluído pela Lei Complementar nº 236, de 2026)
+VII – pela sentença de extinção da execução fiscal nos casos de não localização do executado ou de bens passíveis de constrição, desde que a prescrição intercorrente ainda não se tenha iniciado; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VIII – pela informação do crédito na falência ou liquidação extrajudicial do sujeito passivo, e ficará o prazo suspenso até o encerramento do processo, nos termos da legislação específica;     (Incluído pela Lei Complementar nº 236, de 2026)
+VIII – pela informação do crédito na falência ou liquidação extrajudicial do sujeito passivo, e ficará o prazo suspenso até o encerramento do processo, nos termos da legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IX – pelo ato inicial da execução fiscal extrajudicial, nos termos da legislação específica.     (Incluído pela Lei Complementar nº 236, de 2026)
+IX – pelo ato inicial da execução fiscal extrajudicial, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º (VETADO).    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º A prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo judicial ou extrajudicial para a interromper.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo judicial ou extrajudicial para a interromper. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 4º (VETADO).   (Incluído pela Lei Complementar nº 236, de 2026)
+§ 4º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** renumeração — Lei Complementar nº 236, de 2026; redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -6343,7 +6343,7 @@ Art. 186. O crédito tributário prefere a qualquer outro, seja qual for sua nat
 
 Parágrafo único. Na falência: (Incluído pela Lcp nº 118, de 2005)
 
-I – o crédito tributário não prefere aos créditos extraconcursais ou às importâncias passíveis de restituição, nos termos da lei     falimentar, nem aos créditos com garantia real, no limite do valor do bem gravado; (Incluído pela Lcp nº 118, de 2005)
+I – o crédito tributário não prefere aos créditos extraconcursais ou às importâncias passíveis de restituição, nos termos da lei falimentar, nem aos créditos com garantia real, no limite do valor do bem gravado; (Incluído pela Lcp nº 118, de 2005)
 
 II – a lei poderá estabelecer limites e condições para a preferência dos créditos decorrentes da legislação do trabalho; e (Incluído pela Lcp nº 118, de 2005)
 
@@ -6375,15 +6375,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO III — Crédito Tributário › CAPÍTULO VI — Garantias e Privilégios do Crédito Tributário › SEÇÃO II — Preferências
 
-Art. 187. A cobrança judicial do crédito tributário não é sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento. (Redação dada pela Lcp nº 118, de 2005)     (Vide ADPF 357)
+Art. 187. A cobrança judicial do crédito tributário não é sujeita a concurso de credores ou habilitação em falência, recuperação judicial, concordata, inventário ou arrolamento. (Redação dada pela Lcp nº 118, de 2005) (Vide ADPF 357)
 
-Parágrafo único. O concurso de preferência sòmente se verifica entre pessoas jurídicas de direito público, na seguinte ordem:       (Vide ADPF 357)
+Parágrafo único. O concurso de preferência sòmente se verifica entre pessoas jurídicas de direito público, na seguinte ordem: (Vide ADPF 357)
 
-I - União;      (Vide ADPF 357)
+I - União; (Vide ADPF 357)
 
-II - Estados, Distrito Federal e Territórios, conjuntamente e pró rata;       (Vide ADPF 357)
+II - Estados, Distrito Federal e Territórios, conjuntamente e pró rata; (Vide ADPF 357)
 
-III - Municípios, conjuntamente e pró rata.  (Vide ADPF 357)
+III - Municípios, conjuntamente e pró rata. (Vide ADPF 357)
 
 #### Interpretação
 
@@ -6613,25 +6613,25 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 194. A legislação tributária, observado o disposto nesta Lei, regulará, em caráter geral, ou especificamente em função da natureza do tributo de que se tratar, a competência e os poderes das autoridades administrativas em matéria de fiscalização da sua aplicação.
 
-§ 1º A legislação a que se refere êste artigo aplica-se às pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade tributária ou de isenção de caráter pessoal.      (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º A legislação a que se refere êste artigo aplica-se às pessoas naturais ou jurídicas, contribuintes ou não, inclusive às que gozem de imunidade tributária ou de isenção de caráter pessoal. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º A administração tributária deverá priorizar e disponibilizar métodos preventivos para possibilitar ao sujeito passivo autorregularizar o pagamento dos tributos e das obrigações acessórias antes da lavratura do auto de infração, nos termos da legislação específica.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º A administração tributária deverá priorizar e disponibilizar métodos preventivos para possibilitar ao sujeito passivo autorregularizar o pagamento dos tributos e das obrigações acessórias antes da lavratura do auto de infração, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º A administração tributária estabelecerá programas de conformidade e outras medidas com vistas à prevenção de conflitos, que deverão assegurar o diálogo e a plena compreensão objetiva e subjetiva de divergências ou de disputas acerca da interpretação ou da aplicação da legislação tributária e aduaneira, nos termos da legislação específica, com base nos seguintes princípios:     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A administração tributária estabelecerá programas de conformidade e outras medidas com vistas à prevenção de conflitos, que deverão assegurar o diálogo e a plena compreensão objetiva e subjetiva de divergências ou de disputas acerca da interpretação ou da aplicação da legislação tributária e aduaneira, nos termos da legislação específica, com base nos seguintes princípios: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – voluntariedade de ingresso e de saída;      (Incluído pela Lei Complementar nº 236, de 2026)
+I – voluntariedade de ingresso e de saída; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – boa-fé e construção de uma relação de confiança mútua;     (Incluído pela Lei Complementar nº 236, de 2026)
+II – boa-fé e construção de uma relação de confiança mútua; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – diálogo e cooperação;      (Incluído pela Lei Complementar nº 236, de 2026)
+III – diálogo e cooperação; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – transparência, previsibilidade e segurança jurídica;      (Incluído pela Lei Complementar nº 236, de 2026)
+IV – transparência, previsibilidade e segurança jurídica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-V – busca da conformidade tributária;      (Incluído pela Lei Complementar nº 236, de 2026)
+V – busca da conformidade tributária; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VI – prevenção de litígios e de imposição de penalidades;      (Incluído pela Lei Complementar nº 236, de 2026)
+VI – prevenção de litígios e de imposição de penalidades; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VII – proporcionalidade e imparcialidade.     (Incluído pela Lei Complementar nº 236, de 2026)
+VII – proporcionalidade e imparcialidade. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -6661,19 +6661,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO I — Fiscalização
 
-Art. 194-A. O trânsito em julgado da decisão definitiva do Supremo Tribunal Federal e do Superior Tribunal de Justiça com efeito vinculante no âmbito judicial vinculará também a administração tributária.     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 194-A. O trânsito em julgado da decisão definitiva do Supremo Tribunal Federal e do Superior Tribunal de Justiça com efeito vinculante no âmbito judicial vinculará também a administração tributária. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º No prazo máximo de 90 (noventa) dias úteis, contado do trânsito em julgado da decisão, a Fazenda Pública, por parecer jurídico devidamente fundamentado, dará publicidade ao fato, inclusive quanto:     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º No prazo máximo de 90 (noventa) dias úteis, contado do trânsito em julgado da decisão, a Fazenda Pública, por parecer jurídico devidamente fundamentado, dará publicidade ao fato, inclusive quanto: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – à aplicação da orientação adotada pelo Supremo Tribunal Federal ou Superior Tribunal de Justiça em relação aos seus créditos tributários e aduaneiros;       (Incluído pela Lei Complementar nº 236, de 2026)
+I – à aplicação da orientação adotada pelo Supremo Tribunal Federal ou Superior Tribunal de Justiça em relação aos seus créditos tributários e aduaneiros; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – aos temas em que a Fazenda Pública, tanto na esfera administrativa quanto na judicial, deixará de impugnar pleitos do sujeito passivo;      (Incluído pela Lei Complementar nº 236, de 2026)
+II – aos temas em que a Fazenda Pública, tanto na esfera administrativa quanto na judicial, deixará de impugnar pleitos do sujeito passivo; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – aos temas em que Fazenda Pública, nas esferas administrativa e judicial, desistirá de impugnações ou recursos já formulados.      (Incluído pela Lei Complementar nº 236, de 2026)
+III – aos temas em que Fazenda Pública, nas esferas administrativa e judicial, desistirá de impugnações ou recursos já formulados. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º A fim de observar precedentes formados em tribunais superiores em sentido favorável ao sujeito passivo, os órgãos de representação judicial das Fazendas Públicas poderão estabelecer outras hipóteses de impedimento à inscrição do crédito por eles realizada na respectiva dívida ativa.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º A fim de observar precedentes formados em tribunais superiores em sentido favorável ao sujeito passivo, os órgãos de representação judicial das Fazendas Públicas poderão estabelecer outras hipóteses de impedimento à inscrição do crédito por eles realizada na respectiva dívida ativa. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º Sem prejuízo do disposto no § 2º deste artigo, os órgãos de administração tributária e os órgãos de representação judicial das Fazendas Públicas desenvolverão instrumentos de gestão para orientação periódica de seus membros e servidores acerca de precedentes, judiciais e administrativos, e da legislação tributária e aduaneira, tais como o aprimoramento e a ampliação dos sistemas internos de controle de informações, em especial com relação aos dados que refletem o contencioso tributário e aduaneiro e a efetividade das medidas adotadas para a arrecadação.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º Sem prejuízo do disposto no § 2º deste artigo, os órgãos de administração tributária e os órgãos de representação judicial das Fazendas Públicas desenvolverão instrumentos de gestão para orientação periódica de seus membros e servidores acerca de precedentes, judiciais e administrativos, e da legislação tributária e aduaneira, tais como o aprimoramento e a ampliação dos sistemas internos de controle de informações, em especial com relação aos dados que refletem o contencioso tributário e aduaneiro e a efetividade das medidas adotadas para a arrecadação. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -6732,23 +6732,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO I — Fiscalização
 
-Art. 196. A autoridade administrativa que proceder ou presidir quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o procedimento, na forma da legislação aplicável.   (Redação dada pela Lei Complementar nº 236, de 2026)
+Art. 196. A autoridade administrativa que proceder ou presidir quaisquer diligências de fiscalização lavrará os termos necessários para que se documente o procedimento, na forma da legislação aplicável. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 1º Os têrmos a que se refere êste artigo serão lavrados, sempre que possível, em um dos livros fiscais exibidos; quando lavrados em separado dêles se entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade a que se refere êste artigo.   (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º Os têrmos a que se refere êste artigo serão lavrados, sempre que possível, em um dos livros fiscais exibidos; quando lavrados em separado dêles se entregará, à pessoa sujeita à fiscalização, cópia autenticada pela autoridade a que se refere êste artigo. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º O procedimento de fiscalização será precedido de emissão de documento que preveja o início da fiscalização, o qual deverá conter as seguintes informações:      (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º O procedimento de fiscalização será precedido de emissão de documento que preveja o início da fiscalização, o qual deverá conter as seguintes informações: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – a identificação da autoridade responsável por sua emissão, das autoridades encarregadas pela fiscalização, do contribuinte e de seus estabelecimentos objeto da fiscalização;     (Incluído pela Lei Complementar nº 236, de 2026)
+I – a identificação da autoridade responsável por sua emissão, das autoridades encarregadas pela fiscalização, do contribuinte e de seus estabelecimentos objeto da fiscalização; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – os trabalhos a serem desenvolvidos pela autoridade fazendária, com a identificação do objeto da fiscalização, o período a ser examinado e o rol de documentos fiscais do contribuinte que serão necessários;     (Incluído pela Lei Complementar nº 236, de 2026)
+II – os trabalhos a serem desenvolvidos pela autoridade fazendária, com a identificação do objeto da fiscalização, o período a ser examinado e o rol de documentos fiscais do contribuinte que serão necessários; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – a forma de confirmação de sua autenticidade pelo contribuinte; e    (Incluído pela Lei Complementar nº 236, de 2026)
+III – a forma de confirmação de sua autenticidade pelo contribuinte; e (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – o prazo de duração do procedimento.      (Incluído pela Lei Complementar nº 236, de 2026)
+IV – o prazo de duração do procedimento. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º A realização de procedimento de fiscalização em estabelecimento ou domicílio do contribuinte deverá ser feita mediante a entrega de uma das vias do documento a que se refere o § 2º deste artigo ao contribuinte, seu representante legal ou preposto.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A realização de procedimento de fiscalização em estabelecimento ou domicílio do contribuinte deverá ser feita mediante a entrega de uma das vias do documento a que se refere o § 2º deste artigo ao contribuinte, seu representante legal ou preposto. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 4º Na hipótese de que trata o § 3º deste artigo, o acompanhamento de força policial será condicionado ao justo receio de resistência ao ato fiscalizatório, que deverá ser reduzido a termo e constará do documento a ser entregue ao contribuinte fiscalizado.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 4º Na hipótese de que trata o § 3º deste artigo, o acompanhamento de força policial será condicionado ao justo receio de resistência ao ato fiscalizatório, que deverá ser reduzido a termo e constará do documento a ser entregue ao contribuinte fiscalizado. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -6824,9 +6824,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 198. Sem prejuízo do disposto na legislação criminal, é vedada a divulgação, por parte da Fazenda Pública ou de seus servidores, de informação obtida em razão do ofício sobre a situação econômica ou financeira do sujeito passivo ou de terceiros e sobre a natureza e o estado de seus negócios ou atividades. (Redação dada pela Lcp nº 104, de 2001)
 
-§ 1o Excetuam-se do disposto neste artigo, além dos casos previstos no art. 199, os seguintes:   (Redação dada pela Lcp nº 104, de 2001)
+§ 1o Excetuam-se do disposto neste artigo, além dos casos previstos no art. 199, os seguintes: (Redação dada pela Lcp nº 104, de 2001)
 
-I – requisição de autoridade judiciária no interesse da justiça;  (Incluído pela Lcp nº 104, de 2001)
+I – requisição de autoridade judiciária no interesse da justiça; (Incluído pela Lcp nº 104, de 2001)
 
 II – solicitações de autoridade administrativa no interesse da Administração Pública, desde que seja comprovada a instauração regular de processo administrativo, no órgão ou na entidade respectiva, com o objetivo de investigar o sujeito passivo a que se refere a informação, por prática de infração administrativa. (Incluído pela Lcp nº 104, de 2001)
 
@@ -6838,13 +6838,13 @@ I – representações fiscais para fins penais; (Incluído pela Lcp nº 104, de
 
 II – inscrições na Dívida Ativa da Fazenda Pública; (Incluído pela Lcp nº 104, de 2001)
 
-III - parcelamento ou moratória; e     (Redação dada pela Lei Complementar nº 187, de 2021)
+III - parcelamento ou moratória; e (Redação dada pela Lei Complementar nº 187, de 2021)
 
-IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica.       (Incluído pela Lei Complementar nº 187, de 2021)
+IV - incentivo, renúncia, benefício ou imunidade de natureza tributária cujo beneficiário seja pessoa jurídica. (Incluído pela Lei Complementar nº 187, de 2021)
 
 § 4º Sem prejuízo do disposto no art. 197, a administração tributária poderá requisitar informações cadastrais e patrimoniais de sujeito passivo de crédito tributário a órgãos ou entidades, públicos ou privados, que, inclusive por obrigação legal, operem cadastros e registros ou controlem operações de bens e direitos. (Incluído pela Lei Complementar nº 208, de 2024)
 
-§ 5º Independentemente da requisição prevista no § 4º deste artigo, os órgãos e as entidades da administração pública direta e indireta de qualquer dos Poderes colaborarão com a administração tributária visando ao compartilhamento de bases de dados de natureza cadastral e patrimonial de seus administrados e supervisionados.     (Incluído pela Lei Complementar nº 208, de 2024)
+§ 5º Independentemente da requisição prevista no § 4º deste artigo, os órgãos e as entidades da administração pública direta e indireta de qualquer dos Poderes colaborarão com a administração tributária visando ao compartilhamento de bases de dados de natureza cadastral e patrimonial de seus administrados e supervisionados. (Incluído pela Lei Complementar nº 208, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 187, de 2021; inclusão — Lei Complementar nº 187, de 2021; inclusão — Lei Complementar nº 208, de 2024.
 
@@ -6905,7 +6905,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO I — Fiscalização
 
-Art. 199-A. As Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios poderão estabelecer entre si, mediante convênio, o compartilhamento das atividades de fiscalização, lançamento e cobrança de tributos e de sua estrutura destinada ao processo administrativo fiscal, com vistas à otimização do exercício de sua capacidade tributária.     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 199-A. As Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios poderão estabelecer entre si, mediante convênio, o compartilhamento das atividades de fiscalização, lançamento e cobrança de tributos e de sua estrutura destinada ao processo administrativo fiscal, com vistas à otimização do exercício de sua capacidade tributária. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -6964,9 +6964,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 201. Constitui dívida ativa tributária a proveniente de crédito dessa natureza, regularmente inscrita na repartição administrativa competente, depois de esgotado o prazo fixado, para pagamento, pela lei ou por decisão final proferida em processo regular.
 
-§ 1º A fluência de juros de mora não exclui, para os efeitos deste artigo, a liquidez do crédito.     (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º A fluência de juros de mora não exclui, para os efeitos deste artigo, a liquidez do crédito. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º O controle de legalidade da inscrição em dívida ativa consiste na análise, pela Fazenda Pública, dos requisitos de certeza, liquidez e exigibilidade, essenciais à formação do título executivo, e constitui direito do contribuinte e dever da Fazenda Pública credora, que poderá realizá-lo a qualquer tempo, de ofício ou a requerimento do interessado.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º O controle de legalidade da inscrição em dívida ativa consiste na análise, pela Fazenda Pública, dos requisitos de certeza, liquidez e exigibilidade, essenciais à formação do título executivo, e constitui direito do contribuinte e dever da Fazenda Pública credora, que poderá realizá-lo a qualquer tempo, de ofício ou a requerimento do interessado. (Incluído pela Lei Complementar nº 236, de 2026)
 
 § 3º O órgão responsável pela constituição do crédito deve encaminhar todas as informações necessárias para a inscrição em dívida ativa e a cobrança, administrativa ou judicial, dos créditos de natureza tributária ou não tributária, definitivamente constituídos ou reconhecidos pelo sujeito passivo, no prazo máximo de 90 (noventa) dias úteis a partir de sua exigibilidade, podendo ser ampliado a até 120 (cento e vinte) dias úteis para contribuintes de maior índice de conformidade, e devendo ser reduzido para 60 (sessenta) dias úteis para aqueles com histórico de baixo recolhimento espontâneo, salvo disposição de lei em sentido contrário. (Incluído pela Lei Complementar nº 236, de 2026)
 
@@ -7000,7 +7000,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 202. O termo de inscrição da dívida ativa, autenticado pela autoridade competente, indicará obrigatoriamente:
 
-I – o nome do devedor e dos corresponsáveis, bem como, sempre que possível, o domicílio ou a residência daquele e destes;    (Redação dada pela Lei Complementar nº 236, de 2026)
+I – o nome do devedor e dos corresponsáveis, bem como, sempre que possível, o domicílio ou a residência daquele e destes; (Redação dada pela Lei Complementar nº 236, de 2026)
 
 II - a quantia devida e a maneira de calcular os juros de mora acrescidos;
 
@@ -7010,9 +7010,9 @@ IV - a data em que foi inscrita;
 
 V - sendo caso, o número do processo administrativo de que se originar o crédito.
 
-§ 1º A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição.     (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º A certidão conterá, além dos requisitos deste artigo, a indicação do livro e da folha da inscrição. (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º (VETADO).      (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7104,9 +7104,9 @@ Art. 205. A lei poderá exigir que a prova da quitação de determinado tributo,
 
 Parágrafo único. A certidão negativa será sempre expedida nos termos em que tenha sido requerida e será fornecida dentro de 10 (dez) dias da data da entrada do requerimento na repartição.
 
-§ 1º (VETADO).      (Redação dada pela Lei Complementar nº 236, de 2026)
+§ 1º (VETADO). (Redação dada pela Lei Complementar nº 236, de 2026)
 
-§ 2º (VETADO).     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei Complementar nº 236, de 2026; inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7216,11 +7216,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-A. Este Capítulo estabelece normas gerais para regular o processo administrativo fiscal no âmbito das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, com vistas, em especial, a assegurar aos litigantes o devido processo legal, o contraditório, a ampla defesa e o duplo grau de jurisdição.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-A. Este Capítulo estabelece normas gerais para regular o processo administrativo fiscal no âmbito das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios, com vistas, em especial, a assegurar aos litigantes o devido processo legal, o contraditório, a ampla defesa e o duplo grau de jurisdição. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º No contencioso administrativo fiscal, os entes federativos com mais de 100.000 (cem mil) habitantes residentes deverão assegurar aos contribuintes o duplo grau de jurisdição, nos termos da legislação específica.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º No contencioso administrativo fiscal, os entes federativos com mais de 100.000 (cem mil) habitantes residentes deverão assegurar aos contribuintes o duplo grau de jurisdição, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º Para os fins da definição da população residente referida no § 1º deste artigo, será utilizado o último censo demográfico divulgado pelo IBGE.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º Para os fins da definição da população residente referida no § 1º deste artigo, será utilizado o último censo demográfico divulgado pelo IBGE. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7249,21 +7249,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-B. O auto de infração será lavrado com base nos elementos de prova disponíveis e conterá obrigatoriamente:     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-B. O auto de infração será lavrado com base nos elementos de prova disponíveis e conterá obrigatoriamente: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – a identificação do autuado;      (Incluído pela Lei Complementar nº 236, de 2026)
+I – a identificação do autuado; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – a descrição clara dos fatos;      (Incluído pela Lei Complementar nº 236, de 2026)
+II – a descrição clara dos fatos; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – o dispositivo legal infringido e a penalidade aplicada;      (Incluído pela Lei Complementar nº 236, de 2026)
+III – o dispositivo legal infringido e a penalidade aplicada; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – a subsunção dos fatos descritos ao dispositivo legal infringido;      (Incluído pela Lei Complementar nº 236, de 2026)
+IV – a subsunção dos fatos descritos ao dispositivo legal infringido; (Incluído pela Lei Complementar nº 236, de 2026)
 
-V – a determinação da exigência fiscal e a intimação para cumpri-la ou impugná-la no prazo legal;     (Incluído pela Lei Complementar nº 236, de 2026)
+V – a determinação da exigência fiscal e a intimação para cumpri-la ou impugná-la no prazo legal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VI – o local, a data e a hora da lavratura;     (Incluído pela Lei Complementar nº 236, de 2026)
+VI – o local, a data e a hora da lavratura; (Incluído pela Lei Complementar nº 236, de 2026)
 
-VII – a assinatura do autuante, a indicação de seu cargo ou função e o número de matrícula.     (Incluído pela Lei Complementar nº 236, de 2026)
+VII – a assinatura do autuante, a indicação de seu cargo ou função e o número de matrícula. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7292,19 +7292,19 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-C. O julgamento dos processos de exigência de tributos e penalidades previstos na legislação tributária e de outros que lhes são correlatos observará o seguinte:    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-C. O julgamento dos processos de exigência de tributos e penalidades previstos na legislação tributária e de outros que lhes são correlatos observará o seguinte: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – a apresentação tempestiva de impugnação terá o efeito de instaurar o contencioso administrativo fiscal, suspendendo a exigibilidade do crédito tributário impugnado imediatamente, na forma do inciso III do caput do art. 151 desta Lei;     (Incluído pela Lei Complementar nº 236, de 2026)
+I – a apresentação tempestiva de impugnação terá o efeito de instaurar o contencioso administrativo fiscal, suspendendo a exigibilidade do crédito tributário impugnado imediatamente, na forma do inciso III do caput do art. 151 desta Lei; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – os julgamentos de primeira e segunda instâncias serão realizados conforme legislação específica;     (Incluído pela Lei Complementar nº 236, de 2026)
+II – os julgamentos de primeira e segunda instâncias serão realizados conforme legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – da decisão de primeira instância caberão recurso voluntário e remessa necessária, conforme legislação específica;     (Incluído pela Lei Complementar nº 236, de 2026)
+III – da decisão de primeira instância caberão recurso voluntário e remessa necessária, conforme legislação específica; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – quando houver instância superior, caberá recurso especial contra decisão de segunda instância que conferir à legislação tributária e aduaneira interpretação diversa daquela que lhe tenha atribuído outro colegiado do mesmo tribunal administrativo, conforme legislação específica.    (Incluído pela Lei Complementar nº 236, de 2026)
+IV – quando houver instância superior, caberá recurso especial contra decisão de segunda instância que conferir à legislação tributária e aduaneira interpretação diversa daquela que lhe tenha atribuído outro colegiado do mesmo tribunal administrativo, conforme legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º Caberão embargos de declaração, que terão o efeito de interromper o prazo para a interposição de outros recursos, por qualquer das partes, contra despacho com conteúdo decisório, decisão ou acórdão para esclarecer obscuridade, suprir omissão ou eliminar contradição ou erro material, nos termos da legislação específica.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º Caberão embargos de declaração, que terão o efeito de interromper o prazo para a interposição de outros recursos, por qualquer das partes, contra despacho com conteúdo decisório, decisão ou acórdão para esclarecer obscuridade, suprir omissão ou eliminar contradição ou erro material, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º Não caberá a interposição de recurso hierárquico a Secretário de Estado, a Ministro de Estado ou a qualquer outro integrante do Poder Executivo em face de decisão definitiva favorável ao sujeito passivo proferida em processo administrativo fiscal.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º Não caberá a interposição de recurso hierárquico a Secretário de Estado, a Ministro de Estado ou a qualquer outro integrante do Poder Executivo em face de decisão definitiva favorável ao sujeito passivo proferida em processo administrativo fiscal. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7336,39 +7336,39 @@ A impugnação tempestiva instaura o contencioso e suspende a exigibilidade; da 
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-D. Será garantido às partes o direito aos seguintes recursos, defesas e incidentes, além de outros previstos na legislação específica:     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-D. Será garantido às partes o direito aos seguintes recursos, defesas e incidentes, além de outros previstos na legislação específica: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – apresentação de impugnação, em 20 (vinte) dias contados da ciência da lavratura do auto de infração;    (Incluído pela Lei Complementar nº 236, de 2026)
+I – apresentação de impugnação, em 20 (vinte) dias contados da ciência da lavratura do auto de infração; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – interposição de recurso voluntário, em 20 (vinte) dias contados da ciência da decisão de primeira instância que lhes for desfavorável;     (Incluído pela Lei Complementar nº 236, de 2026)
+II – interposição de recurso voluntário, em 20 (vinte) dias contados da ciência da decisão de primeira instância que lhes for desfavorável; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – interposição de recurso especial, em 20 (vinte) dias contados da ciência da decisão de segunda instância que lhes for desfavorável, nas hipóteses previstas na legislação, quando houver instância superior;     (Incluído pela Lei Complementar nº 236, de 2026)
+III – interposição de recurso especial, em 20 (vinte) dias contados da ciência da decisão de segunda instância que lhes for desfavorável, nas hipóteses previstas na legislação, quando houver instância superior; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – oposição de embargos de declaração, em 5 (cinco) dias contados da ciência do despacho com conteúdo decisório, da decisão ou do acórdão, em caso de obscuridade, omissão, contradição ou erro material.    (Incluído pela Lei Complementar nº 236, de 2026)
+IV – oposição de embargos de declaração, em 5 (cinco) dias contados da ciência do despacho com conteúdo decisório, da decisão ou do acórdão, em caso de obscuridade, omissão, contradição ou erro material. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º As pautas de julgamento de primeira e segunda instâncias e da instância superior, quando houver, deverão ser divulgadas com antecedência mínima de 10 (dez) dias.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º As pautas de julgamento de primeira e segunda instâncias e da instância superior, quando houver, deverão ser divulgadas com antecedência mínima de 10 (dez) dias. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º Os prazos para a apresentação de contrarrazões deverão ser os mesmos previstos nos incisos II, III e IV do caput deste artigo para a interposição dos respectivos recursos.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º Os prazos para a apresentação de contrarrazões deverão ser os mesmos previstos nos incisos II, III e IV do caput deste artigo para a interposição dos respectivos recursos. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º Os prazos serão contados em dias úteis, excluindo-se o dia do início e incluindo-se o do vencimento.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º Os prazos serão contados em dias úteis, excluindo-se o dia do início e incluindo-se o do vencimento. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 4º Os prazos somente se iniciam ou vencem em dia de expediente normal no órgão em que tramite o processo ou deva ser praticado o ato.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 4º Os prazos somente se iniciam ou vencem em dia de expediente normal no órgão em que tramite o processo ou deva ser praticado o ato. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 5º Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 5º Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 6º As partes poderão solicitar a retirada de pauta de processos administrativos fiscais quando o julgamento do recurso estiver previsto para ocorrer no período referido no § 5º deste artigo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 6º As partes poderão solicitar a retirada de pauta de processos administrativos fiscais quando o julgamento do recurso estiver previsto para ocorrer no período referido no § 5º deste artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 7º O contribuinte deverá mencionar os motivos de fato e de direito que amparam seu pedido na primeira oportunidade de manifestação processual perante a Fazenda Pública.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 7º O contribuinte deverá mencionar os motivos de fato e de direito que amparam seu pedido na primeira oportunidade de manifestação processual perante a Fazenda Pública. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 8º As provas documentais deverão ser apresentadas no momento indicado no § 7º deste artigo.     (Incluído pela Lei Complementar nº 236, de 2026)
+§ 8º As provas documentais deverão ser apresentadas no momento indicado no § 7º deste artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 9º A apresentação de novas provas ou de razões de direito poderá ocorrer posteriormente ao momento processual indicado no § 7º deste artigo, desde que:    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 9º A apresentação de novas provas ou de razões de direito poderá ocorrer posteriormente ao momento processual indicado no § 7º deste artigo, desde que: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – fique demonstrada a impossibilidade de sua apresentação oportuna, por motivo de força maior;    (Incluído pela Lei Complementar nº 236, de 2026)
+I – fique demonstrada a impossibilidade de sua apresentação oportuna, por motivo de força maior; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – refiram-se a fato ou a direito superveniente; ou    (Incluído pela Lei Complementar nº 236, de 2026)
+II – refiram-se a fato ou a direito superveniente; ou (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – destinem-se a contrapor fatos ou razões posteriormente trazidos aos autos.     (Incluído pela Lei Complementar nº 236, de 2026)
+III – destinem-se a contrapor fatos ou razões posteriormente trazidos aos autos. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7397,9 +7397,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-E. É dever do sujeito passivo informar se a matéria impugnada no âmbito do processo administrativo fiscal foi submetida à apreciação judicial, devendo ser juntada cópia da petição, acompanhada dos documentos necessários, para que a autoridade administrativa avalie a identidade dos objetos.  (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-E. É dever do sujeito passivo informar se a matéria impugnada no âmbito do processo administrativo fiscal foi submetida à apreciação judicial, devendo ser juntada cópia da petição, acompanhada dos documentos necessários, para que a autoridade administrativa avalie a identidade dos objetos. (Incluído pela Lei Complementar nº 236, de 2026)
 
-Parágrafo único. A propositura de ação judicial pelo sujeito passivo com o mesmo objeto de processo administrativo fiscal importará em renúncia ao poder de recorrer na esfera administrativa e desistência do recurso acaso interposto.   (Incluído pela Lei Complementar nº 236, de 2026)
+Parágrafo único. A propositura de ação judicial pelo sujeito passivo com o mesmo objeto de processo administrativo fiscal importará em renúncia ao poder de recorrer na esfera administrativa e desistência do recurso acaso interposto. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7428,9 +7428,9 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-F. As decisões e os acórdãos deverão indicar com clareza os pressupostos de fato e de direito que os determinaram.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-F. As decisões e os acórdãos deverão indicar com clareza os pressupostos de fato e de direito que os determinaram. (Incluído pela Lei Complementar nº 236, de 2026)
 
-Parágrafo único. As administrações tributárias deverão publicizar as decisões e os acórdãos proferidos no curso do contencioso administrativo, disponibilizando-os para consulta.     (Incluído pela Lei Complementar nº 236, de 2026)
+Parágrafo único. As administrações tributárias deverão publicizar as decisões e os acórdãos proferidos no curso do contencioso administrativo, disponibilizando-os para consulta. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7459,23 +7459,23 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-G. No âmbito do processo administrativo fiscal, têm efeito vinculante:    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-G. No âmbito do processo administrativo fiscal, têm efeito vinculante: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – pronunciamentos do Supremo Tribunal Federal e do Superior Tribunal de Justiça com efeito vinculante no âmbito judicial, inclusive:    (Incluído pela Lei Complementar nº 236, de 2026)
+I – pronunciamentos do Supremo Tribunal Federal e do Superior Tribunal de Justiça com efeito vinculante no âmbito judicial, inclusive: (Incluído pela Lei Complementar nº 236, de 2026)
 
-a) súmulas vinculantes do Supremo Tribunal Federal, na forma do disposto no art. 103-A da Constituição Federal;     (Incluído pela Lei Complementar nº 236, de 2026)
+a) súmulas vinculantes do Supremo Tribunal Federal, na forma do disposto no art. 103-A da Constituição Federal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-b) decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça sob a sistemática da repercussão geral ou dos recursos repetitivos;    (Incluído pela Lei Complementar nº 236, de 2026)
+b) decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça sob a sistemática da repercussão geral ou dos recursos repetitivos; (Incluído pela Lei Complementar nº 236, de 2026)
 
-c) decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal em sede de controle concentrado de constitucionalidade, na forma do disposto no § 2º do art. 102 da Constituição Federal;    (Incluído pela Lei Complementar nº 236, de 2026)
+c) decisões transitadas em julgado proferidas pelo Supremo Tribunal Federal em sede de controle concentrado de constitucionalidade, na forma do disposto no § 2º do art. 102 da Constituição Federal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – resolução do Senado Federal que suspender a execução de lei ou de dispositivo legal, na forma do disposto no inciso X do caput do art. 52 da Constituição Federal;    (Incluído pela Lei Complementar nº 236, de 2026)
+II – resolução do Senado Federal que suspender a execução de lei ou de dispositivo legal, na forma do disposto no inciso X do caput do art. 52 da Constituição Federal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – decisões reiteradas e uniformes dos tribunais administrativos no âmbito dos entes federativos, consubstanciadas em súmulas.    (Incluído pela Lei Complementar nº 236, de 2026)
+III – decisões reiteradas e uniformes dos tribunais administrativos no âmbito dos entes federativos, consubstanciadas em súmulas. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º Não será lavrado auto de infração ou notificação de lançamento, negada impugnação, pedido de restituição ou recurso, nem serão inscritos em dívida ativa os créditos cuja constituição esteja fundada em matéria decidida de modo favorável ao sujeito passivo nos termos deste artigo.  (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º Não será lavrado auto de infração ou notificação de lançamento, negada impugnação, pedido de restituição ou recurso, nem serão inscritos em dívida ativa os créditos cuja constituição esteja fundada em matéria decidida de modo favorável ao sujeito passivo nos termos deste artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º O tribunal administrativo deverá manter banco eletrônico de dados atualizados com informações sobre os fundamentos determinantes da decisão consolidada em súmula, de que trata o inciso III do caput deste artigo, e os dispositivos normativos a ela relacionados, de forma a facilitar a análise de sua aplicação a outros casos concretos.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º O tribunal administrativo deverá manter banco eletrônico de dados atualizados com informações sobre os fundamentos determinantes da decisão consolidada em súmula, de que trata o inciso III do caput deste artigo, e os dispositivos normativos a ela relacionados, de forma a facilitar a análise de sua aplicação a outros casos concretos. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7509,25 +7509,25 @@ Vinculam o processo administrativo os precedentes do STF e STJ com efeito vincul
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-H. A administração deverá anular seus próprios atos quando eivados de vício de legalidade.   (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-H. A administração deverá anular seus próprios atos quando eivados de vício de legalidade. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º São nulos:    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º São nulos: (Incluído pela Lei Complementar nº 236, de 2026)
 
-I – os atos e os termos lavrados por autoridade, órgão ou servidor incompetente;    (Incluído pela Lei Complementar nº 236, de 2026)
+I – os atos e os termos lavrados por autoridade, órgão ou servidor incompetente; (Incluído pela Lei Complementar nº 236, de 2026)
 
-II – (VETADO);    (Incluído pela Lei Complementar nº 236, de 2026)
+II – (VETADO); (Incluído pela Lei Complementar nº 236, de 2026)
 
-III – os lançamentos sem fundamentação legal;    (Incluído pela Lei Complementar nº 236, de 2026)
+III – os lançamentos sem fundamentação legal; (Incluído pela Lei Complementar nº 236, de 2026)
 
-IV – (VETADO).     (Incluído pela Lei Complementar nº 236, de 2026)
+IV – (VETADO). (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento do administrado ou da Fazenda Pública supre a falta ou a irregularidade presente no ato de comunicação.   (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento do administrado ou da Fazenda Pública supre a falta ou a irregularidade presente no ato de comunicação. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 3º A nulidade de qualquer ato somente prejudicará os atos posteriores que dele diretamente dependam ou sejam consequência.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 3º A nulidade de qualquer ato somente prejudicará os atos posteriores que dele diretamente dependam ou sejam consequência. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 4º Ao declarar a nulidade, a autoridade indicará os atos por ela atingidos, ordenando as providências necessárias ao prosseguimento ou à solução do processo.    (Incluído pela Lei Complementar nº 236, de 2026)
+§ 4º Ao declarar a nulidade, a autoridade indicará os atos por ela atingidos, ordenando as providências necessárias ao prosseguimento ou à solução do processo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 5º Quando puder decidir o mérito a favor do sujeito passivo a quem aproveitaria a declaração de nulidade, a autoridade julgadora não a pronunciará nem mandará repetir o ato ou suprir-lhe a falta.   (Incluído pela Lei Complementar nº 236, de 2026)
+§ 5º Quando puder decidir o mérito a favor do sujeito passivo a quem aproveitaria a declaração de nulidade, a autoridade julgadora não a pronunciará nem mandará repetir o ato ou suprir-lhe a falta. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7556,7 +7556,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-I. O trâmite e o julgamento do processo administrativo fiscal poderão ser diferenciados em função do valor do crédito tributário discutido, do indébito pleiteado pelo sujeito passivo ou do porte da pessoa jurídica, nos termos da legislação específica.   (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-I. O trâmite e o julgamento do processo administrativo fiscal poderão ser diferenciados em função do valor do crédito tributário discutido, do indébito pleiteado pelo sujeito passivo ou do porte da pessoa jurídica, nos termos da legislação específica. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7585,11 +7585,11 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** LIVRO SEGUNDO — NORMAS GERAIS DE DIREITO TRIBUTÁRIO › TÍTULO IV — Administração Tributária › CAPÍTULO IV — PROCESSO ADMINISTRATIVO FISCAL
 
-Art. 208-J. A tramitação dos processos administrativos fiscais que versem sobre uma mesma questão jurídica será sobrestada automaticamente quando o Supremo Tribunal Federal ou o Superior Tribunal de Justiça houver determinado a suspensão coletiva de processos judiciais para a resolução da mesma questão jurídica mediante precedente qualificado.    (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 208-J. A tramitação dos processos administrativos fiscais que versem sobre uma mesma questão jurídica será sobrestada automaticamente quando o Supremo Tribunal Federal ou o Superior Tribunal de Justiça houver determinado a suspensão coletiva de processos judiciais para a resolução da mesma questão jurídica mediante precedente qualificado. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 1º Caso o processo administrativo fiscal contenha outras questões jurídicas independentes daquela de que trata o caput, o crédito tributário a elas correspondente poderá ser transferido para autos apartados, que não serão afetados pelo sobrestamento a que se refere este artigo.  (Incluído pela Lei Complementar nº 236, de 2026)
+§ 1º Caso o processo administrativo fiscal contenha outras questões jurídicas independentes daquela de que trata o caput, o crédito tributário a elas correspondente poderá ser transferido para autos apartados, que não serão afetados pelo sobrestamento a que se refere este artigo. (Incluído pela Lei Complementar nº 236, de 2026)
 
-§ 2º O disposto neste artigo não obsta a concessão de medida liminar ou tutela provisória, quando presentes os requisitos previstos na legislação processual civil.   (Incluído pela Lei Complementar nº 236, de 2026)
+§ 2º O disposto neste artigo não obsta a concessão de medida liminar ou tutela provisória, quando presentes os requisitos previstos na legislação processual civil. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7699,7 +7699,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 211-A. O Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a sua legislação tributária e aduaneira para adotar, no mínimo, os critérios previstos no § 5º do art. 142 desta Lei, como forma de implementar moderação sancionatória e dosimetria da penalidade.  (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 211-A. O Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a sua legislação tributária e aduaneira para adotar, no mínimo, os critérios previstos no § 5º do art. 142 desta Lei, como forma de implementar moderação sancionatória e dosimetria da penalidade. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7730,9 +7730,9 @@ Estados, DF e Municípios devem, em 2 anos, ajustar sua legislação para adotar
 
 **Localização:** DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 211-B. A União, o Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a sua legislação tributária e aduaneira para adotar, no mínimo, os critérios previstos nos arts. 208-A a 208-J desta Lei, como forma de implementar o devido processo legal, a ampla defesa, o duplo grau de jurisdição e o contraditório no âmbito do processo administrativo fiscal.     (Incluído pela Lei Complementar nº 236, de 2026)
+Art. 211-B. A União, o Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a sua legislação tributária e aduaneira para adotar, no mínimo, os critérios previstos nos arts. 208-A a 208-J desta Lei, como forma de implementar o devido processo legal, a ampla defesa, o duplo grau de jurisdição e o contraditório no âmbito do processo administrativo fiscal. (Incluído pela Lei Complementar nº 236, de 2026)
 
-Parágrafo único. A não implementação das disposições constantes do caput deste artigo acarretará a aplicação do disposto nos arts. 208-A a 208-J desta Lei, até que sobrevenha legislação específica, a qual deverá adotar, no mínimo, os parâmetros explicitados nos referidos artigos.  (Incluído pela Lei Complementar nº 236, de 2026)
+Parágrafo único. A não implementação das disposições constantes do caput deste artigo acarretará a aplicação do disposto nos arts. 208-A a 208-J desta Lei, até que sobrevenha legislação específica, a qual deverá adotar, no mínimo, os parâmetros explicitados nos referidos artigos. (Incluído pela Lei Complementar nº 236, de 2026)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei Complementar nº 236, de 2026.
 
@@ -7912,7 +7912,7 @@ Art. 217. As disposições desta Lei, notadamente as dos arts 17, 74, § 2º e 7
 
 I - da "contribuição sindical", denominação que passa a ter o imposto sindical de que tratam os arts 578 e seguintes, da Consolidação das Leis do Trabalho, sem prejuízo do disposto no art. 16 da Lei 4.589, de 11 de dezembro de 1964; (Incluído pelo Decreto-lei nº 27, de 1966)
 
-II - das denominadas "quotas de previdência" a que aludem os arts 71 e 74 da Lei 3.807, de 26 de agosto de 1960 com as alterações determinadas pelo art. 34 da Lei 4.863, de 29 de novembro de 1965, que integram a contribuição da União para a previdência social, de que trata o art. 157, item XVI, da Constituição Federal;  (Incluído pelo Decreto-lei nº 27, de 1966)    (Vide Ato Complementar nº 27, de 1966)
+II - das denominadas "quotas de previdência" a que aludem os arts 71 e 74 da Lei 3.807, de 26 de agosto de 1960 com as alterações determinadas pelo art. 34 da Lei 4.863, de 29 de novembro de 1965, que integram a contribuição da União para a previdência social, de que trata o art. 157, item XVI, da Constituição Federal; (Incluído pelo Decreto-lei nº 27, de 1966) (Vide Ato Complementar nº 27, de 1966)
 
 III - da contribuição destinada a constituir o "Fundo de Assistência" e "Previdência do Trabalhador Rural", de que trata o art. 158 da Lei 4.214, de 2 de março de 1963; (Incluído pelo Decreto-lei nº 27, de 1966)
 
