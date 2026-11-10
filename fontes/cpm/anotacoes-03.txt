@@ -1,0 +1,239 @@
+@CPM 95
+I: Se o livramento chega ao fim sem revogação, a pena é extinta. Enquanto pender processo por infração cometida durante o livramento, o juiz não declara a extinção.
+P: Extinção da pena || Espera pelo processo pendente
+K: livramento condicional; extinção da pena
+
+@CPM 96
+I: O livramento condicional não se aplica a crimes cometidos em tempo de guerra.
+P: Vedação em tempo de guerra
+K: livramento condicional; tempo de guerra
+
+@CPM 97
+I: Em tempo de paz, nos crimes contra a segurança externa, revolta, motim, aliciação e incitamento e violência contra superior ou militar de serviço, o livramento exige dois terços da pena, além dos demais requisitos do art. 89.
+P: Fração de 2/3 em crimes graves contra a disciplina
+K: livramento condicional; motim; revolta
+
+@CPM 98
+I: As penas acessórias do CPM são: perda de posto e patente, indignidade e incompatibilidade com o oficialato, exclusão das Forças Armadas, perda e inabilitação para função pública, incapacidade para o poder familiar, tutela ou curatela (quando necessária para proteger o filho ou tutelado) e suspensão dos direitos políticos. A função em empresa pública, autarquia e sociedade de economia mista equipara-se à função pública.
+P: Rol de penas acessórias || Função pública equiparada
+K: penas acessórias; perda do posto; exclusão; direitos políticos
+
+@CPM 99
+I: A perda de posto e patente decorre de condenação a pena privativa superior a 2 anos, por crime comum ou militar, e inclui a perda das condecorações, desde que o oficial seja julgado indigno pelo tribunal competente (CF, art. 142, § 3º, VI).
+P: Requisito de pena superior a 2 anos || Julgamento pelo tribunal (CF, art. 142, § 3º, VI)
+K: perda do posto e patente; oficial; indignidade
+
+@CPM 100
+I: A indignidade para o oficialato pode ser declarada contra o militar condenado, qualquer que seja a pena, por traição, espionagem, covardia ou pelos crimes listados (como furto, roubo, estelionato e peculato).
+P: Crimes que geram indignidade
+K: indignidade para o oficialato; traição; peculato
+
+@CPM 101
+I: A incompatibilidade com o oficialato é declarada contra o militar condenado pelos crimes dos arts. 141 e 142 (entendimento com país estrangeiro e atentado à soberania).
+P: Incompatibilidade com o oficialato
+K: incompatibilidade com o oficialato; soberania
+
+@CPM 102
+I: A condenação da praça a pena privativa de liberdade superior a 2 anos importa sua exclusão das Forças Armadas.
+P: Exclusão da praça
+K: exclusão das Forças Armadas; praça
+
+@CPM 103
+I: O civil perde a função pública se condenado a pena privativa por crime com abuso de poder ou violação de dever funcional, ou por outro crime com pena superior a 2 anos. A regra vale para o militar inativo no exercício de função pública.
+P: Perda da função pública do civil || Aplicação ao militar inativo
+K: perda da função pública; abuso de poder
+
+@CPM 104
+I: O condenado a reclusão superior a 4 anos por crime com abuso de poder ou violação de dever militar ou funcional fica inabilitado para função pública por 2 a 20 anos, contados do fim da pena ou da medida de segurança.
+P: Inabilitação de 2 a 20 anos || Termo inicial
+K: inabilitação para função pública
+
+@CPM 105
+I: Pela Lei nº 14.688/2023, o condenado por crime doloso punido com reclusão contra o outro titular do poder familiar, contra filho, tutelado ou curatelado pode ter decretada, de forma justificada e no melhor interesse do menor, a incapacidade para o poder familiar, a tutela ou a curatela enquanto durar a pena, inclusive provisoriamente durante o processo.
+P: Incapacidade para o poder familiar || Melhor interesse do menor || Medida provisória no processo
+K: poder familiar; tutela; curatela; Lei nº 14.688/2023
+
+@CPM 106
+I: Durante a execução da pena ou da medida de segurança substitutiva, ou da inabilitação para função pública, o condenado não pode votar nem ser votado (CF, art. 15, III).
+P: Suspensão dos direitos políticos
+K: direitos políticos; suspensão
+
+@CPM 107
+I: A pena acessória deve constar expressamente da sentença, salvo a perda de posto e patente, a perda da função por pena superior a 2 anos e a suspensão dos direitos políticos, que decorrem da condenação.
+P: Imposição expressa || Penas acessórias automáticas
+K: pena acessória; sentença
+
+@CPM 108
+I: O tempo em liberdade por sursis ou livramento, sem revogação, conta no prazo das inabilitações temporárias.
+P: Cômputo no prazo das inabilitações
+K: inabilitação; sursis; livramento
+
+@CPM 109
+I: São efeitos da condenação tornar certa a obrigação de reparar o dano e a perda, em favor da Fazenda Pública, dos instrumentos ilícitos e do produto ou proveito do crime, ressalvados o lesado e o terceiro de boa-fé.
+P: Obrigação de reparar o dano || Confisco de instrumentos e produto do crime
+K: efeitos da condenação; reparação do dano; perdimento
+
+@CPM 110
+I: As medidas de segurança são pessoais (detentivas: internação; não detentivas: tratamento ambulatorial, interdição da habilitação, exílio local, proibição de frequentar lugares) e patrimoniais (interdição de estabelecimento e confisco), conforme a Lei nº 14.688/2023.
+P: Medidas pessoais e patrimoniais || Detentivas e não detentivas
+K: medida de segurança; internação; tratamento ambulatorial; confisco
+
+@CPM 111
+I: As medidas de segurança só se aplicam a civis, a militares condenados a mais de 2 anos ou que perderam função, posto ou patente ou foram excluídos, a militares inimputáveis e aos casos de cassação da habilitação para dirigir.
+P: Destinatários das medidas de segurança
+K: medida de segurança; civil; militar
+
+@CPM 112
+I: O inimputável pode ser internado em estabelecimento de custódia e tratamento. A internação ou o tratamento ambulatorial é por tempo indeterminado, até perícia que ateste a cessação da periculosidade, com prazo mínimo de 1 a 3 anos e perícias anuais. A desinternação é sempre condicional por 1 ano, e o juiz pode converter o tratamento ambulatorial em internação (Lei nº 14.688/2023). A jurisprudência limita a duração da medida (no direito penal comum, a Súmula 527 do STJ fixa como teto o máximo da pena abstrata).
+P: Internação do inimputável || Prazo mínimo de 1 a 3 anos e perícia anual || Desinternação condicional || Limite de duração (Súmula 527 do STJ)
+K: medida de segurança; inimputável; internação; periculosidade
+
+@CPM 113
+I: Ao semi-imputável que precise de tratamento curativo, a pena pode ser substituída por internação ou tratamento ambulatorial, com prazo mínimo de 1 a 3 anos. Com a cura, pode voltar ao estabelecimento penal sem perder o livramento; persistindo o estado mórbido, a internação passa a ser indeterminada. O mesmo vale para ébrios habituais e toxicômanos.
+P: Substituição da pena do semi-imputável || Cura e retorno || Ébrios habituais e toxicômanos
+K: semi-imputabilidade; internação; substituição da pena
+
+@CPM 114
+I: A internação deve buscar o tratamento e também o aperfeiçoamento do internado, com regime educativo ou de trabalho conforme suas condições.
+P: Finalidade terapêutica e educativa
+K: internação; tratamento; trabalho
+
+@CPM 115
+I: O condenado por crime ligado à direção de veículos tem a licença cassada por no mínimo 1 ano, se revelar inaptidão e perigo, mesmo quando absolvido por inimputabilidade. O prazo corre do fim da pena ou da concessão de benefício e é prorrogado enquanto persistir o perigo.
+P: Cassação da habilitação || Prazo mínimo de 1 ano || Aplicação ao absolvido inimputável
+K: habilitação; cassação; veículo; medida de segurança
+
+@CPM 116
+I: O exílio local proíbe o condenado de residir ou permanecer, por ao menos 1 ano, na localidade do crime, por necessidade preventiva, e é cumprido após a pena ou com o sursis.
+P: Exílio local
+K: exílio local; medida de segurança
+
+@CPM 117
+I: A proibição de frequentar determinados lugares impede, por ao menos 1 ano, o acesso a locais que favoreçam o retorno ao crime.
+P: Proibição de frequentar lugares
+K: proibição de frequentar lugares; medida de segurança
+
+@CPM 118
+I: Estabelecimento comercial ou industrial, sociedade ou associação usados como meio ou pretexto para infração penal podem ser interditados por 15 dias a 6 meses, proibindo a mesma atividade no local ou em outra sede.
+P: Interdição de estabelecimento || Prazo de 15 dias a 6 meses
+K: interdição de estabelecimento; associação
+
+@CPM 119
+I: O juiz deve ordenar o confisco dos instrumentos e produtos ilícitos, de bens das Forças Armadas ou de uso militar em poder indevido e de coisas abandonadas, mesmo sem autoria apurada ou com agente inimputável, ressalvado o lesado ou terceiro de boa-fé.
+P: Confisco independente de condenação || Bens militares em poder indevido
+K: confisco; instrumentos do crime; bens militares
+
+@CPM 120
+I: A medida de segurança é imposta em sentença, com suas condições, e não impede a expulsão do estrangeiro.
+P: Imposição em sentença || Expulsão do estrangeiro
+K: medida de segurança; sentença; expulsão
+
+@CPM 121
+I: A ação penal militar é promovida pelo Ministério Público. Pela Lei nº 14.688/2023, admite-se ação privada subsidiária se a pública não for proposta no prazo legal (CF, art. 5º, LIX).
+P: Ação penal pública || Ação privada subsidiária
+K: ação penal; Ministério Público Militar; ação privada subsidiária
+
+@CPM 122
+I: Nos crimes dos arts. 136 a 141 praticados por militar, a ação depende de requisição do Comando da Força; no art. 141, se o agente for civil sem coautor militar, a requisição é do Ministério da Justiça.
+P: Requisição do Comando da Força || Requisição do Ministério da Justiça
+K: requisição; ação penal; segurança externa
+
+@CPM 123
+I: Extinguem a punibilidade: morte do agente, anistia, graça ou indulto, abolitio criminis, prescrição, ressarcimento no peculato culposo e perdão judicial (Lei nº 14.688/2023). A reabilitação deixou de constar do rol. A extinção de crime que é pressuposto ou agravante de outro não se estende a este.
+P: Causas extintivas || Perdão judicial incluído || Autonomia dos crimes conexos
+K: extinção da punibilidade; prescrição; anistia; perdão judicial
+
+@CPM 124
+I: A prescrição refere-se à pretensão punitiva ou à pretensão executória (Lei nº 14.688/2023).
+P: Espécies de prescrição
+K: prescrição; pretensão punitiva; pretensão executória
+
+@CPM 125
+I: A prescrição da pretensão punitiva regula-se pela pena máxima: 30 anos (morte), 20, 16, 12, 8, 4 anos e 3 anos se o máximo for inferior a 1 ano (Lei nº 14.688/2023). Com sentença de que só o réu recorre, regula-se pela pena aplicada. Corre da consumação, da cessação da tentativa ou da permanência, ou do conhecimento nos crimes de falsidade; conta-se isoladamente para cada crime. Suspende-se durante questão prejudicial, pena no exterior e recursos inadmissíveis, e interrompe-se pela instauração do processo, sentença ou acórdão condenatório, início da execução e reincidência.
+P: Tabela de prazos || Prescrição pela pena aplicada || Termo inicial || Causas suspensivas e interruptivas
+K: prescrição; pretensão punitiva; interrupção; suspensão
+
+@CPM 126
+I: A prescrição da execução regula-se pela pena fixada, nos prazos do art. 125, correndo do trânsito em julgado ou da revogação de benefício; na fuga, regula-se pelo restante da pena. Suspende-se enquanto o condenado está preso por outro motivo e interrompe-se pelo cumprimento da pena ou pela reincidência. O aumento de um terço para criminoso habitual perdeu sentido com a revogação do art. 78.
+P: Prescrição executória || Termo inicial || Fuga e restante da pena
+K: prescrição executória; fuga; reincidência
+
+@CPM 127
+I: A prescrição específica das penas de reforma e suspensão do exercício foi revogada pela Lei nº 14.688/2023, junto com essas penas.
+P: Dispositivo revogado
+K: prescrição; revogação
+
+@CPM 128
+I: Interrompida a prescrição, o prazo recomeça integralmente da interrupção, salvo na suspensão pela prisão por outro motivo.
+P: Efeito da interrupção
+K: prescrição; interrupção
+
+@CPM 129
+I: Os prazos de prescrição são reduzidos à metade se o agente tinha menos de 21 anos na data do crime ou mais de 70.
+P: Redução pela metade
+K: prescrição; idade; redução
+
+@CPM 130
+I: A execução das penas acessórias é imprescritível.
+P: Imprescritibilidade das penas acessórias
+K: penas acessórias; imprescritibilidade
+
+@CPM 131
+I: No crime de insubmissão, a prescrição só começa a correr quando o insubmisso completa 30 anos.
+P: Termo inicial na insubmissão
+K: insubmissão; prescrição
+
+@CPM 132
+I: Na deserção, mesmo decorrido o prazo prescricional, a punibilidade só se extingue quando o desertor completa 45 anos, ou 60 se oficial.
+P: Prescrição da deserção condicionada à idade
+K: deserção; prescrição
+
+@CPM 133
+I: A prescrição deve ser declarada de ofício, ainda que não alegada.
+P: Declaração de ofício
+K: prescrição; ordem pública
+
+@CPM 134
+I: A reabilitação alcança todas as penas definitivas e pode ser pedida 5 anos após a extinção ou o fim da pena, do sursis ou do livramento, com domicílio no país, bom comportamento e reparação do dano. Não cabe aos reconhecidos perigosos nem ao condenado por crime sexual contra filho ou tutelado com pena de incapacidade. Negada, só pode ser renovada após 2 anos, e é revogada se houver nova condenação a pena privativa.
+P: Requisitos da reabilitação || Vedações || Renovação e revogação
+K: reabilitação; antecedentes
+
+@CPM 135
+I: Declarada a reabilitação, os antecedentes são cancelados por averbação, e o registro só pode ser informado a autoridade policial, judicial ou ao Ministério Público para novo processo penal.
+P: Cancelamento dos antecedentes || Sigilo do registro
+K: reabilitação; sigilo; antecedentes criminais
+
+@CPM 136
+I: Pune o militar que pratica ato de hostilidade contra país estrangeiro, expondo o Brasil a perigo de guerra, com pena maior se resultar ruptura de relações diplomáticas, represália ou guerra.
+P: Crime próprio de militar || Formas qualificadas pelo resultado
+K: segurança externa; hostilidade; perigo de guerra
+
+@CPM 137
+I: Pune o militar que provoca diretamente país estrangeiro a declarar guerra, a hostilizar o Brasil ou a intervir em questão de soberania nacional.
+P: Provocação a país estrangeiro
+K: segurança externa; soberania; guerra
+
+@CPM 138
+I: Pune o militar que pratica ou favorece, no território nacional, ato de jurisdição indevida de país estrangeiro.
+P: Ato de jurisdição estrangeira
+K: segurança externa; soberania; jurisdição
+
+@CPM 139
+I: Pune o militar que viola território estrangeiro para praticar ato de jurisdição em nome do Brasil.
+P: Violação de território estrangeiro
+K: segurança externa; território estrangeiro
+
+@CPM 140
+I: Pune o militar que entra ou tenta entrar em entendimento com país estrangeiro para empenhar o Brasil à neutralidade ou à guerra.
+P: Crime de atentado (tentativa equiparada)
+K: segurança externa; neutralidade; guerra
+
+@CPM 141
+I: Pune quem entra em entendimento com país ou organização estrangeira para gerar conflito internacional ou perturbar relações diplomáticas do Brasil, com penas maiores se houver ruptura de relações ou guerra. Pode ser cometido por civil.
+P: Entendimento para gerar conflito || Resultado mais grave
+K: segurança externa; relações diplomáticas; conflito internacional
+
+@CPM 142
+I: Pune a tentativa de submeter o território a país estrangeiro, desmembrá-lo por movimento armado ou internacionalizar região do país, com penas maiores para os cabeças.
+P: Crime de atentado à soberania || Pena maior para os cabeças
+K: soberania; integridade territorial; cabeças
