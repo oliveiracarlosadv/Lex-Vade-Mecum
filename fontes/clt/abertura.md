@@ -13,7 +13,7 @@
 | Decisões do STF de destaque | ADI 5.766 (justiça gratuita); ADI 5.794 (contribuição sindical facultativa); ADI 5.938 (gestante e lactante em insalubridade); ADCs 58 e 59 (correção monetária); ADI 6.050 e outras (dano extrapatrimonial); ARE 1.121.633 (Tema 1.046, negociado sobre o legislado) |
 | Fonte oficial | Portal da Legislação — Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos) |
 | Link oficial | https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm |
-| Texto obtido em | 6 de novembro de 2026 |
+| Texto obtido em | 10 de novembro de 2026 |
 
 ## Resumo Executivo
 

@@ -14,7 +14,7 @@
 | Decisões do STF de destaque | Tema 503 (desaposentação); ADIs 2.110 e 2.111 (regra de cálculo da Lei nº 9.876/1999 e carência do salário-maternidade); Tema 709 (aposentado especial exposto); Tema 555 (EPI e ruído); ADI 6.096 (decadência); Tema 1.095 (acréscimo de 25%) |
 | Fonte oficial | Portal da Legislação — Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos) |
 | Link oficial | https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm |
-| Texto obtido em | 8 de novembro de 2026 |
+| Texto obtido em | 10 de novembro de 2026 |
 
 ## Resumo Executivo
 
@@ -172,8 +172,6 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 3º Fica instituído o Conselho Nacional de Previdência Social–CNPS, órgão superior de deliberação colegiada, que terá como membros:
 
-II - ~~7 (sete) representantes da sociedade civil, sendo:~~
-
 I - seis representantes do Governo Federal; (Redação dada pela Lei nº 8.619, de 1993)
 
 II - nove representantes da sociedade civil, sendo: (Redação dada pela Lei nº 8.619, de 1993)
@@ -205,6 +203,8 @@ c) três representantes dos empregadores. (Redação dada pela Lei nº 8.619, de
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 8.619, de 1993; revogação — Lei nº 9.528, de 1997.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Institui o Conselho Nacional de Previdência Social (CNPS), órgão colegiado com 6 representantes do Governo e 9 da sociedade civil (aposentados, trabalhadores e empregadores), com mandato de 2 anos. Os representantes dos trabalhadores têm abono das faltas e estabilidade da nomeação até um ano após o mandato, salvo falta grave apurada judicialmente.
 
@@ -348,7 +348,7 @@ Art. 7º ~~Ficam instituídos os Conselhos Estaduais e os Conselhos Municipais d
 
 § 2º ~~Os representantes dos trabalhadores em atividade e seus respectivos suplentes serão indicados, no caso dos CEPS, pelas federações ou centrais sindicais, e, no caso dos CMPS, pelos sindicatos ou, na ausência destes, pelas federações ou ainda, em último caso, pelas centrais sindicais ou confederações nacionais.~~ (Revogado pela Medida Provisória nº 2.216-37, de 31.8.01)
 
-§ 3º ~~Os representantes dos aposentados e seus respectivos suplentes serão indicados, no caso dos CEPS, pelas federações ou confederações, e, no caso dos CMPS, pelas associações ou, na ausência destes, pelas federações~~. (Revogado pela Medida Provisória nº 2.216-37, de 31.8.01)
+§ 3º ~~Os representantes dos aposentados e seus respectivos suplentes serão indicados, no caso dos CEPS, pelas federações ou confederações, e, no caso dos CMPS, pelas associações ou, na ausência destes, pelas federações.~~ (Revogado pela Medida Provisória nº 2.216-37, de 31.8.01)
 
 § 4º ~~Os representantes dos empregadores e seus respectivos suplentes serão indicados, no caso dos CEPS, pelas federações, e, no caso dos CMPS, pelos sindicatos, associações ou, na ausência destes, pelas federações.~~ (Revogado pela Medida Provisória nº 2.216-37, de 31.8.01)
 
@@ -523,7 +523,7 @@ II - como empregado doméstico: aquele que presta serviço de natureza contínua
 
 III - ~~como empresário: o titular de firma individual urbana ou rural, o diretor não-empregado, o membro de conselho de administração de sociedade anônima, o sócio solidário, o sócio de indústria e o sócio cotista que participe da gestão ou receba remuneração decorrente de seu trabalho em empresa urbana ou rural~~; (Revogado pela Lei nº 9.876, de 26.11.1999)
 
-IV - ~~como trabalhador autônomo~~: (Revogado pela Lei nº 9.876, de 26.11.1999)
+IV - ~~como trabalhador autônomo:~~ (Revogado pela Lei nº 9.876, de 26.11.1999)
 
 a) ~~quem presta serviço de natureza urbana ou rural, em caráter eventual, a uma ou mais empresas, sem relação de emprego;~~ (Revogado pela Lei nº 9.876, de 26.11.1999)
 
@@ -537,7 +537,7 @@ b) a pessoa física, proprietária ou não, que explora atividade de extração 
 
 c) o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa; (Redação dada pela Lei nº 10.403, de 8.1.2002)
 
-d) ~~o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por sistema próprio de previdência social; (Alínea realinhada pela Lei nº 9.528, de 10.12.97~~) (Revogado pela Lei nº 9.876, de 26.11.1999)
+d) ~~o empregado de organismo oficial internacional ou estrangeiro em funcionamento no Brasil, salvo quando coberto por sistema próprio de previdência social; (Alínea realinhada pela Lei nº 9.528, de 10.12.97)~~ (Revogado pela Lei nº 9.876, de 26.11.1999)
 
 e) o brasileiro civil que trabalha no exterior para organismo oficial internacional do qual o Brasil é membro efetivo, ainda que lá domiciliado e contratado, salvo quando coberto por regime próprio de previdência social; (Redação dada pela Lei nº 9.876, de 26.11.99)
 
@@ -904,21 +904,23 @@ Art. 17. O Regulamento disciplinará a forma de inscrição do segurado e dos de
 
 § 1o Incumbe ao dependente promover a sua inscrição quando do requerimento do benefício a que estiver habilitado. (Redação dada pela Lei nº 10.403, de 8.1.2002)
 
-§ 2º ~~O cancelamento da inscrição do cônjuge se processa em face de separação judicial ou divórcio sem direito a alimentos, certidão de anulação de casamento, certidão de óbito ou sentença judicial, transitada em julgado.~~ ~~(Revogado pela Medida Provisória nº 664, de 2014)~~ (Revogado pela Lei nº 13.135, de 2015)
+§ 2º ~~O cancelamento da inscrição do cônjuge se processa em face de separação judicial ou divórcio sem direito a alimentos, certidão de anulação de casamento, certidão de óbito ou sentença judicial, transitada em julgado.~~ (Revogado pela Medida Provisória nº 664, de 2014) (Revogado pela Lei nº 13.135, de 2015)
 
-§ 3º ~~A Previdência Social poderá emitir identificação específica, para os segurados referidos nos incisos III, IV, V, VI e VII do art. 11 e no art. 13 desta Lei, para produzir efeitos exclusivamente perante ela, inclusive com a finalidade de provar a filiação~~. (Revogado pela Lei nº 11.718, de 2008)
+§ 3º ~~A Previdência Social poderá emitir identificação específica, para os segurados referidos nos incisos III, IV, V, VI e VII do art. 11 e no art. 13 desta Lei, para produzir efeitos exclusivamente perante ela, inclusive com a finalidade de provar a filiação.~~ (Revogado pela Lei nº 11.718, de 2008)
 
 § 4o A inscrição do segurado especial será feita de forma a vinculá-lo ao respectivo grupo familiar e conterá, além das informações pessoais, a identificação da propriedade em que desenvolve a atividade e a que título, se nela reside ou o Município onde reside e, quando for o caso, a identificação e inscrição da pessoa responsável pelo grupo familiar. (Redação dada pela Lei nº 12.873, de 2013)
 
 § 5o O segurado especial integrante de grupo familiar que não seja proprietário ou dono do imóvel rural em que desenvolve sua atividade deverá informar, no ato da inscrição, conforme o caso, o nome do parceiro ou meeiro outorgante, arrendador, comodante ou assemelhado. (Incluído Lei nº 11.718, de 2008)
 
-§ 6o ~~Simultaneamente com a inscrição do segurado especial, será atribuído ao grupo familiar número de Cadastro Específico do INSS – CEI, para fins de recolhimento das contribuições previdenciárias.~~ ~~(Incluído Lei nº 11.718, de 2008)~~ ~~(Vide Medida Provisória nº 619, de 2013)~~ (Revogado pela Lei nº 12.873, de 2013) (Produção de efeito)
+§ 6o ~~Simultaneamente com a inscrição do segurado especial, será atribuído ao grupo familiar número de Cadastro Específico do INSS – CEI, para fins de recolhimento das contribuições previdenciárias. (Incluído Lei nº 11.718, de 2008) (Vide Medida Provisória nº 619, de 2013)~~ (Revogado pela Lei nº 12.873, de 2013) (Produção de efeito)
 
 § 7º Não será admitida a inscrição post mortem de segurado contribuinte individual e de segurado facultativo. (Incluído pela Lei nº 13.846, de 2019))
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.403, de 8.1.2002; revogação — Medida Provisória nº 664, de 2014; revogação — Lei nº 13.135, de 2015; revogação — Lei nº 11.718, de 2008; redação — Lei nº 12.873, de 2013; inclusão — Lei nº 11.718, de 2008; revogação — Lei nº 12.873, de 2013; inclusão — Lei nº 13.846, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O regulamento disciplina a inscrição de segurados e dependentes; o dependente se inscreve ao requerer o benefício. A inscrição do segurado especial vincula-o ao grupo familiar e ao imóvel rural, e é vedada a inscrição após a morte de contribuinte individual ou facultativo.
 
@@ -2081,7 +2083,7 @@ Cria o cadastro dos segurados especiais no CNIS, atualizado anualmente até 30 d
 
 Art. 38-B. O INSS utilizará as informações constantes do cadastro de que trata o art. 38-A para fins de comprovação do exercício da atividade e da condição do segurado especial e do respectivo grupo familiar. (Incluído pela Lei nº 13.134, de 2015)
 
-Parágrafo único. ~~Havendo divergências de informações, para fins de reconhecimento de direito com vistas à concessão de benefício, o INSS poderá exigir a apresentação dos documentos previstos no art. 106 desta Lei. (Incluído pela Lei nº 13.134, de 2015)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~
+Parágrafo único. ~~Havendo divergências de informações, para fins de reconhecimento de direito com vistas à concessão de benefício, o INSS poderá exigir a apresentação dos documentos previstos no art. 106 desta Lei. (Incluído pela Lei nº 13.134, de 2015)~~ (Revogado pela Medida Provisória nº 871, de 2019)
 
 § 1º A partir de 1º de janeiro de 2023, a comprovação da condição e do exercício da atividade rural do segurado especial ocorrerá, exclusivamente, pelas informações constantes do cadastro a que se refere o art. 38-A desta Lei. (Incluído pela Lei nº 13.846, de 2019)
 
@@ -2096,6 +2098,8 @@ Parágrafo único. ~~Havendo divergências de informações, para fins de reconh
 > **Alterações legislativas registradas no texto oficial:** inclusão — Lei nº 13.134, de 2015; revogação — Medida Provisória nº 871, de 2019; inclusão — Lei nº 13.846, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O INSS comprova a atividade do segurado especial pelo cadastro do art. 38-A: a partir de 2023, exclusivamente por ele; para períodos anteriores, por autodeclaração ratificada por entidades credenciadas e órgãos públicos. Havendo divergência, pode exigir os documentos do art. 106.
 
@@ -2210,21 +2214,21 @@ O abono anual (13º do benefício) é devido a quem recebeu no ano auxílio-doen
 
 Art. 41. ~~Os valores dos benefícios em manutenção serão reajustados a partir de 2004, na mesma data de reajuste do salário mínimo, pro rata, de acordo com suas respectivas datas de início ou do seu último reajustamento, com base em percentual definido em regulamento, observados os seguintes critérios: (Redação dada pela Lei nº 10.699, de 9.7.2003) (Vide Medida Provisória nº 316, de 2006) (Vide Decreto nº 6.164, de 2007)~~ (Revogado pela lei nº 11.430, de 2006)
 
-I - ~~preservação do valor real do benefício;~~ ~~(Redação dada pela Medida Provisória nº 2.187-13, de 2001)~~ ~~(Revogada pela Medida Provisória nº 316, de 2006)~~ (Revogado pela Lei nº 11.430, de 2006)
+I - ~~preservação do valor real do benefício; (Redação dada pela Medida Provisória nº 2.187-13, de 2001)~~ (Revogada pela Medida Provisória nº 316, de 2006) (Revogado pela Lei nº 11.430, de 2006)
 
 II - ~~os valores dos benefícios em manutenção serão reajustados, de acordo com suas respectivas datas de início, com base na variação integral do INPC, calculado pelo IBGE, nas mesmas épocas em que o salário-mínimo for alterado, pelo índice da cesta básica ou substituto eventual.~~ (Revogado pela Lei nº 8.542, de 1992)
 
-III - ~~atualização anual;~~ ~~(Incluído pela Medida Provisória nº 2.187-13, de 2001) (Revogada pela Medida Provisória nº 316, de 2006)~~ (Revogado pela Lei nº 11.430, de 2006)
+III - ~~atualização anual; (Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ (Revogada pela Medida Provisória nº 316, de 2006) (Revogado pela Lei nº 11.430, de 2006)
 
-IV - ~~variação de preços de produtos necessários e relevantes para a aferição da manutenção do valor de compra dos benefícios.~~ ~~(Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ ~~(Revogada pela Medida Provisória nº 316, de 2006)~~ (Revogado pela Lei nº 11.430, de 2006)
+IV - ~~variação de preços de produtos necessários e relevantes para a aferição da manutenção do valor de compra dos benefícios. (Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ (Revogada pela Medida Provisória nº 316, de 2006) (Revogado pela Lei nº 11.430, de 2006)
 
 § 1º ~~O disposto no inciso II poderá ser alterado por ocasião da revisão da política salarial. (Tacitamente revogado em função da exclusão do inciso II deste artigo, pela Lei nº 8.542, de 23.12.92) (Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
 
-§ 2º ~~Na hipótese de se constatar perda de poder aquisitivo com a aplicação do disposto neste artigo, o Conselho Nacional de Seguridade Social-CNSS poderá propor um reajuste extraordinário para recompor esse valor, sendo feita igual recomposição das faixas e limites fixados para os salários-de-contribuição. (Revogado pela Medida Provisória nº 2.187-13, de 2001) (Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
+§ 2º ~~Na hipótese de se constatar perda de poder aquisitivo com a aplicação do disposto neste artigo, o Conselho Nacional de Seguridade Social-CNSS poderá propor um reajuste extraordinário para recompor esse valor, sendo feita igual recomposição das faixas e limites fixados para os salários-de-contribuição.~~ (Revogado pela Medida Provisória nº 2.187-13, de 2001) (Vide Medida Provisória nº 316, de 2006) (Revogado pela lei nº 11.430, de 2006)
 
-§ 3º ~~Nenhum benefício reajustado poderá exceder o limite máximo do salário-de-benefício na data do reajustamento, respeitados os direitos adquiridos.~~ ~~(Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
+§ 3º ~~Nenhum benefício reajustado poderá exceder o limite máximo do salário-de-benefício na data do reajustamento, respeitados os direitos adquiridos. (Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
 
-§ 4o ~~A partir de abril de 2004, os benefícios devem ser pagos do primeiro ao quinto dia útil do mês seguinte ao de sua competência, observada a distribuição proporcional do número de beneficiários por dia de pagamento. (Redação dada pela Lei nº 10.699, de 9.7.2003)~~ ~~(Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
+§ 4o ~~A partir de abril de 2004, os benefícios devem ser pagos do primeiro ao quinto dia útil do mês seguinte ao de sua competência, observada a distribuição proporcional do número de beneficiários por dia de pagamento. (Redação dada pela Lei nº 10.699, de 9.7.2003) (Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
 
 § 5º ~~Em caso de comprovada inviabilidade operacional e financeira do Instituto Nacional do Seguro Social, o Conselho Nacional de Previdência Social poderá autorizar, em caráter excepcional, que o pagamento dos benefícios de prestação continuada concedidos a partir de 1º de agosto de 1992 seja efetuado do décimo primeiro ao décimo segundo dia útil do mês seguinte ao de sua competência, retornando-se à regra geral, disposta no § 4º deste artigo, tão logo superadas as dificuldades. (Incluído pela Lei nº 8.444, de 1992) (Vide Medida Provisória nº 316, de 2006)~~ (Revogado pela lei nº 11.430, de 2006)
 
@@ -2232,13 +2236,15 @@ IV - ~~variação de preços de produtos necessários e relevantes para a aferi�
 
 § 7º ~~O pagamento de parcelas relativas a benefício, efetuado com atraso por responsabilidade da Previdência Social, será atualizado de acordo com a variação do Índice Nacional de Preços ao Consumidor - INPC, verificado no período compreendido entre o mês em que deveria ter sido pago e o mês do efetivo pagamento. (Renumerado do § 6º para § 7º pela Lei nº 8.444, de 1992)~~ (Revogado pela Lei nº 8.880, de 1994)
 
-§ 8o ~~Para os benefícios que tenham sofrido majoração devido à elevação do salário mínimo, o referido aumento deverá ser descontado quando da aplicação do disposto no caput, de acordo com normas a serem baixadas pelo Ministério da Previdência e Assistência Social.~~ ~~(Incluído pela Medida Provisória nº 2.187-13, de 2001) (Revogada pela Medida Provisória nº 316, de 2006)~~ (Revogado pela Lei nº 11.430, de 2006)
+§ 8o ~~Para os benefícios que tenham sofrido majoração devido à elevação do salário mínimo, o referido aumento deverá ser descontado quando da aplicação do disposto no caput, de acordo com normas a serem baixadas pelo Ministério da Previdência e Assistência Social. (Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ (Revogada pela Medida Provisória nº 316, de 2006) (Revogado pela Lei nº 11.430, de 2006)
 
-§ 9o ~~Quando da apuração para fixação do percentual do reajuste do benefício, poderão ser utilizados índices que representem a variação de que trata o inciso IV deste artigo, divulgados pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE ou de instituição congênere de reconhecida notoriedade, na forma do regulamento.~~ ~~(Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ ~~(Revogada pela Medida Provisória nº 316, de 2006)~~ (Revogado pela Lei nº 11.430, de 2006)
+§ 9o ~~Quando da apuração para fixação do percentual do reajuste do benefício, poderão ser utilizados índices que representem a variação de que trata o inciso IV deste artigo, divulgados pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE ou de instituição congênere de reconhecida notoriedade, na forma do regulamento. (Incluído pela Medida Provisória nº 2.187-13, de 2001)~~ (Revogada pela Medida Provisória nº 316, de 2006) (Revogado pela Lei nº 11.430, de 2006)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.699, de 9.7.2003; revogação — lei nº 11.430, de 2006; redação — Medida Provisória nº 2.187; revogação — Medida Provisória nº 316, de 2006; revogação — Lei nº 11.430, de 2006; revogação — Lei nº 8.542, de 1992; inclusão — Medida Provisória nº 2.187; revogação — Medida Provisória nº 2.187; inclusão — Lei nº 8.444, de 1992; renumeração — Lei nº 8.444, de 1992; revogação — Lei nº 8.880, de 1994.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo revogado pela Lei nº 11.430, de 2006. Tratava do reajustamento dos benefícios, hoje disciplinado no art. 41-A. A numeração é mantida para preservar as remissões e o histórico da lei.
 
@@ -2963,7 +2969,7 @@ O Poder Executivo define a lista de agentes nocivos, e a exposição é comprova
 
 Art. 59. O auxílio-doença será devido ao segurado que, havendo cumprido, quando for o caso, o período de carência exigido nesta Lei, ficar incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 (quinze) dias consecutivos.
 
-Parágrafo único. ~~Não será devido auxílio-doença ao segurado que se filiar ao Regime Geral de Previdência Social já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão.~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~
+Parágrafo único. ~~Não será devido auxílio-doença ao segurado que se filiar ao Regime Geral de Previdência Social já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão.~~ (Revogado pela Medida Provisória nº 871, de 2019)
 
 § 1º Não será devido o auxílio-doença ao segurado que se filiar ao Regime Geral de Previdência Social já portador da doença ou da lesão invocada como causa para o benefício, exceto quando a incapacidade sobrevier por motivo de progressão ou agravamento da doença ou da lesão. (Redação dada pela Lei nº 13.846, de 2019)
 
@@ -2984,6 +2990,8 @@ Parágrafo único. ~~Não será devido auxílio-doença ao segurado que se filia
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 871, de 2019; redação — Lei nº 13.846, de 2019; inclusão — Lei nº 13.846, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O auxílio-doença, hoje auxílio por incapacidade temporária (EC nº 103/2019), é devido ao segurado incapaz para seu trabalho ou atividade habitual por mais de 15 dias, cumprida a carência quando exigida. Não é devido por doença preexistente à filiação, salvo agravamento, nem ao preso em regime fechado; o benefício é suspenso com a prisão e cessa após 60 dias.
 
@@ -3019,13 +3027,13 @@ Art. 60. O auxílio-doença será devido ao segurado empregado a contar do déci
 
 § 4º A empresa que dispuser de serviço médico, próprio ou em convênio, terá a seu cargo o exame médico e o abono das faltas correpondentes ao período referido no § 3º, somente devendo encaminhar o segurado à perícia médica da Previdência Social quando a incapacidade ultrapassar 15 (quinze) dias.
 
-§ 5o ~~Nos casos de impossibilidade de realização de perícia médica pelo órgão ou setor próprio competente, assim como de efetiva incapacidade física ou técnica de implementação das atividades e de atendimento adequado à clientela da previdência social, o INSS poderá, sem ônus para os segurados, celebrar, nos termos do regulamento, convênios, termos de execução descentralizada, termos de fomento ou de colaboração, contratos não onerosos ou acordos de cooperação técnica para realização de perícia médica, por delegação ou simples cooperação técnica, sob sua coordenação e supervisão, com: (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~ (Revogado pela Lei nº 13.846, de 2019)
+§ 5o ~~Nos casos de impossibilidade de realização de perícia médica pelo órgão ou setor próprio competente, assim como de efetiva incapacidade física ou técnica de implementação das atividades e de atendimento adequado à clientela da previdência social, o INSS poderá, sem ônus para os segurados, celebrar, nos termos do regulamento, convênios, termos de execução descentralizada, termos de fomento ou de colaboração, contratos não onerosos ou acordos de cooperação técnica para realização de perícia médica, por delegação ou simples cooperação técnica, sob sua coordenação e supervisão, com: (Incluído pela Lei nº 13.135, de 2015)~~ (Revogado pela Medida Provisória nº 871, de 2019) (Revogado pela Lei nº 13.846, de 2019)
 
-I - ~~órgãos e entidades públicos ou que integrem o Sistema Único de Saúde (SUS); (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~ (Revogado pela Lei nº 13.846, de 2019)
+I - ~~órgãos e entidades públicos ou que integrem o Sistema Único de Saúde (SUS); (Incluído pela Lei nº 13.135, de 2015)~~ (Revogado pela Medida Provisória nº 871, de 2019) (Revogado pela Lei nº 13.846, de 2019)
 
-II - ~~(VETADO); (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~ (Revogado pela Lei nº 13.846, de 2019)
+II - ~~(VETADO); (Incluído pela Lei nº 13.135, de 2015)~~ (Revogado pela Medida Provisória nº 871, de 2019) (Revogado pela Lei nº 13.846, de 2019)
 
-III - ~~(VETADO). (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~ (Revogado pela Lei nº 13.846, de 2019)
+III - ~~(VETADO). (Incluído pela Lei nº 13.135, de 2015)~~ (Revogado pela Medida Provisória nº 871, de 2019) (Revogado pela Lei nº 13.846, de 2019)
 
 § 6o O segurado que durante o gozo do auxílio-doença vier a exercer atividade que lhe garanta subsistência poderá ter o benefício cancelado a partir do retorno à atividade. (Incluído pela Lei nº 13.135, de 2015)
 
@@ -3037,7 +3045,7 @@ III - ~~(VETADO). (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Me
 
 § 10. O segurado em gozo de auxílio-doença, concedido judicial ou administrativamente, poderá ser convocado a qualquer momento para avaliação das condições que ensejaram sua concessão ou manutenção, observado o disposto no art. 101 desta Lei. (Incluído pela Lei nº 13.457, de 2017)
 
-§ 11. ~~O segurado que não concordar com o resultado da avaliação da qual dispõe o § 10 deste artigo poderá apresentar, no prazo máximo de trinta dias, recurso da decisão da administração perante o Conselho de Recursos do Seguro Social, cuja análise médica pericial, se necessária, será feita pelo assistente técnico médico da junta de recursos do seguro social, perito diverso daquele que indeferiu o benefício. (Incluído pela Lei nº 13.457, de 2017)~~ ~~(Revogado pela Medida Provisória nº 1.113, de 2022)~~
+§ 11. ~~O segurado que não concordar com o resultado da avaliação da qual dispõe o § 10 deste artigo poderá apresentar, no prazo máximo de trinta dias, recurso da decisão da administração perante o Conselho de Recursos do Seguro Social, cuja análise médica pericial, se necessária, será feita pelo assistente técnico médico da junta de recursos do seguro social, perito diverso daquele que indeferiu o benefício. (Incluído pela Lei nº 13.457, de 2017)~~ (Revogado pela Medida Provisória nº 1.113, de 2022)
 
 § 11. O segurado que não concordar com o resultado da avaliação da qual dispõe o § 10 deste artigo poderá apresentar, no prazo máximo de trinta dias, recurso da decisão da administração perante o Conselho de Recursos do Seguro Social, cuja análise médica pericial, se necessária, será feita pelo assistente técnico médico da junta de recursos do seguro social, perito diverso daquele que indeferiu o benefício. (Incluído pela Lei nº 13.457, de 2017)
 
@@ -3060,6 +3068,8 @@ III - ~~(VETADO). (Incluído pela Lei nº 13.135, de 2015)~~ ~~(Revogado pela Me
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.876, de 26.11.99; revogação — Lei nº 9.032, de 1995; inclusão — Lei nº 13.135, de 2015; revogação — Medida Provisória nº 871, de 2019; revogação — Lei nº 13.846, de 2019; inclusão — Lei nº 13.457, de 2017; revogação — Medida Provisória nº 1.113, de 2022; redação — Lei nº 15.265, de 2025; inclusão — Lei nº 15.265, de 2025; inclusão — Lei nº 14.441, de 2022; inclusão — Lei nº 15.157, de 2025.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O auxílio-doença começa no 16º dia de afastamento para o empregado (a empresa paga os 15 primeiros dias) e na data da incapacidade para os demais, ou no requerimento se passados mais de 30 dias. O ato deve fixar prazo estimado (alta programada) e, sem ele, o benefício cessa em 120 dias, salvo pedido de prorrogação. A perícia pode ser por telemedicina ou análise documental, mas o benefício documental dura no máximo 30 dias (Lei nº 15.265/2025). Portadores de AIDS, Alzheimer, Parkinson e ELA ficam dispensados de reavaliação (Lei nº 15.157/2025).
 
@@ -3188,7 +3198,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DO REGIME GERAL DE PREVIDÊNCIA SOCIAL › CAPÍTULO II — DAS PRESTAÇÕES EM GERAL › SEÇÃO V — Dos Benefícios › SUBSEÇÃO V — Do Auxílio-Doença
 
-Art. 64. ~~Após a cessação do auxílio-doença acidentário e do retorno ao trabalho, havendo agravamento de seqüela que resulte na reabertura do benefício, o novo salário-de-contribuição será considerado no cálculo~~. (Revogado pela Lei nº 9.032, de 1995)
+Art. 64. ~~Após a cessação do auxílio-doença acidentário e do retorno ao trabalho, havendo agravamento de seqüela que resulte na reabertura do benefício, o novo salário-de-contribuição será considerado no cálculo.~~ (Revogado pela Lei nº 9.032, de 1995)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.032, de 1995.
 
@@ -3950,11 +3960,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DO REGIME GERAL DE PREVIDÊNCIA SOCIAL › CAPÍTULO II — DAS PRESTAÇÕES EM GERAL › SEÇÃO V — Dos Benefícios › SUBSEÇÃO VIII — Da Pensão por Morte
 
-Art. 79. ~~Não se aplica o disposto no art. 103 desta Lei ao pensionista menor, incapaz ou ausente, na forma da lei.~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~ (Revogado pela Lei nº 13.846, de 2019)
+Art. 79. ~~Não se aplica o disposto no art. 103 desta Lei ao pensionista menor, incapaz ou ausente, na forma da lei.~~ (Revogado pela Medida Provisória nº 871, de 2019) (Revogado pela Lei nº 13.846, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 871, de 2019; revogação — Lei nº 13.846, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo revogado pela Medida Provisória nº 871, de 2019. Tratava da não aplicação do prazo do art. 103 ao pensionista menor, incapaz ou ausente. A numeração é mantida para preservar as remissões e o histórico da lei.
 
@@ -4202,23 +4214,23 @@ Dispositivo revogado pela Lei nº 9.032, de 1995. Tratava da vigência das regra
 
 Art. 86. O auxílio-acidente será concedido, como indenização, ao segurado quando, após consolidação das lesões decorrentes de acidente de qualquer natureza, resultarem seqüelas que impliquem redução da capacidade para o trabalho que habitualmente exercia. (Redação dada pela Lei nº 9.528, de 1997)
 
-§~~1º O auxílio-acidente mensal e vitalício corresponderá a 50% (cinqüenta por cento) do salário-de-benefício do segurado. (Redação dada pela Lei nº 9.032, de 1995)~~
-
 § 1º O auxílio-acidente mensal corresponderá a cinqüenta por cento do salário-de-benefício e será devido, observado o disposto no § 5º, até a véspera do início de qualquer aposentadoria ou até a data do óbito do segurado. (Redação dada pela Lei nº 9.528, de 1997)
 
 § 2º O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria. (Redação dada pela Lei nº 9.528, de 1997)
 
 § 3º O recebimento de salário ou concessão de outro benefício, exceto de aposentadoria, observado o disposto no § 5º, não prejudicará a continuidade do recebimento do auxílio-acidente. (Redação dada pela Lei nº 9.528, de 1997)
 
-§ 4º ~~Quando o segurado falecer em gozo do auxílio-acidente, a metade do valor deste será incorporada ao valor da pensão se a morte não resultar do acidente do trabalho~~. (Revogado pela Lei nº 9.032, de 1995)
+§ 4º ~~Quando o segurado falecer em gozo do auxílio-acidente, a metade do valor deste será incorporada ao valor da pensão se a morte não resultar do acidente do trabalho.~~ (Revogado pela Lei nº 9.032, de 1995)
 
 § 4º A perda da audição, em qualquer grau, somente proporcionará a concessão do auxílio-acidente, quando, além do reconhecimento de causalidade entre o trabalho e a doença, resultar, comprovadamente, na redução ou perda da capacidade para o trabalho que habitualmente exercia. (Restabelecido com nova redação pela Lei nº 9.528, de 1997)
 
 § 5º ~~Se o acidentado em gozo do auxílio-acidente falecer em conseqüência de outro acidente, o valor do auxílio-acidente será somado ao da pensão, não podendo a soma ultrapassar o limite máximo previsto no § 2º. do art. 29 desta lei.~~ (Revogado pela Lei nº 9.032, de 1995)
 
-> **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.528, de 1997; redação — Lei nº 9.032, de 1995; revogação — Lei nº 9.032, de 1995.
+> **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.528, de 1997; revogação — Lei nº 9.032, de 1995.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O auxílio-acidente é indenização de 50% do salário de benefício ao segurado que, após consolidadas as lesões de acidente de qualquer natureza, ficar com sequela que reduza a capacidade para o trabalho habitual. Começa no dia seguinte à cessação do auxílio-doença, acumula-se com salário e outros benefícios, mas não com aposentadoria, e cessa na véspera dela. A perda auditiva só gera o benefício se reduzir a capacidade de trabalho. O STJ dispensa grau mínimo de redução (Tema 416).
 
@@ -4746,7 +4758,7 @@ III - tratamento oferecido gratuitamente, exceto o cirúrgico e a transfusão de
 
 § 1º Observado o disposto nos §§ 4º, 5º e 6º do art. 43 desta Lei, o aposentado por incapacidade permanente e o pensionista inválido que não tenham retornado à atividade são isentos do exame de que trata o inciso I do caput deste artigo: (Redação dada pela Lei nº 15.157, de 2025)
 
-I - ~~após completarem cinquenta e cinco anos ou mais de idade e quando decorridos quinze anos da data da concessão da aposentadoria por invalidez ou do auxílio-doença que a precedeu; ou~~ ~~(Incluído pela lei nº 13.457, de 2017)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~
+I - ~~após completarem cinquenta e cinco anos ou mais de idade e quando decorridos quinze anos da data da concessão da aposentadoria por invalidez ou do auxílio-doença que a precedeu; ou (Incluído pela lei nº 13.457, de 2017)~~ (Revogado pela Medida Provisória nº 871, de 2019)
 
 I - após completarem cinquenta e cinco anos ou mais de idade e quando decorridos quinze anos da data da concessão da aposentadoria por invalidez ou do auxílio-doença que a precedeu; ou (Incluído pela lei nº 13.457, de 2017) (Vide Medida Provisória nº 871, de 2019)
 
@@ -4777,6 +4789,8 @@ III - subsidiar autoridade judiciária na concessão de curatela, conforme disp�
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 14.441, de 2022; inclusão — Lei nº 14.441, de 2022; redação — Lei nº 15.157, de 2025; inclusão — lei nº 13.457, de 2017; revogação — Medida Provisória nº 871, de 2019; inclusão — Lei nº 13.063, de 2014; redação — Lei nº 14.724, de 2023; inclusão — Lei nº 14.724, de 2023.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Os beneficiários de auxílio por incapacidade temporária, auxílio-acidente, aposentadoria por incapacidade permanente e o pensionista inválido devem, sob pena de suspensão, submeter-se a exame médico, reabilitação e tratamento gratuito (exceto cirurgia e transfusão, que são facultativas). Ficam isentos do exame os aposentados e pensionistas com 55 anos e 15 de benefício ou com 60 anos, salvo para acréscimo de 25%, recuperação a pedido ou curatela. A perícia pode ser domiciliar, por telemedicina ou documental.
 
@@ -4990,7 +5004,7 @@ Art. 106. A comprovação do exercício de atividade rural será feita, compleme
 
 II – contrato de arrendamento, parceria ou comodato rural; (Redação dada pela Lei nº 11.718, de 2008)
 
-III – ~~declaração fundamentada de sindicato que represente o trabalhador rural ou, quando for o caso, de sindicato ou colônia de pescadores, desde que homologada pelo Instituto Nacional do Seguro Social – INSS; (Redação dada pela Lei nº 11.718, de 2008)~~ ~~(Revogado pela Medida Provisória nº 871, de 2019)~~
+III – ~~declaração fundamentada de sindicato que represente o trabalhador rural ou, quando for o caso, de sindicato ou colônia de pescadores, desde que homologada pelo Instituto Nacional do Seguro Social – INSS; (Redação dada pela Lei nº 11.718, de 2008)~~ (Revogado pela Medida Provisória nº 871, de 2019)
 
 III - (revogado); (Redação dada pela Lei nº 13.846, de 2019)
 
@@ -5011,6 +5025,8 @@ X – licença de ocupação ou permissão outorgada pelo Incra. (Incluído pela
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.846, de 2019; redação — Lei nº 11.718, de 2008; revogação — Medida Provisória nº 871, de 2019; inclusão — Lei nº 11.718, de 2008.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Lista documentos que complementam a autodeclaração e o cadastro do segurado especial para provar a atividade rural, como contratos de arrendamento ou parceria, DAP do Pronaf, bloco de notas do produtor, notas fiscais de venda, comprovantes de contribuição sobre a comercialização, declaração de IR e licença do Incra. O rol é exemplificativo ("entre outros"), e a declaração de sindicato deixou de valer como prova (Lei nº 13.846/2019). O inciso I (contrato de trabalho ou CTPS) aparece tachado no Planalto, sem nota de revogação.
 
@@ -5356,7 +5372,7 @@ VII – (VETADO). (Incluído pela Lei nº 15.327, de 2026)
 
 § 5º O procedimento de que trata o § 4º deste artigo será disciplinado em regulamento, nos termos da Lei nº 9.784, de 29 de janeiro de 1999, e no art. 27 do Decreto-Lei nº 4.657, de 4 de setembro de 1942. (Redação dada pela Lei nº 13.846, de 2019)
 
-§ 6º ~~Na hipótese prevista no inciso V do caput~~~~deste artigo, a autorização do desconto deverá ser revalidada a cada 3 (três) anos, a partir de 31 de dezembro de 2022, podendo esse prazo ser prorrogado por mais 1 (um) ano, por meio de ato do Presidente do INSS. (Redação dada pela Lei nº 14.131, de 2021)~~ (Revogado pela Lei nº 14.438, de 2022)
+§ 6º ~~Na hipótese prevista no inciso V do caput deste artigo, a autorização do desconto deverá ser revalidada a cada 3 (três) anos, a partir de 31 de dezembro de 2022, podendo esse prazo ser prorrogado por mais 1 (um) ano, por meio de ato do Presidente do INSS. (Redação dada pela Lei nº 14.131, de 2021)~~ (Revogado pela Lei nº 14.438, de 2022)
 
 § 8º É vedada a realização de descontos, nos benefícios administrados pelo INSS, referentes a mensalidades, a contribuições ou a quaisquer outros valores destinados a associações, a sindicatos, a entidades de classe ou a organizações de aposentados e pensionistas, ainda que com a autorização expressa do beneficiário. (Incluído pela Lei nº 15.327, de 2026)
 
@@ -5377,6 +5393,8 @@ II – assinatura eletrônica qualificada de que trata a Lei nº 14.063, de 23 d
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.846, de 2019; revogação — Lei nº 15.327, de 2026; redação — Lei nº 15.327, de 2026; redação — Lei nº 14.431, de 2022; inclusão — Lei nº 15.327, de 2026; renumeração — Lei nº 10.820, de 17.12.2003; inclusão — Lei nº 10.820, de 17.12.2003; redação — Lei nº 14.131, de 2021; revogação — Lei nº 14.438, de 2022.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Podem ser descontados do benefício contribuições devidas, valores pagos indevidamente (até 30% por mês, inclusive após revogação de decisão judicial), imposto de renda, pensão alimentícia e empréstimos consignados até 45% (35% para empréstimos, 5% para cartão de crédito consignado e 5% para cartão consignado de benefício). A Lei nº 15.327/2026 revogou o desconto de mensalidades de associações de aposentados. Os créditos por pagamento indevido são inscritos em dívida ativa, inclusive contra terceiros que sabiam da fraude.
 
@@ -6076,9 +6094,9 @@ III - recursos das decisões do INSS relacionados à comprovação de atividade 
 
 IV - recursos de processos relacionados à compensação financeira de que trata a Lei nº 9.796, de 5 de maio de 1999, e à supervisão e à fiscalização dos regimes próprios de previdência social de que trata a Lei nº 9.717, de 27 de novembro de 1998. (Incluído pela Lei nº 13.876, de 2019)
 
-§ 1o ~~Em se tratando de processo que tenha por objeto a discussão de crédito previdenciário, o recurso de que trata este artigo somente terá seguimento se o recorrente, pessoa jurídica ou sócio desta, instruí-lo com prova de depósito, em favor do Instituto Nacional do Seguro Social - INSS, de valor correspondente a trinta por cento da exigência fiscal definida na decisão. (Redação dada pela Lei nº 10.684, de 30.5.2003)~~ (~~Revogado pela Medida Provisória nº 413, de 2008)~~ (Revogado pela Lei nº 11.727, de 2008)
+§ 1o ~~Em se tratando de processo que tenha por objeto a discussão de crédito previdenciário, o recurso de que trata este artigo somente terá seguimento se o recorrente, pessoa jurídica ou sócio desta, instruí-lo com prova de depósito, em favor do Instituto Nacional do Seguro Social - INSS, de valor correspondente a trinta por cento da exigência fiscal definida na decisão. (Redação dada pela Lei nº 10.684, de 30.5.2003)~~ (Revogado pela Medida Provisória nº 413, de 2008) (Revogado pela Lei nº 11.727, de 2008)
 
-§ 2º ~~Após a decisão final no processo administrativo fiscal, o valor depositado para fins de seguimento do recurso voluntário será: (Incluído pela Lei nº 9.639, de 25.5.98)~~~~(Revogado pela Medida Provisória nº 413, de 2008)~~ (Revogado pela Lei nº 11.727, de 2008)
+§ 2º ~~Após a decisão final no processo administrativo fiscal, o valor depositado para fins de seguimento do recurso voluntário será: (Incluído pela Lei nº 9.639, de 25.5.98)~~ (Revogado pela Medida Provisória nº 413, de 2008) (Revogado pela Lei nº 11.727, de 2008)
 
 I - ~~devolvido ao depositante, se aquela lhe for favorável; (Incluído pela Lei nº 9.639, de 25.5.98)~~ (Revogado pela Medida Provisória nº 413, de 2008)
 
@@ -6088,9 +6106,11 @@ II - ~~convertido em pagamento, devidamente deduzido do valor da exigência, se 
 
 § 4º Os recursos de que tratam os incisos I e III do caput deste artigo poderão ser interpostos diretamente ao Conselho de Recursos da Previdência Social, que emitirá notificação eletrônica automática para o INSS reanalisar, no prazo máximo de 30 (trinta) dias, a decisão administrativa, na forma disciplinada por ato conjunto do Ministério do Trabalho e Previdência, do Conselho de Recursos da Previdência Social e do INSS. (Incluído pela Lei nº 14.441, de 2022)
 
-> **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.876, de 2019; redação — Medida Provisória nº 1.113, de 2022; inclusão — Lei nº 13.846, de 2019; inclusão — Lei nº 13.876, de 2019; redação — Lei nº 10.684, de 30.5.2003; revogação — Lei nº 11.727, de 2008; inclusão — Lei nº 9.639, de 25.5.98; revogação — Medida Provisória nº 413, de 2008; redação — Lei nº 13.846, de 2019; inclusão — Lei nº 14.441, de 2022.
+> **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.876, de 2019; redação — Medida Provisória nº 1.113, de 2022; inclusão — Lei nº 13.846, de 2019; inclusão — Lei nº 13.876, de 2019; redação — Lei nº 10.684, de 30.5.2003; revogação — Medida Provisória nº 413, de 2008; revogação — Lei nº 11.727, de 2008; inclusão — Lei nº 9.639, de 25.5.98; redação — Lei nº 13.846, de 2019; inclusão — Lei nº 14.441, de 2022.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 O Conselho de Recursos da Previdência Social (CRPS) julga recursos contra decisões do INSS sobre benefícios, contestações do Fator Acidentário de Prevenção, prova da atividade rural e CNIS, e compensação entre regimes. Entrar com ação judicial sobre o mesmo pedido implica renúncia ao recurso administrativo, e o recurso pode ser interposto direto no CRPS, que manda o INSS reanalisar em até 30 dias.
 
@@ -6118,7 +6138,6 @@ O Conselho de Recursos da Previdência Social (CRPS) julga recursos contra decis
 
 - Lei nº 9.796, de 5 de maio de 1999
 - Lei nº 9.717, de 27 de novembro de 1998.
-- Medida Provisória nº 413, de 2008
 
 ---
 
@@ -6431,11 +6450,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 133. A infração a qualquer dispositivo desta Lei, para a qual não haja penalidade expressamente cominada, sujeita o responsável, conforme a gravidade da infração, à multa variável de Cr$ 100.000,00 (cem mil cruzeiros) a Cr$ 10.000.000,00 (dez milhões de cruzeiros). Atualizações decorrentes de normas de hierarquia inferior
 
-Parágrafo único. ~~A autoridade que reduzir ou relevar multa já aplicada recorrerá de ofício para a autoridade hierarquicamente superior.~~ ~~(Revogado pela Medida Provisória nº 449, de 2008)~~ (Revogado pela Lei nº 11.941, de 2009)
+Parágrafo único. ~~A autoridade que reduzir ou relevar multa já aplicada recorrerá de ofício para a autoridade hierarquicamente superior.~~ (Revogado pela Medida Provisória nº 449, de 2008) (Revogado pela Lei nº 11.941, de 2009)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 449, de 2008; revogação — Lei nº 11.941, de 2009.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Infrações a esta lei sem penalidade específica sujeitam o responsável a multa variável conforme a gravidade, com valores atualizados por atos infralegais.
 
@@ -6689,15 +6710,15 @@ Art. 140. ~~O auxílio-natalidade será devido, após 12 (doze) contribuições 
 
 § 1º ~~Não serão exigidas, para os segurados especiais definidos no inciso VII do art. 11, as 12 (doze) contribuições mensais.~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~2º O auxílio-natalidade consistirá no pagamento de uma parcela única no valor de Cr$ 5.000,00 (cinco mil cruzeiros).~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 2º ~~O auxílio-natalidade consistirá no pagamento de uma parcela única no valor de Cr$ 5.000,00 (cinco mil cruzeiros).~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~3º O auxílio-natalidade, independente de convênio para esse fim, deverá ser pago pela empresa com mais de 10(dez) empregados, até 48 (quarenta e oito) horas após a apresentação da certidão de nascimento, sendo que o ressarcimento à empresa será efetuado por ocasião do recolhimento das contribuições previdenciárias, mediante compensação.~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 3º ~~O auxílio-natalidade, independente de convênio para esse fim, deverá ser pago pela empresa com mais de 10(dez) empregados, até 48 (quarenta e oito) horas após a apresentação da certidão de nascimento, sendo que o ressarcimento à empresa será efetuado por ocasião do recolhimento das contribuições previdenciárias, mediante compensação.~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~4º O pagamento do auxílio-natalidade deverá ser anotado na Carteira de Trabalho do empregado, conforme estabelecido no Regulamento.~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 4º ~~O pagamento do auxílio-natalidade deverá ser anotado na Carteira de Trabalho do empregado, conforme estabelecido no Regulamento.~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~5º O segurado de empresa com menos de 10 (dez) empregados e os referidos nos incisos II a VII do art. 11 desta lei receberão o auxílio-natalidade no Posto de Benefícios, mediante formulário próprio e cópia da certidão de nascimento, até 48 (quarenta e oito) horas após a entrega dessa documentação.~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 5º ~~O segurado de empresa com menos de 10 (dez) empregados e os referidos nos incisos II a VII do art. 11 desta lei receberão o auxílio-natalidade no Posto de Benefícios, mediante formulário próprio e cópia da certidão de nascimento, até 48 (quarenta e oito) horas após a entrega dessa documentação.~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~6º O pagamento do auxílio-natalidade ficará sob a responsabilidade da Previdência Social até que entre em vigor lei que disponha sobre os benefícios e serviços da Assistência Social.~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 6º ~~O pagamento do auxílio-natalidade ficará sob a responsabilidade da Previdência Social até que entre em vigor lei que disponha sobre os benefícios e serviços da Assistência Social.~~ (Revogado pela Lei nº 9.528, de 1997)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.528, de 1997.
 
@@ -6731,9 +6752,9 @@ Dispositivo revogado pela Lei nº 9.528, de 1997. Tratava do auxílio-natalidade
 
 Art. 141. ~~Por morte do segurado, com rendimento mensal igual ou inferior a Cr$ 51.000,00 (cinqüenta e um mil cruzeiros), será devido auxílio-funeral, ao executor do funeral, em valor não excedente a Cr$17.000,00 (dezessete mil cruzeiros).~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~1º O executor dependente do segurado receberá o valor máximo previsto~~. (Revogado pela Lei nº 9.528, de 1997)
+§ 1º ~~O executor dependente do segurado receberá o valor máximo previsto.~~ (Revogado pela Lei nº 9.528, de 1997)
 
-~~§~~ ~~2º O pagamento do auxílio-funeral ficará sob a responsabilidade da Previdência Social até que entre em vigor lei que disponha sobre os benefícios e serviços da Assistência Social.~~ (Revogado pela Lei nº 9.528, de 1997)
+§ 2º ~~O pagamento do auxílio-funeral ficará sob a responsabilidade da Previdência Social até que entre em vigor lei que disponha sobre os benefícios e serviços da Assistência Social.~~ (Revogado pela Lei nº 9.528, de 1997)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.528, de 1997.
 
@@ -6853,11 +6874,11 @@ Meses de contribuição exigidos
 
 180 meses
 
-I~~- auxílio-doença, aposentadoria por invalidez, auxílio-reclusão ou pensão por morte, no valor de 1 (um) salário mínimo, durante 1 (um) ano, contado a partir da data da vigência desta lei, desde que seja comprovado o exercício de atividade rural com relação aos meses imediatamente anteriores ao requerimento do benefício, mesmo que de forma descontínua, durante período igual ao da carência do benefício; e~~
-
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 9.032, de 1995.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Tabela de transição da carência para quem se inscreveu na Previdência urbana até 24/7/1991 e para trabalhadores e empregadores rurais, de 60 meses em 1991 a 180 em 2011, conforme o ano em que se completaram os requisitos.
 
@@ -7111,7 +7132,7 @@ Os benefícios de ex-combatentes e de ferroviários servidores federais não opt
 
 **Localização:** TÍTULO IV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Art. 150. ~~Os segurados da Previdência Social, anistiados pela Lei nº 6.683, de 28 de agosto de 1979, ou pela Emenda Constitucional nº 26, de 27 de novembro de 1985, ou ainda pelo art. 8º do Ato das Disposições Constitucionais Transitórias da Constituição Federal terão direito à aposentadoria em regime excepcional, observado o disposto no Regulamento~~. (Revogado pela Lei nº 10.559, de 13.11.2002)
+Art. 150. ~~Os segurados da Previdência Social, anistiados pela Lei nº 6.683, de 28 de agosto de 1979, ou pela Emenda Constitucional nº 26, de 27 de novembro de 1985, ou ainda pelo art. 8º do Ato das Disposições Constitucionais Transitórias da Constituição Federal terão direito à aposentadoria em regime excepcional, observado o disposto no Regulamento.~~ (Revogado pela Lei nº 10.559, de 13.11.2002)
 
 Parágrafo único. ~~O segurado anistiado já aposentado por invalidez, por tempo de serviço ou por idade, bem como seus dependentes em gozo de pensão por morte, podem requerer a revisão do seu benefício para transformação em aposentadoria excepcional ou pensão por morte de anistiado, se mais vantajosa~~ (Revogado pela Lei nº 10.559, de 13.11.2002)
 

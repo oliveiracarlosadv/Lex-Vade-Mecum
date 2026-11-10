@@ -14,7 +14,7 @@
 | Decisões do STF de destaque | Tema 503 (desaposentação); ADIs 2.110 e 2.111 (regra de cálculo da Lei nº 9.876/1999 e carência do salário-maternidade); Tema 709 (aposentado especial exposto); Tema 555 (EPI e ruído); ADI 6.096 (decadência); Tema 1.095 (acréscimo de 25%) |
 | Fonte oficial | Portal da Legislação — Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos) |
 | Link oficial | https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm |
-| Texto obtido em | 8 de novembro de 2026 |
+| Texto obtido em | 10 de novembro de 2026 |
 
 ## Resumo Executivo
 
