@@ -1,0 +1,274 @@
+@CPM 143
+I: Pune quem consegue, para espionagem militar, notícia, informação ou documento sigiloso de interesse da segurança externa. A pena sobe se comprometer a eficiência bélica, se a informação for entregue a estrangeiro, se o agente mantiver serviço de espionagem no país ou usar meio de comunicação em prejuízo da segurança externa. Há forma culposa para quem contribui para o crime.
+P: Espionagem militar || Formas qualificadas || Modalidade culposa
+K: espionagem; segredo militar; segurança externa
+
+@CPM 144
+I: Pune a revelação de notícia, informação ou documento sigiloso de interesse da segurança externa, com pena maior se for para espionagem ou se comprometer a eficiência bélica; há forma culposa.
+P: Revelação de segredo || Fim de espionagem || Modalidade culposa
+K: revelação de segredo; segurança externa
+
+@CPM 145
+I: Pune quem suprime, subtrai, altera ou desvia, ainda que temporariamente, objeto ou documento ligado à segurança externa, com forma qualificada e culposa.
+P: Turbação de objeto ou documento || Forma qualificada || Modalidade culposa
+K: documento militar; segurança externa
+
+@CPM 146
+I: Pune quem penetra sem licença ou clandestinamente em lugar sujeito à administração militar ou centro industrial sob fiscalização militar para colher informação para país estrangeiro. Também pune quem entra nesses locais sem licença portando meio apto à espionagem, como câmera.
+P: Penetração para espionagem || Entrada com equipamento de espionagem
+K: espionagem; área militar; ingresso clandestino
+
+@CPM 147
+I: Pune quem desenha, levanta planta, fotografa ou filma fortificação, quartel, arsenal, navio, aeronave ou engenho de guerra sob administração militar, se não houver crime mais grave.
+P: Registro indevido de instalações militares || Subsidiariedade
+K: espionagem; fotografia; instalação militar
+
+@CPM 148
+I: Pune quem sobrevoa local declarado interdito.
+P: Sobrevoo de área interditada
+K: sobrevoo; espaço aéreo; área interdita
+
+@CPM 149
+I: O motim é a reunião de militares agindo contra ordem superior, recusando obediência, resistindo em conjunto ou ocupando instalações e meios militares em desobediência ou contra a disciplina. Se os agentes estiverem armados, há revolta, com pena maior. Em ambos, os cabeças têm a pena aumentada de um terço.
+P: Motim || Revolta (agentes armados) || Aumento para os cabeças
+K: motim; revolta; disciplina militar; cabeças
+
+@CPM 150
+I: Pune a reunião de dois ou mais militares que, com armamento militar, praticam violência contra pessoa ou coisa, dentro ou fora da área militar (Lei nº 14.688/2023).
+P: Grupo armado para violência
+K: organização de grupo; violência; armamento militar
+
+@CPM 151
+I: Pune o militar que não informa ao superior o motim ou revolta de que teve notícia, ou que, presenciando-o, não usa todos os meios para impedi-lo.
+P: Dever de lealdade e de impedir o motim
+K: omissão de lealdade; motim; revolta
+
+@CPM 152
+I: Pune o concerto de militares para praticar motim ou revolta (conspiração). Fica isento quem denuncia o ajuste antes da execução, quando ainda é possível evitar as consequências.
+P: Conspiração || Isenção pela denúncia
+K: conspiração; motim; delação
+
+@CPM 153
+I: As penas do motim, da revolta e do grupo armado somam-se às da violência praticada.
+P: Cúmulo com a violência
+K: motim; cumulação de penas
+
+@CPM 154
+I: Pune quem alicia militar para motim, revolta ou crimes do mesmo capítulo.
+P: Aliciação para motim ou revolta
+K: aliciação; motim
+
+@CPM 155
+I: Pune quem incita à desobediência, à indisciplina ou à prática de crime militar, e quem introduz, afixa ou distribui em área militar material, inclusive eletrônico, com esse incitamento (Lei nº 14.688/2023).
+P: Incitamento || Material de incitamento em área militar
+K: incitamento; indisciplina; crime militar
+
+@CPM 156
+I: Pune a apologia de fato considerado crime militar ou de seu autor, feita em lugar sujeito à administração militar.
+P: Apologia em área militar
+K: apologia de crime; área militar
+
+@CPM 157
+I: Pune a violência contra superior, com pena maior se a vítima for comandante da unidade ou oficial-general, aumento se houver arma ou se o crime ocorrer em serviço, soma com a pena da lesão e pena de 12 a 30 anos se resultar morte.
+P: Violência contra superior || Qualificadoras e aumentos || Resultado lesão ou morte
+K: violência contra superior; hierarquia; oficial-general
+
+@CPM 158
+I: Pune a violência contra oficial de dia, de serviço ou de quarto, sentinela, vigia ou plantão, com aumento pelo uso de arma, soma com a lesão e pena de 12 a 30 anos se resultar morte.
+P: Violência contra militar de serviço || Resultado lesão ou morte
+K: sentinela; militar de serviço; violência
+
+@CPM 159
+I: Se da violência resulta morte ou lesão sem dolo, nem eventual, a pena do crime contra a pessoa é diminuída de metade.
+P: Resultado sem dolo
+K: preterdolo; violência contra superior
+
+@CPM 160
+I: Pune o desrespeito a superior diante de outro militar, com aumento de metade se a vítima for comandante, oficial-general ou oficial de serviço.
+P: Desrespeito a superior || Aumento por qualidade da vítima
+K: desrespeito a superior; hierarquia
+
+@CPM 161
+I: Pune o militar que, diante da tropa ou em área militar, ultraja símbolo nacional. O crime gera indignidade para o oficialato (art. 100).
+P: Ultraje a símbolo nacional || Indignidade para o oficialato
+K: símbolo nacional; ultraje; bandeira
+
+@CPM 162
+I: Pune quem se despoja de uniforme, condecoração, insígnia ou distintivo por menosprezo, com aumento se for diante da tropa ou em público.
+P: Despojamento por menosprezo
+K: uniforme; condecoração; menosprezo
+
+@CPM 163
+I: Pune a recusa de obedecer a ordem do superior sobre matéria de serviço ou dever legal, se não houver crime mais grave.
+P: Recusa de obediência
+K: insubordinação; recusa de obediência
+
+@CPM 164
+I: Pune quem se opõe às ordens da sentinela.
+P: Oposição à sentinela
+K: sentinela; insubordinação
+
+@CPM 165
+I: Pune quem promove reunião de militares, ou dela participa, para discutir ato de superior ou assunto disciplinar.
+P: Reunião ilícita || Pena maior para o promotor
+K: reunião ilícita; disciplina militar
+
+@CPM 166
+I: Pune o militar que publica sem licença ato ou documento oficial, ou critica publicamente ato de superior, assunto disciplinar ou resolução do Governo. Sua aplicação deve ser compatibilizada com a liberdade de expressão (CF, art. 5º, IV e IX).
+P: Publicação ou crítica indevida || Limites da liberdade de expressão
+K: crítica indevida; liberdade de expressão; disciplina militar
+
+@CPM 167
+I: Pune o militar que assume comando ou direção de estabelecimento militar sem ordem ou autorização, salvo em grave emergência.
+P: Usurpação de comando
+K: usurpação; comando
+
+@CPM 168
+I: Pune quem conserva comando ou função depois de receber ordem para deixá-los ou transmiti-los.
+P: Conservação ilegal de comando
+K: comando; desobediência
+
+@CPM 169
+I: Pune o comandante que, sem ordem superior, determina movimento de tropa ou ação militar, com pena maior se em território estrangeiro ou contra força estrangeira.
+P: Operação militar sem ordem || Forma qualificada
+K: operação militar; comandante; tropa
+
+@CPM 170
+I: Pune o comandante que ordena arbitrariamente a entrada de seus comandados em águas ou território estrangeiro, ou o sobrevoo deles.
+P: Ordem arbitrária de invasão
+K: invasão; território estrangeiro; comandante
+
+@CPM 171
+I: Pune o militar que usa indevidamente uniforme, distintivo ou insígnia de posto ou graduação superior (Lei nº 14.688/2023).
+P: Uso indevido de insígnia superior
+K: uniforme; insígnia; posto
+
+@CPM 172
+I: Pune qualquer pessoa que usa indevidamente uniforme, distintivo ou insígnia militar a que não tem direito.
+P: Uso indevido por qualquer pessoa
+K: uniforme militar; insígnia; uso indevido
+
+@CPM 173
+I: Pune o abuso do direito de requisição militar, por excesso de poderes ou recusa de cumprir dever legal.
+P: Abuso de requisição militar
+K: requisição militar; abuso de autoridade
+
+@CPM 174
+I: Pune quem excede a faculdade de punir o subordinado, com rigor não permitido, ou o ofende por palavra, ato ou escrito.
+P: Rigor excessivo || Ofensa ao subordinado
+K: rigor excessivo; abuso de autoridade; subordinado
+
+@CPM 175
+I: Pune a violência contra inferior hierárquico (Lei nº 14.688/2023), somando-se a pena da lesão ou morte, com a redução do art. 159 quando não houver dolo no resultado.
+P: Violência contra inferior || Resultado mais grave
+K: violência contra inferior; hierarquia
+
+@CPM 176
+I: Pune a ofensa a inferior hierárquico por ato de violência aviltante pela natureza ou pelo meio, com a mesma regra para lesão ou morte.
+P: Ofensa aviltante
+K: ofensa aviltante; inferior hierárquico
+
+@CPM 177
+I: Pune a oposição a ato legal mediante ameaça ou violência ao executor ou a quem o auxilia, com pena maior se o ato não se executa e de 6 a 20 anos se resultar morte (Lei nº 14.688/2023), além da pena da violência.
+P: Resistência || Ato não executado || Resultado morte
+K: resistência; violência; ato legal
+
+@CPM 178
+I: Pune quem promove ou facilita a fuga de preso ou internado, com pena maior se houver arma, mais de um agente ou arrombamento, ou se o autor for o responsável pela custódia; soma-se a pena da violência.
+P: Fuga de preso || Formas qualificadas || Agente custodiante
+K: fuga de preso; custódia
+
+@CPM 179
+I: Pune quem, por culpa, deixa fugir preso confiado à sua guarda ou condução.
+P: Fuga culposa
+K: fuga de preso; culpa; custódia
+
+@CPM 180
+I: Pune o preso ou internado que se evade ou tenta evadir-se com violência à pessoa, ou mediante arrombamento da prisão militar. Se sucede deserção, as penas se somam.
+P: Evasão com violência || Arrombamento || Soma com a deserção
+K: evasão; preso; deserção
+
+@CPM 181
+I: Pune quem arrebata preso ou internado da guarda militar para maltratá-lo, além da pena da violência.
+P: Arrebatamento de preso
+K: arrebatamento; preso; custódia militar
+
+@CPM 182
+I: Pune o amotinamento de presos ou internados que perturbe a disciplina da prisão militar, com pena maior para os cabeças, e o oficial presente que não usa os meios para debelá-lo.
+P: Amotinamento de presos || Responsabilidade do oficial omisso
+K: amotinamento; presos; prisão militar
+
+@CPM 183
+I: Pune o convocado que não se apresenta à incorporação no prazo ou se ausenta antes dela, e o dispensado temporariamente que não se apresenta após o licenciamento. A pena é de impedimento, diminuída de um terço pelo erro escusável ou pela apresentação voluntária em até 1 ano.
+P: Insubmissão || Pena de impedimento || Diminuição de um terço
+K: insubmissão; convocação; serviço militar
+
+@CPM 184
+I: Pune quem cria ou simula incapacidade física para se livrar do serviço militar.
+P: Simulação de incapacidade
+K: insubmissão; incapacidade física; simulação
+
+@CPM 185
+I: Pune o convocado que se faz substituir por outro na apresentação ou inspeção de saúde, e quem o substitui.
+P: Substituição de convocado
+K: insubmissão; fraude; inspeção de saúde
+
+@CPM 186
+I: Pune quem dá asilo, emprega ou facilita meio para que o convocado escape da incorporação, sabendo do crime. Ascendente, descendente, cônjuge ou irmão ficam isentos.
+P: Favorecimento a convocado || Isenção para parentes
+K: favorecimento; insubmissão
+
+@CPM 187
+I: Comete deserção o militar que se ausenta sem licença da unidade ou do lugar onde deve permanecer por mais de oito dias. Se oficial, a pena é agravada. O processo da deserção tem regras próprias no Código de Processo Penal Militar.
+P: Deserção || Prazo de graça de oito dias || Agravação para oficial
+K: deserção; ausência; crime militar próprio
+
+@CPM 188
+I: Também comete deserção o militar que não se apresenta em oito dias após trânsito, férias, licença, agregação, pena cumprida ou declaração de sítio ou guerra, ou que obtém exclusão ou inatividade simulando incapacidade.
+P: Casos assimilados à deserção
+K: deserção; casos assimilados
+
+@CPM 189
+I: Na deserção, a apresentação voluntária em até oito dias reduz a pena à metade, e entre oito e sessenta dias, de um terço. A deserção em unidade de fronteira ou no exterior aumenta a pena de um terço.
+P: Atenuante especial da apresentação voluntária || Agravante de fronteira ou exterior
+K: deserção; apresentação voluntária
+
+@CPM 190
+I: Comete deserção especial o militar que não se apresenta na partida do navio, aeronave ou deslocamento da unidade, com penas crescentes conforme a demora na apresentação (até 24 horas, 5 dias, 8 dias ou mais), aumentadas para sargentos, subtenentes, suboficiais e oficiais.
+P: Deserção especial || Penas escalonadas pelo tempo || Aumento por graduação
+K: deserção especial; navio; aeronave
+
+@CPM 191
+I: Pune o concerto de militares para desertar, com pena maior se a deserção se consumar.
+P: Concerto para deserção
+K: deserção; concerto
+
+@CPM 192
+I: Comete deserção o militar que foge da escolta, da prisão ou após um crime para evitar prisão e permanece ausente por mais de oito dias.
+P: Deserção por evasão ou fuga
+K: deserção; fuga; evasão
+
+@CPM 193
+I: Pune quem dá asilo, emprega ou ajuda a ocultar desertor, sabendo do crime; parentes próximos ficam isentos.
+P: Favorecimento a desertor || Isenção para parentes
+K: favorecimento; deserção
+
+@CPM 194
+I: Pune o oficial que deixa de agir contra desertor que sabe ou deveria saber estar entre seus comandados.
+P: Omissão de oficial
+K: deserção; omissão; oficial
+
+@CPM 195
+I: Pune quem abandona, sem ordem superior, o posto ou lugar de serviço, ou o serviço antes de terminá-lo.
+P: Abandono de posto
+K: abandono de posto; serviço militar
+
+@CPM 196
+I: Pune o militar que deixa de cumprir a missão confiada, com aumento se for oficial ou tiver função de comando; há forma culposa.
+P: Descumprimento de missão || Aumentos || Modalidade culposa
+K: descumprimento de missão; dever militar
+
+@CPM 197
+I: Pune o oficial que não restitui, na passagem de função ou quando exigido, objeto, plano, cifra, código ou documento confiado, com pena maior se envolver segredo de segurança nacional.
+P: Retenção indevida || Segredo de segurança nacional
+K: retenção indevida; documento militar; sigilo

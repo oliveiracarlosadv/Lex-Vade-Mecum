@@ -1,0 +1,274 @@
+@CPM 198
+I: Pune o comandante que deixa de manter em estado de eficiência a força sob seu comando.
+P: Omissão de eficiência da força
+K: comandante; eficiência; omissão
+
+@CPM 199
+I: Pune o comandante que não emprega todos os meios para evitar perda, destruição ou inutilização de instalações, navio, aeronave ou engenho de guerra em perigo; há forma culposa.
+P: Omissão para evitar danos || Modalidade culposa
+K: comandante; dano; omissão
+
+@CPM 200
+I: Pune o comandante que, em incêndio, naufrágio ou perigo semelhante, não toma todas as providências para salvar os comandados e não é o último a deixar o navio, a aeronave ou o quartel; há forma culposa.
+P: Dever de salvar os comandados || Comandante como último a sair || Modalidade culposa
+K: comandante; naufrágio; salvamento
+
+@CPM 201
+I: Pune o comandante que, sem justa causa, deixa de socorrer navio ou aeronave em perigo ou náufragos que pediram socorro.
+P: Omissão de socorro pelo comandante
+K: omissão de socorro; náufragos; comandante
+
+@CPM 202
+I: Pune o militar que se embriaga em serviço ou se apresenta embriagado para prestá-lo.
+P: Embriaguez em serviço
+K: embriaguez; serviço militar
+
+@CPM 203
+I: Pune o militar que dorme em serviço como oficial de quarto ou de ronda, sentinela, vigia, plantão ou serviço semelhante.
+P: Dormir em serviço
+K: dormir em serviço; sentinela
+
+@CPM 204
+I: Pune o oficial da ativa que comercia ou participa da administração ou sociedade comercial, salvo como acionista ou cotista.
+P: Vedação ao comércio pelo oficial || Exceção do acionista e cotista
+K: exercício de comércio; oficial da ativa
+
+@CPM 205
+I: Pune o homicídio simples (6 a 20 anos), com redução de 1/6 a 1/3 por relevante valor ou violenta emoção, e o qualificado (12 a 30 anos): motivo fútil ou torpe, meio cruel, traição, para assegurar outro crime, prevalecendo-se do serviço ou contra agentes de segurança pública, militares e seus familiares em razão da função (Lei nº 14.688/2023).
+P: Homicídio simples || Homicídio privilegiado || Qualificadoras || Vítima agente de segurança (Lei nº 14.688/2023)
+K: homicídio; qualificadoras; privilégio
+
+@CPM 206
+I: Pune o homicídio culposo, com aumento de 1/3 pela inobservância de regra técnica ou falta de socorro e de 1/6 até metade se houver várias vítimas. O juiz pode deixar de aplicar a pena se as consequências atingirem gravemente o próprio agente (perdão judicial, Lei nº 14.688/2023).
+P: Homicídio culposo || Aumentos || Perdão judicial
+K: homicídio culposo; perdão judicial
+
+@CPM 207
+I: Pune quem induz, instiga ou auxilia suicídio consumado, com pena dobrada por motivo egoístico ou vítima menor ou vulnerável. Também pune quem leva ao suicídio por maus-tratos desumanos e reiterados; se o suicídio só é tentado com lesão grave, a pena é reduzida.
+P: Participação em suicídio || Provocação indireta por maus-tratos || Redução na tentativa com lesão grave
+K: suicídio; induzimento; maus-tratos
+
+@CPM 208
+I: Pune o genocídio, matar membros de grupo nacional, étnico, religioso ou racial para destruí-lo, e os atos assimilados com o mesmo fim (lesões graves, condições de extermínio, dispersão, impedir nascimentos, transferir crianças).
+P: Genocídio || Atos assimilados
+K: genocídio; grupo étnico; crime contra a humanidade
+
+@CPM 209
+I: Pune a lesão leve, a grave e a gravíssima dolosas, a lesão com resultados agravados culposos e a lesão seguida de morte (4 a 12 anos, Lei nº 14.688/2023). Há redução por relevante valor ou violenta emoção, ou por lesões recíprocas, e a lesão levíssima pode ser tratada como infração disciplinar.
+P: Graus da lesão corporal || Lesão seguida de morte || Lesão levíssima como infração disciplinar
+K: lesão corporal; lesão grave; lesão seguida de morte
+
+@CPM 210
+I: Pune a lesão culposa, com aumento de 1/3 pela inobservância de regra técnica ou falta de socorro e de 1/6 até metade com várias vítimas, admitindo perdão judicial (Lei nº 14.688/2023).
+P: Lesão culposa || Aumentos || Perdão judicial
+K: lesão culposa; perdão judicial
+
+@CPM 211
+I: Pune a participação em rixa, salvo para separar os contendores, com pena maior se resultar morte ou lesão grave.
+P: Rixa || Resultado mais grave
+K: rixa; participação
+
+@CPM 212
+I: Pune o militar que abandona pessoa sob seu cuidado incapaz de se defender, com penas maiores se houver lesão grave ou morte e aumento de 1/3 em lugar ermo, por parente ou contra idoso, criança ou pessoa com deficiência (Lei nº 14.688/2023).
+P: Abandono de pessoa || Resultado mais grave || Aumentos
+K: abandono de incapaz; periclitação
+
+@CPM 213
+I: Pune os maus-tratos a pessoa sob autoridade ou guarda, em área militar ou função militar, por privação de cuidados, trabalho excessivo ou abuso de correção, com penas maiores se houver lesão grave ou morte e aumento contra criança, idoso ou pessoa com deficiência.
+P: Maus-tratos || Resultado mais grave || Aumento por vulnerabilidade
+K: maus-tratos; disciplina; vulnerável
+
+@CPM 214
+I: Pune a calúnia, imputar falsamente fato definido como crime, e quem a propaga. A exceção da verdade exclui o crime, salvo em crime de ação privada sem condenação, contra o Presidente ou chefe de governo estrangeiro, ou quando o ofendido foi absolvido.
+P: Calúnia || Exceção da verdade e suas vedações
+K: calúnia; exceção da verdade; honra
+
+@CPM 215
+I: Pune a difamação, imputar fato ofensivo à reputação. A exceção da verdade só é admitida quando a ofensa se refere ao exercício de função pública, militar ou civil.
+P: Difamação || Exceção da verdade restrita
+K: difamação; honra
+
+@CPM 216
+I: Pune a injúria, ofensa à dignidade ou ao decoro, com perdão judicial na provocação reprovável ou retorsão imediata. A injúria com elementos de raça, cor, etnia, religião, origem, orientação sexual, idade ou deficiência é qualificada (Lei nº 14.688/2023).
+P: Injúria || Perdão judicial || Injúria qualificada por preconceito
+K: injúria; injúria preconceituosa; honra
+
+@CPM 217
+I: Pune a injúria real, praticada por violência ou ato aviltante, além da pena da violência.
+P: Injúria real
+K: injúria real; violência
+
+@CPM 218
+I: Os crimes contra a honra têm pena aumentada de 1/3 se cometidos contra o Presidente ou chefe de governo estrangeiro, contra superior, contra militar ou servidor em razão da função, ou diante de duas ou mais pessoas, de inferior do ofendido ou por meio que facilite a divulgação; mediante paga, a pena é dobrada.
+P: Aumentos nos crimes contra a honra || Pena em dobro mediante paga
+K: crimes contra a honra; aumento de pena
+
+@CPM 219
+I: Pune quem propala fatos que sabe inverídicos capazes de ofender a dignidade ou abalar o crédito das Forças Armadas, com aumento se pela imprensa, rádio ou televisão.
+P: Ofensa às Forças Armadas || Aumento pela imprensa
+K: ofensa às Forças Armadas; fake news; honra institucional
+
+@CPM 220
+I: Não há ofensa punível, salvo intenção inequívoca, na ofensa em juízo entre partes, na crítica literária, artística ou científica, na crítica às instituições militares e no conceito desfavorável dado por dever de ofício; quem dá publicidade responde.
+P: Exclusão de crime nas ofensas || Crítica às instituições militares
+K: exclusão do crime; imunidade judiciária; crítica
+
+@CPM 221
+I: Diante de ofensa equívoca, quem se julga atingido pode pedir explicações em juízo; a recusa ou explicação insatisfatória leva à responsabilização.
+P: Pedido de explicações
+K: pedido de explicações; honra
+
+@CPM 222
+I: Pune o constrangimento ilegal mediante violência, grave ameaça ou redução da resistência, com pena em dobro se houver mais de três pessoas, arma ou abuso de autoridade para obter confissão ou depoimento. Não é crime a intervenção médica urgente nem a coação para impedir suicídio.
+P: Constrangimento ilegal || Pena em dobro || Excludentes
+K: constrangimento ilegal; liberdade individual
+
+@CPM 223
+I: Pune a ameaça de mal injusto e grave, com aumento se motivada por fato de serviço militar.
+P: Ameaça || Aumento por motivo de serviço
+K: ameaça; liberdade individual
+
+@CPM 224
+I: Pune o militar que desafia outro para duelo ou aceita o desafio, mesmo que o duelo não ocorra.
+P: Desafio para duelo
+K: duelo; militar
+
+@CPM 225
+I: Pune o sequestro e cárcere privado, com pena maior contra parente, idoso, menor ou pessoa com deficiência, por internação, por mais de 15 dias ou com fins libidinosos (Lei nº 14.688/2023), e formas qualificadas por grave sofrimento ou morte.
+P: Sequestro e cárcere privado || Qualificadoras
+K: sequestro; cárcere privado; liberdade
+
+@CPM 226
+I: Pune a violação de domicílio, com forma qualificada à noite, com violência, arma ou várias pessoas, e aumento se praticada por militar em serviço ou servidor fora da lei. Não é crime entrar de dia para diligência legal ou a qualquer hora para socorro ou flagrante. Define o que é e o que não é "casa".
+P: Violação de domicílio || Exclusões || Conceito de casa
+K: violação de domicílio; inviolabilidade; casa
+
+@CPM 227
+I: Pune a violação de correspondência e de comunicações telegráficas, radioelétricas ou telefônicas, com aumento se houver dano e pena maior por abuso de função em serviço de comunicação. Salvo esta última, só é crime militar entre militares da ativa (art. 9º, II, a).
+P: Violação de correspondência || Natureza militar restrita
+K: correspondência; sigilo das comunicações
+
+@CPM 228
+I: Pune a divulgação, sem justa causa, de documento particular sigiloso ou correspondência confidencial, se puder causar dano.
+P: Divulgação de segredo
+K: segredo; documento sigiloso
+
+@CPM 229
+I: Pune a violação do recato pessoal ou de palavras não ditas em público por processo técnico, inclusive quem divulga o captado; processo técnico é qualquer meio de registro não consentido (Lei nº 14.688/2023).
+P: Violação de recato || Divulgação || Conceito de processo técnico
+K: privacidade; gravação não autorizada; recato
+
+@CPM 230
+I: Pune quem revela, sem justa causa, segredo conhecido em razão de função ou profissão exercida em local militar, se puder causar dano.
+P: Violação de segredo profissional
+K: segredo profissional; sigilo
+
+@CPM 231
+I: A divulgação de segredo e a violação de recato só são crimes militares quando praticadas por militar da ativa contra militar da ativa (art. 9º, II, a).
+P: Natureza militar restrita
+K: crime militar; segredo; recato
+
+@CPM 232
+I: Pela Lei nº 14.688/2023, o estupro abrange a conjunção carnal e outro ato libidinoso mediante violência ou grave ameaça, com pena de 6 a 10 anos, maior se houver lesão grave ou vítima entre 14 e 18 anos, de 12 a 30 anos se resultar morte, e de 8 a 15 anos se a vítima for menor de 14 anos ou vulnerável. O § 3º é objeto da ADI 7555.
+P: Estupro unificado (Lei nº 14.688/2023) || Formas qualificadas || Vítima vulnerável
+K: estupro; dignidade sexual; vulnerável
+
+@CPM 233
+I: O atentado violento ao pudor foi revogado pela Lei nº 14.688/2023, pois a conduta passou a integrar o estupro (art. 232).
+P: Revogação e absorção pelo estupro
+K: atentado violento ao pudor; revogação
+
+@CPM 234
+I: Pune quem induz menor de 14 anos a satisfazer a lascívia de outrem (Lei nº 14.688/2023).
+P: Corrupção de menores
+K: corrupção de menores; lascívia
+
+@CPM 235
+I: Pela Lei nº 14.688/2023, pune o militar que pratica ou permite que com ele se pratique ato libidinoso em lugar sujeito à administração militar ou no exercício da função. A antiga referência a "pederastia ou outro" foi suprimida, em linha com a decisão do STF na ADPF 291.
+P: Ato libidinoso em área militar || Supressão do termo discriminatório (ADPF 291)
+K: ato libidinoso; disciplina militar; ADPF 291
+
+@CPM 236
+I: Presume-se a violência se a vítima não é maior de 14 anos (salvo fundada suposição contrária), é doente ou deficiente mental conhecido do agente ou não pode resistir. O artigo é objeto da ADI 7555.
+P: Presunção de violência || ADI 7555
+K: presunção de violência; vulnerável
+
+@CPM 237
+I: Nos crimes sexuais, a pena é agravada se houver concurso de duas ou mais pessoas ou se o autor for oficial ou militar em serviço.
+P: Agravação nos crimes sexuais
+K: crimes sexuais; agravação
+
+@CPM 238
+I: Pune o ato obsceno em lugar sujeito à administração militar, agravado se praticado por oficial ou militar em serviço.
+P: Ato obsceno
+K: ato obsceno; pudor
+
+@CPM 239
+I: Pune quem produz, distribui, vende, exibe ou mantém objeto obsceno em área militar ou durante exercícios, ou o oferece a militares em serviço.
+P: Escrito ou objeto obsceno
+K: objeto obsceno; área militar
+
+@CPM 240
+I: Pune o furto, com atenuação para primário e coisa de pequeno valor (inclusive como infração disciplinar) ou restituição antes da ação penal. Há penas maiores à noite, contra a Fazenda Pública e nas qualificadoras de rompimento de obstáculo, fraude, chave falsa, concurso ou subtração de arma, munição ou material militar (Lei nº 14.688/2023). Energia equipara-se a coisa móvel.
+P: Furto simples e atenuado || Furto noturno e contra a Fazenda || Qualificadoras || Material bélico (Lei nº 14.688/2023)
+K: furto; furto qualificado; material bélico
+
+@CPM 241
+I: Pune o furto de uso, subtração para uso momentâneo com restituição imediata, com aumento se for veículo, embarcação, aeronave, arma ou animal.
+P: Furto de uso || Aumentos
+K: furto de uso
+
+@CPM 242
+I: Pune o roubo, próprio e impróprio, com aumento de 1/3 até metade por arma, concurso, vítima em transporte de valores ou serviço militar, lesão grave, morte culposa, veículo levado a outro Estado, restrição da liberdade da vítima ou subtração de material militar (Lei nº 14.688/2023). O latrocínio (morte dolosa) tem pena de 15 a 30 anos, ainda que a subtração não se consume.
+P: Roubo próprio e impróprio || Causas de aumento || Latrocínio
+K: roubo; latrocínio; causas de aumento
+
+@CPM 243
+I: Pune a extorsão mediante violência ou grave ameaça para obter vantagem econômica, com as mesmas causas de aumento e o latrocínio do roubo.
+P: Extorsão || Remissão ao roubo
+K: extorsão; vantagem econômica
+
+@CPM 244
+I: Pune a extorsão mediante sequestro, com penas maiores por duração, idade da vítima, número de agentes, sofrimento ou violência. O coautor que denuncia o crime e facilita a libertação tem a pena reduzida de 1/3 a 2/3 (Lei nº 14.688/2023).
+P: Extorsão mediante sequestro || Qualificadoras || Delação premiada
+K: extorsão mediante sequestro; delação premiada
+
+@CPM 245
+I: Pune a chantagem, obter vantagem econômica ameaçando revelar fato que lese a reputação da vítima ou de pessoa próxima, agravada se pela imprensa.
+P: Chantagem
+K: chantagem; extorsão
+
+@CPM 246
+I: Pune quem obtém, como garantia de dívida e abusando da necessidade do devedor, documento que possa dar causa a procedimento penal.
+P: Extorsão indireta
+K: extorsão indireta; garantia de dívida
+
+@CPM 247
+I: Nos crimes de roubo e extorsão, a pena é agravada se a violência for contra superior ou militar de serviço.
+P: Agravação pela qualidade da vítima
+K: roubo; extorsão; superior
+
+@CPM 248
+I: Pune a apropriação indébita de coisa alheia móvel de que se tem a posse ou detenção, agravada se o valor for alto ou a coisa recebida em depósito necessário ou em razão de ofício.
+P: Apropriação indébita || Agravação
+K: apropriação indébita
+
+@CPM 249
+I: Pune a apropriação de coisa recebida por erro, caso fortuito ou força da natureza, e de coisa achada não devolvida em 15 dias.
+P: Coisa havida acidentalmente || Coisa achada
+K: apropriação de coisa achada
+
+@CPM 250
+I: Às apropriações indébitas aplicam-se as atenuações do furto para primário e pequeno valor ou reparação do dano.
+P: Atenuações do furto
+K: apropriação indébita; atenuação
+
+@CPM 251
+I: Pune o estelionato, obter vantagem ilícita induzindo ou mantendo alguém em erro por fraude, e suas modalidades: venda de coisa alheia, alienação fraudulenta de coisa própria, defraudação de penhor, fraude na entrega de coisa e fraude no pagamento de cheque. Estas só são crimes militares entre militares da ativa ou contra o patrimônio militar; a pena é agravada se houver prejuízo à administração militar.
+P: Estelionato || Modalidades equiparadas || Natureza militar restrita
+K: estelionato; fraude; cheque
+
+@CPM 252
+I: Pune quem, no exercício de função em unidade militar, abusa da necessidade, paixão, inexperiência ou deficiência mental de alguém para induzi-lo a ato jurídico prejudicial.
+P: Abuso de pessoa
+K: abuso de pessoa; incapaz; fraude

@@ -1,0 +1,299 @@
+@CPM 313
+I: Pune a emissão de cheque sem fundos de militar para militar ou que atente contra a administração militar; é irrelevante o cheque ter sido dado como garantia de dívida (salvo chantagem), com as atenuações do furto.
+P: Cheque sem fundos || Cheque como garantia irrelevante || Atenuações
+K: cheque sem fundos; fraude
+
+@CPM 314
+I: Pune quem, em razão de função ou profissão, atesta falsamente fato que habilite alguém a cargo, isenção ou vantagem, quando atentar contra a administração militar, agravado se houver fim de lucro ou prejuízo de terceiro.
+P: Atestado falso || Agravação
+K: atestado falso; certidão falsa
+
+@CPM 315
+I: Quem usa documento falsificado ou alterado por outrem recebe a pena da falsificação.
+P: Uso de documento falso
+K: uso de documento falso
+
+@CPM 316
+I: Pune quem destrói, suprime ou oculta documento verdadeiro de que não podia dispor, quando atentar contra a administração militar.
+P: Supressão de documento
+K: supressão de documento
+
+@CPM 317
+I: Pune quem usa como próprio documento de identidade, licença ou privilégio alheio, ou cede o seu para outro usar, quando atentar contra a administração militar.
+P: Uso de documento pessoal alheio
+K: documento alheio; identidade
+
+@CPM 318
+I: Pune quem atribui a si ou a terceiro falsa identidade perante a administração militar para obter vantagem ou causar dano.
+P: Falsa identidade
+K: falsa identidade
+
+@CPM 319
+I: Pune a prevaricação, retardar, omitir ou praticar ato de ofício contra a lei para satisfazer interesse ou sentimento pessoal.
+P: Prevaricação
+K: prevaricação; dever funcional
+
+@CPM 320
+I: Pune quem viola o dever funcional em negócio da administração militar para obter vantagem especulativa.
+P: Violação do dever funcional com fim de lucro
+K: dever funcional; vantagem
+
+@CPM 321
+I: Pune quem extravia, sonega ou inutiliza livro oficial ou documento sob sua guarda em razão do cargo.
+P: Extravio ou sonegação de documento
+K: extravio; documento oficial
+
+@CPM 322
+I: Pune a condescendência criminosa: não responsabilizar subordinado infrator ou não comunicar à autoridade competente, por indulgência ou negligência.
+P: Condescendência criminosa
+K: condescendência criminosa; subordinado
+
+@CPM 323
+I: Pune quem, por negligência, deixa de incluir nome em lista de alistamento ou convocação militar.
+P: Omissão em lista de alistamento
+K: alistamento; convocação
+
+@CPM 324
+I: Pune quem, no exercício da função, deixa de observar lei, regulamento ou instrução e causa ato prejudicial à administração militar, com pena maior por tolerância do que por negligência.
+P: Inobservância de norma || Tolerância e negligência
+K: inobservância de lei; administração militar
+
+@CPM 325
+I: Pune quem devassa correspondência da administração militar e quem, mesmo não sendo servidor, se apossa dela, divulga ou impede comunicação de interesse militar.
+P: Violação de correspondência oficial
+K: correspondência oficial; sigilo
+
+@CPM 326
+I: Pune a revelação de segredo funcional em prejuízo da administração militar e, pela Lei nº 14.688/2023, quem facilita acesso não autorizado a sistemas ou bancos de dados militares, inclusive cedendo senha, ou usa indevidamente acesso restrito, com pena maior se houver dano.
+P: Violação de sigilo funcional || Acesso indevido a sistemas || Resultado dano
+K: sigilo funcional; senha; sistemas de informação
+
+@CPM 327
+I: Pune quem devassa ou permite devassar o sigilo de proposta em licitação de interesse militar.
+P: Sigilo de proposta
+K: licitação; sigilo
+
+@CPM 328
+I: Pune quem impede, perturba ou frauda hasta pública ou licitação de interesse da administração militar.
+P: Obstáculo à licitação
+K: licitação; fraude
+
+@CPM 329
+I: Pune quem assume posto ou função antes de cumprir as exigências legais ou continua no exercício após ser exonerado ou afastado.
+P: Exercício funcional ilegal
+K: exercício funcional; exoneração
+
+@CPM 330
+I: Pune o abandono de cargo público em repartição militar, com penas maiores se houver prejuízo ou em faixa de fronteira.
+P: Abandono de cargo || Formas qualificadas
+K: abandono de cargo; fronteira
+
+@CPM 331
+I: Pune quem dá a verbas ou dinheiro público aplicação diversa da prevista em lei.
+P: Emprego irregular de verbas
+K: verbas públicas; aplicação ilegal
+
+@CPM 332
+I: Pune quem abusa da confiança de militar ou servidor apresentando-lhe documento que sabe ou deve saber inexato para aprovação ou pagamento, com agravação se houver prejuízo e forma culposa.
+P: Abuso de confiança || Forma qualificada || Modalidade culposa
+K: abuso de confiança; documento irregular
+
+@CPM 333
+I: Pune quem pratica violência em repartição militar no exercício da função ou a pretexto dela, além da pena da violência.
+P: Violência arbitrária
+K: violência arbitrária; abuso de autoridade
+
+@CPM 334
+I: Pune quem patrocina interesse privado perante a administração militar valendo-se da condição de servidor ou militar, com pena maior se o interesse for ilegítimo.
+P: Patrocínio indébito
+K: advocacia administrativa; patrocínio indébito
+
+@CPM 335
+I: Pune a usurpação de função em repartição militar, com reclusão de 2 a 5 anos se houver vantagem (Lei nº 14.688/2023).
+P: Usurpação de função || Forma qualificada pela vantagem
+K: usurpação de função
+
+@CPM 336
+I: Pune o tráfico de influência, obter vantagem a pretexto de influir em ato de militar ou servidor, com aumento de metade se insinuar que a vantagem também lhe é destinada (Lei nº 14.688/2023).
+P: Tráfico de influência || Aumento de pena
+K: tráfico de influência; vantagem
+
+@CPM 337
+I: Pune quem subtrai ou inutiliza livro oficial, processo ou documento, quando atentar contra a administração militar.
+P: Subtração de documento oficial
+K: documento oficial; subtração
+
+@CPM 338
+I: Pune quem inutiliza edital afixado por ordem militar ou viola selo ou sinal oficial de identificação ou fechamento.
+P: Inutilização de edital ou selo
+K: edital; selo oficial
+
+@CPM 339
+I: Pune quem frauda licitação de compra ou venda para as Forças Armadas, elevando preços, alterando a mercadoria ou impedindo a concorrência, inclusive o intermediário, com aumento em grave crise econômica.
+P: Fraude à licitação militar || Intermediário || Aumento em crise
+K: fraude à licitação; Forças Armadas
+
+@CPM 340
+I: Pune o militar que se recusa, sem motivo legal, a exercer função na Justiça Militar (por exemplo, integrar Conselho de Justiça).
+P: Recusa de função na Justiça Militar
+K: Justiça Militar; Conselho de Justiça
+
+@CPM 341
+I: Pune o desacato a autoridade judiciária militar no exercício da função ou em razão dela.
+P: Desacato a juiz militar
+K: desacato; Justiça Militar
+
+@CPM 342
+I: Pune a coação no curso do processo, violência ou grave ameaça contra autoridade, parte ou pessoa que atue em inquérito ou processo militar.
+P: Coação no curso do processo
+K: coação no curso do processo
+
+@CPM 343
+I: Pune a denunciação caluniosa que dá causa a inquérito ou processo militar contra inocente, agravada se houver anonimato ou nome falso.
+P: Denunciação caluniosa
+K: denunciação caluniosa
+
+@CPM 344
+I: Pune quem comunica à autoridade crime militar que sabe não ter ocorrido.
+P: Comunicação falsa de crime
+K: comunicação falsa de crime
+
+@CPM 345
+I: Pune quem se acusa falsamente de crime militar inexistente ou praticado por outro.
+P: Autoacusação falsa
+K: autoacusação falsa
+
+@CPM 346
+I: Pune o falso testemunho ou falsa perícia em inquérito ou processo militar, com aumento se houver suborno; a retratação antes da sentença extingue a punibilidade.
+P: Falso testemunho || Retratação
+K: falso testemunho; falsa perícia
+
+@CPM 347
+I: Pune quem oferece vantagem a testemunha, perito, tradutor ou intérprete para mentir ou calar em processo militar, ainda que a oferta não seja aceita.
+P: Corrupção de testemunha
+K: corrupção de testemunha; suborno
+
+@CPM 348
+I: Pune quem faz pela imprensa, rádio ou TV, antes da decisão definitiva, comentário que pressione testemunha ou perito em processo penal militar.
+P: Publicidade opressiva
+K: publicidade opressiva; imprensa
+
+@CPM 349
+I: Pune quem deixa de cumprir, retarda ou frauda decisão da Justiça Militar, inclusive quanto a medidas de segurança, respondendo os representantes da entidade interditada.
+P: Desobediência a decisão judicial
+K: desobediência; decisão judicial
+
+@CPM 350
+I: Pune o favorecimento pessoal, ajudar o autor de crime militar a fugir da autoridade, com pena menor se o crime for punido com detenção ou impedimento. Parentes próximos ficam isentos.
+P: Favorecimento pessoal || Isenção para parentes
+K: favorecimento pessoal
+
+@CPM 351
+I: Pune o favorecimento real, auxílio para tornar seguro o proveito do crime, fora da coautoria e da receptação.
+P: Favorecimento real
+K: favorecimento real
+
+@CPM 352
+I: Pune quem inutiliza, sonega ou desvia autos, documento ou objeto de valor probante sob sua guarda; há forma culposa.
+P: Inutilização de prova || Modalidade culposa
+K: prova; autos; sonegação
+
+@CPM 353
+I: Pune a exploração de prestígio, receber vantagem a pretexto de influir em juiz, promotor, servidor, perito ou testemunha da Justiça Militar, com aumento se insinuar que a vantagem lhes é destinada.
+P: Exploração de prestígio
+K: exploração de prestígio; Justiça Militar
+
+@CPM 354
+I: Pune quem exerce função, atividade ou direito de que foi suspenso ou privado pela Justiça Militar.
+P: Descumprimento de suspensão de direito
+K: desobediência; suspensão de direito
+
+@CPM 355
+I: Em tempo de guerra, pune com morte (grau máximo) ou reclusão de 20 anos (mínimo) o nacional que toma armas contra o Brasil ou aliado ou serve nas forças de nação inimiga. A pena de morte só é admitida em guerra declarada (CF, art. 5º, XLVII, a).
+P: Traição || Pena de morte em tempo de guerra
+K: traição; tempo de guerra; pena de morte
+
+@CPM 356
+I: Pune o nacional que favorece o inimigo ou prejudica as operações ou a eficiência militar, por ação ou omissão, entregando ou expondo meios militares, sacrificando força ou abandonando posição ou missão.
+P: Favor ao inimigo
+K: favor ao inimigo; tempo de guerra
+
+@CPM 357
+I: Pune com as penas da traição o nacional que, em guerra, pratica atentado à soberania (art. 142).
+P: Atentado à soberania em guerra
+K: soberania; traição; tempo de guerra
+
+@CPM 358
+I: Pune o nacional que, por conluio, violência, ameaça ou tumulto, tenta obrigar o comandante a não agir, recuar ou render-se.
+P: Coação a comandante
+K: coação a comandante; tempo de guerra
+
+@CPM 359
+I: Pune o nacional que presta ao inimigo informação ou auxílio que facilite sua ação militar.
+P: Auxílio ao inimigo
+K: auxílio ao inimigo; tempo de guerra
+
+@CPM 360
+I: Pune o nacional que alicia militar a passar para o inimigo ou a ajudá-lo.
+P: Aliciação de militar
+K: aliciação; inimigo
+
+@CPM 361
+I: Pune o nacional que, em presença do inimigo, provoca debandada, impede reunião da tropa ou causa alarme para gerar confusão ou desordem.
+P: Ato prejudicial à eficiência da tropa
+K: debandada; presença do inimigo
+
+@CPM 362
+I: A traição imprópria pune o estrangeiro que pratica os crimes de favor ao inimigo e traição listados, com pena mínima menor (10 anos).
+P: Traição imprópria do estrangeiro
+K: traição imprópria; estrangeiro
+
+@CPM 363
+I: Pune a covardia, o militar que por medo, em presença do inimigo, se furta ou tenta se furtar ao dever militar.
+P: Covardia
+K: covardia; presença do inimigo
+
+@CPM 364
+I: Pune a covardia qualificada, quando o militar, por temor, provoca debandada, impede a reunião ou causa alarme em presença do inimigo.
+P: Covardia qualificada
+K: covardia; debandada
+
+@CPM 365
+I: Pune o militar que foge ou incita à fuga em presença do inimigo.
+P: Fuga em presença do inimigo
+K: fuga; presença do inimigo
+
+@CPM 366
+I: Em tempo de guerra, a espionagem e a revelação de segredo em favor do inimigo ou contra as operações militares são punidas com morte ou reclusão; o concurso culposo tem pena de 3 a 6 anos.
+P: Espionagem em tempo de guerra || Concurso culposo
+K: espionagem; tempo de guerra
+
+@CPM 367
+I: Pune o estrangeiro que entra no país ou se infiltra em força em operação para colher informação militar em benefício do inimigo.
+P: Penetração de estrangeiro
+K: espionagem; estrangeiro; infiltração
+
+@CPM 368
+I: Em tempo de guerra, motim, revolta e conspiração são punidos com morte ou reclusão para os cabeças e reclusão para os coautores, com penas maiores em presença do inimigo.
+P: Motim e revolta em guerra || Presença do inimigo
+K: motim; revolta; tempo de guerra
+
+@CPM 369
+I: Em tempo de guerra, a omissão de lealdade militar (art. 151) tem pena de 4 a 12 anos.
+P: Omissão de lealdade em guerra
+K: omissão de lealdade; tempo de guerra
+
+@CPM 370
+I: Em tempo de guerra, o incitamento à desobediência, à indisciplina ou ao crime militar, inclusive por material distribuído em área militar, tem pena de 3 a 10 anos.
+P: Incitamento em guerra
+K: incitamento; tempo de guerra
+
+@CPM 371
+I: O incitamento em presença do inimigo é punido com morte ou reclusão.
+P: Incitamento em presença do inimigo
+K: incitamento; presença do inimigo
+
+@CPM 372
+I: Pune o comandante que se rende sem esgotar os recursos extremos de ação militar ou que, na capitulação, não age conforme o dever militar.
+P: Rendição ou capitulação indevida
+K: rendição; capitulação; comandante

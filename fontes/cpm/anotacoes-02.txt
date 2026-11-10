@@ -1,0 +1,249 @@
+@CPM 46
+I: Mesmo no excesso doloso, em que o agente responde pelo crime, o juiz pode atenuar a pena.
+P: Atenuação no excesso doloso
+K: excesso doloso; atenuação de pena
+
+@CPM 47
+I: A qualidade de superior ou inferior deixa de ser elemento do crime quando o agente não a conhece. A qualidade de superior, inferior, oficial de dia, de serviço, de quarto, sentinela, vigia ou plantão também deixa de sê-lo quando a ação repele agressão (Lei nº 14.688/2023).
+P: Desconhecimento da condição hierárquica || Ação em repulsa a agressão
+K: elementares; superior hierárquico; sentinela
+
+@CPM 48
+I: É inimputável quem, por doença mental ou desenvolvimento mental incompleto ou retardado, não pode entender o caráter ilícito do fato ou determinar-se conforme esse entendimento. Se a capacidade estiver apenas diminuída consideravelmente, a pena pode ser reduzida de 1/3 a 2/3, sem prejuízo da medida de segurança (art. 113).
+P: Inimputabilidade por doença mental || Semi-imputabilidade com redução de 1/3 a 2/3
+K: inimputabilidade; semi-imputabilidade; doença mental
+
+@CPM 49
+I: A embriaguez completa por caso fortuito ou força maior que torna o agente inteiramente incapaz exclui a imputabilidade; se a capacidade estiver só diminuída, a pena pode ser reduzida de 1/3 a 2/3. A embriaguez voluntária ou culposa não exclui a imputabilidade.
+P: Embriaguez fortuita completa || Redução na embriaguez fortuita parcial
+K: embriaguez; caso fortuito; imputabilidade
+
+@CPM 50
+I: Pela redação da Lei nº 14.688/2023, o menor de 18 anos é penalmente inimputável e se sujeita à legislação especial (ECA), alinhando o CPM ao art. 228 da Constituição.
+P: Inimputabilidade do menor de 18 anos || Alinhamento à CF, art. 228
+K: menor de idade; inimputabilidade; ECA
+
+@CPM 51
+I: O artigo equiparava a maiores certos menores de 18 anos (militares, convocados e alunos de colégios militares com 17 anos). Foi revogado pela Lei nº 14.688/2023, por ser incompatível com a Constituição.
+P: Equiparação de menores revogada
+K: menor de idade; revogação; Lei nº 14.688/2023
+
+@CPM 52
+I: O artigo, que submetia menores a medidas educativas previstas em lei especial, foi revogado pela Lei nº 14.688/2023; hoje se aplica o ECA.
+P: Dispositivo revogado
+K: menor de idade; revogação
+
+@CPM 53
+I: Quem concorre para o crime incide nas penas a ele cominadas (teoria monista), cada um conforme a sua culpabilidade, sem comunicação das circunstâncias pessoais, salvo quando elementares. A pena é agravada para quem organiza ou dirige, coage, instiga subordinado ou não punível, ou age mediante paga; é atenuada para a participação de menor importância. Nos crimes de autoria coletiva, são cabeças os que dirigem ou instigam, e os oficiais (ou inferiores em função de oficial) quando o crime envolve inferiores.
+P: Teoria monista do concurso de agentes || Agravantes e atenuante da participação || Conceito de cabeças
+K: concurso de agentes; coautoria; participação; cabeças
+
+@CPM 54
+I: O ajuste, a instigação e o auxílio não são puníveis se o crime não chega a ser ao menos tentado, salvo disposição em contrário.
+P: Impunibilidade da participação em crime não tentado
+K: participação; ajuste; instigação
+
+@CPM 55
+I: As penas principais do CPM são morte, reclusão, detenção, prisão e impedimento. As penas de suspensão do exercício do posto e de reforma foram revogadas pela Lei nº 14.688/2023.
+P: Rol das penas principais || Revogação da suspensão do exercício e da reforma
+K: penas principais; pena de morte; reclusão; detenção; impedimento
+
+@CPM 56
+I: A pena de morte é executada por fuzilamento. Pela Constituição (art. 5º, XLVII, a), só pode ser aplicada em caso de guerra declarada.
+P: Fuzilamento || Só em guerra declarada (CF, art. 5º, XLVII)
+K: pena de morte; fuzilamento; guerra declarada
+
+@CPM 57
+I: A condenação definitiva à morte é comunicada ao Presidente da República e só pode ser executada sete dias depois, salvo em zona de operações de guerra, quando o interesse da ordem e da disciplina o exigir.
+P: Comunicação ao Presidente || Prazo de sete dias || Exceção em zona de operações
+K: pena de morte; comunicação; Presidente da República
+
+@CPM 58
+I: A reclusão vai de 1 a 30 anos, e a detenção de 30 dias a 10 anos, como limites genéricos.
+P: Limites genéricos da reclusão e da detenção
+K: reclusão; detenção; limites da pena
+
+@CPM 59
+I: A reclusão ou detenção de até 2 anos aplicada a militar converte-se em prisão, cumprida pelo oficial em recinto militar e pela praça em estabelecimento penal militar, separada de outros presos, quando não couber sursis.
+P: Conversão em pena de prisão || Cumprimento por oficial e praça || Separação de praças especiais e graduadas
+K: pena de prisão; militar; oficial; praça
+
+@CPM 60
+I: As regras sobre a pena do assemelhado e dos não assemelhados foram revogadas pela Lei nº 14.688/2023, junto com a figura do assemelhado.
+P: Dispositivo revogado
+K: assemelhado; revogação
+
+@CPM 61
+I: A pena acima de 2 anos aplicada a militar é cumprida em penitenciária militar ou, na falta, em estabelecimento civil, sob o regime e os benefícios da legislação penal comum (LEP).
+P: Penitenciária militar || Regime da legislação comum
+K: execução penal militar; penitenciária militar; LEP
+
+@CPM 62
+I: O civil condenado pela Justiça Militar cumpre a pena em estabelecimento civil, com o regime e os benefícios da lei comum. Em tempo de guerra, pode cumpri-la em penitenciária militar se a sentença determinar.
+P: Pena do civil em estabelecimento civil || Exceção em tempo de guerra
+K: civil; execução penal; Justiça Militar
+
+@CPM 63
+I: A pena de impedimento obriga o condenado a permanecer no recinto da unidade, sem prejuízo da instrução militar.
+P: Pena de impedimento
+K: impedimento; pena militar
+
+@CPM 64
+I: A pena de suspensão do exercício do posto, graduação, cargo ou função, com sua conversão para inativos, foi revogada pela Lei nº 14.688/2023.
+P: Pena revogada
+K: suspensão do exercício; revogação
+
+@CPM 65
+I: A pena de reforma, que passava o condenado à inatividade com soldo reduzido, foi revogada pela Lei nº 14.688/2023.
+P: Pena revogada
+K: pena de reforma; revogação
+
+@CPM 66
+I: O condenado que sofre doença mental deve ser recolhido a manicômio judiciário (hoje hospital de custódia) ou estabelecimento adequado, com custódia e tratamento.
+P: Doença mental superveniente
+K: doença mental; hospital de custódia
+
+@CPM 67
+I: Computam-se na pena o tempo de prisão provisória, no Brasil ou no exterior, de internação e o excesso de pena cumprida por outro crime reconhecido judicialmente, se a decisão for posterior ao crime (detração).
+P: Detração || Cômputo do excesso de pena por outro crime
+K: detração; prisão provisória
+
+@CPM 68
+I: O condenado pela Justiça Militar de uma região pode cumprir pena em estabelecimento de outra.
+P: Transferência entre regiões
+K: transferência; execução penal
+
+@CPM 69
+I: Na fixação da pena-base o juiz considera a gravidade do crime e a personalidade do réu: dolo ou culpa, dano, meios, modo de execução, motivos, circunstâncias, antecedentes e atitude após o crime. Entre penas alternativas, escolhe a aplicável e fixa a quantidade dentro dos limites legais.
+P: Circunstâncias judiciais || Escolha entre penas alternativas || Limites legais
+K: dosimetria; pena-base; circunstâncias judiciais
+
+@CPM 70
+I: Lista as agravantes, aplicáveis quando não forem elementares ou qualificadoras: reincidência, motivo fútil ou torpe, traição, meio cruel, crime contra parente, abuso de poder, crime contra criança, idoso, enfermo, grávida ou pessoa com deficiência (Lei nº 14.688/2023), estar de serviço, uso de arma de serviço, entre outras. Embriaguez (salvo preordenada), estar de serviço, arma de serviço e crime no exterior só agravam se o agente for militar.
+P: Rol de agravantes || Agravantes exclusivas do militar
+K: agravantes; reincidência; motivo torpe; dosimetria
+
+@CPM 71
+I: Há reincidência quando o agente comete novo crime após condenação definitiva por crime anterior, no Brasil ou no exterior. A condenação não conta se passaram mais de 5 anos desde o cumprimento ou extinção da pena, nem os crimes anistiados.
+P: Conceito de reincidência || Período depurador de 5 anos || Crimes anistiados
+K: reincidência; período depurador
+
+@CPM 72
+I: Atenuam a pena: ser menor de 21 ou maior de 70 anos, comportamento anterior meritório, relevante valor social ou moral, reparação ou minoração do dano, violenta emoção provocada por ato injusto da vítima, confissão espontânea e ter sofrido rigor ilegal. Nos crimes com pena máxima de morte, o juiz pode deixar de aplicá-las.
+P: Rol de atenuantes || Faculdade nos crimes punidos com morte
+K: atenuantes; confissão espontânea; dosimetria
+
+@CPM 73
+I: Quando a lei não fixa o quanto de agravação ou atenuação, o juiz o fixa entre 1/5 e 1/3, dentro dos limites da pena cominada.
+P: Quantum de 1/5 a 1/3
+K: agravantes; atenuantes; quantum
+
+@CPM 74
+I: Havendo várias agravantes ou atenuantes, o juiz pode aplicar uma só agravação ou atenuação.
+P: Pluralidade de circunstâncias
+K: agravantes; atenuantes
+
+@CPM 75
+I: No concurso entre agravantes e atenuantes prevalecem as preponderantes (motivos, personalidade e reincidência); se equivalentes, anulam-se.
+P: Circunstâncias preponderantes || Compensação
+K: concurso de circunstâncias; preponderantes
+
+@CPM 76
+I: Nas causas especiais de aumento ou diminuição, o juiz não fica preso aos limites da pena do crime, apenas aos da espécie de pena (art. 58). Havendo várias, pode aplicar só a de maior efeito.
+P: Majorantes e minorantes fora dos limites do tipo || Concurso de causas especiais
+K: causas de aumento; causas de diminuição
+
+@CPM 77
+I: Pela Lei nº 14.688/2023, o CPM adota o critério trifásico: pena-base pelo art. 69, depois atenuantes e agravantes e, por fim, causas de diminuição e aumento. Só nesta última fase a pena pode sair dos limites do tipo.
+P: Critério trifásico || Limites na segunda fase
+K: dosimetria; critério trifásico; Lei nº 14.688/2023
+
+@CPM 78
+I: O artigo previa pena indeterminada para criminoso habitual ou por tendência e foi revogado pela Lei nº 14.688/2023.
+P: Pena indeterminada revogada
+K: criminoso habitual; pena indeterminada; revogação
+
+@CPM 79
+I: No concurso material (várias ações ou omissões e vários crimes), as penas privativas de liberdade são somadas, executando-se primeiro a reclusão (Lei nº 14.688/2023).
+P: Cúmulo material || Ordem de execução
+K: concurso material; soma de penas
+
+@CPM 79-A
+I: Incluído pela Lei nº 14.688/2023, define o concurso formal: com uma só ação, aplica-se a pena mais grave, aumentada de 1/6 até metade. Se a ação é dolosa e há desígnios autônomos, as penas são somadas, e a pena nunca pode superar a do concurso material.
+P: Concurso formal próprio || Desígnios autônomos (concurso formal impróprio) || Limite do cúmulo material
+K: concurso formal; exasperação; Lei nº 14.688/2023
+
+@CPM 80
+I: No crime continuado aplica-se a pena de um só dos crimes, ou a mais grave, aumentada de 1/6 a 2/3. Nos crimes dolosos com violência ou grave ameaça contra vítimas diferentes, o aumento pode chegar ao triplo (Lei nº 14.688/2023).
+P: Crime continuado || Continuidade delitiva específica até o triplo
+K: crime continuado; continuidade delitiva
+
+@CPM 81
+I: A pena unificada não pode passar de 30 anos de reclusão ou 15 de detenção e pode ser reduzida de 1/6 a 1/4 na unidade de ação ou crime continuado. A pena de morte equivale a 30 anos de reclusão para graduação e cálculo da tentativa.
+P: Limite da pena unificada || Redução facultativa || Equivalência da pena de morte
+K: unificação de penas; limite; pena de morte
+
+@CPM 82
+I: O artigo, ligado à pena indeterminada do criminoso habitual, foi revogado pela Lei nº 14.688/2023.
+P: Dispositivo revogado
+K: revogação; criminoso habitual
+
+@CPM 83
+I: As penas não privativas de liberdade são aplicadas distinta e integralmente, mesmo que previstas para só um dos crimes em concurso.
+P: Aplicação integral das penas não privativas
+K: concurso de crimes; penas não privativas
+
+@CPM 84
+I: O sursis militar alcança pena de até 2 anos, com período de prova de 3 a 5 anos na reclusão e 2 a 4 na detenção, exigindo que o condenado não tenha condenação irrecorrível anterior a pena privativa de liberdade (salvo o período depurador do art. 71, § 1º) e que as circunstâncias judiciais sejam favoráveis. Não abrange pena acessória. Pela Lei nº 14.688/2023, há sursis etário ou humanitário para pena de até 4 anos, com prova de 4 a 6 anos, para maiores de 70 anos ou por razões de saúde.
+P: Requisitos e prazos do sursis || Sursis etário e humanitário || Não alcança pena acessória
+K: sursis; suspensão condicional da pena; Lei nº 14.688/2023
+
+@CPM 85
+I: A sentença deve especificar as condições do sursis.
+P: Condições na sentença
+K: sursis; condições
+
+@CPM 86
+I: O sursis é revogado obrigatoriamente por condenação definitiva por crime doloso ou pela falta injustificada de reparação do dano. Pode ser revogado se o condenado descumprir obrigações ou, se militar, for punido por infração disciplinar grave; nesse caso o juiz pode prorrogar o período de prova. Respondendo a processo que possa levar à revogação, o prazo fica prorrogado até o julgamento.
+P: Revogação obrigatória || Revogação facultativa e prorrogação || Prorrogação automática
+K: sursis; revogação; período de prova
+
+@CPM 87
+I: Expirado o prazo sem revogação, extingue-se a pena privativa de liberdade.
+P: Extinção da pena
+K: sursis; extinção da pena
+
+@CPM 88
+I: O sursis não se aplica a crimes em tempo de guerra nem, em tempo de paz, a crimes como violência contra superior ou sentinela, desrespeito a superior, insubordinação, deserção e outros listados. Essas vedações refletem a proteção da hierarquia e da disciplina.
+P: Vedações do sursis || Proteção da hierarquia e da disciplina
+K: sursis; vedação; deserção; insubordinação
+
+@CPM 89
+I: O livramento condicional cabe na pena de 2 anos ou mais, após cumprida metade (primário) ou dois terços (reincidente), com reparação do dano e bom comportamento. A pena unificada é considerada, e para primário menor de 21 ou maior de 70 anos basta um terço.
+P: Requisitos do livramento || Frações de 1/2 e 2/3 || Redução para 1/3 por idade
+K: livramento condicional; requisitos
+
+@CPM 90
+I: A sentença deve especificar as condições do livramento.
+P: Condições na sentença
+K: livramento condicional; condições
+
+@CPM 91
+I: O livramento depende de parecer do Conselho Penitenciário, ouvidos o diretor e o Ministério Público Militar, e, havendo medida de segurança detentiva, de perícia sobre a não periculosidade.
+P: Parecer do Conselho Penitenciário || Perícia de periculosidade
+K: livramento condicional; Conselho Penitenciário
+
+@CPM 92
+I: O liberado fica sob observação cautelar e proteção de patronato oficial ou particular ou, na falta, do serviço social penitenciário.
+P: Observação cautelar do liberado
+K: livramento condicional; patronato
+
+@CPM 93
+I: O livramento é revogado obrigatoriamente por condenação a pena privativa por infração cometida durante o benefício, ou anterior, se a soma inviabilizar o requisito. A revogação é facultativa por descumprimento de obrigações, condenação por contravenção a pena não privativa ou, sendo militar, por transgressão grave. Infrações da justiça comum também contam.
+P: Revogação obrigatória || Revogação facultativa || Infrações da justiça comum
+K: livramento condicional; revogação
+
+@CPM 94
+I: Revogado o livramento, não pode ser concedido de novo, e o tempo solto não é descontado da pena, salvo se a revogação decorrer de infração anterior ao benefício.
+P: Efeitos da revogação
+K: livramento condicional; revogação; efeitos

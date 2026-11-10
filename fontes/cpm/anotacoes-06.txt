@@ -1,0 +1,299 @@
+@CPM 253
+I: Ao estelionato e às outras fraudes aplicam-se as atenuações do furto para primário e pequeno valor ou reparação do dano.
+P: Atenuações do furto
+K: estelionato; atenuação
+
+@CPM 254
+I: Pune a receptação dolosa (adquirir, receber, ocultar coisa produto de crime ou influir para que terceiro de boa-fé o faça), com as atenuações do furto. É qualificada, com 3 a 10 anos, se a coisa for arma, munição, explosivo ou material militar (Lei nº 14.688/2023).
+P: Receptação || Receptação de material bélico
+K: receptação; material bélico
+
+@CPM 255
+I: Pune a receptação culposa de coisa que, pela natureza, preço desproporcional ou condição de quem oferece, deve presumir-se de origem criminosa; o juiz pode deixar de aplicar a pena ao primário se o valor for ínfimo.
+P: Receptação culposa || Perdão judicial
+K: receptação culposa
+
+@CPM 256
+I: A receptação é punível mesmo que o autor do crime anterior seja desconhecido ou isento de pena.
+P: Autonomia da receptação
+K: receptação; autonomia
+
+@CPM 257
+I: Pune quem altera limites de imóvel sob administração militar para apropriar-se dele, quem desvia águas militares e quem invade terreno ou edifício militar com violência, ameaça ou concurso de pessoas, além da pena da violência.
+P: Alteração de limites || Usurpação de águas || Invasão de propriedade militar
+K: usurpação; imóvel militar; invasão
+
+@CPM 258
+I: Pune quem apõe, suprime ou altera indevidamente marca de propriedade em gado sob guarda militar.
+P: Alteração de marca em rebanho
+K: marca de gado; usurpação
+
+@CPM 259
+I: Pune o dano, destruir, inutilizar, deteriorar ou fazer desaparecer coisa alheia, com pena maior se o bem for público.
+P: Dano simples || Bem público
+K: dano; patrimônio público
+
+@CPM 260
+I: Ao primário que causa dano de pequeno valor, ou o repara antes da ação penal, o juiz pode atenuar a pena ou tratar o fato como infração disciplinar.
+P: Dano atenuado || Infração disciplinar
+K: dano; atenuação
+
+@CPM 261
+I: O dano é qualificado se cometido com violência ou grave ameaça, com inflamável ou explosivo, por motivo egoístico ou com prejuízo considerável.
+P: Dano qualificado
+K: dano qualificado
+
+@CPM 262
+I: Pune o dano em material ou aparelhamento de guerra ou de utilidade militar, ainda que em construção ou em depósito.
+P: Dano em material de guerra
+K: material bélico; dano
+
+@CPM 263
+I: Pune quem causa perda, destruição, encalhe, colisão, alagamento ou avaria em navio de guerra ou mercante em serviço militar, com aumento se resultar lesão grave e pena em dobro se resultar morte, somada à da violência.
+P: Dano em navio || Resultado lesão ou morte
+K: navio de guerra; dano
+
+@CPM 264
+I: Pune o dano em aeronave, hangar, pista, quartel, arsenal, doca ou outra instalação militar, ou em estabelecimento industrial militar, com os mesmos aumentos do artigo anterior.
+P: Dano em instalações militares
+K: instalação militar; aeronave; dano
+
+@CPM 265
+I: Pune quem faz desaparecer, consome ou extravia combustível, armamento, munição ou peças de equipamento militar.
+P: Desaparecimento ou extravio de material militar
+K: extravio; combustível; armamento
+
+@CPM 266
+I: Os danos a material militar, navio, instalações e o extravio têm forma culposa, com pena de 6 meses a 2 anos, somada à do crime culposo contra a pessoa se houver lesão ou morte.
+P: Modalidades culposas
+K: dano culposo; material militar
+
+@CPM 267
+I: Pune a usura pecuniária, juros acima do legal abusando da necessidade ou inexperiência do mutuário, e quem, em local militar, recebe vencimentos de outrem com proveito acima de 3%, com aumento se cometida por superior, militar ou servidor em razão da função.
+P: Usura || Agiotagem sobre vencimentos || Aumento pela função
+K: usura; agiotagem; juros
+
+@CPM 268
+I: Pune o incêndio em lugar sujeito à administração militar que expõe a perigo vida, integridade ou patrimônio, agravado por intuito de lucro ou pelo local atingido (casa, edifício público, transporte, fábrica, depósito de explosivo, mata); há forma culposa.
+P: Incêndio || Agravantes || Incêndio culposo
+K: incêndio; perigo comum
+
+@CPM 269
+I: Pune quem causa ou tenta causar explosão em área militar com perigo comum, com penas maiores para dinamite e energia nuclear e forma culposa.
+P: Explosão || Energia nuclear || Modalidade culposa
+K: explosão; energia nuclear; perigo comum
+
+@CPM 270
+I: Pune o uso de gás tóxico ou asfixiante que expõe a perigo pessoas ou bens em área militar; há forma culposa.
+P: Gás tóxico || Modalidade culposa
+K: gás tóxico; perigo comum
+
+@CPM 271
+I: Pune quem expõe pessoas a perigo em área militar pelo abuso de radiação ionizante ou substância radioativa; há forma culposa.
+P: Abuso de radiação
+K: radiação; substância radioativa
+
+@CPM 272
+I: Pune quem causa inundação em área militar com perigo comum; há forma culposa.
+P: Inundação
+K: inundação; perigo comum
+
+@CPM 273
+I: Pune quem remove ou destrói obstáculo ou obra contra inundação, criando perigo em área militar.
+P: Perigo de inundação
+K: inundação; perigo comum
+
+@CPM 274
+I: Pune quem causa desabamento ou desmoronamento em área militar com perigo comum; há forma culposa.
+P: Desabamento ou desmoronamento
+K: desabamento; perigo comum
+
+@CPM 275
+I: Pune quem subtrai, oculta ou inutiliza material de socorro em desastre ou calamidade, ou impede o serviço de salvamento.
+P: Sabotagem de socorro
+K: material de socorro; calamidade
+
+@CPM 276
+I: Os crimes de perigo comum também são punidos quando, fora da área militar, expõem a perigo navio, aeronave, material ou instalação a serviço das Forças Armadas.
+P: Perigo a aparelhamento militar fora da área militar
+K: perigo comum; aparelhamento militar
+
+@CPM 277
+I: No crime doloso de perigo comum, a lesão grave não querida aumenta a pena de metade e a morte a dobra; no culposo, a lesão aumenta de metade e a morte leva à pena do homicídio culposo aumentada de um terço.
+P: Resultado agravador nos crimes de perigo
+K: perigo comum; preterdolo
+
+@CPM 278
+I: Pune quem difunde doença ou praga que possa danificar floresta, plantação, pastagem ou animais em área militar; há forma culposa.
+P: Difusão de epizootia ou praga
+K: praga; epizootia
+
+@CPM 279
+I: Pune quem dirige veículo sob administração militar, em via pública, embriagado por álcool ou outro inebriante.
+P: Embriaguez ao volante
+K: embriaguez ao volante; veículo militar
+
+@CPM 280
+I: Pune quem, dirigindo veículo sob administração militar, viola regra de trânsito expondo outrem a efetivo e grave perigo.
+P: Perigo no trânsito
+K: trânsito; veículo militar
+
+@CPM 281
+I: Pune quem causa acidente com veículo militar, ainda que sem culpa, e foge sem socorrer a vítima, além das penas de homicídio ou lesão culposa. Quem presta socorro não é preso em flagrante.
+P: Fuga após acidente || Isenção de flagrante para quem socorre
+K: fuga do local de acidente; omissão de socorro
+
+@CPM 282
+I: Pune quem impede ou perturba estrada de ferro sob administração ou requisição militar, com penas maiores se ocorrer desastre ou se o agente o quis; há forma culposa. Estrada de ferro inclui qualquer via de veículos em trilhos ou cabo aéreo.
+P: Perigo de desastre ferroviário || Desastre efetivo || Conceito de estrada de ferro
+K: estrada de ferro; desastre; transporte
+
+@CPM 283
+I: Pune quem expõe a perigo aeronave ou navio sob guarda ou requisição militar, ou dificulta a navegação militar, com pena maior se houver naufrágio ou queda; há forma culposa.
+P: Atentado contra transporte aéreo ou marítimo || Sinistro || Modalidade culposa
+K: atentado contra transporte; aeronave; navio
+
+@CPM 284
+I: Pune quem expõe a perigo ou impede o funcionamento de viatura ou meio de transporte militar, com pena maior se houver desastre; há forma culposa.
+P: Atentado contra viatura militar
+K: viatura militar; transporte
+
+@CPM 285
+I: Se dos crimes contra transporte resulta morte, aplicam-se os aumentos do art. 277.
+P: Resultado morte
+K: transporte; resultado morte
+
+@CPM 286
+I: Pune quem arremessa projétil contra veículo militar em movimento, com pena maior se houver lesão ou morte.
+P: Arremesso de projétil
+K: projétil; veículo militar
+
+@CPM 287
+I: Pune o atentado contra serviço de água, luz, força ou acesso em área militar, com aumento se decorrer de subtração de material essencial.
+P: Atentado contra serviço de utilidade
+K: serviço de utilidade; sabotagem
+
+@CPM 288
+I: Pune quem interrompe ou perturba serviço ou meio de comunicação militar, ou impede sua instalação.
+P: Perturbação de comunicação militar
+K: comunicação militar; sabotagem
+
+@CPM 289
+I: Os crimes contra transporte e comunicação são agravados se cometidos em calamidade pública.
+P: Agravação em calamidade
+K: calamidade pública; agravação
+
+@CPM 290
+I: Pune quem recebe, produz, vende, fornece, guarda ou traz consigo, ainda que para uso próprio, droga em lugar sujeito à administração militar, e casos assimilados (fornecer a militar, praticar em serviço). Há pena maior para profissionais de saúde, para quem se apresenta ao serviço sob efeito de droga, se em serviço, e de 5 a 15 anos para o tráfico (Lei nº 14.688/2023). O STF entende que não se aplicam o princípio da insignificância nem a Lei de Drogas à posse em local militar.
+P: Posse e tráfico de drogas em área militar || Formas qualificadas || Tráfico com 5 a 15 anos (Lei nº 14.688/2023) || Inaplicabilidade da insignificância (STF)
+K: drogas; entorpecente; tráfico; insignificância
+
+@CPM 291
+I: Pune o médico, dentista ou farmacêutico que prescreve ou fornece entorpecente fora da terapêutica ou em dose excessiva em local militar, e casos assimilados: desvio de droga sob guarda, subtração, induzimento de militar em serviço ao uso e difusão do uso em estabelecimentos militares.
+P: Receita ilegal || Desvio e incentivo ao uso
+K: receita ilegal; entorpecente; profissional de saúde
+
+@CPM 292
+I: Pune quem causa epidemia em área militar pela propagação de germes, com pena em dobro se houver morte; há forma culposa.
+P: Epidemia || Forma qualificada || Modalidade culposa
+K: epidemia; saúde pública
+
+@CPM 293
+I: Pune o envenenamento de água ou alimento que expõe a perigo militares em manobras ou número indefinido de pessoas em área militar, e quem distribui a substância envenenada, com 15 a 30 anos se houver morte; há forma culposa.
+P: Envenenamento com perigo extensivo || Resultado morte
+K: envenenamento; água potável
+
+@CPM 294
+I: Pune quem corrompe ou polui água potável de uso militar, tornando-a imprópria ou nociva; há forma culposa.
+P: Poluição de água potável militar
+K: água potável; poluição
+
+@CPM 295
+I: Pune quem fornece às Forças Armadas alimento ou remédio corrompido, adulterado ou falsificado e nocivo à saúde; há forma culposa.
+P: Fornecimento de substância nociva
+K: alimento adulterado; fornecimento
+
+@CPM 296
+I: Pune quem fornece às Forças Armadas alimento ou remédio alterado com redução do valor nutritivo ou terapêutico; há forma culposa.
+P: Fornecimento de substância alterada
+K: alimento alterado; fornecimento
+
+@CPM 297
+I: Pune o médico militar que deixa de comunicar à autoridade doença de notificação compulsória.
+P: Omissão de notificação
+K: notificação compulsória; médico militar
+
+@CPM 298
+I: Pune o desacato a superior, ofendendo sua dignidade ou deprimindo sua autoridade, agravado se o superior for oficial-general ou comandante da unidade.
+P: Desacato a superior
+K: desacato; superior hierárquico
+
+@CPM 299
+I: Pune o desacato a militar no exercício de função militar ou em razão dela.
+P: Desacato a militar
+K: desacato; militar
+
+@CPM 300
+I: Pune o desacato a servidor público no exercício da função, em lugar sujeito à administração militar (Lei nº 14.688/2023).
+P: Desacato a servidor em área militar
+K: desacato; servidor público
+
+@CPM 301
+I: Pune a desobediência a ordem legal de autoridade militar.
+P: Desobediência
+K: desobediência; autoridade militar
+
+@CPM 302
+I: Pune quem ingressa em fortaleza, quartel, navio, aeronave ou outro local militar por onde é proibido ou iludindo a sentinela.
+P: Ingresso clandestino
+K: ingresso clandestino; área militar
+
+@CPM 303
+I: Pune o peculato (apropriar-se ou desviar bem de que tem posse em razão do cargo), com aumento se o valor passar de 20 salários mínimos, e o peculato-furto. No peculato culposo, a reparação do dano antes da sentença definitiva extingue a punibilidade e, depois, reduz a pena pela metade.
+P: Peculato-apropriação e desvio || Peculato-furto || Peculato culposo e reparação do dano
+K: peculato; peculato culposo; administração militar
+
+@CPM 304
+I: Pune quem se apropria de dinheiro ou utilidade recebidos por erro de outrem no exercício do cargo.
+P: Peculato mediante erro de outrem
+K: peculato; erro de outrem
+
+@CPM 305
+I: Pune a concussão, exigir vantagem indevida em razão da função, ainda que fora dela ou antes de assumi-la.
+P: Concussão
+K: concussão; vantagem indevida
+
+@CPM 306
+I: Pune quem exige tributo ou emolumento que sabe indevido, ou cobra o devido por meio vexatório não autorizado.
+P: Excesso de exação
+K: excesso de exação; tributo
+
+@CPM 307
+I: Pune quem desvia, em proveito próprio ou alheio, o que recebeu indevidamente em razão do cargo para recolher aos cofres públicos.
+P: Desvio
+K: desvio; administração pública
+
+@CPM 308
+I: Pune a corrupção passiva, solicitar, receber ou aceitar promessa de vantagem indevida em razão da função (Lei nº 14.688/2023), com aumento se o agente retarda ou omite ato de ofício e forma privilegiada quando cede a pedido ou influência sem vantagem.
+P: Corrupção passiva || Aumento pelo ato de ofício || Corrupção privilegiada
+K: corrupção passiva; vantagem indevida
+
+@CPM 309
+I: Pune a corrupção ativa, dar, oferecer ou prometer vantagem indevida para ato funcional, com aumento se o ato é retardado, omitido ou praticado com violação do dever.
+P: Corrupção ativa || Aumento
+K: corrupção ativa; vantagem indevida
+
+@CPM 310
+I: Pune quem participa, ostensiva ou simuladamente, de contrato ou fornecimento da administração militar que deve fiscalizar, ou adquire bens que deve administrar ou fiscalizar.
+P: Participação ilícita em contrato || Aquisição de bens sob sua guarda
+K: participação ilícita; contrato administrativo
+
+@CPM 311
+I: Pune a falsificação de documento público ou particular, ou a alteração de documento verdadeiro, quando atentar contra a administração ou o serviço militar, agravada para oficial ou servidor de repartição militar. Discos e fitas com declarações probatórias equiparam-se a documento.
+P: Falsificação de documento || Agravação || Documento por equiparação
+K: falsificação de documento; falsidade
+
+@CPM 312
+I: Pune a falsidade ideológica, omitir ou inserir declaração falsa em documento para prejudicar direito, criar obrigação ou alterar fato juridicamente relevante, quando atentar contra a administração ou o serviço militar.
+P: Falsidade ideológica
+K: falsidade ideológica; documento
