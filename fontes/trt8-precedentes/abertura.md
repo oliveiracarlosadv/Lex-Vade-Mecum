@@ -13,7 +13,7 @@
 | Fonte oficial | Portal do Tribunal Regional do Trabalho da 8ª Região |
 | Link oficial | https://www.trt8.jus.br/jurisprudencia/precedentes |
 | Precedentes na página | 22 (16 IRDR e 6 IAC) |
-| Conferido com o site do TRT8 em | 09/11/2026 |
+| Conferido com o site do TRT8 em | 10/11/2026 |
 
 ## Resumo Executivo
 
