@@ -84,6 +84,22 @@ def data_br(iso):
     return f'{d.day} de {meses[d.month - 1]} de {d.year}'
 
 
+def _plano(ls):
+    return re.sub(r'\s+', ' ', ' '.join(ls).replace('\u00a0', ' ')).strip()
+
+
+def so_forma(a, b):
+    '''True quando duas versões de um dispositivo diferem só em espaços ou na posição do riscado.'''
+    x, y = _plano(a), _plano(b)
+    if x == y:
+        return True
+    tira = lambda s: re.sub(r'~~|⟦|⟧', '', s)
+    if tira(x) != tira(y):
+        return False
+    riscado = lambda s: re.sub(r'\W', '', ''.join(re.findall(r'~~(.*?)~~', s)))
+    return abs(len(riscado(x)) - len(riscado(y))) <= 16   # só o rótulo ("Art. 59.", "§ 4o", "IV -") mudou de lado
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--lei', required=True)
@@ -135,7 +151,12 @@ def main():
     k = lambda u: u['part'] + ' ' + u['num']
     A = {k(u): u['lines'] for u in antigas}
     B = {k(u): u['lines'] for u in novas}
-    alterados = [x for x in B if x in A and A[x] != B[x]]
+    # Mudança só de forma (espaços, espaço não separável, ou o riscado começando depois do rótulo
+    # "§ 4o ~~texto~~" em vez de "~~§ 4o texto~~") não é alteração do texto da lei: a base é
+    # atualizada sem marcar a análise como pendente. Qualquer palavra diferente, inclusive nota
+    # "(Revogado ...)" nova, continua contando como alteração.
+    forma = [x for x in B if x in A and A[x] != B[x] and so_forma(A[x], B[x])]
+    alterados = [x for x in B if x in A and A[x] != B[x] and x not in forma]
     incluidos = [x for x in B if x not in A]
     retirados = [x for x in A if x not in B]
 
@@ -148,6 +169,7 @@ def main():
     for x in retirados:
         pend.pop(x, None)
     mudou = bool(alterados or incluidos or retirados)
+    regravar = mudou or bool(forma)
 
     if mudou:
         json.dump(pend, open(pend_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
@@ -179,7 +201,7 @@ def main():
     os.makedirs(os.path.dirname(saida), exist_ok=True)
     os.replace(build_cfg['out'], saida)
     open(oficial, 'w', encoding='utf-8').write(texto)
-    if mudou:
+    if regravar:
         snap = [{'part': u['part'], 'num': u['num'], 'lines': u['lines']} for u in novas]
         json.dump({'units': snap}, open(os.path.join(fonte, 'unidades.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 
@@ -198,7 +220,7 @@ def main():
         os.remove(os.path.join(tmp, f))
     os.rmdir(tmp)
     print(json.dumps({'lei': a.lei, 'status': 'alterado' if mudou else 'sem_alteracao', 'artigos': len(novas),
-                      'alterados': alterados, 'incluidos': incluidos, 'retirados': retirados,
+                      'alterados': alterados, 'incluidos': incluidos, 'retirados': retirados, 'so_forma': len(forma),
                       'pendentes_de_revisao': len(pend)}, ensure_ascii=False))
 
 

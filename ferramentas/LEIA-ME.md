@@ -9,22 +9,36 @@ O Planalto recusa conexões automatizadas (downloads por linha de comando ou de 
 ## Conferência automática a cada 12 horas
 
 - **NR do MTE (`"tipo": "pdf-nr"`):** na nuvem do GitHub, pelo workflow `.github/workflows/conferencia-nr.yml` (6h17 e 18h17, horário de Brasília). Ele roda `nr.py --baixar` para cada NR, publica direto no `main` se algo mudar (inclusive só a data de conferência) e pede a atualização do GitHub Pages. Pode ser disparado à mão na aba Actions ("Run workflow"). Se o PDF não puder ser baixado ou validado, a execução falha e o GitHub avisa o dono do repositório por e-mail.
-- **Planalto, TST e TRT8:** esses sites bloqueiam acesso a partir de servidores de nuvem (testado em 07/11/2026: o Planalto recusa a conexão, o TST devolve página vazia de proteção contra robôs e o TRT8 responde 403). Eles são conferidos pela tarefa agendada no computador do curador, às 7h e às 19h, seguindo os passos abaixo. O acesso não é disfarçado nem contornado.
+- **Planalto, TST, TRT8, Código de Ética da OAB e LegisWeb:** os sites do Planalto, TST e TRT8 bloqueiam acesso a partir de servidores de nuvem (testado em 07/11/2026). Desde 10/11/2026 todas essas fontes são conferidas **sem o Claude**, por `ferramentas/conferencia-local.mjs`, que o macOS (LaunchAgent) executa no computador do curador às 7h e às 19h. Se o Mac estiver dormindo no horário, a conferência roda assim que ele acordar.
 
-### Passos da tarefa agendada (leis do Planalto)
+### Conferência autônoma (`ferramentas/conferencia-local.mjs`)
 
-Para cada norma em `fontes/<lei>/config.json`:
+Para cada `fontes/<lei>/config.json`, conforme o `tipo`:
 
-1. Abrir a página indicada em `url` no navegador.
-2. Executar o conteúdo de `ferramentas/extrair-planalto.js` no console da página.
-3. Clicar no botão **COPIAR TEXTO DA LEI** que aparece no topo e salvar a área de transferência em um arquivo (no macOS: `LANG=en_US.UTF-8 pbpaste > texto.txt`).
-4. Rodar, na raiz do repositório:
+| Tipo | Como o texto é obtido |
+| --- | --- |
+| (sem tipo) Planalto | Abre a `url` no Google Chrome controlado pelo Playwright, em modo invisível e **sem alterar a identificação do navegador** (o Chrome se apresenta como "HeadlessChrome"); executa `extrair-planalto.js` e passa o texto a `atualizar.py --lei <lei> --texto`. Até 3 tentativas. |
+| `tabela-tst` | Mesma forma, com `extrair-tst.js`, e `tst.py --tabela`. |
+| `pagina-trt8` | `trt8.py --baixar` (download direto). |
+| `pdf-oab` | Baixa o PDF, `pdftohtml -xml`, `oab-pdf2txt.py` e `atualizar.py`. |
+| `legisweb` | Baixa a página, `extrair-legisweb.py` e `atualizar.py`. |
+| `pdf-nr` | Ignorado: conferido na nuvem pelo workflow das NR. |
 
-   ```bash
-   python3 ferramentas/atualizar.py --lei <lei> --texto texto.txt
-   ```
+Depois:
 
-5. Se algum status for `alterado`, ou se a data de conferência mudar, publicar por branch + pull request e incorporar ao `main`.
+1. Fonte com erro não é publicada: as mudanças dela são desfeitas.
+2. Se algo mudou (inclusive só a data "Conferido em"), publica por branch `conferencia-AAAA-MM-DD-HHh` + pull request + merge (`gh`), com o resumo por fonte.
+3. Sincroniza a pasta do Google Drive (rsync) e gera `dados-offline.js`.
+4. Registra o resultado em `~/Library/Logs/LexVadeMecum/conferencias.jsonl` (e a saída completa em `conferencia.log`) e mostra uma notificação do macOS.
+
+Instalação no Mac (já feita em 10/11/2026):
+
+- Clone exclusivo da automação: `~/Library/Application Support/LexVadeMecum/repo` (o script o iguala ao `main` do GitHub a cada execução; não editar à mão).
+- Playwright: `~/Library/Application Support/LexVadeMecum/conferencia` (`npm i playwright`, usando o Google Chrome instalado; nenhum navegador extra é baixado).
+- Agendamento: `~/Library/LaunchAgents/br.lextecnologias.lexvademecum.conferencia.plist` (modelo em `ferramentas/br.lextecnologias.lexvademecum.conferencia.plist`). Carregar com `launchctl bootstrap gui/$(id -u) <plist>`; rodar na hora com `launchctl kickstart gui/$(id -u)/br.lextecnologias.lexvademecum.conferencia`.
+- Teste sem publicar: `LEX_SEM_PUBLICAR=1 LEX_SO=lindb,cpp node ferramentas/conferencia-local.mjs` (num clone de teste; com `LEX_SEM_PUBLICAR` o clone não é reiniciado).
+
+O texto oficial é atualizado sozinho, inclusive revogações (texto riscado com a nota "(Revogado pela ...)"). A análise dos artigos alterados, incluídos ou revogados recebe o aviso "pendente de revisão" e precisa ser revista por alguém.
 
 ## O que o `atualizar.py` faz
 
@@ -33,6 +47,7 @@ Para cada norma em `fontes/<lei>/config.json`:
 - Registra a mudança em `fontes/<lei>/CHANGELOG.md`.
 - Regenera `leis/<lei>/<lei>-completa.md` e só grava o arquivo se o texto de todos os artigos for idêntico ao extraído e todas as seções estiverem presentes.
 - Atualiza a coluna "Conferido com o Planalto em" do README.
+- Mudança só de forma (espaços, espaço não separável ou o riscado começando depois do rótulo, como "§ 4o ~~texto~~" em vez de "~~§ 4o texto~~") **não** é tratada como alteração: a base é regravada sem marcar pendência (campo `so_forma` no resultado). Qualquer palavra diferente, inclusive uma nota "(Revogado ...)" nova, é alteração.
 
 ## Regras da extração
 
@@ -125,7 +140,7 @@ python3 ferramentas/atualizar.py --lei ced-oab --texto texto.txt
 
 `oab-pdf2txt.py` descarta o cabeçalho e o número das páginas, junta as linhas de cada dispositivo (mantendo o hífen das palavras compostas no fim da linha) e coloca cada nota de rodapé entre parênteses no fim do dispositivo que tem a chamada; notas em nomes de Capítulo ficam numa linha própria, como notas do cabeçalho. Os números de fonte usados (corpo, chamadas e rodapé) são os deste PDF e devem ser conferidos se a OAB publicar nova diagramação.
 
-**Esta norma não entra na conferência automática** (a tarefa agendada só cobre Planalto, TST e TRT8, e o workflow da nuvem só as NR). Deve ser conferida com o PDF da OAB quando houver nova resolução do Conselho Federal.
+Esta norma entra na conferência autônoma (`conferencia-local.mjs`), que baixa o PDF da OAB a cada execução.
 
 ## Código Tributário de Belém (`fontes/ctm-belem/`, `"tipo": "legisweb"`)
 
@@ -146,7 +161,7 @@ python3 ferramentas/atualizar.py --lei ctm-belem --texto texto.txt
 
 O anexo (Tabelas II a VI) é uma parte com `"unidade": "anexo"` que vai até o fim do texto: em `lexbuild.py`, o fim `"$FIM"` significa "até a última linha".
 
-**Esta norma não entra na conferência automática** (a tarefa agendada só cobre Planalto, TST e TRT8, e o workflow da nuvem só as NR). Deve ser conferida de novo no LegisWeb, ou no Diário Oficial do Município, quando houver lei municipal que altere o Código.
+Esta norma entra na conferência autônoma (`conferencia-local.mjs`), que baixa a página do LegisWeb a cada execução.
 
 ## Normas Regulamentadoras (`fontes/nr-01/`, `"tipo": "pdf-nr"`)
 
