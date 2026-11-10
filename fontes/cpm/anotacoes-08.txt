@@ -1,0 +1,189 @@
+@CPM 373
+I: Pune o comandante que se deixa surpreender pelo inimigo, com pena muito maior se o fato comprometer as operações militares.
+P: Omissão de vigilância || Comprometimento das operações
+K: omissão de vigilância; comandante; tempo de guerra
+
+@CPM 374
+I: Pune o militar que, em presença do inimigo, deixa de se conduzir de acordo com o dever militar.
+P: Descumprimento do dever militar em presença do inimigo
+K: dever militar; presença do inimigo
+
+@CPM 375
+I: Pune quem, por não cumprir ordem, dá causa a ação militar do inimigo, com morte ou reclusão se expuser a perigo força, posição ou elementos de ação militar.
+P: Falta de cumprimento de ordem || Resultado mais grave
+K: descumprimento de ordem; tempo de guerra
+
+@CPM 376
+I: Pune quem, por culpa, dá causa ao abandono ou à entrega ao inimigo de posição, navio, aeronave, engenho de guerra ou provisões.
+P: Entrega ou abandono culposo
+K: entrega ao inimigo; culpa; tempo de guerra
+
+@CPM 377
+I: Pune o comandante que, por culpa, dá causa ao sacrifício ou à captura da força sob seu comando.
+P: Captura ou sacrifício culposo
+K: captura; comandante; culpa
+
+@CPM 378
+I: Pune o comandante que, na capitulação, separa a própria sorte da de seus oficiais e praças.
+P: Separação reprovável
+K: capitulação; comandante
+
+@CPM 379
+I: Pune quem abandona comboio cuja escolta lhe foi confiada, ou material de guerra sob sua guarda, com morte ou reclusão se houver avaria grave ou perda; separar-se por culpa do comboio também é crime.
+P: Abandono de comboio || Resultado mais grave || Modalidade culposa
+K: comboio; escolta; tempo de guerra
+
+@CPM 380
+I: Pune o oficial que, por culpa, permanece separado do comando superior.
+P: Separação culposa de comando
+K: comando; culpa
+
+@CPM 381
+I: Pune quem, por culpa, deixa evadir-se prisioneiro.
+P: Tolerância culposa na evasão de prisioneiro
+K: prisioneiro de guerra; evasão; culpa
+
+@CPM 382
+I: Pune o militar que, sem autorização, entra em entendimento com militar ou emissário inimigo ou serve de intermediário.
+P: Entendimento com o inimigo
+K: inimigo; entendimento não autorizado
+
+@CPM 383
+I: Em tempo de guerra, os danos a material de guerra, navios e instalações militares praticados em benefício do inimigo ou contra as operações são punidos com morte ou reclusão; há forma culposa.
+P: Dano especial em guerra || Modalidade culposa
+K: dano; sabotagem; tempo de guerra
+
+@CPM 384
+I: Pune com morte ou reclusão o dano a serviços de água, luz, transporte, comunicação, combustível, víveres, fábricas ou lavouras que comprometa as operações militares ou a segurança externa.
+P: Dano em bens de interesse militar
+K: sabotagem; infraestrutura; tempo de guerra
+
+@CPM 385
+I: Pune com morte ou reclusão o envenenamento de água, víveres ou forragens e a provocação de epidemia que comprometam as operações militares ou a segurança externa; há forma culposa.
+P: Envenenamento e epidemia em guerra || Modalidade culposa
+K: envenenamento; epidemia; tempo de guerra
+
+@CPM 386
+I: Os crimes dolosos de perigo comum são punidos com morte ou reclusão quando comprometem as operações militares ou, em zona de operações, resultam em morte.
+P: Perigo comum em tempo de guerra
+K: perigo comum; tempo de guerra
+
+@CPM 387
+I: A recusa de obediência e a oposição à sentinela, em presença do inimigo, são punidas com morte ou reclusão.
+P: Insubordinação em presença do inimigo
+K: insubordinação; presença do inimigo
+
+@CPM 388
+I: Pune quem coage oficial-general ou comandante da unidade, mesmo não sendo seu superior, para impedir o cumprimento do dever militar.
+P: Coação contra oficial-general ou comandante
+K: coação; oficial-general
+
+@CPM 389
+I: Em tempo de guerra, a violência contra superior ou militar de serviço com pena máxima de 30 anos passa a ter morte como grau máximo; nos demais casos, se praticada com arma e em presença do inimigo, também.
+P: Violência contra superior em guerra
+K: violência contra superior; tempo de guerra
+
+@CPM 390
+I: O abandono de posto em presença do inimigo é punido com morte ou reclusão.
+P: Abandono de posto em presença do inimigo
+K: abandono de posto; presença do inimigo
+
+@CPM 391
+I: Em tempo de guerra, a deserção tem a pena aumentada de metade e os prazos para sua consumação reduzidos à metade.
+P: Deserção em tempo de guerra || Prazos reduzidos
+K: deserção; tempo de guerra
+
+@CPM 392
+I: A deserção em presença do inimigo é punida com morte ou reclusão.
+P: Deserção em presença do inimigo
+K: deserção; presença do inimigo
+
+@CPM 393
+I: Pune o convocado que, na mobilização, não se apresenta no prazo ao centro de mobilização, com aumento para oficial da reserva.
+P: Falta de apresentação na mobilização
+K: mobilização; convocado; oficial da reserva
+
+@CPM 394
+I: Pune quem promove ou facilita a libertação de prisioneiro de guerra sob custódia nacional ou aliada.
+P: Libertação de prisioneiro de guerra
+K: prisioneiro de guerra; libertação
+
+@CPM 395
+I: Pune o prisioneiro de guerra que foge e volta a pegar em armas contra o Brasil ou aliado, observados os tratados sobre prisioneiros de guerra (Convenções de Genebra).
+P: Evasão de prisioneiro || Observância dos tratados
+K: prisioneiro de guerra; Convenções de Genebra
+
+@CPM 396
+I: Pune o amotinamento de prisioneiros em presença do inimigo.
+P: Amotinamento de prisioneiros
+K: prisioneiros; amotinamento
+
+@CPM 397
+I: Pune quem contribui culposamente para que alguém pratique crime que favoreça o inimigo.
+P: Favorecimento culposo ao inimigo
+K: favorecimento ao inimigo; culpa
+
+@CPM 398
+I: Pune o comandante que prolonga as hostilidades depois de saber oficialmente da paz ou do armistício.
+P: Prolongamento de hostilidades
+K: armistício; paz; comandante
+
+@CPM 399
+I: Pune o comandante que ordena contribuição de guerra sem autorização ou além dos limites.
+P: Ordem arbitrária de contribuição de guerra
+K: contribuição de guerra; comandante
+
+@CPM 400
+I: O homicídio praticado em presença do inimigo tem pena maior: 12 a 30 anos no simples, com a redução do privilégio, e morte ou reclusão no qualificado.
+P: Homicídio em presença do inimigo
+K: homicídio; presença do inimigo
+
+@CPM 401
+I: O genocídio em zona militarmente ocupada é punido com morte ou reclusão.
+P: Genocídio em zona ocupada
+K: genocídio; zona ocupada
+
+@CPM 402
+I: Os atos assimilados ao genocídio, praticados em zona ocupada, têm reclusão de 6 a 24 anos.
+P: Atos assimilados ao genocídio
+K: genocídio; atos assimilados
+
+@CPM 403
+I: As lesões corporais em presença do inimigo têm penas maiores para cada grau, inclusive as qualificadas pelo resultado, mantidas as reduções por privilégio.
+P: Lesão corporal em presença do inimigo
+K: lesão corporal; presença do inimigo
+
+@CPM 404
+I: O furto em zona de operações ou território ocupado tem a pena do tempo de paz em dobro.
+P: Furto em zona de operações
+K: furto; zona de operações
+
+@CPM 405
+I: O roubo e a extorsão em zona de operações ou território ocupado são punidos com morte, se a pena de paz for de 30 anos, ou com o dobro da pena nos demais casos.
+P: Roubo e extorsão em zona de operações
+K: roubo; extorsão; zona de operações
+
+@CPM 406
+I: O saque em zona de operações ou território ocupado é punido com morte ou reclusão.
+P: Saque
+K: saque; zona de operações
+
+@CPM 407
+I: Pune o rapto com fim libidinoso, mediante violência ou grave ameaça, em lugar de operações militares, com penas maiores se resultar lesão grave ou morte e cúmulo com outro crime contra a vítima. A expressão "mulher honesta" é anacrônica e incompatível com a igualdade (CF, art. 5º, I); no Código Penal comum, o rapto foi revogado em 2005.
+P: Rapto em zona de operações || Expressão anacrônica
+K: rapto; violência sexual; tempo de guerra
+
+@CPM 408
+I: Os crimes de violência carnal (estupro, art. 232) em lugar de operações militares têm pena de 4 a 12 anos, maior se houver lesão grave e morte ou reclusão se resultar morte. A remissão ao art. 233 refere-se ao atentado violento ao pudor, hoje absorvido pelo estupro.
+P: Violência carnal em zona de operações || Resultado mais grave
+K: estupro; violência carnal; tempo de guerra
+
+@CPM 409
+I: Revoga o Decreto-Lei nº 6.227/1944 (CPM anterior) e as disposições contrárias, ressalvadas as leis de segurança nacional da época; hoje os crimes contra o Estado Democrático de Direito estão no Código Penal (Lei nº 14.197/2021).
+P: Revogação do CPM de 1944 || Ressalva das leis de segurança nacional
+K: revogação; segurança nacional
+
+@CPM 410
+I: O Código entrou em vigor em 1º de janeiro de 1970.
+P: Vigência
+K: vigência
