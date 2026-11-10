@@ -13,7 +13,7 @@
 | Decisões do STF de destaque | ADI 5.766 (justiça gratuita); ADI 5.794 (contribuição sindical facultativa); ADI 5.938 (gestante e lactante em insalubridade); ADCs 58 e 59 (correção monetária); ADI 6.050 e outras (dano extrapatrimonial); ARE 1.121.633 (Tema 1.046, negociado sobre o legislado) |
 | Fonte oficial | Portal da Legislação — Presidência da República (Casa Civil, Subchefia para Assuntos Jurídicos) |
 | Link oficial | https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm |
-| Texto obtido em | 6 de novembro de 2026 |
+| Texto obtido em | 10 de novembro de 2026 |
 
 ## Resumo Executivo
 
@@ -730,11 +730,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 15. Os procedimentos para emissão da CTPS ao interessado serão estabelecidos pelo Ministério da Economia em regulamento próprio, privilegiada a emissão em formato eletrônico. (Redação dada pela Lei nº 13.874, de 2019)
 
-Parágrafo único. ~~A Carteira de Trabalho e Previdência Social será fornecida mediante a apresentação pelo interessado, dos seguintes elementos: (Redação dada pela Lei nº 5.686, de 1971) (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 1989)~~
+Parágrafo único. ~~A Carteira de Trabalho e Previdência Social será fornecida mediante a apresentação pelo interessado, dos seguintes elementos: (Redação dada pela Lei nº 5.686, de 1971)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.874, de 2019; redação — Lei nº 5.686, de 1971; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Os procedimentos de emissão da CTPS são definidos em regulamento do Ministério competente, com prioridade para o formato eletrônico.
 
@@ -839,15 +841,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO II — DA EMISSÃO DA CARTEIRA
 
-Art. 18 ~~- A anotação da profissão na Carteira de Trabalho e Previdência Social só será feita se o interessado apresentar um dos seguintes documento. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)~~)~~(Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 1989)
+Art. 18 ~~- A anotação da profissão na Carteira de Trabalho e Previdência Social só será feita se o interessado apresentar um dos seguintes documento. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969))~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 1989)
 
-§ 1º ~~Em se tratando de profissão oficialmente regulamentada, será necessária a prova de habilitação profissional do declarante. (Revogado pelo Decreto-lei nº 926, de 10.10.1969)~~
+§ 1º ~~Em se tratando de profissão oficialmente regulamentada, será necessária a prova de habilitação profissional do declarante.~~ (Revogado pelo Decreto-lei nº 926, de 10.10.1969)
 
-§ 2º ~~A carteira profissional dos oficiais barbeiros e cabelereiros será emitida mediante exibição do certificado de habilitação profissional passado pelas escolas mantidas pelo respectivo Sindicato. .(Revogado pelo Decreto-lei nº 926, de 10.10.1969)~~
+§ 2º ~~A carteira profissional dos oficiais barbeiros e cabelereiros será emitida mediante exibição do certificado de habilitação profissional passado pelas escolas mantidas pelo respectivo Sindicato. .~~ (Revogado pelo Decreto-lei nº 926, de 10.10.1969)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 926, de 10.10.1969; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 1989; revogação — Decreto-lei nº 926, de 10.10.1969.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pelo Decreto-lei nº 926, de 10.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -873,11 +877,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO II — DA EMISSÃO DA CARTEIRA
 
-Art. 19 ~~- Além do interessado, o empregador ou o sindicato poderão solicitar a emissão da Carteira de Trabalho e Previdência Social, proibida a intervenção de pessoas estranhas. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 19 ~~- Além do interessado, o empregador ou o sindicato poderão solicitar a emissão da Carteira de Trabalho e Previdência Social, proibida a intervenção de pessoas estranhas. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 926, de 10.10.1969; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -933,11 +939,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO II — DA EMISSÃO DA CARTEIRA
 
-Art. 21 ~~- Em caso de imprestabilidade ou esgotamento do espaço destinado a registros e anotações, o interessado deverá obter outra carteira, conservando-se o número e a série da anterior.~~~~(Redação dada pela Lei nº 5.686, de 3.8.1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+Art. 21 ~~- Em caso de imprestabilidade ou esgotamento do espaço destinado a registros e anotações, o interessado deverá obter outra carteira, conservando-se o número e a série da anterior. (Redação dada pela Lei nº 5.686, de 3.8.1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 5.686, de 3.8.1971; revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1023,7 +1031,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO II — DA EMISSÃO DA CARTEIRA
 
-Art. 24 ~~-~~ ~~Haverá no Departamento Nacional de Mão de Obra o cadastro profissional dos trabalhadores urbanos e rurais, organizado segundo a classificação das atividades e profissões. Este cadastro será atualizado mensalmente através do sistema de emissão das Carteiras Profissionais e pelas relações de admissão e dispensa a que se refere a Lei nº 4.923, de 23 de dezembro de 1965. (Redação dada pelo Decreto-Lei nº 229, de 1967)~~ (Revogado pelo Decreto-Lei nº 926, de 10.10.1969)
+Art. 24 ~~- Haverá no Departamento Nacional de Mão de Obra o cadastro profissional dos trabalhadores urbanos e rurais, organizado segundo a classificação das atividades e profissões. Este cadastro será atualizado mensalmente através do sistema de emissão das Carteiras Profissionais e pelas relações de admissão e dispensa a que se refere a Lei nº 4.923, de 23 de dezembro de 1965. (Redação dada pelo Decreto-Lei nº 229, de 1967)~~ (Revogado pelo Decreto-Lei nº 926, de 10.10.1969)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-Lei nº 229, de 1967; revogação — Decreto-Lei nº 926, de 10.10.1969.
 
@@ -1117,11 +1125,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO III — DA ENTREGA DAS CARTEIRAS DE TRABALHO E PREVIDÊNCIA SOCIAL
 
-Art. 27. ~~Se o candidato à Carteira Profissional não a houver recebido, dentro do prazo de 30 (trinta) dias, poderá reclamar às Delegacias Regionais ou órgãos autorizados, devendo ser a reclamação tomada por têrmo e entregue recibo da mesma ao interessado. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Vide Decreto-Lei nº 926, de 1969)~~ ~~(Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 27. ~~Se o candidato à Carteira Profissional não a houver recebido, dentro do prazo de 30 (trinta) dias, poderá reclamar às Delegacias Regionais ou órgãos autorizados, devendo ser a reclamação tomada por têrmo e entregue recibo da mesma ao interessado. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1149,13 +1159,15 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989).
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO III — DA ENTREGA DAS CARTEIRAS DE TRABALHO E PREVIDÊNCIA SOCIAL
 
-Art. 28. ~~Serão arquivadas as Carteiras Profissionais que não forem reclamadas pelos interessados dentro do prazo de 90 (noventa) dias contados da respectiva emissão. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Vide Decreto-Lei nº 926, de 1969)~~
+Art. 28. ~~Serão arquivadas as carteiras profissionais que não forem reclamadas pelos interessados dentro do prazo de sessenta dias, contados da respectiva emissão.~~ Art. 28. ~~Serão arquivadas as Carteiras Profissionais que não forem reclamadas pelos interessados dentro do prazo de 90 (noventa) dias contados da respectiva emissão. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Vide Decreto-Lei nº 926, de 1969)~~
 
-Parágrafo único. ~~A entrega das carteiras arquivadas ficará sujeita ao emolumento de 1/100 (um cem avos) do maior salário-mínimo vigente no país. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Extinto pela Lei nº 8.522, de 1992) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Parágrafo único. ~~A entrega das carteiras arquivadas ficará sujeita ao emolumento de 1/100 (um cem avos) do maior salário-mínimo vigente no país. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Extinto pela Lei nº 8.522, de 1992)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1312,11 +1324,13 @@ Prevê multa de R$ 600,00 por empregado prejudicado quando não forem feitas as 
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO IV — DAS ANOTAÇÕES Anotações na Carteira de Trabalho e Previdência Social
 
-Art. 30 ~~- Os acidentes do trabalho serão obrigatoriamente anotados pelo Instituto Nacional de Previdência Social na carteira do acidentado.~~~~(Redação dada pelo Decreto-lei nº 926, de 10.10.1969~~) (Revogado pela Lei nº 13.874, de 2019)
+Art. 30 ~~- Os acidentes do trabalho serão obrigatoriamente anotados pelo Instituto Nacional de Previdência Social na carteira do acidentado. (Redação dada pelo Decreto-lei nº 926, de 10.10.1969)~~ (Revogado pela Lei nº 13.874, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 926, de 10.10.1969; revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1464,7 +1478,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO IV — DAS ANOTAÇÕES Anotações na Carteira de Trabalho e Previdência Social
 
-Art. 35. ~~Os bailarinas, músicos e artistas de teatros, circos e variedades, teem direito è carteira profissional, cujas anotações serão feitas pelos estabelecimentos, empresas ou instituição onde prestam seus serviços, quando diretamente contratados por alguma dessas entidades, desde que se estipule em mais de sete dias o prazo de contrato, o qual deverá constar da carteira~~ ~~(Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Lei nº 6.533, de 24.5.1978)
+Art. 35. ~~Os bailarinas, músicos e artistas de teatros, circos e variedades, teem direito è carteira profissional, cujas anotações serão feitas pelos estabelecimentos, empresas ou instituição onde prestam seus serviços, quando diretamente contratados por alguma dessas entidades, desde que se estipule em mais de sete dias o prazo de contrato, o qual deverá constar da carteira (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Lei nº 6.533, de 24.5.1978)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 6.533, de 24.5.1978.
 
@@ -1732,11 +1746,13 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 10.243, de 19.6.2001).
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO VII — DOS LIVROS DE REGISTRO DE EMPREGADOS
 
-Art. 43 ~~- Para o registro dos livros ou fichas a que se refere o artigo 42 não será cobrado qualquer emolumento. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 43 ~~- Para o registro dos livros ou fichas a que se refere o artigo 42 não será cobrado qualquer emolumento. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -1764,11 +1780,13 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989).
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DA IDENTIFICAÇÃO PROFISSIONAL › SEÇÃO VII — DOS LIVROS DE REGISTRO DE EMPREGADOS
 
-Art. 44 ~~- As Delegacias Regionais e órgãos autorizados remeterão mensalmente, ao Departamento Nacional de Mão-de-Obra, para o efeito de contrôle estatístico, relação dos registros feitos durante o mês anterior. ((Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 44 ~~- As Delegacias Regionais e órgãos autorizados remeterão mensalmente, ao Departamento Nacional de Mão-de-Obra, para o efeito de contrôle estatístico, relação dos registros feitos durante o mês anterior. ((Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -2241,7 +2259,7 @@ Art. 58 - A duração normal do trabalho, para os empregados em qualquer ativida
 
 § 2º O tempo despendido pelo empregado desde a sua residência até a efetiva ocupação do posto de trabalho e para o seu retorno, caminhando ou por qualquer meio de transporte, inclusive o fornecido pelo empregador, não será computado na jornada de trabalho, por não ser tempo à disposição do empregador. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
 
-§ 3o ~~Poderão ser fixados, para as microempresas e empresas de pequeno porte, por meio de acordo ou convenção coletiva, em caso de transporte fornecido pelo empregador, em local de difícil acesso ou não servido por transporte público, o tempo médio despendido pelo empregado, bem como a forma e a natureza da remuneração.~~ ~~(Incluído pela Lei Complementar nº 123, de 2006)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 3o ~~Poderão ser fixados, para as microempresas e empresas de pequeno porte, por meio de acordo ou convenção coletiva, em caso de transporte fornecido pelo empregador, em local de difícil acesso ou não servido por transporte público, o tempo médio despendido pelo empregado, bem como a forma e a natureza da remuneração. (Incluído pela Lei Complementar nº 123, de 2006)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 13.467, de 2017; inclusão — Lei Complementar nº 123, de 2006; revogação — Lei nº 13.467, de 2017.
 
@@ -2330,7 +2348,7 @@ Art. 59. A duração diária do trabalho poderá ser acrescida de horas extras, 
 
 § 3º Na hipótese de rescisão do contrato de trabalho sem que tenha havido a compensação integral da jornada extraordinária, na forma dos §§ 2o e 5o deste artigo, o trabalhador terá direito ao pagamento das horas extras não compensadas, calculadas sobre o valor da remuneração na data da rescisão. (Redação dada pela Lei nº 13.467, de 2017) (Vigência)
 
-§ 4o ~~Os empregados sob o regime de tempo parcial não poderão prestar horas extras.~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 4o ~~Os empregados sob o regime de tempo parcial não poderão prestar horas extras. (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 § 5º O banco de horas de que trata o § 2o deste artigo poderá ser pactuado por acordo individual escrito, desde que a compensação ocorra no período máximo de seis meses. (Incluído pela Lei nº 13.467, de 2017) (Vigência)
 
@@ -3315,13 +3333,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 80. ~~Ao menor aprendiz será pago salário nunca inferior a meio salário-mínimo regional durante a primeira metade da duração máxima prevista para o aprendizado do respectivo ofício. Na segunda metade passará a perceber, pelo menos, 2/3 (dois têrços) do salário-mínimo regional. (Revigorado pela Lei nº 6.086, de 1974)~~ (Revogado pela Lei 10.097, de 2000)
 
-Parágrafo único ~~- Considera-se aprendiz a menor de 12 (doze) a 18 (dezoito) anos, sujeito a formação profissional metódica do ofício em que exerça o seu trabalho. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ ~~(Revogado pela Lei nº 5.274, de 1967)~~
+Parágrafo único ~~- Considera-se aprendiz a menor de 12 (doze) a 18 (dezoito) anos, sujeito a formação profissional metódica do ofício em que exerça o seu trabalho. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 5.274, de 1967)
 
 Parágrafo único ~~- Considera-se aprendiz a menor de 12 (doze) a 18 (dezoito) anos, sujeito a formação profissional metódica do ofício em que exerça o seu trabalho. (Revigorado pela Lei nº 6.086, de 1974)~~ (Revogado pela Lei 10.097, de 2000)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Lei nº 5.274, de 1967.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei 10.097, de 2000). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -3511,15 +3531,17 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 86 ~~- Sempre que, em uma região ou zona, se verifiquem diferenças de padrão de vida, determinadas por circunstâncias econômicas de carater urbano, suburbano, rural ou marítimo, poderá o Ministro do Trabalho, Industria e Comercio, mediante proposta da respectiva Comissão de Salário Mínimo e ouvido o Serviço de Estatística da Previdência e Trabalho, autorizá-la a subdividir a região ou zona, de acordo com tais circunstâncias. (Vide Decreto Lei nº 2.351, de 1987)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-§ 1º ~~Deverá ser efetuado, também em sua totalidade, e no ato da entrega da declaração, o pagamento do imposto devido, quando se verificar a hipótese do art. 52. (Parágrafo único renumerado pela Lei nº 5.381, de 9.2.1968)~~~~(Vide Lei nº 4.589, de 11.12.1964)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 1º ~~Deverá ser efetuado, também em sua totalidade, e no ato da entrega da declaração, o pagamento do imposto devido, quando se verificar a hipótese do art. 52. (Parágrafo único renumerado pela Lei nº 5.381, de 9.2.1968) (Vide Lei nº 4.589, de 11.12.1964)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-§ 2º ~~Enquanto não se verificarem as circunstâncias mencionadas neste artigo, vigorará nos municípios que se criarem o salário-mínimo fixado para os municpios de que tenham sido desmembrados. (Incluído pela Lei nº 5.381, de 9.2.1968)~~~~(Vide Decreto Lei nº 2.351, de 1987)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 2º ~~Enquanto não se verificarem as circunstâncias mencionadas neste artigo, vigorará nos municípios que se criarem o salário-mínimo fixado para os municpios de que tenham sido desmembrados. (Incluído pela Lei nº 5.381, de 9.2.1968) (Vide Decreto Lei nº 2.351, de 1987)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-§ 3º ~~No caso de novos municípios formados pelo desmembramento de mais de um município, vigorará neles, até que se verifiquem as referidas circunstâncias, o maior salário-mínimo estabelecido para os municpios que lhes deram origem. (Incluído pela Lei nº 5.381, de 9.2.1968)~~~~(Vide Decreto Lei nº 2.351, de 1987)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 3º ~~No caso de novos municípios formados pelo desmembramento de mais de um município, vigorará neles, até que se verifiquem as referidas circunstâncias, o maior salário-mínimo estabelecido para os municpios que lhes deram origem. (Incluído pela Lei nº 5.381, de 9.2.1968) (Vide Decreto Lei nº 2.351, de 1987)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.467, de 2017; inclusão — Lei nº 5.381, de 9.2.1968.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -3617,11 +3639,13 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964).
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DO SALÁRIO MÍNIMO › SEÇÃO III — DA CONSTITUIÇÃO DAS COMISSÕES
 
-Art. 89 ~~- De cada Comissão não poderá participar como representante dos empregadores ou dos empregados, mais de um componente que pertença à mesma profissão ou à mesma atividade produtora.~~(Revogado pela Lei nº 4.589, de 11.12.1964)
+Art. 89 ~~- De cada Comissão não poderá participar como representante dos empregadores ou dos empregados, mais de um componente que pertença à mesma profissão ou à mesma atividade produtora.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 4.589, de 11.12.1964.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -4017,7 +4041,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DO SALÁRIO MÍNIMO › SEÇÃO IV — DAS ATRIBUIÇÕES DAS COMISSÕES DE SALÁRIO MÍNIMO
 
-Art. 102 ~~-~~ ~~O ministro do Trabalho, Indústria e Comércio, ex-offício, a requerimento dos sindicatos, associações profissionais registradas ou por solicitação da Comissão de Salário Mínimo, poderá classificar os trabalhadores segundo a identidade das condições necessárias e normais da vida nas respectivas regiões.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
+Art. 102 ~~- O ministro do Trabalho, Indústria e Comércio, ex-offício, a requerimento dos sindicatos, associações profissionais registradas ou por solicitação da Comissão de Salário Mínimo, poderá classificar os trabalhadores segundo a identidade das condições necessárias e normais da vida nas respectivas regiões.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 4.589, de 11.12.1964.
 
@@ -4642,7 +4666,7 @@ Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 229, de 28.2.1
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DO SALÁRIO MÍNIMO › SEÇÃO VI — DISPOSIÇÕES GERAIS
 
-Art. 122 ~~- O membro da Comissão ou Subcomissão de Salário Mínimo que deixar de comparecer a três sessões seguidas, sem justificação documentada, alem da multa prevista no art. 120~~~~, será destituido de suas funções e substituido pelo respectivo suplente.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
+Art. 122 ~~- O membro da Comissão ou Subcomissão de Salário Mínimo que deixar de comparecer a três sessões seguidas, sem justificação documentada, alem da multa prevista no art. 120, será destituido de suas funções e substituido pelo respectivo suplente.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 4.589, de 11.12.1964.
 
@@ -4925,21 +4949,21 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO IV — DAS FÉRIAS ANUAIS › SEÇÃO I — DO DIREITO A FÉRIAS E DA SUA DURAÇÃO
 
-Art. 130-A. ~~Na modalidade do regime de tempo parcial, após cada período de doze meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção:~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+Art. 130-A. ~~Na modalidade do regime de tempo parcial, após cada período de doze meses de vigência do contrato de trabalho, o empregado terá direito a férias, na seguinte proporção: (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-I - ~~dezoito dias, para a duração do trabalho semanal superior a vinte e duas horas, até vinte e cinco horas;~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+I - ~~dezoito dias, para a duração do trabalho semanal superior a vinte e duas horas, até vinte e cinco horas; (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-II - ~~dezesseis dias, para a duração do trabalho semanal superior a vinte horas, até vinte e duas horas;~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+II - ~~dezesseis dias, para a duração do trabalho semanal superior a vinte horas, até vinte e duas horas; (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-III - ~~quatorze dias, para a duração do trabalho semanal superior a quinze horas, até vinte horas;~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+III - ~~quatorze dias, para a duração do trabalho semanal superior a quinze horas, até vinte horas; (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-IV - ~~doze dias, para a duração do trabalho semanal superior a dez horas, até quinze horas;~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+IV - ~~doze dias, para a duração do trabalho semanal superior a dez horas, até quinze horas; (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-V - ~~dez dias, para a duração do trabalho semanal superior a cinco horas, até dez horas;~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+V - ~~dez dias, para a duração do trabalho semanal superior a cinco horas, até dez horas; (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-VI - ~~oito dias, para a duração do trabalho semanal igual ou inferior a cinco horas.~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+VI - ~~oito dias, para a duração do trabalho semanal igual ou inferior a cinco horas. (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
-Parágrafo único. ~~O empregado contratado sob o regime de tempo parcial que tiver mais de sete faltas injustificadas ao longo do período aquisitivo terá o seu período de férias reduzido à metade.~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+Parágrafo único. ~~O empregado contratado sob o regime de tempo parcial que tiver mais de sete faltas injustificadas ao longo do período aquisitivo terá o seu período de férias reduzido à metade. (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Medida Provisória nº 2.164; revogação — Lei nº 13.467, de 2017.
 
@@ -5427,7 +5451,7 @@ Art. 143 - É facultado ao empregado converter 1/3 (um terço) do período de f�
 
 § 2º - Tratando-se de férias coletivas, a conversão a que se refere este artigo deverá ser objeto de acordo coletivo entre o empregador e o sindicato representativo da respectiva categoria profissional, independendo de requerimento individual a concessão do abono. (Incluído pelo Decreto-lei nº 1.535, de 13.4.1977
 
-§ 3o ~~O disposto neste artigo não se aplica aos empregados sob o regime de tempo parcial.~~ ~~(Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
+§ 3o ~~O disposto neste artigo não se aplica aos empregados sob o regime de tempo parcial. (Incluído pela Medida Provisória nº 2.164-41, de 2001)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** inclusão — Medida Provisória nº 2.164; revogação — Lei nº 13.467, de 2017.
 
@@ -5966,13 +5990,11 @@ a) à observância das instruções expedidas pelo empregador na forma do item I
 
 b) ao uso dos equipamentos de proteção individual fornecidos pela empresa. (Incluído pela Lei nº 6.514, de 22.12.1977)
 
-II - ~~Para trabalhos que exigem menos riqueza de detalhes (tais como trabalhos mecânicos comuns) , 50 a 150 luxes;~~
-
-III - ~~Para trabalhos rústicos ( tais como matadouros, embalagens simples) 20 a 30 luxes.~~
-
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 6.514, de 22.12.1977; inclusão — Lei nº 6.514, de 22.12.1977.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Os empregados devem observar as normas de segurança e as instruções do empregador e colaborar com sua aplicação. A recusa injustificada a seguir as instruções ou a usar os equipamentos de proteção individual fornecidos é ato faltoso, que pode levar a sanções disciplinares e até justa causa.
 
@@ -7528,7 +7550,7 @@ Prevê multas para infrações de medicina do trabalho (3 a 30 vezes o valor de 
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO V — DA SEGURANÇA E DA MEDICINA DO TRABALHO › SEÇÃO XVI — DAS PENALIDADES Atualização do valor das multas
 
-Art. 202 ~~-~~ ~~As saídas devem ser em número suficiente e dispostas de modo que aqueles que se encontrem nos locais de trabalho possam abandoná-los com rapidez e com toda a segurança em caso de sinistro. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
+Art. 202 ~~- As saídas devem ser em número suficiente e dispostas de modo que aqueles que se encontrem nos locais de trabalho possam abandoná-los com rapidez e com toda a segurança em caso de sinistro. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
 § 2º ~~Onde não for possível o acesso imediato às saídas, deverão existir, em caráter permanente e completamente desobstruídas, circulações internas ou corredores de acesso contínuos e seguros, com a largura mínima de 1,20m (um metro e vinte centímetros) e que conduzirão diretamente às saidas. (Incluído pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
@@ -7622,7 +7644,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO V — DA SEGURANÇA E DA MEDICINA DO TRABALHO › SEÇÃO XVI — DAS PENALIDADES Atualização do valor das multas
 
-Art. 205 ~~-~~ ~~Quando, nas operações a que se refere o artigo anterior, se empregarem explosivos, haverá um "blaster" - responsável pela preparação das cargas, carregamento das minas, ordem-de-fogo, detonação e retirada das minas que tiverem explodido. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
+Art. 205 ~~- Quando, nas operações a que se refere o artigo anterior, se empregarem explosivos, haverá um "blaster" - responsável pela preparação das cargas, carregamento das minas, ordem-de-fogo, detonação e retirada das minas que tiverem explodido. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-Lei nº 229, de 28.2.1967; revogação — Lei nº 6.514, de 22.12.1977.
 
@@ -7832,13 +7854,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO V — DA SEGURANÇA E DA MEDICINA DO TRABALHO › SEÇÃO XVI — DAS PENALIDADES Atualização do valor das multas
 
-Art. 212 ~~- Não poderão os empregados ser obrigados a remover individualmente material de peso superior a sessenta quilogramas. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~(Revogado pela Lei nº 6.514, de 22.12.1977)
+Art. 212 ~~- Não poderão os empregados ser obrigados a remover individualmente material de peso superior a sessenta quilogramas. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
 Parágrafo único. ~~Não está compreendida na proibição deste artigo a remoção de material feita por impulsão ou tração de vagonetes sobre trilhos, carros-de-mão ou quaisquer outros aparelhos mecânicos, não sendo, em nenhum caso, permitido exigir do empregado serviços superiores às suas forças. (Incluído pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-Lei nº 229, de 28.2.1967; revogação — Lei nº 6.514, de 22.12.1977; inclusão — Decreto-Lei nº 229, de 28.2.1967.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 6.514, de 22.12.1977). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -8100,7 +8124,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO II — DAS NORMAS GERAIS DE TUTELA DO TRABALHO › CAPÍTULO V — DA SEGURANÇA E DA MEDICINA DO TRABALHO › SEÇÃO XVI — DAS PENALIDADES Atualização do valor das multas
 
-Art. 220 ~~-~~ ~~Os locais de trabalho serão mantidos em estado de higiene compatível com o gênero da atividade. O serviço de limpeza será realizado, sempre que possível, fora do horário de trabalho e por processos que reduzam ao mínimo o lavantamento de poeiras. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
+Art. 220 ~~- Os locais de trabalho serão mantidos em estado de higiene compatível com o gênero da atividade. O serviço de limpeza será realizado, sempre que possível, fora do horário de trabalho e por processos que reduzam ao mínimo o lavantamento de poeiras. (Redação dada pelo Decreto-Lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 6.514, de 22.12.1977)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-Lei nº 229, de 28.2.1967; revogação — Lei nº 6.514, de 22.12.1977.
 
@@ -9931,7 +9955,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO VIII — DOS SERVIÇOS DE ESTIVA
 
-Art. 257 ~~-~~ ~~A mão de obra na estiva das embarcações, definida na alínea "a" do art. 255 só poderá ser executada por operários estivadores ou por trabalhadores em estiva de minérios nos portos onde os houver especializados, de preferência sindicalizados, devidamente matriculados nas Capitanias dos Portos ou em suas Delegacias ou Agências, exceto nos casos previstos no artigo 260 desta Seção.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
+Art. 257 ~~- A mão de obra na estiva das embarcações, definida na alínea "a" do art. 255 só poderá ser executada por operários estivadores ou por trabalhadores em estiva de minérios nos portos onde os houver especializados, de preferência sindicalizados, devidamente matriculados nas Capitanias dos Portos ou em suas Delegacias ou Agências, exceto nos casos previstos no artigo 260 desta Seção.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 8.630, de 25.2.1993.
 
@@ -9964,7 +9988,7 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). 
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO VIII — DOS SERVIÇOS DE ESTIVA
 
-Art. 258 ~~-~~ ~~As entidades especificadas no § 1º do art. 255, enviarão, mensalmente, à Delegacia do Trabalho Marítimo, um quadro demonstrativo do número de horas de trabalho executado pelos operários estivadores por ela utilizados.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
+Art. 258 ~~- As entidades especificadas no § 1º do art. 255, enviarão, mensalmente, à Delegacia do Trabalho Marítimo, um quadro demonstrativo do número de horas de trabalho executado pelos operários estivadores por ela utilizados.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 8.630, de 25.2.1993.
 
@@ -10150,11 +10174,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 264 ~~- O serviço de estiva será executado com o melhor aproveitamento possível dos guindastes e demais instalações de carga e descarga dos navios e dos portos.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
-§ 7º ~~- Os contramestres gerais e os contramestres de porão serão de confiança das entidades estivadoras e pelas mesmas remunerados. (Revogado pela Lei nº 2.872, de 18.9.1956)~~
+§ 7º ~~- Os contramestres gerais e os contramestres de porão serão de confiança das entidades estivadoras e pelas mesmas remunerados.~~ (Revogado pela Lei nº 2.872, de 18.9.1956)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 8.630, de 25.2.1993; revogação — Lei nº 2.872, de 18.9.1956.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 2.872, de 18.9.1956). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -10212,7 +10238,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO VIII — DOS SERVIÇOS DE ESTIVA
 
-Art. 266 ~~-~~ ~~Somente terão direito a perceber proventos pelo serviço de mão de obra de estiva os operários estivadores e os contramestres que estiverem em trabalho efetivo a bordo de embarcações, ou nos casos expressamente previstos nesta lei.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
+Art. 266 ~~- Somente terão direito a perceber proventos pelo serviço de mão de obra de estiva os operários estivadores e os contramestres que estiverem em trabalho efetivo a bordo de embarcações, ou nos casos expressamente previstos nesta lei.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 § 2º ~~Os contramestres gerais e contramestres de porões serão distribuídos pelo rodízio do Sindicato nos termos do parágrafo anterior, e renumerados pelas entidades estivadoras. (Incluído pela Lei nº 2.872, de 18.9.1956)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
@@ -10578,13 +10604,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO VIII — DOS SERVIÇOS DE ESTIVA
 
-Art. 278 ~~-O horário de trabalho na estiva, em cada porto do país, será fixado pela respectiva Delegacia do Trabalho Marítimo. O dia de trabalho terá a duração de oito horas e a noite de trabalho de seis horas divididos em dois turnos de quatro e três horas, respectivamente, e separados por intervalos de uma a uma e meia hora, para refeição e repouso. (Redação dada pela Lei nº 3.165, de 1º.6.1957)~~(Revogado pela Lei nº 8.630, de 25.2.1993)
+Art. 278 ~~-O horário de trabalho na estiva, em cada porto do país, será fixado pela respectiva Delegacia do Trabalho Marítimo. O dia de trabalho terá a duração de oito horas e a noite de trabalho de seis horas divididos em dois turnos de quatro e três horas, respectivamente, e separados por intervalos de uma a uma e meia hora, para refeição e repouso. (Redação dada pela Lei nº 3.165, de 1º.6.1957)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
-§ 2º ~~Para ultimar o serviço de estiva dos grandes paquetes ou dos navios que estejam na iminência de perder a maré, e para não interromper o trabalho nos navios frigoríficos, a entidade estivadora poderá executar o serviço de estiva durante as horas destinadas às refeições dos operários, pagando-lhes, porém, como suplemento de remuneração, o dobro do salário correspondente à duração da refeição.~~(Revogado pela Lei nº 8.630, de 25.2.1993)
+§ 2º ~~Para ultimar o serviço de estiva dos grandes paquetes ou dos navios que estejam na iminência de perder a maré, e para não interromper o trabalho nos navios frigoríficos, a entidade estivadora poderá executar o serviço de estiva durante as horas destinadas às refeições dos operários, pagando-lhes, porém, como suplemento de remuneração, o dobro do salário correspondente à duração da refeição.~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 3.165, de 1; revogação — Lei nº 8.630, de 25.2.1993.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -10806,11 +10834,13 @@ d) ~~cosideram-se serviços acessórios da mesma atividade profissional: (Inciso
 
 ~~2) empilhação, desempilhação, remoção e arrumação das mercadorias; (Inciso incluído pela Lei nº 2.196, de 1º.4.1954)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
-f) ~~aplica-se à mão de obra dos trabalhos no movimento de mercadorias o disposto na Seção IX do Título III da Consolidação das Leis do Trabalho. (Inciso incluído pela Lei nº 2.196, de 1º.4.1954)~~(Revogado pela Lei nº 8.630, de 25.2.1993)
+f) ~~aplica-se à mão de obra dos trabalhos no movimento de mercadorias o disposto na Seção IX do Título III da Consolidação das Leis do Trabalho. (Inciso incluído pela Lei nº 2.196, de 1º.4.1954)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 8.630, de 25.2.1993.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 8.630, de 25.2.1993). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -11695,11 +11725,13 @@ Permite a inscrição, em registro especial, de quem exerce atividade jornalíst
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO XI — DOS JORNALISTAS PROFISSIONAIS
 
-Art. 314. ~~Excetuam-se do disposto no artigo anterior os favores da alínea c do art. 7º do regulamento aprovado pelo decreto n. 3.590, de 11 de janeiro de 1939, substituida a carteira profissional pelo certificado de registo concedido pela repartição competente.~~~~(Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pelo Decreto-Lei nº 972, de 17.10.1969)
+Art. 314. ~~Excetuam-se do disposto no artigo anterior os favores da alínea c do art. 7º do regulamento aprovado pelo decreto n. 3.590, de 11 de janeiro de 1939, substituida a carteira profissional pelo certificado de registo concedido pela repartição competente. (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pelo Decreto-Lei nº 972, de 17.10.1969)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-Lei nº 972, de 17.10.1969.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pelo Decreto-Lei nº 972, de 17.10.1969). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -12011,13 +12043,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO I — DAS DISPOSIÇÕES ESPECIAIS SOBRE DURAÇÃO E CONDIÇÕES DE TRABALHO › SEÇÃO XII — DOS PROFESSORES
 
-Art. 324. ~~Os estabelecimentos particulares de ensino, para o efeito da fiscalização dos dispositivos aqui contidos, são obrigados a manter afixado na secretaria, em lugar visivel, o quadro de seu corpo docente, do qual conste o nome de cada professor, o número de seu registo e o de sua carteira profissional e o horário respectivo. (Vide Decreto-Lei nº 926, de 1969) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 324. ~~Os estabelecimentos particulares de ensino, para o efeito da fiscalização dos dispositivos aqui contidos, são obrigados a manter afixado na secretaria, em lugar visivel, o quadro de seu corpo docente, do qual conste o nome de cada professor, o número de seu registo e o de sua carteira profissional e o horário respectivo. (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 Parágrafo único. ~~Cada estabelecimento deverá possuir, escriturado em dia, um livro de registo, do qual constem os dados referentes aos professores, quanto à sua identidade, registo, carteira profissional, data de admissão, condições de trabalho, e quaisquer outras anotações que por lei devam ser feitas, bem como a data de sua saida quando deixarem o estabelecimento. (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13726,11 +13760,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER › SEÇÃO I — DA DURAÇÃO, CONDIÇÕES DO TRABALHO E DA DISCRIMINAÇÃO CONTRA A MULHER
 
-Art. 374 ~~- A duração normal diária do trabalho da mulher poderá ser no máximo elevada de 2 (duas) horas, independentemente de acréscimo salarial, mediante convenção ou acôrdo coletivo nos têrmos do Título VI desta Consolidação, desde que o excesso de horas, em um dia seja compensado pela diminuição em outro, de medo a ser observado o limite de 43 (quarenta e oito) horas semanais ou outro inferior legalmente fixado.~~ ~~(Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ ~~(Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 374 ~~- A duração normal diária do trabalho da mulher poderá ser no máximo elevada de 2 (duas) horas, independentemente de acréscimo salarial, mediante convenção ou acôrdo coletivo nos têrmos do Título VI desta Consolidação, desde que o excesso de horas, em um dia seja compensado pela diminuição em outro, de medo a ser observado o limite de 43 (quarenta e oito) horas semanais ou outro inferior legalmente fixado. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13758,11 +13794,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 375. ~~Mulher nenhuma poderá ter o seu horário de trabalho prorrogado, sem que esteja para isso autorizada por atestado médico oficial, constante de sua carteira profissional.~~
 
-Parágrafo único. ~~Nas localidades em que não houver serviço médico oficial, valerá para os efeitos legais o atestado firmado por médicos particulares em documento em separado. (Vide Decreto-Lei nº 926, de 1969) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Parágrafo único. ~~Nas localidades em que não houver serviço médico oficial, valerá para os efeitos legais o atestado firmado por médicos particulares em documento em separado. (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13848,11 +13886,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER › SEÇÃO I — DA DURAÇÃO, CONDIÇÕES DO TRABALHO E DA DISCRIMINAÇÃO CONTRA A MULHER
 
-Art. 378. ~~Na carteira profissional da mulher, serão feitas, em folhas especiais, as anotações e atestados médicos previstos neste capítulo, de acordo com os modelos que forem expedidos. (Vide Decreto-Lei nº 926, de 1969) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 378. ~~Na carteira profissional da mulher, serão feitas, em folhas especiais, as anotações e atestados médicos previstos neste capítulo, de acordo com os modelos que forem expedidos. (Vide Decreto-Lei nº 926, de 1969)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13880,11 +13920,13 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989).
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO III — DA PROTEÇÃO DO TRABALHO DA MULHER › SEÇÃO II — DO TRABALHO NOTURNO
 
-Art. 379 ~~- É permitido o trabalho noturno da mulher maior de 18 (dezoito) anos, salvo em empresas ou atividade industriais. (Redação dada pela Lei nº 7.189, de 4.6.1984) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 379 ~~- É permitido o trabalho noturno da mulher maior de 18 (dezoito) anos, salvo em empresas ou atividade industriais. (Redação dada pela Lei nº 7.189, de 4.6.1984)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 7.189, de 4.6.1984; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -13913,11 +13955,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 380 ~~- Para o trabalho a que se refere a alínea "c" do artigo anterior, torna-se obrigatória, além da fixação dos salários por parte dos empregadores, a apresentação à autoridade competente dos documentos seguintes:~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
 
-b) ~~atestado de capacidade física e mental, passado por médico oficial. (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+b) ~~atestado de capacidade física e mental, passado por médico oficial.~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 7.855, de 24.10.1989; revogação — Medida provisória nº 89, de 1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -14122,11 +14166,13 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 387 ~~- É proibido o trabalho da mulher:~~
 
-b) ~~nas atividades perigosas ou insalubres, especificadas nos quadros para este fim aprovados. (Revogado pela Medida Provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+b) ~~nas atividades perigosas ou insalubres, especificadas nos quadros para este fim aprovados.~~ (Revogado pela Medida Provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Medida Provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -15449,7 +15495,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 415 - Haverá a Carteira de Trabalho e Previdência Social para todos os menores de 18 anos, sem distinção do sexo, empregados em empresas ou estabelecimentos de fins econômicos e daqueles que lhes forem equiparados. (Vide Decreto-lei nº 926, de 10.10.1969)
 
-Parágrafo único. ~~A carteira obedecerá ao modelo que o Ministério do Trabalho, Indústria e Comércio adotar e será emitida no Distrito Federal, pelo Departamento Nacional, do Trabalho e, nos Estados, pelas Delegacias Regionais do referido Ministério.~~ ~~(Vide Decreto-lei nº 926, de 10.10.1969)~~ (Revogado pela Lei nº 13.874, de 2019)
+Parágrafo único. ~~A carteira obedecerá ao modelo que o Ministério do Trabalho, Indústria e Comércio adotar e será emitida no Distrito Federal, pelo Departamento Nacional, do Trabalho e, nos Estados, pelas Delegacias Regionais do referido Ministério. (Vide Decreto-lei nº 926, de 10.10.1969)~~ (Revogado pela Lei nº 13.874, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.874, de 2019.
 
@@ -15567,13 +15613,15 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O te
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO IV — DA PROTEÇÃO DO TRABALHO DO MENOR › SEÇÃO III — DA ADMISSÃO EM EMPREGO E DA CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL
 
-Art. 418 ~~- Os atestados de capacidade física e mental referidos no artigo 417 serão fornecidos e revalidados anualmente, pelas autoridades federais, estaduais ou municipais competentes ou pelo serviço médico da emprêsa ou dos sindicatos de classe, devidamente autorizados pela autoridade competente em matéria de Segurança de Higiene do Trabalho, e, na falta dêstes, por médico designado pela autoridade de inspeção da trabalho. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967) (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Art. 418 ~~- Os atestados de capacidade física e mental referidos no artigo 417 serão fornecidos e revalidados anualmente, pelas autoridades federais, estaduais ou municipais competentes ou pelo serviço médico da emprêsa ou dos sindicatos de classe, devidamente autorizados pela autoridade competente em matéria de Segurança de Higiene do Trabalho, e, na falta dêstes, por médico designado pela autoridade de inspeção da trabalho. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 Parágrafo único. ~~O atestado de vacina a que se refere o item V do artigo 417 deve ser fornecido pela autoridade estadual ou municipal competente. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Medida provisória nº 89, de 1989; revogação — Lei nº 7.855, de 24.10.1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -15601,17 +15649,19 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989).
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO IV — DA PROTEÇÃO DO TRABALHO DO MENOR › SEÇÃO III — DA ADMISSÃO EM EMPREGO E DA CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL
 
-Art. 419 ~~- A prova de saber ler, escrever e contar, a que se refere a alínea "f" do art. 417 será feita mediante certificado de conclusão de curso primário. Na falta deste, a autoridade incumbida de verificar a validade dos documentos submeterá o menor ou mandará submetê-lo, por pessoa idônea, a exame elementar que constará de leitura de quinze linhas, com explicação do sentido, de ditado, nunca excedente de dez linhas, e cálculo sobre as quatro operações fundamentais de aritmética. Verificada a alfabetização do menor, será emitida a carteira.~~~~(Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+Art. 419 ~~- A prova de saber ler, escrever e contar, a que se refere a alínea "f" do art. 417 será feita mediante certificado de conclusão de curso primário. Na falta deste, a autoridade incumbida de verificar a validade dos documentos submeterá o menor ou mandará submetê-lo, por pessoa idônea, a exame elementar que constará de leitura de quinze linhas, com explicação do sentido, de ditado, nunca excedente de dez linhas, e cálculo sobre as quatro operações fundamentais de aritmética. Verificada a alfabetização do menor, será emitida a carteira. (Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
-§ 1º ~~Se o menor for analfabeto ou não estiver devidamente alfabetizado, a carteira só será emitida pelo prazo de um ano, mediante a apresentação de um certificado ou atestado de matrícula e frequência em escola primária.~~~~(Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+§ 1º ~~Se o menor for analfabeto ou não estiver devidamente alfabetizado, a carteira só será emitida pelo prazo de um ano, mediante a apresentação de um certificado ou atestado de matrícula e frequência em escola primária. (Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
-§ 2º ~~A autoridade fiscalizadora, na hipótese do parágrafo anterior, poderá renovar o prazo nele fixado, cabendo-lhe, em caso de não renovar tal prazo, cassar a carteira expedida.~~~~(Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+§ 2º ~~A autoridade fiscalizadora, na hipótese do parágrafo anterior, poderá renovar o prazo nele fixado, cabendo-lhe, em caso de não renovar tal prazo, cassar a carteira expedida. (Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
-§ 3º ~~Dispensar-se-á a prova de saber ler, escrever e contar, se não houver escola primária dentro do raio de dois quilômetros da sede do estabelecimento em que trabalhe o menor e não ocorrer a hipótese prevista no parágrafo único do art. 427. Instalada que seja a escola, proceder-se-á como nos parágrafos anteriores.~~ ~~(Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+§ 3º ~~Dispensar-se-á a prova de saber ler, escrever e contar, se não houver escola primária dentro do raio de dois quilômetros da sede do estabelecimento em que trabalhe o menor e não ocorrer a hipótese prevista no parágrafo único do art. 427. Instalada que seja a escola, proceder-se-á como nos parágrafos anteriores. (Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -15719,11 +15769,13 @@ Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O te
 
 **Localização:** TÍTULO III — DAS NORMAS ESPECIAIS DE TUTELA DO TRABALHO › CAPÍTULO IV — DA PROTEÇÃO DO TRABALHO DO MENOR › SEÇÃO III — DA ADMISSÃO EM EMPREGO E DA CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL
 
-Art. 422 ~~- Nas localidades em que não houver serviço de emissão de carteiras poderão os empregadores admitir menores como empregados, independentemente de apresentação de carteiras, desde que exibam os documentos referidos nas alíneas "a", "d" e "f" do art. 417. Esses documentos ficarão em poder do empregador e, instalado o serviço de emissão de carteiras, serão entregues à repartição emissora, para os efeitos do § 2º do referido artigo.~~~~(Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
+Art. 422 ~~- Nas localidades em que não houver serviço de emissão de carteiras poderão os empregadores admitir menores como empregados, independentemente de apresentação de carteiras, desde que exibam os documentos referidos nas alíneas "a", "d" e "f" do art. 417. Esses documentos ficarão em poder do empregador e, instalado o serviço de emissão de carteiras, serão entregues à repartição emissora, para os efeitos do § 2º do referido artigo. (Vide Lei nº 5.686, de 1971)~~ (Revogado pela Lei nº 13.874, de 2019)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.874, de 2019.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.874, de 2019). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -16008,11 +16060,13 @@ III - entidades de prática desportiva das diversas modalidades filiadas ao Sist
 
 § 5o As entidades mencionadas neste artigo poderão firmar parcerias entre si para o desenvolvimento dos programas de aprendizagem, conforme regulamento. (Incluído pela Lei nº 13.420, de 2017)
 
-Parágrafo único. ~~Aos candidatos rejeitados pela seleção profissional deverá ser dada, tanto quanto possível, orientação profissional para ingresso em atividade mais adequada às qualidades e aptidões que tiverem demonstrado.~~ ~~(Revogado pela Medida Provisória nº 1.116, de 2022)~~
+Parágrafo único. ~~Aos candidatos rejeitados pela seleção profissional deverá ser dada, tanto quanto possível, orientação profissional para ingresso em atividade mais adequada às qualidades e aptidões que tiverem demonstrado.~~ (Revogado pela Medida Provisória nº 1.116, de 2022)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Lei nº 10.097, de 2000; inclusão — Lei nº 10.097, de 2000; inclusão — Lei nº 13.420, de 2017; redação — Lei nº 13.420, de 2017; revogação — Medida Provisória nº 1.116, de 2022.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Se os Serviços Nacionais de Aprendizagem (Sistema S) não tiverem vagas suficientes, a formação pode ser feita por escolas técnicas, entidades sem fins lucrativos registradas no conselho de direitos da criança e entidades desportivas, entre outras.
 
@@ -16624,11 +16678,13 @@ O contrato por prazo determinado não pode passar de 2 anos, e o de experiência
 
 Art. 446 ~~- Presume-se autorizado o trabalho da mulher casada e do menor de 21 anos e maior de 18. Em caso de oposição conjugal ou paterna, poderá a mulher ou o menor recorrer ao suprimento da autoridade judiciária competente.~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
 
-Parágrafo único. ~~Ao marido ou pai é facultado pleitear a recisão do contrato de trabalho, quando a sua continuação for suscetível de acarretar ameaça aos vínculos da família, perigo manifesto às condições peculiares da mulher ou prejuízo de ordem física ou moral para o menor. (Revogado pela Medida provisória nº 89, de 1989)~~ (Revogado pela Lei nº 7.855, de 24.10.1989)
+Parágrafo único. ~~Ao marido ou pai é facultado pleitear a recisão do contrato de trabalho, quando a sua continuação for suscetível de acarretar ameaça aos vínculos da família, perigo manifesto às condições peculiares da mulher ou prejuízo de ordem física ou moral para o menor.~~ (Revogado pela Medida provisória nº 89, de 1989) (Revogado pela Lei nº 7.855, de 24.10.1989)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 7.855, de 24.10.1989; revogação — Medida provisória nº 89, de 1989.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 7.855, de 24.10.1989). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -19703,11 +19759,13 @@ f) as condições em que se dissolverá associação.
 
 § 2º O processo de reconhecimento será regulado em instruções baixadas pelo ministro do Trabalho, Indústria e Comércio.
 
-c) ~~o valor do patrimônio. (Revogado pelo Decreto-lei nº 8.740, de 19.1.194~~~~6), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~
+c) ~~o valor do patrimônio.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
 
-> **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.194.
+> **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Regulava o pedido de reconhecimento sindical ao Ministro e o conteúdo dos estatutos, com cláusulas de subordinação ao interesse nacional. Hoje vale a autonomia estatutária (CF, art. 8º, I), restando o registro administrativo.
 
@@ -19743,11 +19801,13 @@ b) os serviços sociais fundados e mantidos;
 
 c) o valor do patrimônio.
 
-Parágrafo único. ~~O reconhecimento investe a associação nas prerrogativas do art. 513 e a obriga aos deveres do art. 514, cujo inadimplemento a sujeitará às sanções desta lei. (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946)~~
+Parágrafo único. ~~O reconhecimento investe a associação nas prerrogativas do art. 513 e a obriga aos deveres do art. 514, cujo inadimplemento a sujeitará às sanções desta lei.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Previa a investidura sindical da associação mais representativa a juízo do Ministro, por número de associados, serviços e patrimônio. A escolha estatal é incompatível com a autonomia sindical; a representatividade hoje é discutida no registro e na Justiça.
 
@@ -20129,11 +20189,13 @@ c) ~~os que não estiverem, desde dois anos antes, pelo menos, no exercício efe
 
 d) ~~os que tiverem má conduta, devidamente comprovada. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946,~~ com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
 
-a) ~~os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação; (Revogado pela Lei nº 1.667, de 1952)~~
+a) ~~os que professarem ideologias incompatíveis com as instituições ou os interesses da Nação;~~ (Revogado pela Lei nº 1.667, de 1952)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 8.080; inclusão — Decreto-lei nº 229, de 28.2.1967; redação — Decreto-lei nº 8.740, de 19.1.1946; revogação — Lei nº 1.667, de 1952.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Fixa condições para votar e ser votado em eleições sindicais: mais de 6 meses de associação e 2 anos de atividade, maioridade e gozo dos direitos sindicais, com voto obrigatório. Os estatutos podem dispor de modo diverso, em respeito à autonomia.
 
@@ -20405,7 +20467,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 536 ~~- Compete às federações a representação dos interesses da classe dentro da base territorial que lhe for outorgada, e às confederações a representação nacional dos interesses econômicos ou profissionais dos respectivos grupos, na conformidade do quadro a que se refere o art. 577. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~ (Revogado pelo Decreto-Lei nº 229, de 28.2.1967)
 
-Parágrafo único ~~- O ato que instituir a federação ou confederação estabelecerá as condições segundo as quais deverá ser a mesma organizada e administrada, bem como a natureza e a extensão dos seus poderes sobre os sindicatos ou as federações componentes. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946,~~ ~~com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~ (Revogado pelo Decreto-Lei nº 229, de 28.2.1967)
+Parágrafo único ~~- O ato que instituir a federação ou confederação estabelecerá as condições segundo as quais deverá ser a mesma organizada e administrada, bem como a natureza e a extensão dos seus poderes sobre os sindicatos ou as federações componentes. (Redação dada pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~ (Revogado pelo Decreto-Lei nº 229, de 28.2.1967)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 8.740, de 19.1.1946; revogação — Decreto-Lei nº 229, de 28.2.1967.
 
@@ -20706,13 +20768,15 @@ VI - na concessão de empréstimos simples concedidos pelas agências financeira
 
 VII - na aquisição de automóveis, outros veículos e instrumentos relativos ao exercício da profissão, quando financiados pelas autarquias sociedades de economia mista ou agências financeiras do Govêrno; (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
-VIII - ~~para admissão nos serviços portuários e anexos, na forma da legislação específica;~~~~(Incluído pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
+VIII - ~~para admissão nos serviços portuários e anexos, na forma da legislação específica; (Incluído pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 8.630, de 25.2.1993)
 
 IX - na concessão de bolsas de estudo para si ou para seus filhos, obedecida a legislação que regule a matéria. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; inclusão — Decreto-lei nº 229, de 28.2.1967; revogação — Lei nº 8.630, de 25.2.1993.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 A associação sindical é livre, mas o sindicalizado tem preferência, em igualdade de condições, em admissões em empresas públicas, concursos habitacionais e outros benefícios. Preferências assim são discutidas à luz da liberdade sindical negativa (CF, art. 8º, V).
 
@@ -21134,13 +21198,15 @@ b) ~~que se recusar ao cumprimento de ato do Presidente da República, no uso da
 
 b) que se recusar ao cumprimento de ato do Presidente da República, no uso da faculdade conferida pelo art. 536; (Vide Decreto nº 229, de 1967)
 
-c) ~~que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945) (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~
+c) ~~que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945)~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
 
 c) que criar obstáculos à execução da política econômica adotada pelo Governo. (Redação dada pelo Decreto-lei nº 8.080, 11.10.1945)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946; redação — Decreto-lei nº 8.080.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Previa a cassação da carta sindical por descumprimento de condições legais ou por obstáculos à política econômica do governo. Não foi recepcionado pela Constituição, que garante autonomia sindical.
 
@@ -21176,11 +21242,13 @@ Art. 556. A cassação da carta de reconhecimento da entidade sindical não impo
 
 Parágrafo único - No caso de dissolução, por se achar a associação incursa nas leis que definem crimes contra a personalidade internacional, a estrutura e a segurança do Estado e a ordem política e social, os seus bens, pagas as dívidas decorrentes das suas responsabilidades, serão incorporados ao patrimônio da União e aplicados em obras de assistência social.
 
-§ 1º ~~Quando se trata de associações de grau superior, as penalidades serão impostas pelo ministro de Estado, salvo se a pena for da cassação da carta de reconhecimento de confederação, caso em que a pena será imposta pelo Presidente da República. (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946~~
+§ 1º ~~Quando se trata de associações de grau superior, as penalidades serão impostas pelo ministro de Estado, salvo se a pena for da cassação da carta de reconhecimento de confederação, caso em que a pena será imposta pelo Presidente da República.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946) com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 A cassação da carta não cancelava o registro nem dissolvia a entidade, cuja dissolução seguia a lei civil. Hoje a dissolução compulsória de associações exige decisão judicial transitada em julgado (CF, art. 5º, XIX).
 
@@ -21252,7 +21320,7 @@ Definia as autoridades competentes para impor as penalidades do art. 553, regra 
 
 Art. 558 - São obrigadas ao registro todas as associações profissionais constituídas por atividades ou profissões idênticas, similares ou conexas, de acordo com o art. 511 e na conformidade do Quadro de Atividades e Profissões a que alude o Capítulo II deste Título. As associações profissionais registradas nos termos deste artigo poderão representar, perante as autoridades administrativas e judiciárias, os interesses individuais dos associados relativos à sua atividade ou profissão, sendo-lhes também extensivas as prerrogativas contidas na alínea "d" e no parágrafo único do art. 513.
 
-§ 1º ~~- O registro a que se refere o presente artigo competirá às Delegacias Regionais do Ministério do Trabalho e Previdência Social ou às repartições autorizadas em virtude da lei. (Redação dada pelo Decreto-lei nº 925, de 10.10.1969) (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~
+§ 1º ~~- O registro a que se refere o presente artigo competirá às Delegacias Regionais do Ministério do Trabalho e Previdência Social ou às repartições autorizadas em virtude da lei. (Redação dada pelo Decreto-lei nº 925, de 10.10.1969)~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946), com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)
 
 § 1º O registro a que se refere o presente artigo competirá às Delegacias Regionais do Ministério do Trabalho e Previdência Social ou às repartições autorizadas em virtude da lei. (Redação dada pelo Decreto-lei nº 925, de 10.10.1969)
 
@@ -21263,6 +21331,8 @@ Art. 558 - São obrigadas ao registro todas as associações profissionais const
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 925, de 10.10.1969; revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Determinava o registro das associações profissionais, que poderiam representar os interesses individuais dos associados. O registro sindical persiste no Ministério do Trabalho para controle da unicidade (Súmula 677 do STF).
 
@@ -22710,13 +22780,15 @@ b) ~~de um representante dos profissionais liberais, de dois dos empregadores e 
 
 c) ~~de três pessoas de conhecimentos especializados respectivamente em assuntos de Direito e de Medicina-Social, designadas livremente pelo ministro do Trabalho, Indústria e Comércio.~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
 
-§ 1º ~~O presidente da Comissão do Imposto Sindical será substituído, em suas faltas e impedimentos, pelo membro por ele designado previamente. (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946,com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
+§ 1º ~~O presidente da Comissão do Imposto Sindical será substituído, em suas faltas e impedimentos, pelo membro por ele designado previamente.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946,com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946) (Revogado pela Lei nº 4.589, de 11.12.1964)
 
-§ 2º ~~Os membros da Comissão do Imposto Sindical terão exercício por dois anos podendo ser reconduzidos. (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946,~~ ~~com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946)~~ (Revogado pela Lei nº 4.589, de 11.12.1964)
+§ 2º ~~Os membros da Comissão do Imposto Sindical terão exercício por dois anos podendo ser reconduzidos.~~ (Revogado pelo Decreto-lei nº 8.740, de 19.1.1946, com vigência suspensa pelo Decreto-lei nº 8.987-A, de 1946) (Revogado pela Lei nº 4.589, de 11.12.1964)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 4.589, de 11.12.1964; revogação — Decreto-lei nº 8.740, de 19.1.1946.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 4.589, de 11.12.1964). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -22911,11 +22983,13 @@ O recolhimento espontâneo da contribuição em atraso tem multa de 10% nos prim
 
 **Localização:** TÍTULO V — DA ORGANIZAÇÃO SINDICAL › CAPÍTULO III — DA CONTRIBUIÇÃO SINDICAL › SEÇÃO V — DISPOSIÇÕES GERAIS
 
-Art. 601 ~~- No ato da admissão de qualquer empregado, dele exigirá o empregador a apresentação da prova de quitação do imposto sindical.~~~~(Vide Lei nº 11.648, de 2008)~~ (Revogado pela Lei nº 13.467, de 2017)
+Art. 601 ~~- No ato da admissão de qualquer empregado, dele exigirá o empregador a apresentação da prova de quitação do imposto sindical. (Vide Lei nº 11.648, de 2008)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.467, de 2017.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 13.467, de 2017). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -23005,7 +23079,7 @@ Os empregadores devem prestar esclarecimentos à fiscalização e exibir livros 
 
 **Localização:** TÍTULO V — DA ORGANIZAÇÃO SINDICAL › CAPÍTULO III — DA CONTRIBUIÇÃO SINDICAL › SEÇÃO V — DISPOSIÇÕES GERAIS
 
-Art. 604 ~~- Os agentes ou trabalhadores autônomos ou profissionais liberais são obrigados a prestar aos encarregados da fiscalização os esclarecimentos que lhes forem solicitados, inclusive exibição de quitação do imposto sindical.~~ ~~(Vide Lei nº 11.648, de 2008)~~ (Revogado pela Lei nº 13.467, de 2017)
+Art. 604 ~~- Os agentes ou trabalhadores autônomos ou profissionais liberais são obrigados a prestar aos encarregados da fiscalização os esclarecimentos que lhes forem solicitados, inclusive exibição de quitação do imposto sindical. (Vide Lei nº 11.648, de 2008)~~ (Revogado pela Lei nº 13.467, de 2017)
 
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 13.467, de 2017.
 
@@ -27345,21 +27419,23 @@ O Vice-Presidente do TST substitui o Presidente em faltas e impedimentos; na aus
 
 **Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO V — DO TRIBUNAL SUPERIOR DO TRABALHO › SEÇÃO VII — DAS ATRIBUIÇÕES DO VICE-PRESIDENTE
 
-Art. 709 ~~- Compete ao Corregedor, eleito dentre os Ministros togados do Tribunal Superior do Trabalho:~~~~(Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
+Art. 709 ~~- Compete ao Corregedor, eleito dentre os Ministros togados do Tribunal Superior do Trabalho: (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
 
-I - ~~Exercer funções de inspeção e correição permanente com relação aos Tribunais Regionais e seus presidentes;~~~~(Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
+I - ~~Exercer funções de inspeção e correição permanente com relação aos Tribunais Regionais e seus presidentes; (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
 
 II - ~~Decidir reclamações contra os atos atentatórios da boa ordem processual praticados pelos Tribunais Regionais e seus presidentes, quando inexistir recurso específico; (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
 
 III - ~~Julgar os recursos das decisões dos presidentes dos Tribunais Regionais proferidas em execução de sentença. (Redação dada pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 5.442, de 24.5.1968)
 
-§ 1º ~~- Das decisões proferidas pelo Corregedor, nos casos do artigo, caberá o agravo regimental, para o Tribunal Pleno.~~~~(Incluído pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
+§ 1º ~~- Das decisões proferidas pelo Corregedor, nos casos do artigo, caberá o agravo regimental, para o Tribunal Pleno. (Incluído pelo Decreto-lei nº 229, de 28.2.1967)~~ (Revogado pela Lei nº 14.824, de 2024)
 
-§ 2º ~~- O Corregedor não integrará as Turmas do Tribunal, mas participará, com voto, das sessões do Tribunal Pleno, quando não se encontrar em correição ou em férias, embora não relate nem revise processos, cabendo-lhe, outrossim, votar em incidente de inconstitucionalidade, nos processos administrativos e nos feitos em que estiver vinculado por visto anterior à sua posse na Corregedoria.~~~~(Redação dada pela Lei nº 7.121, de 8.9.1983)~~ (Revogado pela Lei nº 14.824, de 2024)
+§ 2º ~~- O Corregedor não integrará as Turmas do Tribunal, mas participará, com voto, das sessões do Tribunal Pleno, quando não se encontrar em correição ou em férias, embora não relate nem revise processos, cabendo-lhe, outrossim, votar em incidente de inconstitucionalidade, nos processos administrativos e nos feitos em que estiver vinculado por visto anterior à sua posse na Corregedoria. (Redação dada pela Lei nº 7.121, de 8.9.1983)~~ (Revogado pela Lei nº 14.824, de 2024)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 229, de 28.2.1967; revogação — Lei nº 14.824, de 2024; revogação — Lei nº 5.442, de 24.5.1968; inclusão — Decreto-lei nº 229, de 28.2.1967; redação — Lei nº 7.121, de 8.9.1983.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 14.824, de 2024). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -27844,7 +27920,7 @@ Previa penalidades a empregadores que paralisassem atividades sem autorização 
 
 **Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
-Art. 723 ~~- Os empregados que, coletivamente e sem prévia autorização do tribunal competente, abandonarem o serviço, ou desobedecerem a qualquer decisão proferida em dissídio, incorrerão nas seguintes penalidades:~~(Revogado pela Lei nº 9.842, de 7.10.1999)
+Art. 723 ~~- Os empregados que, coletivamente e sem prévia autorização do tribunal competente, abandonarem o serviço, ou desobedecerem a qualquer decisão proferida em dissídio, incorrerão nas seguintes penalidades:~~ (Revogado pela Lei nº 9.842, de 7.10.1999)
 
 a) ~~suspensão do emprego até seis meses, ou dispensa do mesmo:~~ (Revogado pela Lei nº 9.842, de 7.10.1999)
 
@@ -27855,6 +27931,8 @@ c) ~~suspensão, pelo prazo de dois anos a cinco anos, do direito de serem eleit
 > **Alterações legislativas registradas no texto oficial:** revogação — Lei nº 9.842, de 7.10.1999.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 Dispositivo integralmente revogado (Revogado pela Lei nº 9.842, de 7.10.1999). O texto aparece tachado apenas para registro histórico, como no Planalto, e não tem mais eficácia normativa.
 
@@ -27914,7 +27992,7 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 **Localização:** TÍTULO VIII — DA JUSTIÇA DO TRABALHO › CAPÍTULO VII — DAS PENALIDADES › SEÇÃO I — DO "LOCK-OUT" E DA GREVE
 
-Art. 725 ~~-~~ ~~Aquele que, empregado ou empregador, ou mesmo estranho às categorias em conflito, instigar a prática de infrações previstas neste Capítulo ou houver feito cabeça de coligação de empregadores ou de empregados incorrerá na pena de prisão prevista na legislação penal, sem prejuízo das demais sanções cominadas.~~ (Revogado pela Lei nº 9.842, de 7.10.1999)
+Art. 725 ~~- Aquele que, empregado ou empregador, ou mesmo estranho às categorias em conflito, instigar a prática de infrações previstas neste Capítulo ou houver feito cabeça de coligação de empregadores ou de empregados incorrerá na pena de prisão prevista na legislação penal, sem prejuízo das demais sanções cominadas.~~ (Revogado pela Lei nº 9.842, de 7.10.1999)
 
 § 1º ~~- Tratando-se de serviços públicos, ou havendo violência contra pessoa ou coisa, as penas previstas neste artigo serão aplicadas em dobro.~~ (Revogado pela Lei nº 9.842, de 7.10.1999)
 
@@ -33012,13 +33090,15 @@ Sem remissões expressas a outros dispositivos ou normas no texto do artigo.
 
 Art. 857 - A representação para instaurar a instância em dissídio coletivo constitui prerrogativa das associações sindicais, excluídas as hipóteses aludidas no art. 856, quando ocorrer suspensão do trabalho. (Redação dada pelo Decreto-lei nº 7.321, de 14.2.1945)
 
-Parágrafo único. ~~Quando não houver sindicato que represente a categoria profissional, poderá a representação ser feita por um terço dos empregados do estabelecimento ou estabelecimentos envolvidos no dissídio. (Revogado pelo Decreto-lei nº 7.321, de 14.2.1945)~~
+Parágrafo único. ~~Quando não houver sindicato que represente a categoria profissional, poderá a representação ser feita por um terço dos empregados do estabelecimento ou estabelecimentos envolvidos no dissídio.~~ (Revogado pelo Decreto-lei nº 7.321, de 14.2.1945)
 
 Parágrafo único. Quando não houver sindicato representativo da categoria econômica ou profissional, poderá a representação ser instaurada pelas federações correspondentes e, na falta destas, pelas confederações respectivas, no âmbito de sua representação. (Redação dada pela Lei nº 2.693, de 23.12.1955)
 
 > **Alterações legislativas registradas no texto oficial:** redação — Decreto-lei nº 7.321, de 14.2.1945; revogação — Decreto-lei nº 7.321, de 14.2.1945; redação — Lei nº 2.693, de 23.12.1955.
 
 #### Interpretação
+
+> ⚠️ **Texto oficial alterado no Planalto (detectado em 10/11/2026).** A análise abaixo pode se referir à redação anterior e está pendente de revisão.
 
 A legitimidade para o dissídio coletivo é das entidades sindicais; sem sindicato da categoria, cabe à federação e, na falta, à confederação. Desde a EC nº 45/2004, o dissídio de natureza econômica exige comum acordo das partes (CF, art. 114, § 2º).
 
