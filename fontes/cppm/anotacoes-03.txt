@@ -1,0 +1,374 @@
+@CPPM 125
+I: A questão prejudicial é resolvida pelo auditor antes de instalado o Conselho de Justiça, pelo Conselho depois disso e, no STM, pelo relator ou pelo Tribunal se já iniciado o julgamento.
+P: Competência para a prejudicial
+K: questão prejudicial; Conselho de Justiça; auditor
+
+@CPPM 126
+I: O juiz deve provocar o juízo cível para propor ou impulsionar a ação que resolva a prejudicial.
+P: Provocação do juízo cível
+K: questão prejudicial; juízo cível
+
+@CPPM 127
+I: As providências sobre prejudiciais podem ser tomadas de ofício.
+P: Atuação de ofício
+K: questão prejudicial
+
+@CPPM 128
+I: São admitidas as exceções de suspeição ou impedimento, incompetência, litispendência e coisa julgada.
+P: Rol das exceções
+K: exceções; suspeição; litispendência; coisa julgada
+
+@CPPM 129
+I: A arguição de suspeição ou impedimento precede qualquer outra, salvo motivo superveniente.
+P: Precedência da suspeição
+K: suspeição; exceção
+
+@CPPM 130
+I: O juiz que se declara suspeito ou impedido deve fundamentar; na suspeição íntima, comunica os motivos ao corregedor, podendo fazê-lo em sigilo.
+P: Fundamentação || Suspeição íntima
+K: suspeição; foro íntimo
+
+@CPPM 131
+I: A parte recusa o juiz por petição própria ou por procurador com poderes especiais, com razões, documentos e até duas testemunhas.
+P: Forma da recusa do juiz
+K: exceção de suspeição; procuração especial
+
+@CPPM 132
+I: Reconhecendo a suspeição, o juiz suspende o processo e remete os autos ao substituto.
+P: Reconhecimento da suspeição
+K: suspeição; substituto
+
+@CPPM 133
+I: Se não aceitar a suspeição, o juiz responde em 3 dias em autos apartados, que sobem ao STM em 24 horas para decisão; o mesmo vale para juiz do Conselho de Justiça.
+P: Suspeição não aceita || Julgamento pelo STM
+K: exceção de suspeição; STM
+
+@CPPM 134
+I: Procedente a suspeição ou o impedimento, os atos do processo principal são nulos.
+P: Nulidade dos atos do juiz suspeito
+K: suspeição; nulidade
+
+@CPPM 135
+I: No STM, o ministro suspeito declara em sessão ou nos autos se relator ou revisor; a arguição contra ministro ou procurador-geral segue o regimento.
+P: Suspeição de ministro do STM
+K: STM; suspeição
+
+@CPPM 136
+I: O procurador-geral suspeito ou impedido delega a função ao substituto legal.
+P: Suspeição do procurador-geral
+K: procurador-geral; suspeição
+
+@CPPM 137
+I: Procuradores, peritos, intérpretes e auxiliares podem declarar-se suspeitos ou impedidos, os primeiros antes de atuar e os peritos logo que nomeados; o juiz decide de plano.
+P: Suspeição declarada de auxiliares e MP
+K: suspeição; peritos; procuradores
+
+@CPPM 138
+I: A suspeição arguida contra procurador é decidida pelo auditor, sem recurso, após ouvi-lo, com prova em 3 dias.
+P: Suspeição do procurador
+K: Ministério Público; suspeição
+
+@CPPM 139
+I: As partes podem arguir suspeição de peritos e intérpretes e impugnar peritos sem capacidade técnica.
+P: Impugnação de peritos
+K: peritos; impugnação
+
+@CPPM 140
+I: A suspeição ou impugnação de peritos, intérpretes e servidores é decidida pelo auditor de plano e sem recurso.
+P: Decisão irrecorrível
+K: suspeição; servidores
+
+@CPPM 141
+I: A suspeição ou o impedimento evidente nos autos pode ser declarado de ofício.
+P: Declaração de ofício
+K: suspeição; impedimento
+
+@CPPM 142
+I: Não se pode opor suspeição ao encarregado do IPM, mas ele deve declarar-se suspeito quando houver motivo legal.
+P: Suspeição do encarregado do IPM
+K: IPM; suspeição
+
+@CPPM 143
+I: A exceção de incompetência é oposta verbalmente ou por escrito logo após a qualificação do acusado.
+P: Momento da exceção de incompetência
+K: exceção de incompetência
+
+@CPPM 144
+I: Alegada a incompetência, a parte contrária se manifesta em 48 horas.
+P: Contraditório
+K: exceção de incompetência
+
+@CPPM 145
+I: Aceita a exceção, os autos vão ao juízo competente; rejeitada, cabe recurso ao STM em autos apartados, que, se provido, anula os atos do juiz incompetente.
+P: Efeitos da decisão || Recurso ao STM
+K: incompetência; nulidade; recurso
+
+@CPPM 146
+I: O MP pode alegar incompetência antes da denúncia; rejeitada a alegação, pode recorrer ao STM nos próprios autos.
+P: Incompetência alegada pelo MP
+K: incompetência; Ministério Público
+
+@CPPM 147
+I: O juiz deve declarar de ofício sua incompetência em qualquer fase e remeter os autos ao juízo competente.
+P: Incompetência reconhecida de ofício
+K: incompetência; remessa
+
+@CPPM 148
+I: Cada fato só pode ser objeto de um processo; havendo litispendência, os novos autos são juntados aos anteriores ou remetidos à Auditoria onde corre o primeiro.
+P: Litispendência
+K: litispendência; bis in idem
+
+@CPPM 149
+I: Qualquer parte pode arguir por escrito a litispendência.
+P: Arguição da litispendência
+K: litispendência
+
+@CPPM 150
+I: A arguição de litispendência é instruída com certidão do outro processo.
+P: Prova da litispendência
+K: litispendência; certidão
+
+@CPPM 151
+I: O juiz pode dar prazo para a prova e decidir se suspende ou não o processo.
+P: Prazo para prova
+K: litispendência
+
+@CPPM 152
+I: Ouvida a parte contrária, o juiz decide a litispendência de plano, sem recurso.
+P: Decisão irrecorrível
+K: litispendência
+
+@CPPM 153
+I: Se o fato principal já foi julgado definitivamente, o juiz arquiva a nova denúncia, fundamentando (coisa julgada).
+P: Coisa julgada
+K: coisa julgada; ne bis in idem
+
+@CPPM 154
+I: Qualquer parte pode arguir a coisa julgada com certidão; se arguida pelo acusado e reconhecida, há recurso de ofício ao STM.
+P: Arguição da coisa julgada || Recurso de ofício
+K: coisa julgada; recurso de ofício
+
+@CPPM 155
+I: A coisa julgada só vale entre as partes do processo.
+P: Limites subjetivos da coisa julgada
+K: coisa julgada; limites subjetivos
+
+@CPPM 156
+I: Havendo dúvida sobre a imputabilidade por doença ou deficiência mental, o acusado é submetido a perícia, ordenada de ofício ou a pedido do MP, defensor, curador ou parentes, inclusive no inquérito.
+P: Incidente de insanidade mental || Legitimados
+K: insanidade mental; perícia; imputabilidade
+
+@CPPM 157
+I: Para a perícia, o acusado preso é internado em manicômio judiciário (hoje hospital de custódia) ou, solto, em estabelecimento adequado; o laudo vem em 45 dias, prorrogáveis.
+P: Internação para perícia || Prazo de 45 dias
+K: insanidade mental; laudo; internação
+
+@CPPM 158
+I: A perícia não impede diligências urgentes, mas suspende a produção de provas que exijam a presença do acusado.
+P: Efeitos sobre o processo
+K: insanidade mental; suspensão
+
+@CPPM 159
+I: Os peritos respondem a quesitos obrigatórios sobre doença ou desenvolvimento mental, seu estado no momento do fato e sua capacidade de entendimento e autodeterminação.
+P: Quesitos obrigatórios
+K: insanidade mental; quesitos
+
+@CPPM 160
+I: Concluindo os peritos pela inimputabilidade e concordando o juiz, ele nomeia curador e declara a inimputabilidade com medida de segurança; na semi-imputabilidade, o processo prossegue.
+P: Inimputabilidade e medida de segurança || Semi-imputabilidade
+K: inimputabilidade; medida de segurança; curador
+
+@CPPM 161
+I: Se a doença mental surgir depois do crime, o inquérito ou processo fica suspenso até o restabelecimento, podendo o acusado ser internado.
+P: Doença mental superveniente || Suspensão do processo
+K: doença mental superveniente; suspensão
+
+@CPPM 162
+I: O incidente corre em autos apartados, apensados após o laudo; o exame pedido para um acusado não impede o julgamento dos demais.
+P: Autos apartados || Julgamento dos demais acusados
+K: insanidade mental; autos apartados
+
+@CPPM 163
+I: Arguida a falsidade de documento relevante, o juiz autua em apartado, ouve a parte contrária em 48 horas, abre prova em 3 dias, pode ordenar diligências e decide.
+P: Incidente de falsidade || Procedimento
+K: falsidade documental; incidente
+
+@CPPM 164
+I: A arguição oral de falsidade é tomada por termo e autuada como incidente.
+P: Arguição oral
+K: falsidade; termo
+
+@CPPM 165
+I: Arguição de falsidade por procurador exige poderes especiais.
+P: Poderes especiais
+K: falsidade; procuração
+
+@CPPM 166
+I: A falsidade pode ser verificada de ofício.
+P: Verificação de ofício
+K: falsidade
+
+@CPPM 167
+I: Se o documento vier de órgão de outra jurisdição, a verificação é feita lá, salvo se a falsidade for evidente ou apurável por perícia no juízo criminal.
+P: Documento de outro juízo
+K: falsidade; competência
+
+@CPPM 168
+I: O juiz pode suspender o processo até apurar a falsidade se ela for imprescindível ao julgamento.
+P: Suspensão do processo
+K: falsidade; suspensão
+
+@CPPM 169
+I: A decisão do incidente de falsidade não faz coisa julgada contra processo penal posterior.
+P: Limite da decisão
+K: falsidade; coisa julgada
+
+@CPPM 170
+I: A busca pode ser domiciliar ou pessoal.
+P: Espécies de busca
+K: busca domiciliar; busca pessoal
+
+@CPPM 171
+I: Busca domiciliar é a procura material dentro da casa.
+P: Conceito de busca domiciliar
+K: busca domiciliar
+
+@CPPM 172
+I: A busca domiciliar exige fundadas razões e visa prender criminosos, apreender produtos e instrumentos do crime, armas, provas e correspondência relevante.
+P: Finalidades da busca domiciliar
+K: busca domiciliar; fundadas razões
+
+@CPPM 173
+I: "Casa" abrange compartimento habitado, aposento de habitação coletiva e local não aberto ao público onde se exerce profissão.
+P: Conceito de casa
+K: casa; inviolabilidade do domicílio
+
+@CPPM 174
+I: Não são "casa" hotéis e hospedarias abertos, bares e casas de jogo, e a habitação usada para praticar crimes.
+P: Locais não abrangidos
+K: casa; inviolabilidade
+
+@CPPM 175
+I: A busca domiciliar é feita de dia, salvo para socorrer vítimas, ou à noite com consentimento do morador (CF, art. 5º, XI).
+P: Busca durante o dia || Exceções
+K: busca domiciliar; horário; CF art. 5º XI
+
+@CPPM 176
+I: O texto permite que a busca seja ordenada pelo juiz ou determinada pela autoridade policial militar. Pela Constituição (art. 5º, XI), fora do flagrante, do socorro e do consentimento, a entrada em domicílio exige ordem judicial.
+P: Quem ordena a busca || Exigência constitucional de ordem judicial
+K: busca domiciliar; mandado judicial; reserva de jurisdição
+
+@CPPM 177
+I: A busca domiciliar exige mandado, salvo quando feita pessoalmente pelo juiz ou pelo encarregado do IPM (este último sujeito à reserva de jurisdição constitucional).
+P: Exigência de mandado
+K: mandado de busca
+
+@CPPM 178
+I: O mandado indica com precisão a casa e o morador, ou a pessoa a revistar, o motivo e os fins da diligência, e é assinado pela autoridade.
+P: Requisitos do mandado
+K: mandado de busca; requisitos
+
+@CPPM 179
+I: O executor lê o mandado ao morador, pede a entrada, podendo forçá-la se recusada, e pede a apresentação da pessoa ou coisa; ausente o morador, intima vizinho para assistir.
+P: Execução da busca
+K: busca domiciliar; procedimento
+
+@CPPM 180
+I: A busca pessoal é feita nas vestes, malas e objetos que a pessoa traz e, se necessário, no corpo.
+P: Conceito de busca pessoal
+K: busca pessoal; revista
+
+@CPPM 181
+I: A revista exige fundada suspeita de que a pessoa oculte instrumento, produto do crime ou provas.
+P: Fundada suspeita
+K: revista pessoal; fundada suspeita
+
+@CPPM 182
+I: A revista dispensa mandado na prisão, durante busca domiciliar, havendo fundada suspeita ou na presença do juiz ou do encarregado do IPM.
+P: Revista sem mandado
+K: revista pessoal; dispensa de mandado
+
+@CPPM 183
+I: A busca em mulher é feita por outra mulher, se não atrasar ou prejudicar a diligência.
+P: Busca em mulher
+K: busca pessoal; mulher
+
+@CPPM 184
+I: A busca por mandado é executada pelo oficial de justiça no processo e por oficial designado no IPM, respeitada a hierarquia; pode-se requisitar a polícia civil.
+P: Executores da busca
+K: busca; oficial de justiça
+
+@CPPM 185
+I: O executor apreende as pessoas e coisas procuradas e armas ou objetos militares em posse indevida; a correspondência relevante pode ser apreendida.
+P: Apreensão || Bens militares em posse indevida
+K: apreensão; correspondência
+
+@CPPM 186
+I: Em perseguição contínua de pessoa ou coisa, o executor pode entrar em território de outra jurisdição.
+P: Perseguição em outra jurisdição
+K: apreensão; jurisdição
+
+@CPPM 187
+I: Quem entra em outra jurisdição deve apresentar-se à autoridade local, antes ou, se urgente, depois da diligência.
+P: Apresentação à autoridade local
+K: apreensão; cooperação
+
+@CPPM 188
+I: Encontrada a pessoa ou coisa, é apreendida e posta sob custódia.
+P: Custódia
+K: apreensão; custódia
+
+@CPPM 189
+I: Ao fim lavra-se auto circunstanciado de busca e apreensão, com duas testemunhas, lugar, dia, hora, pessoas e incidentes.
+P: Auto de busca e apreensão
+K: auto de apreensão; testemunhas
+
+@CPPM 190
+I: Coisas apreendidas não são restituídas enquanto interessarem ao processo; instrumentos ilícitos e bens militares em posse indevida nunca são restituídos, e o produto do crime só ao lesado ou terceiro de boa-fé.
+P: Restrições à restituição
+K: restituição de coisas; confisco
+
+@CPPM 191
+I: A restituição pode ser ordenada pela autoridade ou pelo juiz se a coisa for restituível, não interessar mais e não houver dúvida sobre o direito.
+P: Requisitos da restituição
+K: restituição de coisas
+
+@CPPM 192
+I: Havendo dúvida sobre o direito, só o juiz decide, em autos apartados com prova em 5 dias e recurso ao STM; em questão complexa, remete ao juízo cível.
+P: Direito duvidoso || Remessa ao cível
+K: restituição; juízo cível
+
+@CPPM 193
+I: Coisa apreendida com terceiro de boa-fé pode ser restituída a ele; havendo disputa com acusado ou lesado, abre-se incidente com prova.
+P: Coisa em poder de terceiro
+K: restituição; terceiro de boa-fé
+
+@CPPM 194
+I: O MP é sempre ouvido na restituição, e cabe recurso com efeito suspensivo ao STM do despacho que a ordena.
+P: Oitiva do MP || Recurso suspensivo
+K: restituição; Ministério Público
+
+@CPPM 195
+I: Coisa facilmente deteriorável é avaliada e leiloada, depositando-se o valor.
+P: Leilão de bens perecíveis
+K: leilão; bens deterioráveis
+
+@CPPM 196
+I: Noventa dias após a condenação definitiva, os instrumentos ilícitos são inutilizados ou entregues às Forças Armadas, e os demais bens vão a leilão.
+P: Destino dos bens após a condenação
+K: bens apreendidos; leilão
+
+@CPPM 197
+I: Na absolvição definitiva, mantém-se o confisco decretado; os demais bens são devolvidos a quem os tinha.
+P: Destino dos bens após a absolvição
+K: absolvição; restituição
+
+@CPPM 198
+I: Objetos não reclamados em 90 dias do trânsito em julgado são leiloados, e o saldo fica à disposição do juízo de ausentes.
+P: Bens não reclamados
+K: leilão; bens não reclamados
+
+@CPPM 199
+I: Sujeitam-se a sequestro os bens adquiridos com o proveito de crime que lesou patrimônio sob administração militar, mesmo transferidos a terceiros, e os de responsáveis por contrabando em aeronave ou navio militar.
+P: Sequestro de bens || Contrabando em meio militar
+K: sequestro; medidas assecuratórias
