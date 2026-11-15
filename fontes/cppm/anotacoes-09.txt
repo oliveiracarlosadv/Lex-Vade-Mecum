@@ -1,0 +1,454 @@
+@CPPM 628
+I: O liberado paga custas e taxas penitenciárias, salvo insolvência.
+P: Custas
+K: livramento condicional; custas
+
+@CPPM 629
+I: Concedido o livramento, expede-se carta de guia em duas vias, para o diretor da prisão e o Conselho Penitenciário.
+P: Carta de guia
+K: livramento; carta de guia
+
+@CPPM 630
+I: A vigilância proíbe locais vedados, permite visitas e buscas e detém o liberado que viola condições, comunicando ao juiz, que mantém ou não a detenção; o Conselho Penitenciário pode pedir a revogação.
+P: Finalidade da vigilância || Detenção do transgressor
+K: livramento; vigilância; revogação
+
+@CPPM 631
+I: Condenação definitiva a pena privativa de liberdade por crime ou contravenção revoga o livramento.
+P: Revogação obrigatória
+K: livramento; revogação obrigatória
+
+@CPPM 632
+I: O livramento pode ser revogado por descumprimento de obrigações, condenação por contravenção a pena não privativa ou punição disciplinar grave do militar.
+P: Revogação facultativa
+K: livramento; revogação facultativa
+
+@CPPM 633
+I: Revogado por crime anterior ao livramento, computa-se o tempo solto e podem-se somar as penas para novo livramento.
+P: Crime anterior
+K: livramento; soma de penas
+
+@CPPM 634
+I: Revogado por outro motivo, o tempo solto não conta e não cabe novo livramento na mesma pena.
+P: Perda do tempo solto
+K: livramento; revogação
+
+@CPPM 635
+I: A revogação é decretada a pedido do MP, do Conselho, patronato, órgão de vigilância ou de ofício, podendo ouvir o liberado e produzir provas em 5 dias.
+P: Legitimados || Contraditório
+K: livramento; revogação; contraditório
+
+@CPPM 636
+I: As condições do livramento podem ser modificadas a pedido, lendo-se a decisão ao liberado.
+P: Modificação das condições
+K: livramento; condições
+
+@CPPM 637
+I: Se o liberado cometer nova infração, pode ser preso e o livramento fica suspenso até a decisão do novo processo.
+P: Suspensão do livramento
+K: livramento; nova infração
+
+@CPPM 638
+I: Expirado o prazo sem revogação, ou absolvido no novo processo, declara-se extinta a pena.
+P: Extinção da pena
+K: livramento; extinção da pena
+
+@CPPM 639
+I: A cerimônia do livramento é solene: lê-se a sentença, o diretor destaca as condições e o preso declara aceitá-las, lavrando-se termo.
+P: Cerimônia
+K: livramento; termo
+
+@CPPM 640
+I: Ao sair, o liberado recebe o pecúlio, seus bens e uma caderneta para exibir às autoridades.
+P: Caderneta
+K: livramento; caderneta
+
+@CPPM 641
+I: A caderneta contém identificação, o texto do capítulo e as condições; na falta, entrega-se salvo-conduto.
+P: Conteúdo da caderneta
+K: caderneta; salvo-conduto
+
+@CPPM 642
+I: Não há livramento para crime cometido em tempo de guerra; em tempo de paz, para os crimes do art. 97 do CPM, exige-se cumprir dois terços da pena.
+P: Vedação em tempo de guerra || Dois terços
+K: livramento; tempo de guerra
+
+@CPPM 643
+I: Indulto e comutação são concedidos pelo Presidente da República e podem ser requeridos pelo condenado.
+P: Competência || Requerimento
+K: indulto; comutação; CF art. 84 XII
+
+@CPPM 644
+I: Se o condenado cumpre pena em penitenciária civil, a petição vai ao Ministro da Justiça via Conselho Penitenciário.
+P: Encaminhamento civil
+K: indulto; Conselho Penitenciário
+
+@CPPM 645
+I: O Conselho Penitenciário relata o fato, as provas, os antecedentes e o comportamento, e opina sobre o pedido.
+P: Parecer
+K: indulto; parecer
+
+@CPPM 646
+I: O condenado militar em presídio militar encaminha o pedido ao Ministério respectivo via comandante, que faz o relatório.
+P: Encaminhamento militar
+K: indulto; condenado militar
+
+@CPPM 647
+I: Mesmo concedendo de ofício, o Presidente ouve antes o Conselho Penitenciário ou a autoridade militar.
+P: Indulto de ofício
+K: indulto; oitiva prévia
+
+@CPPM 648
+I: Concedido o indulto ou a comutação, o juiz ajusta a execução ou declara extinta a punibilidade.
+P: Efeitos na execução
+K: indulto; extinção da punibilidade
+
+@CPPM 649
+I: O texto permite ao condenado recusar o indulto ou a comutação.
+P: Recusa
+K: indulto; recusa
+
+@CPPM 650
+I: Concedida a anistia após o trânsito em julgado, o auditor declara extinta a punibilidade.
+P: Anistia
+K: anistia; extinção da punibilidade
+
+@CPPM 651
+I: A reabilitação é pedida ao auditor 5 anos após a extinção da pena ou o fim do sursis ou livramento, com domicílio no País; o prazo dobra para criminoso habitual.
+P: Prazo || Criminoso habitual
+K: reabilitação; prazo
+
+@CPPM 652
+I: O pedido traz certidões negativas, prova de residência e bom comportamento e de reparação do dano ou de sua impossibilidade.
+P: Instrução do pedido
+K: reabilitação; reparação do dano
+
+@CPPM 653
+I: O auditor faz diligências sigilosas e ouve o MP antes de decidir.
+P: Diligências
+K: reabilitação; sigilo
+
+@CPPM 654
+I: Há recurso de ofício da decisão que concede reabilitação.
+P: Recurso de ofício
+K: reabilitação; reexame necessário
+
+@CPPM 655
+I: A reabilitação definitiva é comunicada ao instituto de identificação.
+P: Comunicação
+K: reabilitação; identificação
+
+@CPPM 656
+I: Condenações anteriores do reabilitado não constam de antecedentes ou certidões, salvo requisição de juiz criminal.
+P: Sigilo das condenações
+K: reabilitação; antecedentes; sigilo
+
+@CPPM 657
+I: Indeferida, a reabilitação só pode ser renovada após 2 anos, salvo falta de documentos.
+P: Renovação
+K: reabilitação; prazo de 2 anos
+
+@CPPM 658
+I: A reabilitação é revogada se o reabilitado for condenado definitivamente a pena privativa de liberdade.
+P: Revogação
+K: reabilitação; revogação
+
+@CPPM 659
+I: Pode-se impor medida de segurança durante a execução se fatos anteriores não apreciados ou posteriores revelarem periculosidade.
+P: Medida durante a execução
+K: medida de segurança; periculosidade
+
+@CPPM 660
+I: Mesmo após a absolvição definitiva, pode-se impor medida de segurança ao inimputável do art. 48 do CPM ou a quem a lei presuma perigoso, dentro do prazo mínimo da medida.
+P: Medida após absolvição
+K: absolvição imprópria; medida de segurança
+
+@CPPM 661
+I: A medida cabe ao juiz da execução, de ofício ou a pedido do MP, e o diretor do estabelecimento deve comunicar fatos de periculosidade.
+P: Competência || Comunicação
+K: medida de segurança; juiz da execução
+
+@CPPM 662
+I: Após diligências, MP e condenado têm 3 dias para alegações, com defensor se pedir, e o juiz decide.
+P: Procedimento
+K: medida de segurança; contraditório
+
+@CPPM 663
+I: A internação do art. 112 do CPM é por tempo indeterminado até perícia que ateste o fim da periculosidade, repetida anualmente; a desinternação é condicional por um ano. O STF limita a duração da medida de segurança ao máximo da pena cominada ou ao teto legal.
+P: Duração || Perícia anual || Desinternação condicional
+K: internação; medida de segurança; cessação da periculosidade
+
+@CPPM 664
+I: Semi-imputáveis, ébrios habituais e toxicômanos internados não vão para a prisão se sobrevier a cura.
+P: Não retorno à prisão
+K: medida de segurança; semi-imputável
+
+@CPPM 665
+I: O juiz ouve o curador e pode determinar novo exame mental com internação imediata.
+P: Novo exame mental
+K: exame mental; curador
+
+@CPPM 666
+I: O trabalho dos internados é educativo e remunerado.
+P: Trabalho do internado
+K: internação; trabalho
+
+@CPPM 667
+I: O exílio local proíbe o condenado de residir ou permanecer, por pelo menos um ano, no local do crime, com comunicação à polícia.
+P: Exílio local
+K: exílio local; medida de segurança
+
+@CPPM 668
+I: A proibição de frequentar lugares é comunicada à polícia para vigilância.
+P: Proibição de frequência
+K: medida de segurança; vigilância
+
+@CPPM 669
+I: O fechamento de estabelecimento ou interdição de associação é executado pela polícia com mandado judicial.
+P: Fechamento e interdição
+K: interdição; mandado judicial
+
+@CPPM 670
+I: Quem transgride exílio, proibição de frequência ou interdição responde por desobediência.
+P: Transgressão das medidas
+K: desobediência; medida de segurança
+
+@CPPM 671
+I: Ao fim do prazo mínimo, verifica-se a cessação da periculosidade com relatório do diretor ou da autoridade, laudo médico nos internados e diligências nas medidas não detentivas.
+P: Verificação da periculosidade || Relatório e laudo
+K: cessação da periculosidade; laudo
+
+@CPPM 672
+I: A interdição para dirigir pode ser revogada antes se cessar o perigo, ou prorrogada se persistir.
+P: Interdição de dirigir
+K: medida de segurança; habilitação
+
+@CPPM 673
+I: O confisco do art. 119 do CPM é decretado no despacho de arquivamento do inquérito.
+P: Confisco
+K: confisco; arquivamento
+
+@CPPM 674
+I: A militares só se aplicam as medidas dos arts. 112 e 115 do CPM.
+P: Restrição aos militares
+K: medida de segurança; militares
+
+@CPPM 675
+I: Em tempo de guerra, o inquérito deve terminar em 5 dias, prorrogáveis por 3; violência contra inferior para compeli-lo ao dever ou em repulsa a agressão vai direto ao Conselho Superior.
+P: Prazo do inquérito em guerra || Violência contra inferior
+K: tempo de guerra; inquérito; prazo
+
+@CPPM 676
+I: Recebidos os autos, o procurador denuncia em 24 horas, com qualificação, fatos, classificação, agravantes e duas a quatro testemunhas (dispensáveis se a prova for documental).
+P: Denúncia em 24 horas
+K: tempo de guerra; denúncia
+
+@CPPM 677
+I: Recebida a denúncia, cita-se o acusado e nomeia-se defensor, que tem 24 horas para defesa escrita; o acusado pode dispensar advogado.
+P: Citação e defesa
+K: tempo de guerra; defesa
+
+@CPPM 678
+I: O réu preso que se ausenta sem permissão é julgado à revelia.
+P: Revelia
+K: tempo de guerra; revelia
+
+@CPPM 679
+I: A instrução começa 24 horas após o interrogatório, com testemunhas de acusação e até duas de defesa apresentadas no ato.
+P: Instrução sumária
+K: tempo de guerra; testemunhas
+
+@CPPM 680
+I: O acusado pode dispensar seu comparecimento ao julgamento.
+P: Dispensa de comparecimento
+K: tempo de guerra; julgamento
+
+@CPPM 681
+I: Preliminares e incidentes são resolvidos pelo auditor ou pelo Conselho.
+P: Questões preliminares
+K: tempo de guerra; incidentes
+
+@CPPM 682
+I: Sem denúncia ou rejeitada esta, o Conselho Superior decide definitivamente sobre o oferecimento.
+P: Controle pelo Conselho Superior
+K: tempo de guerra; Conselho Superior
+
+@CPPM 683
+I: Praça ou civil é julgado pelo auditor em 48 horas, com 20 minutos de alegações para cada parte.
+P: Julgamento pelo auditor
+K: tempo de guerra; praça; civil
+
+@CPPM 684
+I: Oficial até tenente-coronel é julgado pelo Conselho de Justiça no dia da instalação.
+P: Julgamento de oficial
+K: tempo de guerra; oficial; Conselho de Justiça
+
+@CPPM 685
+I: A nomeação dos juízes consta dos autos, e as partes são intimadas no dia da sentença.
+P: Certidão e intimação
+K: tempo de guerra; intimação
+
+@CPPM 686
+I: A falta da fé de ofício pode ser suprida por outros meios.
+P: Suprimento
+K: fé de ofício
+
+@CPPM 687
+I: A Justiça Militar pode reclassificar o crime sem inovar a acusação; se impossível, anula-se o processo para nova denúncia.
+P: Reclassificação
+K: emendatio libelli; tempo de guerra
+
+@CPPM 688
+I: Vários acusados podem ser julgados em grupos.
+P: Julgamento em grupos
+K: tempo de guerra; corréus
+
+@CPPM 689
+I: Oficiais generais e coronéis são processados originariamente no Conselho Superior, com o procurador e o auditor que atuam junto a ele.
+P: Competência originária
+K: tempo de guerra; oficiais generais
+
+@CPPM 690
+I: Nos crimes de responsabilidade, o denunciado tem 2 dias para defesa prévia antes do recebimento.
+P: Defesa prévia
+K: crime de responsabilidade; defesa prévia
+
+@CPPM 691
+I: Das decisões originárias do Conselho Superior só cabem embargos.
+P: Embargos
+K: Conselho Superior; embargos
+
+@CPPM 692
+I: O secretário do Conselho é o escrivão e uma praça graduada é o oficial de justiça.
+P: Auxiliares
+K: tempo de guerra; escrivão
+
+@CPPM 693
+I: Na deserção em guerra, após o prazo de graça lavra-se termo que equivale à formação da culpa, a publicação em boletim substitui o edital e o defensor tem 24 horas para defesa escrita.
+P: Deserção em tempo de guerra
+K: deserção; tempo de guerra
+
+@CPPM 694
+I: Das sentenças de primeira instância cabe apelação ao Conselho Superior; não cabe recurso de questões incidentes.
+P: Apelação || Irrecorribilidade dos incidentes
+K: tempo de guerra; apelação
+
+@CPPM 695
+I: A apelação é interposta em 24 horas da intimação.
+P: Prazo de 24 horas
+K: apelação; tempo de guerra
+
+@CPPM 696
+I: Há recurso de ofício de pena superior a 8 anos e de absolvição ou pena inferior à máxima em crime com pena de morte.
+P: Recurso de ofício
+K: recurso de ofício; pena de morte
+
+@CPPM 697
+I: As razões acompanham a petição, e os autos sobem de imediato.
+P: Razões
+K: apelação; tempo de guerra
+
+@CPPM 698
+I: O relator abre vista ao MP por 24 horas para parecer.
+P: Parecer
+K: Ministério Público; tempo de guerra
+
+@CPPM 699
+I: O relator estuda os autos no intervalo de duas sessões.
+P: Estudo
+K: relator
+
+@CPPM 700
+I: Anunciado o julgamento, o relator expõe os fatos.
+P: Relatório
+K: julgamento; relator
+
+@CPPM 701
+I: Defensor e procurador falam por 15 minutos cada.
+P: Sustentação oral
+K: sustentação oral; tempo de guerra
+
+@CPPM 702
+I: O Conselho Superior decide, votando primeiro o relator e por último o presidente, e lavra a decisão em 2 dias.
+P: Votação
+K: Conselho Superior; votação
+
+@CPPM 703
+I: Não cabem embargos das decisões do Conselho Superior em segunda instância.
+P: Vedação de embargos
+K: embargos; Conselho Superior
+
+@CPPM 704
+I: A apelação do MP devolve todo o conhecimento da causa.
+P: Efeito devolutivo amplo
+K: apelação; efeito devolutivo
+
+@CPPM 705
+I: Os embargos nos processos originários seguem as normas da apelação.
+P: Rito dos embargos
+K: embargos; rito
+
+@CPPM 706
+I: O texto exclui habeas corpus e revisão no processo em tempo de guerra.
+P: Exclusão de HC e revisão
+K: tempo de guerra; habeas corpus; revisão
+
+@CPPM 707
+I: O condenado à morte é fuzilado de uniforme sem insígnias, com olhos vendados salvo recusa e sinais no lugar das vozes de fogo; tem socorro espiritual; a execução ocorre 7 dias após comunicar o Presidente, salvo urgência em zona de operações. A Constituição só admite pena de morte em guerra declarada (art. 5º, XLVII, a).
+P: Execução da pena de morte || Prazo de 7 dias || Limite constitucional
+K: pena de morte; fuzilamento; guerra declarada
+
+@CPPM 708
+I: Lavra-se ata da execução, remetida ao comandante-chefe para publicação em boletim.
+P: Ata
+K: pena de morte; ata
+
+@CPPM 709
+I: "Forças em operação de guerra" abrangem as forças desde o deslocamento ao teatro de operações até o regresso.
+P: Conceito
+K: forças em operação de guerra
+
+@CPPM 710
+I: Auditores, procuradores, defensores e escrivães que acompanham as forças são comissionados em postos militares.
+P: Comissionamento
+K: tempo de guerra; Justiça Militar
+
+@CPPM 711
+I: Nos processos pendentes em 1970, aplicou-se a regra mais favorável à prisão provisória, e prazos, interrogatórios, perícias e recursos iniciados seguiram a lei anterior.
+P: Direito intertemporal
+K: disposições transitórias; tempus regit actum
+
+@CPPM 712
+I: Os processos da Justiça Militar não têm custas, emolumentos, selos ou portes.
+P: Gratuidade
+K: custas; gratuidade
+
+@CPPM 713
+I: Certidões de processos arquivados no STM são pedidas ao diretor-geral da Secretaria, com a finalidade.
+P: Certidões
+K: certidão; STM
+
+@CPPM 714
+I: Juízes e MP podem requisitar certidões de processos arquivados para instruir processos em curso.
+P: Requisição de certidões
+K: certidão; requisição
+
+@CPPM 715
+I: As penas pecuniárias são cobradas e recolhidas ao erário; de militares e servidores, por desconto em folha de até 10% ao mês.
+P: Cobrança || Desconto em folha
+K: pena pecuniária; desconto em folha
+
+@CPPM 716
+I: O presidente do STM, o procurador-geral e o auditor podem requisitar passagens para o serviço judiciário, com franquia postal.
+P: Requisição de passagens
+K: transporte; serviço judiciário
+
+@CPPM 717
+I: O serviço judicial prefere a qualquer outro, salvo exceções do Código.
+P: Precedência do serviço judicial
+K: serviço judicial
+
+@CPPM 718
+I: O Código entrou em vigor em 1º de janeiro de 1970.
+P: Vigência
+K: vigência; revogação
