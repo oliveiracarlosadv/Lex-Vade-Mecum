@@ -1,0 +1,374 @@
+@CPPM 200
+I: O sequestro exige indícios veementes da origem ilícita dos bens.
+P: Requisito do sequestro
+K: sequestro; indícios veementes
+
+@CPPM 201
+I: O juiz pode ordenar o sequestro de ofício ou a pedido do MP em qualquer fase do processo; antes da denúncia, também a pedido fundamentado do encarregado do inquérito.
+P: Legitimados || Momento
+K: sequestro; Ministério Público; IPM
+
+@CPPM 202
+I: Feito o sequestro, o imóvel é inscrito no Registro de Imóveis e o móvel vai para um depositário.
+P: Providências após o sequestro
+K: sequestro; registro de imóveis; depositário
+
+@CPPM 203
+I: O sequestro corre em apartado e admite embargos do acusado (bem não adquirido com o crime ou ausência de lesão ao patrimônio militar) ou de terceiro (aquisição anterior ou de boa-fé); prova em 10 dias e recurso ao STM; questões complexas vão ao cível.
+P: Embargos do acusado e de terceiro || Recurso ao STM || Remessa ao cível
+K: sequestro; embargos; terceiro de boa-fé
+
+@CPPM 204
+I: O sequestro é levantado se acolhidos os embargos, se a ação não for proposta em 60 dias do inquérito, se o terceiro prestar caução ou se extinta a ação ou absolvido o réu.
+P: Hipóteses de levantamento
+K: levantamento do sequestro; caução; prazo de 60 dias
+
+@CPPM 205
+I: Após a condenação definitiva, os bens são avaliados e leiloados; o valor ressarce o patrimônio militar e o restante é restituído ou, havendo controvérsia, vai ao juízo cível.
+P: Leilão após condenação || Destino do produto
+K: sequestro; leilão; ressarcimento
+
+@CPPM 206
+I: Os imóveis do acusado ficam sujeitos a hipoteca legal para reparar dano ao patrimônio sob administração militar.
+P: Objeto da hipoteca legal
+K: hipoteca legal; reparação do dano
+
+@CPPM 207
+I: O MP requer a inscrição e especialização da hipoteca em qualquer fase, desde que haja certeza da infração e indícios suficientes de autoria.
+P: Requisitos da hipoteca legal
+K: hipoteca legal; especialização
+
+@CPPM 208
+I: O requerimento estima o valor da obrigação e dos imóveis, com documentos de domínio.
+P: Conteúdo do requerimento
+K: hipoteca legal; estimativa
+
+@CPPM 209
+I: O juiz manda arbitrar a obrigação e avaliar os imóveis por perito, ouvidas as partes; o valor é liquidado após a condenação, a caução pode dispensar a inscrição e só se inscrevem os imóveis necessários.
+P: Arbitramento e avaliação || Caução substitutiva || Limite da inscrição
+K: hipoteca legal; arbitramento; caução
+
+@CPPM 210
+I: A especialização corre em autos apartados, com recurso ao STM; questões complexas vão ao cível.
+P: Autos apartados || Recurso
+K: hipoteca legal; recurso; juízo cível
+
+@CPPM 211
+I: A hipoteca legal não recai sobre imóvel inalienável.
+P: Imóvel inalienável
+K: hipoteca legal; inalienabilidade
+
+@CPPM 212
+I: Hipoteca anterior ao crime não impede a hipoteca legal, que valerá como segunda hipoteca.
+P: Concurso de hipotecas
+K: hipoteca legal; segunda hipoteca
+
+@CPPM 213
+I: Parte da renda dos bens hipotecados pode sustentar o acusado e sua família.
+P: Renda para manutenção
+K: hipoteca legal; alimentos
+
+@CPPM 214
+I: A inscrição é cancelada se o acusado der caução ou se extinta a ação ou absolvido o réu.
+P: Cancelamento da hipoteca
+K: hipoteca legal; cancelamento
+
+@CPPM 215
+I: O arresto de bens do acusado protege a reparação do dano militar: de imóveis, antes da hipoteca legal, para evitar fraude; de móveis valiosos, contra ocultação. O de imóvel cai se a hipoteca não for requerida em 15 dias, e pode ser pedido já no inquérito.
+P: Arresto de imóveis e móveis || Revogação em 15 dias
+K: arresto; medidas assecuratórias
+
+@CPPM 216
+I: O arresto recai preferencialmente sobre imóvel e exige certeza da infração e fundada suspeita de autoria.
+P: Preferência pelo imóvel || Requisitos
+K: arresto; preferência
+
+@CPPM 217
+I: Não se arrestam bens impenhoráveis nem os indispensáveis ao conforto do acusado e da família.
+P: Bens impenhoráveis
+K: arresto; impenhorabilidade
+
+@CPPM 218
+I: Bens arrestados deterioráveis são leiloados, com depósito do valor em banco oficial.
+P: Bens deterioráveis
+K: arresto; leilão
+
+@CPPM 219
+I: O arresto corre em apartado, com embargos para móveis e recurso ao STM, aplicando-se no que couber as regras do sequestro.
+P: Procedimento do arresto
+K: arresto; embargos; recurso
+
+@CPPM 220
+I: Prisão provisória é a que ocorre no inquérito ou no processo antes da condenação definitiva.
+P: Conceito
+K: prisão provisória; prisão cautelar
+
+@CPPM 221
+I: Só se prende em flagrante ou por ordem escrita de autoridade competente. A Constituição (art. 5º, LXI) exige ordem judicial, salvo flagrante e transgressão ou crime propriamente militar definidos em lei.
+P: Legalidade da prisão || CF art. 5º LXI
+K: prisão; flagrante; ordem escrita
+
+@CPPM 222
+I: Toda prisão deve ser comunicada imediatamente ao juiz, com o local de custódia (CF, art. 5º, LXII).
+P: Comunicação imediata
+K: prisão; comunicação ao juiz
+
+@CPPM 223
+I: Militar é preso por militar de posto ou graduação superior, ou igual e mais antigo.
+P: Hierarquia na prisão
+K: prisão de militar; hierarquia
+
+@CPPM 224
+I: Prisão ilegal deve ser relaxada de imediato pelo juiz (CF, art. 5º, LXV).
+P: Relaxamento
+K: relaxamento da prisão; ilegalidade
+
+@CPPM 225
+I: O mandado de prisão é expedido em duas vias pelo juiz ou encarregado do inquérito, com identificação do preso, motivo e executor; uma via fica com o preso. A prisão pelo encarregado do IPM depende das hipóteses constitucionais de crime propriamente militar.
+P: Requisitos do mandado || Vias do mandado
+K: mandado de prisão; requisitos
+
+@CPPM 226
+I: A prisão pode ocorrer em qualquer dia e hora, respeitada a inviolabilidade do domicílio.
+P: Tempo da captura
+K: captura; inviolabilidade do domicílio
+
+@CPPM 227
+I: Podem ser expedidas cópias fiéis do mandado para as diligências.
+P: Desdobramento do mandado
+K: mandado de prisão; cópias
+
+@CPPM 228
+I: Fora da jurisdição, a captura é pedida por precatória; no IPM, por ofício ao comando regional; em urgência, por via telegráfica ou radiográfica.
+P: Precatória || Urgência
+K: precatória; captura
+
+@CPPM 229
+I: Para capturar no estrangeiro, o juiz se dirige ao Ministro da Justiça para providências diplomáticas.
+P: Captura no exterior
+K: extradição; via diplomática
+
+@CPPM 230
+I: A captura se faz por voz de prisão no flagrante, ou pela entrega do mandado com identificação do executor; a recaptura de foragido independe de ordem.
+P: Forma da captura || Recaptura
+K: captura; voz de prisão; recaptura
+
+@CPPM 231
+I: Estando o capturando em casa, o executor exige a entrega mostrando o mandado; havendo dúvida, a busca exige mandado próprio.
+P: Captura em domicílio
+K: captura; domicílio; mandado de busca
+
+@CPPM 232
+I: Recusada a entrega, de dia o executor entra à força com duas testemunhas; à noite, cerca a casa e entra ao amanhecer; o morador pode responder criminalmente.
+P: Entrada forçada de dia || Cerco noturno
+K: captura; arrombamento; inviolabilidade noturna
+
+@CPPM 233
+I: O flagrante dentro de casa segue, no que couber, as regras do artigo anterior.
+P: Flagrante em domicílio
+K: flagrante; domicílio
+
+@CPPM 234
+I: A força só é permitida se indispensável; algemas devem ser evitadas sem risco de fuga ou agressão e são vedadas para os presos do art. 242; armas só em absoluta necessidade.
+P: Uso da força || Algemas || Armas
+K: uso de força; algemas; Súmula Vinculante 11
+
+@CPPM 235
+I: Na perseguição para outra jurisdição aplicam-se os arts. 186 a 188.
+P: Captura fora da jurisdição
+K: perseguição; jurisdição
+
+@CPPM 236
+I: O auditor deprecado verifica a precatória, expede mandado e entrega o preso ao deprecante, ou remete os autos a quem tenha jurisdição.
+P: Cumprimento da precatória
+K: precatória; auditor deprecado
+
+@CPPM 237
+I: Ninguém é recolhido à prisão sem cópia do mandado ou guia, com recibo de dia, hora e lugar.
+P: Formalidades do recolhimento
+K: recolhimento à prisão; recibo
+
+@CPPM 238
+I: A transferência de preso deve ser comunicada ao juiz, com as mesmas formalidades no novo local.
+P: Transferência de preso
+K: transferência; comunicação
+
+@CPPM 239
+I: Presos provisórios ficam separados dos condenados definitivos.
+P: Separação de presos
+K: presos provisórios; separação
+
+@CPPM 240
+I: A prisão deve ser limpa e arejada, vedadas masmorra, solitária e cela sem luz do dia.
+P: Condições da prisão
+K: dignidade do preso; condições carcerárias
+
+@CPPM 241
+I: O custodiante respeita a integridade física e moral do preso, que tem direito a visita da família, assistência religiosa, advogado e atendimento médico militar.
+P: Integridade do preso || Assistência
+K: direitos do preso; assistência religiosa; advogado
+
+@CPPM 242
+I: Antes da condenação irrecorrível, certas autoridades, oficiais, diplomados e ministros religiosos ficam em quartel ou prisão especial; praças especiais e graduados conforme a hierarquia. O STF considerou inconstitucional a prisão especial de diplomados no CPP (ADPF 334).
+P: Prisão especial || Rol de beneficiários
+K: prisão especial; quartel; ADPF 334
+
+@CPPM 243
+I: Qualquer pessoa pode, e os militares devem, prender insubmisso, desertor ou quem esteja em flagrante.
+P: Flagrante facultativo e obrigatório
+K: prisão em flagrante; desertor; insubmisso
+
+@CPPM 244
+I: Está em flagrante quem comete o crime, acaba de cometê-lo, é perseguido logo após ou é encontrado logo depois com objetos que façam presumir a autoria; no crime permanente, enquanto durar a permanência.
+P: Hipóteses de flagrante || Crime permanente
+K: flagrante próprio; flagrante impróprio; flagrante presumido
+
+@CPPM 245
+I: A autoridade ouve condutor, testemunhas e o preso e lavra o auto; menor vai ao juiz da infância; sem testemunhas do fato, assinam duas da apresentação; designa-se escrivão conforme o posto do preso.
+P: Lavratura do auto || Testemunhas || Escrivão
+K: auto de prisão em flagrante; condutor; escrivão
+
+@CPPM 246
+I: Havendo fundada suspeita, o conduzido é recolhido e fazem-se corpo de delito, busca e outras diligências.
+P: Recolhimento e diligências
+K: flagrante; corpo de delito
+
+@CPPM 247
+I: Em 24 horas o preso recebe nota de culpa com motivo, condutor e testemunhas; se manifestamente não houver crime militar ou participação, a prisão é relaxada, e crime comum vai à autoridade civil.
+P: Nota de culpa || Relaxamento
+K: nota de culpa; 24 horas; relaxamento
+
+@CPPM 248
+I: Tudo é registrado em auto para o juiz confirmar ou não os atos.
+P: Controle judicial
+K: auto; controle judicial
+
+@CPPM 249
+I: Crime praticado diante da autoridade ou contra ela obriga-a a prender e autuar o infrator.
+P: Crime diante da autoridade
+K: flagrante; autoridade
+
+@CPPM 250
+I: Prisão fora de área militar pode ser autuada por autoridade civil ou pela militar mais próxima.
+P: Autuação fora de área militar
+K: flagrante; autoridade civil
+
+@CPPM 251
+I: O auto vai imediatamente ao juiz, ou em até 5 dias se houver diligências; o preso fica à disposição do juiz.
+P: Remessa ao juiz
+K: auto de flagrante; prazo de remessa
+
+@CPPM 252
+I: O juiz ou o MP pode devolver o auto à autoridade militar para novas diligências.
+P: Devolução para diligências
+K: auto de flagrante; diligências
+
+@CPPM 253
+I: Se o auto indicar que o fato ocorreu sob causas de exclusão previstas no CPM (arts. 35, 38, 39, 40 e 42), o juiz pode conceder liberdade provisória com termo de comparecimento.
+P: Liberdade provisória por excludente
+K: liberdade provisória; excludentes; termo de comparecimento
+
+@CPPM 254
+I: A preventiva pode ser decretada pelo auditor ou Conselho, de ofício ou a pedido, em qualquer fase, exigindo prova do fato e indícios suficientes de autoria; no STM, pelo relator.
+P: Competência || Pressupostos
+K: prisão preventiva; fumus commissi delicti
+
+@CPPM 255
+I: A preventiva se funda em ordem pública, instrução, periculosidade, aplicação da lei penal militar ou preservação da hierarquia e disciplina.
+P: Fundamentos da preventiva || Hierarquia e disciplina
+K: prisão preventiva; periculum libertatis; hierarquia e disciplina
+
+@CPPM 256
+I: Decretar ou negar a preventiva exige decisão fundamentada, assim como o pedido.
+P: Fundamentação obrigatória
+K: preventiva; fundamentação
+
+@CPPM 257
+I: A preventiva não é decretada quando se presumir que o acusado não fugirá nem atrapalhará a justiça; a decisão pode ser revista se as condições mudarem.
+P: Desnecessidade da preventiva
+K: preventiva; desnecessidade
+
+@CPPM 258
+I: Não cabe preventiva se as provas indicarem causa de exclusão prevista no CPM (arts. 35, 38, 39, 40 e 42).
+P: Vedação da preventiva
+K: preventiva; excludentes
+
+@CPPM 259
+I: A preventiva pode ser revogada e novamente decretada; sua prorrogação exige ouvir o MP.
+P: Revogação e nova decretação
+K: preventiva; revogação
+
+@CPPM 260
+I: A preventiva se executa por mandado; se o acusado já estiver detido, é notificado pelo escrivão.
+P: Execução da preventiva
+K: preventiva; mandado
+
+@CPPM 261
+I: Decretada a preventiva, o preso fica à disposição do juiz.
+P: Disposição do juiz
+K: preventiva; custódia
+
+@CPPM 262
+I: No comparecimento espontâneo, tomam-se as declarações por termo, e o juiz decide sobre prisão ou outra medida.
+P: Comparecimento espontâneo
+K: comparecimento espontâneo; termo
+
+@CPPM 263
+I: A menagem cabe em crimes com pena máxima até 4 anos, considerados natureza do crime e antecedentes.
+P: Requisitos da menagem
+K: menagem; medida cautelar
+
+@CPPM 264
+I: A menagem do militar é na residência, sede do juízo ou unidade militar; a do civil, na sede do juízo ou lugar sob administração militar; o MP opina em 3 dias.
+P: Lugar da menagem || Oitiva do MP
+K: menagem; local
+
+@CPPM 265
+I: A menagem é cassada se o beneficiado deixar o lugar ou faltar sem justificativa a ato judicial.
+P: Cassação
+K: menagem; cassação
+
+@CPPM 266
+I: O insubmisso tem o quartel por menagem, independentemente de decisão judicial.
+P: Menagem do insubmisso
+K: insubmissão; menagem
+
+@CPPM 267
+I: A menagem cessa com a sentença condenatória, ainda que recorrível, ou por decisão do juiz.
+P: Cessação
+K: menagem; cessação
+
+@CPPM 268
+I: Menagem em residência ou cidade não é descontada da pena.
+P: Não detração
+K: menagem; detração
+
+@CPPM 269
+I: Reincidente não recebe menagem.
+P: Vedação ao reincidente
+K: menagem; reincidência
+
+@CPPM 270
+I: Livra-se solto o acusado de infração sem pena privativa de liberdade; pode livrar-se solto no crime culposo (salvo os contra a segurança externa) e na detenção até 2 anos, exceto os crimes listados.
+P: Livramento solto obrigatório || Facultativo
+K: liberdade provisória; livrar-se solto
+
+@CPPM 271
+I: A liberdade provisória pode ser suspensa se surgir motivo de preventiva.
+P: Suspensão da liberdade provisória
+K: liberdade provisória; suspensão
+
+@CPPM 272
+I: Antes da sentença irrecorrível, o juiz pode aplicar provisoriamente medidas de segurança a doentes mentais, ébrios habituais e toxicômanos, e interditar estabelecimento ou sociedade por até 5 dias para diligências, sempre com fundamentação.
+P: Medida de segurança provisória || Interdição de estabelecimento
+K: medida de segurança provisória; interdição
+
+@CPPM 273
+I: Não cabe recurso da decisão sobre medida de segurança provisória, mas ela pode ser revista a pedido.
+P: Irrecorribilidade || Revisão
+K: medida de segurança; irrecorribilidade
+
+@CPPM 274
+I: A medida provisória para doente mental não dispensa a perícia médica.
+P: Perícia obrigatória
+K: medida de segurança; perícia médica
