@@ -1,0 +1,399 @@
+@CPPM 275
+I: À medida de segurança provisória aplicam-se, no que couber, as regras de execução da sentença definitiva.
+P: Normas supletivas
+K: medida de segurança provisória; execução
+
+@CPPM 276
+I: A suspensão provisória do poder familiar, tutela ou curatela é processada no juízo cível.
+P: Competência do juízo cível
+K: poder familiar; tutela; curatela
+
+@CPPM 277
+I: A citação é feita por oficial de justiça mediante mandado, precatória, requisição, carta ou edital (ocultação, asilo, não localização, paradeiro incerto ou pessoa incerta), certificando-se duas tentativas antes do edital.
+P: Formas de citação || Citação por edital
+K: citação; edital; precatória
+
+@CPPM 278
+I: O mandado de citação, com contrafé para cada acusado, indica juiz, acusado, denúncia com rol de testemunhas, local, dia e hora do comparecimento e assinaturas.
+P: Requisitos do mandado
+K: mandado de citação; contrafé
+
+@CPPM 279
+I: Na citação por mandado, o oficial lê o mandado, entrega a contrafé e certifica; a recusa do citando também é certificada.
+P: Requisitos da citação || Recusa do citando
+K: citação pessoal; certidão do oficial
+
+@CPPM 280
+I: Militar da ativa é citado por requisição ao comandante, para apresentar-se ao oficial de justiça.
+P: Citação de militar
+K: citação de militar; requisição
+
+@CPPM 281
+I: Funcionário de repartição militar só é citado lá dentro com licença do chefe.
+P: Citação de funcionário
+K: citação; funcionário
+
+@CPPM 282
+I: Acusado preso por outro motivo é citado no próprio presídio, requisitada sua apresentação.
+P: Citação de preso
+K: citação de preso
+
+@CPPM 283
+I: A precatória de citação indica juízes, sedes, finalidade e data do comparecimento; em urgência, pode ser telegráfica.
+P: Requisitos da precatória || Urgência
+K: precatória; citação
+
+@CPPM 284
+I: Cumprida, a precatória é devolvida ao deprecante; pode ser remetida a outro juiz se o citando estiver em outra jurisdição.
+P: Cumprimento e devolução
+K: precatória; caráter itinerante
+
+@CPPM 285
+I: O acusado no estrangeiro em lugar sabido é citado por carta citatória via Ministério das Relações Exteriores; não encontrado, ou exilado ou foragido, cita-se por edital de 20 dias.
+P: Carta citatória || Edital para o exterior
+K: carta rogatória; citação no exterior
+
+@CPPM 286
+I: O edital traz os requisitos do mandado e o prazo, é publicado três vezes em jornal oficial e afixado na portaria do juízo; pode ser resumido se a denúncia for longa ou houver mais de cinco acusados.
+P: Requisitos do edital || Publicação
+K: edital; publicação
+
+@CPPM 287
+I: O prazo do edital é de 5, 15, 20 ou de 20 a 90 dias, conforme a hipótese do art. 277, V.
+P: Prazos do edital
+K: edital; prazo
+
+@CPPM 288
+I: Intimações podem ser feitas pelo escrivão por carta, telegrama, telefone ou pessoalmente; a do advogado supre a do acusado solto; militar é intimado via superior; preso é intimado pessoalmente.
+P: Intimação pelo escrivão || Intimação do defensor || Militar e preso
+K: intimação; notificação; defensor
+
+@CPPM 289
+I: O oficial processado e solto fica agregado em unidade próxima da sede do juízo, comunicando-se sua transferência.
+P: Agregação do oficial
+K: oficial processado; agregação
+
+@CPPM 290
+I: O acusado civil solto não pode mudar de residência nem ausentar-se por mais de 8 dias sem informar o juízo.
+P: Dever de informar endereço
+K: acusado civil; residência
+
+@CPPM 291
+I: Citações e intimações são feitas de dia, com 24 horas de antecedência ao ato.
+P: Antecedência mínima
+K: citação; intimação; 24 horas
+
+@CPPM 292
+I: O processo segue à revelia do acusado que, citado ou intimado, falta sem justificativa.
+P: Revelia
+K: revelia
+
+@CPPM 293
+I: A citação inicial é pessoal; depois, basta intimar o defensor, salvo se o acusado estiver preso.
+P: Citação pessoal || Intimação do defensor
+K: citação; intimação; preso
+
+@CPPM 294
+I: A prova no processo penal militar não sofre as restrições da lei civil, exceto quanto ao estado das pessoas.
+P: Liberdade probatória || Estado das pessoas
+K: prova; estado das pessoas
+
+@CPPM 295
+I: Admite-se qualquer prova que não ofenda a moral, a saúde, a segurança ou a hierarquia e disciplina; provas ilícitas são inadmissíveis (CF, art. 5º, LVI).
+P: Admissibilidade || Limites
+K: provas; provas ilícitas; hierarquia
+
+@CPPM 296
+I: O ônus da prova é de quem alega, podendo o juiz determinar diligências de ofício; inverte-se nas presunções legais; ninguém é obrigado a produzir prova contra si ou seus familiares.
+P: Ônus da prova || Diligências de ofício || Não autoincriminação
+K: ônus da prova; nemo tenetur se detegere
+
+@CPPM 297
+I: O juiz forma convicção pela livre apreciação das provas colhidas em juízo, confrontando-as entre si.
+P: Livre convencimento motivado
+K: livre convencimento; valoração da prova
+
+@CPPM 298
+I: Os atos são em português; usa-se intérprete para quem não domina a língua e tradutor para documentos estrangeiros.
+P: Língua nacional || Intérprete e tradutor
+K: intérprete; tradutor
+
+@CPPM 299
+I: Surdo recebe perguntas por escrito; mudo responde por escrito; surdo-mudo pergunta e responde por escrito; analfabeto tem intérprete; o mesmo vale para o ofendido.
+P: Oitiva de surdo e mudo
+K: surdo-mudo; intérprete
+
+@CPPM 300
+I: Perguntas e respostas são consignadas fielmente e orais, podendo ser escritas se houver impedimento; o auditor (ou relator) pergunta e dita, e os juízes do Conselho podem perguntar.
+P: Registro das declarações || Condução pelo auditor
+K: termo de declarações; oralidade
+
+@CPPM 301
+I: As regras sobre testemunhas, acareação, reconhecimento, perícias e documentos aplicam-se também ao inquérito.
+P: Aplicação ao IPM
+K: IPM; provas
+
+@CPPM 302
+I: O texto prevê o interrogatório logo após o recebimento da denúncia, antes das testemunhas. O STF fixou que o interrogatório no processo penal militar deve ser o último ato da instrução, como no CPP (HC 127.900).
+P: Momento do interrogatório || Entendimento do STF
+K: interrogatório; HC 127.900; ampla defesa
+
+@CPPM 303
+I: O interrogatório é feito pelo juiz, sem intervenção de terceiros, e as partes podem suscitar questões de ordem ao final.
+P: Condução pelo juiz || Questões de ordem
+K: interrogatório; questões de ordem
+
+@CPPM 304
+I: Havendo vários acusados, cada um é interrogado separadamente.
+P: Interrogatório separado
+K: interrogatório; corréus
+
+@CPPM 305
+I: O texto manda advertir que o silêncio pode prejudicar a defesa. A Constituição (art. 5º, LXIII) garante o direito ao silêncio, que não pode ser usado contra o acusado.
+P: Advertência do texto || Direito ao silêncio
+K: direito ao silêncio; CF art. 5º LXIII
+
+@CPPM 306
+I: O acusado é qualificado, ouve a denúncia e é perguntado sobre o fato, as provas e seus antecedentes; sem defensor, o juiz lhe nomeia um.
+P: Roteiro do interrogatório || Nomeação de defensor
+K: interrogatório; qualificação; defensor
+
+@CPPM 307
+I: A confissão só vale como prova se feita perante autoridade competente, livre e expressa, sobre o fato principal, verossímil e compatível com as demais provas.
+P: Requisitos da confissão
+K: confissão; valor probatório
+
+@CPPM 308
+I: O silêncio não é confissão; a parte final, que permite usá-lo no convencimento, colide com o direito ao silêncio (CF, art. 5º, LXIII).
+P: Silêncio não é confissão
+K: silêncio; confissão
+
+@CPPM 309
+I: A confissão é retratável e divisível, valorada com as demais provas.
+P: Retratabilidade e divisibilidade
+K: confissão; retratação
+
+@CPPM 310
+I: A confissão fora do interrogatório é tomada por termo nos autos.
+P: Confissão fora do interrogatório
+K: confissão; termo
+
+@CPPM 311
+I: O ofendido é ouvido sobre o crime e a autoria; se faltar sem justa causa, pode ser conduzido, sem sanção.
+P: Oitiva do ofendido || Condução
+K: ofendido; condução coercitiva
+
+@CPPM 312
+I: O ofendido depõe na presença do acusado, que pode contraditá-lo e pedir esclarecimentos, mas não reperguntá-lo.
+P: Contraditório
+K: ofendido; contradita
+
+@CPPM 313
+I: O ofendido não responde perguntas que o incriminem ou estranhas ao processo.
+P: Isenção de resposta
+K: ofendido; não autoincriminação
+
+@CPPM 314
+I: A perícia examina os vestígios do crime e as pessoas e coisas que possam servir de prova.
+P: Objeto da perícia
+K: perícia; vestígios
+
+@CPPM 315
+I: A perícia é determinada pela autoridade ou requerida pelas partes; o juiz pode negá-la, exceto o corpo de delito.
+P: Determinação || Indeferimento
+K: perícia; corpo de delito
+
+@CPPM 316
+I: A autoridade formula quesitos, e também o indiciado no inquérito e as partes na instrução.
+P: Quesitos
+K: quesitos; perícia
+
+@CPPM 317
+I: Os quesitos devem ser específicos e não sugestivos; o juiz pode exigir sua especificação e indeferir os impertinentes.
+P: Requisitos dos quesitos || Controle judicial
+K: quesitos; indeferimento
+
+@CPPM 318
+I: Sempre que possível, a perícia é feita por dois peritos habilitados.
+P: Número de peritos
+K: peritos; habilitação
+
+@CPPM 319
+I: Os peritos descrevem o exame e respondem aos quesitos com clareza no laudo.
+P: Conteúdo do laudo
+K: laudo pericial
+
+@CPPM 320
+I: Os peritos podem pedir a apresentação de pessoas e objetos e esclarecimentos.
+P: Requisições dos peritos
+K: peritos; diligências
+
+@CPPM 321
+I: As autoridades podem requisitar perícias a institutos e laboratórios oficiais e homologar as já feitas.
+P: Requisição de perícia
+K: IML; laboratórios oficiais
+
+@CPPM 322
+I: Divergindo os peritos, registram-se as posições e nomeia-se um terceiro; se divergir de ambos, faz-se novo exame.
+P: Divergência entre peritos
+K: peritos; desempate
+
+@CPPM 323
+I: Laudo falho é completado ou esclarecido, e pode ser ordenado novo exame.
+P: Suprimento do laudo || Novo exame
+K: laudo; complementação
+
+@CPPM 324
+I: Os laudos podem ser ilustrados com fotos, desenhos e esquemas.
+P: Ilustração
+K: laudo; fotografias
+
+@CPPM 325
+I: A autoridade fixa prazo para o laudo, e as partes têm vista por 3 dias para pedir esclarecimentos.
+P: Prazo do laudo || Vista às partes
+K: laudo; prazo; contraditório
+
+@CPPM 326
+I: O juiz não fica vinculado ao laudo.
+P: Livre apreciação
+K: laudo; livre convencimento
+
+@CPPM 327
+I: Diligências em quartéis, navios ou repartições exigem comunicação prévia ao comandante ou chefe.
+P: Comunicação prévia
+K: perícia; área militar
+
+@CPPM 328
+I: Se a infração deixa vestígios, o corpo de delito é indispensável e a confissão não o supre; desaparecidos os vestígios, supre-o a prova testemunhal.
+P: Corpo de delito obrigatório || Corpo de delito indireto
+K: corpo de delito; vestígios
+
+@CPPM 329
+I: O corpo de delito pode ser feito a qualquer dia e hora.
+P: Oportunidade
+K: corpo de delito
+
+@CPPM 330
+I: Nos crimes contra a pessoa, os exames abrangem lesões, sanidade física e mental, cadáver, identidade, laboratório e instrumentos.
+P: Exames nos crimes contra a pessoa
+K: exame de lesões; necropsia
+
+@CPPM 331
+I: Exame incompleto de lesões exige exame complementar; para lesão grave por incapacidade, após 30 dias; a falta pode ser suprida por testemunhas.
+P: Exame complementar || Prazo de 30 dias
+K: exame complementar; lesão corporal
+
+@CPPM 332
+I: O exame de sanidade mental segue as regras do incidente de insanidade.
+P: Remissão
+K: sanidade mental
+
+@CPPM 333
+I: Faz-se autópsia quando os peritos a julgarem necessária, quando a morte puder ter outra causa ou em envenenamento.
+P: Hipóteses de autópsia
+K: autópsia; necropsia
+
+@CPPM 334
+I: A autópsia ocorre pelo menos 6 horas após o óbito, salvo evidência da morte, e não pode ser feita pelo médico que tratou o morto.
+P: Prazo de 6 horas || Impedimento do médico
+K: autópsia; impedimento
+
+@CPPM 335
+I: Na morte violenta, basta o exame externo quando não houver crime a apurar ou as lesões indicarem a causa.
+P: Exame externo
+K: morte violenta; exame externo
+
+@CPPM 336
+I: Cadáveres são fotografados, se possível, na posição em que encontrados.
+P: Fotografia do cadáver
+K: cadáver; local do crime
+
+@CPPM 337
+I: Havendo dúvida sobre a identidade do cadáver, faz-se reconhecimento por instituto de identificação ou testemunhas, arrecadando-se objetos úteis.
+P: Identificação do cadáver
+K: identificação; cadáver
+
+@CPPM 338
+I: Faz-se exumação quando necessária, em data marcada, com auto; o administrador do cemitério deve indicar a sepultura.
+P: Exumação
+K: exumação; cemitério
+
+@CPPM 339
+I: A autoridade deve preservar o local do crime até a chegada dos peritos.
+P: Preservação do local
+K: local do crime; cadeia de custódia
+
+@CPPM 340
+I: Nas perícias de laboratório, guarda-se material para eventual nova perícia.
+P: Contraprova
+K: laboratório; contraprova
+
+@CPPM 341
+I: Em destruição, rompimento de obstáculo ou escalada, os peritos indicam instrumentos, meios e época prováveis.
+P: Crimes com dano ou escalada
+K: perícia; rompimento de obstáculo
+
+@CPPM 342
+I: Avaliam-se as coisas destruídas ou que sejam produto de crime, indiretamente se preciso.
+P: Avaliação direta e indireta
+K: avaliação; produto do crime
+
+@CPPM 343
+I: No incêndio, os peritos apuram causa, origem, perigo e extensão do dano, sobretudo ao patrimônio militar.
+P: Perícia em incêndio
+K: incêndio; perícia
+
+@CPPM 344
+I: No exame grafotécnico, a pessoa é intimada, usam-se documentos reconhecidos e, faltando padrões, colhe-se material ditado, inclusive por precatória.
+P: Exame grafotécnico
+K: grafotécnico; comparação de letra
+
+@CPPM 345
+I: Os instrumentos do crime são examinados quanto à natureza, eficiência, origem e propriedade.
+P: Exame dos instrumentos
+K: instrumentos do crime
+
+@CPPM 346
+I: Perícia em outra jurisdição se faz por precatória, com os quesitos transcritos.
+P: Perícia por precatória
+K: precatória; perícia
+
+@CPPM 347
+I: A testemunha notificada deve comparecer; faltando sem motivo, é conduzida e multada, e a resistência pode gerar prisão de até 15 dias, sem prejuízo do crime de desobediência.
+P: Comparecimento obrigatório || Condução e multa
+K: testemunha; condução coercitiva; desobediência
+
+@CPPM 348
+I: A defesa apresenta suas testemunhas independentemente de intimação, salvo as do art. 349.
+P: Testemunhas da defesa
+K: testemunhas de defesa
+
+@CPPM 349
+I: O comparecimento de militar ou servidor é requisitado ao chefe; militar de patente superior é compelido via seu superior imediato.
+P: Requisição de militar
+K: testemunha militar; requisição
+
+@CPPM 350
+I: Altas autoridades e dirigentes da OAB depõem em local e data ajustados; enfermos e idosos, onde estiverem.
+P: Prerrogativa de local || Enfermos e idosos
+K: testemunha; prerrogativa
+
+@CPPM 351
+I: Qualquer pessoa pode ser testemunha.
+P: Capacidade
+K: testemunha
+
+@CPPM 352
+I: A testemunha se qualifica, declara vínculos com as partes e relata o que sabe, sem apenas ratificar o inquérito; presta compromisso, salvo doentes mentais, menores de 14 anos e parentes do art. 354; cabe contradita antes do depoimento.
+P: Conteúdo do depoimento || Compromisso || Contradita
+K: testemunha; compromisso; contradita
+
+@CPPM 353
+I: As testemunhas são ouvidas separadamente, sem ouvir umas às outras.
+P: Incomunicabilidade
+K: testemunhas; incomunicabilidade
+
+@CPPM 354
+I: A testemunha não pode se recusar a depor, salvo ascendente, descendente, afim em linha reta, cônjuge, irmão ou adotante e adotado do acusado, a menos que não haja outra prova.
+P: Dever de depor || Recusa de parentes
+K: testemunha; dever de depor; parentes

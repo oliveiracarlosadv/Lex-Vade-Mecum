@@ -1,0 +1,449 @@
+@CPPM 440
+I: Na condenação, o Conselho considera as circunstâncias do art. 69 do CPM, agravantes e atenuantes, fixa as penas principais e acessórias e aplica medidas de segurança.
+P: Dosimetria || Penas e medidas
+K: sentença condenatória; dosimetria; individualização da pena
+
+@CPPM 441
+I: Proclamado o resultado, o texto manda expedir mandado de prisão ao condenado ou alvará de soltura ao absolvido, e manter preso o absolvido por maioria em crime com pena de 20 anos ou mais se o MP apelar. Pela presunção de inocência (CF, art. 5º, LVII; ADCs 43, 44 e 54), a prisão antes do trânsito em julgado só cabe como medida cautelar fundamentada.
+P: Efeitos imediatos do julgamento || Presunção de inocência
+K: prisão; alvará de soltura; presunção de inocência
+
+@CPPM 442
+I: Havendo indícios de outro crime, o Conselho remete cópias ao MP competente.
+P: Notícia de outro crime
+K: Ministério Público; outro crime
+
+@CPPM 443
+I: Se não for lida na sessão, a sentença é lida pelo auditor em audiência pública em 8 dias, ficando intimados os presentes.
+P: Leitura da sentença
+K: sentença; intimação
+
+@CPPM 444
+I: O escrivão dá ciência da sentença ao MP em 3 dias.
+P: Intimação do MP
+K: Ministério Público; intimação
+
+@CPPM 445
+I: A condenação é intimada ao defensor dativo, ao réu preso pessoalmente e ao defensor constituído.
+P: Intimação da condenação
+K: intimação; sentença condenatória
+
+@CPPM 446
+I: O texto condiciona a intimação do réu solto ou revel à sua prisão. O condicionamento conflita com a presunção de inocência e com a jurisprudência que dispensa a prisão para recorrer (Súmula 347 do STJ).
+P: Intimação do réu solto ou revel || Leitura constitucional
+K: intimação; revel; Súmula 347 STJ
+
+@CPPM 447
+I: O escrivão certifica cada intimação com lugar, dia e hora.
+P: Certidão de intimação
+K: certidão; intimação
+
+@CPPM 448
+I: Lavra-se ata circunstanciada da sessão de julgamento, juntando-se cópia aos autos.
+P: Ata do julgamento
+K: ata
+
+@CPPM 449
+I: O texto prevê como efeitos da condenação recorrível a prisão e o lançamento no rol dos culpados. Esses efeitos são incompatíveis com a presunção de inocência (CF, art. 5º, LVII), que exige trânsito em julgado.
+P: Efeitos previstos || Presunção de inocência
+K: rol dos culpados; presunção de inocência
+
+@CPPM 450
+I: Aplicam-se à sessão de julgamento as regras de polícia das sessões e de revelia.
+P: Remissão
+K: sessão de julgamento; revelia
+
+@CPPM 451
+I: Consumada a deserção, o comandante lavra imediatamente o termo de deserção com duas testemunhas; a contagem começa à zero hora do dia seguinte à falta; na deserção especial, o termo também é imediato.
+P: Termo de deserção || Contagem do prazo
+K: deserção; termo de deserção; Lei 8.236/1991
+
+@CPPM 452
+I: O termo de deserção é instrução provisória para a ação penal e sujeita o desertor à prisão.
+P: Natureza do termo || Prisão do desertor
+K: termo de deserção; instrução provisória
+
+@CPPM 453
+I: O desertor não julgado em 60 dias da apresentação ou captura é solto, salvo se deu causa à demora.
+P: Prazo de 60 dias
+K: deserção; excesso de prazo
+
+@CPPM 454
+I: Na deserção de oficial, o termo é publicado em boletim; o oficial fica agregado; os documentos vão à Auditoria e o MP pode denunciar; recebida a denúncia, aguarda-se a captura ou apresentação.
+P: Termo e agregação do oficial || Denúncia
+K: deserção de oficial; agregação
+
+@CPPM 455
+I: Apresentado ou capturado o oficial, sorteia-se o Conselho Especial, cita-se o acusado e seguem interrogatório, oitiva de testemunhas e debates de 30 minutos, com réplica e tréplica.
+P: Rito sumário da deserção de oficial
+K: deserção; Conselho Especial; rito
+
+@CPPM 456
+I: Em 24 horas de ausência da praça, o comandante manda inventariar o material da Fazenda deixado ou extraviado, com duas testemunhas.
+P: Inventário
+K: deserção de praça; inventário
+
+@CPPM 457
+I: Na deserção de praça, o desertor sem estabilidade passa por inspeção de saúde; se apto, é reincluído e o MP pode denunciar; se incapaz, o processo é arquivado; o julgamento é pelo Conselho Permanente em rito sumário.
+P: Inspeção de saúde || Reinclusão como condição || Rito
+K: deserção de praça; reinclusão; condição de procedibilidade
+
+@CPPM 458
+I: Revogado pela Lei 8.236/1991.
+P: Dispositivo revogado
+K: revogação; Lei 8.236/1991
+
+@CPPM 459
+I: Revogado pela Lei 8.236/1991.
+P: Dispositivo revogado
+K: revogação; Lei 8.236/1991
+
+@CPPM 460
+I: Revogado pela Lei 8.236/1991, assim como o capítulo sobre deserção na Marinha e na Aeronáutica.
+P: Dispositivo revogado
+K: revogação; Lei 8.236/1991
+
+@CPPM 461
+I: Revogado pela Lei 8.236/1991.
+P: Dispositivo revogado
+K: revogação; Lei 8.236/1991
+
+@CPPM 462
+I: Revogado pela Lei 8.236/1991.
+P: Dispositivo revogado
+K: revogação; Lei 8.236/1991
+
+@CPPM 463
+I: Consumada a insubmissão, o comandante lavra termo com qualificação do insubmisso, que vale como instrução provisória e autoriza a captura para incorporação; os autos vão à Auditoria e aguardam a apresentação.
+P: Termo de insubmissão || Natureza
+K: insubmissão; termo; captura
+
+@CPPM 464
+I: O insubmisso apresentado ou capturado fica no quartel por menagem e passa por inspeção de saúde; se incapaz, fica isento; incluído, o MP pode denunciar; não julgado em 60 dias sem culpa sua, é solto.
+P: Menagem e inspeção || Inclusão || Prazo de 60 dias
+K: insubmissão; inspeção de saúde; menagem
+
+@CPPM 465
+I: O processo de insubmissão segue o rito da deserção de praça.
+P: Remissão
+K: insubmissão; rito
+
+@CPPM 466
+I: Cabe habeas corpus contra violência ou coação ilegal à liberdade de locomoção, exceto em punições disciplinares, prisão administrativa, estado de sítio e casos constitucionais. Quanto às punições disciplinares, o STF admite o HC para exame de legalidade, não do mérito (CF, art. 142, § 2º).
+P: Cabimento || Exceções || Punição disciplinar
+K: habeas corpus; transgressão disciplinar; CF art. 142 § 2º
+
+@CPPM 467
+I: Há ilegalidade ou abuso quando falta competência, formalidade ou justa causa, a prisão excede a lei ou o motivo cessou, o fato não é crime, a punibilidade está extinta ou o processo é nulo.
+P: Hipóteses de coação ilegal
+K: habeas corpus; justa causa; nulidade
+
+@CPPM 468
+I: Cabe HC mesmo após a condenação se o fato for atípico, houver prescrição, nulidade manifesta ou juiz incompetente.
+P: HC após condenação
+K: habeas corpus; prescrição; incompetência
+
+@CPPM 469
+I: O STM julga o habeas corpus.
+P: Competência
+K: habeas corpus; STM
+
+@CPPM 470
+I: Qualquer pessoa ou o MP pode impetrar HC, que pode ser concedido de ofício; é rejeitado se o paciente se opuser; o § 2º foi revogado.
+P: Legitimidade || HC de ofício
+K: habeas corpus; impetrante; de ofício
+
+@CPPM 471
+I: A petição indica paciente e coator, a espécie de constrangimento e a assinatura do impetrante.
+P: Requisitos da petição
+K: habeas corpus; petição
+
+@CPPM 472
+I: O relator requisita informações ao coator, que as presta em 5 dias, indicando a autoridade superior se for o caso.
+P: Informações
+K: habeas corpus; informações
+
+@CPPM 473
+I: Com as informações, o relator leva o HC a julgamento sem demora, conforme o regimento.
+P: Julgamento
+K: habeas corpus; julgamento
+
+@CPPM 474
+I: O relator ou o Tribunal pode determinar diligências e a apresentação do paciente.
+P: Diligências
+K: habeas corpus; diligências
+
+@CPPM 475
+I: O detentor deve apresentar o preso, salvo doença ou não tê-lo sob guarda; o relator pode ir ao local.
+P: Apresentação do preso
+K: habeas corpus; apresentação
+
+@CPPM 476
+I: A concessão do HC não encerra o processo, se compatível com seus fundamentos.
+P: Prosseguimento
+K: habeas corpus; efeitos
+
+@CPPM 477
+I: Concedido por nulidade, o processo é renovado, salvo se evidente a inexistência de crime.
+P: Renovação do processo
+K: habeas corpus; nulidade
+
+@CPPM 478
+I: As decisões de HC são lançadas em forma de sentença, e as ordens são expedidas em nome do presidente.
+P: Forma da decisão
+K: habeas corpus; decisão
+
+@CPPM 479
+I: No HC preventivo, concede-se salvo-conduto.
+P: Salvo-conduto
+K: habeas corpus preventivo; salvo-conduto
+
+@CPPM 480
+I: Quem embaraçar o HC ou desrespeitar salvo-conduto responde por desobediência a decisão judicial.
+P: Responsabilidade do coator
+K: habeas corpus; desobediência
+
+@CPPM 481
+I: Autos extraviados ou destruídos são restaurados; cópia autêntica vale como original e, na falta, o juiz convoca as partes.
+P: Restauração de autos
+K: restauração de autos
+
+@CPPM 482
+I: As partes são ouvidas e registram-se em termo os pontos de acordo e as cópias conferidas.
+P: Audiência das partes
+K: restauração; termo
+
+@CPPM 483
+I: Na restauração, reinquirem-se testemunhas, repetem-se perícias e reproduzem-se documentos.
+P: Instrução da restauração
+K: restauração; provas
+
+@CPPM 484
+I: As diligências terminam em 40 dias, e o juiz pode requisitar esclarecimentos.
+P: Prazo
+K: restauração; prazo de 40 dias
+
+@CPPM 485
+I: Julgada a restauração, os autos valem como originais; reaparecendo os originais, o processo segue neles.
+P: Eficácia || Reaparecimento dos originais
+K: restauração; autos originais
+
+@CPPM 486
+I: A condenação em execução continua produzindo efeitos durante a restauração, se houver guia ou registro.
+P: Execução durante a restauração
+K: execução penal; restauração
+
+@CPPM 487
+I: No STM, a restauração cabe ao relator ou a ministro sorteado.
+P: Restauração no STM
+K: STM; restauração
+
+@CPPM 488
+I: Quem causar o extravio responde criminalmente (CPM, art. 352).
+P: Responsabilidade criminal
+K: extravio de autos; CPM
+
+@CPPM 489
+I: Nos crimes de competência originária do STM, a denúncia é apresentada ao presidente para designar relator.
+P: Competência originária
+K: STM; competência originária; denúncia
+
+@CPPM 490
+I: O relator, ministro togado sorteado, é o juiz instrutor.
+P: Relator instrutor
+K: STM; relator; instrução
+
+@CPPM 491
+I: Cabe recurso do despacho do relator que rejeita a denúncia, decreta preventiva, extingue a ação, declara incompetência ou decide sobre menagem.
+P: Recurso contra o relator
+K: STM; agravo; relator
+
+@CPPM 492
+I: Recebida a denúncia, o relator manda citar o acusado e intimar as testemunhas.
+P: Citação
+K: STM; citação
+
+@CPPM 493
+I: No STM, o MP é exercido pelo procurador-geral, e servidores da Secretaria atuam como escrivão e oficial de justiça.
+P: Funções auxiliares
+K: STM; procurador-geral
+
+@CPPM 494
+I: A instrução segue o rito do Conselho de Justiça, com o ministro instrutor em seu lugar.
+P: Rito
+K: STM; instrução
+
+@CPPM 495
+I: Após as alegações, o relator saneia irregularidades e determina diligências.
+P: Saneamento
+K: STM; despacho saneador
+
+@CPPM 496
+I: O julgamento é no Plenário: relatório, sustentações de até 2 horas com réplica e tréplica de 1 hora, deliberação secreta e resultado público; o réu solto ausente é julgado à revelia.
+P: Julgamento no Plenário || Debates || Revelia
+K: STM; julgamento; sessão plenária
+
+@CPPM 497
+I: Das decisões definitivas do STM cabem embargos em 5 dias; o revel só embarga se apresentar-se à prisão. Este último condicionamento conflita com a jurisprudência que dispensa a prisão para recorrer.
+P: Embargos || Condicionamento à prisão
+K: embargos; STM; prazo de 5 dias
+
+@CPPM 498
+I: O STM faz correição parcial, a pedido das partes, contra erro, omissão, abuso ou ato tumultuário do juiz sem recurso próprio, em 5 dias; a alínea b, sobre representação do corregedor, foi suspensa pela Resolução 27/1996 do Senado.
+P: Correição parcial || Prazo
+K: correição parcial; ato tumultuário
+
+@CPPM 499
+I: Não há nulidade sem prejuízo para a acusação ou a defesa.
+P: Pas de nullité sans grief
+K: nulidade; prejuízo
+
+@CPPM 500
+I: Há nulidade por incompetência, suspeição ou suborno do juiz, ilegitimidade de parte, falta de atos essenciais (denúncia, corpo de delito, citação, interrogatório, defensor, intervenção do MP, sorteio do Conselho, intimações) ou de formalidade essencial.
+P: Rol de nulidades
+K: nulidades; atos essenciais
+
+@CPPM 501
+I: A parte não pode arguir nulidade que causou ou que só interessa à outra parte.
+P: Vedação de arguir a própria nulidade
+K: nulidade; boa-fé processual
+
+@CPPM 502
+I: Não se declara nulidade de ato que não influiu na verdade ou na decisão.
+P: Ausência de influência
+K: nulidade; instrumentalidade
+
+@CPPM 503
+I: O comparecimento do interessado supre a falta ou nulidade da citação ou intimação, podendo o ato ser adiado.
+P: Sanação pelo comparecimento
+K: citação; nulidade; sanação
+
+@CPPM 504
+I: Nulidades da instrução são arguidas nas alegações escritas; as posteriores, no julgamento ou recurso; a incompetência pode ser declarada a qualquer tempo.
+P: Momento da arguição
+K: nulidade; preclusão; incompetência
+
+@CPPM 505
+I: O silêncio da parte sana a nulidade de formalidade de seu exclusivo interesse.
+P: Convalidação pelo silêncio
+K: nulidade relativa; preclusão
+
+@CPPM 506
+I: Atos nulos são renovados ou retificados, e a nulidade contamina os atos subsequentes indicados na decisão.
+P: Renovação || Nulidade derivada
+K: nulidade; contaminação
+
+@CPPM 507
+I: Atos instrutórios feitos em juízo incompetente são revalidados por termo no competente.
+P: Revalidação
+K: incompetência; revalidação
+
+@CPPM 508
+I: A incompetência anula só os atos decisórios, remetendo-se o processo ao juiz competente.
+P: Alcance da incompetência
+K: incompetência; atos decisórios
+
+@CPPM 509
+I: Juiz impedido ou suspeito no Conselho só anula a sentença se o voto dele formou a maioria.
+P: Voto decisivo
+K: Conselho de Justiça; impedimento; nulidade
+
+@CPPM 510
+I: Contra decisões do Conselho ou do auditor cabem recurso em sentido estrito e apelação.
+P: Recursos cabíveis
+K: recursos; RESE; apelação
+
+@CPPM 511
+I: Recorrem o MP e o réu ou seu defensor, desde que tenham interesse.
+P: Legitimidade e interesse
+K: recurso; interesse recursal
+
+@CPPM 512
+I: O MP não pode desistir de recurso interposto.
+P: Indisponibilidade
+K: Ministério Público; desistência
+
+@CPPM 513
+I: O recurso é interposto por petição entregue ao escrivão até o dia seguinte ao fim do prazo, que a junta e faz conclusa.
+P: Interposição
+K: recurso; petição
+
+@CPPM 514
+I: Salvo má-fé, a parte não se prejudica por interpor um recurso por outro, que é processado pelo rito correto.
+P: Fungibilidade
+K: fungibilidade recursal
+
+@CPPM 515
+I: No concurso de agentes, o recurso de um aproveita aos demais, salvo motivo exclusivamente pessoal.
+P: Efeito extensivo
+K: efeito extensivo; concurso de agentes
+
+@CPPM 516
+I: O recurso em sentido estrito cabe contra decisões que rejeitam denúncia, declaram incompetência, decidem exceções, preventiva, menagem, prescrição, livramento e sursis, anulam o processo, unificam penas, decidem medida de segurança ou não recebem apelação, entre outras; em regra não tem efeito suspensivo.
+P: Hipóteses de RESE || Efeito suspensivo
+K: recurso em sentido estrito; rol taxativo
+
+@CPPM 517
+I: Certos recursos em sentido estrito sobem nos próprios autos.
+P: Subida nos autos
+K: RESE; processamento
+
+@CPPM 518
+I: O RESE é interposto em 3 dias da intimação ou leitura, indicando peças para traslado.
+P: Prazo de 3 dias
+K: RESE; prazo; traslado
+
+@CPPM 519
+I: As razões são oferecidas em 5 dias, seguidas das contrarrazões; o réu recorrido é intimado na pessoa do defensor.
+P: Razões e contrarrazões
+K: RESE; razões
+
+@CPPM 520
+I: Em 5 dias, o auditor ou o Conselho pode reformar a decisão (juízo de retratação) ou mantê-la; reformada, a parte prejudicada pode recorrer.
+P: Juízo de retratação
+K: RESE; retratação
+
+@CPPM 521
+I: O auditor pode prorrogar até o dobro o prazo do traslado.
+P: Prorrogação
+K: traslado; prazo
+
+@CPPM 522
+I: O recurso é remetido ao Tribunal em 5 dias da sustentação.
+P: Remessa
+K: RESE; remessa
+
+@CPPM 523
+I: No STM, o procurador-geral tem 8 dias de vista e o relator pauta o recurso em até duas sessões.
+P: Processamento no STM
+K: RESE; procurador-geral
+
+@CPPM 524
+I: No julgamento, após o relatório, as partes falam por 10 minutos e o Tribunal decide.
+P: Julgamento do RESE
+K: RESE; sustentação oral
+
+@CPPM 525
+I: Publicado o acórdão, os autos baixam para cumprimento.
+P: Baixa dos autos
+K: acórdão; baixa
+
+@CPPM 526
+I: Cabe apelação da sentença definitiva de condenação ou absolvição e das definitivas não sujeitas a RESE; se cabível apelação, não se usa RESE.
+P: Cabimento || Unirrecorribilidade
+K: apelação; unirrecorribilidade
+
+@CPPM 527
+I: O texto exige que o réu se recolha à prisão para apelar, salvo se primário e de bons antecedentes. A exigência é incompatível com a ampla defesa e a presunção de inocência; o conhecimento da apelação independe da prisão (Súmula 347 do STJ).
+P: Exigência do texto || Leitura constitucional
+K: apelação; recolhimento à prisão; Súmula 347 STJ
+
+@CPPM 528
+I: O texto sobrestá a apelação se o réu fugir. A regra equivalente do CPP (art. 595) foi revogada pela Lei 12.403/2011, e a jurisprudência não admite que a fuga impeça o julgamento do recurso.
+P: Sobrestamento || Leitura jurisprudencial
+K: apelação; fuga; deserção do recurso
+
+@CPPM 529
+I: A apelação é interposta por petição em 5 dias da intimação ou leitura; o texto condiciona a intimação do réu solto ou revel ao recolhimento e susta a apelação do MP nesse caso.
+P: Prazo de 5 dias || Réu solto ou revel
+K: apelação; prazo; intimação

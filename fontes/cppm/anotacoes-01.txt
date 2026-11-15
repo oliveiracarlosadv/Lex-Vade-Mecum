@@ -1,0 +1,299 @@
+@CPPM 1
+I: O processo penal militar segue o CPPM em tempo de paz e de guerra, salvo legislação especial aplicável. Havendo divergência com tratado ou convenção de que o Brasil seja parte, prevalece a norma internacional, e o CPPM se aplica subsidiariamente às leis especiais.
+P: Fonte principal do processo penal militar || Prevalência dos tratados || Aplicação subsidiária
+K: processo penal militar; fontes; tratados
+
+@CPPM 2
+I: A lei processual penal militar interpreta-se, em regra, literalmente, com termos técnicos em sentido técnico. Admite-se interpretação extensiva ou restritiva quando a intenção da lei for manifesta, salvo se cercear a defesa, alterar o curso do processo ou desfigurar a acusação.
+P: Interpretação literal como regra || Limites da interpretação extensiva ou restritiva || Proteção da defesa
+K: interpretação; hermenêutica; defesa
+
+@CPPM 3
+I: Os casos omissos são supridos pelo processo penal comum (sem prejuízo da índole militar), pela jurisprudência, pelos usos e costumes militares, pelos princípios gerais do Direito e pela analogia.
+P: Integração das lacunas || Aplicação subsidiária do CPP
+K: casos omissos; analogia; CPP subsidiário
+
+@CPPM 4
+I: Ressalvados tratados, o CPPM aplica-se em tempo de paz em todo o território nacional, a crimes contra as instituições militares ou a segurança nacional fora do país, em áreas sob administração de força brasileira, e a bordo de navios e aeronaves sob comando militar. Em tempo de guerra, também em zonas de operações e território ocupado.
+P: Aplicação no espaço em tempo de paz || Extraterritorialidade || Tempo de guerra
+K: aplicação no espaço; extraterritorialidade; tempo de guerra
+
+@CPPM 5
+I: O CPPM tem aplicação imediata, inclusive aos processos pendentes, preservada a validade dos atos praticados sob a lei anterior (tempus regit actum).
+P: Aplicação imediata da lei processual || Validade dos atos anteriores
+K: lei processual no tempo; tempus regit actum
+
+@CPPM 6
+I: O CPPM aplica-se à Justiça Militar Estadual nos crimes militares de policiais e bombeiros militares, salvo quanto à organização judiciária, aos recursos e à execução da sentença.
+P: Aplicação à Justiça Militar Estadual || Exceções
+K: Justiça Militar Estadual; polícia militar; bombeiros militares
+
+@CPPM 7
+I: A polícia judiciária militar é exercida pelas autoridades militares listadas (hoje Comandantes das Forças, comandantes de região, distrito e zona, diretores e comandantes de unidades), podendo ser delegada a oficial da ativa de posto superior ao do indiciado ou, não sendo possível, do mesmo posto e mais antigo.
+P: Autoridades de polícia judiciária militar || Delegação a oficial de posto superior || Regras de antiguidade
+K: polícia judiciária militar; delegação; hierarquia
+
+@CPPM 8
+I: Cabe à polícia judiciária militar apurar crimes militares e sua autoria, prestar informações e cumprir diligências e mandados da Justiça Militar, representar por prisão preventiva e insanidade mental, requisitar exames e atender pedidos legais de apresentação de militares.
+P: Atribuições da polícia judiciária militar
+K: polícia judiciária militar; apuração; diligências
+
+@CPPM 9
+I: O inquérito policial militar (IPM) é a apuração sumária do fato e da autoria, de caráter provisório, para fundamentar a ação penal. Exames, perícias e avaliações feitos regularmente no IPM têm valor instrutório no processo.
+P: Natureza e finalidade do IPM || Valor das perícias
+K: inquérito policial militar; IPM; perícias
+
+@CPPM 10
+I: O IPM é instaurado por portaria, de ofício pela autoridade militar, por delegação, por requisição do MP, por decisão do STM ou a requerimento do ofendido.
+P: Formas de instauração do IPM
+K: IPM; portaria; requisição do Ministério Público
+
+@CPPM 11
+I: O encarregado designa o escrivão do IPM, que será oficial subalterno se o indiciado for oficial, ou sargento, subtenente ou suboficial nos demais casos, e presta compromisso de sigilo.
+P: Designação do escrivão || Compromisso de sigilo
+K: escrivão; IPM
+
+@CPPM 12
+I: Conhecida a infração, a autoridade deve, se possível, ir ao local preservando-o, apreender instrumentos e objetos, prender o infrator nos casos legais e colher provas.
+P: Medidas preliminares
+K: local do crime; apreensão; prisão em flagrante
+
+@CPPM 13
+I: O encarregado do IPM deve ouvir ofendido, indiciado e testemunhas, fazer reconhecimentos, acareações, exames, perícias, avaliações e buscas, proteger testemunhas e peritos e pode fazer reconstituição, se não ofender a moralidade, a ordem, a hierarquia ou a disciplina.
+P: Diligências do encarregado || Reconstituição dos fatos
+K: IPM; diligências; reconstituição
+
+@CPPM 14
+I: Em fato de excepcional importância ou difícil elucidação, o encarregado pode pedir ao procurador-geral a designação de procurador para assisti-lo.
+P: Assistência do Ministério Público no IPM
+K: IPM; Ministério Público Militar
+
+@CPPM 15
+I: O encarregado do IPM deve ser, sempre que possível, oficial no mínimo capitão ou capitão-tenente, e oficial superior nos crimes contra a segurança nacional, respeitada a hierarquia do indiciado.
+P: Requisitos do encarregado
+K: encarregado do IPM; hierarquia
+
+@CPPM 16
+I: O IPM é sigiloso, mas o encarregado pode permitir que o advogado do indiciado o conheça. Hoje vale a Súmula Vinculante 14 do STF, que garante ao defensor acesso aos elementos já documentados.
+P: Sigilo do inquérito || Acesso do advogado (Súmula Vinculante 14)
+K: sigilo; IPM; Súmula Vinculante 14
+
+@CPPM 16-A
+I: Incluído pela Lei nº 13.964/2019, garante ao policial ou bombeiro militar investigado por uso de força letal no exercício da função o direito de constituir defensor. Ele é citado para isso em 48 horas; na omissão, a instituição indica defensor, preferencialmente da Defensoria Pública, às suas custas. Vale também para militares das Forças Armadas em missões de Garantia da Lei e da Ordem.
+P: Defesa técnica no IPM sobre uso da força letal || Prazos de 48 horas || Custeio pela instituição || Missões de GLO
+K: uso da força letal; defensor; Pacote Anticrime; GLO
+
+@CPPM 17
+I: O encarregado pode manter o indiciado preso incomunicável por até três dias. A regra é de difícil compatibilidade com a Constituição, que veda a incomunicabilidade do preso até no estado de defesa (art. 136, § 3º, IV) e assegura assistência de advogado e família (art. 5º, LXIII).
+P: Incomunicabilidade por até três dias || Tensão com a Constituição
+K: incomunicabilidade; preso; garantias constitucionais
+
+@CPPM 18
+I: O indiciado pode ficar detido sem flagrante durante o IPM por até 30 dias, prorrogáveis por 20, com comunicação ao juiz. A Constituição só admite prisão sem ordem judicial em flagrante ou em transgressão militar e crime propriamente militar definidos em lei (art. 5º, LXI). O encarregado pode pedir a prisão preventiva ou a menagem.
+P: Detenção para investigação || Limite constitucional (art. 5º, LXI) || Pedido de preventiva ou menagem
+K: detenção; IPM; crime propriamente militar; menagem
+
+@CPPM 19
+I: Testemunhas e indiciado são ouvidos de dia, das 7 às 18 horas, salvo urgência, com assentada de início e fim, no máximo quatro horas seguidas com meia hora de descanso.
+P: Horário das inquirições || Limite de quatro horas
+K: inquirição; testemunhas; horário
+
+@CPPM 20
+I: O IPM termina em 20 dias com indiciado preso e em 40 dias se solto, prorrogável por mais 20, e só excepcionalmente além disso; laudos atrasados são remetidos depois ao juiz.
+P: Prazo de 20 dias (preso) e 40 dias (solto) || Prorrogação de 20 dias
+K: prazo do IPM; prorrogação
+
+@CPPM 21
+I: As peças do IPM são reunidas em ordem cronológica, datilografadas, numeradas e rubricadas, com termo de juntada de cada documento.
+P: Formação dos autos
+K: IPM; autos; juntada
+
+@CPPM 22
+I: O IPM termina com relatório minucioso que conclui se há infração disciplinar ou indício de crime, opinando sobre a preventiva. A autoridade delegante homologa ou não a solução e pode avocar o inquérito para dar solução diferente.
+P: Relatório final || Solução e avocação
+K: relatório; IPM; solução
+
+@CPPM 23
+I: Os autos vão ao juiz-auditor da Circunscrição Judiciária Militar do local da infração, observada a especialização das Auditorias; os IPMs feitos no exterior vão à 1ª Auditoria da Capital Federal.
+P: Remessa à Auditoria competente
+K: Auditoria Militar; remessa; competência
+
+@CPPM 24
+I: A autoridade militar não pode arquivar o IPM, mesmo que conclua pela inexistência de crime; o arquivamento é decisão judicial a pedido do MP.
+P: Vedação de arquivamento pela autoridade militar
+K: arquivamento; IPM
+
+@CPPM 25
+I: O arquivamento não impede novo inquérito se surgirem novas provas, salvo coisa julgada ou extinção da punibilidade; o juiz envia os autos ao MP, que pode pedir novo arquivamento.
+P: Desarquivamento por novas provas
+K: arquivamento; novas provas; desarquivamento
+
+@CPPM 26
+I: Os autos só voltam à autoridade policial militar a pedido do MP para diligências imprescindíveis à denúncia ou por determinação do juiz antes dela, com prazo de até 20 dias.
+P: Devolução do IPM para diligências || Prazo de 20 dias
+K: diligências; devolução; IPM
+
+@CPPM 27
+I: O auto de prisão em flagrante, se suficiente, substitui o IPM, dispensando outras diligências salvo exame de corpo de delito, identificação e avaliação da coisa.
+P: Auto de flagrante como inquérito
+K: prisão em flagrante; IPM
+
+@CPPM 28
+I: O IPM pode ser dispensado quando o fato e a autoria estiverem provados por documentos, nos crimes contra a honra por escrito de autor identificado e nos crimes dos arts. 341 e 349 do CPM.
+P: Dispensa do inquérito
+K: dispensa do IPM; prova documental
+
+@CPPM 29
+I: A ação penal militar é pública e promovida pelo Ministério Público Militar por denúncia. A Constituição admite ação privada subsidiária se o MP não agir no prazo (art. 5º, LIX), hoje prevista também no CPM (art. 121).
+P: Ação penal pública || Ação privada subsidiária
+K: ação penal militar; denúncia; Ministério Público Militar
+
+@CPPM 30
+I: O MP deve oferecer denúncia sempre que houver prova de fato que, em tese, seja crime e indícios de autoria (obrigatoriedade).
+P: Princípio da obrigatoriedade
+K: denúncia; obrigatoriedade; justa causa
+
+@CPPM 31
+I: Nos crimes dos arts. 136 a 141 do CPM praticados por militar, a ação depende de requisição do Ministério (hoje Comando) ao procurador-geral da Justiça Militar; no art. 141, se o agente for civil sem coautor militar, a requisição é do Ministério da Justiça.
+P: Requisição nos crimes contra a segurança externa
+K: requisição; segurança externa; ação penal
+
+@CPPM 32
+I: Oferecida a denúncia, o Ministério Público não pode desistir da ação penal (indisponibilidade).
+P: Princípio da indisponibilidade
+K: indisponibilidade; ação penal
+
+@CPPM 33
+I: Qualquer pessoa pode levar ao MP informações sobre crime militar e autoria; se procedentes, o MP requisita diligências à autoridade policial militar.
+P: Notícia de crime ao MP
+K: representação; notícia de crime
+
+@CPPM 34
+I: O MP exerce o direito de ação como fiscal da lei, o acusado exerce a defesa e o juiz exerce a jurisdição em nome do Estado.
+P: Ação, defesa e jurisdição
+K: relação processual; jurisdição
+
+@CPPM 35
+I: O processo começa com o recebimento da denúncia, completa-se com a citação e termina quando a sentença definitiva se torna irrecorrível.
+P: Início e fim do processo
+K: relação processual; recebimento da denúncia; citação
+
+@CPPM 36
+I: O juiz garante a regularidade do processo e a ordem dos atos, podendo requisitar força militar, e só deve obediência, nos termos legais, à autoridade judiciária superior. "Juiz" abrange autoridades singulares e colegiadas.
+P: Poderes do juiz || Independência judicial
+K: juiz; independência; Conselho de Justiça
+
+@CPPM 37
+I: O juiz é impedido quando parente atuou no processo, quando ele próprio atuou em outra função ou como testemunha, quando julgou em outra instância ou quando ele ou parente é parte; os atos do juiz impedido são inexistentes.
+P: Hipóteses de impedimento || Atos inexistentes
+K: impedimento; imparcialidade
+
+@CPPM 38
+I: O juiz deve declarar-se suspeito, ou pode ser recusado, por amizade íntima ou inimizade, processos análogos, demandas com as partes, ter dado parte do crime, aconselhado as partes, interesse patrimonial ou vínculos com sociedade interessada.
+P: Hipóteses de suspeição
+K: suspeição; imparcialidade
+
+@CPPM 39
+I: A suspeição entre adotante e adotado segue a de ascendente e descendente, sem alcançar parentes, e cessa com a dissolução da adoção.
+P: Suspeição na adoção
+K: suspeição; adoção
+
+@CPPM 40
+I: O impedimento ou suspeição por afinidade cessa com a dissolução do casamento, salvo se houver descendentes; mesmo sem eles, o afim em primeiro grau na linha reta ou segundo na colateral não pode julgar.
+P: Suspeição por afinidade
+K: suspeição; afinidade
+
+@CPPM 41
+I: Não se reconhece a suspeição provocada pela parte que injuria o juiz ou cria de propósito o motivo.
+P: Suspeição provocada
+K: suspeição; má-fé processual
+
+@CPPM 42
+I: Os servidores da Justiça Militar são auxiliares do juiz no processo e devem cumprir suas determinações.
+P: Auxiliares da justiça
+K: serventuários; auxiliares do juiz
+
+@CPPM 43
+I: O escrivão mantém em ordem e em dia as peças e termos do processo.
+P: Função do escrivão
+K: escrivão
+
+@CPPM 44
+I: O oficial de justiça cumpre as diligências legais e ordenadas, certificando lugar, dia e hora, de dia (6 às 18 horas) e, se possível, com duas testemunhas.
+P: Diligências do oficial de justiça
+K: oficial de justiça; mandados
+
+@CPPM 45
+I: Impedido o servidor, o juiz convoca o substituto ou nomeia um ad hoc compromissado.
+P: Substituição de servidor
+K: nomeação ad hoc; substituto
+
+@CPPM 46
+I: Os servidores da justiça sujeitam-se às regras de impedimento e suspeição do juiz.
+P: Impedimento e suspeição de servidores
+K: suspeição; servidores
+
+@CPPM 47
+I: Peritos e intérpretes são nomeados pelo juiz, sem intervenção das partes.
+P: Nomeação de peritos
+K: peritos; intérpretes
+
+@CPPM 48
+I: Peritos e intérpretes são escolhidos preferencialmente entre oficiais da ativa da especialidade e prestam compromisso de responder fielmente aos quesitos.
+P: Preferência por oficiais || Compromisso
+K: peritos; oficiais
+
+@CPPM 49
+I: O encargo de perito ou intérprete é obrigatório, salvo motivo relevante aceito pelo juiz.
+P: Obrigatoriedade do encargo
+K: perito; encargo obrigatório
+
+@CPPM 50
+I: A recusa injustificada sujeita o perito a multa, aplicável também a quem não atende ao chamado, falta ao exame ou não entrega o laudo no prazo.
+P: Multa ao perito faltoso
+K: perito; multa
+
+@CPPM 51
+I: Se o perito faltar sem justa causa, o juiz pode determinar sua apresentação por meio da autoridade a que está subordinado.
+P: Condução do perito
+K: perito; comparecimento
+
+@CPPM 52
+I: Não podem ser peritos os interditados para função pública, quem já depôs ou opinou sobre o objeto, os sem habilitação ou idoneidade e os menores de 21 anos.
+P: Impedimentos dos peritos
+K: perito; impedimento
+
+@CPPM 53
+I: Aplicam-se aos peritos e intérpretes as regras de suspeição dos juízes.
+P: Suspeição de peritos
+K: perito; suspeição
+
+@CPPM 54
+I: O MP é o órgão de acusação, pelo procurador-geral no STM e pelos procuradores em primeira instância, e pode pedir a absolvição quando houver fundamento.
+P: MP como órgão de acusação || Pedido de absolvição
+K: Ministério Público Militar; acusação
+
+@CPPM 55
+I: O MP fiscaliza o cumprimento da lei penal militar, com atenção especial à hierarquia e à disciplina, bases das Forças Armadas.
+P: Fiscal da lei || Hierarquia e disciplina
+K: Ministério Público Militar; fiscal da lei
+
+@CPPM 56
+I: O MP atua com independência, só se sujeitando a decisões judiciais legítimas, e os procuradores se subordinam ao procurador-geral.
+P: Independência funcional || Subordinação administrativa ao procurador-geral
+K: Ministério Público; independência
+
+@CPPM 57
+I: O membro do MP é impedido quando parente atuou no processo, quando ele atuou em outra função ou quando ele ou parente é parte ou interessado.
+P: Impedimentos do MP
+K: Ministério Público; impedimento
+
+@CPPM 58
+I: Há suspeição do membro do MP por amizade ou inimizade, demandas, conselho ao acusado, tutela, crédito, herança ou vínculo societário com o acusado.
+P: Suspeição do MP
+K: Ministério Público; suspeição
+
+@CPPM 59
+I: Aplicam-se ao MP as regras de suspeição por adoção, afinidade e suspeição provocada.
+P: Regras complementares de suspeição
+K: Ministério Público; suspeição

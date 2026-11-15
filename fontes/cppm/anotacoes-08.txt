@@ -1,0 +1,489 @@
+@CPPM 530
+I: Só o MP e o réu ou seu defensor podem apelar.
+P: Legitimidade para apelar
+K: apelação; legitimidade
+
+@CPPM 531
+I: Recebida a apelação, apelante e apelado têm 10 dias cada para razões; o assistente, 3 dias após o MP; havendo vários, os prazos são comuns.
+P: Prazo das razões || Assistente
+K: apelação; razões; prazo de 10 dias
+
+@CPPM 532
+I: A apelação contra absolvição não impede a soltura imediata, salvo, pelo texto, absolvição não unânime em crime com reclusão máxima de 20 anos ou mais; essa exceção deve ser lida à luz da presunção de inocência.
+P: Soltura do absolvido || Exceção do texto
+K: apelação; absolvição; liberdade
+
+@CPPM 533
+I: A apelação da condenação tem efeito suspensivo, salvo as exceções dos arts. 272, 527 e 606.
+P: Efeito suspensivo
+K: apelação; efeito suspensivo
+
+@CPPM 534
+I: Findos os prazos, os autos sobem ao STM em 5 dias, mesmo que nem todos os réus tenham sido julgados.
+P: Remessa ao STM
+K: apelação; remessa
+
+@CPPM 535
+I: No STM, a apelação passa pelo procurador-geral, relator e revisor; há sustentação de 20 minutos; decide-se por maioria e, no empate, prevalece a decisão mais favorável ao réu; anulado o processo, há novo julgamento.
+P: Julgamento no STM || Empate favorável ao réu
+K: apelação; STM; empate; in dubio pro reo
+
+@CPPM 536
+I: Condenado o réu pelo Tribunal, comunica-se ao auditor para as medidas cabíveis; absolvido, pela via mais rápida, para soltura imediata.
+P: Comunicação do resultado
+K: acórdão; comunicação; soltura
+
+@CPPM 537
+I: A Secretaria remete cópia do acórdão condenatório ao auditor para intimar o réu e o defensor, devolvendo-se a certidão; o procurador-geral é intimado nos autos.
+P: Intimação do acórdão
+K: acórdão; intimação
+
+@CPPM 538
+I: O MP e o réu podem opor embargos de nulidade, infringentes e de declaração contra decisões finais do STM.
+P: Espécies de embargos
+K: embargos infringentes; embargos de nulidade; embargos de declaração
+
+@CPPM 539
+I: Não cabem embargos de acórdão unânime ou proferido em embargos, salvo os de declaração; na condenação unânime com divergência sobre classificação ou pena, cabem só na parte divergente.
+P: Exigência de divergência || Limite dos embargos
+K: embargos infringentes; voto vencido
+
+@CPPM 540
+I: Os embargos são opostos em 5 dias da intimação, por petição ao presidente, com novo relator, podendo ser apresentados antes da intimação.
+P: Prazo || Novo relator
+K: embargos; prazo de 5 dias
+
+@CPPM 541
+I: Embargos de nulidade ou infringentes vêm articulados na petição, com documentos.
+P: Forma
+K: embargos infringentes; petição
+
+@CPPM 542
+I: Os embargos de declaração apontam ambiguidade, obscuridade, contradição ou omissão e são julgados na sessão seguinte.
+P: Embargos de declaração
+K: embargos de declaração; omissão; contradição
+
+@CPPM 543
+I: Os embargos são apresentados na Secretaria do Tribunal ou na Auditoria da intimação, com vista em cartório.
+P: Local de apresentação
+K: embargos; protocolo
+
+@CPPM 544
+I: O auditor remete os embargos recebidos ao Tribunal, com a data e a intimação.
+P: Remessa
+K: embargos; remessa
+
+@CPPM 545
+I: Do despacho do relator que não recebe os embargos cabe pedido em 3 dias para que o Tribunal o reveja, sem voto do relator.
+P: Agravo contra o não recebimento
+K: embargos; agravo regimental
+
+@CPPM 546
+I: Recebidos, os embargos são juntados e conclusos ao relator.
+P: Juntada
+K: embargos
+
+@CPPM 547
+I: As partes têm 5 dias para impugnar ou sustentar os embargos.
+P: Impugnação
+K: embargos; contrarrazões
+
+@CPPM 548
+I: Os embargos são julgados pelo rito da apelação.
+P: Rito
+K: embargos; apelação
+
+@CPPM 549
+I: O texto exige recolhimento à prisão para opor embargos infringentes ou de nulidade, salvo nos casos do art. 527. A exigência conflita com a ampla defesa e a presunção de inocência, e a jurisprudência dispensa a prisão para recorrer.
+P: Exigência do texto || Leitura constitucional
+K: embargos; recolhimento à prisão; presunção de inocência
+
+@CPPM 550
+I: Cabe revisão de processo findo com erro quanto aos fatos, sua apreciação ou enquadramento.
+P: Cabimento da revisão
+K: revisão criminal; erro judiciário
+
+@CPPM 551
+I: A revisão cabe contra condenação contrária à evidência dos autos, fundada em prova falsa ou desmentida por prova nova.
+P: Hipóteses de revisão
+K: revisão criminal; prova nova; prova falsa
+
+@CPPM 552
+I: A revisão pode ser pedida a qualquer tempo, mas só pode ser reiterada com nova prova ou fundamento.
+P: Sem prazo || Reiteração
+K: revisão criminal; prazo
+
+@CPPM 553
+I: Podem pedir revisão o condenado, seu procurador e, se morto, cônjuge, ascendente, descendente ou irmão.
+P: Legitimidade
+K: revisão criminal; legitimidade
+
+@CPPM 554
+I: O STM julga a revisão dos processos findos na Justiça Militar.
+P: Competência
+K: revisão criminal; STM
+
+@CPPM 555
+I: O pedido vai ao presidente, é distribuído a relator e revisor (preferindo-se quem não atuou antes), com certidão do trânsito em julgado e provas; podem-se apensar os autos originais.
+P: Processamento || Instrução do pedido
+K: revisão criminal; trânsito em julgado
+
+@CPPM 556
+I: O procurador-geral tem vista do pedido de revisão.
+P: Oitiva do MP
+K: revisão; procurador-geral
+
+@CPPM 557
+I: O julgamento da revisão segue, no que couber, o da apelação.
+P: Rito
+K: revisão; julgamento
+
+@CPPM 558
+I: Procedente a revisão, o Tribunal pode absolver, reclassificar, alterar a pena ou anular o processo, mas nunca agravar a pena.
+P: Efeitos || Vedação de reformatio in pejus
+K: revisão criminal; reformatio in pejus
+
+@CPPM 559
+I: A absolvição em revisão restabelece todos os direitos perdidos, podendo impor medida de segurança.
+P: Restabelecimento de direitos
+K: revisão; absolvição
+
+@CPPM 560
+I: O auditor cumpre o acórdão que cassar ou modificar a decisão revista.
+P: Cumprimento
+K: revisão; cumprimento
+
+@CPPM 561
+I: Morrendo o condenado durante a revisão, nomeia-se curador para a defesa.
+P: Morte do requerente
+K: revisão; curador
+
+@CPPM 562
+I: Não cabe recurso da decisão em revisão, pelo texto do Código.
+P: Irrecorribilidade
+K: revisão criminal; irrecorribilidade
+
+@CPPM 563
+I: O texto prevê recurso ao STF contra decisões do STM em crimes contra a segurança nacional praticados por civis ou governadores, contra decisões denegatórias de HC e o extraordinário. As hipóteses hoje seguem a Constituição de 1988 (art. 102, II e III).
+P: Hipóteses do texto || Regime da CF/1988
+K: recurso ordinário; recurso extraordinário; STF
+
+@CPPM 564
+I: É ordinário o recurso do art. 563, alínea a.
+P: Recurso ordinário
+K: recurso ordinário
+
+@CPPM 565
+I: O recurso ordinário é interposto em 3 dias da intimação ou publicação do acórdão.
+P: Prazo
+K: recurso ordinário; prazo
+
+@CPPM 566
+I: Recorrente e recorrido têm 5 dias cada para razões, subindo os autos ao STF.
+P: Razões e subida
+K: recurso ordinário; razões
+
+@CPPM 567
+I: O regimento do STM complementa o processamento.
+P: Normas regimentais
+K: regimento interno; STM
+
+@CPPM 568
+I: Da denegação de HC cabe recurso ordinário, interposto nos próprios autos.
+P: Recurso ordinário em HC
+K: recurso ordinário; habeas corpus
+
+@CPPM 569
+I: Os autos sobem ao STF em 15 dias da intimação, com documentos e esclarecimentos.
+P: Subida ao STF
+K: recurso ordinário; habeas corpus; prazo
+
+@CPPM 570
+I: Cabe recurso extraordinário ao STF contra decisões do STM em última ou única instância, nos casos constitucionais.
+P: Recurso extraordinário
+K: recurso extraordinário; STF; CF art. 102 III
+
+@CPPM 571
+I: O texto prevê o RE em 10 dias; hoje o processamento segue o CPC e o prazo é de 15 dias.
+P: Prazo do RE
+K: recurso extraordinário; prazo
+
+@CPPM 572
+I: O RE é dirigido ao presidente do STM.
+P: Endereçamento
+K: recurso extraordinário; STM
+
+@CPPM 573
+I: Publica-se aviso do recebimento, e o recorrido pode impugnar o cabimento em 3 dias.
+P: Impugnação
+K: recurso extraordinário; contrarrazões
+
+@CPPM 574
+I: O presidente decide sobre o cabimento em 5 dias, sempre motivadamente.
+P: Juízo de admissibilidade
+K: recurso extraordinário; admissibilidade
+
+@CPPM 575
+I: Admitido o RE, recorrente e recorrido têm 10 dias para razões; se subir em traslado, levam-se as peças essenciais.
+P: Razões || Traslado
+K: recurso extraordinário; razões
+
+@CPPM 576
+I: O RE é deserto se o recorrente não apresentar razões no prazo.
+P: Deserção
+K: recurso extraordinário; deserção
+
+@CPPM 577
+I: Com as razões, os autos vão ao STF em 15 dias.
+P: Remessa ao STF
+K: recurso extraordinário; remessa
+
+@CPPM 578
+I: O recurso extraordinário não tem efeito suspensivo.
+P: Efeito devolutivo
+K: recurso extraordinário; efeito suspensivo
+
+@CPPM 579
+I: Da inadmissão do RE o texto prevê agravo de instrumento; hoje cabe agravo em recurso extraordinário (CPC, art. 1.042).
+P: Agravo da inadmissão
+K: agravo; recurso extraordinário; CPC art. 1.042
+
+@CPPM 580
+I: Também cabe agravo da decisão que, admitido o RE, impeça sua subida.
+P: Agravo contra obstáculo
+K: agravo; recurso extraordinário
+
+@CPPM 581
+I: O recorrente requer as peças do agravo em 48 horas da denegação.
+P: Peças do agravo
+K: agravo de instrumento; peças
+
+@CPPM 582
+I: A Secretaria entrega as peças em até 60 dias.
+P: Prazo de entrega
+K: agravo; peças
+
+@CPPM 583
+I: O regimento do STM complementa o processamento do agravo.
+P: Normas regimentais
+K: regimento interno; agravo
+
+@CPPM 584
+I: O STM pode admitir reclamação do procurador-geral ou da defesa para preservar sua competência ou a autoridade de seus julgados.
+P: Reclamação
+K: reclamação; competência; autoridade das decisões
+
+@CPPM 585
+I: Na reclamação, o Tribunal pode avocar o processo em que haja usurpação ou desrespeito, ou requisitar recurso retardado.
+P: Avocação || Requisição de autos
+K: reclamação; avocação
+
+@CPPM 586
+I: A reclamação é instruída com prova documental e distribuída ao relator do processo principal, que pede informações em 48 horas.
+P: Instrução || Distribuição
+K: reclamação; informações
+
+@CPPM 587
+I: A reclamação entra na primeira sessão após devolvida pelo relator, e a decisão é cumprida de imediato.
+P: Julgamento || Cumprimento imediato
+K: reclamação; julgamento
+
+@CPPM 588
+I: A execução cabe ao auditor do processo ou, na competência originária, ao presidente do STM.
+P: Juízo da execução
+K: execução penal; competência
+
+@CPPM 589
+I: O tempo de prisão provisória é descontado da pena, salvo menagem em residência ou cidade.
+P: Detração
+K: detração; prisão provisória
+
+@CPPM 590
+I: Os incidentes da execução são decididos pelo auditor ou pelo presidente do STM.
+P: Incidentes
+K: execução; incidentes
+
+@CPPM 591
+I: Na apelação só do réu, se a prisão já igualar a pena, o relator o solta de imediato.
+P: Soltura pelo relator
+K: apelação; pena cumprida
+
+@CPPM 592
+I: A sentença só é executável após o trânsito em julgado.
+P: Trânsito em julgado
+K: execução penal; trânsito em julgado; presunção de inocência
+
+@CPPM 593
+I: Transitada a condenação, comunica-se à autoridade a que o réu está subordinado.
+P: Comunicação
+K: execução; comunicação
+
+@CPPM 594
+I: Transitada a condenação privativa de liberdade, expede-se carta de guia.
+P: Carta de guia
+K: carta de guia; execução
+
+@CPPM 595
+I: A guia vai à unidade militar se a pena do militar não passar de 2 anos, ou à penitenciária se superior ou se o condenado for civil.
+P: Destino da guia
+K: carta de guia; estabelecimento penal
+
+@CPPM 596
+I: A guia contém identificação do condenado, início e término da pena e teor da sentença.
+P: Conteúdo
+K: carta de guia
+
+@CPPM 597
+I: Se o réu cumpre outra pena, a nova é executada depois, retificando-se a guia quando preciso.
+P: Execução sucessiva
+K: carta de guia; penas sucessivas
+
+@CPPM 598
+I: Se a pena for em estabelecimento civil, envia-se cópia da guia ao Conselho Penitenciário.
+P: Conselho Penitenciário
+K: Conselho Penitenciário
+
+@CPPM 599
+I: Em penas cumulativas, executa-se primeiro a reclusão, depois a detenção.
+P: Ordem de execução
+K: reclusão; detenção
+
+@CPPM 600
+I: Sobrevindo doença mental, o condenado é internado em estabelecimento adequado (hoje hospital de custódia), podendo a remoção urgente ser feita pela autoridade.
+P: Doença mental superveniente
+K: doença mental; internação
+
+@CPPM 601
+I: Fuga, soltura ou óbito do condenado são comunicados de imediato ao auditor.
+P: Comunicações
+K: fuga; óbito
+
+@CPPM 602
+I: A recaptura do foragido independe de ordem judicial.
+P: Recaptura
+K: recaptura; evasão
+
+@CPPM 603
+I: Cumprida ou extinta a pena, o condenado é solto por alvará, salvo outro motivo, ou vai para medida de segurança detentiva.
+P: Alvará de soltura
+K: extinção da pena; alvará
+
+@CPPM 604
+I: O auditor comunica à administração as penas de reforma, suspensão ou perda do posto e exclusão, e as acessórias constam dos antecedentes.
+P: Comunicação de penas não privativas
+K: reforma; perda do posto; penas acessórias
+
+@CPPM 605
+I: O auditor comunica também o término das interdições temporárias.
+P: Término das interdições
+K: interdição temporária
+
+@CPPM 606
+I: O Conselho, o auditor ou o Tribunal pode suspender por 2 a 6 anos pena de até 2 anos, se o réu não tiver condenação anterior e o histórico indicar que não voltará a delinquir; não alcança reforma, suspensão, penas acessórias nem medida não detentiva.
+P: Requisitos do sursis || Período de prova
+K: suspensão condicional da pena; sursis
+
+@CPPM 607
+I: Na condenação de até 2 anos, o juízo deve se pronunciar motivadamente sobre o sursis.
+P: Pronunciamento obrigatório
+K: sursis; fundamentação
+
+@CPPM 608
+I: A sentença fixa condições adequadas ao réu, como estudo, serviços à comunidade, encargos de família e tratamento, e o prazo corre da audiência admonitória.
+P: Condições || Início do prazo
+K: sursis; condições; audiência admonitória
+
+@CPPM 609
+I: Na coautoria, o sursis pode ser concedido a uns e negado a outros.
+P: Individualização
+K: sursis; coautoria
+
+@CPPM 610
+I: Em audiência, o auditor lê a sentença ao réu e o adverte das consequências.
+P: Audiência admonitória
+K: sursis; advertência
+
+@CPPM 611
+I: Concedido pelo Tribunal, este fixa as condições e designa quem presidirá a audiência.
+P: Sursis concedido pelo Tribunal
+K: sursis; STM
+
+@CPPM 612
+I: Se o réu não comparecer à audiência, o sursis fica sem efeito, salvo justo impedimento.
+P: Ausência do réu
+K: sursis; audiência
+
+@CPPM 613
+I: O sursis fica sem efeito se recurso do MP aumentar a pena além do limite.
+P: Aumento da pena em recurso
+K: sursis; recurso do MP
+
+@CPPM 614
+I: O sursis é revogado por nova condenação definitiva a pena privativa, falta de reparação do dano ou punição grave do militar; pode ser revogado por descumprimento de condições, e o juiz pode advertir, agravar condições ou prorrogar.
+P: Revogação obrigatória || Revogação facultativa
+K: sursis; revogação
+
+@CPPM 615
+I: Expirado o prazo sem revogação, declara-se extinta a pena.
+P: Extinção da pena
+K: sursis; extinção
+
+@CPPM 616
+I: A condenação com sursis é registrada em livro especial, secreto salvo para requisições judiciais.
+P: Registro sigiloso
+K: sursis; registro; sigilo
+
+@CPPM 617
+I: Não cabe sursis em tempo de guerra nem, em tempo de paz, nos crimes contra a segurança nacional, de violência contra superior, desrespeito, insubordinação, insubmissão, deserção e outros listados.
+P: Crimes excluídos
+K: sursis; vedação; deserção
+
+@CPPM 618
+I: O condenado a 2 anos ou mais pode obter livramento após cumprir metade (primário) ou dois terços (reincidente), reparado o dano e com bom comportamento; o prazo cai a um terço para primário menor de 21 ou maior de 70 anos.
+P: Requisitos do livramento || Redução de prazo
+K: livramento condicional; requisitos
+
+@CPPM 619
+I: O livramento pode ser pedido pelo condenado, família, diretor do presídio ou Conselho Penitenciário, e decidido fundamentadamente, ouvidos MP e Conselho.
+P: Legitimados || Oitivas obrigatórias
+K: livramento condicional; Conselho Penitenciário
+
+@CPPM 620
+I: O Conselho Penitenciário verifica as condições, mas seu parecer não vincula o juiz.
+P: Parecer não vinculante
+K: Conselho Penitenciário; parecer
+
+@CPPM 621
+I: O diretor do presídio envia em 20 dias relatório sobre caráter, trabalho e situação do condenado.
+P: Relatório do diretor
+K: livramento; relatório carcerário
+
+@CPPM 622
+I: Com medida de segurança detentiva, o livramento exige exame da cessação da periculosidade.
+P: Cessação da periculosidade
+K: livramento; medida de segurança
+
+@CPPM 623
+I: O Conselho Penitenciário envia a petição ao juízo com parecer e relatório, podendo requisitar os autos.
+P: Encaminhamento
+K: livramento; Conselho Penitenciário
+
+@CPPM 624
+I: Faltando requisito do art. 618, o pedido é indeferido de plano.
+P: Indeferimento liminar
+K: livramento; indeferimento
+
+@CPPM 625
+I: Deferido o livramento, a decisão especifica as condições.
+P: Condições
+K: livramento condicional
+
+@CPPM 626
+I: São obrigatórios trabalhar, não sair da jurisdição sem autorização, não portar armas, não frequentar bares e jogos e avisar mudança de endereço.
+P: Condições obrigatórias
+K: livramento condicional; condições
+
+@CPPM 627
+I: Se o liberado morar fora da jurisdição, envia-se cópia da sentença ao juízo do novo local ou ao patronato, e a vigilância cabe à polícia na falta deste.
+P: Residência fora da jurisdição
+K: livramento; patronato; vigilância

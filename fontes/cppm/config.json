@@ -1,0 +1,16 @@
+{
+ "nome": "Código de Processo Penal Militar — CPPM (Decreto-Lei nº 1.002/1969)",
+ "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del1002.htm",
+ "saida": "leis/cppm/cppm-completa.md",
+ "minimo_artigos": 700,
+ "descartar_vigencia_encerrada": true,
+ "parts": [
+  {
+   "id": "CPPM",
+   "start": "LIVRO I",
+   "end": "Brasília, 21 de outubro de 1969",
+   "self_name": "deste Código",
+   "rubricas": true
+  }
+ ]
+}
