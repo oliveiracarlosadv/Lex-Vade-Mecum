@@ -1,0 +1,324 @@
+@CPPM 60
+I: O ofendido, seu representante legal ou sucessor podem atuar como assistentes do Ministério Público; representante é o ascendente, descendente, tutor ou curador do menor ou incapaz, e sucessor é o ascendente, descendente ou irmão, nessa ordem.
+P: Legitimados à assistência || Ordem dos sucessores
+K: assistente de acusação; ofendido
+
+@CPPM 61
+I: O juiz decide sobre a admissão do assistente, ouvido o Ministério Público.
+P: Admissão do assistente
+K: assistente de acusação; admissão
+
+@CPPM 62
+I: O assistente pode ser admitido até o trânsito em julgado e recebe o processo no estado em que estiver.
+P: Momento da admissão
+K: assistente de acusação
+
+@CPPM 63
+I: O advogado da Justiça Militar pode ser assistente se não atuar no processo nessa função nem como defensor de acusado.
+P: Advogado de ofício como assistente
+K: assistente; advogado de ofício
+
+@CPPM 64
+I: O ofendido que também é acusado no mesmo processo só pode ser assistente depois de absolvido definitivamente.
+P: Ofendido acusado
+K: assistente; ofendido acusado
+
+@CPPM 65
+I: Com autorização do juiz, o assistente pode propor provas, fazer perguntas após o MP, apresentar quesitos, juntar documentos, arrazoar recursos do MP e participar dos debates. Não pode arrolar testemunhas nem pedir diligências que atrasem o processo; no STM, a admissão cabe ao relator.
+P: Poderes do assistente || Limites || Assistência no STM
+K: assistente de acusação; poderes
+
+@CPPM 66
+I: O processo segue sem aviso ao assistente, salvo a notificação para o julgamento.
+P: Notificação do assistente
+K: assistente; notificação
+
+@CPPM 67
+I: O juiz pode cassar a assistência se o assistente tumultuar o processo ou infringir a disciplina judiciária.
+P: Cassação da assistência
+K: assistente; cassação
+
+@CPPM 68
+I: A assistência não pode gerar impedimento do juiz, do MP ou do escrivão; se surgir, cassa-se a admissão do assistente, podendo ser nomeado outro.
+P: Vedação de impedimento pela assistência
+K: assistente; impedimento
+
+@CPPM 69
+I: Acusado é aquele a quem se imputa infração penal em denúncia recebida.
+P: Conceito de acusado
+K: acusado; denúncia recebida
+
+@CPPM 70
+I: A dúvida sobre o nome ou a qualificação do acusado não atrasa o processo se sua identidade física for certa; a retificação pode ser feita a qualquer tempo.
+P: Identidade física do acusado
+K: identificação; acusado
+
+@CPPM 71
+I: Nenhum acusado, mesmo ausente ou foragido, é processado sem defensor; pode indicá-lo por termo, recebe dativo se não tiver e pode se defender se for advogado. Pela Lei nº 14.752/2023, o defensor não pode abandonar o processo sem justo motivo comunicado ao juiz, sob pena disciplinar; havendo abandono, o acusado é intimado para constituir outro ou recebe defensor público ou dativo.
+P: Defesa técnica obrigatória || Defensor dativo || Abandono do processo (Lei nº 14.752/2023)
+K: defesa técnica; defensor dativo; abandono do processo
+
+@CPPM 72
+I: O juiz nomeia curador ao acusado incapaz.
+P: Curador ao incapaz
+K: curador; incapaz
+
+@CPPM 73
+I: O acusado oficial ou graduado conserva as prerrogativas do posto e, se preso ou conduzido, é acompanhado por militar de hierarquia superior; a praça sem graduação é escoltada por graduado ou praça mais antiga.
+P: Prerrogativas do posto || Escolta hierárquica
+K: prerrogativas; oficial; escolta
+
+@CPPM 74
+I: A falta justificada do defensor adia o ato em que sua presença é indispensável; se repetida ou persistente, o juiz nomeia substituto.
+P: Ausência do defensor
+K: defensor; adiamento
+
+@CPPM 75
+I: O advogado tem no processo militar os direitos e deveres do Estatuto da OAB, salvo disposição expressa do CPPM.
+P: Aplicação do Estatuto da OAB
+K: advogado; Estatuto da OAB
+
+@CPPM 76
+I: Não pode ser defensor o cônjuge ou parente até o terceiro grau do juiz, do MP ou do escrivão; se o impedimento surgir depois, é destes, salvo se o defensor for dativo.
+P: Impedimento do defensor
+K: defensor; impedimento
+
+@CPPM 77
+I: A denúncia deve indicar o juiz, qualificar o acusado e o ofendido, descrever tempo, lugar e fato com circunstâncias, as razões de convicção, a classificação do crime e até seis testemunhas, dispensáveis se houver prova documental suficiente.
+P: Requisitos da denúncia || Até seis testemunhas
+K: denúncia; requisitos; testemunhas
+
+@CPPM 78
+I: A denúncia é rejeitada se faltar requisito (depois de oportunidade de correção em 3 dias), se o fato não for crime militar, se extinta a punibilidade ou se houver incompetência ou ilegitimidade; na incompetência, os autos vão ao juiz competente.
+P: Hipóteses de rejeição || Correção em 3 dias || Remessa ao juiz competente
+K: rejeição da denúncia; incompetência
+
+@CPPM 79
+I: A denúncia deve ser oferecida em 5 dias (preso) ou 15 dias (solto), prorrogáveis ao dobro ou, excepcionalmente, ao triplo; o juiz se manifesta em 15 dias. O membro do MP que perde o prazo responde disciplinarmente, e o juiz providencia a denúncia pelo substituto.
+P: Prazos da denúncia || Prorrogação || Responsabilidade do MP omisso
+K: prazo da denúncia; prorrogação
+
+@CPPM 80
+I: O MP pode requisitar diretamente a qualquer autoridade esclarecimentos, documentos e novos elementos de prova, ou pedir ao juiz que os requisite.
+P: Poder de requisição do MP
+K: requisição; Ministério Público Militar
+
+@CPPM 81
+I: A extinção da punibilidade pode ser declarada em qualquer fase, de ofício ou a pedido, ouvido o MP; a morte do acusado exige certidão de óbito.
+P: Declaração da extinção da punibilidade || Certidão de óbito
+K: extinção da punibilidade; morte do acusado
+
+@CPPM 82
+I: O foro militar é especial e alcança, em tempo de paz, militares da ativa e outros nos crimes contra as instituições militares, e os servidores da Justiça Militar nos crimes funcionais. Os crimes dolosos contra a vida de civil ficam com o júri: a Justiça Militar remete os autos do IPM à justiça comum (Lei nº 9.299/1996). A Justiça Militar estadual não julga civis (CF, art. 125, § 4º).
+P: Sujeitos ao foro militar || Crimes dolosos contra a vida de civil no júri || Civil e Justiça Militar estadual
+K: foro militar; júri; Lei nº 9.299/1996
+
+@CPPM 83
+I: Em tempo de guerra, lei especial pode ampliar o foro militar.
+P: Ampliação em tempo de guerra
+K: foro militar; tempo de guerra
+
+@CPPM 84
+I: Define o assemelhado (servidor civil das Forças sujeito à disciplina militar). A figura foi revogada no CPM pela Lei nº 14.688/2023, de modo que este artigo perdeu aplicação prática.
+P: Conceito de assemelhado || Figura extinta no CPM
+K: assemelhado
+
+@CPPM 85
+I: A competência do foro militar é fixada pelo lugar da infração, pela residência do acusado, pela prevenção e, de modo especial, pela sede do lugar de serviço.
+P: Critérios de competência
+K: competência; lugar da infração; prevenção
+
+@CPPM 86
+I: Dentro da Circunscrição, a competência é definida pela especialização das Auditorias, pela distribuição ou por regra especial.
+P: Competência dentro da Circunscrição
+K: Auditoria; distribuição; especialização
+
+@CPPM 87
+I: Os critérios gerais cedem em caso de conexão, continência, prerrogativa de posto ou função e desaforamento.
+P: Modificação da competência
+K: conexão; continência; desaforamento
+
+@CPPM 88
+I: Em regra, a competência é do lugar da infração; na tentativa, do lugar do último ato de execução.
+P: Lugar da infração || Tentativa
+K: competência territorial; tentativa
+
+@CPPM 89
+I: Crimes a bordo de navio sob comando militar em porto, rios ou lagos fronteiriços são da Auditoria local; em águas territoriais, da 1ª Auditoria da Marinha (o texto cita a antiga Guanabara, hoje Rio de Janeiro).
+P: Crimes a bordo de navio
+K: navio; competência
+
+@CPPM 90
+I: Crimes a bordo de aeronave militar no espaço aéreo nacional são da Auditoria do local do pouso ou, se inviável, da de partida.
+P: Crimes a bordo de aeronave
+K: aeronave; competência
+
+@CPPM 91
+I: Crimes militares cometidos no exterior são, em regra, processados em Auditoria da Capital da União.
+P: Crimes no exterior
+K: competência; exterior
+
+@CPPM 92
+I: Crime iniciado no exterior e consumado no Brasil é da Auditoria do resultado; iniciado no Brasil e consumado fora, da do último ato de execução.
+P: Crimes à distância
+K: competência; crime à distância
+
+@CPPM 93
+I: Desconhecido o lugar da infração, a competência é da residência ou domicílio do acusado, salvo a regra do lugar de serviço.
+P: Residência do acusado
+K: competência; domicílio
+
+@CPPM 94
+I: Há prevenção quando, entre juízes igualmente competentes, um antecede os outros na prática de algum ato, mesmo antes da denúncia.
+P: Prevenção
+K: prevenção; competência
+
+@CPPM 95
+I: A prevenção ocorre na divisa ou limite incerto entre jurisdições, nos crimes continuados ou permanentes em várias jurisdições e com várias residências.
+P: Hipóteses de prevenção
+K: prevenção; crime permanente
+
+@CPPM 96
+I: Para militar da ativa ou servidor de repartição militar, se o lugar da infração não puder ser determinado, vale o da unidade onde serve, sem prevenção.
+P: Lugar de serviço
+K: competência; lugar de serviço
+
+@CPPM 97
+I: Nas Auditorias especializadas, a competência segue a Força a que pertence o acusado; com acusados de Forças diferentes, vale a prevenção, sem prejudicar o oficial da ativa.
+P: Auditorias especializadas || Acusados de Forças diferentes
+K: Auditoria especializada; Marinha; Exército; Aeronáutica
+
+@CPPM 98
+I: Havendo várias Auditorias com a mesma competência na sede, a competência é fixada pela distribuição, que já previne o juízo mesmo antes da fase judicial.
+P: Distribuição || Prevenção pela distribuição
+K: distribuição; prevenção
+
+@CPPM 99
+I: Há conexão quando várias infrações são praticadas por várias pessoas reunidas ou em concurso, quando uma serve para facilitar ou ocultar outra, ou quando a prova de uma influi na de outra.
+P: Conexão intersubjetiva, objetiva e instrumental
+K: conexão
+
+@CPPM 100
+I: Há continência quando duas ou mais pessoas respondem pela mesma infração ou quando uma pessoa pratica várias infrações em concurso.
+P: Continência
+K: continência
+
+@CPPM 101
+I: Na conexão e continência, prevalece a jurisdição especializada, depois a do crime mais grave, a do maior número de infrações e a prevenção; entre categorias diversas, a de maior graduação.
+P: Regras de prevalência
+K: conexão; continência; prevalência
+
+@CPPM 102
+I: Conexão e continência reúnem os processos, salvo entre a jurisdição militar e a comum ou a da infância e juventude. A separação não impede que o militar da ativa responda no seu foro pelo crime militar e pelo comum em concurso.
+P: Unidade do processo || Separação entre jurisdição militar e comum
+K: unidade do processo; jurisdição comum
+
+@CPPM 103
+I: O juízo prevalente tem a competência prorrogada para as infrações conexas.
+P: Prorrogação de competência
+K: prorrogação de competência
+
+@CPPM 104
+I: Reunidos os processos, o juiz continua competente para as demais infrações mesmo que absolva ou desclassifique a de sua competência própria.
+P: Perpetuação da competência
+K: perpetuatio jurisdictionis
+
+@CPPM 105
+I: Os julgamentos só se separam se algum acusado estiver foragido sem possibilidade de revelia ou se os defensores divergirem quanto à suspeição de juiz do Conselho de Justiça.
+P: Separação de julgamentos
+K: separação de julgamentos
+
+@CPPM 106
+I: O juiz pode separar processos por tempo e lugar diferentes, excesso de acusados ou outro motivo relevante, com recurso de ofício ao STM sem efeito suspensivo.
+P: Separação facultativa || Recurso de ofício
+K: separação de processos; recurso de ofício
+
+@CPPM 107
+I: Se, apesar da conexão, houver processos diversos, a autoridade prevalente os avoca, salvo se já houver sentença definitiva, caso em que a unidade se dá na soma ou unificação das penas.
+P: Avocação de processos
+K: avocação; conexão
+
+@CPPM 108
+I: A competência por prerrogativa de posto ou função decorre da natureza do cargo, não do crime, e segue estritamente o CPPM.
+P: Prerrogativa de posto ou função
+K: foro por prerrogativa
+
+@CPPM 109
+I: O STM pode desaforar o processo por interesse da ordem, da Justiça ou da disciplina, pela segurança do acusado ou pela dificuldade de formar o Conselho de Justiça, a pedido de autoridades militares, do Conselho, do auditor, do MP ou do acusado, ouvido o procurador-geral.
+P: Hipóteses de desaforamento || Legitimados || Decisão do STM
+K: desaforamento; STM
+
+@CPPM 110
+I: O pedido de desaforamento negado pode ser renovado por motivo superveniente.
+P: Renovação do pedido
+K: desaforamento
+
+@CPPM 111
+I: Questões de competência resolvem-se por exceção ou por conflito positivo ou negativo.
+P: Meios de discutir a competência
+K: conflito de competência; exceção
+
+@CPPM 112
+I: Há conflito positivo quando duas autoridades se julgam competentes e negativo quando ambas se julgam incompetentes, além de controvérsias sobre unidade de juízo ou separação de processos.
+P: Conflito positivo e negativo
+K: conflito de competência
+
+@CPPM 113
+I: O conflito pode ser suscitado pelo acusado, pelo MP ou pela autoridade judiciária.
+P: Legitimados
+K: conflito de competência
+
+@CPPM 114
+I: O conflito é suscitado perante o STM por representação dos juízes ou requerimento das partes, com documentos; o negativo pode ser suscitado nos próprios autos.
+P: Forma de suscitar
+K: conflito de competência; STM
+
+@CPPM 115
+I: No conflito positivo, o relator pode suspender o processo até a decisão.
+P: Suspensão do processo
+K: conflito positivo
+
+@CPPM 116
+I: O relator requisita informações às autoridades em conflito e, se necessário, os autos.
+P: Informações
+K: conflito de competência
+
+@CPPM 117
+I: Ouvido o procurador-geral em 5 dias, o STM decide na primeira sessão.
+P: Parecer e julgamento
+K: conflito de competência; procurador-geral
+
+@CPPM 118
+I: Decidido o conflito, cópias do acórdão são enviadas às autoridades envolvidas para cumprimento.
+P: Comunicação da decisão
+K: conflito de competência
+
+@CPPM 119
+I: Não cabe recurso da decisão final do conflito.
+P: Irrecorribilidade
+K: conflito de competência
+
+@CPPM 120
+I: O STM, por avocatória, restabelece sua competência quando invadida por juiz inferior.
+P: Avocatória do STM
+K: STM; avocatória
+
+@CPPM 121
+I: O conflito entre juiz militar e juiz da justiça comum era atribuído ao STF; hoje, pela Constituição (art. 105, I, d), o conflito entre juízes vinculados a tribunais diversos é julgado pelo STJ, e o STF julga os que envolvam tribunais superiores.
+P: Conflito entre Justiça Militar e comum || Competência atual do STJ
+K: conflito de competência; STJ; STF
+
+@CPPM 122
+I: Questão prejudicial é a de direito material de que depende o julgamento do mérito.
+P: Conceito de prejudicial
+K: questão prejudicial
+
+@CPPM 123
+I: Se a prejudicial sobre estado civil for séria e fundada, o juiz colhe as provas urgentes e suspende o processo até a decisão definitiva do juízo cível; se irrelevante, prossegue.
+P: Prejudicial sobre estado civil || Suspensão obrigatória
+K: questão prejudicial; estado civil
+
+@CPPM 124
+I: Em outras prejudiciais, o juiz pode suspender o processo se já houver ação civil, a questão for difícil e não envolver prova limitada pela lei civil, com prazo prorrogável; expirado, o juiz criminal decide.
+P: Suspensão facultativa || Prazo
+K: questão prejudicial; suspensão
