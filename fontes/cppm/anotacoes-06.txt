@@ -1,0 +1,424 @@
+@CPPM 355
+I: Não podem depor os que devem guardar segredo profissional, salvo se desobrigados pelo interessado e quiserem depor.
+P: Sigilo profissional
+K: segredo profissional; testemunha proibida
+
+@CPPM 356
+I: O juiz pode ouvir testemunhas além das indicadas e as referidas; não se computa quem nada souber de útil.
+P: Testemunhas do juízo || Testemunhas referidas
+K: testemunha do juízo; testemunha referida
+
+@CPPM 357
+I: A testemunha não pode emitir opiniões pessoais, salvo inseparáveis da narrativa.
+P: Vedação de opinião
+K: testemunha; opinião pessoal
+
+@CPPM 358
+I: Se a presença do acusado intimidar a testemunha, ele é retirado e a oitiva prossegue com o defensor, registrando-se em ata.
+P: Retirada do acusado
+K: testemunha; intimidação; defensor
+
+@CPPM 359
+I: Testemunha de fora da jurisdição é ouvida por precatória ao auditor local, com quesitos das partes; a precatória não suspende a instrução e pode ser juntada depois do julgamento.
+P: Precatória para oitiva || Sem efeito suspensivo
+K: carta precatória; testemunha
+
+@CPPM 360
+I: Não sendo possível comparecer perante auditor, a precatória pode ir a juiz criminal comum.
+P: Precatória ao juízo comum
+K: precatória; juízo comum
+
+@CPPM 361
+I: No IPM, o encarregado pode expedir precatória à autoridade militar do local da testemunha, observada a hierarquia.
+P: Precatória no IPM
+K: IPM; precatória; hierarquia
+
+@CPPM 362
+I: Por um ano, a testemunha deve comunicar mudança de endereço, sob as penas da falta.
+P: Dever de informar endereço
+K: testemunha; mudança de residência
+
+@CPPM 363
+I: O juiz pode antecipar o depoimento de testemunha que vá se ausentar ou corra risco por doença ou idade.
+P: Depoimento antecipado
+K: produção antecipada de prova; testemunha
+
+@CPPM 364
+I: Reconhecido falso testemunho na sentença, remete-se cópia do depoimento para inquérito.
+P: Falso testemunho
+K: falso testemunho; inquérito
+
+@CPPM 365
+I: Cabe acareação, no inquérito ou em juízo, quando houver divergência relevante entre acusados, testemunhas e ofendidos.
+P: Hipóteses de acareação
+K: acareação; divergência
+
+@CPPM 366
+I: A autoridade aponta as divergências e reinquire os acareados um diante do outro, lavrando termo; as partes reperguntam por meio do juiz.
+P: Procedimento || Termo
+K: acareação; termo
+
+@CPPM 367
+I: Ausente a testemunha divergente, os pontos são apresentados à presente, que se explica no termo.
+P: Acareação indireta
+K: acareação; testemunha ausente
+
+@CPPM 368
+I: No reconhecimento, quem reconhece descreve antes a pessoa, que é posta ao lado de outras semelhantes; só no inquérito se pode ocultar quem reconhece; lavra-se termo com duas testemunhas.
+P: Procedimento do reconhecimento || Ocultação no inquérito
+K: reconhecimento de pessoa; termo
+
+@CPPM 369
+I: O reconhecimento de coisa segue, no que couber, as cautelas do de pessoa.
+P: Reconhecimento de coisa
+K: reconhecimento de coisa
+
+@CPPM 370
+I: Vários reconhecedores atuam separados, e várias pessoas ou coisas são reconhecidas uma por vez.
+P: Reconhecimento individual
+K: reconhecimento; incomunicabilidade
+
+@CPPM 371
+I: Documento é qualquer escrito, instrumento ou papel, público ou particular.
+P: Conceito de documento
+K: documento; prova documental
+
+@CPPM 372
+I: O documento público presume-se verdadeiro quanto à formação e aos fatos presenciados pelo servidor com fé pública.
+P: Fé pública
+K: documento público; presunção de veracidade
+
+@CPPM 373
+I: Certidões do escrivão, traslados de notas e fotocópias autenticadas valem como os originais.
+P: Equivalência ao original
+K: certidão; cópia autenticada
+
+@CPPM 374
+I: Documento particular assinado presume-se verdadeiro contra o signatário; declaração de ciência prova a declaração, não o fato.
+P: Documento particular || Declaração de ciência
+K: documento particular; ônus da prova
+
+@CPPM 375
+I: Correspondência obtida por meio criminoso é inadmissível e deve ser desentranhada e devolvida.
+P: Prova ilícita
+K: correspondência; prova ilícita; desentranhamento
+
+@CPPM 376
+I: O destinatário pode exibir em juízo a correspondência recebida, para defender direito, sem consentimento do remetente.
+P: Exibição pelo destinatário
+K: correspondência; destinatário
+
+@CPPM 377
+I: Contestada a autenticidade, letra e firma de documento particular vão a perícia.
+P: Perícia de autenticidade
+K: documento particular; perícia grafotécnica
+
+@CPPM 378
+I: Documentos podem ser juntados em qualquer fase, salvo autos conclusos para julgamento; o juiz e o encarregado do IPM podem buscá-los e requisitar certidões.
+P: Momento da juntada || Requisição de documentos
+K: juntada de documentos; requisição
+
+@CPPM 379
+I: Juntado documento, a outra parte é ouvida; se juntado pelo juiz, ambas.
+P: Contraditório sobre documento
+K: documento; contraditório
+
+@CPPM 380
+I: O juiz pode mandar conferir pública-forma de documento que não possa ser exibido no original.
+P: Conferência de pública-forma
+K: pública-forma; conferência
+
+@CPPM 381
+I: Findo o processo, os originais podem ser devolvidos a quem os juntou, ouvido o MP, ficando traslado ou recibo.
+P: Devolução de documentos
+K: desentranhamento; traslado
+
+@CPPM 382
+I: Indício é o fato provado do qual se induz outro não provado.
+P: Conceito de indício
+K: indício; prova indireta
+
+@CPPM 383
+I: O indício só prova se tiver nexo causal com o fato indicado e concordar com as demais provas.
+P: Requisitos do indício
+K: indício; valor probatório
+
+@CPPM 384
+I: Têm preferência na instrução os processos de réus presos, os de prisão mais antiga e, entre soltos, os mais antigos.
+P: Prioridade de réus presos
+K: prioridade; réu preso
+
+@CPPM 385
+I: A polícia das sessões cabe ao presidente do Conselho e, nos demais casos, ao auditor.
+P: Polícia das sessões
+K: polícia das audiências; Conselho de Justiça
+
+@CPPM 386
+I: Partes e público podem sentar-se, mas levantam-se ao se dirigir aos juízes; MP e advogados falam sentados e têm as prerrogativas legais da advocacia.
+P: Conduta na sessão || Prerrogativas do advogado
+K: sessões; prerrogativas; Estatuto da OAB
+
+@CPPM 387
+I: A instrução é pública, podendo ser secreta excepcionalmente por ordem e disciplina militares ou segurança nacional (CF, art. 93, IX).
+P: Publicidade || Sessão secreta
+K: publicidade; sigilo
+
+@CPPM 388
+I: Atos podem ser realizados fora da sede da Auditoria, se necessário, intimadas as partes.
+P: Atos fora da sede
+K: sessões; local
+
+@CPPM 389
+I: O acusado inconveniente é advertido e pode ser retirado, prosseguindo com seu defensor; se o defensor sair, nomeia-se outro ad hoc; desacato gera auto de flagrante.
+P: Retirada do acusado || Desacato
+K: polícia das sessões; desacato; defensor ad hoc
+
+@CPPM 390
+I: A instrução deve terminar em 50 dias com réu preso e 90 com réu solto, descontadas as demoras justificadas; doença do acusado ou defensor pode deslocar ou adiar o ato.
+P: Prazo da instrução || Doença do acusado ou defensor
+K: prazo da instrução; excesso de prazo
+
+@CPPM 391
+I: Juntam-se a fé de ofício do militar ou os antecedentes do civil e, se possível, a individual datiloscópica.
+P: Antecedentes do acusado
+K: fé de ofício; antecedentes
+
+@CPPM 392
+I: O acusado fica à disposição da Justiça Militar e não pode ser transferido da sede até a sentença, salvo motivo relevante apreciado pelo auditor.
+P: Vedação de transferência
+K: acusado; transferência
+
+@CPPM 393
+I: Oficial processado ou investigado não vai para a reserva, salvo por idade-limite.
+P: Vedação de transferência para a reserva
+K: oficial; reserva
+
+@CPPM 394
+I: O acusado solto continua no serviço, salvo incompatibilidade da função com a infração.
+P: Continuidade do serviço
+K: acusado solto; serviço militar
+
+@CPPM 395
+I: Cada sessão gera ata com requerimentos, decisões e incidentes, que pode ser retificada na sessão seguinte.
+P: Ata || Retificação
+K: ata; sessão
+
+@CPPM 396
+I: O processo ordinário começa com o recebimento da denúncia.
+P: Início do processo
+K: processo ordinário; recebimento da denúncia
+
+@CPPM 397
+I: Sem elementos para denunciar, o procurador pede arquivamento; discordando o auditor, os autos vão ao procurador-geral, que designa outro procurador ou arquiva, e pode avocar casos não promovidos.
+P: Pedido de arquivamento || Controle pelo procurador-geral
+K: arquivamento; procurador-geral
+
+@CPPM 398
+I: Antes da denúncia, o procurador pode alegar incompetência do juízo.
+P: Incompetência antes da denúncia
+K: incompetência; Ministério Público
+
+@CPPM 399
+I: Recebida a denúncia, o auditor providencia o Conselho, marca sua instalação, manda citar o acusado e intimar MP, testemunhas e ofendido.
+P: Providências do auditor
+K: recebimento da denúncia; citação; Conselho de Justiça
+
+@CPPM 400
+I: Na instalação, o presidente e os juízes do Conselho prestam compromisso de julgar com imparcialidade. Desde a Lei 13.774/2018, o Conselho é presidido pelo juiz federal da Justiça Militar.
+P: Compromisso || Composição da mesa
+K: Conselho de Justiça; compromisso; Lei 13.774/2018
+
+@CPPM 401
+I: O advogado tem mesa especial no recinto.
+P: Lugar do advogado
+K: advogado; prerrogativas
+
+@CPPM 402
+I: Prestado o compromisso, o auditor marca o interrogatório para pelo menos 7 dias depois.
+P: Designação do interrogatório
+K: interrogatório; prazo
+
+@CPPM 403
+I: O acusado preso assiste a todos os atos, inclusive ao sorteio do Conselho Especial.
+P: Presença do preso
+K: réu preso; autodefesa
+
+@CPPM 404
+I: Antes do interrogatório, leem-se a denúncia e o rol de testemunhas; o acusado pode pedir leitura de peças do inquérito; dispensam-se perguntas sem relação com o crime.
+P: Leitura da denúncia || Leitura de peças
+K: interrogatório; denúncia
+
+@CPPM 405
+I: Os acusados são interrogados separadamente, sem um ouvir o outro.
+P: Interrogatório separado
+K: interrogatório; corréus
+
+@CPPM 406
+I: O acusado fica de pé durante o interrogatório, salvo se a saúde não permitir.
+P: Postura
+K: interrogatório
+
+@CPPM 407
+I: Em 48 horas após o interrogatório, o acusado pode opor exceções de suspeição, incompetência, litispendência ou coisa julgada; outras alegações são matéria de defesa.
+P: Prazo das exceções || Matéria de defesa
+K: exceções; prazo de 48 horas
+
+@CPPM 408
+I: O procurador pode opor as mesmas exceções contra juiz ou escrivão no mesmo prazo.
+P: Exceções do MP
+K: exceções; Ministério Público
+
+@CPPM 409
+I: A menoridade declarada vale até prova em contrário; provada a maioridade, cessa o curador, sem invalidar atos anteriores.
+P: Presunção de menoridade
+K: menoridade; curador
+
+@CPPM 410
+I: A oitiva do ofendido segue os arts. 311 a 313.
+P: Remissão
+K: ofendido
+
+@CPPM 411
+I: Se o acusado preso se recusar a comparecer, recebe defensor e o processo segue à revelia; comparecendo depois, é interrogado, mas perde as exceções do art. 407.
+P: Revelia do preso
+K: revelia; réu preso
+
+@CPPM 412
+I: É revel o acusado solto citado que não atende ao chamado inicial ou falta sem justa causa a ato em que sua presença é indispensável.
+P: Revelia do solto
+K: revelia; réu solto
+
+@CPPM 413
+I: O revel que comparece entra no processo no estado em que está, sem repetição de atos.
+P: Comparecimento do revel
+K: revelia; preclusão
+
+@CPPM 414
+I: O curador defende o revel e pode recorrer, exceto apelar da sentença condenatória.
+P: Defesa do revel
+K: curador; revel; recursos
+
+@CPPM 415
+I: A oitiva das testemunhas segue os arts. 347 a 364 e os seguintes.
+P: Remissão
+K: testemunhas; inquirição
+
+@CPPM 416
+I: Lê-se a denúncia às testemunhas antes de depor e depois se retiram as que aguardam; pode-se ler depoimento delas no inquérito.
+P: Leitura da denúncia || Peças do inquérito
+K: testemunhas; leitura
+
+@CPPM 417
+I: Ouvem-se primeiro as testemunhas da acusação, depois as da defesa (até três por acusado, indicadas até 5 dias após a última de acusação), com limite de três referidas ou informantes; é possível substituir e desistir.
+P: Ordem de oitiva || Número de testemunhas
+K: testemunhas de acusação; testemunhas de defesa
+
+@CPPM 418
+I: O texto prevê inquirição pelo auditor e, por meio dele, pelos juízes e partes, perguntando por último a parte contrária.
+P: Sistema de inquirição
+K: inquirição; sistema presidencialista
+
+@CPPM 419
+I: Só se recusam perguntas ofensivas, impertinentes, sem relação com o fato ou repetidas; as recusadas são consignadas a pedido.
+P: Indeferimento de perguntas
+K: perguntas; indeferimento
+
+@CPPM 420
+I: Testemunha em lugar incerto pode ser substituída; a que se esconde pode ser presa para depor.
+P: Substituição || Prisão da testemunha
+K: testemunha; substituição
+
+@CPPM 421
+I: Nenhuma testemunha é ouvida sem notificação de MP, advogado e réu preso com 3 dias de antecedência.
+P: Notificação prévia
+K: testemunha; intimação das partes
+
+@CPPM 422
+I: O depoimento é reduzido a termo, lido e assinado pela testemunha, juízes e partes; ela pode pedir retificação, e recusas são certificadas.
+P: Redução a termo || Retificação
+K: depoimento; termo; assinatura
+
+@CPPM 423
+I: Em cada sessão com oitiva lavra-se termo de assentada.
+P: Termo de assentada
+K: assentada
+
+@CPPM 424
+I: Testemunhas são ouvidas das 7 às 18 horas, salvo prorrogação justificada.
+P: Horário
+K: testemunhas; horário
+
+@CPPM 425
+I: A acareação pode ser determinada pelo Conselho ou auditor ou requerida pelas partes.
+P: Acareação na instrução
+K: acareação
+
+@CPPM 426
+I: O reconhecimento de pessoa ou coisa pode ser determinado ou requerido na instrução.
+P: Reconhecimento na instrução
+K: reconhecimento
+
+@CPPM 427
+I: Após a última testemunha de defesa, as partes têm 5 dias para requerer diligências, e o auditor pode determiná-las de ofício.
+P: Fase de diligências
+K: diligências; prazo de 5 dias
+
+@CPPM 428
+I: Seguem-se alegações escritas de 8 dias para MP e defesa, e 5 para o assistente; com mais de cinco réus e advogados diversos, 12 dias em comum; alegações fora do prazo são desentranhadas.
+P: Alegações escritas || Prazos
+K: alegações finais; prazo
+
+@CPPM 429
+I: As alegações devem ter linguagem decorosa, sob pena de as expressões ofensivas serem riscadas.
+P: Linguagem decorosa
+K: alegações; expressões injuriosas
+
+@CPPM 430
+I: O auditor pode ordenar diligências para sanar nulidades e, estando o processo pronto, designa o julgamento e requisita o réu preso.
+P: Saneamento || Designação do julgamento
+K: saneamento; julgamento
+
+@CPPM 431
+I: Aberta a sessão, apresenta-se o acusado; o revel que comparece é interrogado; o julgamento do réu solto ausente pode ser adiado uma vez, e a falta do advogado também adia.
+P: Abertura || Ausências
+K: sessão de julgamento; revelia; adiamento
+
+@CPPM 432
+I: Lêem-se a denúncia, o corpo de delito e perícias essenciais, o interrogatório e as peças pedidas pelos juízes ou partes.
+P: Leitura de peças
+K: julgamento; leitura de peças
+
+@CPPM 433
+I: Nos debates, falam procurador, assistente e defesa, com até 3 horas cada, réplica e tréplica de 1 hora, metade para o assistente e regras para vários réus.
+P: Sustentação oral || Tempo dos debates
+K: debates orais; réplica; tréplica
+
+@CPPM 434
+I: Encerrados os debates, o Conselho delibera em sessão secreta, e os juízes militares podem pedir esclarecimentos de direito.
+P: Deliberação secreta
+K: Conselho de Justiça; deliberação
+
+@CPPM 435
+I: Vota primeiro o juiz togado e depois os militares, do menos ao mais graduado; sem maioria para a pena, o voto pela pena maior conta para a imediatamente menor.
+P: Ordem de votação || Solução do empate na pena
+K: votação; Conselho de Justiça; pena
+
+@CPPM 436
+I: A sessão de julgamento é contínua, com intervalos na fase pública; a fase secreta só se interrompe por doença de juiz; a jurisdição do Conselho Permanente é prorrogada se preciso.
+P: Continuidade || Prorrogação de jurisdição
+K: sessão de julgamento; Conselho Permanente
+
+@CPPM 437
+I: O Conselho pode dar ao fato definição jurídica diversa, se proposta pelo MP nas alegações e respondida pela defesa, condenar mesmo com pedido de absolvição do MP e reconhecer agravante objetiva não arguida.
+P: Emendatio libelli || Condenação contra o parecer do MP
+K: emendatio libelli; correlação; agravante
+
+@CPPM 438
+I: A sentença contém identificação, relatório, fundamentos, dispositivos legais e assinaturas; é redigida pelo juiz togado mesmo vencido, que pode justificar o voto.
+P: Requisitos da sentença || Redação
+K: sentença; fundamentação; voto vencido
+
+@CPPM 439
+I: Absolve-se por inexistência do fato, atipicidade, falta de prova da participação, excludentes, insuficiência de prova ou extinção da punibilidade; a sentença solta o réu e cessa penas acessórias e medidas provisórias.
+P: Fundamentos da absolvição || Efeitos
+K: absolvição; in dubio pro reo
