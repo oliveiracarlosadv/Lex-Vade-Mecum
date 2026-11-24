@@ -1,0 +1,16 @@
+{
+ "nome": "Portaria MTE nº 2.041, de 19 de novembro de 2026",
+ "tipo": "legisweb",
+ "url": "https://www.legisweb.com.br/legislacao/?id=504836",
+ "saida": "leis/portaria-mte-2041/portaria-mte-2041-completa.md",
+ "minimo_artigos": 21,
+ "parts": [
+  {
+   "id": "PMTE",
+   "start": "O MINISTRO DE ESTADO DO TRABALHO E EMPREGO",
+   "end": "LUIZ MARINHO",
+   "preamble": true,
+   "self_name": "desta Portaria"
+  }
+ ]
+}

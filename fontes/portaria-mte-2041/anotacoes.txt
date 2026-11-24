@@ -1,0 +1,109 @@
+@PMTE preambulo
+I: O preâmbulo identifica a autoridade que edita a Portaria, o Ministro de Estado do Trabalho e Emprego, e o fundamento do seu poder regulamentar: o art. 87, parágrafo único, I e II, da Constituição, que autoriza ministros a orientar a administração e a expedir instruções para executar leis, decretos e regulamentos. Também indica as normas que a Portaria complementa: a Emenda Constitucional nº 141/2026, os arts. 155, 200 e 913 da CLT e o art. 6º do Decreto nº 13.173/2026. Como ato infralegal, a Portaria não cria direitos contra a Constituição, a lei ou o decreto. Ela detalha como essas normas serão aplicadas.
+P: Autoridade: Ministro do Trabalho e Emprego || Fundamento: CF, art. 87, parágrafo único, I e II || Normas complementadas: EC nº 141/2026, CLT (arts. 155, 200 e 913) e Decreto nº 13.173/2026 || Processo nº 19955.205041/2026-87
+K: preâmbulo; poder regulamentar; Ministro do Trabalho e Emprego; Emenda Constitucional nº 141/2026; Decreto nº 13.173/2026; portaria ministerial
+
+@PMTE 1
+I: O art. 1º define o objeto da Portaria: complementar o Decreto nº 13.173/2026 na aplicação das mudanças da EC nº 141/2026 sobre a duração normal do trabalho e os períodos de descanso. A Portaria trata ainda da remuneração do repouso semanal, do cálculo do salário-hora, das normas coletivas, da segurança e saúde no trabalho, da fiscalização e das informações ao eSocial. O artigo delimita o alcance dos demais dispositivos e serve de guia para interpretá-los.
+P: Complementa o Decreto nº 13.173/2026 || Aplica a EC nº 141/2026 quanto a jornada e descanso || Temas: repouso semanal, salário-hora, normas coletivas, SST, fiscalização e eSocial
+K: objeto da portaria; duração do trabalho; repouso semanal; salário-hora; eSocial; EC nº 141/2026
+
+@PMTE 2
+I: A duração normal do trabalho não pode exceder o limite constitucional diário e semanal. Pela redação dada ao art. 7º, XIII, da CF pela EC nº 141/2026, esse limite é de 8 horas diárias e 40 semanais, com a transição prevista no art. 16 desta Portaria. A compensação de horários continua permitida por convenção ou acordo coletivo, na forma da legislação trabalhista. O parágrafo único preserva as horas extras e os regimes diferenciados previstos em lei.
+P: Limite constitucional diário e semanal || Compensação por convenção ou acordo coletivo || Mantidos o serviço extraordinário e os regimes diferenciados legais
+K: duração normal do trabalho; limite constitucional; compensação de horários; horas extras; regimes diferenciados
+
+@PMTE 3
+I: O limite médio de duração semanal e mensal do trabalho é aferido no mês-calendário, inclusive nas escalas especiais. O parágrafo único separa essa média do divisor usado para calcular o salário-hora, previsto no art. 5º do Decreto nº 13.173/2026 e no art. 10 desta Portaria. Uma coisa é verificar se a jornada respeitou o limite; outra é a regra de cálculo do valor da hora.
+P: Aferição da média no mês-calendário || Aplica-se às escalas especiais || Média não se confunde com o divisor do salário-hora
+K: limite médio; mês-calendário; escalas especiais; divisor; salário-hora
+
+@PMTE 4
+I: Todo empregado tem direito a dois dias de repouso semanal, cada um de 24 horas consecutivas, um deles preferencialmente aos domingos. Os repousos são concedidos em cada semana, salvo o regime compensatório do § 2º do art. 7º da CF, e podem ser consecutivos, sem absorver o intervalo mínimo entre jornadas. Por convenção ou acordo coletivo, admite-se excepcionalmente a média de dois repousos no mês-calendário, apurada pela fórmula do § 4º. O § 3º fala em ao menos um repouso "no máximo, seis dias consecutivos de trabalho"; o § 2º do art. 7º da CF, porém, exige o gozo de pelo menos um dia "dentro do período máximo de 1 (uma) semana de trabalho", que prevalece em caso de dúvida. O § 5º remete à vedação de início de férias nos dois dias que antecedem feriado ou repouso (CLT, art. 134, § 3º).
+P: Dois repousos semanais de 24 horas, um preferencialmente aos domingos || Repousos podem ser consecutivos e não absorvem o intervalo entre jornadas || Média mensal só por convenção ou acordo coletivo || Fórmula: repousos no mês ≥ dobro dos dias do mês ÷ 7, arredondado para cima || Férias não começam nos dois dias anteriores a feriado ou repouso
+K: dois dias de repouso; repouso semanal; domingo; intervalo interjornada; regime compensatório; média mensal; férias
+
+@PMTE 5
+I: O trabalho nos dias de repouso, inclusive domingos e feriados (Lei nº 605/1949, art. 1º), é admitido quando comprovadas exigências técnicas, definidas no § 1º como as que tornam indispensável a continuidade do serviço. Nesse caso há escala de revezamento mensal sujeita à fiscalização e, para as empregadas, escala quinzenal que favoreça o repouso dominical (CLT, art. 386). No comércio, o repouso coincide com o domingo ao menos uma vez a cada três semanas (Lei nº 10.101/2000); nas demais atividades, preferencialmente uma vez a cada quatro semanas. O trabalho em dia de repouso é pago em dobro, salvo folga compensatória na mesma semana, e a compensação dos repousos pode ser fixada em norma coletiva, observados os §§ 3º e 4º do art. 4º.
+P: Exigências técnicas autorizam o trabalho em dias de repouso || Escala de revezamento mensal sob fiscalização || Escala quinzenal para empregadas (CLT, art. 386) || Comércio: domingo ao menos a cada três semanas || Pagamento em dobro, salvo folga na mesma semana
+K: trabalho aos domingos; feriados; exigências técnicas; escala de revezamento; comércio; pagamento em dobro; folga compensatória
+
+@PMTE 6
+I: A redução da jornada e a ampliação do repouso valem para os contratos em vigor, sem redução salarial nominal, proporcional ou de qualquer espécie e sem alteração dos pisos salariais. O empregado mantém a remuneração mensal contratada mesmo trabalhando menos horas. A regra abrange regimes especiais, trabalho avulso e tempo parcial, observada a legislação específica. Jornadas já fixadas em 40 horas semanais ou menos não são reduzidas proporcionalmente.
+P: Aplicação imediata aos contratos em vigor || Vedada qualquer redução salarial e alteração de pisos || Abrange regimes especiais, avulsos e tempo parcial || Jornadas de até 40 horas não sofrem redução proporcional
+K: irredutibilidade salarial; contratos em vigor; pisos salariais; trabalho avulso; tempo parcial; redução de jornada
+
+@PMTE 7
+I: Nos turnos ininterruptos de revezamento, a jornada é de seis horas diárias, salvo negociação coletiva, como no art. 7º, XIV, da Constituição. Mesmo com negociação, devem ser respeitados o limite semanal constitucional e os dois dias de repouso.
+P: Turno ininterrupto: seis horas diárias || Ampliação só por negociação coletiva || Sempre respeitados o limite semanal e os dois repousos
+K: turnos ininterruptos de revezamento; seis horas; negociação coletiva; limite semanal
+
+@PMTE 8
+I: Na escala 12x36 (doze horas de trabalho por trinta e seis de descanso), se a média mensal ultrapassar o limite semanal constitucional, o empregado tem direito à compensação das horas ou ao pagamento como extras, nos termos da norma coletiva. A regra vale também para o empregado doméstico, observado o art. 10 da Lei Complementar nº 150/2015, que admite a escala 12x36 no trabalho doméstico.
+P: Escala 12x36 sujeita ao limite semanal médio || Excesso: compensação ou horas extras || Aplica-se ao doméstico (LC nº 150/2015, art. 10)
+K: escala 12x36; horas extras; compensação; empregado doméstico; Lei Complementar nº 150/2015
+
+@PMTE 9
+I: O empregado com diploma de nível superior e remuneração mensal de pelo menos duas vezes e meia o teto dos benefícios do RGPS fica fora das regras de duração e controle de jornada, conforme o art. 8º da EC nº 141/2026, mas mantém os dois dias de repouso. Se houver controle de jornada por liberalidade do empregador ou por norma coletiva, as regras de duração se aplicam integralmente. Para remuneração variável, usa-se a média dos últimos doze meses ou do período contratual, se menor. A exceção não alcança os empregados públicos de nenhum ente ou Poder.
+P: Requisitos: diploma superior e remuneração ≥ 2,5 vezes o teto do RGPS || Garantidos os dois dias de repouso || Controle de jornada pelo empregador ou por norma coletiva atrai as regras de duração || Remuneração variável: média de 12 meses || Não se aplica a empregados públicos
+K: empregado hipersuficiente; diploma de nível superior; teto do RGPS; controle de jornada; empregado público
+
+@PMTE 10
+I: Para jornada de 40 horas semanais, o salário-hora normal não pode ser inferior ao salário mensal dividido por 200. Durante a fase de 42 horas semanais, o divisor é 210. O salário-hora é a base das horas extras, do adicional noturno e das demais parcelas por hora. A mudança do divisor só adapta o cálculo à nova jornada, sem reajuste do salário mensal, que mantém o valor nominal. Para quem ganha por hora, dia, tarefa, peça ou comissão, a unidade de remuneração é ajustada para manter a média dos doze meses anteriores a 16 de dezembro de 2026. Divisores mais favoráveis em norma coletiva, contrato ou regulamento de empresa ficam preservados.
+P: Divisor 200 para 40 horas semanais || Divisor 210 na fase de 42 horas || Salário-hora é base de horas extras e adicional noturno || Não há reajuste do salário mensal || Remuneração por unidade é ajustada para manter a média anterior || Preservados divisores mais favoráveis
+K: divisor 200; divisor 210; salário-hora; horas extras; adicional noturno; remuneração por produção; irredutibilidade salarial
+
+@PMTE 11
+I: A remuneração do repouso semanal de dois dias (CF, art. 7º, XV), considerada em conjunto, equivale: para quem trabalha por dia, semana, quinzena ou mês, a um dia de trabalho; para quem trabalha por hora, à jornada; para tarefa, peça ou comissão, à produção da semana dividida pelos dias trabalhados; e, no trabalho em domicílio, a um sexto da produção semanal. As horas extras habituais entram no cálculo. O segundo dia de repouso não aumenta por si só a remuneração, mas a irredutibilidade e os pisos continuam garantidos. O repouso pode ser embutido no salário-hora com acréscimo de 16,667%, discriminado no recibo e sem salário complessivo, vedado também pela Súmula 91 do TST. Para os avulsos, o repouso corresponde a um sexto da remuneração recebida.
+P: Repouso de dois dias remunerado em conjunto || Fórmulas por dia, hora, tarefa ou peça e domicílio || Horas extras habituais refletem no repouso (um sexto) || Segundo dia não gera acréscimo automático || Inclusão no salário-hora (16,667%) discriminada no recibo || Vedado o salário complessivo
+K: repouso semanal remunerado; DSR; cálculo do repouso; horas extras habituais; salário complessivo; trabalhador avulso; mensalista
+
+@PMTE 12
+I: Perde a remuneração do repouso o empregado que, sem justificativa ou por punição disciplinar, não trabalhou a semana inteira ou não cumpriu todo o horário, como prevê o art. 6º da Lei nº 605/1949. A perda é do valor único do repouso, calculado pelo art. 11. Ausências legalmente justificadas, inclusive as da CLT (art. 473) e as férias, não prejudicam a frequência. Repouso e feriado no mesmo dia não se acumulam, e a semana vai de segunda-feira a domingo.
+P: Falta injustificada ou punição faz perder o repouso || Perda limitada ao valor único do art. 11 || Faltas justificadas e férias não prejudicam a frequência || Sem acúmulo de repouso e feriado no mesmo dia || Semana: segunda a domingo
+K: perda do repouso; falta injustificada; frequência; faltas justificadas; feriado; Lei nº 605/1949
+
+@PMTE 13
+I: Perdem efeito as cláusulas de convenções e acordos coletivos sobre duração do trabalho e repouso semanal que contrariem os limites da EC nº 141/2026, a partir de quando as novas obrigações se tornarem exigíveis. São incompatíveis as cláusulas que fixem jornada semanal acima do limite de cada fase ou menos de dois repousos semanais, salvo o regime compensatório do art. 4º, § 3º. A ineficácia atinge só essas cláusulas: o restante do instrumento e as condições mais favoráveis permanecem, e a renegociação é possível. A regra alcança também os acordos individuais de compensação, banco de horas e 12x36. O saldo de banco de horas até 15/12/2026 segue as regras do acordo que o criou; a partir de 16/12/2026 valem os novos limites.
+P: Cláusulas coletivas incompatíveis perdem efeito || Incompatíveis: jornada acima do limite ou menos de dois repousos || Ineficácia só das cláusulas incompatíveis || Alcança acordos individuais de compensação, banco de horas e 12x36 || Banco de horas: saldo até 15/12/2026 segue o acordo de origem
+K: normas coletivas; convenção coletiva; acordo coletivo; ineficácia de cláusula; banco de horas; renegociação
+
+@PMTE 14
+I: Ao adotar prorrogação ou compensação de jornada, o empregador deve avaliar os efeitos sobre os riscos ocupacionais e, quando cabível, revisar as medidas de prevenção e atualizar o Programa de Gerenciamento de Riscos (PGR) da NR-01. Se a norma coletiva ampliar a jornada diária (EC nº 141/2026, art. 7º), devem ser observadas as normas regulamentadoras da atividade, sobretudo quanto a pausas e intervalos, e o art. 71 da CLT (intervalo para repouso e alimentação).
+P: Prorrogação ou compensação exige avaliar os riscos ocupacionais || Atualização do PGR (NR-01) quando cabível || Jornada diária ampliada: observar NRs, pausas e o art. 71 da CLT
+K: segurança e saúde no trabalho; PGR; NR-01; riscos ocupacionais; intervalo intrajornada; prorrogação de jornada
+
+@PMTE 15
+I: Nas atividades insalubres, a prorrogação de jornada segue o art. 64 da Portaria MTP nº 671/2021 e só é permitida na escala 12x36, quando atendidos os demais requisitos desta Portaria; com autorização expressa em convenção ou acordo coletivo; ou com autorização da chefia de segurança e saúde no trabalho da unidade descentralizada da Inspeção do Trabalho. Como a exposição diária a agentes nocivos aumenta, o gerenciamento de riscos do art. 14 exige atenção especial.
+P: Prorrogação em atividade insalubre só nas hipóteses listadas || Escala 12x36 || Autorização expressa em norma coletiva || Autorização da Inspeção do Trabalho || Atenção reforçada ao gerenciamento de riscos
+K: atividade insalubre; prorrogação de jornada; Portaria MTP nº 671/2021; Inspeção do Trabalho; agentes nocivos
+
+@PMTE 16
+I: A transição ocorre em duas etapas. De 16 de dezembro de 2026 a 15 de dezembro de 2027, a duração normal é de até 42 horas semanais e já vale o repouso remunerado de dois dias. A partir de 16 de dezembro de 2027, o limite passa a 40 horas semanais, mantidos os dois dias de repouso. Nenhuma das etapas pode reduzir salário ou pisos salariais.
+P: 1ª etapa (16/12/2026 a 15/12/2027): até 42 horas e dois repousos || 2ª etapa (desde 16/12/2027): até 40 horas || Repouso de dois dias desde a 1ª etapa || Vedada redução salarial e de pisos
+K: transição; 42 horas semanais; 40 horas semanais; cronograma; repouso de dois dias; irredutibilidade salarial
+
+@PMTE 17
+I: Na fiscalização das novas obrigações, o prazo de noventa dias da dupla visita (art. 23, § 1º, do Regulamento da Inspeção do Trabalho, Decreto nº 4.552/2002) é contado separadamente para cada obrigação. Conta-se de 16/12/2026 para os dois repousos e o limite de 42 horas, e de 16/12/2027 para o limite de 40 horas. Nessa fase a fiscalização tem caráter orientador antes da autuação. Na hipótese do art. 9º da EC nº 141/2026, o prazo começa quando a redução se tornar aplicável aos empregados abrangidos.
+P: Dupla visita: noventa dias por obrigação nova || Marco de 16/12/2026: dois repousos e 42 horas || Marco de 16/12/2027: 40 horas || Hipótese do art. 9º da EC: contagem própria
+K: fiscalização do trabalho; dupla visita; Decreto nº 4.552/2002; Regulamento da Inspeção do Trabalho; prazo de adequação
+
+@PMTE 18
+I: De 16/12/2026 a 15/12/2027, as informações sobre horário de trabalho (art. 13, II, "e", da Portaria Consolidada MTE nº 1/2025) são prestadas ao eSocial preenchendo apenas a quantidade de horas semanais, a escala de trabalho e o regime de tempo parcial. As demais informações seguem o Manual de Orientação do eSocial (MOS).
+P: Regra transitória para o eSocial || Informar só horas semanais, escala e tempo parcial || Demais dados conforme o MOS
+K: eSocial; horário de trabalho; Portaria Consolidada MTE nº 1/2025; Manual de Orientação do eSocial; tempo parcial
+
+@PMTE 19
+I: O artigo revoga o § 2º do art. 58 da Portaria MTP nº 671/2021, a portaria consolidada de normas trabalhistas infralegais, para adequá-la ao novo regime de jornada e descanso.
+P: Revoga o § 2º do art. 58 da Portaria MTP nº 671/2021
+K: revogação; Portaria MTP nº 671/2021; cláusula revogatória
+
+@PMTE 20
+I: A Portaria convive com a Portaria MTP nº 671/2021, que continua aplicável. Na falta de regra específica nesta Portaria, valem as disposições daquela, salvo o dispositivo revogado pelo art. 19.
+P: Aplicação conjunta com a Portaria MTP nº 671/2021 || Sem revogação geral da norma anterior
+K: Portaria MTP nº 671/2021; aplicação conjunta; complementaridade
+
+@PMTE 21
+I: A Portaria entrou em vigor na data da publicação, ocorrida no Diário Oficial da União de 23 de novembro de 2026, sem vacatio. As obrigações materiais da redução de jornada e dos dois repousos seguem os marcos do art. 16 (16/12/2026 e 16/12/2027).
+P: Vigência na data da publicação (DOU de 23/11/2026) || Obrigações seguem o cronograma do art. 16
+K: vigência; publicação; Diário Oficial da União; cláusula de vigência

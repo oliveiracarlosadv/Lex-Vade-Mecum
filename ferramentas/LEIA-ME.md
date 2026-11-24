@@ -144,6 +144,10 @@ python3 ferramentas/atualizar.py --lei ced-oab --texto texto.txt
 
 Esta norma entra na conferência autônoma (`conferencia-local.mjs`), que baixa o PDF da OAB a cada execução.
 
+## Portaria MTE nº 2.041/2026 (`fontes/portaria-mte-2041/`, `"tipo": "legisweb"`)
+
+Texto da página do LegisWeb indicada pelo curador (o site do DOU, in.gov.br, recusou o download direto e não abriu no navegador embutido em 24/11/2026). Montagem igual à do Código Tributário de Belém (abaixo): `extrair-legisweb.py` e `atualizar.py`. O preâmbulo é um dispositivo (`"preamble": true`) e o texto termina antes da assinatura ("LUIZ MARINHO", grafada "LUIZ MARINHOQUEBRA" na fonte). Entra na conferência autônoma como as demais normas `legisweb`.
+
 ## Código Tributário de Belém (`fontes/ctm-belem/`, `"tipo": "legisweb"`)
 
 Primeira norma municipal do acervo. O texto vem da compilação do LegisWeb (link em `config.json`), indicada pelo curador, e não do Diário Oficial do Município. O download direto da página funciona; para remontar o texto:
