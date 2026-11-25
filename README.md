@@ -129,3 +129,11 @@ Carlos Alexandre Albuquerque Oliveira acredita que o Direito evolui quando conhe
 - Instagram: [@oliveiracarlosadv](https://www.instagram.com/oliveiracarlosadv)
 - E-mail: carlos.0109adv@gmail.com
 - Telefone: (91) 9 86061300
+
+## Licença
+
+Conteúdo licenciado sob a [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](LICENSE) — © 2026 Carlos Alexandre Albuquerque Oliveira. Você pode compartilhar e adaptar, inclusive para fins comerciais, desde que dê o crédito: **Carlos Alexandre Albuquerque Oliveira** (com link para este repositório e para a licença) e indique se houve alterações.
+
+O nome, a marca e o logotipo do projeto **não** estão incluídos na licença e não podem ser usados para sugerir endosso ou vínculo sem autorização.
+
+Os textos legais em si são atos oficiais e não têm proteção de direito autoral (Lei 9.610/1998, art. 8º, IV). A CC BY 4.0 cobre a organização, a formatação e as análises por artigo deste repositório.
